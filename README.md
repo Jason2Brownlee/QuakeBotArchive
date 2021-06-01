@@ -9,5 +9,8 @@ The Reaper Bot | Steven Polge | [reaprb81.zip](bin/reaprb81.zip) | [YouTube](htt
 Zeus Bot | Jonathan E. Wright aka "Nelno the Amoeba" | [zeus205.zip](bin/zeus205.zip) | [YouTube](https://www.youtube.com/playlist?list=PLlacmd6lus1yvlPmrdFQkPUhdxTvuVc1d)
 FrikBotX (FBX) | Ryan Smith aka "Frika C" | [fbxa.zip](bin/fbxa.zip) | [YouTube](https://www.youtube.com/playlist?list=PLlacmd6lus1wrqD3qYhBD0UBWKcE9HIFK)
 Frogbot | Robert Field | [frogbot013.zip](bin/frogbot013.zip) | [YouTube](https://www.youtube.com/playlist?list=PLlacmd6lus1zaLPfmTUeA6cnknEulKnkk)
-
+BGBot | "Punisher" | [bgbot20a.zip](bin/bgbot20a.zip) | [YouTube](https://www.youtube.com/playlist?list=PLlacmd6lus1zrH6QFQa5D2So7dkTs6s3K)
+Cronos Bot | "Cronos" | [cronobot.zip](bin/cronobot.zip) | [YouTube](https://www.youtube.com/playlist?list=PLlacmd6lus1ysb4gCa6kmp4sruFzI2hb5)
+The Oak | John Crickett and Neil Henderson | [oak0405.zip](bin/oak0405.zip) | [YouTube](https://www.youtube.com/playlist?list=PLlacmd6lus1zfHpXFIu5ro9B9w3tEF2Cq)
+Tutor Bot | Darryl Atchison aka "coffee" | [tutor.zip](bin/tutor.zip) | soon...
 
