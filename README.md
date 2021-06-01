@@ -2,7 +2,7 @@
 
 This project is my attempt to locate, archive/mirror, and playtest every quake 1 bot that I can find.
 
-![Quake Bot Genealogy][mindmap/QuakeBots.png]
+![Quake Bot Genealogy](mindmap/QuakeBots.png)
 
 Bot Name | Bot Author(s) | File | Playtested | Video
 --- | --- | --- | --- | ---
