@@ -14,6 +14,6 @@ Cronos Bot | "Cronos" | [cronobot.zip](bin/cronobot.zip) | [YouTube](https://www
 The Oak | John Crickett and Neil Henderson | [oak0405.zip](bin/oak0405.zip) | [YouTube](https://www.youtube.com/playlist?list=PLlacmd6lus1zfHpXFIu5ro9B9w3tEF2Cq)
 Tutor Bot | Darryl Atchison aka "coffee" | [tutor.zip](bin/tutor.zip) | recorded
 Roam Bot | Carson Sutton aka "Crimson" | [roambot1.zip](bin/roambot1.zip) | recorded
-Darkbot | Terry Hendrix aka "Dark_Skye" | [drkbt11b.zip](bin/drkbt11b.zip)
+Darkbot | Terry Hendrix aka "Dark_Skye" | [drkbt11b.zip](bin/drkbt11b.zip) | recorded
 
 
