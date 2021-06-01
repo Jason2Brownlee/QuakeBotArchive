@@ -17,5 +17,6 @@ Roam Bot | Carson Sutton aka "Crimson" | [roambot1.zip](bin/roambot1.zip) | Yes 
 Darkbot | Terry Hendrix aka "Dark_Skye" | [drkbt11b.zip](bin/drkbt11b.zip) | Yes |
 DM Bot | Nathaniel Gorham | [dmbot1.zip](bin/dmbot1.zip) | Yes |
 BGADM Bot | "Detour" | [bgadm101.zip](bin/bgadm101.zip) | Yes |
-BPlayer | "Wolf" | [bplayer2.zip](bin/bplayer2.zip) | Yes |
+Bot Player (BPlayer) | "Wolf" | [bplayer2.zip](bin/bplayer2.zip) | Yes |
+Swimming Bot (Swimbot) | Greg Fukui aka "baloo the bear" | [swbot104.zip](bin/swbot104.zip) | Yes |
 
