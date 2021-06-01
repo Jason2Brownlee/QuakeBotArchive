@@ -15,5 +15,6 @@ The Oak | John Crickett and Neil Henderson | [oak0405.zip](bin/oak0405.zip) | [Y
 Tutor Bot | Darryl Atchison aka "coffee" | [tutor.zip](bin/tutor.zip) | recorded
 Roam Bot | Carson Sutton aka "Crimson" | [roambot1.zip](bin/roambot1.zip) | recorded
 Darkbot | Terry Hendrix aka "Dark_Skye" | [drkbt11b.zip](bin/drkbt11b.zip) | recorded
+DM Bot | Nathaniel Gorham | [dmbot1.zip](bin/dmbot1.zip) | recorded
 
 
