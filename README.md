@@ -8,6 +8,6 @@ Omicron Bot | J.M.P. van Waveren aka "Mr. Elusive" | [obots102.zip](bin/obots102
 The Reaper Bot | Steven Polge | [reaprb81.zip](bin/reaprb81.zip) | [YouTube](https://www.youtube.com/playlist?list=PLlacmd6lus1wwdTeHuQbiWSC-vaelGxYC)
 Zeus Bot | Jonathan E. Wright aka "Nelno the Amoeba" | [zeus205.zip](bin/zeus205.zip) | [YouTube](https://www.youtube.com/playlist?list=PLlacmd6lus1yvlPmrdFQkPUhdxTvuVc1d)
 FrikBotX (FBX) | Ryan Smith aka "Frika C" | [fbxa.zip](bin/fbxa.zip) | [YouTube](https://www.youtube.com/playlist?list=PLlacmd6lus1wrqD3qYhBD0UBWKcE9HIFK)
-
+Frogbot | Robert Field | [frogbot013.zip](bin/frogbot013.zip) | [YouTube](https://www.youtube.com/playlist?list=PLlacmd6lus1zaLPfmTUeA6cnknEulKnkk)
 
 
