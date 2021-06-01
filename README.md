@@ -22,6 +22,7 @@ Swimming Bot (Swimbot) | Greg Fukui aka "baloo the bear" | [swbot104.zip](bin/sw
 TM Bot | Micheal Polucha and Tim Polucha | [tmbot11.zip](bin/tmbot11.zip) | Yes |
 Cujo | Jonathan E. Wright | [cujo14.zip](bin/cujo14.zip) | Yes |
 Ogre Bot | "Lava Man" | [ogrebot.zip](bin/ogrebot.zip) | Yes |
+Trevor McDoanld Bot (TrevBot) | Kris O'Shea | [trevbot.zip](bin/trevbot.zip) | Yes |
 
 
 
