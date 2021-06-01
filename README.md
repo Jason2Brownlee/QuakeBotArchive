@@ -19,4 +19,7 @@ DM Bot | Nathaniel Gorham | [dmbot1.zip](bin/dmbot1.zip) | Yes |
 BGADM Bot | "Detour" | [bgadm101.zip](bin/bgadm101.zip) | Yes |
 Bot Player (BPlayer) | "Wolf" | [bplayer2.zip](bin/bplayer2.zip) | Yes |
 Swimming Bot (Swimbot) | Greg Fukui aka "baloo the bear" | [swbot104.zip](bin/swbot104.zip) | Yes |
+TM Bot | Micheal Polucha and Tim Polucha | [tmbot11.zip](bin/tmbot11.zip) | Yes |
+
+
 
