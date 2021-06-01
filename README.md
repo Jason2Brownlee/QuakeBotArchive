@@ -2,7 +2,7 @@
 
 This project is my attempt to locate, archive/mirror, and playtest every quake 1 bot that I can find.
 
-Bot Name | Bot Author(s) | File | Playtest | Video
+Bot Name | Bot Author(s) | File | Playtested | Video
 --- | --- | --- | --- | ---
 Omicron Bot | J.M.P. van Waveren aka "Mr. Elusive" | [obots102.zip](bin/obots102.zip) | Yes | [YouTube](https://www.youtube.com/playlist?list=PLlacmd6lus1yDzQhKmIZr3ljfdRblvwwu)
 The Reaper Bot | Steven Polge | [reaprb81.zip](bin/reaprb81.zip) | Yes | [YouTube](https://www.youtube.com/playlist?list=PLlacmd6lus1wwdTeHuQbiWSC-vaelGxYC)
@@ -20,6 +20,7 @@ BGADM Bot | "Detour" | [bgadm101.zip](bin/bgadm101.zip) | Yes |
 Bot Player (BPlayer) | "Wolf" | [bplayer2.zip](bin/bplayer2.zip) | Yes |
 Swimming Bot (Swimbot) | Greg Fukui aka "baloo the bear" | [swbot104.zip](bin/swbot104.zip) | Yes |
 TM Bot | Micheal Polucha and Tim Polucha | [tmbot11.zip](bin/tmbot11.zip) | Yes |
+Cujo | Jonathan E. Wright | [cujo14.zip](bin/cujo14.zip) | Yes |
 
 
 
