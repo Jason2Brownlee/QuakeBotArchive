@@ -21,6 +21,7 @@ Bot Player (BPlayer) | "Wolf" | [bplayer2.zip](bin/bplayer2.zip) | Yes |
 Swimming Bot (Swimbot) | Greg Fukui aka "baloo the bear" | [swbot104.zip](bin/swbot104.zip) | Yes |
 TM Bot | Micheal Polucha and Tim Polucha | [tmbot11.zip](bin/tmbot11.zip) | Yes |
 Cujo | Jonathan E. Wright | [cujo14.zip](bin/cujo14.zip) | Yes |
+Ogre Bot | "Lava Man" | [ogrebot.zip](bin/ogrebot.zip) | Yes |
 
 
 
