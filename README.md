@@ -3,7 +3,7 @@
 This project is my attempt to locate, archive/mirror, and playtest every quake 1 bot that I can find.
 
 Bot Name | Bot Author(s) | File | Playtest | Video
---- | --- | --- | ---
+--- | --- | --- | --- | ---
 Omicron Bot | J.M.P. van Waveren aka "Mr. Elusive" | [obots102.zip](bin/obots102.zip) | Yes | [YouTube](https://www.youtube.com/playlist?list=PLlacmd6lus1yDzQhKmIZr3ljfdRblvwwu)
 The Reaper Bot | Steven Polge | [reaprb81.zip](bin/reaprb81.zip) | Yes | [YouTube](https://www.youtube.com/playlist?list=PLlacmd6lus1wwdTeHuQbiWSC-vaelGxYC)
 Zeus Bot | Jonathan E. Wright aka "Nelno the Amoeba" | [zeus205.zip](bin/zeus205.zip) | Yes | [YouTube](https://www.youtube.com/playlist?list=PLlacmd6lus1yvlPmrdFQkPUhdxTvuVc1d)
