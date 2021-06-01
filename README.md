@@ -2,6 +2,8 @@
 
 This project is my attempt to locate, archive/mirror, and playtest every quake 1 bot that I can find.
 
+![Quake Bot Genealogy][mindmap/QuakeBots.png]
+
 Bot Name | Bot Author(s) | File | Playtested | Video
 --- | --- | --- | --- | ---
 Omicron Bot | J.M.P. van Waveren aka "Mr. Elusive" | [obots102.zip](bin/obots102.zip) | Yes | [YouTube](https://www.youtube.com/playlist?list=PLlacmd6lus1yDzQhKmIZr3ljfdRblvwwu)
