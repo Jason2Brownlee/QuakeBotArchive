@@ -16,5 +16,6 @@ Tutor Bot | Darryl Atchison aka "coffee" | [tutor.zip](bin/tutor.zip) |
 Roam Bot | Carson Sutton aka "Crimson" | [roambot1.zip](bin/roambot1.zip) |
 Darkbot | Terry Hendrix aka "Dark_Skye" | [drkbt11b.zip](bin/drkbt11b.zip) |
 DM Bot | Nathaniel Gorham | [dmbot1.zip](bin/dmbot1.zip) |
-BGADM Bot | Detour | [bgadm101.zip](bin/bgadm101.zip) |
+BGADM Bot |" Detour" | [bgadm101.zip](bin/bgadm101.zip) |
+BPlayer | "Wolf" | [bplayer2.zip](bin/bplayer2.zip) |
 
