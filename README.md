@@ -1,6 +1,6 @@
 # Quake Bot Archive
 
-This project is my attempt to locate, archive/mirror, and play-test every quake 1 bot that I can find.
+This project is my attempt to locate, archive/mirror, and playtest every quake 1 bot that I can find.
 
 Bot Name | Bot Author(s) | File | Playtest
 --- | --- | --- | ---
@@ -13,4 +13,4 @@ BGBot | "Punisher" | [bgbot20a.zip](bin/bgbot20a.zip) | [YouTube](https://www.yo
 Cronos Bot | "Cronos" | [cronobot.zip](bin/cronobot.zip) | [YouTube](https://www.youtube.com/playlist?list=PLlacmd6lus1ysb4gCa6kmp4sruFzI2hb5)
 The Oak | John Crickett and Neil Henderson | [oak0405.zip](bin/oak0405.zip) | [YouTube](https://www.youtube.com/playlist?list=PLlacmd6lus1zfHpXFIu5ro9B9w3tEF2Cq)
 Tutor Bot | Darryl Atchison aka "coffee" | [tutor.zip](bin/tutor.zip) | soon...
-
+Roam Bot | Carson Sutton aka "Crimson" | [roambot1.zip](bin/roambot1.zip) |
