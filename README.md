@@ -35,4 +35,5 @@ Xreaper | ? | xreaperb130.zip | |
 Estep Bot (EsTePBot) | "EsTePaRiO" | [estepbot2eng.zip](bin/estepbot2eng.zip) | Yes |
 ReaperFX Bot | A. W. Johnstone aka "Pob the Impaler" | [reaperfx.zip](bin/reaperfx.zip) | Yes |
 Gideon Bot | Matthew Turvey | [gidbot.zip](bin/gidbot.zip) | Yes |
+Squirt Bot | Michael Buettner aka "Squirt" | [squirt13.zip](bin/squirt13.zip) | Yes |
 
