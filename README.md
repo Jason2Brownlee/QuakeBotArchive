@@ -1,6 +1,6 @@
 # Quake Bot Archive
 
-This project is my attempt to locate, archive/mirror, and playtest every quake 1 bot that I can find.
+This project is an attempt to locate, archive/mirror, and playtest every Quake bot (QuakeC mod) that I can find. Client-side bots, quake world bots, quake engine bots, and mods that "have a bot as well" are out of scope.
 
 ## Quake Bot Genealogy
 
@@ -47,6 +47,8 @@ DOBBSBot | Stephen Dobbs | dobbsbot15b.zip | No
 GYPObot | Stephen Dobbs | [gypobot.zip](bin/gypobot.zip) | Yes
 Square Bot | "ZeO" | ? | No
 Drastic Reaper Bot | Mark Wheeler | [dreaper.zip](bin/dreaper.zip) | Yes
-Sigmund Bot | Rich Whitehouse aka "thefatal" | [sigbot2.zip](bin/sigbot2.zip) |
+Sigmund Bot | Rich Whitehouse aka "thefatal" | [sigbot2.zip](bin/sigbot2.zip) | Yes
+
+
 
 
