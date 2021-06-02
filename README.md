@@ -33,6 +33,6 @@ Trevor McDoanld Bot (TrevBot) | Kris O'Shea | [trevbot.zip](bin/trevbot.zip) | Y
 Quake Bot (QBot) | ? | [qbot11.zip](bin/qbot11.zip) | Yes |
 Xreaper | ? | xreaperb130.zip | |
 Estep Bot (EsTePBot) | "EsTePaRiO" | [estepbot2eng.zip](bin/estepbot2eng.zip) | Yes |
-
+ReaperFX Bot | A. W. Johnstone aka "Pob the Impaler" | [reaperfx.zip](bin/reaperfx.zip) | Yes |
 
 
