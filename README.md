@@ -4,10 +4,14 @@ This project is my attempt to locate, archive/mirror, and playtest every quake 1
 
 ## Quake Bot Genealogy
 
+An estimated quake bot genealogy.
+
 ![Quake Bot Genealogy](mindmap/QuakeBots.png)
 
 
 ## Quake Bot List
+
+A complete list of quake 1 bots.
 
 Bot Name | Bot Author(s) | File | Playtested
 --- | --- | --- | ---
@@ -40,5 +44,7 @@ Paddybot | "sniper" | paddybot02.zip | No
 Elfbot | "SkinSki" | [elfbot.zip](bin/elfbot.zip) | Yes
 Koolio Bot | "Koolio" | ? | No
 DOBBSBot | Stephen Dobbs | dobbsbot15b.zip | No
-GYPObot | Stephen Dobbs | [gypobot.zip](gypobot.zip) | Yes
+GYPObot | Stephen Dobbs | [gypobot.zip](bin/gypobot.zip) | Yes
+Square Bot | "ZeO" | ? | No
+
 
