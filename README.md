@@ -37,5 +37,7 @@ ReaperFX Bot | A. W. Johnstone aka "Pob the Impaler" | [reaperfx.zip](bin/reaper
 Gideon Bot | Matthew Turvey | [gidbot.zip](bin/gidbot.zip) | Yes |
 Squirt Bot | Michael Buettner aka "Squirt" | [squirt13.zip](bin/squirt13.zip) | Yes |
 Paddybot | "sniper" | paddybot02.zip | |
-Elfbot | "SkinSki" | [elfbot.zip](bin/elfbot.zip) | |
+Elfbot | "SkinSki" | [elfbot.zip](bin/elfbot.zip) | Yes |
+Koolio Bot | "Koolio" | ? | |
+
 
