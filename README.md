@@ -30,11 +30,12 @@ TM Bot | Micheal Polucha and Tim Polucha | [tmbot11.zip](bin/tmbot11.zip) | Yes 
 Cujo | Jonathan E. Wright | [cujo14.zip](bin/cujo14.zip) | Yes |
 Ogre Bot | "Lava Man" | [ogrebot.zip](bin/ogrebot.zip) | Yes |
 Trevor McDoanld Bot (TrevBot) | Kris O'Shea | [trevbot.zip](bin/trevbot.zip) | Yes |
-Quake Bot (QBot) | ? | [qbot11.zip](bin/qbot11.zip) | Yes |
+Quake Bot (QBot) | "Grinder" | [qbot11.zip](bin/qbot11.zip) | Yes |
 Xreaper | ? | xreaperb130.zip | |
 Estep Bot (EsTePBot) | "EsTePaRiO" | [estepbot2eng.zip](bin/estepbot2eng.zip) | Yes |
 ReaperFX Bot | A. W. Johnstone aka "Pob the Impaler" | [reaperfx.zip](bin/reaperfx.zip) | Yes |
 Gideon Bot | Matthew Turvey | [gidbot.zip](bin/gidbot.zip) | Yes |
 Squirt Bot | Michael Buettner aka "Squirt" | [squirt13.zip](bin/squirt13.zip) | Yes |
 Paddybot | "sniper" | paddybot02.zip | |
+Elfbot | "SkinSki" | [elfbot.zip](bin/elfbot.zip) | |
 
