@@ -46,5 +46,6 @@ Koolio Bot | "Koolio" | ? | No
 DOBBSBot | Stephen Dobbs | dobbsbot15b.zip | No
 GYPObot | Stephen Dobbs | [gypobot.zip](bin/gypobot.zip) | Yes
 Square Bot | "ZeO" | ? | No
+Drastic Reaper Bot | Mark Wheeler | [dreaper.zip](bin/dreaper.zip) | Yes
 
 
