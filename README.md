@@ -40,5 +40,5 @@ Paddybot | "sniper" | paddybot02.zip | No
 Elfbot | "SkinSki" | [elfbot.zip](bin/elfbot.zip) | Yes
 Koolio Bot | "Koolio" | ? | No
 DOBBSBot | Stephen Dobbs | dobbsbot15b.zip | No
-
+GYPObot | Stephen Dobbs | [gypobot.zip](gypobot.zip) | Yes
 
