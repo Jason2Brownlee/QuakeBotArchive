@@ -48,7 +48,7 @@ GYPObot | Stephen Dobbs | [gypobot.zip](bin/gypobot.zip) | Yes
 Square Bot | "ZeO" | ? | No
 Drastic Reaper Bot | Mark Wheeler | [dreaper.zip](bin/dreaper.zip) | Yes
 Sigmund Bot | Rich Whitehouse aka "thefatal" | [sigbot2.zip](bin/sigbot2.zip) | Yes
-Indecisive Bot (Gyrobot) | Aaron Logue aka "Gyro Gearloose" | [gyrobot.zip](bin/) | Yes
+Indecisive Bot (Gyrobot) | Aaron Logue aka "Gyro Gearloose" | [gyrobot.zip](bin/gyrobot.zip) | Yes
 ClanBots | "slug" | ClanV0.7HMan.zip | No
 
 
