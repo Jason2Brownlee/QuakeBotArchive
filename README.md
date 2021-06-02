@@ -2,7 +2,12 @@
 
 This project is my attempt to locate, archive/mirror, and playtest every quake 1 bot that I can find.
 
+## Quake Bot Genealogy
+
 ![Quake Bot Genealogy](mindmap/QuakeBots.png)
+
+
+## Quake Bot List
 
 Bot Name | Bot Author(s) | File | Playtested | Video
 --- | --- | --- | --- | ---
@@ -26,6 +31,7 @@ Cujo | Jonathan E. Wright | [cujo14.zip](bin/cujo14.zip) | Yes |
 Ogre Bot | "Lava Man" | [ogrebot.zip](bin/ogrebot.zip) | Yes |
 Trevor McDoanld Bot (TrevBot) | Kris O'Shea | [trevbot.zip](bin/trevbot.zip) | Yes |
 Quake Bot (QBot) | ? | [qbot11.zip](bin/qbot11.zip) | Yes |
+Xreaper | ? | xreaperb130.zip | |
 
 
 
