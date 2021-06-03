@@ -57,4 +57,4 @@ Reapa | Terry Hendrix II aka "Mongoose" | ?
 Eliminator Bot (CBOT) | Cameron B. Newham | [elim14.zip](bin/elim14.zip)
 Eliminator Bot v1 | Jon Down aka "Perged" | [elim141.zip](bin/elim141.zip)
 Eliminator Bot v2 | Jon Down aka "Perged" and P. T. Craig aka "FuzzKatT" | Elim20b7.zip
-
+Doombot (Bot Skeleton) | Roscoe A. Sincero aka "Legion" | [btsk23.zip](bin/btsk23.zip)
