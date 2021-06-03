@@ -54,5 +54,5 @@ GuardBot | Peter van Wingerden | [grdbot23.zip](bin/grdbot23.zip)
 Navy SEALs sQuad bots | William van der Sterren | [nseal201.zip](bin/nseal201.zip)
 DJBot | "DJ" | ?
 Reapa | Terry Hendrix II aka "Mongoose" | ?
-
+Eliminator Bot | Jon Down aka "Perged" and P. T. craig aka "FuzzKatT" | Elim20b7.zip
 
