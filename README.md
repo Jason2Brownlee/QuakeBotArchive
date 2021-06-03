@@ -51,6 +51,7 @@ Sigmund Bot | Rich Whitehouse aka "thefatal" | [sigbot2.zip](bin/sigbot2.zip) | 
 Indecisive Bot (Gyrobot) | Aaron Logue aka "Gyro Gearloose" | [gyrobot.zip](bin/gyrobot.zip) | Yes
 ClanBots | "slug" | ClanV0.7HMan.zip | No
 GuardBot | Peter van Wingerden | [grdbot23.zip](bin/grdbot23.zip) | Yes
+Navy SEALs sQuad bots | William van der Sterren | [nseal201.zip](bin/nseal201.zip) | Yes
 
 
 
