@@ -45,7 +45,7 @@ Elfbot | "SkinSki" | [elfbot.zip](bin/elfbot.zip) | Yes
 Koolio Bot | "Koolio" | ? | No
 DOBBSBot | Stephen Dobbs | dobbsbot15b.zip | No
 GYPObot | Stephen Dobbs | [gypobot.zip](bin/gypobot.zip) | Yes
-Square Bot | "ZeO" | ? | No
+Square Bot | Ashley Reynolds aka "ZeO" | ? | No
 Drastic Reaper Bot | Mark Wheeler | [dreaper.zip](bin/dreaper.zip) | Yes
 Sigmund Bot | Rich Whitehouse aka "thefatal" | [sigbot2.zip](bin/sigbot2.zip) | Yes
 Indecisive Bot (Gyrobot) | Aaron Logue aka "Gyro Gearloose" | [gyrobot.zip](bin/gyrobot.zip) | Yes
