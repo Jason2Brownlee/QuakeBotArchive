@@ -53,6 +53,7 @@ ClanBots | "slug" | ClanV0.7HMan.zip | No
 GuardBot | Peter van Wingerden | [grdbot23.zip](bin/grdbot23.zip) | Yes
 Navy SEALs sQuad bots | William van der Sterren | [nseal201.zip](bin/nseal201.zip) | Yes
 DJBot | "DJ" | ? | No
+Reapa | Terry Hendrix II aka "Mongoose" | ? | No
 
 
 
