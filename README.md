@@ -11,7 +11,7 @@ An estimated quake bot genealogy.
 
 ## Quake Bot List
 
-A complete list of quake bot names, authors, and local download links.
+A complete list of quake bot names, authors, and local download links (where possible).
 
 Bot Name | Bot Author(s) | File
 --- | --- | ---
@@ -54,5 +54,7 @@ GuardBot | Peter van Wingerden | [grdbot23.zip](bin/grdbot23.zip)
 Navy SEALs sQuad bots | William van der Sterren | [nseal201.zip](bin/nseal201.zip)
 DJBot | "DJ" | ?
 Reapa | Terry Hendrix II aka "Mongoose" | ?
-Eliminator Bot | Jon Down aka "Perged" and P. T. craig aka "FuzzKatT" | Elim20b7.zip
+Eliminator Bot (CBOT) | Cameron B. Newham | [elim14.zip](bin/elim14.zip)
+Eliminator Bot v1 | Jon Down aka "Perged" | [elim141.zip](bin/elim141.zip)
+Eliminator Bot v2 | Jon Down aka "Perged" and P. T. Craig aka "FuzzKatT" | Elim20b7.zip
 
