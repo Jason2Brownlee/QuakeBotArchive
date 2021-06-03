@@ -11,7 +11,7 @@ An estimated quake bot genealogy.
 
 ## Quake Bot List
 
-A complete list of quake bots.
+A complete list of quake bot names, authors, and local download links.
 
 Bot Name | Bot Author(s) | File | Playtested
 --- | --- | --- | ---
