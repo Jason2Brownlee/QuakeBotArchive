@@ -23,6 +23,7 @@ Bot Player (BPlayer) | "Wolf" | [bplayer2.zip](bin/bplayer2.zip)
 ClanBots | "slug" | ClanV0.7HMan.zip
 Cronos Bot | "Cronos" | [cronobot.zip](bin/cronobot.zip)
 CTF Bot | Drew Davidson aka "BZ" | [ctfbot12.zip](bin/ctfbot12.zip)
+CTFBot+ | Anthony Distler aka "*this" | [ctfbotp032399.zip](bin/ctfbotp032399.zip)
 Cujo | Jonathan E. Wright | [cujo14.zip](bin/cujo14.zip)
 Darkbot | Terry Hendrix aka "Dark_Skye" | [drkbt11b.zip](bin/drkbt11b.zip)
 DJBot | "DJ" | ?
@@ -73,3 +74,5 @@ Tutor Bot | Darryl Atchison aka "coffee" | [tutor.zip](bin/tutor.zip)
 Victim Bot | "The TangMaster" | [vbot11.zip](bin/vbot11.zip)
 Xreaper | ? | xreaperb130.zip
 Zeus Bot | Jonathan E. Wright aka "Nelno the Amoeba" | [zeus205.zip](bin/zeus205.zip)
+
+
