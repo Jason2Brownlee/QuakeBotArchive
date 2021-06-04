@@ -46,6 +46,7 @@ Oak Bot | John Crickett and Neil Henderson | [oak0405.zip](bin/oak0405.zip)
 Ogre Bot | "Lava Man" | [ogrebot.zip](bin/ogrebot.zip)
 Omicron Bot | J.M.P. van Waveren aka "Mr. Elusive" | [obots102.zip](bin/obots102.zip)
 Paddybot | "sniper" | paddybot02.zip
+QCBot | Alan Kivlin | ?
 Quake Bot (QBot) | "Grinder" | [qbot11.zip](bin/qbot11.zip)
 Reapa | Terry Hendrix II aka "Mongoose" | ?
 Reaper Bot | Steven Polge | [reaprb81.zip](bin/reaprb81.zip)
@@ -60,3 +61,4 @@ Trevor McDoanld Bot (TrevBot) | Kris O'Shea | [trevbot.zip](bin/trevbot.zip)
 Tutor Bot | Darryl Atchison aka "coffee" | [tutor.zip](bin/tutor.zip)
 Xreaper | ? | xreaperb130.zip
 Zeus Bot | Jonathan E. Wright aka "Nelno the Amoeba" | [zeus205.zip](bin/zeus205.zip)
+
