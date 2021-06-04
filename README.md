@@ -57,6 +57,7 @@ Navy SEALs sQuad bots | William van der Sterren | [nseal201.zip](bin/nseal201.zi
 Oak Bot | John Crickett and Neil Henderson | [oak0405.zip](bin/oak0405.zip)
 Ogre Bot | "Lava Man" | [ogrebot.zip](bin/ogrebot.zip)
 Omicron Bot | Jan Paul van Waveren aka "Mr. Elusive" | [obots102.zip](bin/obots102.zip)
+Omicron Fixes | Joel Baxter aka "Johnny Law" | [obots102-fixed.zip](bin/obots102-fixed.zip)
 Paddybot | "sniper" | paddybot02.zip
 QCBot | Alan Kivlin | ?
 Quake Bot (QBot) | "Grinder" | [qbot11.zip](bin/qbot11.zip)
