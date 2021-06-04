@@ -54,6 +54,7 @@ Reapa | Terry Hendrix II aka "Mongoose" | ?
 Reaper Bot | Steven Polge | [reaprb81.zip](bin/reaprb81.zip)
 ReaperFX Bot | A. W. Johnstone aka "Pob the Impaler" | [reaperfx.zip](bin/reaperfx.zip)
 Roam Bot | Carson Sutton aka "Crimson" | [roambot1.zip](bin/roambot1.zip)
+SamBot | Sam Stephens aka "Spam-man" | [sambot.zip](bin/sambot.zip)
 Sigmund Bot | Rich Whitehouse aka "thefatal" | [sigbot2.zip](bin/sigbot2.zip)
 Square Bot | Ashley Reynolds aka "ZeO" | ?
 Squirt Bot | Michael Buettner aka "Squirt" | [squirt13.zip](bin/squirt13.zip)
