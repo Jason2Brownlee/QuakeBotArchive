@@ -16,7 +16,7 @@ An alphabetical list of quake bot names, authors, and local download links (wher
 Bot Name | Bot Author(s) | File
 --- | --- | ---
 BGADM Bot | "Detour" | [bgadm101.zip](bin/bgadm101.zip)
-BGBot | "Punisher" | [bgbot20a.zip](bin/bgbot20a.zip)
+BGBot | Robert DeFilippo III aka "Punisher" | [bgbot20a.zip](bin/bgbot20a.zip)
 Borg Bot | Calvin Rien | [borg12.zip](bin/borg12.zip)
 Bot Hunt | Douglas H. King aka "Sea4" | [bthnt10.zip](bin/bthnt10.zip)
 Bot Player (BPlayer) | "Wolf" | [bplayer2.zip](bin/bplayer2.zip)
