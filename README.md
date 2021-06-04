@@ -1,6 +1,6 @@
 # Quake Bot Archive
 
-The goal of this project is to locate, archive, and playtest all Quake bot mods (QuakeC modifications). Client-side bots (aimbots), QuakeWorld bots, Quake engine bots, Quake monsters, and mods that "added a bot" are out of scope.
+The goal of this project is to locate, archive, and playtest all Quake bot mods (QuakeC modifications). Client-side bots, QuakeWorld bots, Quake engine bots, Quake monsters, and mods that "have a bot" are out of scope.
 
 ## Quake Bot Genealogy
 
@@ -17,6 +17,7 @@ Bot Name | Bot Author(s) | File
 --- | --- | ---
 BGADM Bot | "Detour" | [bgadm101.zip](bin/bgadm101.zip)
 BGBot | "Punisher" | [bgbot20a.zip](bin/bgbot20a.zip)
+Borg Bot | Calvin Rien | [borg12.zip](bin/borg12.zip)
 Bot Player (BPlayer) | "Wolf" | [bplayer2.zip](bin/bplayer2.zip)
 ClanBots | "slug" | ClanV0.7HMan.zip
 Cronos Bot | "Cronos" | [cronobot.zip](bin/cronobot.zip)
