@@ -22,6 +22,7 @@ Bot Hunt | Douglas H. King aka "Sea4" | [bthnt10.zip](bin/bthnt10.zip)
 Bot Player (BPlayer) | "Wolf" | [bplayer2.zip](bin/bplayer2.zip)
 ClanBots | "slug" | ClanV0.7HMan.zip
 Cronos Bot | "Cronos" | [cronobot.zip](bin/cronobot.zip)
+CTF Bot | Drew Davidson aka "BZ" | [ctfbot12.zip](bin/ctfbot12.zip)
 Cujo | Jonathan E. Wright | [cujo14.zip](bin/cujo14.zip)
 Darkbot | Terry Hendrix aka "Dark_Skye" | [drkbt11b.zip](bin/drkbt11b.zip)
 DJBot | "DJ" | ?
