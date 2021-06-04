@@ -42,6 +42,8 @@ FrikBot X (FBX) | Ryan Smith aka "Frika C" | [fbxb.zip](bin/fbxb.zip)
 FrikBot X+ (FBX+) | Igor9 | fbx+.zip
 FrikBot X++ (FBX++) | Joel Baxter aka "Johnny Law" | [fbx++.zip](bin/fbx++.zip)
 FrikBot | Ryan Smith aka "Frika C" | [frkbt09b.zip](bin/frkbt09b.zip)
+Frog Bot Clan Arena (FBCA) 0.99 Y | "Baker" | [frogbots-099.zip](bin/frogbots-099.zip)
+Frog Bot Clan Arena (FBCA) | "ParboiL" | [fbca102kt.zip](bin/fbca102kt.zip)
 Frogbot | Robert Field | [frogbot013.zip](bin/frogbot013.zip)
 Gideon Bot | Matthew Turvey | [gidbot.zip](bin/gidbot.zip)
 GuardBot | Peter van Wingerden | [grdbot23.zip](bin/grdbot23.zip)
@@ -74,5 +76,3 @@ Tutor Bot | Darryl Atchison aka "coffee" | [tutor.zip](bin/tutor.zip)
 Victim Bot | "The TangMaster" | [vbot11.zip](bin/vbot11.zip)
 Xreaper | ? | xreaperb130.zip
 Zeus Bot | Jonathan E. Wright aka "Nelno the Amoeba" | [zeus205.zip](bin/zeus205.zip)
-
-
