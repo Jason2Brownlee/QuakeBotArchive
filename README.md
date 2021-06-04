@@ -1,6 +1,6 @@
 # Quake Bot Archive
 
-The goal of this project is to locate, archive, and playtest all Quake bot mods (QuakeC modifications). Client-side bots, QuakeWorld bots, Quake engine bots, Quake monsters, and mods that "have a bot" are out of scope.
+The goal of this project is to locate, archive, and playtest all Quake bot mods (QuakeC modifications).
 
 ## Quake Bot Genealogy
 
@@ -49,7 +49,7 @@ MaNiAcBot | Michael Turitzin aka "MaNiAc" | [maniacbt.zip](bin/maniacbt.zip)
 Navy SEALs sQuad bots | William van der Sterren | [nseal201.zip](bin/nseal201.zip)
 Oak Bot | John Crickett and Neil Henderson | [oak0405.zip](bin/oak0405.zip)
 Ogre Bot | "Lava Man" | [ogrebot.zip](bin/ogrebot.zip)
-Omicron Bot | J.M.P. van Waveren aka "Mr. Elusive" | [obots102.zip](bin/obots102.zip)
+Omicron Bot | Jan Paul van Waveren aka "Mr. Elusive" | [obots102.zip](bin/obots102.zip)
 Paddybot | "sniper" | paddybot02.zip
 QCBot | Alan Kivlin | ?
 Quake Bot (QBot) | "Grinder" | [qbot11.zip](bin/qbot11.zip)
