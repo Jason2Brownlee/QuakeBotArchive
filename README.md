@@ -35,6 +35,7 @@ Eliminator Bot (CBOT) | Cameron B. Newham | [elim14.zip](bin/elim14.zip)
 Eliminator Bot v1 | Jon Down aka "Perged" | [elim141.zip](bin/elim141.zip)
 Eliminator Bot v2 | Jon Down aka "Perged" and P. T. Craig aka "FuzzKatT" | Elim20b7.zip
 Estep Bot (EsTePBot) | "EsTePaRiO" | [estepbot2eng.zip](bin/estepbot2eng.zip)
+Frag Bot | Richard Peacock aka "The Goat" | [fragbot.zip](bin/fragbot.zip)
 FrikBotX (FBX) | Ryan Smith aka "Frika C" | [fbxa.zip](bin/fbxa.zip)
 Frogbot | Robert Field | [frogbot013.zip](bin/frogbot013.zip)
 Gideon Bot | Matthew Turvey | [gidbot.zip](bin/gidbot.zip)
@@ -68,3 +69,5 @@ Tutor Bot | Darryl Atchison aka "coffee" | [tutor.zip](bin/tutor.zip)
 Victim Bot | "The TangMaster" | [vbot11.zip](bin/vbot11.zip)
 Xreaper | ? | xreaperb130.zip
 Zeus Bot | Jonathan E. Wright aka "Nelno the Amoeba" | [zeus205.zip](bin/zeus205.zip)
+
+
