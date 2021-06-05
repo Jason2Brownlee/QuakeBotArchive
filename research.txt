@@ -467,7 +467,14 @@ Attacker (helper) bot
 	https://www.quakewiki.net/archives/botarea51/main/history.html
 	https://www.quaddicted.com/files/idgames2/quakec/bots/attacker.txt
 	https://www.quaddicted.com/files/idgames2/quakec/bots/attacker.zip
-
+DarkCTF BOT
+	https://web.archive.org/web/20000831165233/http://planetquake.com/botshop/quake.html
+	https://web.archive.org/web/20000303070145/http://www.botepidemic.com/bots/quake.shtml
+	Terry 'DS' Hendrix
+	extensions of ctf bot
+	http://asp.planetquake.com/dl/dl.asp?/botshop/darkctf13.zip
+	https://dukeworld.com/planetquake/botshop/
+	not compiled
 
 RESEARCHING...
 --------------------------------------------------------------------------------
@@ -481,10 +488,6 @@ TFBot
 	https://www.quakewiki.net/archives/botarea51/main/qbot2e5f.html?id=22
 	same as above?
 	https://web.archive.org/web/19990218040426/http://www.planetquake.com/qca/reviews/patch107.htm
-DarkCTF BOT
-	https://web.archive.org/web/20000831165233/http://planetquake.com/botshop/quake.html
-	https://web.archive.org/web/20000303070145/http://www.botepidemic.com/bots/quake.shtml
-	Terry 'DS' Hendrix
 Requiem QW Bot
 	https://web.archive.org/web/20000303070145/http://www.botepidemic.com/bots/quake.shtml
 	Requiem
@@ -579,6 +582,7 @@ bot area 51
 	https://www.quakewiki.net/archives/botarea51/main/history.html
 bot shop
 	https://web.archive.org/web/20020116204802/http://www.planetquake.com/botshop/quake.html
+	https://www.quakewiki.net/archives/botshop/code.html
 QCA
 	https://web.archive.org/web/20021019163323/http://www.planetquake.com/qca/reviews/
 ai cafe links
