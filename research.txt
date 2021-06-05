@@ -565,10 +565,7 @@ RESEARCHING...
 --------------------------------------------------------------------------------
 
 
-Requiem QW Bot
-	https://web.archive.org/web/20000303070145/http://www.botepidemic.com/bots/quake.shtml
-	Requiem
-	http://www.planetquake.com/requiem
+
 Norsebot
 	http://www.insideqc.com/modindex/qreview/patch7.shtml
 	https://www.gamers.org/pub/idgames2/quakec/bots/btsk23.txt
@@ -659,7 +656,14 @@ Team Fortress Bot / TFBot
 	tfb-v07.zip
 	are there two tfbots???? or three
 	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/readbots.txt
-
+	more research to do here...
+Requiem QW Bot
+	https://web.archive.org/web/20000303070145/http://www.botepidemic.com/bots/quake.shtml
+	Requiem
+	http://www.planetquake.com/requiem
+	https://web.archive.org/web/19981206204028/http://www.planetquake.com/requiem/
+	https://www.quakeworld.nu/wiki/Requiem
+	bots added to a mod I believe
 
 
 

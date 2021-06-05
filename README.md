@@ -94,3 +94,12 @@ File Column:
 - **unlinked** Indicates I discovered the filename but could not find a copy of the file to archive.
 - **($)** Indicates I had to do work like compile, create subdirectories, etc.
 - **(*)** Indicates I could not get it to run or could not spawn a bot.
+
+
+## Have a Correction or Addition?
+
+If you have additional information or updates (e.g. missing bot, bot author full name, newer version of a mod, a missing mod file, src code, etc...) please contact me directly: jason.brownlee05@gmail.com
+
+
+
+
