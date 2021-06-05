@@ -1,0 +1,608 @@
+Quake Bot Research
+
+This file represents the research notes used while identifying and locating quake bots.
+
+It contains mostly useful links and snippets of information discovered along the way.
+
+I expect this information will be useful for future research into specific quake bots or to locate additional quake bots that may be identified.
+
+ADDED
+--------------------------------------------------------------------------------
+
+Omicron Bot
+	https://mrelusive.com/oldprojects/obots/obots.html
+	https://mrelusive.com/oldprojects/obots/ObotDoc/index.htm
+	https://mrelusive.com/oldprojects/obots/ftp/obots102.zip
+	https://neogeographica.com/site/pages/mods/obots.html
+Reaper Bot
+	https://quake.fandom.com/wiki/The_Reaper_Bot
+	https://www.quakewiki.net/archives/botarea51/main/qbot87f1.html?id=14
+	https://www.quaddicted.com/files/idgames2/planetquake/renegade/reaprb81.zip
+	https://web.archive.org/web/20021019163323/http://www.planetquake.com/qca/reviews/patch65.htm
+	reaprb81.zip
+	source code
+		https://web.archive.org/web/20170201010855/http://www.mindspring.com/~win32ch/Source.zip
+	https://mrelusive.com/oldprojects/obots/Comments/Acumen/Reapers.htm
+	decompile reaper
+		http://www.insideqc.com/qctut/rip1.shtml
+ZeusBot
+	https://web.archive.org/web/20020821003701/http://www.planetquake.com/qca/reviews/patch52.htm
+	https://quake.fandom.com/wiki/Zeus_Bot
+	https://www.quaddicted.com/files/idgames2/quakec/bots/zeus205.zip
+	http://easttown.co.uk/quake/zeus.html
+	http://trailerpark.com/phase1/nelno
+FrikBot / FrikBotX / FBX
+	https://web.archive.org/web/20000817070547/http://www.inside3d.com/frikbot/
+	https://www.quakewiki.net/archives/botarea51/main/qbot6258.html?id=21
+	https://web.archive.org/web/20021223155711/http://www.inside3d.com/frikbot/fbx/
+	http://www.dr-shost.com/freqs/dosgam/fbxa.zip
+Frogbot
+	https://web.archive.org/web/20030908211402/prime.telefragged.com/metro/frogbot_intro.shtml
+BGBot
+	https://web.archive.org/web/20030310034438/http://www.planetquake.com/qca/reviews/patch8.htm
+	bgbot20a.zip
+	https://www.quaddicted.com/files/idgames2/quakec/bots/bgbot20a.zip
+	punisher@trojan.neta.com
+	https://www.quaddicted.com/files/idgames2/quakec/weapons/punish.txt
+	Robert DeFilippo III
+	http://www.neta.com/~punisher/
+	https://quake.fandom.com/wiki/Robert_DeFilippo_III
+Cronos Bot
+	http://www.planetquake.com/cronos
+	http://www.clovenhoof.freeserve.co.uk/
+	https://web.archive.org/web/20041216152813if_/http://www.planetquake.com:80/cronos/
+	https://web.archive.org/web/20050112053556/http://dl.fileplanet.com/dl/dl.asp?cronos/hd_cbots.zip
+	https://web.archive.org/web/20050112053556/http://dl.fileplanet.com/dl/dl.asp?cronos/hd_cbots_hd.zip
+	https://www.quakewiki.net/archives/cronos/index89c3.html?links.html
+Oak Bot
+	https://www.bluesnews.com/archives/may97-1.html
+	http://botarea51.impulse9.net/mirror/bot/oak0405_fixed.zip
+	ftp://ftp.stomped.com/pub/redwood/bots/oak0405.zip
+	ftp://ftp.stomped.com/pub/redwood/bots/oak0855.zip
+	https://www.bluesnews.com/files/patches/bots/oak083.zip
+	http://www.telefragged.com/oak/
+	[contacted author directly]
+Tutor Bot / AI cafe
+	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/tutor.htm
+	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/files/tutor.zip
+Roambot
+	CARSON SUTTON ("Gwynn" on irc, "Crimson" to quake victims)
+	Carson Sutton aka "Crimson"
+	https://www.quaddicted.com/files/idgames2/quakec/bots/roambot1.txt
+	https://www.quaddicted.com/files/idgames2/quakec/bots/roambot1.zip
+	needed a small fix, make progs directory...
+Dark Bot / Darkbot
+	https://web.archive.org/web/20020124063252/http://www.planetquake.com/botshop/
+	https://web.archive.org/web/20010723184032/http://www.planetquake.com/botshop/code/
+	https://www.quaddicted.com/files/idgames2/quakec/bots/drkbt11b.zip
+	how to use?
+	Terry Hendrix aka "Dark_Skye"
+DM Bot
+	https://www.gamers.org/pub/idgames2/quakec/bots/dmbot1.zip
+	basis for bg bot
+	https://quake.fandom.com/wiki/DM_Bot
+	Nathaniel Gorham
+BGADM Bot
+	Detour
+	https://www.gamers.org/pub/idgames2/quakec/bots/bgadm101.txt
+	https://www.gamers.org/pub/idgames2/quakec/bots/bgadm101.zip
+	I had to compile manually qith qcc...
+BPLAYER - Bot Player
+	https://www.quaddicted.com/files/idgames2/quakec/bots/bplayer2.txt
+	https://www.quaddicted.com/files/idgames2/quakec/bots/bplayer2.zip
+	Wolf
+Swimming Bot
+	baloo the bear (Greg Fukui aka julias_child)
+	https://www.quaddicted.com/files/idgames2/quakec/bots/swbot104.txt
+	https://www.quaddicted.com/files/idgames2/quakec/bots/swbot104.zip
+	had to add shell casing like roambot
+TM Bot
+	https://quake.fandom.com/wiki/TM_Bot
+	https://www.quaddicted.com/files/idgames2/quakec/bots/
+	https://www.quaddicted.com/files/idgames2/quakec/bots/tmbot11.zip
+Cujo Bot (single player)
+	https://web.archive.org/web/20021030231204/http://www.planetquake.com/qca/reviews/patch104.htm
+	https://www.quaddicted.com/files/idgames2/quakec/bots/
+	https://www.quaddicted.com/files/idgames2/quakec/bots/cujo14.zip
+	https://www.quaddicted.com/files/idgames2/quakec/bots/cujo14.txt
+Ogre Bot
+	https://web.archive.org/web/20020821004023/http://www.planetquake.com/qca/reviews/patch102.htm
+	https://www.quaddicted.com/files/idgames2/quakec/bots/ogrebot.zip
+	https://www.quaddicted.com/files/idgames2/quakec/bots/ogrebot.txt
+	Lava Man
+Trevor McDoanld Bot (TrevBot)
+	http://dukeworld.com/idgames2/quakec/bots/trevbot.txt
+	https://www.quaddicted.com/files/idgames2/quakec/bots/trevbot.txt
+	https://www.quaddicted.com/files/idgames2/quakec/bots/trevbot.zip
+	Kris O'Shea
+QuakeBot / WarBot / QBot
+	https://www.quakewiki.net/archives/botarea51/main/qbot9c8a.html?id=23
+	https://www.quaddicted.com/files/idgames2/quakec/bots/qbot11.zip
+	https://www.quaddicted.com/files/idgames2/quakec/bots/qbot11.txt
+	who created this??? Timm Stokke?
+	Grinder
+	https://www.quakewiki.net/archives/botshop/news/quake-2.html
+	http://homer.pacific.net.sg/~grinder/warbot.htm
+	https://web.archive.org/web/20001207140300/http://homer.pacific.net.sg/~grinder/warbot.htm
+Xreaper (reaper bot)
+	https://www.quakewiki.net/archives/botarea51/main/xreaper/default.html
+	https://www.quakewiki.net/archives/botarea51/main/xreaper/revision.html
+	http://www.fileplanet.com/dl.aspx?/planetquake/botarea51/xreaper/xreaperb130.zip
+	http://botarea51.impulse9.net/mirror/xreaper/xreaperb130.zip
+	xreaperb130.zip
+	https://www.quaketerminus.com/bots.shtml
+	Cannot find file...
+	???
+Estep Bot (EsTePBot)
+	by "EsTePaRiO"
+	reaper
+	https://www.gamers.org/pub/idgames2/quakec/bots/estepbot2eng.txt
+	https://www.gamers.org/pub/idgames2/quakec/bots/estepbot2eng.zip
+ReaperFX Bot
+	http://www.randars.com/bots/bots1.html
+	http://www.gamers.org/pub/idgames2/quakec/bots/
+	A. W. Johnstone aka "Pob the Impaler"
+	https://www.gamers.org/pub/idgames2/quakec/bots/reaper/reaperfx.txt
+	https://www.gamers.org/pub/idgames2/quakec/bots/reaper/reaperfx.zip
+	http://www.rmbwenw.nl/botarea51/
+	https://web.archive.org/web/20011215073721/http://www.rmbwenw.nl/botarea51/
+Gideon Bot
+	reaper clone
+	http://www.randars.com/bots/bots1.html
+	https://www.gamers.org/pub/idgames2/quakec/bots/gidbot.txt
+	https://www.gamers.org/pub/idgames2/quakec/bots/gidbot.zip
+	Matthew Turvey
+Squirt Bot
+	https://web.archive.org/web/20001109033100/http://www.users.qwest.net/~mimpchnk/
+	based on tutor
+	https://web.archive.org/web/20010114035500/http://www.geocities.com/TimesSquare/Hangar/8961/
+	https://web.archive.org/web/20010507114916fw_/http://www.geocities.com/TimesSquare/Hangar/8961/squirt13.zip
+	Michael Buettner aka "Squirt"
+	https://www.oocities.org/timessquare/hangar/8961/downloads.html
+	https://www.oocities.org/timessquare/hangar/8961/
+	(geocities mirror)
+Paddybot
+	https://web.archive.org/web/20001109033100/http://www.users.qwest.net/~mimpchnk/
+	based on tutor
+	https://web.archive.org/web/20010114035500/http://members.tripod.lycos.nl/koolpaddy/paddybot/paddybot.htm
+	https://web.archive.org/web/20010622014753/http://members.tripod.lycos.nl/koolpaddy/zips/paddybot02.zip
+	Cannot find file...
+	???
+elf bot
+	https://web.archive.org/web/20001109033100/http://www.users.qwest.net/~mimpchnk/
+	based on tutor
+	https://web.archive.org/web/20010114035500/http://www.planetquake.com/elf/
+	https://web.archive.org/web/20010226150238/http://www.planetquake.com/elf/mods.htm
+	https://web.archive.org/web/20010228173520/http://www.planetquake.com/elf/elfbot.htm
+	elfbot.zip
+	https://www.quaddicted.com/files/idgames2/planetquake/elf/
+Koolio Bot / KoolioBot / Koolio Arena Bot
+	https://web.archive.org/web/20001109033100/http://www.users.qwest.net/~mimpchnk/
+	based on tutor
+	https://web.archive.org/web/20010114035500/http://www.botepidemic.com/koolio/
+	"Koolio"
+	koolio@botepidemic.com
+	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/tutorial/locdam.htm
+	http://www.planetkoolio.com/
+	https://web.archive.org/web/20010304020445/http://www.planetkoolio.com/projects.shtml
+	???
+DOBBSBot
+	https://web.archive.org/web/20001109033100/http://www.users.qwest.net/~mimpchnk/
+	based on tutor
+	https://web.archive.org/web/20010114035500/http://www.dobbsnet.co.uk/dobbsbot.htm
+	http://www.dobbsnet.btinternet.co.uk/downloads/quake/dobbsbot15b.zip
+	DOBBSbot v1.5b
+	cannot locate
+	???
+GYPOBot
+	https://web.archive.org/web/20001109033100/http://www.users.qwest.net/~mimpchnk/
+	based on tutor
+	https://web.archive.org/web/20010114035500/http://www.dobbsnet.co.uk/gypobot.htm
+	https://web.archive.org/web/20010501075107/http://www.dobbsnet.co.uk/add-ons/quake/gypobot.htm
+	https://web.archive.org/web/20010501075107/http://www.dobbsnet.btinternet.co.uk/downloads/quake/gypobot.zip
+	stephen.dobbs@btinternet.com
+Square Bot
+	https://web.archive.org/web/20010129031600fw_/http://www.users.qwest.net/~mimpchnk/review.htm
+	based on tutor
+	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/news.htm
+	ZeO
+	ze0@botepidemic.com
+	https://www.quake-info-pool.net/news1999.htm
+	http://www.botepidemic.com/square/
+	was hosted, but was removed...
+	https://web.archive.org/web/19990208011826/http://www.botepidemic.com/
+	????
+	https://web.archive.org/web/20000303070145/http://www.botepidemic.com/bots/quake.shtml
+	Ashley 'Ze0' Reynolds
+Drastic Reaper Bot
+	https://web.archive.org/web/20001109033100/http://www.users.qwest.net/~mimpchnk/
+	- reaper
+	https://web.archive.org/web/20010114035500/ftp://ftp.cdrom.com/pub/quake/quakec/bots/dreaper.zip
+	Drastic Reaper Bot
+	Mark Wheeler
+	https://www.quaddicted.com/files/idgames2/quakec/bots/dreaper.txt
+	https://www.quaddicted.com/files/idgames2/quakec/bots/dreaper.zip
+Sigmund Bot
+	https://web.archive.org/web/20001109033100/http://www.users.qwest.net/~mimpchnk/
+	https://web.archive.org/web/20010114035500/http://www.telefragged.com/thefatal/
+	https://web.archive.org/web/20010125121200/http://www.telefragged.com/thefatal/cgi-bin/download.pl?sigbot2.zip
+	https://web.archive.org/web/20010125121200/http://www.telefragged.com/thefatal/cgi-bin/download.pl?sigbtsrc.zip
+	sigbot2.zip
+	https://www.richwhitehouse.com/index.php?content=inc_res.php
+Indecisive Bot / Gyrobot / GyroBot
+	https://web.archive.org/web/20001109033100/http://www.users.qwest.net/~mimpchnk/
+	https://web.archive.org/web/20010114035500/http://www.cryogenius.com/games/quake/qbot.htm
+	gyrobot.zip
+	gbotsrc.zip
+	Aaron "Gyro Gearloose" Logue
+	https://www.quakewiki.net/archives/botarea51/main/qbote371.html?id=18
+ClanBots
+	https://web.archive.org/web/20001109033100/http://www.users.qwest.net/~mimpchnk/
+	https://web.archive.org/web/20010114035500/http://www.users.bigpond.com/clanslug/clanbot.htm
+	https://web.archive.org/web/20010114052600/http://www.users.bigpond.com/clanslug/ClanV0.5Auto.zip
+	http://www.geocities.ws/oldquaker/clanbot/index3.html
+	http://www.users.bigpond.com/clanslug/ClanV0.6Auto.zip
+	http://www.users.bigpond.com/clanslug/ClanV0.7HMan.zip
+	???
+GuardBot
+	https://web.archive.org/web/20000831165233/http://planetquake.com/botshop/quake.html
+	Peter van Wingerden
+	https://www.quaddicted.com/files/idgames2/quakec/bots/grdbot23.txt
+	https://www.quaddicted.com/files/idgames2/quakec/bots/grdbot23.zip
+Navy SEALs sQuad bots
+	William van der Sterren
+		https://web.archive.org/web/20000831165233/http://planetquake.com/botshop/quake.html
+		http://aiwisdom.com/ai_cooperation.html
+		https://www.gamasutra.com/view/feature/131447/terrain_reasoning_for_3d_action_.php
+		https://www.gamasutra.com/view/authors/33077/William_van_der_Sterren.php
+		https://www.scribd.com/document/426971606/Stuff-and-things-and-stuff
+		Navy SEALs sQuad bot
+		sqdbt201.zip
+		sqdbot20.txt
+	Minh Le
+		http://www.planetquake.com/qca/goose/readme.htm
+		https://web.archive.org/web/19990218125007/http://www.planetquake.com/qca/reviews/patch91.htm
+		http://www.planetquake.com/qca/goose
+		maybe just a weapon mod?
+		http://planetquake.gamespy.com/View3fdb.html?view=Quake.Detail&id=63
+		http://planetquake.gamespy.com/View3fdb.html?view=Quake.Detail&id=63#Files
+		https://4pda.to/forum/index.php?showtopic=2418&st=140
+			sqdbot20.txt
+	nseal201.zip
+	I think he added bots to the navy seal mod...
+	old versions (< 2) don't have it
+	http://midnight.chez.com/t_conversion.htm
+	https://www.quaddicted.com/files/idgames2/planetquake/
+	https://www.fileplanet.com/archive/p-2526/NAVY-SEALS-2-0-1
+	http://download.fileplanet.com/ftp1/action/quake/modifications/partial/nseal201.zip?st=UCbTiis7BF51zE3J1v7_bg&e=1622692506
+Dj bot / Djbot / Djbot MK2
+	https://web.archive.org/web/20010129031600fw_/http://www.users.qwest.net/~mimpchnk/review.htm
+	based on tutor
+	little evidence
+	https://web.archive.org/web/20000303070145/http://www.botepidemic.com/bots/quake.shtml
+	http://www.botepidemic.com/quadmire/
+	dj22@botepidemic.com
+	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/links.htm
+	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/news.htm
+	???
+Reapa
+	reaper clone
+	https://web.archive.org/web/20000831165233/http://planetquake.com/botshop/quake.html
+	https://web.archive.org/web/20000303070145/http://www.botepidemic.com/bots/quake.shtml
+	Terry 'DS' Hendrix
+	https://www.quakewiki.net/archives/botshop/code/index.html
+Eliminator (reaper) v2
+	reaper clone
+	https://www.quakewiki.net/archives/botarea51/main/qbot3773.html?id=27
+	http://www.gamers.org/pub/idgames2/quakec/bots/eliminator/
+	Perged & FuzzKatT
+	elim20b7.zip
+	http://www.planetquake.com/eliminator
+	https://web.archive.org/web/19990203024331/http://impact.frag.com/
+	https://web.archive.org/web/19990221085355/http://users.andara.com/~jdown/beta7.txt
+	https://web.archive.org/web/19990203003835fw_/http://www.planetquake.com/eliminator/files.html
+	http://www.ccn.cs.dal.ca/~ae142/
+	https://web.archive.org/web/sitemap/http://users.andara.com/~jdown/
+	http://www.insideqc.com/modindex/qreview/patch7.shtml
+	http://www.chebucto.ns.ca/~ae142/
+Eliminator v1
+	https://www.quakewiki.net/archives/botarea51/main/qbot8bcf.html?id=30
+	Cameron B. Newham
+	elim14.zip
+	elimpack.zip
+	https://www.quaddicted.com/files/idgames2/quakec/bots/eliminator/
+	https://www.quaddicted.com/files/idgames2/quakec/bots/eliminator/elim141.zip
+Eliminator Bot (cbot)
+	elim14.zip
+	http://cd.textfiles.com/swextrav8/swextrav8-2/gamapog1/elim14.zip
+	http://www.iinet.com.au/~cam/quakec.html
+	https://web.archive.org/web/19990117033644/http://www.iinet.com.au/~cam/quakec.html
+	is it reaper? no.
+Doombot
+	https://web.archive.org/web/20000831165233/http://planetquake.com/botshop/quake.html
+	https://web.archive.org/web/20000303070145/http://www.botepidemic.com/bots/quake.shtml
+	Roscoe A. Sincero AKA Legion
+	https://www.quaddicted.com/files/idgames2/quakec/bots/btsk23.txt
+	https://www.quaddicted.com/files/idgames2/quakec/bots/btsk23.zip
+	had to compile
+	dones not compile... Bus error: 10
+	egion@softhome.net
+	http://www.insideqc.com/qctut/rip3.shtml
+	!!!!! (follow-up and ask for his bots...)
+	email addresses:
+		http://www.insideqc.com/modindex/qreview/patch7.shtml
+Elima-Reaper / Elima Reaper
+	http://www.insideqc.com/modindex/qreview/patch9-1.shtml
+	Roscoe A. Sincero
+Killer QCBot
+	http://www.insideqc.com/modindex/qreview/killer.shtml
+	http://www.engr.csulb.edu/~thomason/bot
+	https://www.quaddicted.com/files/idgames2/quakec/bots/kqcbots095b.txt
+	https://www.quaddicted.com/files/idgames2/quakec/bots/kqcbots095b.zip
+	William 'Killer-Sub' Ravaine
+QCBot
+	https://web.archive.org/web/19990221085355/http://users.andara.com/~jdown/beta7.txt
+	Alan Kivlin
+	http://gue-tech.asee.org/quake/qkrmods/
+	https://web.archive.org/web/19980220162256/http://gue-tech.asee.org/quake/qkrmods/
+	https://web.archive.org/web/19990202072322/http://gue-tech.asee.org/quake/qkrmods/
+	https://www.quaddicted.com/files/idgames2/quakec/bots/qcbot003.txt
+	https://www.quaddicted.com/files/idgames2/quakec/bots/qcbot003.zip
+		this is ranking code, not the bot
+	no download...
+	???
+MaNiAcBot
+	https://www.quakewiki.net/archives/botarea51/main/qbotdac1.html?id=32
+	Michael Turitzin aka "MaNiAc"
+	maniacbt.zip
+	https://dukeworld.com/idgames2/quakec/bots/maniacbt.txt
+	https://dukeworld.com/idgames2/quakec/bots/maniacbt.zip
+	I had to use a different app to unzip it
+Victim Bot
+	https://www.quakewiki.net/archives/botarea51/main/qbotd5e8.html?id=34
+	https://www.quaddicted.com/files/idgames2/quakec/bots/vbot11.txt
+	https://www.quaddicted.com/files/idgames2/quakec/bots/vbot11.zip
+Tballman
+	https://www.quakewiki.net/archives/botarea51/main/qbotf62c.html?id=36
+	Mother
+	tballman.zip
+	https://www.quaddicted.com/files/idgames2/quakec/bots/tballman.zip
+	http://fubar.cstp.umkc.edu/quake
+Karnag-Bot / Karnagbot
+	https://www.quakewiki.net/archives/botarea51/main/qbot4411.html?id=37
+	Ken Madlener
+	knbot45.zip
+	https://www.quaddicted.com/files/idgames2/quakec/bots/knbot45.zip
+SamBot
+	https://www.quakewiki.net/archives/botarea51/main/history.html
+	sambot.zip
+	http://quakeone.com/forum/quake-talk/quake-central/9619-torrent-of-900-quake-editors-mods-etc
+	https://www.quaddicted.com/files/idgames2/quakec/bots/sambot.txt
+	https://www.quaddicted.com/files/idgames2/quakec/bots/sambot.zip
+Borg Bot
+	https://www.quakewiki.net/archives/botarea51/main/history.html
+	https://www.quaddicted.com/files/idgames2/quakec/bots/borg12.txt
+	https://www.quaddicted.com/files/idgames2/quakec/bots/borg12.zip
+Bot Hunt
+	https://www.quakewiki.net/archives/botarea51/main/history.html
+	https://www.quaddicted.com/files/idgames2/quakec/bots/bthnt10.txt
+	https://www.quaddicted.com/files/idgames2/quakec/bots/bthnt10.zip
+	Douglas H. King aka "Sea4"
+Frag Bot
+	https://www.quakewiki.net/archives/botarea51/main/history.html
+	https://www.quaddicted.com/files/idgames2/quakec/bots/fragbot.zip
+	Richard Peacock aka "The Goat"
+FrikBot X++ (FBX++)
+	https://steamcommunity.com/sharedfiles/filedetails/?id=123626484
+	https://neogeographica.com/site/pages/mods/fbxpp.html
+	Johnny Law
+	https://s3.amazonaws.com/neogeographica-downloads/mods/fbxpp/fbx%2B%2B.zip
+FrikBot X+ (FBX+) fbx+
+	https://steamcommunity.com/sharedfiles/filedetails/?id=123626484
+	https://neogeographica.com/site/pages/mods/fbxpp.html
+	Igor 9 / igor9
+	https://www.quakeworld.nu/forum/topic/4359/55713/the-definitive-frikbot-waypack/
+	http://tlb.quakedev.com/files/fbxways/variants/fbx+.zip
+	https://www.quakeworld.nu/forum/topic/4135/50289/new-frikbot-waypoints/
+	https://web.archive.org/web/20081228105009/http://tlb.quakedev.com/files/fbxways/variants/
+	http://quakeone.com/forum/quake-mod-releases/works-in-progress/5522-newdm-revival
+	???
+FrikBot
+	http://www.insideqc.com/frikbot/
+	fbx released in 2004
+	http://www.inside3d.com/frikbot/fbx/fbxb.zip
+	https://web.archive.org/web/20000817070547/http://www.inside3d.com/frikbot/
+	http://www.inside3d.com/frikbot/frikbt09.txt
+	http://www.inside3d.com/frikbot/download.shtml?file=frikbot/frkbt09b.zip
+	https://dukeworld.com/telefragged/inside3d/frikbot/
+	https://dukeworld.com/telefragged/inside3d/frikbot/frkbt09b.zip
+	http://www.mdqnet.net/frikbot/
+CTF Bot
+	https://web.archive.org/web/20000831165233/http://planetquake.com/botshop/quake.html
+	https://web.archive.org/web/19990218040426/http://www.planetquake.com/qca/reviews/patch66.htm
+	https://web.archive.org/web/20000303070145/http://www.botepidemic.com/bots/quake.shtml
+	Drew 'BZ' Davidson
+	http://www.insideqc.com/modindex/qreview/patch10.shtml
+	https://www.quaddicted.com/files/idgames2/quakec/bots/ctfbot12.txt
+	https://www.quaddicted.com/files/idgames2/quakec/bots/ctfbot12.zip
+	can't get to work easily...
+CTFBot+
+	https://steamcommunity.com/sharedfiles/filedetails/?id=123626484
+	https://www.quakewiki.net/archives/botarea51/main/qbota9bc.html?id=19
+	https://web.archive.org/web/20000303070145/http://www.botepidemic.com/bots/quake.shtml
+	Anthony '*this' Distler
+	http://www.captured.com/ctfbot
+	https://s3.amazonaws.com/neogeographica-downloads/guides/deathmatch_with_bots/ctfbotp032399.zip
+	https://www.quakewiki.net/archives/ctfbot/
+Frog Bot Clan Arena (FBCA)
+	https://steamcommunity.com/sharedfiles/filedetails/?id=123626484
+	https://web.archive.org/web/20000303070145/http://www.botepidemic.com/bots/quake.shtml
+	https://s3.amazonaws.com/neogeographica-downloads/guides/deathmatch_with_bots/fbca102kt.zip
+	adds frog bots to clean arean mod
+	https://web.archive.org/web/20060210223446if_/http://www.parboil.quakeworld.ru:80/
+	ParboiL
+	http://www.parboil.quakeworld.ru
+	https://github.com/ezQuake/fbca/blob/master/doc/fbca101kt_rus.txt
+FBCA 99
+	http://quakeone.com/proquake/frogbots-099.zip
+	https://steamcommunity.com/sharedfiles/filedetails/?id=123626484
+	http://forums.runecentral.com/viewtopic.php?f=3&t=1494
+	baker
+Omicron version 1.02 (with fixes)
+	Omicron fixed
+	https://steamcommunity.com/sharedfiles/filedetails/?id=123626484
+	https://s3.amazonaws.com/neogeographica-downloads/guides/deathmatch_with_bots/obots102-fixed.zip
+The Lone Gunmen QuakeBOT / TLGBot
+	https://www.quakewiki.net/archives/botarea51/main/history.html
+	http:/www2.eis.net.au/~lcullen/tlg/
+	https://web.archive.org/web/19990125075903/http://203.32.12.18/
+	TLGBot
+	https://www.quaddicted.com/files/idgames2/quakec/monsters/dragon.txt
+	https://www.quaddicted.com/files/idgames2/quakec/bots/tlgbot.txt
+	https://www.quaddicted.com/files/idgames2/quakec/bots/tlgbot.zip
+Attacker (helper) bot
+	https://www.quakewiki.net/archives/botarea51/main/history.html
+	https://www.quaddicted.com/files/idgames2/quakec/bots/attacker.txt
+	https://www.quaddicted.com/files/idgames2/quakec/bots/attacker.zip
+
+
+RESEARCHING...
+--------------------------------------------------------------------------------
+
+
+Team Fortress Bot / TFBot
+	https://web.archive.org/web/20000831165233/http://planetquake.com/botshop/quake.html
+	http://www.planetquake.com/tfbot
+	https://web.archive.org/web/20000303070145/http://www.botepidemic.com/bots/quake.shtml
+TFBot
+	https://www.quakewiki.net/archives/botarea51/main/qbot2e5f.html?id=22
+	same as above?
+	https://web.archive.org/web/19990218040426/http://www.planetquake.com/qca/reviews/patch107.htm
+DarkCTF BOT
+	https://web.archive.org/web/20000831165233/http://planetquake.com/botshop/quake.html
+	https://web.archive.org/web/20000303070145/http://www.botepidemic.com/bots/quake.shtml
+	Terry 'DS' Hendrix
+Requiem QW Bot
+	https://web.archive.org/web/20000303070145/http://www.botepidemic.com/bots/quake.shtml
+	Requiem
+	http://www.planetquake.com/requiem
+Norsebot
+	http://www.insideqc.com/modindex/qreview/patch7.shtml
+	https://www.gamers.org/pub/idgames2/quakec/bots/btsk23.txt
+	not real?
+	???
+DeathBot
+	https://www.quakewiki.net/archives/botarea51/main/history.html
+R Bot
+	https://www.quakewiki.net/archives/botarea51/main/history.html
+NetQuake FBCA
+	https://steamcommunity.com/sharedfiles/filedetails/?id=123626484
+
+
+
+
+OUT OF SCOPE
+--------------------------------------------------------------------------------
+
+GeneBot / Gene Bot
+	quakeworld
+	http://www.randars.com/bots/bots1.html
+	http://www.atomicgamer.com/files/14507/release-3-of-the-quakeworld-genebot-server
+	https://web.archive.org/web/20010124062700/http://www.telefragged.com/thefatal/
+	https://web.archive.org/web/20010113234600/http://www.telefragged.com/thefatal/cgi-bin/download.pl?genbot03.zip
+	https://www.richwhitehouse.com/filemirror/genbot03.zip
+	quake world
+Minion
+	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/minion.htm
+	monster bot
+Decker's Reapers
+	reaper clone
+	http://www.insideqc.com/qctut/rip1.shtml
+		first to merge it with soa and painkiller
+	https://web.archive.org/web/20000831165233/http://planetquake.com/botshop/quake.html
+	https://web.archive.org/web/20000817093218/http://home1.inet.tele.dk/decker/frames.htm
+	https://web.archive.org/web/20000831180537/http://home1.inet.tele.dk/decker/
+	Bent Svendsen aka "Decker"
+	https://www.quaddicted.com/files/idgames2/quakec/bots/pkbot.txt
+	https://www.quaddicted.com/files/idgames2/quakec/bots/pkbot.zip
+		Painkeep Reaper
+	https://www.quaddicted.com/files/idgames2/quakec/bots/hipreap3.zip
+	https://www.quaddicted.com/files/idgames2/quakec/bots/hipreap3.txt
+		soa / Hipnotic pack
+	out of scope
+	reapers added to another mod
+POXbot
+	based on tutor
+	https://www.quaddicted.com/files/idgames2/planetquake/paroxysm/pox04doc.htm
+	just a bot added to a mod
+dragon
+	http://www.insideqc.com/modindex/qreview/drag.shtml
+	https://web.archive.org/web/19990125075903/http://203.32.12.18/
+Mystery Bot
+	http://www.insideqc.com/modindex/qreview/mys.shtml
+	client-side
+tEdBot
+	https://web.archive.org/web/20000303070145/http://www.botepidemic.com/bots/quake.shtml
+	Grant Davies & Ramanan Rajeswaran
+	http://www.labyrinth.net.au/~adsoft
+	https://web.archive.org/web/19990204002002/http://www.labyrinth.net.au/~adsoft/
+	client side
+mikeBot
+	https://web.archive.org/web/19990204002855/http://www.planetquake.com/mikeBot/
+	https://web.archive.org/web/19990127170703/http://www.planetquake.com/mikeBot/table-index.html
+	client side
+stooge bot
+	https://graphics.stanford.edu/~kekoa/stoogebot/about.html
+
+
+
+
+RESOURCES
+--------------------------------------------------------------------------------
+
+quake bot reviews
+	http://www.insideqc.com/modindex/qreview/
+randar's bot page
+	http://www.randars.com/bots/
+	https://web.archive.org/web/20001109033100/http://www.users.qwest.net/~mimpchnk/
+bot epidemic
+	https://web.archive.org/web/20001027075424/http://www.botepidemic.com/bots/quake.shtml
+	https://web.archive.org/web/20000515000000*/http://www.botepidemic.com/bots/quake.shtml
+quake terminus
+	https://www.quaketerminus.com/bots.shtml
+bot area 51
+	https://www.quakewiki.net/archives/botarea51/main/qbots.html
+	https://www.quakewiki.net/archives/botarea51/main/history.html
+bot shop
+	https://web.archive.org/web/20020116204802/http://www.planetquake.com/botshop/quake.html
+QCA
+	https://web.archive.org/web/20021019163323/http://www.planetquake.com/qca/reviews/
+ai cafe links
+	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/links.htm
+file planet bots
+	https://web.archive.org/web/20001213060000/http://www.fileplanet.com/index.asp?section=66
+quake preservation page
+	http://www.geocities.ws/oldquaker/pres1.html
+bot authors
+	https://web.archive.org/web/19990125084913/http://www.botauthors.org/
+
+
+bots (cdrom.com)
+	https://www.quaddicted.com/files/idgames2/quakec/bots
+	https://www.gamers.org/pub/idgames2/quakec/bots/
+bots (cdrom.com)
+	https://www.gamers.org/pub/idgames2/quakec/bots/
+Planet Quake File Mirror
+	http://dukeworld.com/planetquake/
+Planet Quake File Mirror
+	https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/
+	https://www.quaddicted.com/files/idgames2/planetquake/
+telefragged mirror
+	http://dukeworld.duke4.net/telefragged/
+
+
+Deathmatch With Bots (modern guide)
+	http://neogeographica.com/site/pages/guides/deathmatch_with_bots.html
+Deathmatch With Bots (on hundreds of maps) [modern guide]
+	https://steamcommunity.com/sharedfiles/filedetails/?id=123626484
+
