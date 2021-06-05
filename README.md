@@ -31,6 +31,7 @@ Cujo | Jonathan E. Wright | [cujo14.zip](bin/cujo14.zip)
 Darkbot | Terry Hendrix aka "Dark_Skye" | [drkbt11b.zip](bin/drkbt11b.zip)
 DarkCTF Bot | Terry Hendrix II aka "Mongoose" | [darkctf13.zip](bin/darkctf13.zip) (*)($)
 DeathBot | James Boswell aka "FlashFire" | [death-64.zip](bin/death-64.zip)
+Demonshooter | "Shootermaster" | [shooter.zip](bin/shooter.zip)
 DJBot | "DJ" | ?
 DM Bot | Nathaniel Gorham | [dmbot1.zip](bin/dmbot1.zip)
 DOBBSBot | Stephen Dobbs | dobbsbot15b.zip
