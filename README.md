@@ -28,9 +28,9 @@ CTFBot+ | Anthony Distler aka "*this" | [ctfbotp032399.zip](bin/ctfbotp032399.zi
 Cujo | Jonathan E. Wright | [cujo14.zip](bin/cujo14.zip)
 Darkbot | Terry Hendrix aka "Dark_Skye" | [drkbt11b.zip](bin/drkbt11b.zip)
 DJBot | "DJ" | ?
-DM Bot | Nathaniel Gorham | [dmbot1.zip](bin/dmbot1.zip) (*)($)
+DM Bot | Nathaniel Gorham | [dmbot1.zip](bin/dmbot1.zip)
 DOBBSBot | Stephen Dobbs | dobbsbot15b.zip
-Doombot (Bot Skeleton) | Roscoe A. Sincero aka "Legion" | [btsk23.zip](bin/btsk23.zip)
+Doombot (Bot Skeleton) | Roscoe A. Sincero aka "Legion" | [btsk23.zip](bin/btsk23.zip) (*)($)
 Drastic Reaper Bot | Mark Wheeler | [dreaper.zip](bin/dreaper.zip)
 Elfbot | "SkinSki" | [elfbot.zip](bin/elfbot.zip)
 Elima-Reaper | Roscoe A. Sincero aka "Legion" | ?
@@ -81,9 +81,9 @@ Xreaper | ? | xreaperb130.zip
 Zeus Bot | Jonathan E. Wright aka "Nelno the Amoeba" | [zeus205.zip](bin/zeus205.zip)
 
 File Column:
-- **?** Indicates I could not discover the name of the bot filename.
-- **unlinked** Indicates I discovered the filename but could not find a copy of the file.
-- **(*)** Indicates I could not get it to run or spawn a bot.
-- **($)** Indicates I had to do work, like compile create subdirectories, etc.
+- **?** Indicates I could not discover the name of the bot mod filename.
+- **unlinked** Indicates I discovered the filename but could not find a copy of the file to archive.
+- **(*)** Indicates I could not get it to run or could figure out how to spawn a bot.
+- **($)** Indicates I had to do work, like compile, create subdirectories, etc.
 
 
