@@ -88,5 +88,5 @@ Zeus Bot | Jonathan E. Wright aka "Nelno the Amoeba" | [zeus205.zip](bin/zeus205
 File Column:
 - **?** Indicates I could not discover the name of the bot mod filename.
 - **unlinked** Indicates I discovered the filename but could not find a copy of the file to archive.
-- **($)** Indicates I had to do work, like compile, create subdirectories, etc.
-- **(*)** Indicates I could not get it to run or could figure out how to spawn a bot.
+- **($)** Indicates I had to do work like compile, create subdirectories, etc.
+- **(*)** Indicates I could not get it to run or could not spawn a bot.
