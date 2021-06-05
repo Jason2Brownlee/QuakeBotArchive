@@ -178,6 +178,8 @@ Paddybot
 	based on tutor
 	https://web.archive.org/web/20010114035500/http://members.tripod.lycos.nl/koolpaddy/paddybot/paddybot.htm
 	https://web.archive.org/web/20010622014753/http://members.tripod.lycos.nl/koolpaddy/zips/paddybot02.zip
+	https://web.archive.org/web/20001213060000/http://www.fileplanet.com/index.asp?section=66
+	https://web.archive.org/web/20010110032600/http://www.fileplanet.com/index.asp?section=66&file=28002
 	Cannot find file...
 	???
 elf bot
@@ -706,6 +708,7 @@ file planet bots
 	https://web.archive.org/web/20001213060000/http://www.fileplanet.com/index.asp?section=66
 quake preservation page
 	http://www.geocities.ws/oldquaker/pres1.html
+	all the client side bots...
 bot authors
 	https://web.archive.org/web/19990125084913/http://www.botauthors.org/
 bot emporium
