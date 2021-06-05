@@ -15,6 +15,7 @@ An alphabetical list of quake bot names, authors, and local download links (wher
 
 Bot Name | Bot Author(s) | File
 --- | --- | ---
+Attacker | Jonathan Geary | [attacker.zip](bin/attacker.zip)
 BGADM Bot | "Detour" | [bgadm101.zip](bin/bgadm101.zip)
 BGBot | Robert DeFilippo III aka "Punisher" | [bgbot20a.zip](bin/bgbot20a.zip)
 Borg Bot | Calvin Rien | [borg12.zip](bin/borg12.zip)
@@ -78,5 +79,4 @@ Tutor Bot | Darryl Atchison aka "coffee" | [tutor.zip](bin/tutor.zip)
 Victim Bot | "The TangMaster" | [vbot11.zip](bin/vbot11.zip)
 Xreaper | ? | xreaperb130.zip
 Zeus Bot | Jonathan E. Wright aka "Nelno the Amoeba" | [zeus205.zip](bin/zeus205.zip)
-
 
