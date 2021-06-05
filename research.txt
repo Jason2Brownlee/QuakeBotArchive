@@ -545,6 +545,20 @@ R Bot
 	https://www.quaddicted.com/files/idgames2/quakec/bots/rbot70.zip
 	Ross Johnson aka "ColdKill"
 	bgbot extension
+Demonshooter
+	https://www.quaddicted.com/files/idgames2/quakec/bots/shooter.txt
+	https://www.quaddicted.com/files/idgames2/quakec/bots/shooter.zip
+	"Shootermaster"
+	https://quake.fandom.com/wiki/Demon_Shooter
+	feels like a tm bot extension...
+Wisp
+	https://www.quaddicted.com/files/idgames2/quakec/bots/wisp.txt
+	https://www.quaddicted.com/files/idgames2/quakec/bots/wisp.zip
+	Iikka Paavolainen
+	have to compile
+	works
+	feels like a tm bot extension...
+
 
 
 RESEARCHING...
@@ -568,11 +582,7 @@ Norsebot
 	https://www.gamers.org/pub/idgames2/quakec/bots/btsk23.txt
 	not a bot?
 	???
-Demonshooter
-	https://www.quaddicted.com/files/idgames2/quakec/bots/shooter.txt
-	https://www.quaddicted.com/files/idgames2/quakec/bots/shooter.zip
-	"Shootermaster"
-	https://quake.fandom.com/wiki/Demon_Shooter
+
 
 
 OUT OF SCOPE

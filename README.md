@@ -82,9 +82,10 @@ Tballman | "Mother" | [tballman.zip](bin/tballman.zip)
 The Oak | John Crickett and Neil Henderson | [oak0405.zip](bin/oak0405.zip)
 TLG QuakeBOT (Larva) | James Cullen aka "Jaymz" and Chris Cullen aka "Incubus" | [tlgbot.zip](bin/tlgbot.zip)
 TM Bot | Micheal Polucha and Tim Polucha | [tmbot11.zip](bin/tmbot11.zip)
-Trevor McDoanld Bot (TrevBot) | Kris O'Shea | [trevbot.zip](bin/trevbot.zip)
+TrevBot | Kris O'Shea | [trevbot.zip](bin/trevbot.zip)
 Tutor Bot | Darryl Atchison aka "coffee" | [tutor.zip](bin/tutor.zip)
 Victim Bot | Tony Tang aka "The TangMaster" | [vbot11.zip](bin/vbot11.zip)
+Wisp | Iikka Paavolainen | [wisp.zip](bin/wisp.zip) ($)
 Xreaper | ? | xreaperb130.zip
 Zeus Bot | Jonathan E. Wright aka "Nelno the Amoeba" | [zeus205.zip](bin/zeus205.zip)
 
