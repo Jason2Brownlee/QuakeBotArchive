@@ -71,7 +71,7 @@ Square Bot | Ashley Reynolds aka "Ze0" | ?
 Squirt Bot | Michael Buettner aka "Squirt" | [squirt13.zip](bin/squirt13.zip)
 Swimming Bot (Swimbot) | Greg Fukui aka "baloo the bear" | [swbot104.zip](bin/swbot104.zip)
 Tballman | "Mother" | [tballman.zip](bin/tballman.zip)
-TLG QuakeBOT (Larva) | James Cullen aka "Jaymz" and Chris Cullen aka "Incubus" | [tlgbot.zip](bin/)
+TLG QuakeBOT (Larva) | James Cullen aka "Jaymz" and Chris Cullen aka "Incubus" | [tlgbot.zip](bin/tlgbot.zip)
 TM Bot | Micheal Polucha and Tim Polucha | [tmbot11.zip](bin/tmbot11.zip)
 Trevor McDoanld Bot (TrevBot) | Kris O'Shea | [trevbot.zip](bin/trevbot.zip)
 Tutor Bot | Darryl Atchison aka "coffee" | [tutor.zip](bin/tutor.zip)
