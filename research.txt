@@ -74,6 +74,9 @@ Dark Bot / Darkbot
 	https://www.quaddicted.com/files/idgames2/quakec/bots/drkbt11b.zip
 	how to use?
 	Terry Hendrix aka "Dark_Skye"
+	got it to work
+	old versions here???? newer by date inside the zip I think
+	https://dukeworld.com/planetquake/botshop/
 DM Bot
 	https://www.gamers.org/pub/idgames2/quakec/bots/dmbot1.zip
 	basis for bg bot
@@ -475,6 +478,12 @@ DarkCTF BOT
 	http://asp.planetquake.com/dl/dl.asp?/botshop/darkctf13.zip
 	https://dukeworld.com/planetquake/botshop/
 	not compiled
+DeathBot
+	https://www.quakewiki.net/archives/botarea51/main/history.html
+	https://www.quaddicted.com/files/idgames2/quakec/bots/death-64.txt
+	https://www.quaddicted.com/files/idgames2/quakec/bots/death-64.zip
+	http://web.ukonline.co.uk/members/s.boswell/death-64.exe
+	single player
 
 RESEARCHING...
 --------------------------------------------------------------------------------
@@ -495,10 +504,8 @@ Requiem QW Bot
 Norsebot
 	http://www.insideqc.com/modindex/qreview/patch7.shtml
 	https://www.gamers.org/pub/idgames2/quakec/bots/btsk23.txt
-	not real?
+	not a bot?
 	???
-DeathBot
-	https://www.quakewiki.net/archives/botarea51/main/history.html
 R Bot
 	https://www.quakewiki.net/archives/botarea51/main/history.html
 NetQuake FBCA

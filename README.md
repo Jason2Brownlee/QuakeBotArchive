@@ -27,7 +27,8 @@ CTF Bot | Drew Davidson aka "BZ" | [ctfbot12.zip](bin/ctfbot12.zip) (*)
 CTFBot+ | Anthony Distler aka "*this" | [ctfbotp032399.zip](bin/ctfbotp032399.zip) (*)
 Cujo | Jonathan E. Wright | [cujo14.zip](bin/cujo14.zip)
 Darkbot | Terry Hendrix aka "Dark_Skye" | [drkbt11b.zip](bin/drkbt11b.zip)
-DarkCTF BOT | Terry Hendrix II aka "Mongoose" | [darkctf13.zip](bin/darkctf13.zip) ($)
+DarkCTF Bot | Terry Hendrix II aka "Mongoose" | [darkctf13.zip](bin/darkctf13.zip) (*)($)
+DeathBot | James Boswell aka "FlashFire" | [death-64.zip](bin/death-64.zip)
 DJBot | "DJ" | ?
 DM Bot | Nathaniel Gorham | [dmbot1.zip](bin/dmbot1.zip)
 DOBBSBot | Stephen Dobbs | dobbsbot15b.zip
