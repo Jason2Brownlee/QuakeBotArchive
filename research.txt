@@ -138,6 +138,7 @@ Estep Bot (EsTePBot)
 	reaper
 	https://www.gamers.org/pub/idgames2/quakec/bots/estepbot2eng.txt
 	https://www.gamers.org/pub/idgames2/quakec/bots/estepbot2eng.zip
+	Enrique Gonzalez Alonso
 ReaperFX Bot
 	http://www.randars.com/bots/bots1.html
 	http://www.gamers.org/pub/idgames2/quakec/bots/
@@ -500,6 +501,13 @@ BotSkin
 	http://www.nethosting.com/~wacko/program/botskin.htm
 	http://www.geocities.com/CollegePark/2458/botskin.html
 	https://quake.fandom.com/wiki/BotSkin
+IronWulvt's Deathmatch Bot
+	https://www.quaddicted.com/files/idgames2/quakec/bots/iwbot21.txt
+	https://www.quaddicted.com/files/idgames2/quakec/bots/iwbot21.zip
+	Ben Garrod aka "IRONWULVT"
+	bgbot extension
+	had to create progs/ and move the sprite into there
+
 
 
 RESEARCHING...
@@ -525,9 +533,6 @@ Norsebot
 	???
 R Bot
 	https://www.quakewiki.net/archives/botarea51/main/history.html
-NetQuake FBCA
-	https://steamcommunity.com/sharedfiles/filedetails/?id=123626484
-
 
 
 

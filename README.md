@@ -41,7 +41,7 @@ Elima-Reaper | Roscoe A. Sincero aka "Legion" | ?
 Eliminator Bot (CBOT) | Cameron B. Newham | [elim14.zip](bin/elim14.zip)
 Eliminator Bot v1 | Jon Down aka "Perged" | [elim141.zip](bin/elim141.zip)
 Eliminator Bot v2 | Jon Down aka "Perged" and P. T. Craig aka "FuzzKatT" | Elim20b7.zip
-Estep Bot (EsTePBot) | "EsTePaRiO" | [estepbot2eng.zip](bin/estepbot2eng.zip)
+Estep Bot (EsTePBot) | Enrique Gonzalez Alonso aka "EsTePaRiO" | [estepbot2eng.zip](bin/estepbot2eng.zip)
 Frag Bot | Richard Peacock aka "The Goat" | [fragbot.zip](bin/fragbot.zip)
 FrikBot X (FBX) | Ryan Smith aka "Frika C" | [fbxb.zip](bin/fbxb.zip)
 FrikBot X+ (FBX+) | Igor9 | fbx+.zip
@@ -54,6 +54,7 @@ Gideon Bot | Matthew Turvey | [gidbot.zip](bin/gidbot.zip)
 GuardBot | Peter van Wingerden | [grdbot23.zip](bin/grdbot23.zip)
 GYPObot | Stephen Dobbs | [gypobot.zip](bin/gypobot.zip)
 Indecisive Bot (Gyrobot) | Aaron Logue aka "Gyro Gearloose" | [gyrobot.zip](bin/gyrobot.zip)
+IronWulvt's Deathmatch Bot | Ben Garrod aka "IronWulvt" | [iwbot21.zip](bin/iwbot21.zip) ($)
 Karnag-Bot | Ken Madlener | [knbot45.zip](bin/knbot45.zip)
 Killer Qcbot | William  Ravaine aka "Killer-Sub" | [kqcbots095b.zip](bin/kqcbots095b.zip)
 Koolio Bot | "Koolio" | ?
