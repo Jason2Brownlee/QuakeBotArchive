@@ -31,11 +31,6 @@ ZeusBot
 	https://www.quaddicted.com/files/idgames2/quakec/bots/zeus205.zip
 	http://easttown.co.uk/quake/zeus.html
 	http://trailerpark.com/phase1/nelno
-FrikBot / FrikBotX / FBX
-	https://web.archive.org/web/20000817070547/http://www.inside3d.com/frikbot/
-	https://www.quakewiki.net/archives/botarea51/main/qbot6258.html?id=21
-	https://web.archive.org/web/20021223155711/http://www.inside3d.com/frikbot/fbx/
-	http://www.dr-shost.com/freqs/dosgam/fbxa.zip
 Frogbot
 	https://web.archive.org/web/20030908211402/prime.telefragged.com/metro/frogbot_intro.shtml
 BGBot
@@ -61,7 +56,9 @@ Oak Bot
 	ftp://ftp.stomped.com/pub/redwood/bots/oak0855.zip
 	https://www.bluesnews.com/files/patches/bots/oak083.zip
 	http://www.telefragged.com/oak/
-	[contacted author directly]
+	none of the versions work...
+	[contacted author directly via linked in]
+	https://www.linkedin.com/in/johncrickett/
 Tutor Bot / AI cafe
 	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/tutor.htm
 	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/files/tutor.zip
@@ -392,6 +389,12 @@ Frag Bot
 	https://www.quakewiki.net/archives/botarea51/main/history.html
 	https://www.quaddicted.com/files/idgames2/quakec/bots/fragbot.zip
 	Richard Peacock aka "The Goat"
+FrikBotX / FBX
+	https://web.archive.org/web/20000817070547/http://www.inside3d.com/frikbot/
+	https://www.quakewiki.net/archives/botarea51/main/qbot6258.html?id=21
+	https://web.archive.org/web/20021223155711/http://www.inside3d.com/frikbot/fbx/
+	http://www.dr-shost.com/freqs/dosgam/fbxa.zip
+	http://www.inside3d.com/frikbot/fbx/fbxb.zip
 FrikBot X++ (FBX++)
 	https://steamcommunity.com/sharedfiles/filedetails/?id=123626484
 	https://neogeographica.com/site/pages/mods/fbxpp.html
@@ -530,7 +533,7 @@ Decker's Reapers
 	https://www.quaddicted.com/files/idgames2/quakec/bots/hipreap3.txt
 		soa / Hipnotic pack
 	out of scope
-	reapers added to another mod
+	just reapers added to another mod...
 POXbot
 	based on tutor
 	https://www.quaddicted.com/files/idgames2/planetquake/paroxysm/pox04doc.htm
@@ -553,6 +556,7 @@ mikeBot
 	client side
 stooge bot
 	https://graphics.stanford.edu/~kekoa/stoogebot/about.html
+	client side
 
 
 
@@ -587,17 +591,14 @@ bot authors
 	https://web.archive.org/web/19990125084913/http://www.botauthors.org/
 
 
-bots (cdrom.com)
+cdrom.com idgames2/quakec/bots Mirros
 	https://www.quaddicted.com/files/idgames2/quakec/bots
 	https://www.gamers.org/pub/idgames2/quakec/bots/
-bots (cdrom.com)
-	https://www.gamers.org/pub/idgames2/quakec/bots/
-Planet Quake File Mirror
-	http://dukeworld.com/planetquake/
-Planet Quake File Mirror
+PlanetQuake Mirrors
 	https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/
 	https://www.quaddicted.com/files/idgames2/planetquake/
-telefragged mirror
+	http://dukeworld.com/planetquake/
+Telefragged Mirrors
 	http://dukeworld.duke4.net/telefragged/
 
 
