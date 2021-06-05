@@ -117,6 +117,8 @@ Ogre Bot
 	https://www.quaddicted.com/files/idgames2/quakec/bots/ogrebot.zip
 	https://www.quaddicted.com/files/idgames2/quakec/bots/ogrebot.txt
 	Lava Man
+	HTTP://www.geocities.com/TimesSquare/Lair/1074/index.html
+	https://web.archive.org/web/20000125213405/http://www.geocities.com/TimesSquare/Lair/1074/news.html
 Trevor McDoanld Bot (TrevBot)
 	http://dukeworld.com/idgames2/quakec/bots/trevbot.txt
 	https://www.quaddicted.com/files/idgames2/quakec/bots/trevbot.txt
@@ -362,6 +364,7 @@ QCBot
 	https://www.quaddicted.com/files/idgames2/quakec/bots/qcbot003.zip
 		this is ranking code, not the bot
 	no download...
+	where can we get the real bot???
 	???
 MaNiAcBot
 	https://www.quakewiki.net/archives/botarea51/main/qbotdac1.html?id=32
@@ -449,6 +452,12 @@ CTF Bot
 	https://www.quaddicted.com/files/idgames2/quakec/bots/ctfbot12.txt
 	https://www.quaddicted.com/files/idgames2/quakec/bots/ctfbot12.zip
 	can't get to work easily...
+	???
+	is this the same thing
+		https://www.quaddicted.com/files/idgames2/quakec/bots/newctf12.zip
+		https://www.quaddicted.com/files/idgames2/quakec/bots/newctf12.txt
+		looks like the same thing, perhaps a re-pack
+		?
 CTFBot+
 	https://steamcommunity.com/sharedfiles/filedetails/?id=123626484
 	https://www.quakewiki.net/archives/botarea51/main/qbota9bc.html?id=19
@@ -485,6 +494,11 @@ The Lone Gunmen QuakeBOT / TLGBot
 	https://www.quaddicted.com/files/idgames2/quakec/monsters/dragon.txt
 	https://www.quaddicted.com/files/idgames2/quakec/bots/tlgbot.txt
 	https://www.quaddicted.com/files/idgames2/quakec/bots/tlgbot.zip
+	other crap
+		https://www.quaddicted.com/files/idgames2/quakec/bots/place2.txt
+		https://www.quaddicted.com/files/idgames2/quakec/bots/place2.zip
+		https://www.quaddicted.com/files/idgames2/quakec/bots/pbot_src.txt
+		https://www.quaddicted.com/files/idgames2/quakec/bots/pbot_src.zip
 Attacker (helper) bot
 	https://www.quakewiki.net/archives/botarea51/main/history.html
 	https://www.quaddicted.com/files/idgames2/quakec/bots/attacker.txt
@@ -522,6 +536,15 @@ MyBot
 	https://www.quaddicted.com/files/idgames2/quakec/bots/mybot16.txt
 	https://www.quaddicted.com/files/idgames2/quakec/bots/mybot16.zip
 	extends tmbot
+R Bot
+	https://www.quakewiki.net/archives/botarea51/main/history.html
+	https://www.quaddicted.com/files/idgames2/quakec/bots/rbot20.txt
+	https://www.quaddicted.com/files/idgames2/quakec/bots/rbot20.zip
+	HTTP://WWW.GeoCities.COM/SiliconValley/Lakes/8316/
+	https://www.quaddicted.com/files/idgames2/quakec/bots/rbot70.txt
+	https://www.quaddicted.com/files/idgames2/quakec/bots/rbot70.zip
+	Ross Johnson aka "ColdKill"
+	bgbot extension
 
 
 RESEARCHING...
@@ -545,8 +568,6 @@ Norsebot
 	https://www.gamers.org/pub/idgames2/quakec/bots/btsk23.txt
 	not a bot?
 	???
-R Bot
-	https://www.quakewiki.net/archives/botarea51/main/history.html
 
 
 

@@ -67,6 +67,7 @@ Omicron Fixes | Joel Baxter aka "Johnny Law" | [obots102-fixed.zip](bin/obots102
 Paddybot | "sniper" | paddybot02.zip
 QCBot | Alan Kivlin | ?
 Quake Bot (QBot) | "Grinder" | [qbot11.zip](bin/qbot11.zip)
+R Bot | Ross Johnson aka "ColdKill" | [rbot70.zip](bin/rbot70.zip)
 Reapa | Terry Hendrix II aka "Mongoose" | ?
 Reaper Bot | Steven Polge | [reaprb81.zip](bin/reaprb81.zip)
 ReaperFX Bot | A. W. Johnstone aka "Pob the Impaler" | [reaperfx.zip](bin/reaperfx.zip)
