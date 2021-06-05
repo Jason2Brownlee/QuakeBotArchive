@@ -319,18 +319,22 @@ Eliminator Bot (cbot)
 	https://web.archive.org/web/19990117033644/http://www.iinet.com.au/~cam/quakec.html
 	is it reaper? no.
 Doombot
-	https://web.archive.org/web/20000831165233/http://planetquake.com/botshop/quake.html
-	https://web.archive.org/web/20000303070145/http://www.botepidemic.com/bots/quake.shtml
+	Roscoe A. Sincero AKA Legion
+	https://www.quaddicted.com/files/idgames2/quakec/bots/dmbt21b3.txt
+	https://www.quaddicted.com/files/idgames2/quakec/bots/dmbt21b3.zip
+	old versions:
+		ftp.cdrom.com/pub/quake/quakec/bots/doombot.zip
+		ftp.cdrom.com/pub/quake/quakec/bots/dmbt21b1.zip
+bot skeleton
 	Roscoe A. Sincero AKA Legion
 	https://www.quaddicted.com/files/idgames2/quakec/bots/btsk23.txt
 	https://www.quaddicted.com/files/idgames2/quakec/bots/btsk23.zip
-	had to compile
-	dones not compile... Bus error: 10
-	egion@softhome.net
-	http://www.insideqc.com/qctut/rip3.shtml
-	!!!!! (follow-up and ask for his bots...)
-	email addresses:
+	no progs.dat
+	does not compile
+		Bus error: 10
+	email addresses
 		http://www.insideqc.com/modindex/qreview/patch7.shtml
+	???
 Elima-Reaper / Elima Reaper
 	http://www.insideqc.com/modindex/qreview/patch9-1.shtml
 	Roscoe A. Sincero
@@ -580,8 +584,10 @@ mikeBot
 stooge bot
 	https://graphics.stanford.edu/~kekoa/stoogebot/about.html
 	client side
-
-
+dm4reaper
+	https://www.quaddicted.com/files/idgames2/quakec/bots/dm4reaper.txt
+	https://www.quaddicted.com/files/idgames2/quakec/bots/dm4reaper.zip
+	adds repos to a mod (in a sense)
 
 
 RESOURCES
@@ -613,7 +619,8 @@ quake preservation page
 	http://www.geocities.ws/oldquaker/pres1.html
 bot authors
 	https://web.archive.org/web/19990125084913/http://www.botauthors.org/
-
+bot emporium
+	https://www.quakewiki.net/archives/emporium.planetquake.gamespy.com/
 
 cdrom.com idgames2/quakec/bots Mirros
 	https://www.quaddicted.com/files/idgames2/quakec/bots

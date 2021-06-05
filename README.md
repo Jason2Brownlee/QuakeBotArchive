@@ -21,6 +21,7 @@ BGBot | Robert DeFilippo III aka "Punisher" | [bgbot20a.zip](bin/bgbot20a.zip)
 Borg Bot | Calvin Rien | [borg12.zip](bin/borg12.zip)
 Bot Hunt | Douglas H. King aka "Sea4" | [bthnt10.zip](bin/bthnt10.zip)
 Bot Player (BPlayer) | "Wolf" | [bplayer2.zip](bin/bplayer2.zip)
+Bot Skeleton | Roscoe A. Sincero aka "Legion" | [btsk23.zip](bin/btsk23.zip) (*)($)
 BotSkin | "WACko" | [btskn22.zip](bin/btskn22.zip)
 ClanBots | "slug" | ClanV0.7HMan.zip
 Cronos Bot | "Cronos" | [cronobot.zip](bin/cronobot.zip)
@@ -33,7 +34,7 @@ DeathBot | James Boswell aka "FlashFire" | [death-64.zip](bin/death-64.zip)
 DJBot | "DJ" | ?
 DM Bot | Nathaniel Gorham | [dmbot1.zip](bin/dmbot1.zip)
 DOBBSBot | Stephen Dobbs | dobbsbot15b.zip
-Doombot (Bot Skeleton) | Roscoe A. Sincero aka "Legion" | [btsk23.zip](bin/btsk23.zip) (*)($)
+Doombot | Roscoe A. Sincero aka "Legion" | [dmbt21b3.zip](bin/dmbt21b3.zip)
 Drastic Reaper Bot | Mark Wheeler | [dreaper.zip](bin/dreaper.zip)
 Elfbot | "SkinSki" | [elfbot.zip](bin/elfbot.zip)
 Elima-Reaper | Roscoe A. Sincero aka "Legion" | ?
