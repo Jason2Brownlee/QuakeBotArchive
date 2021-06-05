@@ -21,6 +21,7 @@ BGBot | Robert DeFilippo III aka "Punisher" | [bgbot20a.zip](bin/bgbot20a.zip)
 Borg Bot | Calvin Rien | [borg12.zip](bin/borg12.zip)
 Bot Hunt | Douglas H. King aka "Sea4" | [bthnt10.zip](bin/bthnt10.zip)
 Bot Player (BPlayer) | "Wolf" | [bplayer2.zip](bin/bplayer2.zip)
+BotSkin | "WACko" | [btskn22.zip](bin/btskn22.zip)
 ClanBots | "slug" | ClanV0.7HMan.zip
 Cronos Bot | "Cronos" | [cronobot.zip](bin/cronobot.zip)
 CTF Bot | Drew Davidson aka "BZ" | [ctfbot12.zip](bin/ctfbot12.zip) (*)
@@ -78,7 +79,7 @@ TLG QuakeBOT (Larva) | James Cullen aka "Jaymz" and Chris Cullen aka "Incubus" |
 TM Bot | Micheal Polucha and Tim Polucha | [tmbot11.zip](bin/tmbot11.zip)
 Trevor McDoanld Bot (TrevBot) | Kris O'Shea | [trevbot.zip](bin/trevbot.zip)
 Tutor Bot | Darryl Atchison aka "coffee" | [tutor.zip](bin/tutor.zip)
-Victim Bot | "The TangMaster" | [vbot11.zip](bin/vbot11.zip)
+Victim Bot | Tony Tang aka "The TangMaster" | [vbot11.zip](bin/vbot11.zip)
 Xreaper | ? | xreaperb130.zip
 Zeus Bot | Jonathan E. Wright aka "Nelno the Amoeba" | [zeus205.zip](bin/zeus205.zip)
 

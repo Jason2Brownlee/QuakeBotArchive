@@ -362,6 +362,10 @@ Victim Bot
 	https://www.quakewiki.net/archives/botarea51/main/qbotd5e8.html?id=34
 	https://www.quaddicted.com/files/idgames2/quakec/bots/vbot11.txt
 	https://www.quaddicted.com/files/idgames2/quakec/bots/vbot11.zip
+	https://www.bluesnews.com/archives/sept96-4.html
+	Tony Tang
+	old version: ftp://ftp.cdrom.com/pub/idgames2/quakec/bots/vbot1.zip
+	https://www.quaddicted.com/magazines/cd_zone_issue_48_march_1997
 Tballman
 	https://www.quakewiki.net/archives/botarea51/main/qbotf62c.html?id=36
 	Mother
@@ -484,6 +488,15 @@ DeathBot
 	https://www.quaddicted.com/files/idgames2/quakec/bots/death-64.zip
 	http://web.ukonline.co.uk/members/s.boswell/death-64.exe
 	single player
+BotSkin
+	https://www.quaddicted.com/files/idgames2/quakec/bots/btskn22.txt
+	https://www.quaddicted.com/files/idgames2/quakec/bots/btskn22.zip
+	bgbot extension
+	WACko
+	http://www.nethosting.com/~wacko/program/botskin.htm
+	http://www.geocities.com/CollegePark/2458/botskin.html
+	https://quake.fandom.com/wiki/BotSkin
+
 
 RESEARCHING...
 --------------------------------------------------------------------------------
