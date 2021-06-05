@@ -80,5 +80,10 @@ Victim Bot | "The TangMaster" | [vbot11.zip](bin/vbot11.zip)
 Xreaper | ? | xreaperb130.zip
 Zeus Bot | Jonathan E. Wright aka "Nelno the Amoeba" | [zeus205.zip](bin/zeus205.zip)
 
-(*) Indicates I could not get it to run or spawn a bot.
-($) Indicates I had to do work, like compile create subdirectories, etc.
+File Column:
+- **?** Indicates I could not discover the name of the bot filename.
+- **unlinked** Indicates I discovered the filename but could not find a copy of the file.
+- **(*)** Indicates I could not get it to run or spawn a bot.
+- **($)** Indicates I had to do work, like compile create subdirectories, etc.
+
+
