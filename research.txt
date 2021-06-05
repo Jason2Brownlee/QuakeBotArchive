@@ -49,6 +49,12 @@ Cronos Bot
 	https://web.archive.org/web/20050112053556/http://dl.fileplanet.com/dl/dl.asp?cronos/hd_cbots.zip
 	https://web.archive.org/web/20050112053556/http://dl.fileplanet.com/dl/dl.asp?cronos/hd_cbots_hd.zip
 	https://www.quakewiki.net/archives/cronos/index89c3.html?links.html
+	https://www.quaddicted.com/files/idgames2/quakec/bots/cronobot.txt
+	https://www.quaddicted.com/files/idgames2/quakec/bots/cronobot.zip (1.01)
+	is the cdrom version newer than the "hd" version?
+	https://dukeworld.com/planetquake/cronos/&s=d&o=a
+	https://dukeworld.com/planetquake/cronos/cbotpak.zip (1.06)
+	https://dukeworld.com/planetquake/cronos/cronobot.zip (1.07a)
 Oak Bot
 	https://www.bluesnews.com/archives/may97-1.html
 	http://botarea51.impulse9.net/mirror/bot/oak0405_fixed.zip
@@ -59,7 +65,7 @@ Oak Bot
 	none of the versions work...
 	[contacted author directly via linked in]
 	https://www.linkedin.com/in/johncrickett/
-Tutor Bot / AI cafe
+Tutor Bot / AI cafe / Coffee
 	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/tutor.htm
 	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/files/tutor.zip
 Roambot
@@ -592,7 +598,8 @@ stooge bot
 dm4reaper
 	https://www.quaddicted.com/files/idgames2/quakec/bots/dm4reaper.txt
 	https://www.quaddicted.com/files/idgames2/quakec/bots/dm4reaper.zip
-	adds repos to a mod (in a sense)
+	adds reapers to a mod (in a sense)
+
 
 
 RESOURCES
