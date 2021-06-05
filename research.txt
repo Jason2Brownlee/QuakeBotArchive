@@ -55,6 +55,7 @@ Cronos Bot
 	https://dukeworld.com/planetquake/cronos/&s=d&o=a
 	https://dukeworld.com/planetquake/cronos/cbotpak.zip (1.06)
 	https://dukeworld.com/planetquake/cronos/cronobot.zip (1.07a)
+	http://dl.fileplanet.com/dl/dl.asp?cronos/hd_cbots.zip
 Oak Bot
 	https://www.bluesnews.com/archives/may97-1.html
 	http://botarea51.impulse9.net/mirror/bot/oak0405_fixed.zip
@@ -369,6 +370,7 @@ MaNiAcBot
 	https://dukeworld.com/idgames2/quakec/bots/maniacbt.txt
 	https://dukeworld.com/idgames2/quakec/bots/maniacbt.zip
 	I had to use a different app to unzip it
+	I repacked it
 Victim Bot
 	https://www.quakewiki.net/archives/botarea51/main/qbotd5e8.html?id=34
 	https://www.quaddicted.com/files/idgames2/quakec/bots/vbot11.txt
@@ -464,6 +466,8 @@ Frog Bot Clan Arena (FBCA)
 	ParboiL
 	http://www.parboil.quakeworld.ru
 	https://github.com/ezQuake/fbca/blob/master/doc/fbca101kt_rus.txt
+	https://www.quakewiki.net/archives/cronos/index89c3.html?links.html
+	Alexey 'ParboiL' Pakhomov
 FBCA 99
 	http://quakeone.com/proquake/frogbots-099.zip
 	https://steamcommunity.com/sharedfiles/filedetails/?id=123626484
@@ -513,7 +517,11 @@ IronWulvt's Deathmatch Bot
 	Ben Garrod aka "IRONWULVT"
 	bgbot extension
 	had to create progs/ and move the sprite into there
-
+MyBot
+	Stephen Vanterpool
+	https://www.quaddicted.com/files/idgames2/quakec/bots/mybot16.txt
+	https://www.quaddicted.com/files/idgames2/quakec/bots/mybot16.zip
+	extends tmbot
 
 
 RESEARCHING...
@@ -643,6 +651,7 @@ PlanetQuake Mirrors
 	http://dukeworld.com/planetquake/
 Telefragged Mirrors
 	http://dukeworld.duke4.net/telefragged/
+
 
 
 Deathmatch With Bots (modern guide)
