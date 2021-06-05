@@ -140,6 +140,8 @@ Xreaper (reaper bot)
 	http://botarea51.impulse9.net/mirror/xreaper/xreaperb130.zip
 	xreaperb130.zip
 	https://www.quaketerminus.com/bots.shtml
+	http://hosted.planetquake.gamespy.com/botarea51/main/xreaper/default.asp
+	https://web.archive.org/web/20070204161803/http://hosted.planetquake.gamespy.com/botarea51/main/xreaper/default.asp
 	Cannot find file...
 	???
 Estep Bot (EsTePBot)
@@ -558,7 +560,12 @@ Wisp
 	have to compile
 	works
 	feels like a tm bot extension...
-
+Ric's Reaper Bots / Ric's Repas
+	https://web.archive.org/web/19980218141331/http://gocompupro.com/cqf/bots.htm
+	https://web.archive.org/web/19980218141331/http://gocompupro.com/cqf/files/reap081h.zip
+	"Ric"
+	had to create progs dir
+	impulse 205, works fine
 
 
 RESEARCHING...
@@ -664,8 +671,13 @@ Requiem QW Bot
 	https://web.archive.org/web/19981206204028/http://www.planetquake.com/requiem/
 	https://www.quakeworld.nu/wiki/Requiem
 	bots added to a mod I believe
-
-
+Itchy Bot
+	client side
+	https://web.archive.org/web/20001027075424/http://www.botepidemic.com/bots/quake.shtml
+	https://web.archive.org/web/20000818034616/http://www-mddsp.enel.ucalgary.ca/People/dreveny/itchy/index.html
+PandoraBot
+	https://web.archive.org/web/20001027075424/http://www.botepidemic.com/bots/quake.shtml
+	client side
 
 RESOURCES
 --------------------------------------------------------------------------------
