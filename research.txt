@@ -445,11 +445,14 @@ FrikBot
 	fbx released in 2004
 	http://www.inside3d.com/frikbot/fbx/fbxb.zip
 	https://web.archive.org/web/20000817070547/http://www.inside3d.com/frikbot/
+		"You see, I started by looking at Coffee's Tutor Bot"
 	http://www.inside3d.com/frikbot/frikbt09.txt
 	http://www.inside3d.com/frikbot/download.shtml?file=frikbot/frkbt09b.zip
 	https://dukeworld.com/telefragged/inside3d/frikbot/
 	https://dukeworld.com/telefragged/inside3d/frikbot/frkbt09b.zip
 	http://www.mdqnet.net/frikbot/
+	frika-c@earthling.net
+	http://www.frikac.com/?page_id=28
 CTF Bot
 	https://web.archive.org/web/20000831165233/http://planetquake.com/botshop/quake.html
 	https://web.archive.org/web/19990218040426/http://www.planetquake.com/qca/reviews/patch66.htm
@@ -683,6 +686,13 @@ Itchy Bot
 PandoraBot
 	https://web.archive.org/web/20001027075424/http://www.botepidemic.com/bots/quake.shtml
 	client side
+FBXDC (FBX bot for dreamcast)
+	https://dcemulation.org/phpBB/viewtopic.php?f=14&t=7151
+	http://www.inside3d.com/frikbot/fbxdc.zip
+	https://quakedev.dcemulation.org/fragger/
+	opt of scope?
+
+
 
 RESOURCES
 --------------------------------------------------------------------------------
