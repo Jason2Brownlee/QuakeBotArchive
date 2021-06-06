@@ -14,6 +14,9 @@ Omicron Bot
 	https://mrelusive.com/oldprojects/obots/ObotDoc/index.htm
 	https://mrelusive.com/oldprojects/obots/ftp/obots102.zip
 	https://neogeographica.com/site/pages/mods/obots.html
+	also H2SO4
+		Miklos de Rijk (H2SO4)
+		https://doomwiki.org/wiki/Miklos_de_Rijk_(H2SO4)
 Reaper Bot
 	https://quake.fandom.com/wiki/The_Reaper_Bot
 	https://www.quakewiki.net/archives/botarea51/main/qbot87f1.html?id=14
@@ -308,6 +311,10 @@ Reapa
 	https://web.archive.org/web/20000303070145/http://www.botepidemic.com/bots/quake.shtml
 	Terry 'DS' Hendrix
 	https://www.quakewiki.net/archives/botshop/code/index.html
+	https://www.linkedin.com/in/terry-hendrix-ii-43935610/
+	https://www.hendrixgames.com/about/
+	Mongoose
+	https://social.hendrixgames.com/thendrix
 Eliminator (reaper) v2
 	reaper clone
 	https://www.quakewiki.net/archives/botarea51/main/qbot3773.html?id=27
