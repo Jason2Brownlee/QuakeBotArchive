@@ -582,6 +582,17 @@ Ric's Reaper Bots / Ric's Repas
 	"Ric"
 	had to create progs dir
 	impulse 205, works fine
+GlacierBot
+	http://planetquake.gamespy.com/quake1/indexa1df.html?start_from=91&category_id=2
+	http://quake.thepitnetwork.com/icedagger/
+	by "icedagger"
+	https://web.archive.org/web/20020605085049/http://www.inside3d.com/?days=month
+	https://web.archive.org/web/20020605085049/http://ssj4death.condemned.com/gb/gb027b.zip
+	https://web.archive.org/web/20020805015135/http://forums.inside3d.com/showflat.pl?Board=Inside3D&Number=8035&page=0&view=collapsed&sb=5
+	https://web.archive.org/web/20020805015135/http://ssj4death.condemned.com/gb/gb027b.zip
+	may 2002
+	cannot locate a download
+	???
 
 
 RESEARCHING...
@@ -594,17 +605,16 @@ Norsebot
 	https://www.gamers.org/pub/idgames2/quakec/bots/btsk23.txt
 	not a bot?
 	???
-GlacierBot
-	http://planetquake.gamespy.com/quake1/indexa1df.html?start_from=91&category_id=2
-	http://quake.thepitnetwork.com/icedagger/
-	by "icedagger"
-	https://web.archive.org/web/20020605085049/http://www.inside3d.com/?days=month
-	https://web.archive.org/web/20020605085049/http://ssj4death.condemned.com/gb/gb027b.zip
-	https://web.archive.org/web/20020805015135/http://forums.inside3d.com/showflat.pl?Board=Inside3D&Number=8035&page=0&view=collapsed&sb=5
-	https://web.archive.org/web/20020805015135/http://ssj4death.condemned.com/gb/gb027b.zip
-	may 2002
-	cannot locate a download
-	???
+frogbot mods?
+	https://web.archive.org/web/20020214103444/http://www.botepidemic.com/fmods/mods.htm
+	looks like a ton of mods in here...
+	Frogbot BotMatch Arena
+		http://www.dmsoul.mailru.com/botmatch/bm119gl.zip
+	Asdf's FMOD
+		http://www.3ddownloads.com/showfile.php3?filename=asdfmod100.zip&directory=/telefragged/be/fmods/
+	MaNiAcbot v1.2
+		http://www.3ddownloads.com/showfile.php3?filename=maniacbt12.zip&directory=/telefragged/be/fmods/
+
 
 OUT OF SCOPE
 --------------------------------------------------------------------------------
@@ -706,6 +716,7 @@ PandoraBot
 FBXDC (FBX bot for dreamcast)
 	https://dcemulation.org/phpBB/viewtopic.php?f=14&t=7151
 	http://www.inside3d.com/frikbot/fbxdc.zip
+	https://quakedev.dcemulation.org/downloads/fbxdc/fbxdc.zip
 	https://quakedev.dcemulation.org/fragger/
 	opt of scope?
 
@@ -753,6 +764,7 @@ PlanetQuake Mirrors
 	http://dukeworld.com/planetquake/
 Telefragged Mirrors
 	http://dukeworld.duke4.net/telefragged/
+	https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/
 
 
 
