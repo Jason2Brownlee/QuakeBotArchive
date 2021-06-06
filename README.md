@@ -52,6 +52,7 @@ Frogbot Clan Arena (FBCA) 0.99 | "Baker" | [frogbots-099.zip](bin/frogbots-099.z
 Frogbot Clan Arena (FBCA) | Alexey Pakhomov aka "ParboiL" | [fbca102kt.zip](bin/fbca102kt.zip) (*)
 Frogbot | Robert Field | [frogbot013.zip](bin/frogbot013.zip)
 Gideon Bot | Matthew Turvey | [gidbot.zip](bin/gidbot.zip)
+GlacierBot | "IceDagger" | gb027b.zip
 GuardBot | Peter van Wingerden | [grdbot23.zip](bin/grdbot23.zip)
 GYPObot | Stephen Dobbs | [gypobot.zip](bin/gypobot.zip)
 Indecisive Bot (Gyrobot) | Aaron Logue aka "Gyro Gearloose" | [gyrobot.zip](bin/gyrobot.zip)

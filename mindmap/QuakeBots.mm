@@ -1,6 +1,6 @@
 <map version="1.0.1">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node CREATED="1622514182273" ID="ID_507786403" MODIFIED="1622929964637" TEXT="Quake Bots">
+<node CREATED="1622514182273" ID="ID_507786403" MODIFIED="1622957860849" TEXT="Quake Bots">
 <node CREATED="1622514794312" ID="ID_565546253" MODIFIED="1622671396799" POSITION="left" TEXT="Tutor Bot">
 <node CREATED="1622514804704" ID="ID_11024833" MODIFIED="1622514812370" TEXT="Cronos Bot"/>
 <node CREATED="1622665755811" ID="ID_1110325053" MODIFIED="1622665757190" TEXT="Squirt Bot"/>
@@ -97,5 +97,6 @@
 </node>
 </node>
 </node>
+<node CREATED="1622957861665" ID="ID_11101189" MODIFIED="1622957862633" POSITION="left" TEXT="GlacierBot"/>
 </node>
 </map>

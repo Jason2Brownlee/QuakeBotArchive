@@ -17,6 +17,7 @@ Omicron Bot
 	also H2SO4
 		Miklos de Rijk (H2SO4)
 		https://doomwiki.org/wiki/Miklos_de_Rijk_(H2SO4)
+		https://www.linkedin.com/in/miklos-de-rijk-07360630/
 Reaper Bot
 	https://quake.fandom.com/wiki/The_Reaper_Bot
 	https://www.quakewiki.net/archives/botarea51/main/qbot87f1.html?id=14
@@ -593,8 +594,17 @@ Norsebot
 	https://www.gamers.org/pub/idgames2/quakec/bots/btsk23.txt
 	not a bot?
 	???
-
-
+GlacierBot
+	http://planetquake.gamespy.com/quake1/indexa1df.html?start_from=91&category_id=2
+	http://quake.thepitnetwork.com/icedagger/
+	by "icedagger"
+	https://web.archive.org/web/20020605085049/http://www.inside3d.com/?days=month
+	https://web.archive.org/web/20020605085049/http://ssj4death.condemned.com/gb/gb027b.zip
+	https://web.archive.org/web/20020805015135/http://forums.inside3d.com/showflat.pl?Board=Inside3D&Number=8035&page=0&view=collapsed&sb=5
+	https://web.archive.org/web/20020805015135/http://ssj4death.condemned.com/gb/gb027b.zip
+	may 2002
+	cannot locate a download
+	???
 
 OUT OF SCOPE
 --------------------------------------------------------------------------------
