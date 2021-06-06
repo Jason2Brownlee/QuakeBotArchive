@@ -15,7 +15,7 @@ Omicron Bot
 	https://mrelusive.com/oldprojects/obots/ftp/obots102.zip
 	https://neogeographica.com/site/pages/mods/obots.html
 	also H2SO4
-		Miklos de Rijk (H2SO4)
+		Miklos de Rijk aka "H2SO4"
 		https://doomwiki.org/wiki/Miklos_de_Rijk_(H2SO4)
 		https://www.linkedin.com/in/miklos-de-rijk-07360630/
 Reaper Bot
@@ -296,7 +296,7 @@ Navy SEALs sQuad bots
 	https://www.quaddicted.com/files/idgames2/planetquake/
 	https://www.fileplanet.com/archive/p-2526/NAVY-SEALS-2-0-1
 	http://download.fileplanet.com/ftp1/action/quake/modifications/partial/nseal201.zip?st=UCbTiis7BF51zE3J1v7_bg&e=1622692506
-Dj bot / Djbot / Djbot MK2
+Dj bot / Djbot / Djbot MK2 / DJBot
 	https://web.archive.org/web/20010129031600fw_/http://www.users.qwest.net/~mimpchnk/review.htm
 	based on tutor
 	little evidence
@@ -311,6 +311,7 @@ Reapa
 	https://web.archive.org/web/20000831165233/http://planetquake.com/botshop/quake.html
 	https://web.archive.org/web/20000303070145/http://www.botepidemic.com/bots/quake.shtml
 	Terry 'DS' Hendrix
+	Dark_Skye / DS / Mongoose /
 	https://www.quakewiki.net/archives/botshop/code/index.html
 	https://www.linkedin.com/in/terry-hendrix-ii-43935610/
 	https://www.hendrixgames.com/about/
@@ -609,12 +610,16 @@ frogbot mods?
 	https://web.archive.org/web/20020214103444/http://www.botepidemic.com/fmods/mods.htm
 	looks like a ton of mods in here...
 	Frogbot BotMatch Arena
+		DmSouL
 		http://www.dmsoul.mailru.com/botmatch/bm119gl.zip
 	Asdf's FMOD
-		http://www.3ddownloads.com/showfile.php3?filename=asdfmod100.zip&directory=/telefragged/be/fmods/
+		Asdf
+		asdfmod100.zip
 	MaNiAcbot v1.2
-		http://www.3ddownloads.com/showfile.php3?filename=maniacbt12.zip&directory=/telefragged/be/fmods/
-
+		MaNiAc
+		maniacbt12.zip
+	Combination of all previous Khol's FMODS
+		kfmod.zip
 
 OUT OF SCOPE
 --------------------------------------------------------------------------------
@@ -765,7 +770,8 @@ PlanetQuake Mirrors
 Telefragged Mirrors
 	http://dukeworld.duke4.net/telefragged/
 	https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/
-
+nots united
+	http://bots-united.com/
 
 
 Deathmatch With Bots (modern guide)
