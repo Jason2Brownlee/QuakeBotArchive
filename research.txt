@@ -142,6 +142,7 @@ Xreaper (reaper bot)
 	https://www.quaketerminus.com/bots.shtml
 	http://hosted.planetquake.gamespy.com/botarea51/main/xreaper/default.asp
 	https://web.archive.org/web/20070204161803/http://hosted.planetquake.gamespy.com/botarea51/main/xreaper/default.asp
+	Mephisto?
 	Cannot find file...
 	???
 Estep Bot (EsTePBot)
@@ -227,7 +228,9 @@ Square Bot
 	https://web.archive.org/web/19990208011826/http://www.botepidemic.com/
 	????
 	https://web.archive.org/web/20000303070145/http://www.botepidemic.com/bots/quake.shtml
-	Ashley 'Ze0' Reynolds
+	Ashley Reynolds aka "Ze0"
+		webmaster of bot epidemic
+		https://web.archive.org/web/20000815235244/http://www.botepidemic.com/about/
 Drastic Reaper Bot
 	https://web.archive.org/web/20001109033100/http://www.users.qwest.net/~mimpchnk/
 	- reaper

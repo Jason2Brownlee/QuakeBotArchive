@@ -87,7 +87,7 @@ TrevBot | Kris O'Shea | [trevbot.zip](bin/trevbot.zip)
 Tutor Bot | Darryl Atchison aka "coffee" | [tutor.zip](bin/tutor.zip)
 Victim Bot | Tony Tang aka "The TangMaster" | [vbot11.zip](bin/vbot11.zip)
 Wisp | Iikka Paavolainen | [wisp.zip](bin/wisp.zip) ($)
-Xreaper | ? | xreaperb130.zip
+Xreaper | "Mephisto" | xreaperb130.zip
 Zeus Bot | Jonathan E. Wright aka "Nelno the Amoeba" | [zeus205.zip](bin/zeus205.zip)
 
 File Column:
