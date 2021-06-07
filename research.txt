@@ -490,6 +490,7 @@ CTF Bot
 	https://web.archive.org/web/20000831165233/http://planetquake.com/botshop/quake.html
 	https://web.archive.org/web/19990218040426/http://www.planetquake.com/qca/reviews/patch66.htm
 	https://web.archive.org/web/20000303070145/http://www.botepidemic.com/bots/quake.shtml
+	http://www.interpath.net/~davidson
 	Drew 'BZ' Davidson
 	http://www.insideqc.com/modindex/qreview/patch10.shtml
 	https://www.quaddicted.com/files/idgames2/quakec/bots/ctfbot12.txt
