@@ -501,6 +501,9 @@ CTF Bot
 		https://www.quaddicted.com/files/idgames2/quakec/bots/newctf12.txt
 		looks like the same thing, perhaps a re-pack
 		?
+	old version?
+		https://www.quaddicted.com/files/idgames2/quakec/teamplay/ctf/ctfbot11.txt
+		https://www.quaddicted.com/files/idgames2/quakec/teamplay/ctf/ctfbot11.zip
 CTFBot+
 	https://steamcommunity.com/sharedfiles/filedetails/?id=123626484
 	https://www.quakewiki.net/archives/botarea51/main/qbota9bc.html?id=19
