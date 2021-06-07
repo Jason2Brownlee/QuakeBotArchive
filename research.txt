@@ -54,7 +54,46 @@ ZeusBot
 	http://nelno.freeservers.com/contact.htm
 	https://web.archive.org/web/19981203131409/http://www.planetquake.com/design/bots.html
 Frogbot
+	http://www.telefragged.com/metro
+	1998-2000
 	https://web.archive.org/web/20030908211402/prime.telefragged.com/metro/frogbot_intro.shtml
+	https://web.archive.org/web/19981202161907/http://abone.turk.net/bear/frogbot012.zip
+	https://www.quaddicted.com/webarchive/ftp.clan-rum.org/quake/bots/frogbot012.zip
+	https://www.angelfire.com/pe/pent3/images/frogbot011.zip
+	https://www.angelfire.com/pe/pent3/images/frogbot013.zip
+	http://www.randars.com/bots/frogbot013.zip
+	http://www.telefragged.com/mirrors/mirror.pl?metro/frogbot013.zip
+	http://www.telefragged.com/mirrors/mirror.pl?metro/frogbot012.zip
+	ftp://ftp.telefragged.com/pub/metro/
+	Robert Field aka Frog
+	Frog@powerup.com.au
+	https://www.mobygames.com/developer/sheet/view/developerId,42907/
+		https://www.linkedin.com/in/robert-field-1235686/ ?
+	GPL
+		https://www.quakeworld.nu/news/177/frogbot-gets-gpl
+Optimized Frogbot
+	http://aminet.net/package/game/patch/frogbot
+	Christian Michael aka "surgeon"
+	http://aminet.net/game/patch/frogbot.lha
+
+Frog Bot Clan Arena (FBCA)
+	https://steamcommunity.com/sharedfiles/filedetails/?id=123626484
+	https://web.archive.org/web/20000303070145/http://www.botepidemic.com/bots/quake.shtml
+	https://s3.amazonaws.com/neogeographica-downloads/guides/deathmatch_with_bots/fbca102kt.zip
+	adds frog bots to clean arean mod
+	https://web.archive.org/web/20060210223446if_/http://www.parboil.quakeworld.ru:80/
+	ParboiL
+	http://www.parboil.quakeworld.ru
+	https://github.com/ezQuake/fbca/blob/master/doc/fbca101kt_rus.txt
+	https://www.quakewiki.net/archives/cronos/index89c3.html?links.html
+	Alexey 'ParboiL' Pakhomov
+	https://web.archive.org/web/*/http://www.parboil.quakeworld.ru/parboil/fbca101final.zip
+	https://github.com/ezQuake/fbca
+FBCA 99
+	http://quakeone.com/proquake/frogbots-099.zip
+	https://steamcommunity.com/sharedfiles/filedetails/?id=123626484
+	http://forums.runecentral.com/viewtopic.php?f=3&t=1494
+	baker
 BGBot
 	https://web.archive.org/web/20030310034438/http://www.planetquake.com/qca/reviews/patch8.htm
 	bgbot20a.zip
@@ -528,22 +567,6 @@ CTFBot+
 	http://www.captured.com/ctfbot
 	https://s3.amazonaws.com/neogeographica-downloads/guides/deathmatch_with_bots/ctfbotp032399.zip
 	https://www.quakewiki.net/archives/ctfbot/
-Frog Bot Clan Arena (FBCA)
-	https://steamcommunity.com/sharedfiles/filedetails/?id=123626484
-	https://web.archive.org/web/20000303070145/http://www.botepidemic.com/bots/quake.shtml
-	https://s3.amazonaws.com/neogeographica-downloads/guides/deathmatch_with_bots/fbca102kt.zip
-	adds frog bots to clean arean mod
-	https://web.archive.org/web/20060210223446if_/http://www.parboil.quakeworld.ru:80/
-	ParboiL
-	http://www.parboil.quakeworld.ru
-	https://github.com/ezQuake/fbca/blob/master/doc/fbca101kt_rus.txt
-	https://www.quakewiki.net/archives/cronos/index89c3.html?links.html
-	Alexey 'ParboiL' Pakhomov
-FBCA 99
-	http://quakeone.com/proquake/frogbots-099.zip
-	https://steamcommunity.com/sharedfiles/filedetails/?id=123626484
-	http://forums.runecentral.com/viewtopic.php?f=3&t=1494
-	baker
 Omicron version 1.02 (with fixes)
 	Omicron fixed
 	https://steamcommunity.com/sharedfiles/filedetails/?id=123626484
@@ -771,13 +794,15 @@ TFBot (RainKing / GentleMan / Hoerno/Nexus)
 	are there two tfbots???? or three
 	https://www.bluesnews.com/files/patches/bots/tfb-v076.zip
 	more research to do here...
+	Wolfgang Lehrach
+		moved on from the project around: Sunday, November 16, 1997
+		https://www.bluesnews.com/archives/nov97-3.html
 TFBots (coffee)
 	http://www.fileplanet.com/dl.aspx?/planetquake/minion/tf_bots07.zip
 	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/readbots.txt
 	https://www.quaddicted.com/quake_advent_calendar_2013/13-18
 	Darryl Atchison aka "coffee"
 	coffee@planetquake.com
-
 Requiem QW Bot
 	https://web.archive.org/web/20000303070145/http://www.botepidemic.com/bots/quake.shtml
 	Requiem

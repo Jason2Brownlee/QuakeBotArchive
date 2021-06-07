@@ -50,7 +50,7 @@ FrikBot X++ (FBX++) | Joel Baxter aka "Johnny Law" | [fbx++.zip](bin/fbx++.zip)
 FrikBot | Ryan Smith aka "Frika C" | [frkbt09b.zip](bin/frkbt09b.zip)
 Frogbot Clan Arena (FBCA) 0.99 | "Baker" | [frogbots-099.zip](bin/frogbots-099.zip)
 Frogbot Clan Arena (FBCA) | Alexey Pakhomov aka "ParboiL" | [fbca102kt.zip](bin/fbca102kt.zip) (*)
-Frogbot | Robert Field | [frogbot013.zip](bin/frogbot013.zip)
+Frogbot | Robert Field aka "Frog" | [frogbot013.zip](bin/frogbot013.zip)
 Gideon Bot | Matthew Turvey | [gidbot.zip](bin/gidbot.zip)
 GlacierBot | "IceDagger" | gb027b.zip
 GuardBot | Peter van Wingerden | [grdbot23.zip](bin/grdbot23.zip)
@@ -69,6 +69,7 @@ Navy SEALs sQuad bots | William van der Sterren | [nseal201.zip](bin/nseal201.zi
 Ogre Bot | "Lava Man" | [ogrebot.zip](bin/ogrebot.zip)
 Omicron Bot | Jan Paul van Waveren aka "Mr. Elusive" and Miklos de Rijk aka "H2SO4" | [obots102.zip](bin/obots102.zip)
 Omicron Fixes | Joel Baxter aka "Johnny Law" | [obots102-fixed.zip](bin/obots102-fixed.zip)
+Optimized Frogbot | Christian Michael aka "surgeon" | [frogbot.lha](bin/frogbot.lha)
 Paddybot | "sniper" | paddybot02.zip
 QCBot | Alan Kivlin | ?
 Quake Bot (QBot) | "Grinder" | [qbot11.zip](bin/qbot11.zip)
