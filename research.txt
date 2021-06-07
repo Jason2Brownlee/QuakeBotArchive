@@ -73,6 +73,8 @@ Oak Bot
 Tutor Bot / AI cafe / Coffee
 	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/tutor.htm
 	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/files/tutor.zip
+	Darryl Atchison aka "coffee"
+	coffee@planetquake.com
 Roambot
 	CARSON SUTTON ("Gwynn" on irc, "Crimson" to quake victims)
 	Carson Sutton aka "Crimson"
@@ -678,13 +680,14 @@ dm4reaper
 	https://www.quaddicted.com/files/idgames2/quakec/bots/dm4reaper.txt
 	https://www.quaddicted.com/files/idgames2/quakec/bots/dm4reaper.zip
 	adds reapers to a mod (in a sense)
-Team Fortress Bot / TFBot
+TFBot (RainKing / GentleMan / Hoerno/Nexus)
 	https://web.archive.org/web/20000831165233/http://planetquake.com/botshop/quake.html
 	http://www.planetquake.com/tfbot
 	https://web.archive.org/web/20000303070145/http://www.botepidemic.com/bots/quake.shtml
 	"RainKing"
 	bot for team fortress...
 	https://web.archive.org/web/19990203170848/http://planetquake.com/tfbot/
+		wattsup@cedar.alberni.net
 	https://web.archive.org/web/19991009024128/ftp://ftp.cdrom.com/pub/idgames2/planetquake/tfbot/tfbot080.zip
 	https://dukeworld.com/planetquake/tfbot/
 	does not unzip, had to use another program
@@ -698,12 +701,20 @@ Team Fortress Bot / TFBot
 	https://web.archive.org/web/19990127110318/http://www.pro-net.co.uk/home/wolfg_l/
 	https://www.quakewiki.net/archives/botarea51/main/qbot2e5f.html?id=22
 	Hoerno/Nexus ?
+		Joern Strombach / Hoerno@o-online.de
+		maybe a fix for the prior version by "GentleMan"?
 	https://web.archive.org/web/19990218040426/http://www.planetquake.com/qca/reviews/patch107.htm
 	http://www.lockandload.com/tfbot/
 	tfb-v07.zip
 	are there two tfbots???? or three
-	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/readbots.txt
 	more research to do here...
+TFBots (coffee)
+	http://www.fileplanet.com/dl.aspx?/planetquake/minion/tf_bots07.zip
+	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/readbots.txt
+	https://www.quaddicted.com/quake_advent_calendar_2013/13-18
+	Darryl Atchison aka "coffee"
+	coffee@planetquake.com
+
 Requiem QW Bot
 	https://web.archive.org/web/20000303070145/http://www.botepidemic.com/bots/quake.shtml
 	Requiem
@@ -770,7 +781,7 @@ PlanetQuake Mirrors
 Telefragged Mirrors
 	http://dukeworld.duke4.net/telefragged/
 	https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/
-nots united
+bots united
 	http://bots-united.com/
 
 
