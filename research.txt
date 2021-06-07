@@ -35,6 +35,10 @@ Reaper Bot
 	old versions?
 		ftp://ftp.pk.edu.pl/pub/games/id/quaketoys/mods/reaprb75.zip
 		http://www.nlink.com.br/quake/reaper80.zip
+		ftp://bluesnews.com/pub/bots/reaprb80.zip
+		ftp://bluesnews.com/pub/bots/reaprb75.zip
+		https://www.bluesnews.com/archives/nov96-1.html
+		https://www.bluesnews.com/archives/dec96-1.html
 ZeusBot
 	https://web.archive.org/web/20020821003701/http://www.planetquake.com/qca/reviews/patch52.htm
 	https://quake.fandom.com/wiki/Zeus_Bot
@@ -355,6 +359,11 @@ Eliminator Bot (cbot)
 	http://www.iinet.com.au/~cam/quakec.html
 	https://web.archive.org/web/19990117033644/http://www.iinet.com.au/~cam/quakec.html
 	is it reaper? no.
+	Cameron B. Newham
+	cam@iinet.com.au
+	https://www.bluesnews.com/archives/dec96-3.html
+		src code?
+	https://www.theguardian.com/artanddesign/2019/dec/27/australian-on-mission-to-photograph-every-parish-church-in-england
 Doombot
 	Roscoe A. Sincero AKA Legion
 	https://www.quaddicted.com/files/idgames2/quakec/bots/dmbt21b3.txt
@@ -612,6 +621,7 @@ JBot
 Human Bot (Hbot)
 	http://www.phlamethrower.co.uk/quake/hbot.zip
 	Jeffrey Lee
+	me@phlamethrower.co.uk
 
 
 
