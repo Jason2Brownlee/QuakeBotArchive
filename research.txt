@@ -45,6 +45,10 @@ ZeusBot
 	https://www.quaddicted.com/files/idgames2/quakec/bots/zeus205.zip
 	http://easttown.co.uk/quake/zeus.html
 	http://trailerpark.com/phase1/nelno
+	old versions
+		https://www.bluesnews.com/files/zeus2042.zip
+		https://www.bluesnews.com/files/zeus204.zip
+	http://nelno.freeservers.com/contact.htm
 Frogbot
 	https://web.archive.org/web/20030908211402/prime.telefragged.com/metro/frogbot_intro.shtml
 BGBot
@@ -622,7 +626,16 @@ Human Bot (Hbot)
 	http://www.phlamethrower.co.uk/quake/hbot.zip
 	Jeffrey Lee
 	me@phlamethrower.co.uk
-
+Lithium CTF
+	https://www.bluesnews.com/archives/may97-2.html
+	- has bots
+	http://www.geocities.com/SiliconValley/Heights/7043/index2.htm
+	http://www.geocities.com/SiliconValley/Heights/7043/
+	https://www.moddb.com/games/quake/addons/lithium-ctf-map-pack
+	lith091c.zip
+	Juan Ignacio Rava (aka Johnny)
+	https://www.quaddicted.com/files/idgames2/quakec/teamplay/ctf/
+	bgbot based? no evidence other than impulse...
 
 
 
@@ -650,6 +663,8 @@ frogbot mods?
 		maniacbt12.zip
 	Combination of all previous Khol's FMODS
 		kfmod.zip
+
+
 
 OUT OF SCOPE
 --------------------------------------------------------------------------------

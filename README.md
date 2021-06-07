@@ -62,6 +62,7 @@ JBot | Jeffrey Lee | [jbot](bin/jbot)
 Karnag-Bot | Ken Madlener | [knbot45.zip](bin/knbot45.zip)
 Killer Qcbot | William  Ravaine aka "Killer-Sub" | [kqcbots095b.zip](bin/kqcbots095b.zip)
 Koolio Bot | "Koolio" | ?
+Lithium CTF Bot | Juan Ignacio Rava aka "Johnny" | [lith091c.zip](bin/lith091c.zip)
 MaNiAcBot | Michael Turitzin aka "MaNiAc" | [maniacbt.zip](bin/maniacbt.zip)
 MyBot | Stephen Vanterpool | [mybot16.zip](bin/mybot16.zip)
 Navy SEALs sQuad bots | William van der Sterren | [nseal201.zip](bin/nseal201.zip)
