@@ -39,6 +39,9 @@ Reaper Bot
 		ftp://bluesnews.com/pub/bots/reaprb75.zip
 		https://www.bluesnews.com/archives/nov96-1.html
 		https://www.bluesnews.com/archives/dec96-1.html
+	never release code
+		https://www.bluesnews.com/archives/aug97-5.html
+		https://www.bluesnews.com/archives/sept97-1.html
 ZeusBot
 	https://web.archive.org/web/20020821003701/http://www.planetquake.com/qca/reviews/patch52.htm
 	https://quake.fandom.com/wiki/Zeus_Bot
@@ -49,6 +52,7 @@ ZeusBot
 		https://www.bluesnews.com/files/zeus2042.zip
 		https://www.bluesnews.com/files/zeus204.zip
 	http://nelno.freeservers.com/contact.htm
+	https://web.archive.org/web/19981203131409/http://www.planetquake.com/design/bots.html
 Frogbot
 	https://web.archive.org/web/20030908211402/prime.telefragged.com/metro/frogbot_intro.shtml
 BGBot
@@ -75,11 +79,21 @@ Cronos Bot
 	https://dukeworld.com/planetquake/cronos/cronobot.zip (1.07a)
 	http://dl.fileplanet.com/dl/dl.asp?cronos/hd_cbots.zip
 Oak Bot
+	http://web.ukonline.co.uk/johnc/oak.htm
+	http://web.ukonline.co.uk/neil.henderson/theoak/
+	https://web.archive.org/web/19990225102735/http://web.ukonline.co.uk/neil.henderson/theoak/
+	http://quake.extreme3d.com/theoak/
+	http://www.cvnet.co.uk/theoak/
+	http://web.ukonline.co.uk/neil.henderson/theoak/
+	more...
 	https://www.bluesnews.com/archives/may97-1.html
 	http://botarea51.impulse9.net/mirror/bot/oak0405_fixed.zip
 	ftp://ftp.stomped.com/pub/redwood/bots/oak0405.zip
 	ftp://ftp.stomped.com/pub/redwood/bots/oak0855.zip
 	https://www.bluesnews.com/files/patches/bots/oak083.zip
+	https://www.bluesnews.com/files/patches/bots/oak084.zip
+	https://www.bluesnews.com/files/patches/bots/oak085.zip
+	https://www.bluesnews.com/files/patches/bots/oak0405.zip
 	http://www.telefragged.com/oak/
 	none of the versions work...
 	[contacted author directly via linked in]
@@ -165,9 +179,11 @@ Xreaper (reaper bot)
 	https://www.quaketerminus.com/bots.shtml
 	http://hosted.planetquake.gamespy.com/botarea51/main/xreaper/default.asp
 	https://web.archive.org/web/20070204161803/http://hosted.planetquake.gamespy.com/botarea51/main/xreaper/default.asp
-	Mephisto?
+	Mephisto? yes
+		mp_51@dds.nl
 	Cannot find file...
 	???
+
 Estep Bot (EsTePBot)
 	by "EsTePaRiO"
 	reaper
@@ -754,6 +770,7 @@ TFBot (RainKing / GentleMan / Hoerno/Nexus)
 	http://www.lockandload.com/tfbot/
 	tfb-v07.zip
 	are there two tfbots???? or three
+	https://www.bluesnews.com/files/patches/bots/tfb-v076.zip
 	more research to do here...
 TFBots (coffee)
 	http://www.fileplanet.com/dl.aspx?/planetquake/minion/tf_bots07.zip
@@ -806,8 +823,16 @@ bot epidemic
 quake terminus
 	https://www.quaketerminus.com/bots.shtml
 bot area 51
+	http://www.rmbwenw.nl/botarea51/
+		https://web.archive.org/web/20020207004923/http://www.rmbwenw.nl/botarea51/
+	http://botarea51.impulse9.net
+	http://hosted.planetquake.gamespy.com/botarea51/main/default.asp
+		https://web.archive.org/web/20061031072726/http://hosted.planetquake.gamespy.com/botarea51/main/default.asp
+	http://www.planetquake.com/botarea51
+		https://web.archive.org/web/20020602140453/http://www.planetquake.com/botarea51/main/default.asp
 	https://www.quakewiki.net/archives/botarea51/main/qbots.html
 	https://www.quakewiki.net/archives/botarea51/main/history.html
+	(a mirror of botarea51 *files* would be really cool....)
 bot shop
 	https://web.archive.org/web/20020116204802/http://www.planetquake.com/botshop/quake.html
 	https://www.quakewiki.net/archives/botshop/code.html
@@ -839,6 +864,12 @@ bots united
 	http://bots-united.com/
 blues news
 	https://www.bluesnews.com/archives/
+	ftp://bluesnews.com/pub/bots/
+	https://www.bluesnews.com/files/patches/bots/
+		(a mirror of this from back in the day!!!!????)
+		Disappeared in 1998...
+stomped bot page
+	https://web.archive.org/web/19990202192708/http://www.stomped.com/
 
 Deathmatch With Bots (modern guide)
 	http://neogeographica.com/site/pages/guides/deathmatch_with_bots.html
