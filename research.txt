@@ -29,6 +29,12 @@ Reaper Bot
 	https://mrelusive.com/oldprojects/obots/Comments/Acumen/Reapers.htm
 	decompile reaper
 		http://www.insideqc.com/qctut/rip1.shtml
+	Steven Polge
+	polge@ix.netcom.com
+	https://www.bluesnews.com/archives/sept96-5.html
+	old versions?
+		ftp://ftp.pk.edu.pl/pub/games/id/quaketoys/mods/reaprb75.zip
+		http://www.nlink.com.br/quake/reaper80.zip
 ZeusBot
 	https://web.archive.org/web/20020821003701/http://www.planetquake.com/qca/reviews/patch52.htm
 	https://quake.fandom.com/wiki/Zeus_Bot
@@ -104,6 +110,9 @@ BPLAYER - Bot Player
 	https://www.quaddicted.com/files/idgames2/quakec/bots/bplayer2.txt
 	https://www.quaddicted.com/files/idgames2/quakec/bots/bplayer2.zip
 	Wolf
+	wolfg_l@pro-net.co.uk
+	http://www.pro-net.co.uk/home/wolfg_l
+	related to tfbot?
 Swimming Bot
 	baloo the bear (Greg Fukui aka julias_child)
 	https://www.quaddicted.com/files/idgames2/quakec/bots/swbot104.txt
@@ -735,6 +744,13 @@ FBXDC (FBX bot for dreamcast)
 	https://quakedev.dcemulation.org/downloads/fbxdc/fbxdc.zip
 	https://quakedev.dcemulation.org/fragger/
 	opt of scope?
+AE_Playmate
+	https://www.bluesnews.com/archives/august96.html
+	http://www.tf.hut.fi/~ath/Aesir/
+	"Clan Aesir"
+	http://www.tf.hut.fi/~ath/Aesir/bot.html
+	https://web.archive.org/web/19990117030446/http://www.tf.hut.fi/~ath/Aesir/bot.html
+	client side bot, it looks like
 
 
 
