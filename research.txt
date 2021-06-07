@@ -605,6 +605,10 @@ GlacierBot
 	may 2002
 	cannot locate a download
 	???
+JBot
+	http://www.phlamethrower.co.uk/quake/
+	http://www.phlamethrower.co.uk/quake/jbot.zip
+	Jeffrey Lee
 
 
 RESEARCHING...
@@ -799,7 +803,8 @@ Telefragged Mirrors
 	https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/
 bots united
 	http://bots-united.com/
-
+blues news
+	https://www.bluesnews.com/archives/
 
 Deathmatch With Bots (modern guide)
 	http://neogeographica.com/site/pages/guides/deathmatch_with_bots.html

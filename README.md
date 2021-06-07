@@ -57,6 +57,7 @@ GuardBot | Peter van Wingerden | [grdbot23.zip](bin/grdbot23.zip)
 GYPObot | Stephen Dobbs | [gypobot.zip](bin/gypobot.zip)
 Indecisive Bot (Gyrobot) | Aaron Logue aka "Gyro Gearloose" | [gyrobot.zip](bin/gyrobot.zip)
 IronWulvt's Deathmatch Bot | Ben Garrod aka "IronWulvt" | [iwbot21.zip](bin/iwbot21.zip) ($)
+JBot | Jeffrey Lee | [jbot](bin/jbot)
 Karnag-Bot | Ken Madlener | [knbot45.zip](bin/knbot45.zip)
 Killer Qcbot | William  Ravaine aka "Killer-Sub" | [kqcbots095b.zip](bin/kqcbots095b.zip)
 Koolio Bot | "Koolio" | ?
