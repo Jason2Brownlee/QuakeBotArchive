@@ -609,6 +609,11 @@ JBot
 	http://www.phlamethrower.co.uk/quake/
 	http://www.phlamethrower.co.uk/quake/jbot.zip
 	Jeffrey Lee
+Human Bot (Hbot)
+	http://www.phlamethrower.co.uk/quake/hbot.zip
+	Jeffrey Lee
+
+
 
 
 RESEARCHING...
