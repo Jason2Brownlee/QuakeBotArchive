@@ -881,6 +881,7 @@ OUT OF SCOPE
 - Monsters are out of scope for now.
 - Engine bots are probably out of scope.
 - What about quakeworld bots? (I don't even understand what that means yet...)
+	I think QW bots that are quakec might be in scope at this stage...
 
 GeneBot / Gene Bot
 	quakeworld
