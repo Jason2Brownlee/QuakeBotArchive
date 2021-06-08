@@ -98,11 +98,13 @@ Frog Bot Clan Arena (FBCA)
 	http://www.parboil.quakeworld.ru/parboil/fbca092kt.zip
 	https://web.archive.org/web/20060320053640/http://www.parboil.quakeworld.ru/parboil/fbca092kt.zip
 	what is it all?
-	https://web.archive.org/web/20100123221300/http://www.parboil.mailru.com/parboil/fbca091kt.zip
-	https://web.archive.org/web/20100123221300/http://www.parboil.mailru.com/parboil/fbca090kt.zip
-	https://web.archive.org/web/20100123221300/http://www.parboil.mailru.com/parboil/fbca089se.zip
-	https://web.archive.org/web/20100123221300/http://botepidemic.no-origin.net/fmods/fbca088.zip
-	https://web.archive.org/web/20100123221300/http://www.parboil.newmail.ru/parboil/fbca86se.zip
+	http://www.parboil.mailru.com/parboil/fbca091kt.zip
+	http://www.parboil.mailru.com/parboil/fbca090kt.zip
+	http://www.parboil.mailru.com/parboil/fbca089se.zip
+	http://botepidemic.no-origin.net/fmods/fbca088.zip
+	http://www.parboil.newmail.ru/parboil/fbca86se.zip
+	http://tux.telefragged.com/file.pl?filename=fbca085.zip
+		numb?
 FBCA 99
 	http://quakeone.com/proquake/frogbots-099.zip
 	https://steamcommunity.com/sharedfiles/filedetails/?id=123626484
@@ -290,6 +292,7 @@ elf bot
 	https://web.archive.org/web/20010228173520/http://www.planetquake.com/elf/elfbot.htm
 	elfbot.zip
 	https://www.quaddicted.com/files/idgames2/planetquake/elf/
+	http://www.conversions.net/elf/elfbot.zip
 Koolio Bot / KoolioBot / Koolio Arena Bot
 	https://web.archive.org/web/20001109033100/http://www.users.qwest.net/~mimpchnk/
 	based on tutor
@@ -823,6 +826,25 @@ frogbot ctf
 	http://parboil.quakeworld.ru/parboil/fbctf.zip
 	https://web.archive.org/web/20060320053702/http://parboil.quakeworld.ru/parboil/fbctf.zip
 	Frogbot CTF was developed by Gerard "numb" Ryan
+	https://www.mmnt.net/db/0/0/www.clan-rum.org/quake/bots
+	ftp://numb.macquakeinfinity.com/numb/ctf/fbctf033.zip
+	ftp://numb.macquakeinfinity.com/numb/ctf/fbctf032.zip
+	http://railgun.macquakeinfinity.com/downloads/fbctf030.zip
+	http://railgun.macquakeinfinity.com/downloads/fbctf026.zip
+	http://railgun.macquakeinfinity.com/downloads/fbctf024.zip
+	ftp://numb.macquakeinfinity.com/numb/ctf/fbctf023.zip
+	ftp://numb.macquakeinfinity.com/numb/ctf/fbctf021.zip
+	ftp://numb.macquakeinfinity.com/numb/ctf/fbctf019.zip
+	ftp://numb.macquakeinfinity.com/numb/ctf/fbctf015.zip
+	...
+	numb
+	numb@macquakeintosh.com
+Frogbot BotMatch Arena / BotMatch frogbot mod
+	DmSouL
+	dmsoul@mailru.com
+	http://www.dmsoul.mailru.com/botmatch/bm119gl.zip
+	bm119gl.zip
+	https://web.archive.org/web/20100123221244/http://www.dmsoul.mailru.com/botmatch/source_of_bm.ZIP
 
 
 RESEARCHING...
@@ -851,6 +873,9 @@ QW Bot Project
 	Mongoose
 	https://web.archive.org/web/20100123221300/http://darkskye.home.mindspring.com/quakeworld-20000102.tar.gz
 	https://www.quakewiki.net/archives/botshop/news.html
+quad hunt
+	http://users.skynet.be/bk236270/quad-hunt.htm
+	added a bot by plumb
 frogbot mods?
 	http://www.botepidemic.com/fmods/mods.htm
 	https://disenchant.net/blog/1999/0422/More_bot_stuff/
@@ -861,24 +886,32 @@ frogbot mods?
 		https://www.quaddicted.com/forum/viewtopic.php?id=58&p=2
 		https://web.archive.org/web/20120213074253/http://botepidemic.no-origin.net/fmods/tutorials.htm
 	looks like a ton of mods in here...
-	Frogbot BotMatch Arena
-		DmSouL
-		http://www.dmsoul.mailru.com/botmatch/bm119gl.zip
-	Asdf's FMOD
-		Asdf
-		asdfmod100.zip
-	MaNiAcbot v1.2
-		MaNiAc
-		maniacbt12.zip
-	Combination of all previous Khol's FMODS
-		kfmod.zip
-	frogbot 2000?
-		https://web.archive.org/web/20100123221300/http://botepidemic.no-origin.net/quake.shtml.htm
-		https://web.archive.org/web/20100123221300/http://tux.telefragged.com/file.pl?filename=f2k006d.zip&dir=telefragged/be/fmods/
-quad hunt
-	http://users.skynet.be/bk236270/quad-hunt.htm
-	added a bot by plumb
-
+Asdf's FMOD
+	Asdf
+	asdfmod100.zip
+MaNiAcbot v1.2
+	MaNiAc
+	maniacbt12.zip
+Combination of all previous Khol's FMODS
+	kfmod.zip
+frogbot 2000?
+	https://web.archive.org/web/20100123221300/http://botepidemic.no-origin.net/quake.shtml.htm
+	https://web.archive.org/web/20100123221300/http://tux.telefragged.com/file.pl?filename=f2k006d.zip
+	"Justice"
+	https://web.archive.org/web/20100123221300/http://tux.telefragged.com/file.pl?filename=f2k001a.zip
+Erazor frogbot "Test Special Edition"
+	https://web.archive.org/web/20100123221300/http://tux.telefragged.com/file.pl?filename=fb013se.zip
+	what is this?
+Future VS Fantasy / FvF Bot
+	https://web.archive.org/web/20100123221300/http://botepidemic.no-origin.net/quake.shtml.htm
+	- based on frika
+	???
+frikbot mods
+	https://web.archive.org/web/20000817070547/http://www.inside3d.com/frikbot/
+	...
+ Unknown Bot
+ 	https://web.archive.org/web/20100123221300/http://botepidemic.no-origin.net/quake.shtml.htm
+ 	http://members.xoom.com/_XOOM/unknownbot/
 
 
 
