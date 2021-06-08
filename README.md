@@ -73,6 +73,7 @@ Omicron Bot | Jan Paul van Waveren aka "Mr. Elusive" and Miklos de Rijk aka "H2S
 Omicron Fixes | Joel Baxter aka "Johnny Law" | [obots102-fixed.zip](bin/obots102-fixed.zip)
 Optimized Frogbot | Christian Michael aka "surgeon" | [frogbot.lha](bin/frogbot.lha)
 Paddybot | Patrick Stimson aka "sniper" | paddybot02.zip
+POXbot | "pOx" | [pox120b.zip](bin/pox120b.zip) (-)
 QCBot | Alan Kivlin | ?
 Quake Bot (QBot) | "Grinder" | [qbot11.zip](bin/qbot11.zip)
 R Bot | Ross Johnson aka "ColdKill" | [rbot70.zip](bin/rbot70.zip)
