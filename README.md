@@ -103,6 +103,7 @@ Victim Bot | Tony Tang aka "The TangMaster" | [vbot11.zip](bin/vbot11.zip)
 Wisp | Iikka Paavolainen | [wisp.zip](bin/wisp.zip) ($)
 Xreaper | "Mephisto" | xreaperb130.zip
 Zeus Bot | Jonathan E. Wright aka "Nelno the Amoeba" | [zeus205.zip](bin/zeus205.zip)
+Reaper + DM4 | "Hades" | [dm4reaper.zip](bin/dm4reaper.zip) (-)
 
 File Column:
 - **?** Indicates I could not discover the name of the bot mod filename.
