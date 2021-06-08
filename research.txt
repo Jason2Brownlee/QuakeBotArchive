@@ -856,7 +856,15 @@ Frogbot BotMatch Arena / BotMatch frogbot mod
 	https://web.archive.org/web/20100123221244/http://www.dmsoul.mailru.com/botmatch/source_of_bm.ZIP
 	https://web.archive.org/web/20100123221244/http://www.botepidemic.com/fmods/botmatch.ZIP
 	https://web.archive.org/web/20100123221244/http://dmsoul.newmail.ru/src.ZIP
-
+Frogbot 2000 / Frogbot 2K
+	https://web.archive.org/web/20100123221300/http://botepidemic.no-origin.net/quake.shtml.htm
+	https://web.archive.org/web/20100123221300/http://tux.telefragged.com/file.pl?filename=f2k006d.zip
+	"Justice"
+	https://web.archive.org/web/20100123221300/http://tux.telefragged.com/file.pl?filename=f2k001a.zip
+	datdeboer@gmx.net
+	https://web.archive.org/web/20100123221244/http://www.botepidemic.com/fmods/versie.zip
+	https://web.archive.org/web/20100123221244/http://www.3ddownloads.com/showfile.php3?filename=2000.zip
+	dennisbo@hotmail.com
 
 RESEARCHING...
 --------------------------------------------------------------------------------
@@ -905,13 +913,7 @@ MaNiAcbot v1.2
 	maniacbt12.zip
 Combination of all previous Khol's FMODS
 	kfmod.zip
-frogbot 2000?
-	https://web.archive.org/web/20100123221300/http://botepidemic.no-origin.net/quake.shtml.htm
-	https://web.archive.org/web/20100123221300/http://tux.telefragged.com/file.pl?filename=f2k006d.zip
-	"Justice"
-	https://web.archive.org/web/20100123221300/http://tux.telefragged.com/file.pl?filename=f2k001a.zip
-	datdeboer@gmx.net
-	https://web.archive.org/web/20100123221244/http://www.botepidemic.com/fmods/versie.zip
+
 
 Erazor frogbot "Test Special Edition"
 	https://web.archive.org/web/20100123221300/http://tux.telefragged.com/file.pl?filename=fb013se.zip
