@@ -75,41 +75,6 @@ Optimized Frogbot
 	http://aminet.net/package/game/patch/frogbot
 	Christian Michael aka "surgeon"
 	http://aminet.net/game/patch/frogbot.lha
-Frog Bot Clan Arena (FBCA)
-	https://steamcommunity.com/sharedfiles/filedetails/?id=123626484
-	https://web.archive.org/web/20000303070145/http://www.botepidemic.com/bots/quake.shtml
-	https://s3.amazonaws.com/neogeographica-downloads/guides/deathmatch_with_bots/fbca102kt.zip
-	adds frog bots to clean arean mod
-	https://web.archive.org/web/20060210223446if_/http://www.parboil.quakeworld.ru:80/
-	ParboiL
-	http://www.parboil.quakeworld.ru
-	https://github.com/ezQuake/fbca/blob/master/doc/fbca101kt_rus.txt
-	https://www.quakewiki.net/archives/cronos/index89c3.html?links.html
-	Alexey 'ParboiL' Pakhomov
-	Alexey Pakhomov aka "ParboiL"
-		parboil@quakeworld.ru
-	http://www.parboil.quakeworld.ru/parboil/fbca101final.zip
-	https://github.com/ezQuake/fbca
-	fbca101kt.zip
-	lots on this page...
-	https://web.archive.org/web/20050302135544if_/http://parboil.quakeworld.ru/index.html?files.html
-	https://web.archive.org/web/20100123221244/http://botepidemic.no-origin.net/fmods/fbca088.zip
-	https://web.archive.org/web/20100123221244/http://www.parboil.mailru.com/parboil/fbca092kt.zip
-	http://www.parboil.quakeworld.ru/parboil/fbca092kt.zip
-	https://web.archive.org/web/20060320053640/http://www.parboil.quakeworld.ru/parboil/fbca092kt.zip
-	what is it all?
-	http://www.parboil.mailru.com/parboil/fbca091kt.zip
-	http://www.parboil.mailru.com/parboil/fbca090kt.zip
-	http://www.parboil.mailru.com/parboil/fbca089se.zip
-	http://botepidemic.no-origin.net/fmods/fbca088.zip
-	http://www.parboil.newmail.ru/parboil/fbca86se.zip
-	http://tux.telefragged.com/file.pl?filename=fbca085.zip
-		numb?
-FBCA 99
-	http://quakeone.com/proquake/frogbots-099.zip
-	https://steamcommunity.com/sharedfiles/filedetails/?id=123626484
-	http://forums.runecentral.com/viewtopic.php?f=3&t=1494
-	baker
 BGBot
 	https://web.archive.org/web/20030310034438/http://www.planetquake.com/qca/reviews/patch8.htm
 	bgbot20a.zip
@@ -730,9 +695,6 @@ Frik-TF
 	bk039@freenet.carleton.ca
 	https://web.archive.org/web/20100123221300/http://www.ncf.ca/~bk039/frik-tf.zip
 	https://web.archive.org/web/20100123221300/http://www.ncf.ca/~bk039/friktfqw.zip
-Holy Wars Frogbot
-	https://www.gamers.org/pub/idgames2/planetquake/holywars/hw_frogbot13.zip
-	https://web.archive.org/web/20100123221300/http://www.planetquake.com/holywars/
 TFBots (coffee)
 	http://www.fileplanet.com/dl.aspx?/planetquake/minion/tf_bots07.zip
 	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/readbots.txt
@@ -819,12 +781,54 @@ FBXDC (FBX bot for dreamcast)
 	https://quakedev.dcemulation.org/downloads/fbxdc/fbxdc.zip
 	https://quakedev.dcemulation.org/fragger/
 	opt of scope?
-frogbot ctf
+Holy Wars Frogbot / Holywars Frogbot
+	https://www.gamers.org/pub/idgames2/planetquake/holywars/hw_frogbot13.zip
+	Gerard Ryan aka "numb and Paolo Perrotta aka "Nusco"
+	http://www.planetquake.com/holywars/
+	http://www.botepidemic.com/fmods/hw_frogbot14h.zip
+		newer version...
+Frog Bot Clan Arena (FBCA)
+	https://steamcommunity.com/sharedfiles/filedetails/?id=123626484
+	https://web.archive.org/web/20000303070145/http://www.botepidemic.com/bots/quake.shtml
+	https://s3.amazonaws.com/neogeographica-downloads/guides/deathmatch_with_bots/fbca102kt.zip
+	adds frog bots to clean arean mod
+	https://web.archive.org/web/20060210223446if_/http://www.parboil.quakeworld.ru:80/
+	ParboiL
+	http://www.parboil.quakeworld.ru
+	https://github.com/ezQuake/fbca/blob/master/doc/fbca101kt_rus.txt
+	https://www.quakewiki.net/archives/cronos/index89c3.html?links.html
+	Alexey 'ParboiL' Pakhomov
+	Alexey Pakhomov aka "ParboiL"
+		parboil@quakeworld.ru
+	http://www.parboil.quakeworld.ru/parboil/fbca101final.zip
+	https://github.com/ezQuake/fbca
+	fbca101kt.zip
+	lots on this page...
+	https://web.archive.org/web/20050302135544if_/http://parboil.quakeworld.ru/index.html?files.html
+	https://web.archive.org/web/20100123221244/http://botepidemic.no-origin.net/fmods/fbca088.zip
+	https://web.archive.org/web/20100123221244/http://www.parboil.mailru.com/parboil/fbca092kt.zip
+	http://www.parboil.quakeworld.ru/parboil/fbca092kt.zip
+	https://web.archive.org/web/20060320053640/http://www.parboil.quakeworld.ru/parboil/fbca092kt.zip
+	what is it all?
+	http://www.parboil.mailru.com/parboil/fbca091kt.zip
+	http://www.parboil.mailru.com/parboil/fbca090kt.zip
+	http://www.parboil.mailru.com/parboil/fbca089se.zip
+	http://botepidemic.no-origin.net/fmods/fbca088.zip
+	http://www.parboil.newmail.ru/parboil/fbca86se.zip
+	http://tux.telefragged.com/file.pl?filename=fbca085.zip
+		numb?
+FBCA 99
+	http://quakeone.com/proquake/frogbots-099.zip
+	https://steamcommunity.com/sharedfiles/filedetails/?id=123626484
+	http://forums.runecentral.com/viewtopic.php?f=3&t=1494
+	baker
+frogbot ctf / Frogbot CTF / FBCTF
 	https://www.quakeworld.nu/forum/topic/516/needed-recommended-recent-ctf-mods
 	https://www.quakeworld.nu/forum/topic/1224/need-a-ctf-bot
 	Frogbot CTF by Paraboil
 	http://parboil.quakeworld.ru/parboil/fbctf.zip
 	https://web.archive.org/web/20060320053702/http://parboil.quakeworld.ru/parboil/fbctf.zip
+		this is v 032...
 	Frogbot CTF was developed by Gerard "numb" Ryan
 	https://www.mmnt.net/db/0/0/www.clan-rum.org/quake/bots
 	ftp://numb.macquakeinfinity.com/numb/ctf/fbctf033.zip
@@ -836,15 +840,22 @@ frogbot ctf
 	ftp://numb.macquakeinfinity.com/numb/ctf/fbctf021.zip
 	ftp://numb.macquakeinfinity.com/numb/ctf/fbctf019.zip
 	ftp://numb.macquakeinfinity.com/numb/ctf/fbctf015.zip
+	http://www.botepidemic.com/fmods/fbctf0532.zip
+		FINAL VERSION!
 	...
 	numb
+	Gerard "numb" Ryan
 	numb@macquakeintosh.com
 Frogbot BotMatch Arena / BotMatch frogbot mod
+	https://web.archive.org/web/20100123221244/http://botepidemic.no-origin.net/fmods/index.htm
+	Alex
 	DmSouL
 	dmsoul@mailru.com
 	http://www.dmsoul.mailru.com/botmatch/bm119gl.zip
 	bm119gl.zip
 	https://web.archive.org/web/20100123221244/http://www.dmsoul.mailru.com/botmatch/source_of_bm.ZIP
+	https://web.archive.org/web/20100123221244/http://www.botepidemic.com/fmods/botmatch.ZIP
+	https://web.archive.org/web/20100123221244/http://dmsoul.newmail.ru/src.ZIP
 
 
 RESEARCHING...
@@ -899,6 +910,9 @@ frogbot 2000?
 	https://web.archive.org/web/20100123221300/http://tux.telefragged.com/file.pl?filename=f2k006d.zip
 	"Justice"
 	https://web.archive.org/web/20100123221300/http://tux.telefragged.com/file.pl?filename=f2k001a.zip
+	datdeboer@gmx.net
+	https://web.archive.org/web/20100123221244/http://www.botepidemic.com/fmods/versie.zip
+
 Erazor frogbot "Test Special Edition"
 	https://web.archive.org/web/20100123221300/http://tux.telefragged.com/file.pl?filename=fb013se.zip
 	what is this?

@@ -51,7 +51,7 @@ FrikBot X (FBX) | Ryan Smith aka "Frika C" | [fbxc.zip](bin/fbxc.zip)
 FrikBot X+ (FBX+) | Igor9 | fbx+.zip
 FrikBot X++ (FBX++) | Joel Baxter aka "Johnny Law" | [fbx++.zip](bin/fbx++.zip)
 FrikBot | Ryan Smith aka "Frika C" | [frkbt09b.zip](bin/frkbt09b.zip)
-Frogbot BotMatch Arena | "DmSouL" | bm119gl.zip
+Frogbot BotMatch Arena | Alex aka "DmSouL" | [botmatch.ZIP](bin/botmatch.ZIP) (-)
 Frogbot Clan Arena (FBCA) 0.99 | "Baker" | [frogbots-099.zip](bin/frogbots-099.zip)
 Frogbot Clan Arena (FBCA) | Alexey Pakhomov aka "ParboiL" | [fbca102kt.zip](bin/fbca102kt.zip) (*)
 Frogbot CTF (FBCTF) | Gerard Ryan aka "numb" | [fbctf035.zip](bin/fbctf035.zip) (-)
@@ -60,7 +60,7 @@ Gideon Bot | Matthew Turvey | [gidbot.zip](bin/gidbot.zip)
 GlacierBot | "IceDagger" | gb027b.zip
 GuardBot | Peter van Wingerden | [grdbot23.zip](bin/grdbot23.zip)
 GYPObot | Stephen Dobbs | [gypobot.zip](bin/gypobot.zip)
-Holy Wars Frogbot | Gerard Ryan aka "numb and Paolo Perrotta aka "Nusco" | [hw_frogbot13.zip](bin/hw_frogbot13.zip) (-)
+Holywars Frogbot | Gerard Ryan aka "numb and Paolo Perrotta aka "Nusco" | [hw_frogbot13.zip](bin/hw_frogbot13.zip) (-)
 Human Bot (Hbot) | Jeffrey Lee | [hbot.zip](bin/hbot.zip)
 Indecisive Bot (Gyrobot) | Aaron Logue aka "Gyro Gearloose" | [gyrobot.zip](bin/gyrobot.zip)
 IronWulvt's Deathmatch Bot | Ben Garrod aka "IronWulvt" | [iwbot21.zip](bin/iwbot21.zip) ($)
