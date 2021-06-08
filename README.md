@@ -54,7 +54,7 @@ FrikBot | Ryan Smith aka "Frika C" | [frkbt09b.zip](bin/frkbt09b.zip)
 Frogbot BotMatch Arena | "DmSouL" | bm119gl.zip
 Frogbot Clan Arena (FBCA) 0.99 | "Baker" | [frogbots-099.zip](bin/frogbots-099.zip)
 Frogbot Clan Arena (FBCA) | Alexey Pakhomov aka "ParboiL" | [fbca102kt.zip](bin/fbca102kt.zip) (*)
-Frogbot CTF (FBCTF) | Gerard Ryan aka "numb" | [fbctf.zip](bin/fbctf.zip) (-)
+Frogbot CTF (FBCTF) | Gerard Ryan aka "numb" | [fbctf035.zip](bin/fbctf035.zip) (-)
 Frogbot | Robert Field aka "Frog" | [frogbot013.zip](bin/frogbot013.zip)
 Gideon Bot | Matthew Turvey | [gidbot.zip](bin/gidbot.zip)
 GlacierBot | "IceDagger" | gb027b.zip
