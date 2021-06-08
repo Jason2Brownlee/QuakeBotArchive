@@ -300,6 +300,8 @@ DOBBSBot
 	based on tutor
 	https://web.archive.org/web/20010114035500/http://www.dobbsnet.co.uk/dobbsbot.htm
 	http://www.dobbsnet.btinternet.co.uk/downloads/quake/dobbsbot15b.zip
+	http://www.dobbsnet.btinternet.co.uk/downloads/quake/dobbsbot15a.zip
+	https://web.archive.org/web/20100123221300/http://botepidemic.no-origin.net/quake.shtml.htm
 	DOBBSbot v1.5b
 	cannot locate
 	???
@@ -708,6 +710,11 @@ Frik-TF
 	http://www.egroups.com/group/friktf/
 	http://www.ncf.ca/~bk039/
 	https://web.archive.org/web/20020207024220/http://www.ncf.ca/~bk039/bugs.htm
+	http://www.egroups.com/files/friktf/friktf-051800-qw.zip
+	http://www.mdqnet.net/friktf/
+	bk039@freenet.carleton.ca
+	https://web.archive.org/web/20100123221300/http://www.ncf.ca/~bk039/frik-tf.zip
+	https://web.archive.org/web/20100123221300/http://www.ncf.ca/~bk039/friktfqw.zip
 
 
 RESEARCHING...
