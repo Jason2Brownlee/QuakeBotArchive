@@ -93,6 +93,9 @@ Frog Bot Clan Arena (FBCA)
 	fbca101kt.zip
 	lots on this page...
 	https://web.archive.org/web/20050302135544if_/http://parboil.quakeworld.ru/index.html?files.html
+	https://web.archive.org/web/20100123221244/http://botepidemic.no-origin.net/fmods/fbca088.zip
+	https://web.archive.org/web/20100123221244/http://www.parboil.mailru.com/parboil/fbca092kt.zip
+	http://www.parboil.quakeworld.ru/parboil/fbca092kt.zip
 	what is it all?
 FBCA 99
 	http://quakeone.com/proquake/frogbots-099.zip
@@ -517,11 +520,14 @@ FrikBotX / FBX
 	https://web.archive.org/web/20021223155711/http://www.inside3d.com/frikbot/fbx/
 	http://www.dr-shost.com/freqs/dosgam/fbxa.zip
 	http://www.inside3d.com/frikbot/fbx/fbxb.zip
+	https://www.quaddicted.com/files/mods/fbxc.zip
+		https://www.quaddicted.com/webarchive/forums.insideqc.com/viewtopic.php%3Ff=1&t=5411.html
 FrikBot X++ (FBX++)
 	https://steamcommunity.com/sharedfiles/filedetails/?id=123626484
 	https://neogeographica.com/site/pages/mods/fbxpp.html
 	Johnny Law
 	https://s3.amazonaws.com/neogeographica-downloads/mods/fbxpp/fbx%2B%2B.zip
+	https://www.quaddicted.com/files/mods/bots/fbx%2B%2B.zip
 FrikBot X+ (FBX+) fbx+
 	https://steamcommunity.com/sharedfiles/filedetails/?id=123626484
 	https://neogeographica.com/site/pages/mods/fbxpp.html
@@ -697,7 +703,14 @@ Norsebot
 	not a bot?
 	???
 frogbot mods?
+	http://www.botepidemic.com/fmods/mods.htm
+	https://disenchant.net/blog/1999/0422/More_bot_stuff/
+		Kevin Shanahan
 	https://web.archive.org/web/20020214103444/http://www.botepidemic.com/fmods/mods.htm
+	mirror
+		http://botepidemic.no-origin.net/fmods/tutorials.htm
+		https://www.quaddicted.com/forum/viewtopic.php?id=58&p=2
+		https://web.archive.org/web/20120213074253/http://botepidemic.no-origin.net/fmods/tutorials.htm
 	looks like a ton of mods in here...
 	Frogbot BotMatch Arena
 		DmSouL
