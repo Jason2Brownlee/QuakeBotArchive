@@ -816,6 +816,13 @@ FBXDC (FBX bot for dreamcast)
 	https://quakedev.dcemulation.org/downloads/fbxdc/fbxdc.zip
 	https://quakedev.dcemulation.org/fragger/
 	opt of scope?
+frogbot ctf
+	https://www.quakeworld.nu/forum/topic/516/needed-recommended-recent-ctf-mods
+	https://www.quakeworld.nu/forum/topic/1224/need-a-ctf-bot
+	Frogbot CTF by Paraboil
+	http://parboil.quakeworld.ru/parboil/fbctf.zip
+	https://web.archive.org/web/20060320053702/http://parboil.quakeworld.ru/parboil/fbctf.zip
+	Frogbot CTF was developed by Gerard "numb" Ryan
 
 
 RESEARCHING...
