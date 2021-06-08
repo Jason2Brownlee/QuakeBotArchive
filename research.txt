@@ -276,6 +276,11 @@ Paddybot
 	https://web.archive.org/web/20001213060000/http://www.fileplanet.com/index.asp?section=66
 	https://web.archive.org/web/20010110032600/http://www.fileplanet.com/index.asp?section=66&file=28002
 	Cannot find file...
+	https://web.archive.org/web/20000815235932/mailto:sniper@isleofmull56.freeserve.co.uk
+	https://web.archive.org/web/20000815235932/http://www.botepidemic.com/quake.shtml
+	Patrick Stimson
+	https://web.archive.org/web/20000815235932/http://www.isleofmull56.freeserve.co.uk/
+	https://web.archive.org/web/20000815235932/http://www.isleofmull56.freeserve.co.uk/paddybot.zip
 	???
 elf bot
 	https://web.archive.org/web/20001109033100/http://www.users.qwest.net/~mimpchnk/
