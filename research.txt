@@ -776,7 +776,30 @@ TFBot (RainKing / GentleMan / Hoerno/Nexus)
 	Wolfgang Lehrach
 		moved on from the project around: Sunday, November 16, 1997
 		https://www.bluesnews.com/archives/nov97-3.html
-
+POXbot / Paroxysm
+	based on tutor
+	https://www.quaddicted.com/files/idgames2/planetquake/paroxysm/pox04doc.htm
+	just a bot added to a mod
+	based on tutor bot
+	https://web.archive.org/web/20010602102355/http://www.planetquake.com/paroxysm/
+	pox@planetquake.com
+	https://www.quakewiki.net/quake-1/mods/paroxysm/
+	https://www.quaddicted.com/files/idgames2/planetquake/paroxysm/
+Decker's Reapers
+	reaper clone
+	http://www.insideqc.com/qctut/rip1.shtml
+		first to merge it with soa and painkiller
+	https://web.archive.org/web/20000831165233/http://planetquake.com/botshop/quake.html
+	https://web.archive.org/web/20000817093218/http://home1.inet.tele.dk/decker/frames.htm
+	https://web.archive.org/web/20000831180537/http://home1.inet.tele.dk/decker/
+	Bent Svendsen aka "Decker"
+	https://www.quaddicted.com/files/idgames2/quakec/bots/pkbot.txt
+	https://www.quaddicted.com/files/idgames2/quakec/bots/pkbot.zip
+		Painkeep Reaper
+	https://www.quaddicted.com/files/idgames2/quakec/bots/hipreap3.zip
+	https://www.quaddicted.com/files/idgames2/quakec/bots/hipreap3.txt
+		soa / Hipnotic pack
+	just reapers added to another mod...
 
 RESEARCHING...
 --------------------------------------------------------------------------------
@@ -828,33 +851,6 @@ frogbot mods?
 	frogbot 2000?
 		https://web.archive.org/web/20100123221300/http://botepidemic.no-origin.net/quake.shtml.htm
 		https://web.archive.org/web/20100123221300/http://tux.telefragged.com/file.pl?filename=f2k006d.zip&dir=telefragged/be/fmods/
-POXbot / Paroxysm
-	based on tutor
-	https://www.quaddicted.com/files/idgames2/planetquake/paroxysm/pox04doc.htm
-	just a bot added to a mod
-	based on tutor bot
-	https://web.archive.org/web/20010602102355/http://www.planetquake.com/paroxysm/
-	pox@planetquake.com
-	https://www.quakewiki.net/quake-1/mods/paroxysm/
-	https://www.quaddicted.com/files/idgames2/planetquake/paroxysm/
-
-
-Decker's Reapers
-	reaper clone
-	http://www.insideqc.com/qctut/rip1.shtml
-		first to merge it with soa and painkiller
-	https://web.archive.org/web/20000831165233/http://planetquake.com/botshop/quake.html
-	https://web.archive.org/web/20000817093218/http://home1.inet.tele.dk/decker/frames.htm
-	https://web.archive.org/web/20000831180537/http://home1.inet.tele.dk/decker/
-	Bent Svendsen aka "Decker"
-	https://www.quaddicted.com/files/idgames2/quakec/bots/pkbot.txt
-	https://www.quaddicted.com/files/idgames2/quakec/bots/pkbot.zip
-		Painkeep Reaper
-	https://www.quaddicted.com/files/idgames2/quakec/bots/hipreap3.zip
-	https://www.quaddicted.com/files/idgames2/quakec/bots/hipreap3.txt
-		soa / Hipnotic pack
-	out of scope
-	just reapers added to another mod...
 dm4reaper
 	https://www.quaddicted.com/files/idgames2/quakec/bots/dm4reaper.txt
 	https://www.quaddicted.com/files/idgames2/quakec/bots/dm4reaper.zip

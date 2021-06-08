@@ -78,6 +78,8 @@ QCBot | Alan Kivlin | ?
 Quake Bot (QBot) | "Grinder" | [qbot11.zip](bin/qbot11.zip)
 R Bot | Ross Johnson aka "ColdKill" | [rbot70.zip](bin/rbot70.zip)
 Reapa | Terry Hendrix II aka "Mongoose" | ?
+Reaper + Hipnotic | Bent Svendsen aka "Decker" | [hipreap3.zip](bin/hipreap3.zip) (-)
+Reaper + Painkeep | Bent Svendsen aka "Decker" | [pkbot.zip](bin/pkbot.zip) (-)
 Reaper Bot | Steven Polge | [reaprb81.zip](bin/reaprb81.zip)
 ReaperFX Bot | A. W. Johnstone aka "Pob the Impaler" | [reaperfx.zip](bin/reaperfx.zip)
 Ric's Reaper Bots | "Ric" | [reap081h.zip](bin/reap081h.zip) ($)
