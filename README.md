@@ -62,7 +62,7 @@ IronWulvt's Deathmatch Bot | Ben Garrod aka "IronWulvt" | [iwbot21.zip](bin/iwbo
 JBot | Jeffrey Lee | [jbot](bin/jbot)
 Karnag-Bot | Ken Madlener | [knbot45.zip](bin/knbot45.zip)
 Killer Qcbot | William  Ravaine aka "Killer-Sub" | [kqcbots095b.zip](bin/kqcbots095b.zip)
-Koolio Bot | "Koolio" | ?
+Kooliobot | "Koolio" | koolio.zip
 Lithium CTF Bot | Juan Ignacio Rava aka "Johnny" | [lith091c.zip](bin/lith091c.zip)
 MaNiAcBot | Michael Turitzin aka "MaNiAc" | [maniacbt.zip](bin/maniacbt.zip)
 MyBot | Stephen Vanterpool | [mybot16.zip](bin/mybot16.zip)

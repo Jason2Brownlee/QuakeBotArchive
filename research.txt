@@ -294,6 +294,13 @@ Koolio Bot / KoolioBot / Koolio Arena Bot
 	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/tutorial/locdam.htm
 	http://www.planetkoolio.com/
 	https://web.archive.org/web/20010304020445/http://www.planetkoolio.com/projects.shtml
+	https://web.archive.org/web/20000815235932/http://www.botepidemic.com/quake.shtml
+	1.0.1
+	https://web.archive.org/web/20000815235932/http://tux.telefragged.com/file.pl?filename=kooliobot.zip&dir=telefragged/be/koolio/
+	http://www.angelfire.com/co2/kooliobot/
+	https://web.archive.org/web/20020213013855/http://www.angelfire.com/co2/kooliobot/
+	https://web.archive.org/web/20020411053258/http://www.angelfire.com/co2/kooliobot/images/koolio.zip
+	https://web.archive.org/web/20011021092620fw_/http://www.angelfire.com/co2/kooliobot/info.html
 	???
 DOBBSBot
 	https://web.archive.org/web/20001109033100/http://www.users.qwest.net/~mimpchnk/
@@ -738,6 +745,11 @@ Norsebot
 	https://www.gamers.org/pub/idgames2/quakec/bots/btsk23.txt
 	not a bot?
 	???
+QW Bot Project
+	https://web.archive.org/web/20100123221300/http://botepidemic.no-origin.net/quake.shtml.htm
+	Mongoose
+	https://web.archive.org/web/20100123221300/http://darkskye.home.mindspring.com/quakeworld-20000102.tar.gz
+	https://www.quakewiki.net/archives/botshop/news.html
 frogbot mods?
 	http://www.botepidemic.com/fmods/mods.htm
 	https://disenchant.net/blog/1999/0422/More_bot_stuff/
@@ -759,6 +771,9 @@ frogbot mods?
 		maniacbt12.zip
 	Combination of all previous Khol's FMODS
 		kfmod.zip
+	frogbot 2000?
+		https://web.archive.org/web/20100123221300/http://botepidemic.no-origin.net/quake.shtml.htm
+		https://web.archive.org/web/20100123221300/http://tux.telefragged.com/file.pl?filename=f2k006d.zip&dir=telefragged/be/fmods/
 
 
 
