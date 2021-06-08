@@ -727,6 +727,55 @@ Frik-TF
 	bk039@freenet.carleton.ca
 	https://web.archive.org/web/20100123221300/http://www.ncf.ca/~bk039/frik-tf.zip
 	https://web.archive.org/web/20100123221300/http://www.ncf.ca/~bk039/friktfqw.zip
+Holy Wars Frogbot
+	https://www.gamers.org/pub/idgames2/planetquake/holywars/hw_frogbot13.zip
+	https://web.archive.org/web/20100123221300/http://www.planetquake.com/holywars/
+TFBots (coffee)
+	http://www.fileplanet.com/dl.aspx?/planetquake/minion/tf_bots07.zip
+	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/readbots.txt
+	https://www.quaddicted.com/quake_advent_calendar_2013/13-18
+	Darryl Atchison aka "coffee"
+	coffee@planetquake.com
+TFBot (FrikbotX)
+	http://www.botepidemic.com/tfb/
+	https://web.archive.org/web/20020112065618/http://www.botepidemic.com/tfb/
+	Plumb
+	no files...
+TFBot (RainKing / GentleMan / Hoerno/Nexus)
+	https://web.archive.org/web/20000831165233/http://planetquake.com/botshop/quake.html
+	http://www.planetquake.com/tfbot
+		wattsup@cedar.alberni.net
+	https://web.archive.org/web/20000303070145/http://www.botepidemic.com/bots/quake.shtml
+	"RainKing"
+	bot for team fortress...
+	https://web.archive.org/web/19990203170848/http://planetquake.com/tfbot/
+		wattsup@cedar.alberni.net
+	https://web.archive.org/web/19991009024128/ftp://ftp.cdrom.com/pub/idgames2/planetquake/tfbot/tfbot080.zip
+	https://dukeworld.com/planetquake/tfbot/
+	does not unzip, had to use another program
+	no source or readme, not sure what it's based on...
+	older versions have src
+		https://dukeworld.com/planetquake/tfbot/TFBot076.zip
+		based on not skeleton
+	wolfg_l@pro-net.co.uk
+	"GentleMan"
+	http://www.pro-net.co.uk/home/wolfg_l/
+	https://web.archive.org/web/19990127110318/http://www.pro-net.co.uk/home/wolfg_l/
+	https://www.quakewiki.net/archives/botarea51/main/qbot2e5f.html?id=22
+	Hoerno/Nexus ?
+		Joern Strombach / Hoerno@o-online.de
+		maybe a fix for the prior version by "GentleMan"?
+	https://web.archive.org/web/19990218040426/http://www.planetquake.com/qca/reviews/patch107.htm
+	http://www.lockandload.com/tfbot/
+	tfb-v07.zip
+		???
+		RainKing
+	are there two tfbots???? or three
+	https://www.bluesnews.com/files/patches/bots/tfb-v076.zip
+	more research to do here...
+	Wolfgang Lehrach
+		moved on from the project around: Sunday, November 16, 1997
+		https://www.bluesnews.com/archives/nov97-3.html
 
 
 RESEARCHING...
@@ -779,23 +828,10 @@ frogbot mods?
 	frogbot 2000?
 		https://web.archive.org/web/20100123221300/http://botepidemic.no-origin.net/quake.shtml.htm
 		https://web.archive.org/web/20100123221300/http://tux.telefragged.com/file.pl?filename=f2k006d.zip&dir=telefragged/be/fmods/
-
-
-
-OUT OF SCOPE
---------------------------------------------------------------------------------
-
-GeneBot / Gene Bot
-	quakeworld
-	http://www.randars.com/bots/bots1.html
-	http://www.atomicgamer.com/files/14507/release-3-of-the-quakeworld-genebot-server
-	https://web.archive.org/web/20010124062700/http://www.telefragged.com/thefatal/
-	https://web.archive.org/web/20010113234600/http://www.telefragged.com/thefatal/cgi-bin/download.pl?genbot03.zip
-	https://www.richwhitehouse.com/filemirror/genbot03.zip
-	quake world
-Minion
-	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/minion.htm
-	monster bot
+POXbot
+	based on tutor
+	https://www.quaddicted.com/files/idgames2/planetquake/paroxysm/pox04doc.htm
+	just a bot added to a mod
 Decker's Reapers
 	reaper clone
 	http://www.insideqc.com/qctut/rip1.shtml
@@ -812,13 +848,43 @@ Decker's Reapers
 		soa / Hipnotic pack
 	out of scope
 	just reapers added to another mod...
-POXbot
-	based on tutor
-	https://www.quaddicted.com/files/idgames2/planetquake/paroxysm/pox04doc.htm
-	just a bot added to a mod
+dm4reaper
+	https://www.quaddicted.com/files/idgames2/quakec/bots/dm4reaper.txt
+	https://www.quaddicted.com/files/idgames2/quakec/bots/dm4reaper.zip
+	adds reapers to a mod (in a sense)
+FBXDC (FBX bot for dreamcast)
+	https://dcemulation.org/phpBB/viewtopic.php?f=14&t=7151
+	http://www.inside3d.com/frikbot/fbxdc.zip
+	https://quakedev.dcemulation.org/downloads/fbxdc/fbxdc.zip
+	https://quakedev.dcemulation.org/fragger/
+	opt of scope?
+quad hunt
+	http://users.skynet.be/bk236270/quad-hunt.htm
+	added a bot by plumb
+
+
+OUT OF SCOPE
+--------------------------------------------------------------------------------
+- Client-side bots / proxy bots / aim bots are all out of scope for now.
+- Monsters are out of scope for now.
+- Engine bots are probably out of scope.
+- What about quakeworld bots? (I don't even understand what that means yet...)
+
+GeneBot / Gene Bot
+	quakeworld
+	http://www.randars.com/bots/bots1.html
+	http://www.atomicgamer.com/files/14507/release-3-of-the-quakeworld-genebot-server
+	https://web.archive.org/web/20010124062700/http://www.telefragged.com/thefatal/
+	https://web.archive.org/web/20010113234600/http://www.telefragged.com/thefatal/cgi-bin/download.pl?genbot03.zip
+	https://www.richwhitehouse.com/filemirror/genbot03.zip
+	quake world
+Minion
+	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/minion.htm
+	monster
 dragon
 	http://www.insideqc.com/modindex/qreview/drag.shtml
 	https://web.archive.org/web/19990125075903/http://203.32.12.18/
+	monster
 Mystery Bot
 	http://www.insideqc.com/modindex/qreview/mys.shtml
 	client-side
@@ -835,53 +901,6 @@ mikeBot
 stooge bot
 	https://graphics.stanford.edu/~kekoa/stoogebot/about.html
 	client side
-dm4reaper
-	https://www.quaddicted.com/files/idgames2/quakec/bots/dm4reaper.txt
-	https://www.quaddicted.com/files/idgames2/quakec/bots/dm4reaper.zip
-	adds reapers to a mod (in a sense)
-TFBot (RainKing / GentleMan / Hoerno/Nexus)
-	https://web.archive.org/web/20000831165233/http://planetquake.com/botshop/quake.html
-	http://www.planetquake.com/tfbot
-	https://web.archive.org/web/20000303070145/http://www.botepidemic.com/bots/quake.shtml
-	"RainKing"
-	bot for team fortress...
-	https://web.archive.org/web/19990203170848/http://planetquake.com/tfbot/
-		wattsup@cedar.alberni.net
-	https://web.archive.org/web/19991009024128/ftp://ftp.cdrom.com/pub/idgames2/planetquake/tfbot/tfbot080.zip
-	https://dukeworld.com/planetquake/tfbot/
-	does not unzip, had to use another program
-	no source or readme, not sure what it's based on...
-	older versions have src
-		https://dukeworld.com/planetquake/tfbot/TFBot076.zip
-		based on not skeleton
-	wolfg_l@pro-net.co.uk
-	"GentleMan"
-	http://www.pro-net.co.uk/home/wolfg_l/
-	https://web.archive.org/web/19990127110318/http://www.pro-net.co.uk/home/wolfg_l/
-	https://www.quakewiki.net/archives/botarea51/main/qbot2e5f.html?id=22
-	Hoerno/Nexus ?
-		Joern Strombach / Hoerno@o-online.de
-		maybe a fix for the prior version by "GentleMan"?
-	https://web.archive.org/web/19990218040426/http://www.planetquake.com/qca/reviews/patch107.htm
-	http://www.lockandload.com/tfbot/
-	tfb-v07.zip
-	are there two tfbots???? or three
-	https://www.bluesnews.com/files/patches/bots/tfb-v076.zip
-	more research to do here...
-	Wolfgang Lehrach
-		moved on from the project around: Sunday, November 16, 1997
-		https://www.bluesnews.com/archives/nov97-3.html
-TFBots (coffee)
-	http://www.fileplanet.com/dl.aspx?/planetquake/minion/tf_bots07.zip
-	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/readbots.txt
-	https://www.quaddicted.com/quake_advent_calendar_2013/13-18
-	Darryl Atchison aka "coffee"
-	coffee@planetquake.com
-TFBot (FrikbotX)
-	http://www.botepidemic.com/tfb/
-	https://web.archive.org/web/20020112065618/http://www.botepidemic.com/tfb/
-	Plumb
-	no files...
 Requiem QW Bot
 	https://web.archive.org/web/20000303070145/http://www.botepidemic.com/bots/quake.shtml
 	Requiem
@@ -890,18 +909,12 @@ Requiem QW Bot
 	https://www.quakeworld.nu/wiki/Requiem
 	bots added to a mod I believe
 Itchy Bot
-	client side
 	https://web.archive.org/web/20001027075424/http://www.botepidemic.com/bots/quake.shtml
 	https://web.archive.org/web/20000818034616/http://www-mddsp.enel.ucalgary.ca/People/dreveny/itchy/index.html
+	client side
 PandoraBot
 	https://web.archive.org/web/20001027075424/http://www.botepidemic.com/bots/quake.shtml
 	client side
-FBXDC (FBX bot for dreamcast)
-	https://dcemulation.org/phpBB/viewtopic.php?f=14&t=7151
-	http://www.inside3d.com/frikbot/fbxdc.zip
-	https://quakedev.dcemulation.org/downloads/fbxdc/fbxdc.zip
-	https://quakedev.dcemulation.org/fragger/
-	opt of scope?
 AE_Playmate
 	https://www.bluesnews.com/archives/august96.html
 	http://www.tf.hut.fi/~ath/Aesir/
@@ -950,6 +963,7 @@ ai cafe links
 	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/links.htm
 file planet bots
 	https://web.archive.org/web/20001213060000/http://www.fileplanet.com/index.asp?section=66
+	https://wiki.archiveteam.org/index.php?title=Fileplanet
 quake preservation page
 	http://www.geocities.ws/oldquaker/pres1.html
 	all the client side bots...
@@ -965,6 +979,7 @@ PlanetQuake Mirrors
 	https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/
 	https://www.quaddicted.com/files/idgames2/planetquake/
 	http://dukeworld.com/planetquake/
+	https://www.gamers.org/pub/idgames2/planetquake/
 Telefragged Mirrors
 	http://dukeworld.duke4.net/telefragged/
 	https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/

@@ -44,7 +44,7 @@ Eliminator Bot v1 | Jon Down aka "Perged" | [elim141.zip](bin/elim141.zip)
 Eliminator Bot v2 | Jon Down aka "Perged" and P. T. Craig aka "FuzzKatT" | Elim20b7.zip
 Estep Bot (EsTePBot) | Enrique Gonzalez Alonso aka "EsTePaRiO" | [estepbot2eng.zip](bin/estepbot2eng.zip)
 Frag Bot | Richard Peacock aka "The Goat" | [fragbot.zip](bin/fragbot.zip)
-Frik-TF | Raymond Martineau | [friktf-092800.zip](bin/friktf-092800.zip)
+Frik-TF | Raymond Martineau | [friktf-092800.zip](bin/friktf-092800.zip) (-)
 FrikBot X (FBX) | Ryan Smith aka "Frika C" | [fbxc.zip](bin/fbxc.zip)
 FrikBot X+ (FBX+) | Igor9 | fbx+.zip
 FrikBot X++ (FBX++) | Joel Baxter aka "Johnny Law" | [fbx++.zip](bin/fbx++.zip)
@@ -56,7 +56,7 @@ Gideon Bot | Matthew Turvey | [gidbot.zip](bin/gidbot.zip)
 GlacierBot | "IceDagger" | gb027b.zip
 GuardBot | Peter van Wingerden | [grdbot23.zip](bin/grdbot23.zip)
 GYPObot | Stephen Dobbs | [gypobot.zip](bin/gypobot.zip)
-Holy Wars Frogbot | Gerard Ryan aka "numb and Paolo Perrotta aka "Nusco" | [hw_frogbot13.zip](bin/hw_frogbot13.zip)
+Holy Wars Frogbot | Gerard Ryan aka "numb and Paolo Perrotta aka "Nusco" | [hw_frogbot13.zip](bin/hw_frogbot13.zip) (-)
 Human Bot (Hbot) | Jeffrey Lee | [hbot.zip](bin/hbot.zip)
 Indecisive Bot (Gyrobot) | Aaron Logue aka "Gyro Gearloose" | [gyrobot.zip](bin/gyrobot.zip)
 IronWulvt's Deathmatch Bot | Ben Garrod aka "IronWulvt" | [iwbot21.zip](bin/iwbot21.zip) ($)
@@ -64,7 +64,7 @@ JBot | Jeffrey Lee | [jbot](bin/jbot)
 Karnag-Bot | Ken Madlener | [knbot45.zip](bin/knbot45.zip)
 Killer Qcbot | William  Ravaine aka "Killer-Sub" | [kqcbots095b.zip](bin/kqcbots095b.zip)
 Kooliobot | "Koolio" | koolio.zip
-Lithium CTF Bot | Juan Ignacio Rava aka "Johnny" | [lith091c.zip](bin/lith091c.zip)
+Lithium CTF Bot | Juan Ignacio Rava aka "Johnny" | [lith091c.zip](bin/lith091c.zip) (-)
 MaNiAcBot | Michael Turitzin aka "MaNiAc" | [maniacbt.zip](bin/maniacbt.zip)
 MyBot | Stephen Vanterpool | [mybot16.zip](bin/mybot16.zip)
 Navy SEALs sQuad bots | William van der Sterren | [nseal201.zip](bin/nseal201.zip)
@@ -87,6 +87,10 @@ Square Bot | Ashley Reynolds aka "Ze0" | ?
 Squirt Bot | Michael Buettner aka "Squirt" | [squirt13.zip](bin/squirt13.zip)
 Swimming Bot (Swimbot) | Greg Fukui aka "baloo the bear" | [swbot104.zip](bin/swbot104.zip) ($)
 Tballman | "Mother" | [tballman.zip](bin/tballman.zip)
+Team Fortress Bots | Darryl Atchison aka "coffee" | [tf_bots07.zip](bin/tf_bots07.zip) (-)
+TFBot | "Plumb" | ?
+TFBots | Joern Strombach aka "Hoerno" | [tfbot080.zip](bin/tfbot080.zip) (-)
+TFBots | Wolfgang Lehrach aka "GentleMan" | [tfbot077.zip](bin/tfbot077.zip) (-)
 The Oak | John Crickett and Neil Henderson | [oak0405.zip](bin/oak0405.zip)
 TLG QuakeBOT (Larva) | James Cullen aka "Jaymz" and Chris Cullen aka "Incubus" | [tlgbot.zip](bin/tlgbot.zip)
 TM Bot | Micheal Polucha and Tim Polucha | [tmbot11.zip](bin/tmbot11.zip)
@@ -100,6 +104,7 @@ Zeus Bot | Jonathan E. Wright aka "Nelno the Amoeba" | [zeus205.zip](bin/zeus205
 File Column:
 - **?** Indicates I could not discover the name of the bot mod filename.
 - **unlinked** Indicates I discovered the filename but could not find a copy of the file to archive.
+- **(-)** Indicates I did not try and get it working (yet) likely because it is for some mod.
 - **($)** Indicates I had to do work like compile, create subdirectories, etc.
 - **(*)** Indicates I could not get it to run or could not spawn a bot.
 
