@@ -75,7 +75,6 @@ Optimized Frogbot
 	http://aminet.net/package/game/patch/frogbot
 	Christian Michael aka "surgeon"
 	http://aminet.net/game/patch/frogbot.lha
-
 Frog Bot Clan Arena (FBCA)
 	https://steamcommunity.com/sharedfiles/filedetails/?id=123626484
 	https://web.archive.org/web/20000303070145/http://www.botepidemic.com/bots/quake.shtml
@@ -87,8 +86,14 @@ Frog Bot Clan Arena (FBCA)
 	https://github.com/ezQuake/fbca/blob/master/doc/fbca101kt_rus.txt
 	https://www.quakewiki.net/archives/cronos/index89c3.html?links.html
 	Alexey 'ParboiL' Pakhomov
-	https://web.archive.org/web/*/http://www.parboil.quakeworld.ru/parboil/fbca101final.zip
+	Alexey Pakhomov aka "ParboiL"
+		parboil@quakeworld.ru
+	http://www.parboil.quakeworld.ru/parboil/fbca101final.zip
 	https://github.com/ezQuake/fbca
+	fbca101kt.zip
+	lots on this page...
+	https://web.archive.org/web/20050302135544if_/http://parboil.quakeworld.ru/index.html?files.html
+	what is it all?
 FBCA 99
 	http://quakeone.com/proquake/frogbots-099.zip
 	https://steamcommunity.com/sharedfiles/filedetails/?id=123626484
@@ -842,8 +847,12 @@ randar's bot page
 	http://www.randars.com/bots/
 	https://web.archive.org/web/20001109033100/http://www.users.qwest.net/~mimpchnk/
 bot epidemic
+	http://www.botepidemic.com
 	https://web.archive.org/web/20001027075424/http://www.botepidemic.com/bots/quake.shtml
 	https://web.archive.org/web/20000515000000*/http://www.botepidemic.com/bots/quake.shtml
+		I'd love a mirror of this server from back in the day.
+		Actually the hosted sites... like squarebot, fmods, etc.
+		telefragged / ze0 / ...
 quake terminus
 	https://www.quaketerminus.com/bots.shtml
 bot area 51
