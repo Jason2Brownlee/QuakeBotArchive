@@ -37,6 +37,7 @@ DM Bot | Nathaniel Gorham | [dmbot1.zip](bin/dmbot1.zip)
 DOBBSBot | Stephen Dobbs | [dobbsbot15bwp.zip](bin/dobbsbot15bwp.zip)
 Doombot | Roscoe A. Sincero aka "Legion" | [dmbt21b3.zip](bin/dmbt21b3.zip)
 Drastic Reaper Bot | Mark Wheeler | [dreaper.zip](bin/dreaper.zip)
+EdBot | Edward Dawson aka "HotCakes" | [edbot0-04.zip](bin/edbot0-04.zip) (-)
 Elfbot | "SkinSki" | [elfbot.zip](bin/elfbot.zip)
 Elima-Reaper | Roscoe A. Sincero aka "Legion" | ?
 Eliminator Bot (CBOT) | Cameron B. Newham | [elim14.zip](bin/elim14.zip)
@@ -78,6 +79,7 @@ QCBot | Alan Kivlin | ?
 Quake Bot (QBot) | "Grinder" | [qbot11.zip](bin/qbot11.zip)
 R Bot | Ross Johnson aka "ColdKill" | [rbot70.zip](bin/rbot70.zip)
 Reapa | Terry Hendrix II aka "Mongoose" | ?
+Reaper + DM4 | "Hades" | [dm4reaper.zip](bin/dm4reaper.zip) (-)
 Reaper + Hipnotic | Bent Svendsen aka "Decker" | [hipreap3.zip](bin/hipreap3.zip) (-)
 Reaper + Painkeep | Bent Svendsen aka "Decker" | [pkbot.zip](bin/pkbot.zip) (-)
 Reaper Bot | Steven Polge | [reaprb81.zip](bin/reaprb81.zip)
@@ -103,7 +105,6 @@ Victim Bot | Tony Tang aka "The TangMaster" | [vbot11.zip](bin/vbot11.zip)
 Wisp | Iikka Paavolainen | [wisp.zip](bin/wisp.zip) ($)
 Xreaper | "Mephisto" | xreaperb130.zip
 Zeus Bot | Jonathan E. Wright aka "Nelno the Amoeba" | [zeus205.zip](bin/zeus205.zip)
-Reaper + DM4 | "Hades" | [dm4reaper.zip](bin/dm4reaper.zip) (-)
 
 File Column:
 - **?** Indicates I could not discover the name of the bot mod filename.
