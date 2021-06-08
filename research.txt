@@ -96,7 +96,11 @@ Frog Bot Clan Arena (FBCA)
 	https://web.archive.org/web/20100123221244/http://botepidemic.no-origin.net/fmods/fbca088.zip
 	https://web.archive.org/web/20100123221244/http://www.parboil.mailru.com/parboil/fbca092kt.zip
 	http://www.parboil.quakeworld.ru/parboil/fbca092kt.zip
+	https://web.archive.org/web/20060320053640/http://www.parboil.quakeworld.ru/parboil/fbca092kt.zip
 	what is it all?
+	https://web.archive.org/web/20100123221300/http://www.parboil.mailru.com/parboil/fbca091kt.zip
+	https://web.archive.org/web/20100123221300/http://www.parboil.mailru.com/parboil/fbca090kt.zip
+	https://web.archive.org/web/20100123221300/http://www.parboil.mailru.com/parboil/fbca089se.zip
 FBCA 99
 	http://quakeone.com/proquake/frogbots-099.zip
 	https://steamcommunity.com/sharedfiles/filedetails/?id=123626484
@@ -518,6 +522,7 @@ FrikBotX / FBX
 	https://web.archive.org/web/20000817070547/http://www.inside3d.com/frikbot/
 	https://www.quakewiki.net/archives/botarea51/main/qbot6258.html?id=21
 	https://web.archive.org/web/20021223155711/http://www.inside3d.com/frikbot/fbx/
+	https://web.archive.org/web/20100123221300/http://204.50.28.112/qexpo/upload/11/fbx.zip
 	http://www.dr-shost.com/freqs/dosgam/fbxa.zip
 	http://www.inside3d.com/frikbot/fbx/fbxb.zip
 	https://www.quaddicted.com/files/mods/fbxc.zip
@@ -689,14 +694,30 @@ Lithium CTF
 	Juan Ignacio Rava (aka Johnny)
 	https://www.quaddicted.com/files/idgames2/quakec/teamplay/ctf/
 	bgbot based? no evidence other than impulse...
-
+Frik-TF
+	- team fortress bot based of FBX
+	https://web.archive.org/web/20100123221300/http://botepidemic.no-origin.net/quake.shtml.htm
+	http://groups.yahoo.com/group/friktf/files/friktf-051901.zip
+	https://doritoshp.tripod.com/Downloads/friktf-092800.zip
+	http://www.egroups.com/group/friktf/
 
 
 RESEARCHING...
 --------------------------------------------------------------------------------
 
 
-
+TomazQuake Bot
+	https://web.archive.org/web/20100123221300/http://botepidemic.no-origin.net/quake.shtml.htm
+	http://www.telefragged.com/thefatal/
+	http://riever.condemned.com/TomazBot.zip
+	http://riever.condemned.com/
+	https://web.archive.org/web/20020207050153/http://riever.condemned.com/
+	https://web.archive.org/web/20020206072434/http://www.telefragged.com/thefatal/
+	?
+	what is this?
+	an in-engine bot
+	https://web.archive.org/web/20020206072434/http://www.telefragged.com/thefatal/
+	out of scope?
 Norsebot
 	http://www.insideqc.com/modindex/qreview/patch7.shtml
 	https://www.gamers.org/pub/idgames2/quakec/bots/btsk23.txt
@@ -821,6 +842,11 @@ TFBots (coffee)
 	https://www.quaddicted.com/quake_advent_calendar_2013/13-18
 	Darryl Atchison aka "coffee"
 	coffee@planetquake.com
+TFBot (FrikbotX)
+	http://www.botepidemic.com/tfb/
+	https://web.archive.org/web/20020112065618/http://www.botepidemic.com/tfb/
+	Plumb
+	no files...
 Requiem QW Bot
 	https://web.archive.org/web/20000303070145/http://www.botepidemic.com/bots/quake.shtml
 	Requiem
