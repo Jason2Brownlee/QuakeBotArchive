@@ -101,6 +101,8 @@ Frog Bot Clan Arena (FBCA)
 	https://web.archive.org/web/20100123221300/http://www.parboil.mailru.com/parboil/fbca091kt.zip
 	https://web.archive.org/web/20100123221300/http://www.parboil.mailru.com/parboil/fbca090kt.zip
 	https://web.archive.org/web/20100123221300/http://www.parboil.mailru.com/parboil/fbca089se.zip
+	https://web.archive.org/web/20100123221300/http://botepidemic.no-origin.net/fmods/fbca088.zip
+	https://web.archive.org/web/20100123221300/http://www.parboil.newmail.ru/parboil/fbca86se.zip
 FBCA 99
 	http://quakeone.com/proquake/frogbots-099.zip
 	https://steamcommunity.com/sharedfiles/filedetails/?id=123626484
@@ -234,6 +236,9 @@ Xreaper (reaper bot)
 		mp_51@dds.nl
 	Cannot find file...
 	???
+	https://web.archive.org/web/20100123221300/http://botepidemic.no-origin.net/quake.shtml.htm
+	https://web.archive.org/web/20100123221300/http://www.rmbwenw.nl/botarea51/files/xreaper/setup.exe
+	Xreaper 1.21
 Estep Bot (EsTePBot)
 	by "EsTePaRiO"
 	reaper
@@ -298,6 +303,7 @@ DOBBSBot
 	DOBBSbot v1.5b
 	cannot locate
 	???
+	https://web.archive.org/web/20100123221300/http://www.dobbsnet.btinternet.co.uk/downloads/quake/dobbsbot15bwp.zip
 GYPOBot
 	https://web.archive.org/web/20001109033100/http://www.users.qwest.net/~mimpchnk/
 	based on tutor
@@ -700,6 +706,8 @@ Frik-TF
 	http://groups.yahoo.com/group/friktf/files/friktf-051901.zip
 	https://doritoshp.tripod.com/Downloads/friktf-092800.zip
 	http://www.egroups.com/group/friktf/
+	http://www.ncf.ca/~bk039/
+	https://web.archive.org/web/20020207024220/http://www.ncf.ca/~bk039/bugs.htm
 
 
 RESEARCHING...
@@ -892,6 +900,7 @@ bot epidemic
 		I'd love a mirror of this server from back in the day.
 		Actually the hosted sites... like squarebot, fmods, etc.
 		telefragged / ze0 / ...
+	https://web.archive.org/web/20100123221300/http://botepidemic.no-origin.net/quake.shtml.htm
 quake terminus
 	https://www.quaketerminus.com/bots.shtml
 bot area 51

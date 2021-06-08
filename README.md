@@ -34,7 +34,7 @@ DeathBot | James Boswell aka "FlashFire" | [death-64.zip](bin/death-64.zip)
 Demonshooter | "Shootermaster" | [shooter.zip](bin/shooter.zip)
 DJBot | "DJ" | ?
 DM Bot | Nathaniel Gorham | [dmbot1.zip](bin/dmbot1.zip)
-DOBBSBot | Stephen Dobbs | dobbsbot15b.zip
+DOBBSBot | Stephen Dobbs | [dobbsbot15bwp.zip](bin/dobbsbot15bwp.zip)
 Doombot | Roscoe A. Sincero aka "Legion" | [dmbt21b3.zip](bin/dmbt21b3.zip)
 Drastic Reaper Bot | Mark Wheeler | [dreaper.zip](bin/dreaper.zip)
 Elfbot | "SkinSki" | [elfbot.zip](bin/elfbot.zip)
