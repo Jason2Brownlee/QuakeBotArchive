@@ -810,6 +810,12 @@ EdBot
 	Edward Dawson aka "HotCakes"
 	https://www.quakewiki.net/archives/hotcakes/edbot/files/edbot0-04.zip
 	https://www.quakewiki.net/archives/hotcakes/edbot/files/edbotsrc0-04.zip
+FBXDC (FBX bot for dreamcast)
+	https://dcemulation.org/phpBB/viewtopic.php?f=14&t=7151
+	http://www.inside3d.com/frikbot/fbxdc.zip
+	https://quakedev.dcemulation.org/downloads/fbxdc/fbxdc.zip
+	https://quakedev.dcemulation.org/fragger/
+	opt of scope?
 
 
 RESEARCHING...
@@ -862,12 +868,6 @@ frogbot mods?
 	frogbot 2000?
 		https://web.archive.org/web/20100123221300/http://botepidemic.no-origin.net/quake.shtml.htm
 		https://web.archive.org/web/20100123221300/http://tux.telefragged.com/file.pl?filename=f2k006d.zip&dir=telefragged/be/fmods/
-FBXDC (FBX bot for dreamcast)
-	https://dcemulation.org/phpBB/viewtopic.php?f=14&t=7151
-	http://www.inside3d.com/frikbot/fbxdc.zip
-	https://quakedev.dcemulation.org/downloads/fbxdc/fbxdc.zip
-	https://quakedev.dcemulation.org/fragger/
-	opt of scope?
 quad hunt
 	http://users.skynet.be/bk236270/quad-hunt.htm
 	added a bot by plumb
