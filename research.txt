@@ -887,6 +887,20 @@ Dark Frog Bot FMOD / Dark Frogbot
 	https://web.archive.org/web/20091214083424/http://botepidemic.no-origin.net/fmods/mods.htm
 	Pinsolle
 	https://web.archive.org/web/20091214083424/http://www.3ddownloads.com/showfile.php3?filename=darkfrog.zip
+Vicinity Bot (FMOD)
+	https://web.archive.org/web/20091214083424/http://botepidemic.no-origin.net/fmods/mods.htm
+	Black
+	black@vegovc.s-sser.lj.edus.si
+	http://www.3ddownloads.com/showfile.php3?filename=vicinity/vicinityqwprogs.zip
+	http://www.3ddownloads.com/showfile.php3?filename=vicinity/vicinitymodels.zip
+	https://web.archive.org/web/20091214083424/http://www.3ddownloads.com/showfile.php3?filename=maps/fbarenax.zip&directory=/telefragged/be/fmods/
+	http://www.3ddownloads.com/showfile.php3?filename=vicinity/vicinitysource.zip
+	quakeworld it looks like
+Team FMOD
+	https://web.archive.org/web/20091214083424/http://botepidemic.no-origin.net/fmods/mods.htm
+	quakeworld
+	http://www.3ddownloads.com/showfile.php3?filename=stfm10.zip
+	Shelob
 
 
 RESEARCHING...
