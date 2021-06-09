@@ -872,6 +872,22 @@ Frogbot 2000 / Frogbot 2K
 	https://web.archive.org/web/20020614055730/http://www.moonlightarts.de/fb2000/
 	Dennis de Boer
 	http://www.moonlightarts.de/fb2000/fb2k_files.htm
+Frogbot Special Edition / Erazor frogbot "Test Special Edition"
+	https://web.archive.org/web/20100123221300/http://tux.telefragged.com/file.pl?filename=fb013se.zip
+	what is this?
+	https://web.archive.org/web/20091214083424/http://botepidemic.no-origin.net/fmods/mods.htm
+	Erazor
+	https://web.archive.org/web/20091214083424/http://www.3ddownloads.com/showfile.php3?filename=fb013se.zip&directory=/telefragged/be/fmods/
+	Brian Mathiasen aka "Erazor"
+Frogbot Rocket Arena
+	https://web.archive.org/web/20091214083424/http://botepidemic.no-origin.net/fmods/mods.htm
+	Brian Mathiasen aka "Erazor"
+	https://web.archive.org/web/20091214083424/http://www.3ddownloads.com/showfile.php3?filename=fbarena013.zip
+Dark Frog Bot FMOD / Dark Frogbot
+	https://web.archive.org/web/20091214083424/http://botepidemic.no-origin.net/fmods/mods.htm
+	Pinsolle
+	https://web.archive.org/web/20091214083424/http://www.3ddownloads.com/showfile.php3?filename=darkfrog.zip
+
 
 RESEARCHING...
 --------------------------------------------------------------------------------
@@ -920,11 +936,6 @@ MaNiAcbot v1.2
 	maniacbt12.zip
 Combination of all previous Khol's FMODS
 	kfmod.zip
-
-
-Erazor frogbot "Test Special Edition"
-	https://web.archive.org/web/20100123221300/http://tux.telefragged.com/file.pl?filename=fb013se.zip
-	what is this?
 Future VS Fantasy / FvF Bot
 	https://web.archive.org/web/20100123221300/http://botepidemic.no-origin.net/quake.shtml.htm
 	- based on frika

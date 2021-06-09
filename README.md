@@ -28,6 +28,7 @@ Cronos Bot | "Cronos" | [cronobot.zip](bin/cronobot.zip)
 CTF Bot | Drew Davidson aka "BZ" | [ctfbot12.zip](bin/ctfbot12.zip) (*)
 CTFBot+ | Anthony Distler aka "*this" | [ctfbotp032399.zip](bin/ctfbotp032399.zip) (*)
 Cujo | Jonathan E. Wright | [cujo14.zip](bin/cujo14.zip)
+Dark Frogbot | "Pinsolle" | darkfrog.zip
 Darkbot | Terry Hendrix aka "Dark_Skye" | [drkbt11b.zip](bin/drkbt11b.zip)
 DarkCTF Bot | Terry Hendrix II aka "Mongoose" | [darkctf13.zip](bin/darkctf13.zip) (*)($)
 DeathBot | James Boswell aka "FlashFire" | [death-64.zip](bin/death-64.zip)
@@ -57,6 +58,8 @@ Frogbot Clan Arena (FBCA) | "Baker" | [frogbots-099.zip](bin/frogbots-099.zip)
 Frogbot Clan Arena (FBCA) | Alexey Pakhomov aka "ParboiL" | [fbca102kt.zip](bin/fbca102kt.zip) (*)
 Frogbot Clan Arena (FBCA) | Matt McChesney aka "Asdf" | fbca085.zip
 Frogbot CTF (FBCTF) | Gerard Ryan aka "numb" | [fbctf035.zip](bin/fbctf035.zip) (-)
+Frogbot Rocket Arena | Brian Mathiasen aka "Erazor" | fbarena013.zip
+Frogbot Special Edition | Brian Mathiasen aka "Erazor" | fb013se.zip
 Frogbot | Robert Field aka "Frog" | [frogbot013.zip](bin/frogbot013.zip)
 Gideon Bot | Matthew Turvey | [gidbot.zip](bin/gidbot.zip)
 GlacierBot | "IceDagger" | gb027b.zip
@@ -110,6 +113,7 @@ Victim Bot | Tony Tang aka "The TangMaster" | [vbot11.zip](bin/vbot11.zip)
 Wisp | Iikka Paavolainen | [wisp.zip](bin/wisp.zip) ($)
 Xreaper | "Mephisto" | xreaperb130.zip
 Zeus Bot | Jonathan E. Wright aka "Nelno the Amoeba" | [zeus205.zip](bin/zeus205.zip)
+
 
 File Column:
 - **?** Indicates I could not discover the name of the bot mod filename.
