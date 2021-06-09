@@ -382,6 +382,11 @@ Dj bot / Djbot / Djbot MK2 / DJBot
 	dj22@botepidemic.com
 	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/links.htm
 	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/news.htm
+	http://freespace.virgin.net/w.james/index.htm
+	https://web.archive.org/web/19991008223853/http://freespace.virgin.net/w.james/DJbot1.zip
+	https://web.archive.org/web/19991008223853/http://freespace.virgin.net/w.james/DJbot1.zip
+	https://web.archive.org/web/19991008223853/mailto:dave.james1@virgin.net
+	https://web.archive.org/web/20000715000000*/http://freespace.virgin.net/w.james/DJbot1.zip
 	???
 Reapa
 	reaper clone
@@ -966,10 +971,15 @@ Future VS Fantasy / FvF Bot
 frikbot mods
 	https://web.archive.org/web/20000817070547/http://www.inside3d.com/frikbot/
 	...
- Unknown Bot
+Unknown Bot
  	https://web.archive.org/web/20100123221300/http://botepidemic.no-origin.net/quake.shtml.htm
  	http://members.xoom.com/_XOOM/unknownbot/
-
+SuPeRMan Bot
+	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/news.htm
+	by (KSA)Tekken
+	http://www.geocities.com/TimesSquare/Fortress/7565/superman11.zip
+	superman11.zip
+	???
 
 
 OUT OF SCOPE
@@ -1032,7 +1042,15 @@ AE_Playmate
 	http://www.tf.hut.fi/~ath/Aesir/bot.html
 	https://web.archive.org/web/19990117030446/http://www.tf.hut.fi/~ath/Aesir/bot.html
 	client side bot, it looks like
-
+Interference Bot
+	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/news.htm
+	http://tux.telefragged.com/download.pl?dir=telefragged/be/&filename=interbotdm79z.zip&dl=local
+	interbotdm79z.zip
+	http://tux.telefragged.com/download.pl?dir=telefragged/be/&filename=intarena.zip&dl=local
+	intarena.zip
+	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/inter.htm
+	Chris "ArwingX" Dozier
+	monster bot
 
 
 RESOURCES
