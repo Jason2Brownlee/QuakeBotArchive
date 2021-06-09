@@ -53,6 +53,8 @@ ZeusBot
 		https://www.bluesnews.com/files/zeus204.zip
 	http://nelno.freeservers.com/contact.htm
 	https://web.archive.org/web/19981203131409/http://www.planetquake.com/design/bots.html
+	https://web.archive.org/web/19980218130242/http://planetquake.com/qca/zeus/
+	https://web.archive.org/web/19970611062404/mailto:nelno@resurrection.com
 Frogbot
 	http://www.telefragged.com/metro
 	1998-2000
@@ -908,6 +910,13 @@ Team FMOD
 	quakeworld
 	http://www.3ddownloads.com/showfile.php3?filename=stfm10.zip
 	Shelob
+Holywars Tutor Bot
+	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/news.htm
+	ftp://ftp.cdrom.com/pub/idgames2/planetquake/minion/holy_tb.zip
+	https://dukeworld.com/planetquake/minion/holy_tb.zip
+	"RiEvEr"
+	Connor "RiEvEr" Caple
+	riever@planetquake.com
 
 
 RESEARCHING...
@@ -1070,6 +1079,8 @@ quake preservation page
 	all the client side bots...
 bot authors
 	https://web.archive.org/web/19990125084913/http://www.botauthors.org/
+	https://web.archive.org/web/19981206123951/http://www.botauthors.org/algorithms.html
+	https://web.archive.org/web/19981206123951/mailto:Boris.Wendt@Kiel.Netsurf.de
 bot emporium
 	https://www.quakewiki.net/archives/emporium.planetquake.gamespy.com/
 
