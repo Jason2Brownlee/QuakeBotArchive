@@ -148,6 +148,7 @@ BGADM Bot
 	https://www.gamers.org/pub/idgames2/quakec/bots/bgadm101.txt
 	https://www.gamers.org/pub/idgames2/quakec/bots/bgadm101.zip
 	I had to compile manually qith qcc...
+	detour@chrysalis.org
 BPLAYER - Bot Player
 	https://www.quaddicted.com/files/idgames2/quakec/bots/bplayer2.txt
 	https://www.quaddicted.com/files/idgames2/quakec/bots/bplayer2.zip
@@ -1038,7 +1039,7 @@ bot epidemic
 	https://web.archive.org/web/20001027075424/http://www.botepidemic.com/bots/quake.shtml
 	https://web.archive.org/web/20000515000000*/http://www.botepidemic.com/bots/quake.shtml
 		I'd love a mirror of this server from back in the day.
-		Actually the hosted sites... like squarebot, fmods, etc.
+		Actually the hosted sites... like squarebot, koolio, fmods, etc.
 		telefragged / ze0 / ...
 	https://web.archive.org/web/20100123221300/http://botepidemic.no-origin.net/quake.shtml.htm
 quake terminus
@@ -1053,7 +1054,7 @@ bot area 51
 		https://web.archive.org/web/20020602140453/http://www.planetquake.com/botarea51/main/default.asp
 	https://www.quakewiki.net/archives/botarea51/main/qbots.html
 	https://www.quakewiki.net/archives/botarea51/main/history.html
-	(a mirror of botarea51 *files* would be really cool....)
+	(a mirror of botarea51 *files* would be really cool....) I really need the xreaper...
 bot shop
 	https://web.archive.org/web/20020116204802/http://www.planetquake.com/botshop/quake.html
 	https://www.quakewiki.net/archives/botshop/code.html

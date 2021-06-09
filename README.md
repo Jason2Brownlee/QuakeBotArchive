@@ -1,6 +1,6 @@
 # Quake Bot Archive
 
-The goal of this project is to locate, archive, and playtest all Quake bot mods (QuakeC modifications).
+The goal of this project is to archive all Quake 1 bot mods (QuakeC modifications).
 
 ## Quake Bot Genealogy
 
@@ -8,10 +8,9 @@ An estimated quake bot genealogy.
 
 ![Quake Bot Genealogy](mindmap/QuakeBots.png)
 
-
 ## Quake Bot List
 
-An alphabetical list of quake bot names, authors, and local download links (where possible).
+An alphabetical list of quake bot names, authors, and local download links.
 
 Bot Name | Bot Author(s) | File
 --- | --- | ---
@@ -116,10 +115,9 @@ Wisp | Iikka Paavolainen | [wisp.zip](bin/wisp.zip) ($)
 Xreaper | "Mephisto" | xreaperb130.zip
 Zeus Bot | Jonathan E. Wright aka "Nelno the Amoeba" | [zeus205.zip](bin/zeus205.zip)
 
-
 File Column:
 - **?** Indicates I could not discover the name of the bot mod filename.
-- **unlinked** Indicates I discovered the filename but could not find a copy of the file to archive.
+- **no link** Indicates I discovered the filename but could not find a copy of the file to archive.
 - **(-)** Indicates I did not try and get it working (yet) likely because it is for some mod.
 - **($)** Indicates I had to do work like compile, create subdirectories, etc.
 - **(*)** Indicates I could not get it to run or could not spawn a bot.
@@ -128,7 +126,3 @@ File Column:
 ## Have a Correction or Addition?
 
 If you have additional information or updates (e.g. missing bot, bot author full name, newer version of a mod, a missing mod file, src code, etc...) please contact me directly: jason.brownlee05@gmail.com
-
-
-
-
