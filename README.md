@@ -51,10 +51,11 @@ FrikBot X (FBX) | Ryan Smith aka "Frika C" | [fbxc.zip](bin/fbxc.zip)
 FrikBot X+ (FBX+) | Igor9 | fbx+.zip
 FrikBot X++ (FBX++) | Joel Baxter aka "Johnny Law" | [fbx++.zip](bin/fbx++.zip)
 FrikBot | Ryan Smith aka "Frika C" | [frkbt09b.zip](bin/frkbt09b.zip)
-Frogbot 2000 | Dennis aka "Justice" | f2k006d.zip
+Frogbot 2000 | Dennis de Boer aka "Justice" | f2k006d.zip
 Frogbot BotMatch Arena | Alex aka "DmSouL" | [botmatch.ZIP](bin/botmatch.ZIP) (-)
-Frogbot Clan Arena (FBCA) 0.99 | "Baker" | [frogbots-099.zip](bin/frogbots-099.zip)
+Frogbot Clan Arena (FBCA) | "Baker" | [frogbots-099.zip](bin/frogbots-099.zip)
 Frogbot Clan Arena (FBCA) | Alexey Pakhomov aka "ParboiL" | [fbca102kt.zip](bin/fbca102kt.zip) (*)
+Frogbot Clan Arena (FBCA) | Matt McChesney aka "Asdf" | fbca085.zip
 Frogbot CTF (FBCTF) | Gerard Ryan aka "numb" | [fbctf035.zip](bin/fbctf035.zip) (-)
 Frogbot | Robert Field aka "Frog" | [frogbot013.zip](bin/frogbot013.zip)
 Gideon Bot | Matthew Turvey | [gidbot.zip](bin/gidbot.zip)

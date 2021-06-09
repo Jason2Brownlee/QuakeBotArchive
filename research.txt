@@ -816,7 +816,10 @@ Frog Bot Clan Arena (FBCA)
 	http://botepidemic.no-origin.net/fmods/fbca088.zip
 	http://www.parboil.newmail.ru/parboil/fbca86se.zip
 	http://tux.telefragged.com/file.pl?filename=fbca085.zip
-		numb?
+	Matt McChesney aka "Asdf"
+		mtm07@hotmail.com
+		https://web.archive.org/web/20020514054317/http://www.3ddownloads.com/?file_id=14234
+
 FBCA 99
 	http://quakeone.com/proquake/frogbots-099.zip
 	https://steamcommunity.com/sharedfiles/filedetails/?id=123626484
@@ -865,6 +868,11 @@ Frogbot 2000 / Frogbot 2K
 	https://web.archive.org/web/20100123221244/http://www.botepidemic.com/fmods/versie.zip
 	https://web.archive.org/web/20100123221244/http://www.3ddownloads.com/showfile.php3?filename=2000.zip
 	dennisbo@hotmail.com
+	https://web.archive.org/web/20100123221244/http://www.3ddownloads.com/showfile.php3?filename=f2k006d.zip
+	http://www.moonlightarts.de/fb2000/
+	https://web.archive.org/web/20020614055730/http://www.moonlightarts.de/fb2000/
+	Dennis de Boer
+	http://www.moonlightarts.de/fb2000/fb2k_files.htm
 
 RESEARCHING...
 --------------------------------------------------------------------------------
@@ -1062,6 +1070,8 @@ blues news
 		Disappeared in 1998...
 stomped bot page
 	https://web.archive.org/web/19990202192708/http://www.stomped.com/
+3ddownloads mirror
+	https://doomwiki.org/wiki/User:Shambler/3ddownloads_archive
 
 Deathmatch With Bots (modern guide)
 	http://neogeographica.com/site/pages/guides/deathmatch_with_bots.html
