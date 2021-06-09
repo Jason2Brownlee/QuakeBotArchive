@@ -382,6 +382,7 @@ Dj bot / Djbot / Djbot MK2 / DJBot
 	dj22@botepidemic.com
 	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/links.htm
 	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/news.htm
+	DJ Quadmire site.
 	http://freespace.virgin.net/w.james/index.htm
 	https://web.archive.org/web/19991008223853/http://freespace.virgin.net/w.james/DJbot1.zip
 	https://web.archive.org/web/19991008223853/http://freespace.virgin.net/w.james/DJbot1.zip
@@ -1051,6 +1052,16 @@ Interference Bot
 	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/inter.htm
 	Chris "ArwingX" Dozier
 	monster bot
+GerBot
+	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/news.htm
+	http://www.det5.com/drzaius/
+	Zaius Quake
+	?
+hellbot
+	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/news.htm
+	http://www.angelfire.com/pa2/hellbot/
+	Shawn F
+
 
 
 RESOURCES
