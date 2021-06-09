@@ -153,8 +153,9 @@ BPLAYER - Bot Player
 	https://www.quaddicted.com/files/idgames2/quakec/bots/bplayer2.zip
 	Wolf
 	wolfg_l@pro-net.co.uk
+	Wolfgang Lehrach
 	http://www.pro-net.co.uk/home/wolfg_l
-	related to tfbot?
+	related to tfbot? oh yes!
 Swimming Bot
 	baloo the bear (Greg Fukui aka julias_child)
 	https://www.quaddicted.com/files/idgames2/quakec/bots/swbot104.txt
@@ -468,6 +469,11 @@ MaNiAcBot
 	https://dukeworld.com/idgames2/quakec/bots/maniacbt.zip
 	I had to use a different app to unzip it
 	I repacked it
+	https://web.archive.org/web/20091214083424/http://botepidemic.no-origin.net/fmods/mods.htm
+	MaNiAc
+	http://www.3ddownloads.com/showfile.php3?filename=maniacbt12.zip
+	maniacbt12.zip
+	same...
 Victim Bot
 	https://www.quakewiki.net/archives/botarea51/main/qbotd5e8.html?id=34
 	https://www.quaddicted.com/files/idgames2/quakec/bots/vbot11.txt
@@ -846,7 +852,7 @@ frogbot ctf / Frogbot CTF / FBCTF
 		FINAL VERSION!
 	...
 	numb
-	Gerard "numb" Ryan
+	Gerard Ryan aka "numb"
 	numb@macquakeintosh.com
 Frogbot BotMatch Arena / BotMatch frogbot mod
 	https://web.archive.org/web/20100123221244/http://botepidemic.no-origin.net/fmods/index.htm
@@ -942,14 +948,7 @@ frogbot mods?
 		https://www.quaddicted.com/forum/viewtopic.php?id=58&p=2
 		https://web.archive.org/web/20120213074253/http://botepidemic.no-origin.net/fmods/tutorials.htm
 	looks like a ton of mods in here...
-Asdf's FMOD
-	Asdf
-	asdfmod100.zip
-MaNiAcbot v1.2
-	MaNiAc
-	maniacbt12.zip
-Combination of all previous Khol's FMODS
-	kfmod.zip
+	still many more here...
 Future VS Fantasy / FvF Bot
 	https://web.archive.org/web/20100123221300/http://botepidemic.no-origin.net/quake.shtml.htm
 	- based on frika
