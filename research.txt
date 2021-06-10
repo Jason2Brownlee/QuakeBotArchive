@@ -981,6 +981,16 @@ SuPeRMan Bot
 	http://www.geocities.com/TimesSquare/Fortress/7565/superman11.zip
 	superman11.zip
 	???
+GerBot
+	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/news.htm
+	http://www.det5.com/drzaius/
+	Zaius Quake
+	?
+hellbot
+	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/news.htm
+	http://www.angelfire.com/pa2/hellbot/
+	Shawn F
+
 
 
 OUT OF SCOPE
@@ -1052,15 +1062,7 @@ Interference Bot
 	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/inter.htm
 	Chris "ArwingX" Dozier
 	monster bot
-GerBot
-	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/news.htm
-	http://www.det5.com/drzaius/
-	Zaius Quake
-	?
-hellbot
-	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/news.htm
-	http://www.angelfire.com/pa2/hellbot/
-	Shawn F
+
 
 
 
