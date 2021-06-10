@@ -125,25 +125,27 @@ Cronos Bot / Cronosbot
 	https://web.archive.org/web/19991127073931/http://www.clovenhoof.freeserve.co.uk/
 		cronos old page
 Oak Bot
+	https://dukeworld.com/idgames2/quakec/bots/oak0405.zip
+	https://www.quaddicted.com/files/idgames2/quakec/bots/oak0405.zip
+		none of the versions work...
 	http://web.ukonline.co.uk/johnc/oak.htm
 	http://web.ukonline.co.uk/neil.henderson/theoak/
 	https://web.archive.org/web/19990225102735/http://web.ukonline.co.uk/neil.henderson/theoak/
 	http://quake.extreme3d.com/theoak/
 	http://www.cvnet.co.uk/theoak/
-	http://web.ukonline.co.uk/neil.henderson/theoak/
 	more...
 	https://www.bluesnews.com/archives/may97-1.html
-	http://botarea51.impulse9.net/mirror/bot/oak0405_fixed.zip
-	ftp://ftp.stomped.com/pub/redwood/bots/oak0405.zip
-	ftp://ftp.stomped.com/pub/redwood/bots/oak0855.zip
-	https://www.bluesnews.com/files/patches/bots/oak083.zip
-	https://www.bluesnews.com/files/patches/bots/oak084.zip
-	https://www.bluesnews.com/files/patches/bots/oak085.zip
-	https://www.bluesnews.com/files/patches/bots/oak0405.zip
+		http://botarea51.impulse9.net/mirror/bot/oak0405_fixed.zip
+		ftp://ftp.stomped.com/pub/redwood/bots/oak0405.zip
+		ftp://ftp.stomped.com/pub/redwood/bots/oak0855.zip
+		https://www.bluesnews.com/files/patches/bots/oak083.zip
+		https://www.bluesnews.com/files/patches/bots/oak084.zip
+		https://www.bluesnews.com/files/patches/bots/oak085.zip
+		https://www.bluesnews.com/files/patches/bots/oak0405.zip
 	http://www.telefragged.com/oak/
-	none of the versions work...
-	[contacted author directly via linked in]
+		Oak II (quake II)
 	https://www.linkedin.com/in/johncrickett/
+	[contacted author directly via linked in]
 Tutor Bot / AI cafe / Coffee
 	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/tutor.htm
 	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/files/tutor.zip
