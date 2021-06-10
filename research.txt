@@ -86,20 +86,44 @@ BGBot
 	Robert DeFilippo III
 	http://www.neta.com/~punisher/
 	https://quake.fandom.com/wiki/Robert_DeFilippo_III
-Cronos Bot
+Cronos Bot / Cronosbot
 	http://www.planetquake.com/cronos
-	http://www.clovenhoof.freeserve.co.uk/
-	https://web.archive.org/web/20041216152813if_/http://www.planetquake.com:80/cronos/
-	https://web.archive.org/web/20050112053556/http://dl.fileplanet.com/dl/dl.asp?cronos/hd_cbots.zip
-	https://web.archive.org/web/20050112053556/http://dl.fileplanet.com/dl/dl.asp?cronos/hd_cbots_hd.zip
+	https://web.archive.org/web/20000815211132if_/http://www.planetquake.com:80/cronos/
 	https://www.quakewiki.net/archives/cronos/index89c3.html?links.html
-	https://www.quaddicted.com/files/idgames2/quakec/bots/cronobot.txt
-	https://www.quaddicted.com/files/idgames2/quakec/bots/cronobot.zip (1.01)
-	is the cdrom version newer than the "hd" version?
-	https://dukeworld.com/planetquake/cronos/&s=d&o=a
-	https://dukeworld.com/planetquake/cronos/cbotpak.zip (1.06)
-	https://dukeworld.com/planetquake/cronos/cronobot.zip (1.07a)
-	http://dl.fileplanet.com/dl/dl.asp?cronos/hd_cbots.zip
+		mirror
+	"Cronos"
+		cronos@planetquake.com
+		Cronos@clovenhoof.freeserve.co.uk
+	http://www.planetquake.com/dl/dl.asp?cronos/hd_pak0.zip
+	http://www.planetquake.com/dl/dl.asp?cronos/hd_progs.zip
+	http://www.planetquake.com/dl/dl.asp?cronos/cronobot.zip
+	http://www.planetquake.com/dl/dl.asp?cronos/cbotpak.zip
+	files
+		hd_pak0.zip
+		hd_progs.zip
+		cronobot.zip
+		cbotpak.zip
+	https://dukeworld.com/planetquake/cronos/cronobot.zip
+		1.07a
+	https://www.gamers.org/pub/idgames2/planetquake/cronos/cronobot.zip
+		1.07a
+	https://www.quaddicted.com/files/idgames2/quakec/bots/cronobot.zip
+		1.01
+	https://www.gamers.org/pub/idgames2/quakec/bots/cronobot.zip
+		1.01
+	https://dukeworld.com/planetquake/cronos/cbotpak.zip
+		1.06
+	https://www.gamers.org/pub/idgames2/planetquake/cronos/cbotpak.zip
+		1.06
+	http://botarea51.impulse9.net/mirror/bot/cbotpak.zip
+		dead
+	https://www.gamers.org/pub/idgames2/planetquake/cronos/
+	https://dukeworld.com/planetquake/cronos/
+	https://web.archive.org/web/20100123221300/http://botepidemic.no-origin.net/quake.shtml.htm
+		lots of cronos bot news...
+	http://www.clovenhoof.freeserve.co.uk/
+	https://web.archive.org/web/19991127073931/http://www.clovenhoof.freeserve.co.uk/
+		cronos old page
 Oak Bot
 	http://web.ukonline.co.uk/johnc/oak.htm
 	http://web.ukonline.co.uk/neil.henderson/theoak/
@@ -1082,6 +1106,7 @@ bot epidemic
 		Actually the hosted sites... like squarebot, koolio, fmods, etc.
 		telefragged / ze0 / ...
 	https://web.archive.org/web/20100123221300/http://botepidemic.no-origin.net/quake.shtml.htm
+		excellent mirror!
 quake terminus
 	https://www.quaketerminus.com/bots.shtml
 bot area 51
