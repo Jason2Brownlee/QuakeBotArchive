@@ -42,6 +42,13 @@ Reaper Bot
 	never release code
 		https://www.bluesnews.com/archives/aug97-5.html
 		https://www.bluesnews.com/archives/sept97-1.html
+	decompiled src
+		http://www.insideqc.com/qctut/rip1.shtml
+		rec.games.computer.quake.quake-c
+		Ken Alverson
+		pqccreap.zip
+		https://groups.google.com/g/rec.games.computer.quake.quake-c/c/pb_PTSRMLts/m/KFLhdrajAcUJ
+		https://groups.google.com/g/rec.games.computer.quake.editing/c/c_8W-xBCc0g/m/abTNOXhICkAJ
 ZeusBot
 	https://web.archive.org/web/20020821003701/http://www.planetquake.com/qca/reviews/patch52.htm
 	https://quake.fandom.com/wiki/Zeus_Bot
