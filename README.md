@@ -2,6 +2,10 @@
 
 The goal of this project is to archive all Quake 1 bot mods (QuakeC modifications).
 
+A bot mod is a third-party addition for the 1996 computer game "Quake". Mods were mostly developed between 1996 and 2002, were distributed as binary or source files, and were hosted on third-party websites.
+
+This project seeks to archive and make available all Quake bot modifications in their original distributed form, mostly .zip files that may contain binary files and/or source code.
+
 ## Quake Bot Genealogy
 
 An estimated quake bot genealogy.
