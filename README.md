@@ -2,19 +2,15 @@
 
 The goal of this project is to archive all Quake 1 bot mods (QuakeC modifications).
 
-A bot mod is a third-party addition for the 1996 computer game "Quake". Mods were mostly developed between 1996 and 2002, were distributed as binary or source files, and were hosted on third-party websites.
-
-This project seeks to archive and make available all Quake bot modifications in their original distributed form, mostly .zip files that may contain binary files and/or source code.
-
 ## Quake Bot Genealogy
 
-An estimated quake bot genealogy.
+Estimated quake bot genealogy.
 
 ![Quake Bot Genealogy](mindmap/QuakeBots.png)
 
 ## Quake Bot List
 
-An alphabetical list of quake bot names, authors, and local download links.
+Alphabetical list of quake bot names, authors, and local download links.
 
 Bot Name | Bot Author(s) | File
 --- | --- | ---
@@ -128,6 +124,42 @@ File Column:
 - **(*)** Indicates I could not get it to run or could not spawn a bot.
 
 
-## Have a Correction or Addition?
+## About This Project
 
-If you have additional information or updates (e.g. missing bot, bot author full name, newer version of a mod, a missing mod file, src code, etc...) please contact me directly: jason.brownlee05@gmail.com
+Quake is a computer game released by id Software in 1996. The source code (QuakeC) that controls the game was released at around the same time.
+
+A bot mod is a modification to the Quake game code to introduce "intelligent" opponents, typically for deathmatch play. Before the introduction of bots, deathmatch game play required access to a fast network or internet connection and other human players.
+
+Quake bots represent a breakthrough in computer game artificial intelligence at the time (e.g. opponents that acted like humans), and are also a lot of fun to play (e.g. a multiplayer game can be enjoyed as a singleplayer game).
+
+Quake bot mods were mostly developed between 1996 and 1998, were distributed as binary or source files, and were hosted on third-party websites.
+
+There is no definitive list of Quake bots nor single location from which they can be downloaded.
+
+This project seeks to archive and make available all Quake bot modifications in their original distributed form, mostly .zip files that may contain binary files and/or source code.
+
+In addition, the project also seeks to locate and make available all versions of modifications (e.g. older versions) as well as binaries and source code for mods that may not have been made public (e.g. contributed by bot authors directly).
+
+## How You Can Help
+
+Perhaps you can help to make this bot archive more complete.
+
+* Do you know of a missing Quake bot?
+* Do you have a copy of a missing file from the above list?
+* Do you know a bot author's real name?
+* Do you have have an older or newer version of a listed bot mod?
+* Do you have access to the source code for an old bot?
+* Do you know how to contact a bot mod author?
+* Do you have access to an archive of a Quake website from back in the day?
+
+If you have additional information or updates please contact me directly: jason.brownlee05@gmail.com
+
+Also, I have a wishlist of broken bot URLs that maybe you can help with:
+
+* [Quake Bot Mod URL Wishlist](research/wishlist.txt)
+
+
+
+
+
+
