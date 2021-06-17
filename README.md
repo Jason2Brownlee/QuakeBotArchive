@@ -16,7 +16,7 @@ Bot Name | Bot Author(s) | File
 --- | --- | ---
 Attacker | Jonathan Geary | [attacker.zip](bin/attacker.zip)
 BGADM Bot | "Detour" | [bgadm101.zip](bin/bgadm101.zip) ($)
-BGBot | Robert DeFilippo III aka "Punisher" | [bgbot20a.zip](bin/bgbot20a.zip)
+BGBot | Robert DeFilippo III aka "Punisher" | [bgbot20a.zip](bin/bgbot20a.zip)<br>[bgbot16.zip](bin/bgbot16.zip)
 Borg Bot | Calvin Rien | [borg12.zip](bin/borg12.zip)
 Bot Hunt | Douglas H. King aka "Sea4" | [bthnt10.zip](bin/bthnt10.zip)
 Bot Player (BPlayer) | Wolfgang Lehrach aka "Wolf" | [bplayer2.zip](bin/bplayer2.zip)
@@ -90,7 +90,7 @@ Reapa | Terry Hendrix II aka "Mongoose" | ?
 Reaper + DM4 | "Hades" | [dm4reaper.zip](bin/dm4reaper.zip) (-)
 Reaper + Hipnotic | Bent Svendsen aka "Decker" | [hipreap3.zip](bin/hipreap3.zip) (-)
 Reaper + Painkeep | Bent Svendsen aka "Decker" | [pkbot.zip](bin/pkbot.zip) (-)
-Reaper Bot | Steven Polge | [reaprb81.zip](bin/reaprb81.zip)<br>[reaper80.zip](bin/reaper80.zip)<br>reaprb75.zip<br>[reaprb07.zip](bin/reaprb07.zip)<br>
+Reaper Bot | Steven Polge | [reaprb81.zip](bin/reaprb81.zip)<br>[reaper80.zip](bin/reaper80.zip)<br>reaprb75.zip<br>[reaprb07.zip](bin/reaprb07.zip)<br>reaprb06.zip<br>reaprb05.zip
 ReaperFX Bot | A. W. Johnstone aka "Pob the Impaler" | [reaperfx.zip](bin/reaperfx.zip)
 Ric's Reaper Bots | "Ric" | [reap081h.zip](bin/reap081h.zip) ($)
 Roam Bot | Carson Sutton aka "Crimson" | [roambot1.zip](bin/roambot1.zip) ($)
