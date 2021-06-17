@@ -39,6 +39,7 @@ Reaper Bot
 		ftp://bluesnews.com/pub/bots/reaprb75.zip
 		https://www.bluesnews.com/archives/nov96-1.html
 		https://www.bluesnews.com/archives/dec96-1.html
+		http://cd.textfiles.com/swextrav8/swextrav8-2/gamapog2/reaprb07.zip
 	never release code
 		https://www.bluesnews.com/archives/aug97-5.html
 		https://www.bluesnews.com/archives/sept97-1.html

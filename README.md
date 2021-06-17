@@ -114,7 +114,7 @@ Vicinity Bot | "Black" | vicinityqwprogs.zip
 Victim Bot | Tony Tang aka "The TangMaster" | [vbot11.zip](bin/vbot11.zip)
 Wisp | Iikka Paavolainen | [wisp.zip](bin/wisp.zip) ($)
 Xreaper | "Mephisto" | xreaperb130.zip
-Zeus Bot | Jonathan E. Wright aka "Nelno the Amoeba" | [zeus205.zip](bin/zeus205.zip)
+Zeus Bot | Jonathan E. Wright aka "Nelno the Amoeba" | [zeus205.zip](bin/zeus205.zip)<br>[zeus205s.zip](bin/zeus205s.zip) (server)<br>[zeus2042.zip](bin/zeus2042.zip)<br>zeus204.zip<br>[zeus10.zip](bin/zeus10.zip)
 
 File Column:
 - **?** Indicates I could not discover the name of the bot mod filename.
