@@ -34,7 +34,7 @@ DeathBot | James Boswell aka "FlashFire" | [death-64.zip](bin/death-64.zip)
 Demonshooter | "Shootermaster" | [shooter.zip](bin/shooter.zip)
 DJBot | Dave James aka "DJ" | [DJbot1.zip](bin/DJbot1.zip) (*)
 DM Bot | Nathaniel Gorham | [dmbot1.zip](bin/dmbot1.zip)
-DOBBSBot | Stephen Dobbs | [dobbsbot15bwp.zip](bin/dobbsbot15bwp.zip)
+DOBBSBot | Stephen Dobbs | [dobbsbot15bwp.zip](bin/dobbsbot15bwp.zip)<br>dobbsbot15b.zip<br>dobbsbot15a.zip
 Doombot | Roscoe A. Sincero aka "Legion" | [dmbt21b3.zip](bin/dmbt21b3.zip)
 Drastic Reaper Bot | Mark Wheeler | [dreaper.zip](bin/dreaper.zip)
 EdBot | Edward Dawson aka "HotCakes" | [edbot0-04.zip](bin/edbot0-04.zip) (-)
@@ -81,7 +81,7 @@ Ogre Bot | "Lava Man" | [ogrebot.zip](bin/ogrebot.zip)
 Omicron Bot | Jan Paul van Waveren aka "Mr. Elusive" and Miklos de Rijk aka "H2SO4" | [obots102.zip](bin/obots102.zip)
 Omicron Fixes | Joel Baxter aka "Johnny Law" | [obots102-fixed.zip](bin/obots102-fixed.zip)
 Optimized Frogbot | Christian Michael aka "surgeon" | [frogbot.lha](bin/frogbot.lha)
-Paddybot | Patrick Stimson aka "sniper" | paddybot02.zip
+Paddybot | Patrick Stimson aka "sniper" | paddybot02.zip<br>paddybot.zip
 POXbot | "pOx" | [pox120b.zip](bin/pox120b.zip) (-)
 QCBot | Alan Kivlin | ?
 Quake Bot (QBot) | "Grinder" | [qbot11.zip](bin/qbot11.zip)
