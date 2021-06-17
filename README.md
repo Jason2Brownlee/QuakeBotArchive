@@ -90,10 +90,7 @@ Reapa | Terry Hendrix II aka "Mongoose" | ?
 Reaper + DM4 | "Hades" | [dm4reaper.zip](bin/dm4reaper.zip) (-)
 Reaper + Hipnotic | Bent Svendsen aka "Decker" | [hipreap3.zip](bin/hipreap3.zip) (-)
 Reaper + Painkeep | Bent Svendsen aka "Decker" | [pkbot.zip](bin/pkbot.zip) (-)
-Reaper Bot | Steven Polge | [reaprb81.zip](bin/reaprb81.zip) <br>
-							[reaper80.zip](bin/reaper80.zip) <br>
-							reaprb75.zip <br>
-							[reaprb07.zip](bin/reaprb07.zip) <br>
+Reaper Bot | Steven Polge | [reaprb81.zip](bin/reaprb81.zip) <br>[reaper80.zip](bin/reaper80.zip) <br>reaprb75.zip <br>[reaprb07.zip](bin/reaprb07.zip) <br>
 ReaperFX Bot | A. W. Johnstone aka "Pob the Impaler" | [reaperfx.zip](bin/reaperfx.zip)
 Ric's Reaper Bots | "Ric" | [reap081h.zip](bin/reap081h.zip) ($)
 Roam Bot | Carson Sutton aka "Crimson" | [roambot1.zip](bin/roambot1.zip) ($)
