@@ -23,7 +23,7 @@ Bot Player (BPlayer) | Wolfgang Lehrach aka "Wolf" | [bplayer2.zip](bin/bplayer2
 Bot Skeleton | Roscoe A. Sincero aka "Legion" | [btsk23.zip](bin/btsk23.zip) (*)($)
 BotSkin | "WACko" | [btskn22.zip](bin/btskn22.zip)
 ClanBots | "slug" | ClanV0.7HMan.zip
-Cronos Bot | "Cronos" | hd_pak0.zip<br>[cronobot.zip](bin/cronobot107a.zip)<br>[cbotpak106.zip](bin/cbotpak106.zip)<br>[cronobot101.zip](bin/cronobot101.zip)
+Cronos Bot | "Cronos" | hd_pak0.zip<br>[cronobot107a.zip](bin/cronobot107a.zip)<br>[cbotpak106.zip](bin/cbotpak106.zip)<br>[cronobot101.zip](bin/cronobot101.zip)
 CTF Bot | Drew Davidson aka "BZ" | [ctfbot12.zip](bin/ctfbot12.zip) (*)
 CTFBot+ | Anthony Distler aka "*this" | [ctfbotp032399.zip](bin/ctfbotp032399.zip) (*)
 Cujo | Jonathan E. Wright | [cujo14.zip](bin/cujo14.zip)
@@ -105,7 +105,7 @@ Team Fortress Bots | Darryl Atchison aka "coffee" | [tf_bots07.zip](bin/tf_bots0
 TFBot | "Plumb" | ?
 TFBots | Joern Strombach aka "Hoerno" | [tfbot080.zip](bin/tfbot080.zip) (-)
 TFBots | Wolfgang Lehrach aka "GentleMan" | [tfbot077.zip](bin/tfbot077.zip) (-)
-The Oak | John Crickett and Neil Henderson | [oak0405.zip](bin/oak0405.zip)
+The Oak | John Crickett and Neil Henderson | [oak0405.zip](bin/oak0405.zip)<br>oak0855.zip<br>oak085.zip<br>oak084.zip<br>oak083.zip
 TLG QuakeBOT (Larva) | James Cullen aka "Jaymz" and Chris Cullen aka "Incubus" | [tlgbot.zip](bin/tlgbot.zip)
 TM Bot | Micheal Polucha and Tim Polucha | [tmbot11.zip](bin/tmbot11.zip)
 TrevBot | Kris O'Shea | [trevbot.zip](bin/trevbot.zip)
