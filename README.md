@@ -64,7 +64,7 @@ Gideon Bot | Matthew Turvey | [gidbot.zip](bin/gidbot.zip)
 GlacierBot | "IceDagger" | gb027b.zip
 GuardBot | Peter van Wingerden | [grdbot23.zip](bin/grdbot23.zip)
 GYPObot | Stephen Dobbs | [gypobot.zip](bin/gypobot.zip)
-Holywars Frogbot | Gerard Ryan aka "numb and Paolo Perrotta aka "Nusco" | [hw_frogbot13.zip](bin/hw_frogbot13.zip) (-)
+Holywars Frogbot | Gerard Ryan aka "numb and Paolo Perrotta aka "Nusco" | hw_frogbot14h.zip<br>[hw_frogbot13.zip](bin/hw_frogbot13.zip) (-)
 Holywars Tutor Bot | Connor Caple aka "RiEvEr" | [holy_tb.zip](bin/holy_tb.zip) (-)
 Human Bot (Hbot) | Jeffrey Lee | [hbot.zip](bin/hbot.zip)
 Indecisive Bot (Gyrobot) | Aaron Logue aka "Gyro Gearloose" | [gyrobot.zip](bin/gyrobot.zip)
@@ -103,8 +103,8 @@ Tballman | "Mother" | [tballman.zip](bin/tballman.zip)
 Team FMOD | "Shelob" | stfm10.zip
 Team Fortress Bots | Darryl Atchison aka "coffee" | [tf_bots07.zip](bin/tf_bots07.zip) (-)
 TFBot | "Plumb" | ?
-TFBots | Joern Strombach aka "Hoerno" | [tfbot080.zip](bin/tfbot080.zip) (-)<br>[tfbot077.zip](bin/tfbot077.zip)<br>[TFBot076.zip](bin/TFBot076.zip)
-TFBots | Wolfgang Lehrach aka "GentleMan" | [tfbot077.zip](bin/tfbot077.zip) (-)
+TFBots | Joern Strombach aka "Hoerno" | [tfbot080.zip](bin/tfbot080.zip) (-)
+TFBots | Wolfgang Lehrach aka "GentleMan" | [tfbot077.zip](bin/tfbot077.zip) (-)<br>[TFBot076.zip](bin/TFBot076.zip)
 The Oak | John Crickett and Neil Henderson | [oak0405.zip](bin/oak0405.zip)<br>oak0855.zip<br>oak085.zip<br>oak084.zip<br>oak083.zip
 TLG QuakeBOT (Larva) | James Cullen aka "Jaymz" and Chris Cullen aka "Incubus" | [tlgbot.zip](bin/tlgbot.zip)
 TM Bot | Micheal Polucha and Tim Polucha | [tmbot11.zip](bin/tmbot11.zip)
