@@ -83,7 +83,7 @@ Omicron Fixes | Joel Baxter aka "Johnny Law" | [obots102-fixed.zip](bin/obots102
 Optimized Frogbot | Christian Michael aka "surgeon" | [frogbot.lha](bin/frogbot.lha)
 Paddybot | Patrick Stimson aka "sniper" | paddybot02.zip<br>paddybot.zip
 POXbot | "pOx" | [pox120b.zip](bin/pox120b.zip) (-)
-QCBot | Alan Kivlin | ?
+QCBot | Alan Kivlin | [qcbot003.zip](bin/qcbot003.zip) (*)
 Quake Bot (QBot) | "Grinder" | [qbot11.zip](bin/qbot11.zip)
 R Bot | Ross Johnson aka "ColdKill" | [rbot70.zip](bin/rbot70.zip)
 Reapa | Terry Hendrix II aka "Mongoose" | ?
@@ -111,7 +111,7 @@ TM Bot | Micheal Polucha and Tim Polucha | [tmbot11.zip](bin/tmbot11.zip)
 TrevBot | Kris O'Shea | [trevbot.zip](bin/trevbot.zip)
 Tutor Bot | Darryl Atchison aka "coffee" | [tutor.zip](bin/tutor.zip)
 Vicinity Bot | "Black" | vicinityqwprogs.zip
-Victim Bot | Tony Tang aka "The TangMaster" | [vbot11.zip](bin/vbot11.zip)
+Victim Bot | Tony Tang aka "The TangMaster" | [vbot11.zip](bin/vbot11.zip)<br>vbot1.zip
 Wisp | Iikka Paavolainen | [wisp.zip](bin/wisp.zip) ($)
 Xreaper | "Mephisto" | xreaperb130.zip<br>setup.exe
 Zeus Bot | Jonathan E. Wright aka "Nelno the Amoeba" | [zeus205.zip](bin/zeus205.zip)<br>[zeus205s.zip](bin/zeus205s.zip)<br>[zeus2042.zip](bin/zeus2042.zip)<br>zeus204.zip<br>[zeus10.zip](bin/zeus10.zip)
