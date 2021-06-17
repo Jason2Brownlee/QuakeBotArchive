@@ -21,7 +21,7 @@ Borg Bot | Calvin Rien | [borg12.zip](bin/borg12.zip)
 Bot Hunt | Douglas H. King aka "Sea4" | [bthnt10.zip](bin/bthnt10.zip)
 Bot Player (BPlayer) | Wolfgang Lehrach aka "Wolf" | [bplayer2.zip](bin/bplayer2.zip)
 Bot Skeleton | Roscoe A. Sincero aka "Legion" | [btsk23.zip](bin/btsk23.zip) (*)($)
-BotSkin | "WACko" | [btskn22.zip](bin/btskn22.zip)
+BotSkin | "WACko" | [btskn22.zip](bin/btskn22.zip)<br>[botskn20.ZIP](bin/botskn20.ZIP)<br>[botskn18.ZIP](bin/botskn18.ZIP)
 ClanBots | "slug" | ClanV0.7HMan.zip<br>ClanV0.6Auto.zip<br>ClanV0.5Auto.zip
 Cronos Bot | "Cronos" | hd_pak0.zip<br>[cronobot107a.zip](bin/cronobot107a.zip)<br>[cbotpak106.zip](bin/cbotpak106.zip)<br>[cronobot101.zip](bin/cronobot101.zip)
 CTF Bot | Drew Davidson aka "BZ" | [ctfbot12.zip](bin/ctfbot12.zip) (*)<br>[ctfbot11.zip](bin/ctfbot11.zip)
