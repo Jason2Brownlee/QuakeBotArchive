@@ -566,6 +566,9 @@ FrikBotX / FBX
 	http://www.inside3d.com/frikbot/fbx/fbxb.zip
 	https://www.quaddicted.com/files/mods/fbxc.zip
 		https://www.quaddicted.com/webarchive/forums.insideqc.com/viewtopic.php%3Ff=1&t=5411.html
+	TODO: old versions:
+		https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/inside3d/frikbot/
+		https://dukeworld.com/telefragged/inside3d/frikbot/
 FrikBot X++ (FBX++)
 	https://steamcommunity.com/sharedfiles/filedetails/?id=123626484
 	https://neogeographica.com/site/pages/mods/fbxpp.html
