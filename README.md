@@ -54,8 +54,8 @@ FrikBot | Ryan Smith aka "Frika C" | [frkbt09b.zip](bin/frkbt09b.zip)
 Frogbot 2000 | Dennis de Boer aka "Justice" | f2k006d.zip
 Frogbot BotMatch Arena | Alex aka "DmSouL" | [botmatch.ZIP](bin/botmatch.ZIP) (-)
 Frogbot Clan Arena (FBCA) | "Baker" | [frogbots-099.zip](bin/frogbots-099.zip)
-Frogbot Clan Arena (FBCA) | Alexey Pakhomov aka "ParboiL" | [fbca102kt.zip](bin/fbca102kt.zip) (*)
-Frogbot Clan Arena (FBCA) | Matt McChesney aka "Asdf" | fbca085.zip
+Frogbot Clan Arena (FBCA) | Alexey Pakhomov aka "ParboiL" | [fbca102kt.zip](bin/fbca102kt.zip) (*)<br>fbca101final.zip<br>[fbca101kt.zip](bin/fbca102kt.zip)<br>fbca092kt.zip<br>fbca091kt.zip<br>fbca090kt.zip<br>fbca089se.zip<br>fbca86se.zip
+Frogbot Clan Arena (FBCA) | Matt McChesney aka "Asdf" | fbca088.zip<br>fbca085.zip
 Frogbot CTF (FBCTF) | Gerard Ryan aka "numb" | [fbctf035.zip](bin/fbctf035.zip) (-)
 Frogbot Rocket Arena | Brian Mathiasen aka "Erazor" | fbarena013.zip
 Frogbot Special Edition | Brian Mathiasen aka "Erazor" | fb013se.zip
