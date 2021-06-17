@@ -45,7 +45,7 @@ Eliminator Bot v1 | Jon Down aka "Perged" | [elim141.zip](bin/elim141.zip)
 Eliminator Bot v2 | Jon Down aka "Perged" and P. T. Craig aka "FuzzKatT" | Elim20b7.zip
 Estep Bot (EsTePBot) | Enrique Gonzalez Alonso aka "EsTePaRiO" | [estepbot2eng.zip](bin/estepbot2eng.zip)
 Frag Bot | Richard Peacock aka "The Goat" | [fragbot.zip](bin/fragbot.zip)
-Frik-TF | Raymond Martineau | [friktf-092800.zip](bin/friktf-092800.zip) (-)
+Frik-TF | Raymond Martineau | [friktf-092800.zip](bin/friktf-092800.zip) (-)<br>[friktfqw.zip](bin/friktfqw.zip)<br>friktf-051800-qw.zip
 FrikBot X (FBX) | Ryan Smith aka "Frika C" | [fbxc.zip](bin/fbxc.zip)<br>[fbxb.zip](bin/fbxb.zip)<br>[fbxa.zip](bin/fbxa.zip)
 FrikBot X DreamCast (FBXDC) | Ryan Smith aka "Frika C" | [fbxdc.zip](bin/fbxdc.zip)
 FrikBot X+ (FBX+) | Igor9 | fbx+.zip
