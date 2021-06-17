@@ -24,7 +24,7 @@ Bot Skeleton | Roscoe A. Sincero aka "Legion" | [btsk23.zip](bin/btsk23.zip) (*)
 BotSkin | "WACko" | [btskn22.zip](bin/btskn22.zip)
 ClanBots | "slug" | ClanV0.7HMan.zip<br>ClanV0.6Auto.zip<br>ClanV0.5Auto.zip
 Cronos Bot | "Cronos" | hd_pak0.zip<br>[cronobot107a.zip](bin/cronobot107a.zip)<br>[cbotpak106.zip](bin/cbotpak106.zip)<br>[cronobot101.zip](bin/cronobot101.zip)
-CTF Bot | Drew Davidson aka "BZ" | [ctfbot12.zip](bin/ctfbot12.zip) (*)
+CTF Bot | Drew Davidson aka "BZ" | [ctfbot12.zip](bin/ctfbot12.zip) (*)<br>[ctfbot11.zip](bin/ctfbot11.zip)
 CTFBot+ | Anthony Distler aka "*this" | [ctfbotp032399.zip](bin/ctfbotp032399.zip) (*)
 Cujo | Jonathan E. Wright | [cujo14.zip](bin/cujo14.zip)
 Dark Frogbot | "Pinsolle" | darkfrog.zip
@@ -46,7 +46,7 @@ Eliminator Bot v2 | Jon Down aka "Perged" and P. T. Craig aka "FuzzKatT" | Elim2
 Estep Bot (EsTePBot) | Enrique Gonzalez Alonso aka "EsTePaRiO" | [estepbot2eng.zip](bin/estepbot2eng.zip)
 Frag Bot | Richard Peacock aka "The Goat" | [fragbot.zip](bin/fragbot.zip)
 Frik-TF | Raymond Martineau | [friktf-092800.zip](bin/friktf-092800.zip) (-)
-FrikBot X (FBX) | Ryan Smith aka "Frika C" | [fbxc.zip](bin/fbxc.zip)<br>[fbxb.zip](bin/fbxb.zip)<br>[fbxa.zip](bin/fbxa.zip)<br>[frkbt09b.zip](bin/frkbt09b.zip)
+FrikBot X (FBX) | Ryan Smith aka "Frika C" | [fbxc.zip](bin/fbxc.zip)<br>[fbxb.zip](bin/fbxb.zip)<br>[fbxa.zip](bin/fbxa.zip)
 FrikBot X DreamCast (FBXDC) | Ryan Smith aka "Frika C" | [fbxdc.zip](bin/fbxdc.zip)
 FrikBot X+ (FBX+) | Igor9 | fbx+.zip
 FrikBot X++ (FBX++) | Joel Baxter aka "Johnny Law" | [fbx++.zip](bin/fbx++.zip)
