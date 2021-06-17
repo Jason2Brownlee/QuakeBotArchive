@@ -23,7 +23,7 @@ Bot Player (BPlayer) | Wolfgang Lehrach aka "Wolf" | [bplayer2.zip](bin/bplayer2
 Bot Skeleton | Roscoe A. Sincero aka "Legion" | [btsk23.zip](bin/btsk23.zip) (*)($)
 BotSkin | "WACko" | [btskn22.zip](bin/btskn22.zip)
 ClanBots | "slug" | ClanV0.7HMan.zip
-Cronos Bot | "Cronos" | [cronobot.zip](bin/cronobot.zip)
+Cronos Bot | "Cronos" | hd_pak0.zip<br>[cronobot.zip](bin/cronobot107a.zip)<br>[cbotpak106.zip](bin/cbotpak106.zip)<br>[cronobot101.zip](bin/cronobot101.zip)
 CTF Bot | Drew Davidson aka "BZ" | [ctfbot12.zip](bin/ctfbot12.zip) (*)
 CTFBot+ | Anthony Distler aka "*this" | [ctfbotp032399.zip](bin/ctfbotp032399.zip) (*)
 Cujo | Jonathan E. Wright | [cujo14.zip](bin/cujo14.zip)
