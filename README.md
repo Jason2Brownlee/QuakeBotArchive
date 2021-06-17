@@ -59,7 +59,7 @@ Frogbot Clan Arena (FBCA) | Matt McChesney aka "Asdf" | fbca085.zip
 Frogbot CTF (FBCTF) | Gerard Ryan aka "numb" | [fbctf035.zip](bin/fbctf035.zip) (-)
 Frogbot Rocket Arena | Brian Mathiasen aka "Erazor" | fbarena013.zip
 Frogbot Special Edition | Brian Mathiasen aka "Erazor" | fb013se.zip
-Frogbot | Robert Field aka "Frog" | [frogbot013.zip](bin/frogbot013.zip)
+Frogbot | Robert Field aka "Frog" | [frogbot013.zip](bin/frogbot013.zip)<br>[frogbot012.zip](bin/frogbot012.zip)<br>frogbot011.zip
 Gideon Bot | Matthew Turvey | [gidbot.zip](bin/gidbot.zip)
 GlacierBot | "IceDagger" | gb027b.zip
 GuardBot | Peter van Wingerden | [grdbot23.zip](bin/grdbot23.zip)
@@ -113,8 +113,8 @@ Tutor Bot | Darryl Atchison aka "coffee" | [tutor.zip](bin/tutor.zip)
 Vicinity Bot | "Black" | vicinityqwprogs.zip
 Victim Bot | Tony Tang aka "The TangMaster" | [vbot11.zip](bin/vbot11.zip)
 Wisp | Iikka Paavolainen | [wisp.zip](bin/wisp.zip) ($)
-Xreaper | "Mephisto" | xreaperb130.zip
-Zeus Bot | Jonathan E. Wright aka "Nelno the Amoeba" | [zeus205.zip](bin/zeus205.zip)<br>[zeus205s.zip](bin/zeus205s.zip) (server)<br>[zeus2042.zip](bin/zeus2042.zip)<br>zeus204.zip<br>[zeus10.zip](bin/zeus10.zip)
+Xreaper | "Mephisto" | xreaperb130.zip<br>setup.exe
+Zeus Bot | Jonathan E. Wright aka "Nelno the Amoeba" | [zeus205.zip](bin/zeus205.zip)<br>[zeus205s.zip](bin/zeus205s.zip)<br>[zeus2042.zip](bin/zeus2042.zip)<br>zeus204.zip<br>[zeus10.zip](bin/zeus10.zip)
 
 File Column:
 - **?** Indicates I could not discover the name of the bot mod filename.
