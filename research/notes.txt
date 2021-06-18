@@ -976,6 +976,9 @@ FrikBot + Last Man Standing
 	https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/inside3d/frikbot/frik-lms.zip
 	dynamo_tamarin@yahoo.com (Raymond Martineau)
 	frik-lms.zip
+FrikBot + Final Arena
+	https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/inside3d/frikbot/frikfa.zip
+	Ryan Smith aka "Frika C"
 
 
 
