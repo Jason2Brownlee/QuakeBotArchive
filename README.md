@@ -98,6 +98,7 @@ SamBot | Sam Stephens aka "Spam-man" | [sambot.zip](bin/sambot.zip)
 Sigmund Bot | Rich Whitehouse aka "thefatal" | [sigbot2.zip](bin/sigbot2.zip)
 Square Bot | Ashley Reynolds aka "Ze0" | ?
 Squirt Bot | Michael Buettner aka "Squirt" | [squirt13.zip](bin/squirt13.zip)
+SuPeRMan Bot | "(KSA)Tekken" | superman11.zip
 Swimming Bot (Swimbot) | Greg Fukui aka "baloo the bear" | [swbot104.zip](bin/swbot104.zip) ($)
 Tballman | "Mother" | [tballman.zip](bin/tballman.zip)
 Team FMOD | "Shelob" | stfm10.zip

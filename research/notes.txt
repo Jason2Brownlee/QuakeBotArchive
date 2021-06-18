@@ -964,6 +964,12 @@ Holywars Tutor Bot
 	"RiEvEr"
 	Connor "RiEvEr" Caple
 	riever@planetquake.com
+SuPeRMan Bot
+	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/news.htm
+	by (KSA)Tekken
+	http://www.geocities.com/TimesSquare/Fortress/7565/superman11.zip
+	superman11.zip
+	???
 
 
 RESEARCHING...
@@ -1016,12 +1022,6 @@ frikbot mods
 Unknown Bot
  	https://web.archive.org/web/20100123221300/http://botepidemic.no-origin.net/quake.shtml.htm
  	http://members.xoom.com/_XOOM/unknownbot/
-SuPeRMan Bot
-	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/news.htm
-	by (KSA)Tekken
-	http://www.geocities.com/TimesSquare/Fortress/7565/superman11.zip
-	superman11.zip
-	???
 GerBot
 	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/news.htm
 	http://www.det5.com/drzaius/
