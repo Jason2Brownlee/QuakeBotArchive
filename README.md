@@ -50,7 +50,7 @@ FrikBot X (FBX) | Ryan Smith aka "Frika C" | [fbxc.zip](bin/fbxc.zip)<br>[fbxb.z
 FrikBot X DreamCast (FBXDC) | Ryan Smith aka "Frika C" | [fbxdc.zip](bin/fbxdc.zip)
 FrikBot X+ (FBX+) | Igor9 | fbx+.zip
 FrikBot X++ (FBX++) | Joel Baxter aka "Johnny Law" | [fbx++.zip](bin/fbx++.zip)
-FrikBot | Ryan Smith aka "Frika C" | [frkbt09b.zip](bin/frkbt09b.zip)
+FrikBot | Ryan Smith aka "Frika C" | [frkbt09b.zip](bin/frkbt09b.zip)<br>[frikbt09.zip](bin/frikbt09.zip)<br>[frikbt08.zip](bin/frikbt08.zip)<br>[frikbt07.zip](bin/frikbt07.zip)<br>[frikbt06.zip](bin/frikbt06.zip)<br>[frikbt05.zip](bin/frikbt05.zip)<br>[frikbt04.zip](bin/frikbt04.zip)<br>
 Frogbot 2000 | Dennis de Boer aka "Justice" | f2k006d.zip<br>f2k001a.zip<br>2000.zip
 Frogbot BotMatch Arena | Alex aka "DmSouL" | [botmatch.ZIP](bin/botmatch.ZIP) (-)<br>bm119gl.zip
 Frogbot Clan Arena (FBCA) | "Baker" | [frogbots-099.zip](bin/frogbots-099.zip)
