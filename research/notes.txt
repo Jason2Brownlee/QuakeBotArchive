@@ -970,6 +970,13 @@ SuPeRMan Bot
 	http://www.geocities.com/TimesSquare/Fortress/7565/superman11.zip
 	superman11.zip
 	???
+FrikBot + Last Man Standing
+	https://web.archive.org/web/20000817070547/http://www.inside3d.com/frikbot/
+	https://web.archive.org/web/20000817070547/http://www.inside3d.com/frikbot/download.shtml?file=frikbot/frik-lms.zip
+	https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/inside3d/frikbot/frik-lms.zip
+	dynamo_tamarin@yahoo.com (Raymond Martineau)
+	frik-lms.zip
+
 
 
 RESEARCHING...
