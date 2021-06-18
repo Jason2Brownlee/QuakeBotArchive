@@ -987,7 +987,47 @@ FrikBot + Holy Wars
 	https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/inside3d/frikbot/frikholy.zip
 	Ryan Smith aka "Frika C"
 	frikholy.zip
-
+FrikBot + Scourge of Armagon
+	Ryan Smith aka "Frika C"
+	frikmp01.zip
+	https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/inside3d/frikbot/frikmp01.zip
+FrikBot + Dissolution of Eternity
+	https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/inside3d/frikbot/frikmp02.zip
+	Ryan Smith aka "Frika C"
+	frikmp02.zip
+FrikBot + PerQuake
+	Ryan Smith aka "Frika C"
+	frikper.zip
+	https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/inside3d/frikbot/frikper.zip
+FrikBot + PainKeep
+	frikpk.zip
+	Ryan Smith aka "Frika C"
+	https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/inside3d/frikbot/frikpk.zip
+FrikBot + Rocket Arena
+	Raymond Martineau
+	frikra.zip
+	https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/inside3d/frikbot/frikra.zip
+FrikBot + Rhino's Ultimate Quake
+	frikruq.zip
+	Ryan Smith aka "Frika C"
+	https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/inside3d/frikbot/frikruq.zip
+FrikBot + Zerstorer
+	frikzer.zip
+	Ryan Smith aka "Frika C"
+	https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/inside3d/frikbot/frikzer.zip
+FrikBot + QuakeWorld
+	frkqw01.zip
+	rs/ftp.telefragged.com/inside3d/frikbot/frikqw01.zip
+FrikBot + QW Vwep
+	Ryan Smith aka "Frika C"
+	frikqw03.zip
+	https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/inside3d/frikbot/frikqw03.zip
+	frikvwep.zip
+	https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/inside3d/frikbot/frikvwep.zip
+Ache
+	Athos Konkoran Kryn
+	https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/inside3d/frikbot/ache.zip
+	ache.zip
 
 
 RESEARCHING...

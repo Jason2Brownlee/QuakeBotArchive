@@ -14,6 +14,7 @@ Alphabetical list of quake bot names, authors, and local download links.
 
 Bot Name | Bot Author(s) | File
 --- | --- | ---
+Ache | Athos Konkoran Kryn | [ache.zip](bin/ache.zip) (-)
 Attacker | Jonathan Geary | [attacker.zip](bin/attacker.zip)
 BGADM Bot | "Detour" | [bgadm101.zip](bin/bgadm101.zip) ($)
 BGBot | Robert DeFilippo III aka "Punisher" | [bgbot20a.zip](bin/bgbot20a.zip)<br>[bgbot16.zip](bin/bgbot16.zip)
@@ -47,11 +48,20 @@ Estep Bot (EsTePBot) | Enrique Gonzalez Alonso aka "EsTePaRiO" | [estepbot2eng.z
 Frag Bot | Richard Peacock aka "The Goat" | [fragbot.zip](bin/fragbot.zip)
 Frik-TF | Raymond Martineau | [friktf-092800.zip](bin/friktf-092800.zip) (-)<br>[friktfqw.zip](bin/friktfqw.zip)<br>friktf-051800-qw.zip
 FrikBot + Deathmatch Essentials | Ryan Smith aka "Frika C" | [frikdme.zip](bin/frikdme.zip) (-)
+FrikBot + Dissolution of Eternity | Ryan Smith aka "Frika C" | [frikmp02.zip](bin/frikmp02.zip) (-)
 FrikBot + Final Arena | Ryan Smith aka "Frika C" | [frikfa.zip](bin/frikfa.zip) (-)
-FrikBot + Holy Wars | Ryan Smith aka "Frika C" | [frikholy.zip](bin/frikholy.zip)
+FrikBot + Holy Wars | Ryan Smith aka "Frika C" | [frikholy.zip](bin/frikholy.zip) (-)
 FrikBot + Last Man Standing | Raymond Martineau | [frik-lms.zip](bin/frik-lms.zip) (-)
+FrikBot + PainKeep | Ryan Smith aka "Frika C" | [frikpk.zip](bin/frikpk.zip) (-)
+FrikBot + PerQuake | Ryan Smith aka "Frika C" | [frikper.zip](bin/frikper.zip) (-)
+FrikBot + QuakeWorld | Ryan Smith aka "Frika C" | [frkqw01.zip](bin/frkqw01.zip) (-)
+FrikBot + QW Vwep | Ryan Smith aka "Frika C" | [frikvwep.zip](bin/frikvwep.zip) (-)<br>[frikqw03.zip](bin/frikqw03.zip)
+FrikBot + Rhino's Ultimate Quake | Ryan Smith aka "Frika C" | [frikruq.zip](bin/frikruq.zip) (-)
+FrikBot + Rocket Arena | Raymond Martineau | [frikra.zip](bin/frikra.zip) (-)
+FrikBot + Scourge of Armagon | Ryan Smith aka "Frika C" | [frikmp01.zip](bin/frikmp01.zip) (-)
+FrikBot + Zerstorer | Ryan Smith aka "Frika C" | [frikzer.zip](bin/frikzer.zip) (-)
 FrikBot X (FBX) | Ryan Smith aka "Frika C" | [fbxc.zip](bin/fbxc.zip)<br>[fbxb.zip](bin/fbxb.zip)<br>[fbxa.zip](bin/fbxa.zip)
-FrikBot X DreamCast (FBXDC) | Ryan Smith aka "Frika C" | [fbxdc.zip](bin/fbxdc.zip)
+FrikBot X DreamCast (FBXDC) | Ryan Smith aka "Frika C" | [fbxdc.zip](bin/fbxdc.zip) (-)
 FrikBot X+ (FBX+) | Igor9 | fbx+.zip
 FrikBot X++ (FBX++) | Joel Baxter aka "Johnny Law" | [fbx++.zip](bin/fbx++.zip)
 FrikBot | Ryan Smith aka "Frika C" | [frkbt09b.zip](bin/frkbt09b.zip)<br>[frikbt09.zip](bin/frikbt09.zip)<br>[frikbt08.zip](bin/frikbt08.zip)<br>[frikbt07.zip](bin/frikbt07.zip)<br>[frikbt06.zip](bin/frikbt06.zip)<br>[frikbt05.zip](bin/frikbt05.zip)<br>[frikbt04.zip](bin/frikbt04.zip)<br>
@@ -92,8 +102,8 @@ Quake Bot (QBot) | "Grinder" | [qbot11.zip](bin/qbot11.zip)
 R Bot | Ross Johnson aka "ColdKill" | [rbot70.zip](bin/rbot70.zip)<br>[rbot20.zip](bin/rbot20.zip)
 Reapa | Terry Hendrix II aka "Mongoose" | ?
 Reaper + DM4 | "Hades" | [dm4reaper.zip](bin/dm4reaper.zip) (-)
-Reaper + Hipnotic | Bent Svendsen aka "Decker" | [hipreap3.zip](bin/hipreap3.zip) (-)
 Reaper + Painkeep | Bent Svendsen aka "Decker" | [pkbot.zip](bin/pkbot.zip) (-)
+Reaper + Scourge of Armagon | Bent Svendsen aka "Decker" | [hipreap3.zip](bin/hipreap3.zip) (-)
 Reaper Bot | Steven Polge | [reaprb81.zip](bin/reaprb81.zip)<br>[reaper80.zip](bin/reaper80.zip)<br>reaprb75.zip<br>[reaprb07.zip](bin/reaprb07.zip)<br>reaprb06.zip<br>reaprb05.zip
 ReaperFX Bot | A. W. Johnstone aka "Pob the Impaler" | [reaperfx.zip](bin/reaperfx.zip)
 Ric's Reaper Bots | "Ric" | [reap081h.zip](bin/reap081h.zip) ($)
