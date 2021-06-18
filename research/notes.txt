@@ -979,6 +979,10 @@ FrikBot + Last Man Standing
 FrikBot + Final Arena
 	https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/inside3d/frikbot/frikfa.zip
 	Ryan Smith aka "Frika C"
+FrikBot + Deathmatch Essentials
+	https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/inside3d/frikbot/frikdme.zip
+	Ryan Smith aka "Frika C"
+	frikdme.zip
 
 
 
