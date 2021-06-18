@@ -10,10 +10,10 @@ If these files can be located by other means or sources, all the better!
 
 --------------------------------------------------------------------------------
 
-ftp.cdrom.com/pub/quake/quakec/bots/dmbt21b1.zip
-ftp.cdrom.com/pub/quake/quakec/bots/doombot.zip
 ftp://bluesnews.com/pub/bots/reaprb75.zip
 ftp://ftp.cdrom.com/pub/idgames2/quakec/bots/vbot1.zip
+ftp://ftp.cdrom.com/pub/quake/quakec/bots/dmbt21b1.zip
+ftp://ftp.cdrom.com/pub/quake/quakec/bots/doombot.zip
 ftp://ftp.pk.edu.pl/pub/games/id/quaketoys/mods/reaprb75.zip
 ftp://ftp.stomped.com/pub/redwood/bots/oak0855.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf015.zip
