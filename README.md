@@ -42,7 +42,7 @@ Elfbot | "SkinSki" | [elfbot.zip](bin/elfbot.zip)
 Elima-Reaper | Roscoe A. Sincero aka "Legion" | ?
 Eliminator Bot (CBOT) | Cameron B. Newham | [elim14.zip](bin/elim14.zip)
 Eliminator Bot v1 | Jon Down aka "Perged" | [elim141.zip](bin/elim141.zip)
-Eliminator Bot v2 | Jon Down aka "Perged" and P. T. Craig aka "FuzzKatT" | Elim20b7.zip
+Eliminator Bot v2 | Jon Down aka "Perged" and P. T. Craig aka "FuzzKatT" | elim20b7.zip
 Estep Bot (EsTePBot) | Enrique Gonzalez Alonso aka "EsTePaRiO" | [estepbot2eng.zip](bin/estepbot2eng.zip)
 Frag Bot | Richard Peacock aka "The Goat" | [fragbot.zip](bin/fragbot.zip)
 Frik-TF | Raymond Martineau | [friktf-092800.zip](bin/friktf-092800.zip) (-)<br>[friktfqw.zip](bin/friktfqw.zip)<br>friktf-051800-qw.zip
@@ -54,9 +54,9 @@ FrikBot | Ryan Smith aka "Frika C" | [frkbt09b.zip](bin/frkbt09b.zip)
 Frogbot 2000 | Dennis de Boer aka "Justice" | f2k006d.zip<br>f2k001a.zip<br>2000.zip
 Frogbot BotMatch Arena | Alex aka "DmSouL" | [botmatch.ZIP](bin/botmatch.ZIP) (-)<br>bm119gl.zip
 Frogbot Clan Arena (FBCA) | "Baker" | [frogbots-099.zip](bin/frogbots-099.zip)
-Frogbot Clan Arena (FBCA) | Alexey Pakhomov aka "ParboiL" | [fbca102kt.zip](bin/fbca102kt.zip) (*)<br>fbca101final.zip<br>[fbca101kt.zip](bin/fbca102kt.zip)<br>fbca092kt.zip<br>fbca091kt.zip<br>fbca090kt.zip<br>fbca089se.zip<br>fbca86se.zip
+Frogbot Clan Arena (FBCA) | Alexey Pakhomov aka "ParboiL" | [fbca102kt.zip](bin/fbca102kt.zip) (*)<br>fbca101final.zip<br>[fbca101kt.zip](bin/fbca102kt.zip)<br>[fbca092kt.zip](bin/fbca092kt.zip)<br>fbca091kt.zip<br>fbca090kt.zip<br>fbca089se.zip<br>fbca86se.zip
 Frogbot Clan Arena (FBCA) | Matt McChesney aka "Asdf" | fbca088.zip<br>fbca085.zip
-Frogbot CTF (FBCTF) | Gerard Ryan aka "numb" | fbctf0532.zip<br>[fbctf035.zip](bin/fbctf035.zip) (-)<br>fbctf032.zip<br>fbctf030.zip<br>fbctf026.zip<br>fbctf024.zip<br>fbctf023.zip<br>fbctf021.zip<br>fbctf019.zip<br>fbctf015.zip
+Frogbot CTF (FBCTF) | Gerard Ryan aka "numb" | fbctf0532.zip<br>[fbctf035.zip](bin/fbctf035.zip) (-)<br>fbctf033.zip<br>fbctf032.zip<br>fbctf030.zip<br>fbctf026.zip<br>fbctf024.zip<br>fbctf023.zip<br>fbctf021.zip<br>fbctf019.zip<br>fbctf015.zip
 Frogbot Rocket Arena | Brian Mathiasen aka "Erazor" | fbarena013.zip
 Frogbot Special Edition | Brian Mathiasen aka "Erazor" | fb013se.zip
 Frogbot | Robert Field aka "Frog" | [frogbot013.zip](bin/frogbot013.zip)<br>[frogbot012.zip](bin/frogbot012.zip)<br>frogbot011.zip
@@ -76,7 +76,7 @@ Kooliobot | "Koolio" | koolio.zip
 Lithium CTF Bot | Juan Ignacio Rava aka "Johnny" | [lith091c.zip](bin/lith091c.zip) (-)
 MaNiAcBot | Michael Turitzin aka "MaNiAc" | [maniacbt.zip](bin/maniacbt.zip)
 MyBot | Stephen Vanterpool | [mybot16.zip](bin/mybot16.zip)
-Navy SEALs sQuad bots | William van der Sterren | [nseal201.zip](bin/nseal201.zip)
+Navy SEALs sQuad bots | William van der Sterren | [nseal201.zip](bin/nseal201.zip)<br>sqdbt201.zip<>
 Ogre Bot | "Lava Man" | [ogrebot.zip](bin/ogrebot.zip)
 Omicron Bot | Jan Paul van Waveren aka "Mr. Elusive" and Miklos de Rijk aka "H2SO4" | [obots102.zip](bin/obots102.zip)
 Omicron Fixes | Joel Baxter aka "Johnny Law" | [obots102-fixed.zip](bin/obots102-fixed.zip)
@@ -104,7 +104,7 @@ Team FMOD | "Shelob" | stfm10.zip
 Team Fortress Bots | Darryl Atchison aka "coffee" | [tf_bots07.zip](bin/tf_bots07.zip) (-)
 TFBot | "Plumb" | ?
 TFBots | Joern Strombach aka "Hoerno" | [tfbot080.zip](bin/tfbot080.zip) (-)
-TFBots | Wolfgang Lehrach aka "GentleMan" | [tfbot077.zip](bin/tfbot077.zip) (-)<br>[TFBot076.zip](bin/TFBot076.zip)
+TFBots | Wolfgang Lehrach aka "GentleMan" | [tfbot077.zip](bin/tfbot077.zip) (-)<br>[TFBot076.zip](bin/TFBot076.zip)<br>tfb-v07.zip
 The Oak | John Crickett and Neil Henderson | [oak0405_fixed.zip](bin/oak0405_fixed.zip)<br>[oak0405.zip](bin/oak0405.zip)<br>oak0855.zip<br>oak085.zip<br>oak084.zip<br>oak083.zip
 TLG QuakeBOT (Larva) | James Cullen aka "Jaymz" and Chris Cullen aka "Incubus" | [tlgbot.zip](bin/tlgbot.zip)
 TM Bot | Micheal Polucha and Tim Polucha | [tmbot11.zip](bin/tmbot11.zip)

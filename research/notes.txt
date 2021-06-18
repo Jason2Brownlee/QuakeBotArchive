@@ -446,6 +446,7 @@ Eliminator (reaper) v2
 	https://web.archive.org/web/19990203024331/http://impact.frag.com/
 	https://web.archive.org/web/19990221085355/http://users.andara.com/~jdown/beta7.txt
 	https://web.archive.org/web/19990203003835fw_/http://www.planetquake.com/eliminator/files.html
+	https://web.archive.org/web/19990203003835/http://users.andara.com/~jdown/elim20b7.zip
 	http://www.ccn.cs.dal.ca/~ae142/
 	https://web.archive.org/web/sitemap/http://users.andara.com/~jdown/
 	http://www.insideqc.com/modindex/qreview/patch7.shtml
@@ -785,6 +786,7 @@ TFBot (RainKing / GentleMan / Hoerno/Nexus)
 		Joern Strombach / Hoerno@o-online.de
 		maybe a fix for the prior version by "GentleMan"?
 	https://web.archive.org/web/19990218040426/http://www.planetquake.com/qca/reviews/patch107.htm
+	https://web.archive.org/web/20001011101258/ftp://ftp.cdrom.com/pub/quake/planetquake/qca/tfb-v07.zip
 	http://www.lockandload.com/tfbot/
 	tfb-v07.zip
 		???
