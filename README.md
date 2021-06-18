@@ -48,6 +48,7 @@ Frag Bot | Richard Peacock aka "The Goat" | [fragbot.zip](bin/fragbot.zip)
 Frik-TF | Raymond Martineau | [friktf-092800.zip](bin/friktf-092800.zip) (-)<br>[friktfqw.zip](bin/friktfqw.zip)<br>friktf-051800-qw.zip
 FrikBot + Deathmatch Essentials | Ryan Smith aka "Frika C" | [frikdme.zip](bin/frikdme.zip) (-)
 FrikBot + Final Arena | Ryan Smith aka "Frika C" | [frikfa.zip](bin/frikfa.zip) (-)
+FrikBot + Holy Wars | Ryan Smith aka "Frika C" | [frikholy.zip](bin/frikholy.zip)
 FrikBot + Last Man Standing | Raymond Martineau | [frik-lms.zip](bin/frik-lms.zip) (-)
 FrikBot X (FBX) | Ryan Smith aka "Frika C" | [fbxc.zip](bin/fbxc.zip)<br>[fbxb.zip](bin/fbxb.zip)<br>[fbxa.zip](bin/fbxa.zip)
 FrikBot X DreamCast (FBXDC) | Ryan Smith aka "Frika C" | [fbxdc.zip](bin/fbxdc.zip)

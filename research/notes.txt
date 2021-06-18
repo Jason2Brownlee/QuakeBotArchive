@@ -983,6 +983,10 @@ FrikBot + Deathmatch Essentials
 	https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/inside3d/frikbot/frikdme.zip
 	Ryan Smith aka "Frika C"
 	frikdme.zip
+FrikBot + Holy Wars
+	https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/inside3d/frikbot/frikholy.zip
+	Ryan Smith aka "Frika C"
+	frikholy.zip
 
 
 
