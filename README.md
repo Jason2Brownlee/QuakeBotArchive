@@ -96,7 +96,7 @@ MaNiAcBot | Michael Turitzin aka "MaNiAc" | [maniacbt.zip](bin/maniacbt.zip)
 MyBot | Stephen Vanterpool | [mybot16.zip](bin/mybot16.zip)
 Navy SEALs sQuad bots | William van der Sterren | [nseal201.zip](bin/nseal201.zip)<br>sqdbt201.zip
 Ogre Bot | "Lava Man" | [ogrebot.zip](bin/ogrebot.zip)
-Omicron Bot | Jan Paul van Waveren aka "Mr. Elusive" and Miklos de Rijk aka "H2SO4" | [obots102.zip](bin/obots102.zip)<br>obots100.zip
+Omicron Bot | Jan Paul van Waveren aka "Mr. Elusive" and Miklos de Rijk aka "H2SO4" | [obots102.zip](bin/obots102.zip)<br>[obots101.zip](bin/obots101.zip)<br>obots100.zip
 Omicron Fixes | Joel Baxter aka "Johnny Law" | [obots102-fixed.zip](bin/obots102-fixed.zip)
 Optimized Frogbot | Christian Michael aka "surgeon" | [frogbot.lha](bin/frogbot.lha)
 Paddybot | Patrick Stimson aka "sniper" | paddybot02.zip<br>paddybot.zip
