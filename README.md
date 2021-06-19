@@ -35,7 +35,7 @@ DeathBot | James Boswell aka "FlashFire" | [death-64.zip](bin/death-64.zip)
 Demonshooter | "Shootermaster" | [shooter.zip](bin/shooter.zip)
 DJBot | Dave James aka "DJ" | [DJbot1.zip](bin/DJbot1.zip) (*)
 DM Bot | Nathaniel Gorham | [dmbot1.zip](bin/dmbot1.zip)
-DOBBSBot | Stephen Dobbs | [dobbsbot15bwp.zip](bin/dobbsbot15bwp.zip)<br>dobbsbot15b.zip<br>dobbsbot15a.zip
+DOBBSBot | Stephen Dobbs | [dobbsbot15bwp.zip](bin/dobbsbot15bwp.zip)<br>dobbsbot15b.zip<br>[dobbsbot15a.zip](bin/dobbsbot15a.zip)
 Doombot | Roscoe A. Sincero aka "Legion" | [dmbt21b3.zip](bin/dmbt21b3.zip)<br>dmbt21b1.zip<br>doombot.zip
 Drastic Reaper Bot | Mark Wheeler | [dreaper.zip](bin/dreaper.zip)
 EdBot | Edward Dawson aka "HotCakes" | [edbot0-04.zip](bin/edbot0-04.zip) (-)
@@ -131,7 +131,7 @@ Vicinity Bot | "Black" | vicinityqwprogs.zip
 Victim Bot | Tony Tang aka "The TangMaster" | [vbot11.zip](bin/vbot11.zip)<br>vbot1.zip
 Wisp | Iikka Paavolainen | [wisp.zip](bin/wisp.zip) ($)
 Xreaper | "Mephisto" | xreaperb130.zip<br>setup.exe
-Zeus Bot | Jonathan E. Wright aka "Nelno the Amoeba" | [zeus205.zip](bin/zeus205.zip)<br>[zeus205s.zip](bin/zeus205s.zip)<br>[zeus2042.zip](bin/zeus2042.zip)<br>zeus204.zip<br>[zeus10.zip](bin/zeus10.zip)
+Zeus Bot | Jonathan E. Wright aka "Nelno the Amoeba" | [zeus205.zip](bin/zeus205.zip)<br>[zeus205s.zip](bin/zeus205s.zip)<br>[zeus2042.zip](bin/zeus2042.zip)<br>[zeus204.zip](bin/zeus204.zip)<br>[zeus10.zip](bin/zeus10.zip)
 
 File Column:
 - **?** Indicates I could not discover the name of the bot mod filename.
