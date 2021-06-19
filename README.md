@@ -44,7 +44,7 @@ Elima-Reaper | Roscoe A. Sincero aka "Legion" | ?
 Eliminator Bot (CBOT) | Cameron B. Newham | [elim14.zip](bin/elim14.zip)
 Eliminator Bot v1 | Jon Down aka "Perged" | [elim141.zip](bin/elim141.zip)
 Eliminator Bot v2 | Jon Down aka "Perged" and P. T. Craig aka "FuzzKatT" | elim20b7.zip
-Estep Bot (EsTePBot) | Enrique Gonzalez Alonso aka "EsTePaRiO" | [estepbot2eng.zip](bin/estepbot2eng.zip)
+Estep Bot (EsTePBot) | Enrique Gonzalez Alonso aka "EsTePaRiO" | [estepbot2eng.zip](bin/estepbot2eng.zip)<br>[estepbot2.zip](bin/estepbot2.zip)
 Frag Bot | Richard Peacock aka "The Goat" | [fragbot.zip](bin/fragbot.zip)
 Frik-TF | Raymond Martineau | [friktf-092800.zip](bin/friktf-092800.zip) (-)<br>[friktfqw.zip](bin/friktfqw.zip)<br>friktf-051800-qw.zip
 FrikBot + Artifact Quake (Runebot) | Chuck Parsons | [rnbt4.2.zip](bin/rnbt4.2.zip) (-)<br>rnbt3.6.zip<br>rnbt3.4.zip
