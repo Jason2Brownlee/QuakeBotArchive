@@ -47,6 +47,7 @@ Eliminator Bot v2 | Jon Down aka "Perged" and P. T. Craig aka "FuzzKatT" | elim2
 Estep Bot (EsTePBot) | Enrique Gonzalez Alonso aka "EsTePaRiO" | [estepbot2eng.zip](bin/estepbot2eng.zip)
 Frag Bot | Richard Peacock aka "The Goat" | [fragbot.zip](bin/fragbot.zip)
 Frik-TF | Raymond Martineau | [friktf-092800.zip](bin/friktf-092800.zip) (-)<br>[friktfqw.zip](bin/friktfqw.zip)<br>friktf-051800-qw.zip
+FrikBot + Artifact Quake (Runebot) | Chuck Parsons | rnbt3.6.zip<br>[rnbt3.4.zip](bin/rnbt3.4.zip) (-)
 FrikBot + Deathmatch Essentials | Ryan Smith aka "Frika C" | [frikdme.zip](bin/frikdme.zip) (-)
 FrikBot + Dissolution of Eternity | Ryan Smith aka "Frika C" | [frikmp02.zip](bin/frikmp02.zip) (-)
 FrikBot + Final Arena | Ryan Smith aka "Frika C" | [frikfa.zip](bin/frikfa.zip) (-)

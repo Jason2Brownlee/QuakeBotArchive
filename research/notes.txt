@@ -979,6 +979,8 @@ FrikBot + Last Man Standing
 FrikBot + Final Arena
 	https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/inside3d/frikbot/frikfa.zip
 	Ryan Smith aka "Frika C"
+	https://web.archive.org/web/20000817070547/http://www.inside3d.com/frikbot/
+	Raymond Martineau ???
 FrikBot + Deathmatch Essentials
 	https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/inside3d/frikbot/frikdme.zip
 	Ryan Smith aka "Frika C"
@@ -1028,6 +1030,13 @@ Ache
 	Athos Konkoran Kryn
 	https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/inside3d/frikbot/ache.zip
 	ache.zip
+FrikBot + Artifact Quake / Runebot
+	https://web.archive.org/web/20000817070547/http://www.inside3d.com/frikbot/
+	http://www.home.earthlink.net/~pentm450/
+	https://web.archive.org/web/20000831024015/http://www.home.earthlink.net/~pentm450/
+	https://web.archive.org/web/20000831024015/http://www.home.earthlink.net/~pentm450/rnbt3.4.zip
+	https://web.archive.org/web/20000831024015/http://www.home.earthlink.net/~pentm450/rnbt3.6.zip
+	Chuck Parsons
 
 
 RESEARCHING...
@@ -1089,7 +1098,12 @@ hellbot
 	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/news.htm
 	http://www.angelfire.com/pa2/hellbot/
 	Shawn F
-
+Ninja Quake Bot
+	https://web.archive.org/web/20000817070547/http://www.inside3d.com/frikbot/
+	http://matrix.crosswinds.net/~tsturm/
+	???
+FrikBot + Head Hunters
+	https://web.archive.org/web/20000831024015/http://www.home.earthlink.net/~pentm450/
 
 
 OUT OF SCOPE
