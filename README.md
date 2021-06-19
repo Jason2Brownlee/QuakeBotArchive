@@ -47,7 +47,7 @@ Eliminator Bot v2 | Jon Down aka "Perged" and P. T. Craig aka "FuzzKatT" | elim2
 Estep Bot (EsTePBot) | Enrique Gonzalez Alonso aka "EsTePaRiO" | [estepbot2eng.zip](bin/estepbot2eng.zip)
 Frag Bot | Richard Peacock aka "The Goat" | [fragbot.zip](bin/fragbot.zip)
 Frik-TF | Raymond Martineau | [friktf-092800.zip](bin/friktf-092800.zip) (-)<br>[friktfqw.zip](bin/friktfqw.zip)<br>friktf-051800-qw.zip
-FrikBot + Artifact Quake (Runebot) | Chuck Parsons | [rnbt4.2.zip](bin/rnbt4.2.zip)<br>rnbt3.6.zip<br>rnbt3.4.zip (-)
+FrikBot + Artifact Quake (Runebot) | Chuck Parsons | [rnbt4.2.zip](bin/rnbt4.2.zip) (-)<br>rnbt3.6.zip<br>rnbt3.4.zip
 FrikBot + Deathmatch Essentials | Ryan Smith aka "Frika C" | [frikdme.zip](bin/frikdme.zip) (-)
 FrikBot + Dissolution of Eternity | Ryan Smith aka "Frika C" | [frikmp02.zip](bin/frikmp02.zip) (-)
 FrikBot + Final Arena | Ryan Smith aka "Frika C" | [frikfa.zip](bin/frikfa.zip) (-)
@@ -67,6 +67,7 @@ FrikBot X DreamCast (FBXDC) | Ryan Smith aka "Frika C" | [fbxdc.zip](bin/fbxdc.z
 FrikBot X+ (FBX+) | Igor9 | fbx+.zip
 FrikBot X++ (FBX++) | Joel Baxter aka "Johnny Law" | [fbx++.zip](bin/fbx++.zip)
 FrikBot | Ryan Smith aka "Frika C" | [frkbt09b.zip](bin/frkbt09b.zip)<br>[frikbt09.zip](bin/frikbt09.zip)<br>[frikbt08.zip](bin/frikbt08.zip)<br>[frikbt07.zip](bin/frikbt07.zip)<br>[frikbt06.zip](bin/frikbt06.zip)<br>[frikbt05.zip](bin/frikbt05.zip)<br>[frikbt04.zip](bin/frikbt04.zip)<br>
+Frogbot + Holy Wars | Gerard Ryan aka "numb and Paolo Perrotta aka "Nusco" | hw_frogbot14h.zip<br>[hw_frogbot13.zip](bin/hw_frogbot13.zip) (-)
 Frogbot 2000 | Dennis de Boer aka "Justice" | f2k006d.zip<br>f2k001a.zip<br>2000.zip
 Frogbot BotMatch Arena | Alex aka "DmSouL" | [botmatch.ZIP](bin/botmatch.ZIP) (-)<br>bm119gl.zip
 Frogbot Clan Arena (FBCA) | "Baker" | [frogbots-099.zip](bin/frogbots-099.zip)
@@ -80,8 +81,6 @@ Gideon Bot | Matthew Turvey | [gidbot.zip](bin/gidbot.zip)
 GlacierBot | "IceDagger" | gb027b.zip
 GuardBot | Peter van Wingerden | [grdbot23.zip](bin/grdbot23.zip)
 GYPObot | Stephen Dobbs | [gypobot.zip](bin/gypobot.zip)
-Holywars Frogbot | Gerard Ryan aka "numb and Paolo Perrotta aka "Nusco" | hw_frogbot14h.zip<br>[hw_frogbot13.zip](bin/hw_frogbot13.zip) (-)
-Holywars Tutor Bot | Connor Caple aka "RiEvEr" | [holy_tb.zip](bin/holy_tb.zip) (-)
 Human Bot (Hbot) | Jeffrey Lee | [hbot.zip](bin/hbot.zip)
 Indecisive Bot (Gyrobot) | Aaron Logue aka "Gyro Gearloose" | [gyrobot.zip](bin/gyrobot.zip)
 IronWulvt's Deathmatch Bot | Ben Garrod aka "IronWulvt" | [iwbot21.zip](bin/iwbot21.zip) ($)
@@ -126,6 +125,7 @@ The Oak | John Crickett and Neil Henderson | [oak0405_fixed.zip](bin/oak0405_fix
 TLG QuakeBOT (Larva) | James Cullen aka "Jaymz" and Chris Cullen aka "Incubus" | [tlgbot.zip](bin/tlgbot.zip)
 TM Bot | Micheal Polucha and Tim Polucha | [tmbot11.zip](bin/tmbot11.zip)
 TrevBot | Kris O'Shea | [trevbot.zip](bin/trevbot.zip)
+Tutor Bot + Holy Wars | Connor Caple aka "RiEvEr" | [holy_tb.zip](bin/holy_tb.zip) (-)
 Tutor Bot | Darryl Atchison aka "coffee" | [tutor.zip](bin/tutor.zip)
 Vicinity Bot | "Black" | vicinityqwprogs.zip
 Victim Bot | Tony Tang aka "The TangMaster" | [vbot11.zip](bin/vbot11.zip)<br>vbot1.zip
