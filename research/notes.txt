@@ -875,6 +875,10 @@ Frog Bot Clan Arena (FBCA)
 	Matt McChesney aka "Asdf"
 		mtm07@hotmail.com
 		https://web.archive.org/web/20020514054317/http://www.3ddownloads.com/?file_id=14234
+	http://dl.dropbox.com/u/923337/FrogBot/fbca101final.zip
+	https://www.quakeworld.nu/forum/topic/4784/parboil-site-down-who-will-replace
+		on parboil's site being down
+	http://github.com/ezQuake/fbca
 FBCA 99
 	http://quakeone.com/proquake/frogbots-099.zip
 	https://steamcommunity.com/sharedfiles/filedetails/?id=123626484

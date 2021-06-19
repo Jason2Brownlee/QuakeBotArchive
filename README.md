@@ -71,7 +71,7 @@ FrikBot | Ryan Smith aka "Frika C" | [frkbt09b.zip](bin/frkbt09b.zip)<br>[frikbt
 Frogbot + Clan Arena (FBCA) | "Baker" | [frogbots-099.zip](bin/frogbots-099.zip)
 Frogbot + Clan Arena (FBCA) | Alexey Pakhomov aka "ParboiL" | fbca101final.zip<br>fbca096b.zip<br>fbca089se.zip<br>fbca86se.zip<br>fbca086.zip
 Frogbot + Clan Arena (FBCA) | Matt McChesney aka "Asdf" | fbca088.zip<br>fbca085.zip
-Frogbot + Clan Arena + Kombat Teams | Alexey Pakhomov aka "ParboiL" | [fbca102kt.zip](bin/fbca102kt.zip) (-)<br>[fbca101kt.zip](bin/fbca101kt.zip)<br>fbca095kt.zip<br>[fbca092kt.zip](bin/fbca092kt.zip)<br>fbca091kt.zip<br>fbca090kt.zip
+Frogbot + Clan Arena + Kombat Teams | Alexey Pakhomov aka "ParboiL" | [fbca102kt.zip](bin/fbca102kt.zip) (-)<br>fbca102kt-rc1.zip<br>[fbca101kt.zip](bin/fbca101kt.zip)<br>fbca095kt.zip<br>[fbca092kt.zip](bin/fbca092kt.zip)<br>fbca091kt.zip<br>fbca090kt.zip
 Frogbot + CTF (FBCTF) | Gerard Ryan aka "numb" | fbctf0532.zip<br>[fbctf035.zip](bin/fbctf035.zip) (-)<br>fbctf033.zip<br>fbctf032.zip<br>fbctf030.zip<br>fbctf026.zip<br>fbctf024.zip<br>fbctf023.zip<br>fbctf021.zip<br>fbctf019.zip<br>fbctf015.zip
 Frogbot + Holy Wars | Gerard Ryan aka "numb and Paolo Perrotta aka "Nusco" | hw_frogbot14h.zip<br>[hw_frogbot13.zip](bin/hw_frogbot13.zip) (-)
 Frogbot + Rocket Arena | Alexey Pakhomov aka "ParboiL" | [fbra.zip](bin/fbra.zip)
