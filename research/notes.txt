@@ -1036,12 +1036,14 @@ FrikBot + Artifact Quake / Runebot
 	https://web.archive.org/web/20000831024015/http://www.home.earthlink.net/~pentm450/
 	https://web.archive.org/web/20000831024015/http://www.home.earthlink.net/~pentm450/rnbt3.4.zip
 	https://web.archive.org/web/20000831024015/http://www.home.earthlink.net/~pentm450/rnbt3.6.zip
+	https://web.archive.org/web/20000831024015/http://www.home.earthlink.net/~pentm450/rnbt4.2.zip
 	Chuck Parsons
 	Pentm450@earthlink.net
 FrikBot + Head Hunters
 	https://web.archive.org/web/20000831024015/http://www.home.earthlink.net/~pentm450/
 	https://web.archive.org/web/20000831024015/http://www.home.earthlink.net/~pentm450/hhbot.zip
 	Chuck Parsons
+
 
 RESEARCHING...
 --------------------------------------------------------------------------------
