@@ -51,6 +51,7 @@ FrikBot + Artifact Quake (Runebot) | Chuck Parsons | rnbt3.6.zip<br>[rnbt3.4.zip
 FrikBot + Deathmatch Essentials | Ryan Smith aka "Frika C" | [frikdme.zip](bin/frikdme.zip) (-)
 FrikBot + Dissolution of Eternity | Ryan Smith aka "Frika C" | [frikmp02.zip](bin/frikmp02.zip) (-)
 FrikBot + Final Arena | Ryan Smith aka "Frika C" | [frikfa.zip](bin/frikfa.zip) (-)
+FrikBot + Head Hunters | Chuck Parsons | hhbot.zip
 FrikBot + Holy Wars | Ryan Smith aka "Frika C" | [frikholy.zip](bin/frikholy.zip) (-)
 FrikBot + Last Man Standing | Raymond Martineau | [frik-lms.zip](bin/frik-lms.zip) (-)
 FrikBot + PainKeep | Ryan Smith aka "Frika C" | [frikpk.zip](bin/frikpk.zip) (-)
