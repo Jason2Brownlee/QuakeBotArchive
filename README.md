@@ -88,7 +88,7 @@ Human Bot (Hbot) | Jeffrey Lee | [hbot.zip](bin/hbot.zip)
 Indecisive Bot (Gyrobot) | Aaron Logue aka "Gyro Gearloose" | [gyrobot.zip](bin/gyrobot.zip)
 IronWulvt's Deathmatch Bot | Ben Garrod aka "IronWulvt" | [iwbot21.zip](bin/iwbot21.zip) ($)<br>[iwbot16.zip](bin/iwbot16.zip)<br>iwbot1.zip
 JBot | Jeffrey Lee | [jbot](bin/jbot)
-Karnag-Bot | Ken Madlener | [knbot45.zip](bin/knbot45.zip)
+KarNag Bot | Ken Madlener | [knbot45.zip](bin/knbot45.zip)<br>[knbot03.ZIP](bin/knbot03.ZIP)
 Killer Qcbot | William  Ravaine aka "Killer-Sub" | [kqcbots095b.zip](bin/kqcbots095b.zip)
 Kooliobot | "Koolio" | koolio.zip
 Lithium CTF Bot | Juan Ignacio Rava aka "Johnny" | [lith091c.zip](bin/lith091c.zip) (-)
