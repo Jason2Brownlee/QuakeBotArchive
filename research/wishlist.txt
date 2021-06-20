@@ -2,7 +2,7 @@ Quake Bot File Wishlist
 
 A wishlist of known but broken mod file URLs sorted alphabetically.
 
-See "notes.txt" for the source of these links.
+See "notes.txt" for the source of most of these links.
 
 The hope is that a site or host backup can be located from which files can be retrieved.
 

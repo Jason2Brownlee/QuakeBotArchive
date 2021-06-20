@@ -1,0 +1,19 @@
+COMMUNITY POSTS
+--------------------------------------------------------------------------------
+
+List of posts to community forums asking for help on this project.
+
+Maybe one of the bot authors will see and reach out...
+
+
+reddit
+	https://www.reddit.com/r/quake/comments/nt7na0/more_complete_archive_of_all_quake_1_bots/
+func_msgboard
+	https://www.celephais.net/board/view_thread.php?id=62057
+quaddicted.com
+	https://www.quaddicted.com/forum/viewtopic.php?pid=4913#p4913
+quakeone.com
+	https://quakeone.com/forum/quake-talk/quake-central/283031-more-complete-archive-of-all-quake-1-bots
+quakeworld.nu
+	https://www.quakeworld.nu/forum/topic/7581
+
