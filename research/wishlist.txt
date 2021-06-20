@@ -24,6 +24,7 @@ ftp://numb.macquakeinfinity.com/numb/ctf/fbctf023.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf032.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf033.zip
 ftp://ter.ort.spb.ru/Nico/Pathes/Bots/obot100.zip
+http://annex.retroarchive.org/cdrom/nightowl-023/022A/ELIM11.ZIP
 http://botarea51.impulse9.net/mirror/xreaper/xreaperb130.zip
 http://freespace.virgin.net/w.james/DJbot1.zip
 http://mamuka.narod.ru/files/bots/f2k006d.zip
@@ -63,6 +64,8 @@ http://www.hipnotic.com/shack_files/quakec/obots100.zip
 http://www.home.earthlink.net/~pentm450/hhbot.zip
 http://www.home.earthlink.net/~pentm450/rnbt3.4.zip
 http://www.home.earthlink.net/~pentm450/rnbt3.6.zip
+http://www.iinet.com.au/~cam/elim10.zip
+http://www.iinet.com.au/~cam/elim11.zip
 http://www.isleofmull56.freeserve.co.uk/paddybot.zip
 http://www.parboil.mailru.com/parboil/fbca086.zip
 http://www.parboil.mailru.com/parboil/fbca089se.zip
