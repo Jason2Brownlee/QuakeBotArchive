@@ -15,6 +15,7 @@ ftp://ftp.cdrom.com/pub/idgames2/quakec/bots/vbot1.zip
 ftp://ftp.cdrom.com/pub/quake/quakec/bots/dmbt21b1.zip
 ftp://ftp.cdrom.com/pub/quake/quakec/bots/doombot.zip
 ftp://ftp.pk.edu.pl/pub/games/id/quaketoys/mods/reaprb75.zip
+ftp://ftp.quake.odessa.net/pub/bots/f2k006d.zip
 ftp://ftp.stomped.com/pub/redwood/bots/oak0855.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf015.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf019.zip
@@ -26,6 +27,7 @@ http://botarea51.impulse9.net/mirror/xreaper/xreaperb130.zip
 http://freespace.virgin.net/w.james/DJbot1.zip
 http://mamuka.narod.ru/files/bots/f2k006d.zip
 http://members.tripod.lycos.nl/koolpaddy/zips/paddybot02.zip
+http://pelit.saunalahti.fi/telenation/telefragged/be/fmods/fb013se.zip
 http://railgun.macquakeinfinity.com/downloads/fbctf024.zip
 http://railgun.macquakeinfinity.com/downloads/fbctf026.zip
 http://railgun.macquakeinfinity.com/downloads/fbctf030.zip
@@ -85,5 +87,4 @@ https://www.angelfire.com/pe/pent3/images/frogbot011.zip
 https://www.bluesnews.com/files/patches/bots/oak083.zip
 https://www.bluesnews.com/files/patches/bots/oak084.zip
 https://www.bluesnews.com/files/patches/bots/oak085.zip
-
 
