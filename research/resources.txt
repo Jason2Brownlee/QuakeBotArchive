@@ -64,14 +64,6 @@ Telefragged Mirrors
 	https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/
 bots united
 	http://bots-united.com/
-blues news
-	https://www.bluesnews.com/archives/
-	ftp://bluesnews.com/pub/bots/
-	https://www.bluesnews.com/files/patches/bots/
-		(a mirror of this from back in the day!!!!????)
-		Disappeared in 1998...
-stomped bot page
-	https://web.archive.org/web/19990202192708/http://www.stomped.com/
 3ddownloads mirror
 	https://doomwiki.org/wiki/User:Shambler/3ddownloads_archive
 
@@ -85,16 +77,32 @@ Deathmatch With Bots (on hundreds of maps) [modern guide]
 
 
 old news sites:
-https://web.archive.org/web/19971212025339/http://www.hipnotic.com/news.htm
+(e.g. news of quake bots being released)
+
+Scary's Quakeholio / sCary's Sugar Shack
+	https://web.archive.org/web/19971210064221/http://www.quakehole.com/frames/
+	https://web.archive.org/web/19971212025339/http://www.hipnotic.com/news.htm
 	https://web.archive.org/web/19971212030705/http://www.hipnotic.com/archives/archives.htm
-https://web.archive.org/web/19970327172107/http://redwood.gatsbyhouse.com/news.html
-https://web.archive.org/web/19961121230158/http://www.stomped.com/
+redwood
+	https://web.archive.org/web/19970327172107/http://redwood.gatsbyhouse.com/news.html
+stomped.com
+	https://web.archive.org/web/19961121230158/http://www.stomped.com/
+	https://web.archive.org/web/19990202192708/http://www.stomped.com/
+blues news
+	https://web.archive.org/web/19961226231646/http://bluesnews.com/
+	https://www.bluesnews.com/archives/
+	https://www.bluesnews.com/files/patches/bots/
+planetquake
+	https://web.archive.org/web/19970208052149/http://www.planetquake.com:80/
+
 
 
 old gaming magazine cds
 https://www.quaddicted.com/forum/viewtopic.php?id=671
 https://archive.org/details/CdZoneIssue48march1997
 
+old list of bots
+https://web.archive.org/web/19970628184357/http://www.gameaholic.com/idgames/quakec/bots/
 
 
 
