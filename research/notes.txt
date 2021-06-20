@@ -1113,11 +1113,7 @@ Ninja Quake Bot
 	http://matrix.crosswinds.net/~tsturm/
 	???
 
-old news sites
-https://web.archive.org/web/19971212025339/http://www.hipnotic.com/news.htm
-	https://web.archive.org/web/19971212030705/http://www.hipnotic.com/archives/archives.htm
-https://web.archive.org/web/19970327172107/http://redwood.gatsbyhouse.com/news.html
-https://web.archive.org/web/19961121230158/http://www.stomped.com/
+
 
 
 
@@ -1269,8 +1265,32 @@ stomped bot page
 3ddownloads mirror
 	https://doomwiki.org/wiki/User:Shambler/3ddownloads_archive
 
+
 Deathmatch With Bots (modern guide)
 	http://neogeographica.com/site/pages/guides/deathmatch_with_bots.html
 Deathmatch With Bots (on hundreds of maps) [modern guide]
 	https://steamcommunity.com/sharedfiles/filedetails/?id=123626484
+
+old news sites
+https://web.archive.org/web/19971212025339/http://www.hipnotic.com/news.htm
+	https://web.archive.org/web/19971212030705/http://www.hipnotic.com/archives/archives.htm
+https://web.archive.org/web/19970327172107/http://redwood.gatsbyhouse.com/news.html
+https://web.archive.org/web/19961121230158/http://www.stomped.com/
+
+
+old gaming magazine cds
+https://www.quaddicted.com/forum/viewtopic.php?id=671
+
+
+
+TOOLS
+--------------------------------------------------------------------------------
+
+website archives
+	https://archive.org/web/
+usenet search
+	https://groups.google.com/
+ftp search
+	https://www.mmnt.ru/int/
+
 
