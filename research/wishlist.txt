@@ -23,9 +23,11 @@ ftp://numb.macquakeinfinity.com/numb/ctf/fbctf021.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf023.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf032.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf033.zip
+ftp://ter.ort.spb.ru/Nico/Pathes/Bots/obot100.zip
 http://botarea51.impulse9.net/mirror/xreaper/xreaperb130.zip
 http://freespace.virgin.net/w.james/DJbot1.zip
 http://mamuka.narod.ru/files/bots/f2k006d.zip
+http://members.tripod.com/mtm07/fbca085.zip
 http://members.tripod.lycos.nl/koolpaddy/zips/paddybot02.zip
 http://pelit.saunalahti.fi/telenation/telefragged/be/fmods/fb013se.zip
 http://railgun.macquakeinfinity.com/downloads/fbctf024.zip
@@ -87,4 +89,3 @@ https://www.angelfire.com/pe/pent3/images/frogbot011.zip
 https://www.bluesnews.com/files/patches/bots/oak083.zip
 https://www.bluesnews.com/files/patches/bots/oak084.zip
 https://www.bluesnews.com/files/patches/bots/oak085.zip
-
