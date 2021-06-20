@@ -96,6 +96,10 @@ BGBot
 	Robert DeFilippo III
 	http://www.neta.com/~punisher/
 	https://quake.fandom.com/wiki/Robert_DeFilippo_III
+	many versions posted to usenet
+		as user "BiG HuRT"
+		rec.games.computer.quake.editing
+		titles like "BG Bot v1.10"
 Cronos Bot / Cronosbot
 	http://www.planetquake.com/cronos
 	https://web.archive.org/web/20000815211132if_/http://www.planetquake.com:80/cronos/
