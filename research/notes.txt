@@ -374,6 +374,9 @@ Indecisive Bot / Gyrobot / GyroBot
 	gbotsrc.zip
 	Aaron "Gyro Gearloose" Logue
 	https://www.quakewiki.net/archives/botarea51/main/qbote371.html?id=18
+	https://web.archive.org/web/20000815211127/http://www.cryogenius.com/games/quake/qbot.htm
+	** it looks like there were multiple versions with the same filename
+	also maybe a 1.5 was released but not on cdrom.com
 ClanBots
 	https://web.archive.org/web/20001109033100/http://www.users.qwest.net/~mimpchnk/
 	https://web.archive.org/web/20010114035500/http://www.users.bigpond.com/clanslug/clanbot.htm
