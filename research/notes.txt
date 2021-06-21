@@ -509,8 +509,9 @@ QCBot
 	https://www.quaddicted.com/files/idgames2/quakec/bots/qcbot003.zip
 		this is ranking code, not the bot
 	no download...
-	where can we get the real bot???
-	???
+	https://groups.google.com/g/fido7.ru.game.doom/c/bpTlbP8dbdQ/m/JBYzyxY9LcMJ
+	QCBOT001.ZIP
+	QCBOT002.ZIP
 MaNiAcBot
 	https://www.quakewiki.net/archives/botarea51/main/qbotdac1.html?id=32
 	Michael Turitzin aka "MaNiAc"
@@ -1162,6 +1163,8 @@ dragon
 	monster
 Mystery Bot
 	http://www.insideqc.com/modindex/qreview/mys.shtml
+	http://mystery.telefragged.com/
+	https://web.archive.org/web/19971222022816/http://mystery.telefragged.com/
 	client-side
 tEdBot
 	https://web.archive.org/web/20000303070145/http://www.botepidemic.com/bots/quake.shtml

@@ -66,6 +66,8 @@ bots united
 	http://bots-united.com/
 3ddownloads mirror
 	https://doomwiki.org/wiki/User:Shambler/3ddownloads_archive
+slipgate central bot
+	https://web.archive.org/web/19971210230311/http://www.slipgatecentral.com/Addons/Bots/
 
 
 guides:

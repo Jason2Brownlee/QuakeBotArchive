@@ -101,7 +101,7 @@ Omicron Fixes | Joel Baxter aka "Johnny Law" | [obots102-fixed.zip](bin/obots102
 Optimized Frogbot | Christian Michael aka "surgeon" | [frogbot.lha](bin/frogbot.lha)
 Paddybot | Patrick Stimson aka "sniper" | paddybot02.zip<br>paddybot.zip
 POXbot | "pOx" | [pox120b.zip](bin/pox120b.zip) (-)
-QCBot | Alan Kivlin | [qcbot003.zip](bin/qcbot003.zip) (*)
+QCBot | Alan Kivlin aka "Virtuoso" | [qcbot003.zip](bin/qcbot003.zip) (*)<br>qcbot002.zip<br>qcbot001.zip
 Quake Bot (QBot) | "Grinder" | [qbot11.zip](bin/qbot11.zip)
 R Bot | Ross Johnson aka "ColdKill" | [rbot70.zip](bin/rbot70.zip)<br>[rbot20.zip](bin/rbot20.zip)
 Reapa | Terry Hendrix II aka "Mongoose" | ?
