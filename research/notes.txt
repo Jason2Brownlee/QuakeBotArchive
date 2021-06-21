@@ -512,6 +512,7 @@ QCBot
 	https://groups.google.com/g/fido7.ru.game.doom/c/bpTlbP8dbdQ/m/JBYzyxY9LcMJ
 	QCBOT001.ZIP
 	QCBOT002.ZIP
+	https://www.quakeworld.nu/wiki/Strider
 MaNiAcBot
 	https://www.quakewiki.net/archives/botarea51/main/qbotdac1.html?id=32
 	Michael Turitzin aka "MaNiAc"
@@ -631,6 +632,10 @@ CTFBot+
 	http://www.captured.com/ctfbot
 	https://s3.amazonaws.com/neogeographica-downloads/guides/deathmatch_with_bots/ctfbotp032399.zip
 	https://www.quakewiki.net/archives/ctfbot/
+	https://web.archive.org/web/19990202084815if_/http://captured.com/ctfbot/download.html
+	CTFBot+070498.zip
+	ctfbotp070498.zip
+	https://www.gamers.org/pub/idgames2/planetquake/captured/ctfbot/release/
 Omicron version 1.02 (with fixes)
 	Omicron fixed
 	https://steamcommunity.com/sharedfiles/filedetails/?id=123626484
