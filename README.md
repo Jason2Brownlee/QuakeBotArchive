@@ -42,8 +42,8 @@ EdBot | Edward Dawson aka "HotCakes" | [edbot0-04.zip](bin/edbot0-04.zip) (-)
 Elfbot | "SkinSki" | [elfbot.zip](bin/elfbot.zip)
 Elima-Reaper | Roscoe A. Sincero aka "Legion" | ?
 Eliminator Bot (CBot) | Cameron B. Newham | [elimsrc.zip](bin/elimsrc.zip)<br>[elim14.zip](bin/elim14.zip)<br>[elim12.zip](bin/elim12.zip)<br>elim11.zip<br>elim10.zip
-Eliminator Bot v1 | Jon Down aka "Perged" | [elim141.zip](bin/elim141.zip)
-Eliminator Bot v2 | Jon Down aka "Perged" and P. T. Craig aka "FuzzKatT" | elim20b7.zip
+Eliminator Bot v1 | Jonathan Down aka "Perged" | [elim141.zip](bin/elim141.zip)
+Eliminator Bot v2 | Jonathan Down aka "Perged" and P. T. Craig aka "FuzzKatT" | elim20b7.zip
 Estep Bot (EsTePBot) | Enrique Gonzalez Alonso aka "EsTePaRiO" | [estepbot2eng.zip](bin/estepbot2eng.zip)<br>[estepbot2.zip](bin/estepbot2.zip)
 Frag Bot | Richard Peacock aka "The Goat" | [fragbot.zip](bin/fragbot.zip)
 Frik-TF | Raymond Martineau | [friktf-092800.zip](bin/friktf-092800.zip) (-)<br>[friktfqw.zip](bin/friktfqw.zip)<br>friktf-051800-qw.zip
@@ -108,7 +108,7 @@ Reapa | Terry Hendrix II aka "Mongoose" | ?
 Reaper + DM4 | "Hades" | [dm4reaper.zip](bin/dm4reaper.zip) (-)
 Reaper + Painkeep | Bent Svendsen aka "Decker" | [pkbot.zip](bin/pkbot.zip) (-)
 Reaper + Scourge of Armagon | Bent Svendsen aka "Decker" | [hipreap3.zip](bin/hipreap3.zip) (-)
-Reaper Bot | Steven Polge | [reaprb81.zip](bin/reaprb81.zip)<br>[reaprb81src.zip](bin/reaprb81src.zip) (unoff)<br>[reaper80.zip](bin/reaper80.zip)<br>reaprb75.zip<br>[reaprb07.zip](bin/reaprb07.zip)<br>[reaprb06.zip](bin/reaprb06.zip)<br>reaprb05.zip
+Reaper Bot | Steven Polge | [reaprb81.zip](bin/reaprb81.zip)<br>[reaprb81src.zip](bin/reaprb81src.zip)<br>[reaper80.zip](bin/reaper80.zip)<br>reaprb75.zip<br>[reaprb07.zip](bin/reaprb07.zip)<br>[reaprb06.zip](bin/reaprb06.zip)<br>reaprb05.zip
 ReaperFX Bot | A. W. Johnstone aka "Pob the Impaler" | [reaperfx.zip](bin/reaperfx.zip)
 Reformed Reaper Bot | "win32ch" | [rrbotprogs.zip](bin/rrbotprogs.zip) (-)<br>[rrbotsrc.zip](bin/rrbotsrc.zip)
 Ric's Reaper Bots | "Ric" | [reap081h.zip](bin/reap081h.zip) ($)
