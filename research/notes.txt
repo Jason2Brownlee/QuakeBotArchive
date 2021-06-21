@@ -1053,12 +1053,20 @@ FrikBot + Head Hunters
 	Chuck Parsons
 warbot / WarBot
 	https://groups.google.com/g/rec.games.computer.quake.playing/c/ggQQDWM6Or8/m/Jm7YatYR_4MJ
+	https://www.quakewiki.net/archives/features/articles/classicpq/reaper.shtml
 	http://web.singnet.com.sg/~mhidayat/WarBot/warbot.htm
 	WarBot v1.3a
 	warbotpk.zip
 	warbt13a.zip
 	Muhammad Hidayat Bin Sman
 	reaper extension
+Reformed Reaper Bot
+	https://web.archive.org/web/19990116222349/http://www.mindspring.com/~win32ch/ReaperBots.htm
+	https://web.archive.org/web/19990224152657/http://www.mindspring.com/~win32ch/progs.zip
+	https://web.archive.org/web/19990224152657/http://www.mindspring.com/~win32ch/rrbotsrc.zip
+	https://web.archive.org/web/19990224152657/http://www.mindspring.com/~win32ch/Source.zip
+	"win32ch"
+
 
 RESEARCHING...
 --------------------------------------------------------------------------------

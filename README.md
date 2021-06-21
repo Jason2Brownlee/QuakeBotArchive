@@ -110,6 +110,7 @@ Reaper + Painkeep | Bent Svendsen aka "Decker" | [pkbot.zip](bin/pkbot.zip) (-)
 Reaper + Scourge of Armagon | Bent Svendsen aka "Decker" | [hipreap3.zip](bin/hipreap3.zip) (-)
 Reaper Bot | Steven Polge | [reaprb81.zip](bin/reaprb81.zip)<br>[reaper80.zip](bin/reaper80.zip)<br>reaprb75.zip<br>[reaprb07.zip](bin/reaprb07.zip)<br>[reaprb06.zip](bin/reaprb06.zip)<br>reaprb05.zip
 ReaperFX Bot | A. W. Johnstone aka "Pob the Impaler" | [reaperfx.zip](bin/reaperfx.zip)
+Reformed Reaper Bot | "win32ch" | [rrbotprogs.zip](bin/rrbotprogs.zip) (-)<br>[rrbotsrc.zip](bin/rrbotsrc.zip)
 Ric's Reaper Bots | "Ric" | [reap081h.zip](bin/reap081h.zip) ($)
 Roam Bot | Carson Sutton aka "Crimson" | [roambot1.zip](bin/roambot1.zip) ($)
 SamBot | Sam Stephens aka "Spam-man" | [sambot.zip](bin/sambot.zip)
