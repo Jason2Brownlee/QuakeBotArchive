@@ -1051,7 +1051,14 @@ FrikBot + Head Hunters
 	https://web.archive.org/web/20000831024015/http://www.home.earthlink.net/~pentm450/
 	https://web.archive.org/web/20000831024015/http://www.home.earthlink.net/~pentm450/hhbot.zip
 	Chuck Parsons
-
+warbot / WarBot
+	https://groups.google.com/g/rec.games.computer.quake.playing/c/ggQQDWM6Or8/m/Jm7YatYR_4MJ
+	http://web.singnet.com.sg/~mhidayat/WarBot/warbot.htm
+	WarBot v1.3a
+	warbotpk.zip
+	warbt13a.zip
+	Muhammad Hidayat Bin Sman
+	reaper extension
 
 RESEARCHING...
 --------------------------------------------------------------------------------

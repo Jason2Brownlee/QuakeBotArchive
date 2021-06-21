@@ -132,6 +132,7 @@ Tutor Bot + Holy Wars | Connor Caple aka "RiEvEr" | [holy_tb.zip](bin/holy_tb.zi
 Tutor Bot | Darryl Atchison aka "coffee" | [tutor.zip](bin/tutor.zip)
 Vicinity Bot | "Black" | vicinityqwprogs.zip
 Victim Bot | Tony Tang aka "The TangMaster" | [vbot11.zip](bin/vbot11.zip)<br>[vbot1.ZIP](bin/vbot1.ZIP)
+WarBot | Muhammad Hidayat Bin Sman | warbt13a.zip
 Wisp | Iikka Paavolainen | [wisp.zip](bin/wisp.zip) ($)
 Xreaper | "Mephisto" | xreaperb130.zip<br>setup.exe
 Zeus Bot | Jonathan E. Wright aka "Nelno the Amoeba" | [zeus205.zip](bin/zeus205.zip)<br>[zeus205s.zip](bin/zeus205s.zip)<br>[zeus2042.zip](bin/zeus2042.zip)<br>[zeus204.zip](bin/zeus204.zip)<br>[zeus10.zip](bin/zeus10.zip)
