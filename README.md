@@ -16,7 +16,7 @@ Bot Name | Bot Author(s) | File
 --- | --- | ---
 Ache | Athos Konkoran Kryn | [ache.zip](bin/ache.zip) (-)
 Attacker | Jonathan Geary | [attacker.zip](bin/attacker.zip)
-BGADM Bot | "Detour" | [bgadm101.zip](bin/bgadm101.zip) ($)
+BGADM Bot | "Detour" | [bgadm101.zip](bin/bgadm101.zip) ($)<br>bgadmbot.zip
 BGBot | Robert DeFilippo III aka "Punisher" | [bgbot20a.zip](bin/bgbot20a.zip)<br>[bgbot16.zip](bin/bgbot16.zip)<br>[bgbot15.zip](bin/bgbot15.zip)<br>bgbot13.zip<br>bgbot125.zip<br>bgbot12.zip<br>bgbot1.zip
 Borg Bot | Calvin Rien | [borg12.zip](bin/borg12.zip)
 Bot Hunt | Douglas H. King aka "Sea4" | [bthnt10.zip](bin/bthnt10.zip)
@@ -95,7 +95,7 @@ Lithium CTF Bot | Juan Ignacio Rava aka "Johnny" | [lith091c.zip](bin/lith091c.z
 MaNiAcBot | Michael Turitzin aka "MaNiAc" | [maniacbt.zip](bin/maniacbt.zip)
 MyBot | Stephen Vanterpool | [mybot16.zip](bin/mybot16.zip)
 Navy SEALs sQuad bots | William van der Sterren | [nseal201.zip](bin/nseal201.zip)<br>sqdbt201.zip
-Norse Bot (Movement) | Roscoe A. Sincero aka "Legion" | [btmv31.zip](bin/btmv31.zip)<br>botmove.zip
+Norse Bot (Movement) | Roscoe A. Sincero aka "Legion" | [btmv31.zip](bin/btmv31.zip)<br>botmove.zip (*)
 Ogre Bot | "Lava Man" | [ogrebot.zip](bin/ogrebot.zip)
 Omicron Bot | Jan Paul van Waveren aka "Mr. Elusive" and Miklos de Rijk aka "H2SO4" | [obots102.zip](bin/obots102.zip)<br>[obots101.zip](bin/obots101.zip)<br>obots100.zip
 Omicron Fixes | Joel Baxter aka "Johnny Law" | [obots102-fixed.zip](bin/obots102-fixed.zip)

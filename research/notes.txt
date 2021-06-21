@@ -1099,7 +1099,6 @@ TomazQuake Bot
 	an in-engine bot
 	https://web.archive.org/web/20020206072434/http://www.telefragged.com/thefatal/
 	out of scope?
-
 QW Bot Project
 	https://web.archive.org/web/20100123221300/http://botepidemic.no-origin.net/quake.shtml.htm
 	Mongoose
