@@ -11,7 +11,6 @@ If these files can be located by other means or sources, all the better!
 --------------------------------------------------------------------------------
 
 ftp://bluesnews.com/pub/bots/reaprb75.zip
-ftp://ftp.cdrom.com/pub/idgames2/quakec/bots/vbot1.zip
 ftp://ftp.cdrom.com/pub/quake/quakec/bots/dmbt21b1.zip
 ftp://ftp.cdrom.com/pub/quake/quakec/bots/doombot.zip
 ftp://ftp.pk.edu.pl/pub/games/id/quaketoys/mods/reaprb75.zip
