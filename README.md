@@ -25,7 +25,7 @@ Bot Skeleton | Roscoe A. Sincero aka "Legion" | [btsk23.zip](bin/btsk23.zip) (*)
 BotSkin | "WACko" | [btskn22.zip](bin/btskn22.zip)<br>[botskn20.ZIP](bin/botskn20.ZIP)<br>[botskn18.ZIP](bin/botskn18.ZIP)<br>botskn14.zip<br>[botskn10.zip](bin/botskn10.zip)
 ClanBots | "slug" | ClanV0.7HMan.zip<br>ClanV0.6Auto.zip<br>ClanV0.5Auto.zip
 Cronos Bot | "Cronos" | hd_pak0.zip<br>[cronobot107a.zip](bin/cronobot107a.zip)<br>[cbotpak106.zip](bin/cbotpak106.zip)<br>[cronobot101.zip](bin/cronobot101.zip)
-CTF Bot | Drew Davidson aka "BZ" | [ctfbot12.zip](bin/ctfbot12.zip) (*)<br>[ctfbot11.zip](bin/ctfbot11.zip)
+CTF Bot | Drew Davidson aka "BZ" | [newctf12.zip](bin/newctf12.zip) (-)<br>[ctfbot12.zip](bin/ctfbot12.zip) (*)<br>[ctfbot11.zip](bin/ctfbot11.zip)
 CTFBot+ | Anthony Distler aka "*this" | [ctfbotp032399.zip](bin/ctfbotp032399.zip) (*)<br>[ctfbotp070498.zip](bin/ctfbotp070498.zip)
 Cujo | Jonathan E. Wright | [cujo14.zip](bin/cujo14.zip)<br>cujo12c.zip<br>[cujo10.zip](bin/cujo10.zip)
 Dark Frogbot | "Pinsolle" | darkfrog.zip
