@@ -23,6 +23,7 @@ Bot Hunt | Douglas H. King aka "Sea4" | [bthnt10.zip](bin/bthnt10.zip)
 Bot Player (BPlayer) | Wolfgang Lehrach aka "Wolf" | [bplayer2.zip](bin/bplayer2.zip)
 Bot Skeleton | Roscoe A. Sincero aka "Legion" | [btsk23.zip](bin/btsk23.zip) (*)<br>btsk22.zip
 BotSkin | "WACko" | [btskn22.zip](bin/btskn22.zip)<br>[botskn20.ZIP](bin/botskn20.ZIP)<br>[botskn18.ZIP](bin/botskn18.ZIP)<br>botskn14.zip<br>[botskn10.zip](bin/botskn10.zip)
+BrBot | "DRaKuLL" | [brbot.7z](bin/brbot.7z) (-)<br>[brbotqc.zip](bin/brbotqc.zip)<br>brbot.exe
 BuddyBot | "Parsec" | [bbot_b1.zip](bin/bbot_b1.zip) (-)<br>[bbot_b11.zip](bin/bbot_b11.zip)
 ClanBots | "slug" | ClanV0.7HMan.zip<br>ClanV0.6Auto.zip<br>ClanV0.5Auto.zip
 Cronos Bot | "Cronos" | hd_pak0.zip<br>[cronobot107a.zip](bin/cronobot107a.zip)<br>[cbotpak106.zip](bin/cbotpak106.zip)<br>[cronobot101.zip](bin/cronobot101.zip)
@@ -140,7 +141,6 @@ WarBot | Muhammad Hidayat Bin Sman | warbt13a.zip
 Wisp | Iikka Paavolainen | [wisp.zip](bin/wisp.zip) ($)
 Xreaper | "Mephisto" | xreaperb130.zip<br>setup.exe
 Zeus Bot | Jonathan E. Wright aka "Nelno the Amoeba" | [zeus205.zip](bin/zeus205.zip)<br>[zeus_src.zip](bin/zeus_src.zip)<br>[zeus205s.zip](bin/zeus205s.zip)<br>[zeus2042.zip](bin/zeus2042.zip)<br>[zeus204.zip](bin/zeus204.zip)<br>[zeus10.zip](bin/zeus10.zip)
-BR Bot | "DRaKuLL" | [brbot.7z](bin/brbot.7z) (-)<br>[brbotqc.zip](bin/brbotqc.zip)<br>brbot.exe
 
 File Column:
 - **?** Indicates I could not discover the name of the bot mod filename.
