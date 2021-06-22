@@ -140,6 +140,7 @@ WarBot | Muhammad Hidayat Bin Sman | warbt13a.zip
 Wisp | Iikka Paavolainen | [wisp.zip](bin/wisp.zip) ($)
 Xreaper | "Mephisto" | xreaperb130.zip<br>setup.exe
 Zeus Bot | Jonathan E. Wright aka "Nelno the Amoeba" | [zeus205.zip](bin/zeus205.zip)<br>[zeus_src.zip](bin/zeus_src.zip)<br>[zeus205s.zip](bin/zeus205s.zip)<br>[zeus2042.zip](bin/zeus2042.zip)<br>[zeus204.zip](bin/zeus204.zip)<br>[zeus10.zip](bin/zeus10.zip)
+BR Bot | "DRaKuLL" | [brbot.7z](bin/brbot.7z) (-)<br>[brbotqc.zip](bin/brbotqc.zip)<br>brbot.exe
 
 File Column:
 - **?** Indicates I could not discover the name of the bot mod filename.

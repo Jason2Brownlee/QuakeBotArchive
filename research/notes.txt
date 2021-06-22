@@ -1096,7 +1096,14 @@ BuddyBot / Buddy Bot
 	bbot_b1.zip
 	bbot_b11.zip
 	"Parsec"
-
+BR Bot
+	https://quakeone.com/forum/quake-talk/quake-central/283031-more-complete-archive-of-all-quake-1-bots
+	https://mega.nz/folder/cFR2BTSD#XjMQu42Qgk3L2xMI5iz-PQ
+	"DRaKuLL"
+	https://web.archive.org/web/19981206120258/http://www.virtualand.net/drakull/
+	brbot.7z
+	brbotqc.zip
+	https://web.archive.org/web/20010509075150/http://www.netpar.com.br/kingmob/arquivos/brbot.exe
 
 RESEARCHING...
 --------------------------------------------------------------------------------

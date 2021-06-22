@@ -17,6 +17,7 @@ ftp://ftp.cdrom.com/pub/quake/quakec/bots/btsk22.zip
 ftp://ftp.cdrom.com/pub/quake/quakec/bots/dmbt21b1.zip
 ftp://ftp.cdrom.com/pub/quake/quakec/bots/doombot.zip
 ftp://ftp.cryogenius.com/pub/quake/gbotsrc.zip
+ftp://ftp.elogica.com.br/pub/warlock/brbot.exe
 ftp://ftp.pk.edu.pl/pub/games/id/quaketoys/mods/reaprb75.zip
 ftp://ftp.quake.odessa.net/pub/bots/f2k006d.zip
 ftp://ftp.stomped.com/pub/redwood/bots/oak0855.zip
@@ -114,5 +115,4 @@ https://www.angelfire.com/pe/pent3/images/frogbot011.zip
 https://www.bluesnews.com/files/patches/bots/oak083.zip
 https://www.bluesnews.com/files/patches/bots/oak084.zip
 https://www.bluesnews.com/files/patches/bots/oak085.zip
-
 
