@@ -29,6 +29,7 @@ ftp://numb.macquakeinfinity.com/numb/ctf/fbctf032.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf033.zip
 ftp://quake.df.ru/pub/Quake/Bots/Omnicron/obots100.zip
 ftp://ter.ort.spb.ru/Nico/Pathes/Bots/obot100.zip
+http://annex.retroarchive.org/cdrom/cotc-26/DOOM/DARKBT07.ZIP
 http://annex.retroarchive.org/cdrom/nightowl-023/022A/ELIM11.ZIP
 http://botarea51.impulse9.net/mirror/bot/gbotsrc.zip
 http://botarea51.impulse9.net/mirror/xreaper/xreaperb130.zip
