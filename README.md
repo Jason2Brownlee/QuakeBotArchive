@@ -66,7 +66,7 @@ FrikBot + Scourge of Armagon | Ryan Smith aka "Frika C" | [frikmp01.zip](bin/fri
 FrikBot + Zerstorer | Ryan Smith aka "Frika C" | [frikzer.zip](bin/frikzer.zip) (-)
 FrikBot X (FBX) | Ryan Smith aka "Frika C" | [fbxc.zip](bin/fbxc.zip)<br>[fbxb.zip](bin/fbxb.zip)<br>[fbxa.zip](bin/fbxa.zip)
 FrikBot X DreamCast (FBXDC) | Ryan Smith aka "Frika C" | [fbxdc.zip](bin/fbxdc.zip) (-)
-FrikBot X+ (FBX+) | Igor9 | fbx+.zip
+FrikBot X+ (FBX+) | Igor9 | [fbx+.zip](bin/fbx+.zip)
 FrikBot X++ (FBX++) | Joel Baxter aka "Johnny Law" | [fbx++.zip](bin/fbx++.zip)
 FrikBot | Ryan Smith aka "Frika C" | [frkbt09b.zip](bin/frkbt09b.zip)<br>[frikbt09.zip](bin/frikbt09.zip)<br>[frikbt08.zip](bin/frikbt08.zip)<br>[frikbt07.zip](bin/frikbt07.zip)<br>[frikbt06.zip](bin/frikbt06.zip)<br>[frikbt05.zip](bin/frikbt05.zip)<br>[frikbt04.zip](bin/frikbt04.zip)<br>
 Frogbot + Clan Arena (FBCA) | "Baker" | [frogbots-099.zip](bin/frogbots-099.zip)

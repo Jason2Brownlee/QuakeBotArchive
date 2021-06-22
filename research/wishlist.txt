@@ -45,7 +45,6 @@ http://railgun.macquakeinfinity.com/downloads/fbctf024.zip
 http://railgun.macquakeinfinity.com/downloads/fbctf026.zip
 http://railgun.macquakeinfinity.com/downloads/fbctf030.zip
 http://ssj4death.condemned.com/gb/gb027b.zip
-http://tlb.quakedev.com/files/fbxways/variants/fbx+.zip
 http://tux.telefragged.com/file.pl?filename=f2k001a.zip
 http://tux.telefragged.com/file.pl?filename=f2k006d.zip
 http://tux.telefragged.com/file.pl?filename=fb013se.zip
