@@ -77,7 +77,7 @@ Frogbot + Holy Wars | Gerard Ryan aka "numb and Paolo Perrotta aka "Nusco" | hw_
 Frogbot + Rocket Arena | Alexey Pakhomov aka "ParboiL" | [fbra.zip](bin/fbra.zip)
 Frogbot + Rocket Arena | Brian Mathiasen aka "Erazor" | fbarena013.zip
 Frogbot 2000 | Dennis de Boer aka "Justice" | f2k006d.zip<br>f2k001a.zip<br>2000.zip
-Frogbot BotMatch Arena | Alex aka "DmSouL" | [botmatch.ZIP](bin/botmatch.ZIP) (-)<br>bm119gl.zip
+Frogbot BotMatch Arena | Alex aka "DmSouL" | [botmatch.ZIP](bin/botmatch.ZIP) (-)<br>[source_of_bm.ZIP](bin/source_of_bm.ZIP)<br>bm119gl.zip
 Frogbot Special Edition | Brian Mathiasen aka "Erazor" | fb013se.zip
 Frogbot | Robert Field aka "Frog" | [frogbot013.zip](bin/frogbot013.zip)<br>[frogbot012.zip](bin/frogbot012.zip)<br>frogbot011.zip
 Gideon Bot | Matthew Turvey | [gidbot.zip](bin/gidbot.zip)
