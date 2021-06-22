@@ -1089,7 +1089,13 @@ Norsebot
 	https://www.gamers.org/pub/idgames2/quakec/bots/btmv31.zip
 	botmove.zip
 	btmv31.zip
-
+BuddyBot / Buddy Bot
+	http://community.fortunecity.ws/underworld/minesweeper/1491/
+	http://community.fortunecity.ws/underworld/minesweeper/1491/bbot_b1.html
+	http://community.fortunecity.ws/underworld/minesweeper/1491/bbot_b11.zip
+	bbot_b1.zip
+	bbot_b11.zip
+	"Parsec"
 
 
 RESEARCHING...
