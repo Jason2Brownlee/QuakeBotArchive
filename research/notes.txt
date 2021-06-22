@@ -1109,7 +1109,13 @@ BR Bot
 Frogbot Deathmatch
 	fbdm012.zip
 	parboil
-
+TDBot
+	http://shoot3r.cjb.net
+	TDBot.zip
+	based on tutor bot
+	Rodrigo Marx aka "Shooter"
+	https://eluancm.net/_misc/spinal/n062000.htm
+	https://eluancm.net/_misc/spinal/n032000.htm
 
 
 RESEARCHING...

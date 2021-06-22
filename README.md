@@ -125,6 +125,7 @@ SuPeRMan Bot | "(KSA)Tekken" | superman11.zip
 Swimming Bot (Swimbot) | Greg Fukui aka "baloo the bear" | [swbot104.zip](bin/swbot104.zip) ($)<br>[swbot103.zip](bin/swbot103.zip)
 Target Player Place (Place Bot) | Vengence of The Lone Gunmen | [place2.zip](bin/place2.zip) (-)<br>[pbot_src.zip](bin/pbot_src.zip)
 Tballman | "Mother" | [tballman.zip](bin/tballman.zip)
+TDBot | Rodrigo Marx aka "Shooter" | [TDBot.zip](bin/TDBot.zip)
 Team FMOD | "Shelob" | stfm10.zip
 Team Fortress Bots | Darryl Atchison aka "coffee" | [tf_bots07.zip](bin/tf_bots07.zip) (-)
 TFBot | "Plumb" | ?
