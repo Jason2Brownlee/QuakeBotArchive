@@ -528,6 +528,7 @@ MaNiAcBot
 	MaNiAc
 	http://www.3ddownloads.com/showfile.php3?filename=maniacbt12.zip
 	maniacbt12.zip
+	http://tux.telefragged.com/file.pl?filename=maniacbt12.zip
 	same...
 Victim Bot
 	https://www.quakewiki.net/archives/botarea51/main/qbotd5e8.html?id=34

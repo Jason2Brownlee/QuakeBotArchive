@@ -92,7 +92,7 @@ KarNag Bot | Ken Madlener | [knbot45.zip](bin/knbot45.zip)<br>[knbot03.ZIP](bin/
 Killer Qcbot | William  Ravaine aka "Killer-Sub" | [kqcbots095b.zip](bin/kqcbots095b.zip)<br>KQCBotSource.zip
 Kooliobot | "Koolio" | koolio.zip
 Lithium CTF Bot | Juan Ignacio Rava aka "Johnny" | [lith091c.zip](bin/lith091c.zip) (-)
-MaNiAcBot | Michael Turitzin aka "MaNiAc" | [maniacbt.zip](bin/maniacbt.zip)
+MaNiAcBot | Michael Turitzin aka "MaNiAc" | [maniacbt.zip](bin/maniacbt.zip)<br>maniacbt12.zip
 MyBot | Stephen Vanterpool | [mybot16.zip](bin/mybot16.zip)
 Navy SEALs sQuad bots | William van der Sterren | [nseal201.zip](bin/nseal201.zip)<br>sqdbt201.zip
 Norse Bot (Movement) | Roscoe A. Sincero aka "Legion" | [btmv31.zip](bin/btmv31.zip)<br>botmove.zip (*)
