@@ -104,7 +104,7 @@ Paddybot | Patrick Stimson aka "sniper" | paddybot02.zip<br>paddybot.zip
 POXbot | "pOx" | [pox120b.zip](bin/pox120b.zip) (-)
 QCBot | Alan Kivlin aka "Virtuoso" | [qcbot003.zip](bin/qcbot003.zip) (*)<br>qcbot002.zip<br>qcbot001.zip
 Quake Bot (QBot) | "Grinder" | [qbot11.zip](bin/qbot11.zip)
-R Bot | Ross Johnson aka "ColdKill" | [rbot70.zip](bin/rbot70.zip)<br>[rbot20.zip](bin/rbot20.zip)
+R Bot | Ross Johnson aka "ColdKill" | [rbot70.zip](bin/rbot70.zip)<br>[rbot20.zip](bin/rbot20.zip)<br>rbot.zip
 Reapa | Terry Hendrix II aka "Mongoose" | ?
 Reaper + DM4 | "Hades" | [dm4reaper.zip](bin/dm4reaper.zip) (-)
 Reaper + Painkeep | Bent Svendsen aka "Decker" | [pkbot.zip](bin/pkbot.zip) (-)
@@ -138,7 +138,7 @@ Victim Bot | Tony Tang aka "The TangMaster" | [vbot11.zip](bin/vbot11.zip)<br>[v
 WarBot | Muhammad Hidayat Bin Sman | warbt13a.zip
 Wisp | Iikka Paavolainen | [wisp.zip](bin/wisp.zip) ($)
 Xreaper | "Mephisto" | xreaperb130.zip<br>setup.exe
-Zeus Bot | Jonathan E. Wright aka "Nelno the Amoeba" | [zeus205.zip](bin/zeus205.zip)<br>[zeus205s.zip](bin/zeus205s.zip)<br>[zeus2042.zip](bin/zeus2042.zip)<br>[zeus204.zip](bin/zeus204.zip)<br>[zeus10.zip](bin/zeus10.zip)
+Zeus Bot | Jonathan E. Wright aka "Nelno the Amoeba" | [zeus205.zip](bin/zeus205.zip)<br>[zeus_src.zip](bin/zeus_src.zip)<br>[zeus205s.zip](bin/zeus205s.zip)<br>[zeus2042.zip](bin/zeus2042.zip)<br>[zeus204.zip](bin/zeus204.zip)<br>[zeus10.zip](bin/zeus10.zip)
 
 
 File Column:
