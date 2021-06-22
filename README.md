@@ -29,7 +29,7 @@ CTF Bot | Drew Davidson aka "BZ" | [newctf12.zip](bin/newctf12.zip) (-)<br>[ctfb
 CTFBot+ | Anthony Distler aka "*this" | [ctfbotp032399.zip](bin/ctfbotp032399.zip) (*)<br>[ctfbotp070498.zip](bin/ctfbotp070498.zip)
 Cujo | Jonathan E. Wright | [cujo14.zip](bin/cujo14.zip)<br>cujo12c.zip<br>[cujo10.zip](bin/cujo10.zip)
 Dark Frogbot | "Pinsolle" | darkfrog.zip
-Darkbot | Terry Hendrix aka "Dark_Skye" | [drkbt11b.zip](bin/drkbt11b.zip)<br>darkbt10.zip<br>[drkbot03.zip](bin/drkbot03.zip)<br>[darkbt01.zip](bin/darkbt01.zip)<br>[darkbotx.zip](bin/darkbotx.zip)
+Darkbot | Terry Hendrix aka "Dark_Skye" | [darkbot-fnl-q2.tar.gz](bin/darkbot-fnl-q2.tar.gz)<br>[darkbot_0.13.9-pak.zip](bin/darkbot_0.13.9-pak.zip)<br>[darkbot_0.13.9-src.zip](bin/darkbot_0.13.9-src.zip)<br>drkbt013.zip<br>[drkbt11b.zip](bin/drkbt11b.zip)<br>darkbt10.zip<br>[drkbot03.zip](bin/drkbot03.zip)<br>[darkbt01.zip](bin/darkbt01.zip)<br>[darkbotx.zip](bin/darkbotx.zip)
 DarkCTF Bot | Terry Hendrix aka "Dark_Skye" | [darkctf13.zip](bin/darkctf13.zip) (*)($)
 DeathBot | James Boswell aka "FlashFire" | [death-64.zip](bin/death-64.zip)
 Demonshooter | "Shootermaster" | [shooter.zip](bin/shooter.zip)
@@ -38,7 +38,7 @@ DM Bot | Nathaniel Gorham | [dmbot1.zip](bin/dmbot1.zip)
 DOBBSBot | Stephen Dobbs | [dobbsbot15bwp.zip](bin/dobbsbot15bwp.zip)<br>dobbsbot15b.zip<br>[dobbsbot15a.zip](bin/dobbsbot15a.zip)
 Doombot | Roscoe A. Sincero aka "Legion" | [dmbt21b3.zip](bin/dmbt21b3.zip)<br>dmbt21b1.zip<br>doombot.zip
 Drastic Reaper Bot | Mark Wheeler | [dreaper.zip](bin/dreaper.zip)
-EdBot | Edward Dawson aka "HotCakes" | [edbot0-04.zip](bin/edbot0-04.zip) (-)
+EdBot | Edward Dawson aka "HotCakes" | [edbot0-04.zip](bin/edbot0-04.zip) (-)<br>[edbotsrc0-04.zip](bin/edbotsrc0-04.zip)
 Elfbot | "SkinSki" | [elfbot.zip](bin/elfbot.zip)
 Elima-Reaper | Roscoe A. Sincero aka "Legion" | ?
 Eliminator Bot (CBot) | Cameron B. Newham | [elim14.zip](bin/elim14.zip)<br>[elimsrc.zip](bin/elimsrc.zip)<br>[elim12.zip](bin/elim12.zip)<br>elim11.zip<br>elim10.zip
