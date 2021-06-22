@@ -204,6 +204,8 @@ Swimming Bot
 	https://www.quaddicted.com/files/idgames2/quakec/bots/swbot104.txt
 	https://www.quaddicted.com/files/idgames2/quakec/bots/swbot104.zip
 	had to add shell casing like roambot
+	https://web.archive.org/web/19990223195820/http://www.iinet.net.au/~den/swimbot.html
+	https://web.archive.org/web/19990223195820/http://www.iinet.net.au/~den/sbotstuf.zip
 TM Bot
 	https://quake.fandom.com/wiki/TM_Bot
 	https://www.quaddicted.com/files/idgames2/quakec/bots/
@@ -377,6 +379,9 @@ Indecisive Bot / Gyrobot / GyroBot
 	https://web.archive.org/web/20000815211127/http://www.cryogenius.com/games/quake/qbot.htm
 	** it looks like there were multiple versions with the same filename
 	also maybe a 1.5 was released but not on cdrom.com
+	http://www.iinet.net.au/~den/gyrobot.zip
+	https://web.archive.org/web/19990220223347/http://www.iinet.net.au/~den/
+	https://web.archive.org/web/19990221020935/http://www.iinet.net.au/~den/bots.html
 ClanBots
 	https://web.archive.org/web/20001109033100/http://www.users.qwest.net/~mimpchnk/
 	https://web.archive.org/web/20010114035500/http://www.users.bigpond.com/clanslug/clanbot.htm
@@ -1145,7 +1150,10 @@ Ninja Quake Bot
 	https://web.archive.org/web/20000817070547/http://www.inside3d.com/frikbot/
 	http://matrix.crosswinds.net/~tsturm/
 	???
-
+Goatbot
+	https://webjc.com/zone51/jeux/Qbots3.htm
+	http://www.underramp.com/~mikej/lab.html
+	???
 
 
 
@@ -1178,6 +1186,7 @@ Mystery Bot
 	http://www.insideqc.com/modindex/qreview/mys.shtml
 	http://mystery.telefragged.com/
 	https://web.archive.org/web/19971222022816/http://mystery.telefragged.com/
+	https://webjc.com/zone51/jeux/Qbots3.htm
 	client-side
 tEdBot
 	https://web.archive.org/web/20000303070145/http://www.botepidemic.com/bots/quake.shtml
@@ -1222,7 +1231,13 @@ Interference Bot
 	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/inter.htm
 	Chris "ArwingX" Dozier
 	monster bot
-
+loefbot
+	https://webjc.com/zone51/jeux/Qbots3.htm
+	http://www.mindspring.com/~jamesloe/Loefsrc.zip
+	http://www.mindspring.com/~jamesloe/
+	http://www.geocities.ws/oldquaker/loefbot/
+	https://www.quakewiki.net/archives/mikebot/faq.html#2.7
+	client side
 
 
 
