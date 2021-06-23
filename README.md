@@ -120,7 +120,7 @@ Roam Bot | Carson Sutton aka "Crimson" | [roambot1.zip](bin/roambot1.zip) ($)
 SamBot | Sam Stephens aka "Spam-man" | [sambot.zip](bin/sambot.zip)
 Sigmund Bot | Rich Whitehouse aka "thefatal" | [sigbot2.zip](bin/sigbot2.zip)
 Square Bot | Ashley Reynolds aka "Ze0" | ?
-Squirt Bot | Michael Buettner aka "Squirt" | [squirt13.zip](bin/squirt13.zip)<br>[squirt11.zip](bin/squirt11.zip)
+Squirt Bot | Michael Buettner aka "Squirt" | [squirt13.zip](bin/squirt13.zip)<br>[squirt11.zip](bin/squirt11.zip)<br>squirt10.zip
 SuPeRMan Bot | "(KSA)Tekken" | superman11.zip
 Swimming Bot (Swimbot) | Greg Fukui aka "baloo the bear" | [swbot104.zip](bin/swbot104.zip) ($)<br>[swbot103.zip](bin/swbot103.zip)
 Target Player Place (Place Bot) | Vengence of The Lone Gunmen | [place2.zip](bin/place2.zip) (-)<br>[pbot_src.zip](bin/pbot_src.zip)

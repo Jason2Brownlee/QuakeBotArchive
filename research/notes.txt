@@ -1078,6 +1078,7 @@ warbot / WarBot
 	warbt13a.zip
 	Muhammad Hidayat Bin Sman
 	reaper extension
+	There is probably a 1.4 and 2.0 chatter on usenet
 Reformed Reaper Bot
 	https://web.archive.org/web/19990116222349/http://www.mindspring.com/~win32ch/ReaperBots.htm
 	https://web.archive.org/web/19990224152657/http://www.mindspring.com/~win32ch/progs.zip

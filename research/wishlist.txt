@@ -39,6 +39,7 @@ http://botarea51.impulse9.net/mirror/bot/gbotsrc.zip
 http://botarea51.impulse9.net/mirror/xreaper/xreaperb130.zip
 http://freespace.virgin.net/w.james/DJbot1.zip
 http://home-4.worldonline.nl/~t625343/guardbot.zip
+http://home.t-online.de/home/0551705030/squirt10.zip
 http://mamuka.narod.ru/files/bots/f2k006d.zip
 http://members.tripod.com/mtm07/fbca085.zip
 http://members.tripod.lycos.nl/koolpaddy/zips/paddybot02.zip
@@ -116,3 +117,5 @@ https://www.angelfire.com/pe/pent3/images/frogbot011.zip
 https://www.bluesnews.com/files/patches/bots/oak083.zip
 https://www.bluesnews.com/files/patches/bots/oak084.zip
 https://www.bluesnews.com/files/patches/bots/oak085.zip
+
+
