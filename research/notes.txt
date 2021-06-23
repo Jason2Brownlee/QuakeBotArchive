@@ -251,7 +251,11 @@ Xreaper (reaper bot)
 	???
 	https://web.archive.org/web/20100123221300/http://botepidemic.no-origin.net/quake.shtml.htm
 	https://web.archive.org/web/20100123221300/http://www.rmbwenw.nl/botarea51/files/xreaper/setup.exe
-	Xreaper 1.21
+	versions 1.21 to 1.22
+	https://www.quakewiki.net/archives/botarea51/main/xreaper/revision.html
+	1.00, 1.10, 1.20, 1.21, 1.22, 1.23, 1.30
+	https://spac1.net/files/view/xreaper-32896240/?Li=2319856&Lii=32896240&Link_id=1719241&Lt=1&Sn=15
+	Ruud 'Mephisto' Heemskerk
 Estep Bot (EsTePBot)
 	by "EsTePaRiO"
 	reaper
@@ -1127,7 +1131,14 @@ WLBot
 	http://www.virtualand.net/cgi-bin/webforum.cgi?forum=spinal
 	http://members.xoom.com/eluan/
 	"-««[|\/|ÅTÅÐØ®]>-[WL]"
-
+The Alf
+	https://web.archive.org/web/19990125093758/http://www.botepidemic.com/
+	http://members.xoom.com/the_alf
+	https://web.archive.org/web/19990125093758/http://members.xoom.com/the_alf
+	Bjorn-Erik Solli aka "Jack O. Trade"
+	http://members.nbci.com/nnctf.zip
+	http://members.nbci.com/nnsource.zip
+	extends dark ctf
 
 
 
@@ -1193,15 +1204,11 @@ Goatbot
 	https://webjc.com/zone51/jeux/Qbots3.htm
 	http://www.underramp.com/~mikej/lab.html
 	???
-The Alf
+? bot
 	https://web.archive.org/web/19990125093758/http://www.botepidemic.com/
-	http://members.xoom.com/the_alf
-	https://web.archive.org/web/19990125093758/http://members.xoom.com/the_alf
-	Bjorn-Erik Solli aka "Jack O. Trade"
-	http://members.nbci.com/nnctf.zip
-	http://members.nbci.com/nnsource.zip
-	extends dark ctf
-
+	by "HellioN"
+	hellion21@hotmail.com
+	based on bgbot
 
 
 
