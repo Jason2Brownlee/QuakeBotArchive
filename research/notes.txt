@@ -1193,6 +1193,14 @@ Goatbot
 	https://webjc.com/zone51/jeux/Qbots3.htm
 	http://www.underramp.com/~mikej/lab.html
 	???
+The Alf
+	https://web.archive.org/web/19990125093758/http://www.botepidemic.com/
+	http://members.xoom.com/the_alf
+	https://web.archive.org/web/19990125093758/http://members.xoom.com/the_alf
+	Bjorn-Erik Solli aka "Jack O. Trade"
+	http://members.nbci.com/nnctf.zip
+	http://members.nbci.com/nnsource.zip
+	extends dark ctf
 
 
 

@@ -8,7 +8,8 @@ quake bot reviews
 	http://www.insideqc.com/modindex/qreview/
 randar's bot page
 	http://www.randars.com/bots/
-	https://web.archive.org/web/20001109033100/http://www.users.qwest.net/~mimpchnk/
+	http://www.users.qwest.net/~mimpchnk/
+		https://web.archive.org/web/20001109033100/http://www.users.qwest.net/~mimpchnk/
 bot epidemic
 	http://www.botepidemic.com
 	https://web.archive.org/web/20001027075424/http://www.botepidemic.com/bots/quake.shtml
