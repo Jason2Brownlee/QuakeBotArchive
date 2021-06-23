@@ -31,7 +31,6 @@ ftp://numb.macquakeinfinity.com/numb/ctf/fbctf033.zip
 ftp://quake.df.ru/pub/Quake/Bots/Omnicron/obots100.zip
 ftp://ter.ort.spb.ru/Nico/Pathes/Bots/obot100.zip
 http://annex.retroarchive.org/cdrom/cotc-26/DOOM/DARKBT07.ZIP
-http://annex.retroarchive.org/cdrom/nightowl-023/022A/ELIM11.ZIP
 http://botarea51.impulse9.net/mirror/bot/bgbot16_src.zip
 http://botarea51.impulse9.net/mirror/bot/ctfbotp071498u.zip
 http://botarea51.impulse9.net/mirror/bot/elim20b7.zip
@@ -95,7 +94,6 @@ http://www.home.earthlink.net/~pentm450/hhbot.zip
 http://www.home.earthlink.net/~pentm450/rnbt3.4.zip
 http://www.home.earthlink.net/~pentm450/rnbt3.6.zip
 http://www.iinet.com.au/~cam/elim10.zip
-http://www.iinet.com.au/~cam/elim11.zip
 http://www.isleofmull56.freeserve.co.uk/paddybot.zip
 http://www.mindspring.com/~darkskye/files/darkbt09.zip
 http://www.parboil.mailru.com/parboil/fbca086.zip
