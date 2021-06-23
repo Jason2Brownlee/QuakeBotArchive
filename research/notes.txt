@@ -52,6 +52,7 @@ Reaper Bot
 		pqccreap.zip
 		https://groups.google.com/g/rec.games.computer.quake.quake-c/c/pb_PTSRMLts/m/KFLhdrajAcUJ
 		https://groups.google.com/g/rec.games.computer.quake.editing/c/c_8W-xBCc0g/m/abTNOXhICkAJ
+	https://web.archive.org/web/19970530203249/http://quakemecca.simplenet.com/files/downloads/reaprb75.txt
 ZeusBot
 	https://web.archive.org/web/20020821003701/http://www.planetquake.com/qca/reviews/patch52.htm
 	https://quake.fandom.com/wiki/Zeus_Bot
@@ -256,6 +257,7 @@ Xreaper (reaper bot)
 	1.00, 1.10, 1.20, 1.21, 1.22, 1.23, 1.30
 	https://spac1.net/files/view/xreaper-32896240/?Li=2319856&Lii=32896240&Link_id=1719241&Lt=1&Sn=15
 	Ruud 'Mephisto' Heemskerk
+	Ruud Heemskerk
 Estep Bot (EsTePBot)
 	by "EsTePaRiO"
 	reaper
@@ -1296,6 +1298,8 @@ loefbot
 	http://www.geocities.ws/oldquaker/loefbot/
 	https://www.quakewiki.net/archives/mikebot/faq.html#2.7
 	client side
-
+Terminator bot
+	https://www.gamers.org/dEngine/quake/Qbot/
+	client side
 
 
