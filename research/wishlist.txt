@@ -51,7 +51,9 @@ http://ssj4death.condemned.com/gb/gb027b.zip
 http://tux.telefragged.com/file.pl?filename=f2k001a.zip
 http://tux.telefragged.com/file.pl?filename=f2k006d.zip
 http://tux.telefragged.com/file.pl?filename=fb013se.zip
+http://tux.telefragged.com/file.pl?filename=fbca084.zip
 http://tux.telefragged.com/file.pl?filename=fbca085.zip
+http://tux.telefragged.com/file.pl?filename=fbcasounds.zip
 http://tux.telefragged.com/file.pl?filename=maniacbt12.zip
 http://users.andara.com/~jdown/elim20b7.zip
 http://web.ukonline.co.uk/johnc/oak083.zip
@@ -114,4 +116,3 @@ https://www.angelfire.com/pe/pent3/images/frogbot011.zip
 https://www.bluesnews.com/files/patches/bots/oak083.zip
 https://www.bluesnews.com/files/patches/bots/oak084.zip
 https://www.bluesnews.com/files/patches/bots/oak085.zip
-
