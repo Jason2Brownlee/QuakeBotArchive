@@ -85,7 +85,7 @@ Frogbot Special Edition | Brian Mathiasen aka "Erazor" | fb013se.zip
 Frogbot | Robert Field aka "Frog" | [frogbot013.zip](bin/frogbot013.zip)<br>[frogbot012.zip](bin/frogbot012.zip)<br>frogbot011.zip
 Gideon Bot | Matthew Turvey | [gidbot.zip](bin/gidbot.zip)
 GlacierBot | "IceDagger" | gb027b.zip
-GuardBot | Peter van Wingerden | [grdbot23.zip](bin/grdbot23.zip)
+GuardBot | Peter van Wingerden | [grdbot23.zip](bin/grdbot23.zip)<br>guardbot.zip
 GYPObot | Stephen Dobbs | [gypobot.zip](bin/gypobot.zip)
 Human Bot (Hbot) | Jeffrey Lee | [hbot.zip](bin/hbot.zip)
 Indecisive Bot (Gyrobot) | Aaron Logue aka "Gyro Gearloose" | [gyrobot.zip](bin/gyrobot.zip)<br>gbotsrc.zip

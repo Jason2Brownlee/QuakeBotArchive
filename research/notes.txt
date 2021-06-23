@@ -395,6 +395,9 @@ GuardBot
 	Peter van Wingerden
 	https://www.quaddicted.com/files/idgames2/quakec/bots/grdbot23.txt
 	https://www.quaddicted.com/files/idgames2/quakec/bots/grdbot23.zip
+	https://web.archive.org/web/20001025114653/http://petervw.club.tip.nl/quake.htm
+	http://home-4.worldonline.nl/~t625343/guardbot.zip
+	guardbot.zip
 Navy SEALs sQuad bots
 	William van der Sterren
 		https://web.archive.org/web/20000831165233/http://planetquake.com/botshop/quake.html
@@ -1209,7 +1212,11 @@ GeneBot / Gene Bot
 	https://web.archive.org/web/20010124062700/http://www.telefragged.com/thefatal/
 	https://web.archive.org/web/20010113234600/http://www.telefragged.com/thefatal/cgi-bin/download.pl?genbot03.zip
 	https://www.richwhitehouse.com/filemirror/genbot03.zip
+	genbot01.zip
+	genbot02.zip
+	genbot03.zip
 	quake world
+	???
 Minion
 	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/minion.htm
 	monster
