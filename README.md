@@ -72,9 +72,8 @@ FrikBot X+ (FBX+) | Igor9 | [fbx+.zip](bin/fbx+.zip)
 FrikBot X++ (FBX++) | Joel Baxter aka "Johnny Law" | [fbx++.zip](bin/fbx++.zip)
 FrikBot | Ryan Smith aka "Frika C" | [frkbt09b.zip](bin/frkbt09b.zip)<br>[frikbt09.zip](bin/frikbt09.zip)<br>[frikbt08.zip](bin/frikbt08.zip)<br>[frikbt07.zip](bin/frikbt07.zip)<br>[frikbt06.zip](bin/frikbt06.zip)<br>[frikbt05.zip](bin/frikbt05.zip)<br>[frikbt04.zip](bin/frikbt04.zip)<br>
 Frogbot + Clan Arena (FBCA) | "Baker" | [frogbots-099.zip](bin/frogbots-099.zip)
-Frogbot + Clan Arena (FBCA) | Alexey Pakhomov aka "ParboiL" | fbca101final.zip<br>fbca096b.zip<br>fbca089se.zip<br>fbca86se.zip<br>fbca086.zip
 Frogbot + Clan Arena (FBCA) | Matt McChesney aka "Asdf" | fbca088.zip<br>fbca085.zip<br>fbca084.zip
-Frogbot + Clan Arena + Kombat Teams | Alexey Pakhomov aka "ParboiL" | [fbca102kt.zip](bin/fbca102kt.zip) <br>fbca102kt-rc1.zip<br>[fbca101kt.zip](bin/fbca101kt.zip)<br>[fbca101alt.zip](bin/fbca101alt.zip)<br>fbca095kt.zip<br>[fbca092kt.zip](bin/fbca092kt.zip)<br>fbca091kt.zip<br>fbca090kt.zip
+Frogbot + Clan Arena + Kombat Teams | Alexey Pakhomov aka "ParboiL" | [fbca102kt.zip](bin/fbca102kt.zip) <br>fbca102kt-rc1.zip<br>[fbca101final.zip](bin/fbca101final.zip)<br>[fbca101kt.zip](bin/fbca101kt.zip)<br>[fbca101alt.zip](bin/fbca101alt.zip) <br>fbca096b.zip<br>fbca095kt.zip<br>[fbca092kt.zip](bin/fbca092kt.zip)<br>fbca091kt.zip<br>fbca090kt.zip<br>fbca089se.zip<br>fbca86se.zip<br>fbca086.zip
 Frogbot + CTF (FBCTF) | Gerard Ryan aka "numb" | fbctf0532.zip<br>[fbctf035.zip](bin/fbctf035.zip) <br>fbctf033.zip<br>fbctf032.zip<br>fbctf030.zip<br>fbctf026.zip<br>fbctf024.zip<br>fbctf023.zip<br>fbctf021.zip<br>fbctf019.zip<br>fbctf015.zip<br>fbctf010.zip<br>fbctf006.zip
 Frogbot + Holy Wars | Gerard Ryan aka "numb and Paolo Perrotta aka "Nusco" | hw_frogbot14h.zip<br>[hw_frogbot13.zip](bin/hw_frogbot13.zip)
 Frogbot + Rocket Arena | Alexey Pakhomov aka "ParboiL" | [fbra.zip](bin/fbra.zip)
@@ -144,7 +143,7 @@ Vicinity Bot | "Black" | vicinityqwprogs.zip
 Victim Bot | Tony Tang aka "The TangMaster" | [vbot11.zip](bin/vbot11.zip)<br>[vbot1.ZIP](bin/vbot1.ZIP)
 WarBot | Muhammad Hidayat Bin Sman | warbt13a.zip
 Wisp | Iikka Paavolainen | [wisp.zip](bin/wisp.zip)
-WLBot | "[MATADOR]-[WL]" | [wlbot21.7z](bin/wlbot21.7z)<br>WLBOT1.9.zip
+WLBot | "[MATADOR]-[WL]" | [wlbot21.7z](bin/wlbot21.7z)<br>wlbot1.9.zip
 Xreaper | Ruud Heemskerk aka "Mephisto" | xreaperb130.zip<br>[xreaperb130_unoff.zip](bin/xreaperb130_unoff.zip)<br>setup.exe
 Zeus Bot | Jonathan E. Wright aka "Nelno the Amoeba" | [zeus205.zip](bin/zeus205.zip)<br>[zeus_src.zip](bin/zeus_src.zip)<br>[zeus205s.zip](bin/zeus205s.zip)<br>[zeus2042.zip](bin/zeus2042.zip)<br>[zeus204.zip](bin/zeus204.zip)<br>[zeus10.zip](bin/zeus10.zip)
 
