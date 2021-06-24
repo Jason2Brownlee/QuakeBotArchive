@@ -329,6 +329,9 @@ Koolio Bot / KoolioBot / Koolio Arena Bot
 	https://web.archive.org/web/20010304020445/http://www.planetkoolio.com/projects.shtml
 	koolio@planetkoolio.com
 	???
+	https://web.archive.org/web/20010413025038/http://www.thebackburner.com/interviews/interviews.cgi?countera
+	"17 year old guy from the Netherlands"
+		https://web.archive.org/web/20000818201342/http://heffoquake.quakesrc.org/
 DOBBSBot
 	https://web.archive.org/web/20001109033100/http://www.users.qwest.net/~mimpchnk/
 	based on tutor
