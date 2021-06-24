@@ -1138,6 +1138,9 @@ WLBot
 	http://www.virtualand.net/cgi-bin/webforum.cgi?forum=spinal
 	http://members.xoom.com/eluan/
 	"-««[|\/|ÅTÅÐØ®]>-[WL]"
+	extends frikbot
+	TD bot
+	by "[MATADOR]-[WL]"
 The Alf
 	https://web.archive.org/web/19990125093758/http://www.botepidemic.com/
 	http://members.xoom.com/the_alf
@@ -1171,6 +1174,8 @@ LGC
 	lgc2.zip
 	lgc2c.zip
 	lgc.zip
+
+
 
 
 
