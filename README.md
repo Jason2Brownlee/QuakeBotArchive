@@ -1,6 +1,6 @@
 # Quake Bot Archive
 
-The goal of this project is to archive all Quake 1 bot mods (QuakeC modifications).
+The goal of this project is to archive **all versions** of **all Quake 1 bot mods** (QuakeC modifications).
 
 ## Quake Bot Genealogy
 
@@ -132,7 +132,7 @@ Tballman | "Mother" | [tballman.zip](bin/tballman.zip)
 TDBot | Rodrigo Marx aka "Shooter" | [TDBot.zip](bin/TDBot.zip)
 Team FMOD | "Shelob" | stfm10.zip
 Team Fortress Bots | Darryl Atchison aka "coffee" | [tf_bots07.zip](bin/tf_bots07.zip)
-TeamFortress Bot | Valery Schedrin aka Forthpick | [teamfbot.zip](bin/teamfbot.zip)
+TeamFortress Bot | Valery Schedrin aka "Forthpick" | [teamfbot.zip](bin/teamfbot.zip)
 TFBot | "Plumb" | ?
 TFBots | Joern Strombach aka "Hoerno" | [tfbot080.zip](bin/tfbot080.zip)
 TFBots | Wolfgang Lehrach aka "GentleMan" | [tfbot077.zip](bin/tfbot077.zip) <br>[TFBot076.zip](bin/TFBot076.zip)<br>tfb-v07.zip
