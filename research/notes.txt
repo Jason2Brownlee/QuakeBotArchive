@@ -1184,6 +1184,12 @@ Frikbot + Midair
 		FrikBot MidAir 1.02
 		https://web.archive.org/web/20060721151615if_/http://www.parboil.quakeworld.ru/parboil/fbma102.zip
 	same thing.
+	nope
+LoydBot
+	LoydBot v1.0 - By Juninho
+	loyd@quake-br.com.br
+	http://www.loyd.cjb.net
+	http://www.loydbot.cjb.net
 
 
 
