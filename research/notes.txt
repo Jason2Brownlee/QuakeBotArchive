@@ -1153,7 +1153,24 @@ FrikBot + Rocket Arena / BotArena
 	https://www.quakeworld.nu/wiki/Vegetous
 	Fabiano D. Amorim
 	Fabiano D. Amorim aka "Vegetous"
-
+LGC
+	LG Competition
+	Lightning Gun Competition
+	?
+	lgc3.zip
+	https://www.quakeworld.nu/forum/topic/2270/46525/lgc-is-back-in-business/
+	https://web.archive.org/web/20061024174745/http://lgc.quakeworld.nu/
+	https://web.archive.org/web/20060628205646/http://quakeworld.nu/forum/viewtopic.php?id=522
+	https://www.quakeworld.nu/forum/topic/522
+	what is this?
+	bot tournaments?
+	https://www.quakeworld.nu/wiki/LGC
+	cool.
+	frogbot mod
+	https://www.quakeworld.nu/wiki/Phil
+	lgc2.zip
+	lgc2c.zip
+	lgc.zip
 
 
 

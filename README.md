@@ -95,6 +95,7 @@ JBot | Jeffrey Lee | [jbot.zip](bin/jbot.zip)
 KarNag Bot | Ken Madlener | [knbot45.zip](bin/knbot45.zip)<br>[knbot03.ZIP](bin/knbot03.ZIP)
 Killer Qcbot | William  Ravaine aka "Killer-Sub" | [kqcbots095b.zip](bin/kqcbots095b.zip)<br>KQCBotSource.zip
 Kooliobot | "Koolio" | koolio.zip
+Lightning Gun Competition (LGC) | Phil aka "peheyele" | [lgc3.zip](bin/lgc3.zip)<br>[lgc2c.zip](bin/lgc2c.zip)<br>[lgc2.zip](bin/lgc2.zip)<br>lgc.zip
 Lithium CTF Bot | Juan Ignacio Rava aka "Johnny" | [lith091c.zip](bin/lith091c.zip)
 MaNiAcBot | Michael Turitzin aka "MaNiAc" | [maniacbt.zip](bin/maniacbt.zip)<br>maniacbt12.zip
 MyBot | Stephen Vanterpool | [mybot16.zip](bin/mybot16.zip)
