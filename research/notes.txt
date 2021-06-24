@@ -1190,7 +1190,11 @@ LoydBot
 	loyd@quake-br.com.br
 	http://www.loyd.cjb.net
 	http://www.loydbot.cjb.net
-
+RABot
+	Rodrigo Marx aka "Shooter"
+	RABOT.ZIP
+	rabot.zip
+	Tutorbot extension
 
 
 RESEARCHING...
