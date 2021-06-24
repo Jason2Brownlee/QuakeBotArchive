@@ -23,6 +23,7 @@ ftp://ftp.quake.odessa.net/pub/bots/f2k006d.zip
 ftp://ftp.stomped.com/pub/redwood/bots/oak0855.zip
 ftp://ftp.task.gda.pl/pub/games/idgames2/planetquake/ramshackle/obots100.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf006.zip
+ftp://numb.macquakeinfinity.com/numb/ctf/fbctf010.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf015.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf019.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf021.zip
