@@ -1146,6 +1146,10 @@ The Alf
 	http://members.nbci.com/nnctf.zip
 	http://members.nbci.com/nnsource.zip
 	extends dark ctf
+FrikBot + Rocket Arena / BotArena
+	botarena.zip (compiled) and ba_scr.zip (source)
+	https://web.archive.org/web/20031223065821/http://www.vegetous.cjb.net/
+	"Vegetous"
 
 
 
