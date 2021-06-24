@@ -22,6 +22,7 @@ ftp://ftp.pk.edu.pl/pub/games/id/quaketoys/mods/reaprb75.zip
 ftp://ftp.quake.odessa.net/pub/bots/f2k006d.zip
 ftp://ftp.stomped.com/pub/redwood/bots/oak0855.zip
 ftp://ftp.task.gda.pl/pub/games/idgames2/planetquake/ramshackle/obots100.zip
+ftp://numb.macquakeinfinity.com/numb/ctf/fbctf006.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf015.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf019.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf021.zip
@@ -117,4 +118,3 @@ https://www.angelfire.com/pe/pent3/images/frogbot011.zip
 https://www.bluesnews.com/files/patches/bots/oak083.zip
 https://www.bluesnews.com/files/patches/bots/oak084.zip
 https://www.bluesnews.com/files/patches/bots/oak085.zip
-

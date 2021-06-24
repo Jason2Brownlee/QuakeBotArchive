@@ -326,6 +326,8 @@ Koolio Bot / KoolioBot / Koolio Arena Bot
 	https://web.archive.org/web/20020213013855/http://www.angelfire.com/co2/kooliobot/
 	https://web.archive.org/web/20020411053258/http://www.angelfire.com/co2/kooliobot/images/koolio.zip
 	https://web.archive.org/web/20011021092620fw_/http://www.angelfire.com/co2/kooliobot/info.html
+	https://web.archive.org/web/20010304020445/http://www.planetkoolio.com/projects.shtml
+	koolio@planetkoolio.com
 	???
 DOBBSBot
 	https://web.archive.org/web/20001109033100/http://www.users.qwest.net/~mimpchnk/
@@ -611,18 +613,18 @@ FrikBot X+ (FBX+) fbx+
 	http://quakeone.com/forum/quake-mod-releases/works-in-progress/5522-newdm-revival
 	???
 FrikBot
-	http://www.insideqc.com/frikbot/
-	fbx released in 2004
-	http://www.inside3d.com/frikbot/fbx/fbxb.zip
-	https://web.archive.org/web/20000817070547/http://www.inside3d.com/frikbot/
-		"You see, I started by looking at Coffee's Tutor Bot"
-	http://www.inside3d.com/frikbot/frikbt09.txt
-	http://www.inside3d.com/frikbot/download.shtml?file=frikbot/frkbt09b.zip
-	https://dukeworld.com/telefragged/inside3d/frikbot/
-	https://dukeworld.com/telefragged/inside3d/frikbot/frkbt09b.zip
-	http://www.mdqnet.net/frikbot/
-	frika-c@earthling.net
 	http://www.frikac.com/?page_id=28
+	http://rds.simplenet.com/frika/
+	http://www.mdqnet.net/dept187/
+	http://www.mdqnet.net/frikbot/
+	http://www.inside3d.com/frikbot
+	https://web.archive.org/web/20010419123818/http://www.inside3d.com/frikbot/frikbot.shtml
+	http://www.botepidemic.com/frikbot/
+	https://web.archive.org/web/20020206051441/http://www.botepidemic.com/frikbot/
+	http://www.insideqc.com/frikbot/fbx/
+	http://www.inside3d.com/frikbot/fbx/fbxb.zip
+	http://www.qexpo.com/frikac/
+	https://dukeworld.com/telefragged/inside3d/frikbot/
 CTF Bot
 	https://web.archive.org/web/20000831165233/http://planetquake.com/botshop/quake.html
 	https://web.archive.org/web/19990218040426/http://www.planetquake.com/qca/reviews/patch66.htm
