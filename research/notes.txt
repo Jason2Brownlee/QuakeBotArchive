@@ -1174,8 +1174,16 @@ LGC
 	lgc2.zip
 	lgc2c.zip
 	lgc.zip
-
-
+Frikbot + Midair
+	midairbots.zip
+	https://www.quaddicted.com/webarchive/ftp.clan-rum.org/quake/bots/midairbots.zip
+	https://www.celephais.net/board/view_thread.php?id=1&start=26066&end=26090
+	Frikbot extension + Midair
+	Parboil ?
+	extension
+		FrikBot MidAir 1.02
+		https://web.archive.org/web/20060721151615if_/http://www.parboil.quakeworld.ru/parboil/fbma102.zip
+	same thing.
 
 
 
