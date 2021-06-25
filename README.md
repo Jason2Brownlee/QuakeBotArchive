@@ -129,7 +129,7 @@ SuPeRMan Bot | "(KSA)Tekken" | superman11.zip
 Swimming Bot (Swimbot) | Greg Fukui aka "baloo the bear" | [swbot104.zip](bin/swbot104.zip) <br>[swbot103.zip](bin/swbot103.zip)
 Target Player Place (Place Bot) | Vengence of The Lone Gunmen | [place2.zip](bin/place2.zip) <br>[pbot_src.zip](bin/pbot_src.zip)
 Tballman | "Mother" | [tballman.zip](bin/tballman.zip)
-TDBot | Rodrigo Marx aka "Shooter" | [TDBot.zip](bin/TDBot.zip)
+TD-BOT | ? | tdbot1_0.zip
 Team FMOD | "Shelob" | stfm10.zip
 Team Fortress Bots | Darryl Atchison aka "coffee" | [tf_bots07.zip](bin/tf_bots07.zip)
 TeamFortress Bot | Valery Schedrin aka "Forthpick" | [teamfbot.zip](bin/teamfbot.zip)
@@ -140,6 +140,7 @@ The Alf | Bjorn-Erik Solli aka "Jack O. Trade" | nnctf.zip<br>nnsource.zip
 The Lone Gunmen QuakeBOT (Larva) | James Cullen aka "Jaymz" and Chris Cullen aka "Incubus" | [tlgbot.zip](bin/tlgbot.zip)
 The Oak | John Crickett and Neil Henderson | [oak0405_fixed.zip](bin/oak0405_fixed.zip)<br>[oak0405.zip](bin/oak0405.zip)<br>oak0855.zip<br>oak085.zip<br>oak084.zip<br>oak083.zip
 TM Bot | Micheal Polucha and Tim Polucha | [tmbot11.zip](bin/tmbot11.zip)<br>[tmbot1.zip](bin/tmbot1.zip)
+Total Destruction Bot (TDBot) | Rodrigo Marx aka "Shooter" | [TDBot.zip](bin/TDBot.zip)
 TrevBot | Kris O'Shea | [trevbot.zip](bin/trevbot.zip)
 Tutor Bot + Holy Wars | Connor Caple aka "RiEvEr" | [holy_tb.zip](bin/holy_tb.zip)
 Tutor Bot | Darryl Atchison aka "coffee" | [tutor.zip](bin/tutor.zip)

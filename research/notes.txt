@@ -1203,7 +1203,11 @@ TeamFortress Bot
 	https://groups.google.com/g/fido7.ru.game.doom/c/_PkycS-xNJc/m/50MScVRdSKMJ
 	ftp://quake.demos.su/pub/patches/fortress/teamfbot.zip
 	ftp://ftp.mari.ru/pub/games/quake/fortress/teamfbot/teamfbot.zip
-
+TD-BOT
+	https://eluancm.net/_misc/spinal/n012000.htm
+	http://hkc.cjb.net/
+	http://membro.intermega.com.br/gqc/tdbot1_0.zip
+	tdbot1_0.zip
 
 
 
