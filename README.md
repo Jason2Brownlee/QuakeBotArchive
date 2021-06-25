@@ -1,6 +1,6 @@
 # Quake Bot Archive
 
-The goal of this project is to archive **all versions** of **all Quake 1 bot mods** (QuakeC modifications).
+The goal of this project is to archive **all versions** of **all Quake bots** (QuakeC modifications).
 
 ## Quake Bot Genealogy
 
