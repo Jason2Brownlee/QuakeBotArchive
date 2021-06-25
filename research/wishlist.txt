@@ -88,6 +88,7 @@ http://www.fileplanet.com/dl.aspx?/planetquake/botarea51/bot/ctfbotp071498u.zip
 http://www.fileplanet.com/dl.aspx?/planetquake/botarea51/bot/elim20b7.zip
 http://www.fileplanet.com/dl.aspx?/planetquake/botarea51/bot/gbotsrc.zip
 http://www.fileplanet.com/dl.aspx?/planetquake/botarea51/xreaper/xreaperb130.zip
+http://www.fileplanet.com/index.asp?file=22736
 http://www.gameaholic.com/deicide/download.cgi?/quakec/bots/darkbt10.zip
 http://www.gameaholic.com/deicide/download.cgi?/quakec/bots/rbot.zip
 http://www.geocities.com/TimesSquare/Fortress/7565/superman11.zip
@@ -119,4 +120,3 @@ https://www.angelfire.com/pe/pent3/images/frogbot011.zip
 https://www.bluesnews.com/files/patches/bots/oak083.zip
 https://www.bluesnews.com/files/patches/bots/oak084.zip
 https://www.bluesnews.com/files/patches/bots/oak085.zip
-
