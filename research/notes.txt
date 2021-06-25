@@ -84,6 +84,8 @@ Frogbot
 		https://www.linkedin.com/in/robert-field-1235686/ ?
 	GPL
 		https://www.quakeworld.nu/news/177/frogbot-gets-gpl
+	https://web.archive.org/web/19980626082929/ftp://ftp.telefragged.com/pub/metro/frogbot009.zip
+
 Optimized Frogbot
 	http://aminet.net/package/game/patch/frogbot
 	Christian Michael aka "surgeon"
@@ -1315,8 +1317,20 @@ Tsumi to Botsu
 	https://web.archive.org/web/20020408101357/http://www.telefragged.com/thefatal/tsumi.shtml
 	https://web.archive.org/web/20020408101357/http://www.3ddownloads.com/?file_id=115170
 	???
-
-
+Cannibal Quake
+	- has frikbots in it
+	https://web.archive.org/web/20020408101357/http://www.botepidemic.com:80/quake.shtml
+	http://www.gloomsday.bizli.com/quake.htm
+	http://www.gloomsday.bizli.com/files/cannibal.zip
+	http://members.xoom.com/gloomsfiles/cannibal.zip
+Quakabiltiy: Bot Arena
+	https://web.archive.org/web/20020408101357/http://www.botepidemic.com:80/quake.shtml
+	http://www.crosswinds.net/~noricoco/neurotic-homepage.htm
+Void Mod
+	- has a frikbot
+	https://web.archive.org/web/20020408101357/http://www.botepidemic.com:80/quake.shtml
+	http://www.mdqnet.net/dept187/
+	made by ryan too...
 
 
 OUT OF SCOPE
