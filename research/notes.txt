@@ -1208,6 +1208,7 @@ TD-BOT
 	http://hkc.cjb.net/
 	http://membro.intermega.com.br/gqc/tdbot1_0.zip
 	tdbot1_0.zip
+	ganghp@bol.com.br
 
 
 
@@ -1278,7 +1279,9 @@ Goatbot
 	by "HellioN"
 	hellion21@hotmail.com
 	based on bgbot
-
+mechbot td2
+	mech.zip
+	???
 
 
 

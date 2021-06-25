@@ -130,6 +130,7 @@ Swimming Bot (Swimbot) | Greg Fukui aka "baloo the bear" | [swbot104.zip](bin/sw
 Target Player Place (Place Bot) | Vengence of The Lone Gunmen | [place2.zip](bin/place2.zip) <br>[pbot_src.zip](bin/pbot_src.zip)
 Tballman | "Mother" | [tballman.zip](bin/tballman.zip)
 TD-BOT | ? | tdbot1_0.zip
+TD2 Mech Bot | ? | [mech.zip](bin/mech.zip)
 Team FMOD | "Shelob" | stfm10.zip
 Team Fortress Bots | Darryl Atchison aka "coffee" | [tf_bots07.zip](bin/tf_bots07.zip)
 TeamFortress Bot | Valery Schedrin aka "Forthpick" | [teamfbot.zip](bin/teamfbot.zip)
