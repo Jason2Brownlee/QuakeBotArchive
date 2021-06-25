@@ -85,7 +85,8 @@ Frogbot
 	GPL
 		https://www.quakeworld.nu/news/177/frogbot-gets-gpl
 	https://web.archive.org/web/19980626082929/ftp://ftp.telefragged.com/pub/metro/frogbot009.zip
-
+	many versions
+	https://groups.google.com/g/fido7.ru.game.quake/c/P2YAtD9RQYc/m/eRJfv4QtTHEJ
 Optimized Frogbot
 	http://aminet.net/package/game/patch/frogbot
 	Christian Michael aka "surgeon"
