@@ -82,11 +82,15 @@ http://web.ukonline.co.uk/johnc/oak0855.zip
 http://www.3ddownloads.com/?download_id=103634&server=newyork&check_id=3729
 http://www.3ddownloads.com/?download_id=151695&server=newyork&check_id=33959
 http://www.3ddownloads.com/?download_id=38923&server=newyork&check_id=30906
+http://www.3ddownloads.com/?file_id=14341
+http://www.3ddownloads.com/?file_id=14364
+http://www.3ddownloads.com/?file_id=14369
 http://www.3ddownloads.com/?file_id=45791
 http://www.3ddownloads.com/showfile.php3?filename=2000.zip
 http://www.3ddownloads.com/showfile.php3?filename=darkfrog.zip
 http://www.3ddownloads.com/showfile.php3?filename=f2k006d.zip
 http://www.3ddownloads.com/showfile.php3?filename=fbarena013.zip
+http://www.3ddownloads.com/showfile.php3?filename=frogbot000.zip
 http://www.3ddownloads.com/showfile.php3?filename=maniacbt12.zip
 http://www.3ddownloads.com/showfile.php3?filename=stfm10.zip
 http://www.3ddownloads.com/showfile.php3?filename=vicinity/vicinitymodels.zip
@@ -139,3 +143,4 @@ http://www.users.bigpond.com/clanslug/ClanV0.6Auto.zip
 http://www.users.bigpond.com/clanslug/ClanV0.7HMan.zip
 https://www.angelfire.com/pe/pent3/images/frogbot011.zip
 https://www.bluesnews.com/files/patches/bots/oak084.zip
+
