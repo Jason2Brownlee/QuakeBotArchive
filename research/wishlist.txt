@@ -29,6 +29,7 @@ ftp://ftp.task.gda.pl/pub/games/idgames2/planetquake/ramshackle/obots100.zip
 ftp://ftp.telefragged.com/pub/metro/frogbot009.zip
 ftp://ftp.telepac.pt/pub/idgames2/telefragged/metro/frogbot007.zip
 ftp://ftp.telepac.pt/pub/idgames2/telefragged/metro/frogbot009.zip
+ftp://ftр.telefragged.com/рub/frogbotb009.ziр
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf006.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf010.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf015.zip
@@ -132,5 +133,4 @@ http://www.users.bigpond.com/clanslug/ClanV0.6Auto.zip
 http://www.users.bigpond.com/clanslug/ClanV0.7HMan.zip
 https://www.angelfire.com/pe/pent3/images/frogbot011.zip
 https://www.bluesnews.com/files/patches/bots/oak084.zip
-
-
+http://www.telefragged.com/metro/frogbot012c.zip
