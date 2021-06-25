@@ -355,7 +355,7 @@ GYPOBot
 	https://web.archive.org/web/20010501075107/http://www.dobbsnet.co.uk/add-ons/quake/gypobot.htm
 	https://web.archive.org/web/20010501075107/http://www.dobbsnet.btinternet.co.uk/downloads/quake/gypobot.zip
 	stephen.dobbs@btinternet.com
-Square Bot
+Square Bot / SquareBot
 	https://web.archive.org/web/20010129031600fw_/http://www.users.qwest.net/~mimpchnk/review.htm
 	based on tutor
 	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/news.htm
@@ -370,6 +370,9 @@ Square Bot
 	Ashley Reynolds aka "Ze0"
 		webmaster of bot epidemic
 		https://web.archive.org/web/20000815235244/http://www.botepidemic.com/about/
+	Interview about square bot
+		https://web.archive.org/web/20011128092319fw_/http://www.planetquake.com/maxtron/interviews/ze0.shtml
+	First tutor bot...
 Drastic Reaper Bot
 	https://web.archive.org/web/20001109033100/http://www.users.qwest.net/~mimpchnk/
 	- reaper
@@ -775,7 +778,7 @@ Lithium CTF
 	Juan Ignacio Rava (aka Johnny)
 	https://www.quaddicted.com/files/idgames2/quakec/teamplay/ctf/
 	bgbot based? no evidence other than impulse...
-Frik-TF
+Frik-TF / FrikTF
 	- team fortress bot based of FBX
 	https://web.archive.org/web/20100123221300/http://botepidemic.no-origin.net/quake.shtml.htm
 	http://groups.yahoo.com/group/friktf/files/friktf-051901.zip
@@ -788,6 +791,16 @@ Frik-TF
 	bk039@freenet.carleton.ca
 	https://web.archive.org/web/20100123221300/http://www.ncf.ca/~bk039/frik-tf.zip
 	https://web.archive.org/web/20100123221300/http://www.ncf.ca/~bk039/friktfqw.zip
+	https://web.archive.org/web/20010609104604/http://groups.yahoo.com/group/friktf/files/
+		https://web.archive.org/web/20010609104604/http://groups.yahoo.com/group/friktf/files/friktf-051800-qw.zip
+		https://web.archive.org/web/20010609104604/http://groups.yahoo.com/group/friktf/files/friktf-051800-src.zip
+		https://web.archive.org/web/20010609104604/http://groups.yahoo.com/group/friktf/files/friktf-051800.zip
+		https://web.archive.org/web/20010609104604/http://groups.yahoo.com/group/friktf/files/friktf-051901.zip
+		https://web.archive.org/web/20010609104604/http://groups.yahoo.com/group/friktf/files/friktf-092800-qw.zip
+		https://web.archive.org/web/20010609104604/http://groups.yahoo.com/group/friktf/files/friktf-092800-src.zip
+		https://web.archive.org/web/20010609104604/http://groups.yahoo.com/group/friktf/files/friktf-092800.tar.gz
+		https://web.archive.org/web/20010609104604/http://groups.yahoo.com/group/friktf/files/friktf-092800.zip
+		dynamo_tamarin@yahoo.com
 TFBots (coffee)
 	https://web.archive.org/web/20041216170620/http://www.planetquake.com/minion/index2.html
 	http://www.fileplanet.com/dl.aspx?/planetquake/minion/tf_bots07.zip
