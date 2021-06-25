@@ -66,6 +66,7 @@ http://tux.telefragged.com/file.pl?filename=maniacbt12.zip
 http://users.andara.com/~jdown/elim20b7.zip
 http://web.ukonline.co.uk/johnc/oak084.zip
 http://web.ukonline.co.uk/johnc/oak0855.zip
+http://www.3ddownloads.com/?download_id=151695&server=newyork&check_id=33959
 http://www.3ddownloads.com/showfile.php3?filename=2000.zip
 http://www.3ddownloads.com/showfile.php3?filename=darkfrog.zip
 http://www.3ddownloads.com/showfile.php3?filename=f2k006d.zip
@@ -99,6 +100,7 @@ http://www.home.earthlink.net/~pentm450/rnbt3.6.zip
 http://www.iinet.com.au/~cam/elim10.zip
 http://www.isleofmull56.freeserve.co.uk/paddybot.zip
 http://www.mindspring.com/~darkskye/files/darkbt09.zip
+http://www.ncf.ca/~bk039/frik-tf.zip
 http://www.parboil.mailru.com/parboil/fbca086.zip
 http://www.parboil.mailru.com/parboil/fbca089se.zip
 http://www.parboil.mailru.com/parboil/fbca090kt.zip
@@ -118,3 +120,6 @@ http://www.users.bigpond.com/clanslug/ClanV0.6Auto.zip
 http://www.users.bigpond.com/clanslug/ClanV0.7HMan.zip
 https://www.angelfire.com/pe/pent3/images/frogbot011.zip
 https://www.bluesnews.com/files/patches/bots/oak084.zip
+
+
+

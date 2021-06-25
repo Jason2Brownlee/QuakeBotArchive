@@ -801,6 +801,7 @@ Frik-TF / FrikTF
 		https://web.archive.org/web/20010609104604/http://groups.yahoo.com/group/friktf/files/friktf-092800.tar.gz
 		https://web.archive.org/web/20010609104604/http://groups.yahoo.com/group/friktf/files/friktf-092800.zip
 		dynamo_tamarin@yahoo.com
+
 TFBots (coffee)
 	https://web.archive.org/web/20041216170620/http://www.planetquake.com/minion/index2.html
 	http://www.fileplanet.com/dl.aspx?/planetquake/minion/tf_bots07.zip
