@@ -75,11 +75,11 @@ FrikBot | Ryan Smith aka "Frika C" | [frkbt09b.zip](bin/frkbt09b.zip)<br>[frikbt
 Frogbot + Clan Arena (FBCA) | "Baker" | [frogbots-099.zip](bin/frogbots-099.zip)
 Frogbot + Clan Arena (FBCA) | Matt McChesney aka "Asdf" | fbca085.zip<br>fbcasounds.zip<br>fbca084.zip
 Frogbot + Clan Arena + Kombat Teams | Alexey Pakhomov aka "ParboiL" | [fbca102kt.zip](bin/fbca102kt.zip) <br>fbca102kt-rc1.zip<br>[fbca101final.zip](bin/fbca101final.zip)<br>[fbca101kt.zip](bin/fbca101kt.zip)<br>[fbca101alt.zip](bin/fbca101alt.zip) <br>fbca096b.zip<br>fbca095kt.zip<br>[fbca092kt.zip](bin/fbca092kt.zip)<br>fbca091kt.zip<br>fbca090kt.zip<br>fbca089se.zip<br>fbca089kt.zip<br>fbca088se.zip<br>fbca088.zip<br>fbca86se.zip<br>fbca086.zip
-Frogbot + CTF (FBCTF) | Gerard Ryan aka "numb" | fbctf0532.zip<br>[fbctf035.zip](bin/fbctf035.zip) <br>fbctf033.zip<br>fbctf032.zip<br>fbctf030.zip<br>fbctf026.zip<br>fbctf024.zip<br>fbctf023.zip<br>fbctf021.zip<br>fbctf019.zip<br>fbctf015.zip<br>fbctf010.zip<br>fbctf006.zip
+Frogbot + CTF (FBCTF) | Gerard Ryan aka "numb" | fbctf0532.zip<br>fbctf052.zip<br>[fbctf035.zip](bin/fbctf035.zip) <br>fbctf033.zip<br>fbctf032.zip<br>fbctf030.zip<br>fbctf026.zip<br>fbctf024.zip<br>fbctf023.zip<br>fbctf021.zip<br>fbctf019.zip<br>fbctf015.zip<br>fbctf010.zip<br>fbctf006.zip
 Frogbot + Holy Wars | Gerard Ryan aka "numb and Paolo Perrotta aka "Nusco" | hw_frogbotf.zip<br>hw_frogbot14h.zip<br>[hw_frogbot13.zip](bin/hw_frogbot13.zip)
 Frogbot + Rocket Arena | Alexey Pakhomov aka "ParboiL" | [fbra.zip](bin/fbra.zip)
 Frogbot + Rocket Arena | Brian Mathiasen aka "Erazor" | fbarena013.zip
-Frogbot 2000 | Dennis de Boer aka "Justice" | f2k006d.zip<br>f2k001a.zip<br>2000.zip
+Frogbot 2000 | Dennis de Boer aka "Justice" | f2k006d.zip<br>versie.zip<br>f2k001a.zip<br>2000.zip
 Frogbot BotMatch Arena | Alex aka "DmSouL" | [botmatch.ZIP](bin/botmatch.ZIP) <br>[source_of_bm.ZIP](bin/source_of_bm.ZIP)<br>bm119gl.zip<br>bm116se.zip
 Frogbot Deathmatch | Alexey Pakhomov aka "ParboiL" | [fbdm012.zip](bin/fbdm012.zip)
 Frogbot Special Edition | Brian Mathiasen aka "Erazor" | fb013se.zip
