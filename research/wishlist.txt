@@ -30,6 +30,7 @@ ftp://numb.macquakeinfinity.com/numb/ctf/fbctf021.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf023.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf032.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf033.zip
+ftp://numb.macquakeinfinity.com/numb/holywars/hw_frogbotf.zip
 ftp://quake.df.ru/pub/Quake/Bots/Omnicron/obots100.zip
 ftp://ter.ort.spb.ru/Nico/Pathes/Bots/obot100.zip
 http://botarea51.impulse9.net/mirror/bot/bgbot16_src.zip
@@ -120,6 +121,5 @@ http://www.users.bigpond.com/clanslug/ClanV0.6Auto.zip
 http://www.users.bigpond.com/clanslug/ClanV0.7HMan.zip
 https://www.angelfire.com/pe/pent3/images/frogbot011.zip
 https://www.bluesnews.com/files/patches/bots/oak084.zip
-
 
 

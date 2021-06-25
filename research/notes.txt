@@ -1237,7 +1237,9 @@ TD-BOT
 	http://membro.intermega.com.br/gqc/tdbot1_0.zip
 	tdbot1_0.zip
 	ganghp@bol.com.br
-
+mechbot td2
+	mech.zip
+	???
 
 
 RESEARCHING...
@@ -1307,10 +1309,11 @@ Goatbot
 	by "HellioN"
 	hellion21@hotmail.com
 	based on bgbot
-mechbot td2
-	mech.zip
+Tsumi to Botsu
+	https://web.archive.org/web/20020408101357/http://www.botepidemic.com:80/quake.shtml
+	https://web.archive.org/web/20020408101357/http://www.telefragged.com/thefatal/tsumi.shtml
+	https://web.archive.org/web/20020408101357/http://www.3ddownloads.com/?file_id=115170
 	???
-
 
 
 
