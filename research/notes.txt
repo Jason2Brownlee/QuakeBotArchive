@@ -784,11 +784,20 @@ Frik-TF
 	https://web.archive.org/web/20100123221300/http://www.ncf.ca/~bk039/frik-tf.zip
 	https://web.archive.org/web/20100123221300/http://www.ncf.ca/~bk039/friktfqw.zip
 TFBots (coffee)
+	https://web.archive.org/web/20041216170620/http://www.planetquake.com/minion/index2.html
 	http://www.fileplanet.com/dl.aspx?/planetquake/minion/tf_bots07.zip
+	2013 release
+	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/index2.html
 	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/readbots.txt
 	https://www.quaddicted.com/quake_advent_calendar_2013/13-18
 	Darryl Atchison aka "coffee"
 	coffee@planetquake.com
+	https://www.quaddicted.com/files/mods/tf_bots07.zip
+	prior versions?
+	https://www.reddit.com/r/RetroPie/comments/93pwke/team_fortress_for_quake/
+		JLsoft was a play tester...
+		https://www.reddit.com/user/JLsoft/
+		contacted on reddit re older versions
 TFBot (FrikbotX)
 	http://www.botepidemic.com/tfb/
 	https://web.archive.org/web/20020112065618/http://www.botepidemic.com/tfb/
@@ -1282,6 +1291,8 @@ Goatbot
 mechbot td2
 	mech.zip
 	???
+
+
 
 
 

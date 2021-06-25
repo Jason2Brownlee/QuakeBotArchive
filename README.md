@@ -189,7 +189,7 @@ If you have additional information or updates please contact me directly: jason.
 
 Also, I have a wishlist of broken bot URLs that maybe you can help with:
 
-* [Quake Bot Mod URL Wishlist](research/wishlist.txt)
+* [Quake Bot Mod Files URL Wishlist](research/wishlist.txt)
 
 
 
