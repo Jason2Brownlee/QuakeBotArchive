@@ -380,6 +380,8 @@ Square Bot / SquareBot
 	Interview about square bot
 		https://web.archive.org/web/20011128092319fw_/http://www.planetquake.com/maxtron/interviews/ze0.shtml
 	First tutor bot...
+	v0.1a
+	https://web.archive.org/web/20020211235848/http://www.botepidemic.com/archives/10mar99-25mar99.shtml
 Drastic Reaper Bot
 	https://web.archive.org/web/20001109033100/http://www.users.qwest.net/~mimpchnk/
 	- reaper
