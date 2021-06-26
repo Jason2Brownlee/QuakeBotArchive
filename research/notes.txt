@@ -89,6 +89,8 @@ Frogbot
 		https://groups.google.com/g/fido7.ru.game.quake/c/P2YAtD9RQYc/m/eRJfv4QtTHEJ
 	many versions
 		https://web.archive.org/web/20020214103406/http://www.botepidemic.com/fmods/ofiles.htm
+	interview
+		https://web.archive.org/web/20000607213411fw_/http://www.macquakeinfinity.com/frog.html
 Optimized Frogbot
 	http://aminet.net/package/game/patch/frogbot
 	Christian Michael aka "surgeon"
