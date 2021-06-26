@@ -111,8 +111,10 @@ BGBot
 Cronos Bot / Cronosbot
 	http://www.planetquake.com/cronos
 	https://web.archive.org/web/20000815211132if_/http://www.planetquake.com:80/cronos/
-	https://www.quakewiki.net/archives/cronos/index89c3.html?links.html
+	https://www.quakewiki.net/archives/cronos/
 		mirror
+		http://dl.fileplanet.com/dl/dl.asp?cronos/hd_cbots_hd.zip
+		http://dl.fileplanet.com/dl/dl.asp?cronos/hd_cbots.zip
 	"Cronos"
 		cronos@planetquake.com
 		Cronos@clovenhoof.freeserve.co.uk
@@ -152,8 +154,6 @@ Cronos Bot / Cronosbot
 		ArwingX@aol.com
 		Chronobot
 		nope
-	http://dl.fileplanet.com/dl/dl.asp?cronos/hd_cbots_hd.zip
-	http://dl.fileplanet.com/dl/dl.asp?cronos/hd_cbots.zip
 Oak Bot
 	https://dukeworld.com/idgames2/quakec/bots/oak0405.zip
 	https://www.quaddicted.com/files/idgames2/quakec/bots/oak0405.zip
@@ -519,6 +519,8 @@ Eliminator Bot (cbot)
 	https://www.bluesnews.com/archives/dec96-3.html
 		src code?
 	https://www.theguardian.com/artanddesign/2019/dec/27/australian-on-mission-to-photograph-every-parish-church-in-england
+	Cameron Newham comment:
+		https://www.quakewiki.net/quake-1-bots/
 Doombot
 	Roscoe A. Sincero AKA Legion
 	https://www.quaddicted.com/files/idgames2/quakec/bots/dmbt21b3.txt
@@ -1345,6 +1347,19 @@ Void Mod
 	https://web.archive.org/web/20020408101357/http://www.botepidemic.com:80/quake.shtml
 	http://www.mdqnet.net/dept187/
 	made by ryan too...
+q1 arena
+	http://www.quaketastic.com/files/single_player/mods/q1a_075.zip
+	???
+	engine + bots I think
+xkteams
+	https://forums.overclockers.com.au/threads/quake-1-bots.59014/
+	https://web.archive.org/web/20020607143403/http://xmark.ausgamers.com/xkteams.html
+	http://xmark.ausgamers.com/xkteams/xkteams2.zip
+	http://xmark.ausgamers.com/xkteams/xkteams1705.zip
+	http://xmark.ausgamers.com/xkteams/xkteams1705s.zip
+	frikbot extension
+	mark
+
 
 
 OUT OF SCOPE

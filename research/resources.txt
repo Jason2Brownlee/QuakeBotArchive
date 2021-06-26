@@ -19,6 +19,8 @@ bot epidemic
 		telefragged / ze0 / ...
 	https://web.archive.org/web/20100123221300/http://botepidemic.no-origin.net/quake.shtml.htm
 		excellent mirror!
+	zeo -> zeee0
+		http://www.forums.bots-united.com/showthread.php?t=5732
 quake terminus
 	https://www.quaketerminus.com/bots.shtml
 bot area 51
@@ -55,6 +57,9 @@ bot emporium
 cdrom.com idgames2/quakec/bots Mirros
 	https://www.quaddicted.com/files/idgames2/quakec/bots
 	https://www.gamers.org/pub/idgames2/quakec/bots/
+	ftp://ftp.fu-berlin.de/pc/games/idgames2/quakec/bots/
+	http://web.archive.org/web/19961225222455/http://www.cdrom.com/pub/idgames2/quakec/bots/
+	(archive of web interface)
 PlanetQuake Mirrors
 	https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/
 	https://www.quaddicted.com/files/idgames2/planetquake/

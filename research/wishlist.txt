@@ -120,6 +120,8 @@ http://www.botepidemic.com/fmods/fbctf052.zip
 http://www.botepidemic.com/fmods/fbctf0532.zip
 http://www.botepidemic.com/fmods/hw_frogbot14h.zip
 http://www.botepidemic.com/fmods/versie.zip
+http://www.cdrom.com/pub/idgames2/quakec/bots/btskn22.zip
+http://www.cdrom.com/pub/idgames2/quakec/bots/drkbot04.zip
 http://www.converted2.com/bloodmage/junk/FBMOD.ZIP
 http://www.dmsoul.mailru.com/botmatch/bm119gl.zip
 http://www.dobbsnet.btinternet.co.uk/downloads/quake/dobbsbot15b.zip
@@ -162,4 +164,6 @@ http://www.users.bigpond.com/clanslug/ClanV0.6Auto.zip
 http://www.users.bigpond.com/clanslug/ClanV0.7HMan.zip
 https://www.angelfire.com/pe/pent3/images/frogbot011.zip
 https://www.bluesnews.com/files/patches/bots/oak084.zip
+
+
 
