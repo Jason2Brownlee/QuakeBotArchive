@@ -151,6 +151,9 @@ Cronos Bot / Cronosbot
 		?
 		ArwingX@aol.com
 		Chronobot
+		nope
+	http://dl.fileplanet.com/dl/dl.asp?cronos/hd_cbots_hd.zip
+	http://dl.fileplanet.com/dl/dl.asp?cronos/hd_cbots.zip
 Oak Bot
 	https://dukeworld.com/idgames2/quakec/bots/oak0405.zip
 	https://www.quaddicted.com/files/idgames2/quakec/bots/oak0405.zip

@@ -54,6 +54,8 @@ http://botarea51.impulse9.net/mirror/bot/ctfbotp071498u.zip
 http://botarea51.impulse9.net/mirror/bot/elim20b7.zip
 http://botarea51.impulse9.net/mirror/bot/gbotsrc.zip
 http://botarea51.impulse9.net/mirror/xreaper/xreaperb130.zip
+http://dl.fileplanet.com/dl/dl.asp?cronos/hd_cbots.zip
+http://dl.fileplanet.com/dl/dl.asp?cronos/hd_cbots_hd.zip
 http://first.quakegate.ru/bots/frogbot.rar
 http://freespace.virgin.net/w.james/DJbot1.zip
 http://groups.yahoo.com/group/friktf/files/friktf-051901.zip
@@ -160,5 +162,4 @@ http://www.users.bigpond.com/clanslug/ClanV0.6Auto.zip
 http://www.users.bigpond.com/clanslug/ClanV0.7HMan.zip
 https://www.angelfire.com/pe/pent3/images/frogbot011.zip
 https://www.bluesnews.com/files/patches/bots/oak084.zip
-
 

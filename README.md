@@ -27,7 +27,7 @@ BotSkin | "WACko" | [btskn22.zip](bin/btskn22.zip)<br>[botskn20.ZIP](bin/botskn2
 BrBot | "DRaKuLL" | [brbot.7z](bin/brbot.7z) <br>[brbotqc.zip](bin/brbotqc.zip)<br>brbot.exe
 BuddyBot | "Parsec" | [bbot_b1.zip](bin/bbot_b1.zip) <br>[bbot_b11.zip](bin/bbot_b11.zip)
 ClanBots | "slug" | ClanV0.7HMan.zip<br>ClanV0.6Auto.zip<br>ClanV0.5Auto.zip
-Cronos Bot | "Cronos" | hd_pak0.zip<br>[cronobot107a.zip](bin/cronobot107a.zip)<br>[cbotpak106.zip](bin/cbotpak106.zip)<br>[cronobot101.zip](bin/cronobot101.zip)
+Cronos Bot | "Cronos" | hd_cbots_hd.zip<br>hd_cbots.zip<br>hd_pak0.zip<br>[cronobot107a.zip](bin/cronobot107a.zip)<br>[cbotpak106.zip](bin/cbotpak106.zip)<br>[cronobot101.zip](bin/cronobot101.zip)
 CTF Bot | Drew Davidson aka "BZ" | [ctfbot13b1.zip](bin/ctfbot13b1.zip) <br>[newctf12.zip](bin/newctf12.zip)<br>[ctfbot12.zip](bin/ctfbot12.zip)<br>[ctfbot11.zip](bin/ctfbot11.zip)
 CTFBot+ | Anthony Distler aka "*this" | [ctfbotp032399.zip](bin/ctfbotp032399.zip) <br>[ctfbotmw21.zip](bin/ctfbotmw21.zip)<br>[ctfbotp071498-upgrade.zip](bin/ctfbotp071498-upgrade.zip)<br>ctfbotp071498u.zip<br>[ctfbotp070498.zip](bin/ctfbotp070498.zip)<br>[ctfbot_060298.zip](bin/ctfbot_060298.zip)
 Cujo | Jonathan E. Wright | [cujo14.zip](bin/cujo14.zip)<br>cujo13.zip<br>cujo12c.zip<br>[cujo10.zip](bin/cujo10.zip)
