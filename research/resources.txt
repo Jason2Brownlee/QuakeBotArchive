@@ -41,9 +41,10 @@ QCA
 	https://web.archive.org/web/20021019163323/http://www.planetquake.com/qca/reviews/
 ai cafe links
 	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/links.htm
-file planet bots
+fileplanet bots
 	https://web.archive.org/web/20001213060000/http://www.fileplanet.com/index.asp?section=66
 	https://wiki.archiveteam.org/index.php?title=Fileplanet
+	https://archive.org/details/archiveteam-fileplanet
 quake preservation page
 	http://www.geocities.ws/oldquaker/pres1.html
 	all the client side bots...
@@ -53,13 +54,13 @@ bot authors
 	https://web.archive.org/web/19981206123951/mailto:Boris.Wendt@Kiel.Netsurf.de
 bot emporium
 	https://www.quakewiki.net/archives/emporium.planetquake.gamespy.com/
-
 cdrom.com idgames2/quakec/bots Mirros
 	https://www.quaddicted.com/files/idgames2/quakec/bots
 	https://www.gamers.org/pub/idgames2/quakec/bots/
 	ftp://ftp.fu-berlin.de/pc/games/idgames2/quakec/bots/
 	http://web.archive.org/web/19961225222455/http://www.cdrom.com/pub/idgames2/quakec/bots/
 	(archive of web interface)
+	https://archive.org/details/walnutcreekcdrom
 PlanetQuake Mirrors
 	https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/
 	https://www.quaddicted.com/files/idgames2/planetquake/
@@ -112,7 +113,16 @@ https://archive.org/details/CdZoneIssue48march1997
 old list of bots
 https://web.archive.org/web/19970628184357/http://www.gameaholic.com/idgames/quakec/bots/
 
-
+more cds
+https://archive.org/details/cdbbsarchive?and%5B%5D=subject%3A%22Quake%22&sort=-date
+https://archive.org/details/cdrom-aktiv-no3-duke-nukem-quake-addons-special
+https://archive.org/details/CdZoneIssue48march1997
+https://archive.org/details/PCGamerOct1997
+https://archive.org/details/PCZoneCompleteQuakeCD/
+https://archive.org/details/cdrom-quake-it
+https://archive.org/details/cdrom-q-das-nachbeben
+https://archive.org/details/cdrom-aktiv-no3-duke-nukem-quake-addons-special
+https://archive.org/details/cdrom-quake-em
 
 
 
