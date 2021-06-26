@@ -30,6 +30,7 @@ ftp://ftp.telefragged.com/pub/metro/frogbot009.zip
 ftp://ftp.telepac.pt/pub/idgames2/telefragged/metro/frogbot007.zip
 ftp://ftp.telepac.pt/pub/idgames2/telefragged/metro/frogbot009.zip
 ftp://ftр.telefragged.com/рub/frogbotb009.ziр
+ftp://numb.macquakeinfinity.com/numb/ctf/fbctf004.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf006.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf010.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf011.zip
@@ -40,6 +41,7 @@ ftp://numb.macquakeinfinity.com/numb/ctf/fbctf021.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf023.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf032.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf033.zip
+ftp://numb.macquakeinfinity.com/numb/ctf/pak2pak.zip
 ftp://numb.macquakeinfinity.com/numb/holywars/hw_frogbotf.zip
 ftp://quake.df.ru/pub/Quake/Bots/Omnicron/obots100.zip
 ftp://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/idgames2/telefragged/epidemic/frogbot012a.zip
@@ -81,6 +83,7 @@ http://tux.telefragged.com/file.pl?filename=fbctf014.zip
 http://tux.telefragged.com/file.pl?filename=fbctf034.zip
 http://tux.telefragged.com/file.pl?filename=fbctf041.zip
 http://tux.telefragged.com/file.pl?filename=hw_frogbot14.zip
+http://tux.telefragged.com/file.pl?filename=kooliobot.zip
 http://tux.telefragged.com/file.pl?filename=maniacbt12.zip
 http://users.andara.com/~jdown/elim20b7.zip
 http://web.ukonline.co.uk/johnc/oak084.zip
