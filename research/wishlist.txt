@@ -76,6 +76,8 @@ http://tux.telefragged.com/file.pl?filename=fbca084.zip
 http://tux.telefragged.com/file.pl?filename=fbca085.zip
 http://tux.telefragged.com/file.pl?filename=fbcasounds.zip
 http://tux.telefragged.com/file.pl?filename=fbctf034.zip
+http://tux.telefragged.com/file.pl?filename=fbctf041.zip
+http://tux.telefragged.com/file.pl?filename=hw_frogbot14.zip
 http://tux.telefragged.com/file.pl?filename=maniacbt12.zip
 http://users.andara.com/~jdown/elim20b7.zip
 http://web.ukonline.co.uk/johnc/oak084.zip
@@ -102,6 +104,7 @@ http://www.botepidemic.com/fmods/bm116se.zip
 http://www.botepidemic.com/fmods/fbca088.zip
 http://www.botepidemic.com/fmods/fbca088.zip
 http://www.botepidemic.com/fmods/fbca088se.zip
+http://www.botepidemic.com/fmods/fbca088se3.zip
 http://www.botepidemic.com/fmods/fbctf052.zip
 http://www.botepidemic.com/fmods/fbctf0532.zip
 http://www.botepidemic.com/fmods/hw_frogbot14h.zip
