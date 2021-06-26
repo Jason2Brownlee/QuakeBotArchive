@@ -147,6 +147,10 @@ Cronos Bot / Cronosbot
 	https://web.archive.org/web/19991127073931/http://www.clovenhoof.freeserve.co.uk/
 		cronos old page
 	there was an 0.5 release... it was the first release after the move to planet quake
+	https://web.archive.org/web/20020211234942/http://www.botepidemic.com/archives/4nov98-25nov98.shtml
+		?
+		ArwingX@aol.com
+		Chronobot
 Oak Bot
 	https://dukeworld.com/idgames2/quakec/bots/oak0405.zip
 	https://www.quaddicted.com/files/idgames2/quakec/bots/oak0405.zip

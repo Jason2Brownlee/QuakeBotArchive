@@ -151,6 +151,7 @@ http://www.parboil.quakeworld.ru/tappak/fbca102kt-rc1.zip
 http://www.planetquake.com/dl/dl.asp?cronos/hd_pak0.zip
 http://www.planetquake.com/dl/dl.asp?cronos/hd_progs.zip
 http://www.rmbwenw.nl/botarea51/files/xreaper/setup.exe
+http://www.telefragged.com/mirrors/mirror.pl?epidemic/frogbot012b.zip
 http://www.users.bigpond.com/clanslug/ClanV0.5Auto.zip
 http://www.users.bigpond.com/clanslug/ClanV0.6Auto.zip
 http://www.users.bigpond.com/clanslug/ClanV0.7HMan.zip
