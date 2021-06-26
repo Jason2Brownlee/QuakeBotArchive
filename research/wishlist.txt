@@ -124,6 +124,7 @@ http://www.cdrom.com/pub/idgames2/quakec/bots/btskn22.zip
 http://www.cdrom.com/pub/idgames2/quakec/bots/darkbt09.zip
 http://www.cdrom.com/pub/idgames2/quakec/bots/dmbt20b2.zip
 http://www.cdrom.com/pub/idgames2/quakec/bots/drkbot04.zip
+http://www.cdrom.com/pub/idgames2/quakec/bots/grdbot13.zip
 http://www.cdrom.com/pub/idgames2/quakec/bots/zeus203b.zip
 http://www.converted2.com/bloodmage/junk/FBMOD.ZIP
 http://www.dmsoul.mailru.com/botmatch/bm119gl.zip
