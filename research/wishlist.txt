@@ -32,6 +32,7 @@ ftp://ftp.telepac.pt/pub/idgames2/telefragged/metro/frogbot009.zip
 ftp://ftр.telefragged.com/рub/frogbotb009.ziр
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf006.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf010.zip
+ftp://numb.macquakeinfinity.com/numb/ctf/fbctf011.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf013.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf015.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf019.zip
