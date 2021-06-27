@@ -164,6 +164,7 @@ http://www.planetquake.com/botarea51/main/download.asp?name=ctfbotp071498u.zip
 http://www.planetquake.com/botarea51/main/download.asp?name=elim20b7.zip
 http://www.planetquake.com/botarea51/main/download.asp?name=gbotsrc.zip
 http://www.planetquake.com/botarea51/main/download.asp?name=xreaperb130.zip
+http://www.planetquake.com/botarea51/main/downloadmirror.asp?name=xreaperb130.zip
 http://www.planetquake.com/dl/dl.asp?cronos/hd_pak0.zip
 http://www.planetquake.com/dl/dl.asp?cronos/hd_progs.zip
 http://www.rmbwenw.nl/botarea51/files/xreaper/setup.exe
@@ -173,6 +174,8 @@ http://www.telefragged.com/mirrors/mirror.pl?epidemic/frogbot012b.zip
 http://www.users.bigpond.com/clanslug/ClanV0.5Auto.zip
 http://www.users.bigpond.com/clanslug/ClanV0.6Auto.zip
 http://www.users.bigpond.com/clanslug/ClanV0.7HMan.zip
+http://xmark.ausgamers.com/xkteams/xkteams1705.zip
+http://xmark.ausgamers.com/xkteams/xkteams1705s.zip
+http://xmark.ausgamers.com/xkteams/xkteams2.zip
 https://www.angelfire.com/pe/pent3/images/frogbot011.zip
 https://www.bluesnews.com/files/patches/bots/oak084.zip
-
