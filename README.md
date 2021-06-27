@@ -134,7 +134,6 @@ TD2 Mech Bot | ? | [mech.zip](bin/mech.zip)
 Team FMOD | "Shelob" | stfm10.zip
 Team Fortress Bots | Darryl Atchison aka "coffee" | [tf_bots07.zip](bin/tf_bots07.zip)
 TeamFortress Bot | Valery Schedrin aka "Forthpick" | [teamfbot.zip](bin/teamfbot.zip)
-TFBot | "Plumb" | ?
 TFBots | Joern Strombach aka "Hoerno" | [tfbot080.zip](bin/tfbot080.zip)
 TFBots | Wolfgang Lehrach aka "GentleMan" | [tfbot077.zip](bin/tfbot077.zip) <br>[TFBot076.zip](bin/TFBot076.zip)<br>tfb-v07.zip
 The Alf | Bjorn-Erik Solli aka "Jack O. Trade" | nnctf.zip<br>nnsource.zip

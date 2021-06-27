@@ -835,11 +835,6 @@ TFBots (coffee)
 		JLsoft was a play tester...
 		https://www.reddit.com/user/JLsoft/
 		contacted on reddit re older versions
-TFBot (FrikbotX)
-	http://www.botepidemic.com/tfb/
-	https://web.archive.org/web/20020112065618/http://www.botepidemic.com/tfb/
-	Plumb
-	no files...
 TFBot (RainKing / GentleMan / Hoerno/Nexus)
 	https://web.archive.org/web/20000831165233/http://planetquake.com/botshop/quake.html
 	http://www.planetquake.com/tfbot
@@ -1343,11 +1338,21 @@ Goatbot
 	hellion21@hotmail.com
 	Nothing on the web about this...
 	???
+TFBot / Team Fortress Bot
+	https://web.archive.org/web/20020205130911/http://www.botepidemic.com/bin/newspro/archive/arc.shtml
+	January 6, 2002
+	http://www.botepidemic.com/tfb/
+	https://web.archive.org/web/20020112065618/http://www.botepidemic.com/tfb/
+	Frikbot based
+	Plumb
+	plumb@botepidemic.com
+	no release??? no files ever...?
+	???
 
 
 TODO
 ---------
-More digging todo here...
+More digging to do here...
 
 
 frogbot mods?
