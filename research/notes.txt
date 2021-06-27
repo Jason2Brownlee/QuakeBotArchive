@@ -1358,21 +1358,43 @@ More digging to do here...
 
 frogbot mods?
 	http://www.botepidemic.com/fmods/mods.htm
-	https://disenchant.net/blog/1999/0422/More_bot_stuff/
-		Kevin Shanahan
-	https://web.archive.org/web/20020214103444/http://www.botepidemic.com/fmods/mods.htm
-	mirrors
-		http://botepidemic.no-origin.net/fmods/tutorials.htm
-		https://www.quaddicted.com/forum/viewtopic.php?id=58&p=2
-		https://web.archive.org/web/20120213074253/http://botepidemic.no-origin.net/fmods/tutorials.htm
-	dig more bots out of here...
-	TODO
+		https://web.archive.org/web/20020214103444/http://www.botepidemic.com/fmods/mods.htm
+	http://botepidemic.no-origin.net/fmods/
+		https://web.archive.org/web/20100120074954/http://botepidemic.no-origin.net/fmods/
+	mods:
+		Asdf's FMOD
+		Combination of all previous Khol's FMODS
+		Motd FMOD
+		Mod Pak 1 version 12
+		Holo soldier
+		Lag simulation
+		Accuracy FMOD
+		Drop Ring/Quad FMOD
+		TeamTalk+ FMOD
+		Team FMOD
+		...
+	TODO, what are all these mods...?
 frikbot mods
-	https://web.archive.org/web/20000817070547/http://www.inside3d.com/frikbot/
-	dig more bots out of here...
-	TODO
+	http://www.inside3d.com/frikbot/
+		https://web.archive.org/web/20000817070547/http://www.inside3d.com/frikbot/
+	mods:
+		Q2 Weapons Project
+		Fist Fight
+		Slow Mo
+		Falling
+		Interesting Weapons Quake
+		Bondo's mods
+		Quake on Steroids
+	TODO, what are all these mods...?
 FBCA
 	not happy that I understand the history/releases of FBCA / FBCA + KT...
+Eliminator extensions
+	https://www.quaddicted.com/files/idgames2/quakec/bots/eliminator/
+	do we add all these? no? map support?
+	maybe we should add these somehow? how would it fit, e.g. not into the list...
+Reaper extensions
+	https://www.quaddicted.com/files/idgames2/quakec/bots/reaper/
+	do we add all these? no? just skins...
 
 
 
