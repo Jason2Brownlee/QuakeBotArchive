@@ -58,8 +58,10 @@ cdrom.com idgames2/quakec/bots Mirros
 	https://www.quaddicted.com/files/idgames2/quakec/bots
 	https://www.gamers.org/pub/idgames2/quakec/bots/
 	ftp://ftp.fu-berlin.de/pc/games/idgames2/quakec/bots/
+	ftp://ftp.fu-berlin.de/pc/msdos/games/idgames2/quakec/bots/
+	https://ftpmirror1.infania.net/pub/idgames2/quakec/bots/
 	http://web.archive.org/web/19961225222455/http://www.cdrom.com/pub/idgames2/quakec/bots/
-	(archive of web interface)
+		(archive of web interface)
 	https://archive.org/details/walnutcreekcdrom
 PlanetQuake Mirrors
 	https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/
@@ -69,12 +71,14 @@ PlanetQuake Mirrors
 Telefragged Mirrors
 	http://dukeworld.duke4.net/telefragged/
 	https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/
+	https://ia801303.us.archive.org/view_archive.php?archive=/33/items/AtomicGamer_telefragged/AtomicGamer_telefragged.tar
 bots united
 	http://bots-united.com/
 3ddownloads mirror
 	https://doomwiki.org/wiki/User:Shambler/3ddownloads_archive
 slipgate central bot
 	https://web.archive.org/web/19971210230311/http://www.slipgatecentral.com/Addons/Bots/
+
 
 
 guides:
