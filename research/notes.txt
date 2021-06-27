@@ -868,7 +868,7 @@ TFBot (RainKing / GentleMan / Hoerno/Nexus)
 	are there two tfbots???? or three
 	https://www.bluesnews.com/files/patches/bots/tfb-v076.zip
 	more research to do here...
-	Wolfgang Lehrach
+	Wolfgang Lehrach / RainKing
 		moved on from the project around: Sunday, November 16, 1997
 		https://www.bluesnews.com/archives/nov97-3.html
 POXbot / Paroxysm
@@ -1277,7 +1277,7 @@ Bots not added to the list yet, ongoing investigation...
 mod + bot
 ---------
 There are many "bot added to a mod" mods out there, do we add them all?
-
+Not sure I want to...
 
 quad hunt
 	http://users.skynet.be/bk236270/quad-hunt.htm
@@ -1305,6 +1305,7 @@ Cannibal Quake
 	http://members.xoom.com/gloomsfiles/cannibal.zip
 	Frikbot added to a mod, I think?
 	???
+
 
 No Info...
 ---------
@@ -1370,7 +1371,8 @@ frikbot mods
 	https://web.archive.org/web/20000817070547/http://www.inside3d.com/frikbot/
 	dig more bots out of here...
 	TODO
-
+FBCA
+	not happy that I understand the history/releases of FBCA / FBCA + KT...
 
 
 

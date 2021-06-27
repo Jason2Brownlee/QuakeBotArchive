@@ -10,35 +10,38 @@ randar's bot page
 	http://www.randars.com/bots/
 	http://www.users.qwest.net/~mimpchnk/
 		https://web.archive.org/web/20001109033100/http://www.users.qwest.net/~mimpchnk/
-bot epidemic
+botepidemic / bot epidemic
 	http://www.botepidemic.com
-	https://web.archive.org/web/20001027075424/http://www.botepidemic.com/bots/quake.shtml
-	https://web.archive.org/web/20000515000000*/http://www.botepidemic.com/bots/quake.shtml
-		I'd love a mirror of this server from back in the day.
-		Actually the hosted sites... like squarebot, koolio, fmods, etc.
-		telefragged / ze0 / ...
-	https://web.archive.org/web/20100123221300/http://botepidemic.no-origin.net/quake.shtml.htm
-		excellent mirror!
+		https://web.archive.org/web/20001027075424/http://www.botepidemic.com/bots/quake.shtml
+		https://web.archive.org/web/20000515000000*/http://www.botepidemic.com/bots/quake.shtml
+	http://botepidemic.impulse9.net
+		???
+	http://botepidemic.no-origin.net/quake.shtml.htm
+		https://web.archive.org/web/20100123221300/http://botepidemic.no-origin.net/quake.shtml.htm
 	zeo -> zeee0
 		http://www.forums.bots-united.com/showthread.php?t=5732
 quake terminus
 	https://www.quaketerminus.com/bots.shtml
-bot area 51
+botarea51 / bot area 51
 	http://www.rmbwenw.nl/botarea51/
 		https://web.archive.org/web/20020207004923/http://www.rmbwenw.nl/botarea51/
-	http://botarea51.impulse9.net
 	http://hosted.planetquake.gamespy.com/botarea51/main/default.asp
 		https://web.archive.org/web/20061031072726/http://hosted.planetquake.gamespy.com/botarea51/main/default.asp
 	http://www.planetquake.com/botarea51
 		https://web.archive.org/web/20020602140453/http://www.planetquake.com/botarea51/main/default.asp
-	https://www.quakewiki.net/archives/botarea51/main/qbots.html
-	https://www.quakewiki.net/archives/botarea51/main/history.html
-	(a mirror of botarea51 *files* would be really cool....) I really need the xreaper...
-bot shop
-	https://web.archive.org/web/20020116204802/http://www.planetquake.com/botshop/quake.html
-	https://www.quakewiki.net/archives/botshop/code.html
+	http://botarea51.impulse9.net
+		???
+	https://www.quakewiki.net/archives/botarea51
+		https://www.quakewiki.net/archives/botarea51/main/qbots.html
+		https://www.quakewiki.net/archives/botarea51/main/history.html
+botshop / bot shop
+	http://www.planetquake.com/botshop
+		https://web.archive.org/web/20020116204802/http://www.planetquake.com/botshop/quake.html
+	https://www.quakewiki.net/archives/botshop/
+		https://www.quakewiki.net/archives/botshop/code.html
 QCA
-	https://web.archive.org/web/20021019163323/http://www.planetquake.com/qca/reviews/
+	http://www.planetquake.com/qca/reviews/
+		https://web.archive.org/web/20021019163323/http://www.planetquake.com/qca/reviews/
 ai cafe links
 	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/links.htm
 fileplanet bots
@@ -49,10 +52,10 @@ quake preservation page
 	http://www.geocities.ws/oldquaker/pres1.html
 	all the client side bots...
 bot authors
-	https://web.archive.org/web/19990125084913/http://www.botauthors.org/
-	https://web.archive.org/web/19981206123951/http://www.botauthors.org/algorithms.html
-	https://web.archive.org/web/19981206123951/mailto:Boris.Wendt@Kiel.Netsurf.de
-bot emporium
+	http://www.botauthors.org/
+		https://web.archive.org/web/19990125084913/http://www.botauthors.org/
+		https://web.archive.org/web/19981206123951/http://www.botauthors.org/algorithms.html
+bot emporium (quake 2...)
 	https://www.quakewiki.net/archives/emporium.planetquake.gamespy.com/
 cdrom.com idgames2/quakec/bots Mirros
 	https://www.quaddicted.com/files/idgames2/quakec/bots
