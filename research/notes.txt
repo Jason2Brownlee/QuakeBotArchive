@@ -54,18 +54,24 @@ Reaper Bot
 		https://groups.google.com/g/rec.games.computer.quake.editing/c/c_8W-xBCc0g/m/abTNOXhICkAJ
 	https://web.archive.org/web/19970530203249/http://quakemecca.simplenet.com/files/downloads/reaprb75.txt
 ZeusBot
-	https://web.archive.org/web/20020821003701/http://www.planetquake.com/qca/reviews/patch52.htm
-	https://quake.fandom.com/wiki/Zeus_Bot
-	https://www.quaddicted.com/files/idgames2/quakec/bots/zeus205.zip
-	http://easttown.co.uk/quake/zeus.html
 	http://trailerpark.com/phase1/nelno
+		https://web.archive.org/web/19990701000000*/http://trailerpark.com/phase1/nelno
+	http://www.qchq.com/zeus
+		https://web.archive.org/web/19990701000000*/http://www.qchq.com/zeus
+	http://planetquake.com/qca/zeus/
+		https://web.archive.org/web/19990701000000*/http://www.planetquake.com/qca/zeus
+		https://web.archive.org/web/19970309231443/http://www.planetquake.com/qca/zeus/
+	http://www.planetquake.com/qca/reviews/patch52.htm
+		https://web.archive.org/web/20020821003701/http://www.planetquake.com/qca/reviews/patch52.htm
+	other
+		https://quake.fandom.com/wiki/Zeus_Bot
+		https://www.quaddicted.com/files/idgames2/quakec/bots/zeus205.zip
+		http://easttown.co.uk/quake/zeus.html
+		https://web.archive.org/web/19981203131409/http://www.planetquake.com/design/bots.html
 	old versions
 		https://www.bluesnews.com/files/zeus2042.zip
 		https://www.bluesnews.com/files/zeus204.zip
 	http://nelno.freeservers.com/contact.htm
-	https://web.archive.org/web/19981203131409/http://www.planetquake.com/design/bots.html
-	https://web.archive.org/web/19980218130242/http://planetquake.com/qca/zeus/
-	https://web.archive.org/web/19970611062404/mailto:nelno@resurrection.com
 Frogbot
 	http://www.telefragged.com/metro
 	1998-2000
@@ -253,24 +259,35 @@ QuakeBot / WarBot / QBot
 	http://homer.pacific.net.sg/~grinder/warbot.htm
 	https://web.archive.org/web/20001207140300/http://homer.pacific.net.sg/~grinder/warbot.htm
 Xreaper (reaper bot)
-	https://www.quakewiki.net/archives/botarea51/main/xreaper/default.html
-	https://www.quakewiki.net/archives/botarea51/main/xreaper/revision.html
-	http://www.fileplanet.com/dl.aspx?/planetquake/botarea51/xreaper/xreaperb130.zip
-	http://botarea51.impulse9.net/mirror/xreaper/xreaperb130.zip
-	xreaperb130.zip
-	https://www.quaketerminus.com/bots.shtml
+	http://www.rmbwenw.nl/botarea51/
+		https://web.archive.org/web/20010504230805/http://www.rmbwenw.nl/botarea51/
+		https://web.archive.org/web/20100123221300/http://www.rmbwenw.nl/botarea51/files/xreaper/setup.exe
+		setup.exe
+		circa 2001
+		Mephisto
+		1.21 to 1.22
+	http://www.planetquake.com/botarea51/main/xreaper/index.asp
+		http://web.archive.org/web/20020214000745/http://www.planetquake.com/botarea51/main/xreaper/index.asp
+		130
+		http://www.planetquake.com/botarea51/main/download.asp?name=xreaperb130.zip
+		xreaperb130.zip
+	https://web.archive.org/web/20030306124958/http://www.planetquake.com/botarea51/main/xreaper/default.asp
 	http://hosted.planetquake.gamespy.com/botarea51/main/xreaper/default.asp
-	https://web.archive.org/web/20070204161803/http://hosted.planetquake.gamespy.com/botarea51/main/xreaper/default.asp
-	Mephisto? yes
-		mp_51@dds.nl
-	Cannot find file...
-	???
-	https://web.archive.org/web/20100123221300/http://botepidemic.no-origin.net/quake.shtml.htm
-	https://web.archive.org/web/20100123221300/http://www.rmbwenw.nl/botarea51/files/xreaper/setup.exe
-	versions 1.21 to 1.22
-	https://www.quakewiki.net/archives/botarea51/main/xreaper/revision.html
+		http://hosted.planetquake.gamespy.com/botarea51/main/download.asp?name=xreaperb130.zip
+		http://hosted.planetquake.gamespy.com/botarea51/main/downloadmirror.asp?name=xreaperb130.zip
+	(mirror)
+	http://botarea51.impulse9.net/mirror/xreaper/xreaperb130.zip
+	(mirror)
+	http://botepidemic.no-origin.net/quake.shtml.htm
+		https://web.archive.org/web/20100123221300/http://botepidemic.no-origin.net/quake.shtml.htm
+	(mirror)
+	https://www.quakewiki.net/archives/botarea51/main/xreaper/default.html
+		https://www.quakewiki.net/archives/botarea51/main/xreaper/revision.html
+		http://www.fileplanet.com/dl.aspx?/planetquake/botarea51/xreaper/xreaperb130.zip
+	versions
 	1.00, 1.10, 1.20, 1.21, 1.22, 1.23, 1.30
 	https://spac1.net/files/view/xreaper-32896240/?Li=2319856&Lii=32896240&Link_id=1719241&Lt=1&Sn=15
+	(bad copy of the mod...)
 	Ruud 'Mephisto' Heemskerk
 	Ruud Heemskerk
 Estep Bot (EsTePBot)
