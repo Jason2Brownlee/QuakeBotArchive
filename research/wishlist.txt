@@ -49,8 +49,6 @@ ftp://quake.df.ru/pub/Quake/Bots/Omnicron/obots100.zip
 ftp://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/idgames2/telefragged/epidemic/frogbot012a.zip
 ftp://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/idgames2/telefragged/metro/frogbot007.zip
 ftp://ter.ort.spb.ru/Nico/Pathes/Bots/obot100.zip
-http://dl.fileplanet.com/dl/dl.asp?cronos/hd_cbots.zip
-http://dl.fileplanet.com/dl/dl.asp?cronos/hd_cbots_hd.zip
 http://first.quakegate.ru/bots/frogbot.rar
 http://freespace.virgin.net/w.james/DJbot1.zip
 http://groups.yahoo.com/group/friktf/files/friktf-051901.zip
@@ -147,8 +145,6 @@ http://www.parboil.mailru.com/parboil/fbca86se.zip
 http://www.parboil.newmail.ru/parboil/fbca86se.zip
 http://www.parboil.quakeworld.ru/parboil/fbma102_src.zip
 http://www.parboil.quakeworld.ru/tappak/fbca102kt-rc1.zip
-http://www.planetquake.com/dl/dl.asp?cronos/hd_pak0.zip
-http://www.planetquake.com/dl/dl.asp?cronos/hd_progs.zip
 http://www.rmbwenw.nl/botarea51/files/xreaper/setup.exe
 http://www.telefragged.com/mirrors/mirror.pl?epidemic/frogbot012.zip
 http://www.telefragged.com/mirrors/mirror.pl?epidemic/frogbot012a.zip
