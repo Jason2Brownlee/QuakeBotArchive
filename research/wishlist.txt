@@ -50,7 +50,6 @@ ftp://quake.df.ru/pub/Quake/Bots/Omnicron/obots100.zip
 ftp://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/idgames2/telefragged/epidemic/frogbot012a.zip
 ftp://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/idgames2/telefragged/metro/frogbot007.zip
 ftp://ter.ort.spb.ru/Nico/Pathes/Bots/obot100.zip
-http://botarea51.impulse9.net/mirror/bot/bgbot16_src.zip
 http://botarea51.impulse9.net/mirror/bot/ctfbotp071498u.zip
 http://botarea51.impulse9.net/mirror/bot/elim20b7.zip
 http://botarea51.impulse9.net/mirror/bot/gbotsrc.zip
@@ -131,7 +130,6 @@ http://www.cdrom.com/pub/idgames2/quakec/bots/zeus203b.zip
 http://www.converted2.com/bloodmage/junk/FBMOD.ZIP
 http://www.dmsoul.mailru.com/botmatch/bm119gl.zip
 http://www.dobbsnet.btinternet.co.uk/downloads/quake/dobbsbot15b.zip
-http://www.fileplanet.com/dl.aspx?/planetquake/botarea51/bot/bgbot16_src.zip
 http://www.fileplanet.com/dl.aspx?/planetquake/botarea51/bot/ctfbotp071498u.zip
 http://www.fileplanet.com/dl.aspx?/planetquake/botarea51/bot/elim20b7.zip
 http://www.fileplanet.com/dl.aspx?/planetquake/botarea51/bot/gbotsrc.zip
@@ -159,7 +157,6 @@ http://www.parboil.mailru.com/parboil/fbca86se.zip
 http://www.parboil.newmail.ru/parboil/fbca86se.zip
 http://www.parboil.quakeworld.ru/parboil/fbma102_src.zip
 http://www.parboil.quakeworld.ru/tappak/fbca102kt-rc1.zip
-http://www.planetquake.com/botarea51/main/download.asp?name=bgbot16_src.zip
 http://www.planetquake.com/botarea51/main/download.asp?name=ctfbotp071498u.zip
 http://www.planetquake.com/botarea51/main/download.asp?name=elim20b7.zip
 http://www.planetquake.com/botarea51/main/download.asp?name=gbotsrc.zip
