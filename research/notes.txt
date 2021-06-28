@@ -1322,6 +1322,12 @@ Cannibal Quake
 	http://members.xoom.com/gloomsfiles/cannibal.zip
 	Frikbot added to a mod, I think?
 	???
+The Force / Duel of the Fates mod
+	https://web.archive.org/web/20011219185608/http://qexpo.condemned.com/booths/booth.php?n=66
+	https://web.archive.org/web/20020413144551/http://204.50.28.112/qexpo/upload/100/force.txt
+	Frika C / Akuma
+	mod / tc
+	uses frikbots
 
 
 No Info...
@@ -1358,6 +1364,8 @@ Goatbot
 	???
 TFBot / Team Fortress Bot
 	https://web.archive.org/web/20020205130911/http://www.botepidemic.com/bin/newspro/archive/arc.shtml
+	https://web.archive.org/web/20020206225224/http://www.planetquake.com/botarea51/main/index.asp
+	https://web.archive.org/web/20020210131651/http://www.planetquake.com/quake1/
 	January 6, 2002
 	http://www.botepidemic.com/tfb/
 	https://web.archive.org/web/20020112065618/http://www.botepidemic.com/tfb/
@@ -1562,7 +1570,11 @@ q1 arena
 	http://www.quaketastic.com/files/single_player/mods/q1a_075.zip
 	???
 	engine + bots I think
-
+GloBot
+	tomaz quake
+	http://tomaz.snowcold.net/files.php
+	http://tomaz.snowcold.net/files/quake/GloBot_Tut.zip
+	engine bot
 
 
 
