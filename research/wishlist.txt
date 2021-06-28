@@ -19,7 +19,6 @@ ftp://ftp.cdrom.com/pub/idgames2/telefragged/metro/frogbot007.zip
 ftp://ftp.cdrom.com/pub/quake/quakec/bots/btsk22.zip
 ftp://ftp.cdrom.com/pub/quake/quakec/bots/dmbt21b1.zip
 ftp://ftp.cdrom.com/pub/quake/quakec/bots/doombot.zip
-ftp://ftp.cryogenius.com/pub/quake/gbotsrc.zip
 ftp://ftp.elogica.com.br/pub/warlock/brbot.exe
 ftp://ftp.pk.edu.pl/pub/games/id/quaketoys/mods/reaprb75.zip
 ftp://ftp.quake.odessa.net/pub/bots/f2k006d.zip
@@ -50,7 +49,6 @@ ftp://quake.df.ru/pub/Quake/Bots/Omnicron/obots100.zip
 ftp://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/idgames2/telefragged/epidemic/frogbot012a.zip
 ftp://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/idgames2/telefragged/metro/frogbot007.zip
 ftp://ter.ort.spb.ru/Nico/Pathes/Bots/obot100.zip
-http://botarea51.impulse9.net/mirror/bot/gbotsrc.zip
 http://botarea51.impulse9.net/mirror/xreaper/xreaperb130.zip
 http://dl.fileplanet.com/dl/dl.asp?cronos/hd_cbots.zip
 http://dl.fileplanet.com/dl/dl.asp?cronos/hd_cbots_hd.zip
@@ -127,7 +125,6 @@ http://www.cdrom.com/pub/idgames2/quakec/bots/zeus203b.zip
 http://www.converted2.com/bloodmage/junk/FBMOD.ZIP
 http://www.dmsoul.mailru.com/botmatch/bm119gl.zip
 http://www.dobbsnet.btinternet.co.uk/downloads/quake/dobbsbot15b.zip
-http://www.fileplanet.com/dl.aspx?/planetquake/botarea51/bot/gbotsrc.zip
 http://www.fileplanet.com/dl.aspx?/planetquake/botarea51/xreaper/xreaperb130.zip
 http://www.fileplanet.com/index.asp?file=22736
 http://www.gameaholic.com/deicide/download.cgi?/quakec/bots/darkbt10.zip
@@ -152,7 +149,6 @@ http://www.parboil.mailru.com/parboil/fbca86se.zip
 http://www.parboil.newmail.ru/parboil/fbca86se.zip
 http://www.parboil.quakeworld.ru/parboil/fbma102_src.zip
 http://www.parboil.quakeworld.ru/tappak/fbca102kt-rc1.zip
-http://www.planetquake.com/botarea51/main/download.asp?name=gbotsrc.zip
 http://www.planetquake.com/botarea51/main/download.asp?name=xreaperb130.zip
 http://www.planetquake.com/botarea51/main/downloadmirror.asp?name=xreaperb130.zip
 http://www.planetquake.com/dl/dl.asp?cronos/hd_pak0.zip
