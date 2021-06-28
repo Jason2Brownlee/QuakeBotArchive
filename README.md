@@ -135,8 +135,8 @@ TD2 Mech Bot | ? | [mech.zip](bin/mech.zip)
 Team FMOD | "Shelob" | stfm10.zip
 Team Fortress Bots | Darryl Atchison aka "coffee" | [tf_bots07.zip](bin/tf_bots07.zip)
 TeamFortress Bot | Valery Schedrin aka "Forthpick" | [teamfbot.zip](bin/teamfbot.zip)
-TFBots | Joern Strombach aka "Nexus" | [tfbot080.zip](bin/tfbot080.zip)
 TFBots | Jeff aka "wattsup" | [tfbot077.zip](bin/tfbot077.zip)<br>[TFBot076.zip](bin/TFBot076.zip)
+TFBots | Joern Strombach aka "Nexus" | [tfbot080.zip](bin/tfbot080.zip)
 TFBots | Wolfgang Lehrach aka "RainKing" | tfb-v07.zip
 The Alf | Bjorn-Erik Solli aka "Jack O. Trade" | nnctf.zip<br>nnsource.zip
 The Lone Gunmen QuakeBOT (Larva) | James Cullen aka "Jaymz" and Chris Cullen aka "Incubus" | [tlgbot.zip](bin/tlgbot.zip)
