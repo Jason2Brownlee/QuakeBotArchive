@@ -122,7 +122,6 @@ http://www.botepidemic.com/fmods/fbctf0532.zip
 http://www.botepidemic.com/fmods/hw_frogbot14h.zip
 http://www.botepidemic.com/fmods/versie.zip
 http://www.cdrom.com/pub/idgames2/incoming/zeus203b.zip
-http://www.cdrom.com/pub/idgames2/quakec/bots/btskn22.zip
 http://www.cdrom.com/pub/idgames2/quakec/bots/darkbt09.zip
 http://www.cdrom.com/pub/idgames2/quakec/bots/dmbt20b2.zip
 http://www.cdrom.com/pub/idgames2/quakec/bots/drkbot04.zip
