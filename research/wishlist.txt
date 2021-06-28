@@ -65,7 +65,6 @@ http://members.tripod.lycos.nl/koolpaddy/zips/paddybot02.zip
 http://members.xoom.com/eluan/WLBOT1.9.zip
 http://membro.intermega.com.br/gqc/tdbot1_0.zip
 http://pelit.saunalahti.fi/telenation/telefragged/be/fmods/fb013se.zip
-http://quakemecca.simplenet.com/files/downloads/files/downloads/cujo13.zip
 http://railgun.macquakeinfinity.com/downloads/fbctf024.zip
 http://railgun.macquakeinfinity.com/downloads/fbctf026.zip
 http://railgun.macquakeinfinity.com/downloads/fbctf030.zip
@@ -105,18 +104,15 @@ http://www.angelfire.com/co2/kooliobot/images/koolio.zip
 http://www.botepidemic.com/fmods/bm116se.zip
 http://www.botepidemic.com/fmods/demos/squaretst.zip
 http://www.botepidemic.com/fmods/fbca088se.zip
-http://www.botepidemic.com/fmods/fbca088se3.zip
 http://www.botepidemic.com/fmods/fbctf052.zip
 http://www.botepidemic.com/fmods/fbctf0532.zip
 http://www.botepidemic.com/fmods/hw_frogbot14h.zip
 http://www.botepidemic.com/fmods/versie.zip
-http://www.cdrom.com/pub/idgames2/incoming/zeus203b.zip
 http://www.cdrom.com/pub/idgames2/quakec/bots/darkbt09.zip
 http://www.cdrom.com/pub/idgames2/quakec/bots/dmbt20b2.zip
 http://www.cdrom.com/pub/idgames2/quakec/bots/drkbot04.zip
 http://www.cdrom.com/pub/idgames2/quakec/bots/grdbot13.zip
 http://www.cdrom.com/pub/idgames2/quakec/bots/rbot.zip
-http://www.cdrom.com/pub/idgames2/quakec/bots/zeus203b.zip
 http://www.converted2.com/bloodmage/junk/FBMOD.ZIP
 http://www.dmsoul.mailru.com/botmatch/bm119gl.zip
 http://www.dobbsnet.btinternet.co.uk/downloads/quake/dobbsbot15b.zip

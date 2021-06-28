@@ -30,7 +30,7 @@ ClanBots | "slug" | ClanV0.7HMan.zip<br>ClanV0.6Auto.zip<br>ClanV0.5Auto.zip
 Cronos Bot | "Cronos" | [hd_cbots_hd.zip](bin/hd_cbots_hd.zip)<br>[hd_cbots.zip](bin/hd_cbots.zip)<br>[hd_pak0.zip](bin/hd_pak0.zip)<br>[hd_progs.zip](bin/hd_progs.zip)<br>[cronobot107a.zip](bin/cronobot107a.zip)<br>[cbotpak106.zip](bin/cbotpak106.zip)<br>[cronobot101.zip](bin/cronobot101.zip)
 CTF Bot | Drew Davidson aka "BZ" | [ctfbot13b1.zip](bin/ctfbot13b1.zip) <br>[newctf12.zip](bin/newctf12.zip)<br>[ctfbot12.zip](bin/ctfbot12.zip)<br>[ctfbot11.zip](bin/ctfbot11.zip)
 CTFBot+ | Anthony Distler aka "*this" | [ctfbotp032399.zip](bin/ctfbotp032399.zip) <br>[ctfbotmw21.zip](bin/ctfbotmw21.zip)<br>[ctfbotp071498-upgrade.zip](bin/ctfbotp071498-upgrade.zip)<br>[ctfbotp071498u.zip](bin/ctfbotp071498u.zip)<br>[ctfbotp070498.zip](bin/ctfbotp070498.zip)<br>[ctfbot_060298.zip](bin/ctfbot_060298.zip)
-Cujo | Jonathan E. Wright | [cujo14.zip](bin/cujo14.zip)<br>cujo13.zip<br>cujo12c.zip<br>[cujo10.zip](bin/cujo10.zip)
+Cujo | Jonathan E. Wright | [cujo14.zip](bin/cujo14.zip)<br>[cujo13.zip](bin/cujo13.zip)<br>cujo12c.zip<br>[cujo10.zip](bin/cujo10.zip)
 Dark Frogbot | "Pinsolle" | darkfrog.zip
 Darkbot | Terry Hendrix aka "Dark_Skye" | [darkbot-fnl-q2.tar.gz](bin/darkbot-fnl-q2.tar.gz)<br>[darkbot_0.13.9-pak.zip](bin/darkbot_0.13.9-pak.zip)<br>[darkbot_0.13.9-src.zip](bin/darkbot_0.13.9-src.zip)<br>drkbt013.zip<br>[drkbt11b.zip](bin/drkbt11b.zip)<br>darkbt10.zip<br>darkbt09.zip<br>[darkbt07.zip](bin/darkbt07.zip)<br>drkbot04.zip<br>[drkbot03.zip](bin/drkbot03.zip)<br>[darkbt01.zip](bin/darkbt01.zip)<br>[darkbotx.zip](bin/darkbotx.zip)
 DarkCTF Bot | Terry Hendrix aka "Dark_Skye" | [darkctf13.zip](bin/darkctf13.zip)
@@ -152,7 +152,7 @@ Wisp | Iikka Paavolainen | [wisp.zip](bin/wisp.zip)
 WLBot | "[MATADOR]-[WL]" | [wlbot21.7z](bin/wlbot21.7z)<br>wlbot1.9.zip
 XKteams | Mark | xkteams2.zip<br>xkteams1705.zip<br>xkteams1705s.zip
 Xreaper | Ruud Heemskerk aka "Mephisto" | [xreaperb130.zip](bin/xreaperb130.zip)<br>[xreaperb130_unoff.zip](bin/xreaperb130_unoff.zip)<br>setup.exe
-Zeus Bot | Jonathan E. Wright aka "Nelno the Amoeba" | [zeus205.zip](bin/zeus205.zip)<br>[zeus_src.zip](bin/zeus_src.zip)<br>[zeus205s.zip](bin/zeus205s.zip)<br>[zeus2042.zip](bin/zeus2042.zip)<br>[zeus204.zip](bin/zeus204.zip)<br>zeus203b.zip<br>zeus202b.zip<br>[zeus10.zip](bin/zeus10.zip)
+Zeus Bot | Jonathan E. Wright aka "Nelno the Amoeba" | [zeus205.zip](bin/zeus205.zip)<br>[zeus_src.zip](bin/zeus_src.zip)<br>[zeus205s.zip](bin/zeus205s.zip)<br>[zeus2042.zip](bin/zeus2042.zip)<br>[zeus204.zip](bin/zeus204.zip)<br>[zeus203b.zip](bin/zeus203b.zip)<br>zeus202b.zip<br>[zeus10.zip](bin/zeus10.zip)
 
 File Column:
 - **?** Indicates I could not discover the name of the bot mod filename.
