@@ -1283,7 +1283,11 @@ xkteams
 	http://xmark.ausgamers.com/xkteams/xkteams1705s.zip
 	frikbot extension
 	mark
-
+Frikbot + CTF
+	http://www.bendarling.net/index.php?page=mods
+	Benjamin Darling aka "Electro"
+	file provided by author
+	frikbotCTF_01.zip
 
 
 RESEARCHING...
