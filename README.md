@@ -58,7 +58,6 @@ FrikBot + Head Hunters | Chuck Parsons | hhbot.zip
 FrikBot + Holy Wars | Ryan Smith aka "Frika C" | [frikholy.zip](bin/frikholy.zip)
 FrikBot + Last Man Standing | Raymond Martineau | [frik-lms.zip](bin/frik-lms.zip)
 FrikBot + MidAir + Kombat Teams | Alexey Pakhomov aka "ParboiL" | [fbma102.zip](bin/fbma102.zip)<br>fbma102_src.zip
-FrikBot + Midair | ? | [midairbots_all.zip](bin/midairbots_all.zip)<br>[midairbots.zip](bin/midairbots.zip)
 FrikBot + PainKeep | Ryan Smith aka "Frika C" | [frikpk.zip](bin/frikpk.zip)
 FrikBot + PerQuake | Ryan Smith aka "Frika C" | [frikper.zip](bin/frikper.zip)
 FrikBot + QuakeWorld | Ryan Smith aka "Frika C" | [frkqw01.zip](bin/frkqw01.zip)
@@ -100,6 +99,7 @@ Lightning Gun Competition (LGC) | Phil aka "peheyele" | [lgc3.zip](bin/lgc3.zip)
 Lithium CTF Bot | Juan Ignacio Rava aka "Johnny" | [lith091c.zip](bin/lith091c.zip)
 LoydBot | Loyd aka "Juninho" | [lbotv10.zip](bin/lbotv10.zip)
 MaNiAcBot | Michael Turitzin aka "MaNiAc" | [maniacbt.zip](bin/maniacbt.zip)<br>maniacbt12.zip<br>FBMOD.ZIP
+Midair Bots | ? | [midairbots_all.zip](bin/midairbots_all.zip)<br>[midairbots.zip](bin/midairbots.zip)
 MyBot | Stephen Vanterpool | [mybot16.zip](bin/mybot16.zip)<br>[mybot13a.zip](bin/mybot13a.zip)<br>[mybot.zip](bin/mybot.zip)
 Navy SEALs sQuad bots | William van der Sterren | [nseal201.zip](bin/nseal201.zip)<br>sqdbt201.zip
 Norse Bot (Movement) | Roscoe A. Sincero aka "Legion" | [btmv31.zip](bin/btmv31.zip) <br>botmove.zip
