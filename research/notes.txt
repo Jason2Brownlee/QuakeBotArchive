@@ -96,7 +96,10 @@ Frogbot
 	many versions
 		https://web.archive.org/web/20020214103406/http://www.botepidemic.com/fmods/ofiles.htm
 	interview
-		https://web.archive.org/web/20000607213411fw_/http://www.macquakeinfinity.com/frog.html
+		https://web.archive.org/web/20000607213411fw_/http://www.macquakeinfinity.com/frog.htm
+	All the "frogbot012.zip" out there are actually frogbot012c.zip
+		Can we find a real frogbot012.zip ????
+		Do we just host "frogbot012.zip" and ignore the issue?
 Optimized Frogbot
 	http://aminet.net/package/game/patch/frogbot
 	Christian Michael aka "surgeon"
@@ -1286,9 +1289,15 @@ Midair Bots / midairbot
 	http://trinca.quaddicted.com
 	Claimed to not be based on frikbot, readme claims it is
 	Got a copy from the author directly
-
-
-
+UrreBot
+	urrebot20050820.zip
+	Marko Permanto aka "Urre"
+	https://www.quaddicted.com/webarchive/forums.insideqc.com/viewtopic.php%3Ff=1&t=226.html
+	https://www.quakewiki.net/archives/features/articles/qexpo2005_b.shtml
+	http://qexpo.quakedev.com/booths.php?tag=urre
+		https://web.archive.org/web/20051225012450/http://qexpo.quakedev.com/booths.php?tag=urre
+		https://web.archive.org/web/20051225012450/http://qexpo.quakedev.com/uploaded/6/urrebot20050820.zip
+	urrebot20050820.zip
 
 
 RESEARCHING...

@@ -146,6 +146,7 @@ Total Destruction Bot (TDBot) | Rodrigo Marx aka "Shooter" | [TDBot.zip](bin/TDB
 TrevBot | Kris O'Shea | [trevbot.zip](bin/trevbot.zip)
 Tutor Bot + Holy Wars | Connor Caple aka "RiEvEr" | [holy_tb.zip](bin/holy_tb.zip)
 Tutor Bot | Darryl Atchison aka "coffee" | [tutor.zip](bin/tutor.zip)
+UrreBot | Marko Permanto aka "Urre" | [urrebot20050820.zip](bin/urrebot20050820.zip)
 Vicinity Bot | "Black" | vicinityqwprogs.zip
 Victim Bot | Tony Tang aka "The TangMaster" | [vbot11.zip](bin/vbot11.zip)<br>[vbot1.ZIP](bin/vbot1.ZIP)
 WarBot | Muhammad Hidayat Bin Sman | warbt13a.zip
