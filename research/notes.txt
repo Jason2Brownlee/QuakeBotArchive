@@ -1274,6 +1274,11 @@ Frikbot + CTF
 	Benjamin Darling aka "Electro"
 	file provided by author
 	frikbotCTF_01.zip
+Frogbot Physics
+	just movement code
+	https://dukeworld.com/planetquake/botshop/frogphys00.zip
+	https://dukeworld.com/planetquake/botshop/frogphys001.zip
+
 
 
 RESEARCHING...
