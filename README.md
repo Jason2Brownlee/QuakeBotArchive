@@ -188,7 +188,7 @@ Perhaps you can help to make this bot archive more complete.
 * Do you know how to contact a bot mod author?
 * Do you have access to an archive of a Quake website from back in the day?
 
-If you have additional information or updates please contact me directly: jason.brownlee05@gmail.com
+If you can help, please contact me directly: jason.brownlee05@gmail.com
 
 Also, I have a wishlist of broken bot URLs that maybe you can help with:
 

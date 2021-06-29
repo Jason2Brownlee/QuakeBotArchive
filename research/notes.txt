@@ -1309,6 +1309,13 @@ OrionBots
 	https://www.quaddicted.com/webarchive/forums.insideqc.com/viewtopic.php%3Ff=5&t=794.html
 	by "Orion"
 	reelased oct 2007
+	http://planetquake.gamespy.com/quake1/index42b8.html?start_from=25&category_id=2
+	http://forums.inside3d.com/viewtopic.php?t=635
+		https://web.archive.org/web/20070630064754/http://forums.inside3d.com/viewtopic.php?t=635
+	http://shub-hub.com/files/mods_multiplayer/orionbots_qc_beta5_2.zip
+
+
+
 
 
 
@@ -1642,6 +1649,13 @@ havocbot
 	http://quakeone.com/forum/quake-help/servers-and-coding/12703-quakec-bots
 	engine bot, darkplaces?
 	???
+Monster Deathmatch
+	http://www.quaketastic.com/upload/files/multiplayer/mods/monster_dm.zip
+	http://www.quaketastic.com/upload/files/multiplayer/mods/mondm_patch.zip
+	http://www.quaketastic.com/upload/files/multiplayer/mods/monsterdm_vmodels.zip
+	"Orion"
+	play as monsters in deathmatch...
+
 
 
 
