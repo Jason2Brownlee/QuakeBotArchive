@@ -1219,17 +1219,6 @@ LGC
 	lgc2.zip
 	lgc2c.zip
 	lgc.zip
-Frikbot + Midair
-	midairbots.zip
-	https://www.quaddicted.com/webarchive/ftp.clan-rum.org/quake/bots/midairbots.zip
-	https://www.celephais.net/board/view_thread.php?id=1&start=26066&end=26090
-	Frikbot extension + Midair
-	Parboil ?
-	extension
-		FrikBot MidAir 1.02
-		https://web.archive.org/web/20060721151615if_/http://www.parboil.quakeworld.ru/parboil/fbma102.zip
-	same thing.
-	nope
 LoydBot
 	LoydBot v1.0 - By Juninho
 	loyd@quake-br.com.br
@@ -1278,6 +1267,27 @@ Frogbot Physics
 	just movement code
 	https://dukeworld.com/planetquake/botshop/frogphys00.zip
 	https://dukeworld.com/planetquake/botshop/frogphys001.zip
+Frikbot + Midair / FrikBot + MidAir + Kombat Teams
+	FrikBot MidAir 1.02
+	Alexey Pakhomov aka "ParboiL"
+	https://web.archive.org/web/20060721151615if_/http://www.parboil.quakeworld.ru/parboil/fbma102.zip
+	fbma102.zip
+	fbma102_src.zip
+Midair Bots / midairbot
+	midairbots.zip
+	https://www.quaddicted.com/webarchive/ftp.clan-rum.org/quake/bots/midairbots.zip
+	midairbots.zip
+	https://www.celephais.net/board/view_thread.php?id=1&start=26066&end=26090
+	ftp://ftp.clan-rum.org/quake/bots/midairbots.zip
+	Benjamin Darling aka "Electro" and "Vomit"
+	http://www.bendarling.net/index.php?page=mods
+	https://www.quakeworld.nu/forum/topic/309/37295/frogbots/
+		http://trinca.no.sapo.pt/qwprogs.dat
+	http://trinca.quaddicted.com
+	Claimed to not be based on frikbot, readme claims it is
+	Got a copy from the author directly
+
+
 
 
 
