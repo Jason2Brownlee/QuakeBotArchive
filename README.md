@@ -114,7 +114,6 @@ QCBot | Alan Kivlin aka "Virtuoso" | [qcbot003.zip](bin/qcbot003.zip) <br>qcbot0
 Quake Bot (QBot) | "Grinder" | [qbot11.zip](bin/qbot11.zip)
 R Bot | Ross Johnson aka "ColdKill" | [rbot70.zip](bin/rbot70.zip)<br>[rbot20.zip](bin/rbot20.zip)<br>rbot.zip
 RABot | Rodrigo Marx aka "Shooter" | [MWRRABOT222CL.ZIP](bin/MWRRABOT222CL.ZIP)<br>[rabot.zip](bin/rabot.zip)
-Reapa | Terry Hendrix II aka "Mongoose" | ?
 Reaper + DM4 | "Hades" | [dm4reaper.zip](bin/dm4reaper.zip)
 Reaper + Painkeep | Bent Svendsen aka "Decker" | [pkbot.zip](bin/pkbot.zip)
 Reaper + Scourge of Armagon | Bent Svendsen aka "Decker" | [hipreap3.zip](bin/hipreap3.zip)

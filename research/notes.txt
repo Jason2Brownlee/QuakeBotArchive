@@ -492,17 +492,6 @@ Dj bot / Djbot / Djbot MK2 / DJBot
 	https://web.archive.org/web/19991008223853/mailto:dave.james1@virgin.net
 	https://web.archive.org/web/20000715000000*/http://freespace.virgin.net/w.james/DJbot1.zip
 	???
-Reapa
-	reaper clone
-	https://web.archive.org/web/20000831165233/http://planetquake.com/botshop/quake.html
-	https://web.archive.org/web/20000303070145/http://www.botepidemic.com/bots/quake.shtml
-	Terry 'DS' Hendrix
-	Dark_Skye / DS / Mongoose /
-	https://www.quakewiki.net/archives/botshop/code/index.html
-	https://www.linkedin.com/in/terry-hendrix-ii-43935610/
-	https://www.hendrixgames.com/about/
-	Mongoose
-	https://social.hendrixgames.com/thendrix
 Eliminator (reaper) v2
 	reaper clone
 	https://www.quakewiki.net/archives/botarea51/main/qbot3773.html?id=27
@@ -1391,7 +1380,18 @@ shockbot
 	by Benjamin Darling aka "Electro"
 		https://www.quakeworld.nu/profiles/1389
 	no release...
-
+Reapa
+	reaper clone
+	https://web.archive.org/web/20000831165233/http://planetquake.com/botshop/quake.html
+	https://web.archive.org/web/20000303070145/http://www.botepidemic.com/bots/quake.shtml
+	Terry 'DS' Hendrix
+	Dark_Skye / DS / Mongoose /
+	https://www.quakewiki.net/archives/botshop/code/index.html
+	https://www.linkedin.com/in/terry-hendrix-ii-43935610/
+	https://www.hendrixgames.com/about/
+	Mongoose
+	https://social.hendrixgames.com/thendrix
+	no release...
 
 TODO
 ---------
