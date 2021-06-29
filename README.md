@@ -155,7 +155,6 @@ Xreaper | Ruud Heemskerk aka "Mephisto" | [xreaperb130.zip](bin/xreaperb130.zip)
 Zeus Bot | Jonathan E. Wright aka "Nelno the Amoeba" | [zeus205.zip](bin/zeus205.zip)<br>[zeus_src.zip](bin/zeus_src.zip)<br>[zeus205s.zip](bin/zeus205s.zip)<br>[zeus2042.zip](bin/zeus2042.zip)<br>[zeus204.zip](bin/zeus204.zip)<br>[zeus203b.zip](bin/zeus203b.zip)<br>zeus202b.zip<br>[zeus10.zip](bin/zeus10.zip)
 
 File Column:
-- **?** Indicates I could not discover the name of the bot mod filename.
 - **no link** Indicates I discovered the filename but could not find a copy of the file to archive.
 
 ## About This Project
