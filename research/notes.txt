@@ -1298,6 +1298,18 @@ UrreBot
 		https://web.archive.org/web/20051225012450/http://qexpo.quakedev.com/booths.php?tag=urre
 		https://web.archive.org/web/20051225012450/http://qexpo.quakedev.com/uploaded/6/urrebot20050820.zip
 	urrebot20050820.zip
+	http://urre.quakedev.com/
+		https://web.archive.org/web/20050205163711/http://urre.quakedev.com/
+		https://web.archive.org/web/20060827040841/http://urre.quakedev.com/
+OrionBots
+	http://shub-hub.quaddicted.com/files/mods_multiplayer/orionbots_v2.zip
+	orionbots_qc_beta5.zip
+	orionbots_v2.zip
+	orionbots4rel.zip
+	https://www.quaddicted.com/webarchive/forums.insideqc.com/viewtopic.php%3Ff=5&t=794.html
+	by "Orion"
+	reelased oct 2007
+
 
 
 RESEARCHING...
@@ -1626,6 +1638,10 @@ GloBot
 	http://tomaz.snowcold.net/files.php
 	http://tomaz.snowcold.net/files/quake/GloBot_Tut.zip
 	engine bot
+havocbot
+	http://quakeone.com/forum/quake-help/servers-and-coding/12703-quakec-bots
+	engine bot, darkplaces?
+	???
 
 
 
