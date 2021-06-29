@@ -1374,6 +1374,19 @@ TFBot / Team Fortress Bot
 	plumb@botepidemic.com
 	no release??? no files ever...?
 	???
+shockbot
+	https://www.quakeworld.nu/forum/topic/2877/recommended-bots
+	https://www.quakeworld.nu/forum/topic/3418/43099/faithful-weapon-remakes/
+	https://www.quakeworld.nu/forum/topic/5327/64596/bots-the-pros-and-cons-what/
+		https://www.youtube.com/watch?v=qhUl0eRZ1ZY&ab_channel=electroAU
+		https://www.youtube.com/watch?v=bIBPrCvxAl4&ab_channel=electroAU
+		https://www.youtube.com/watch?v=zycwWMylaTA&ab_channel=electroAU
+	http://www.bendarling.net/index.php?page=mods
+	https://celephais.net/board/view_thread.php?id=1&start=16888&end=16912
+	http://quakeone.com/forum/quake-mod-releases/works-in-progress/4193-faithful-weapon-remakes
+	by Benjamin Darling aka "Electro"
+		https://www.quakeworld.nu/profiles/1389
+	no release...
 
 
 TODO
@@ -1420,6 +1433,12 @@ Eliminator extensions
 Reaper extensions
 	https://www.quaddicted.com/files/idgames2/quakec/bots/reaper/
 	do we add all these? no? just skins...
+frikbot waypoints?
+	DefinitiveFrikbotWaypackV2.zip
+	http://quakeone.com/forum/quake-mod-releases/finished-works/5313-the-definitive-frikbot-waypack
+	https://www.quakeworld.nu/forum/topic/5198/62426/the-definitive-frikbot-waypack-vers/
+	https://www.quakeworld.nu/forum/topic/5198
+	http://forums.insideqc.com/viewtopic.php?f=4&t=3343
 
 
 
