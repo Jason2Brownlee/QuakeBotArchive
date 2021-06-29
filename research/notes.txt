@@ -544,9 +544,6 @@ bot skeleton
 	email addresses
 		http://www.insideqc.com/modindex/qreview/patch7.shtml
 	???
-Elima-Reaper / Elima Reaper
-	http://www.insideqc.com/modindex/qreview/patch9-1.shtml
-	Roscoe A. Sincero
 Killer QCBot
 	http://www.insideqc.com/modindex/qreview/killer.shtml
 	http://www.engr.csulb.edu/~thomason/bot
@@ -1326,6 +1323,7 @@ The Force / Duel of the Fates mod
 No Info...
 ---------
 A sign of a bot, but not enough confirmation to add to the main list yet...
+Must have a name and a filename (public release).
 
 Unknown Bot
  	https://web.archive.org/web/20100123221300/http://botepidemic.no-origin.net/quake.shtml.htm
@@ -1392,6 +1390,12 @@ Reapa
 	Mongoose
 	https://social.hendrixgames.com/thendrix
 	no release...
+Elima-Reaper / Elima Reaper
+	http://www.insideqc.com/modindex/qreview/patch9-1.shtml
+	Roscoe A. Sincero
+
+
+
 
 TODO
 ---------
