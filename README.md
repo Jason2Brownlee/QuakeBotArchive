@@ -175,10 +175,10 @@ The list below summarizes the subdirectories of extra bot files in the archive.
 Bot Name | Description | Subdirectory
 --- | --- | ---
 Eliminator Bots | Map support for eliminator bots. | [eliminator/](bin/eliminator/)
-FrikBots | Map support for frikbots. | [frikbot/](bin/frikbot/)
-FrogBots | Map support for frogbots. | [frogbot/](bin/frogbot/)
+FrikBots | Map support and tools for frikbots. | [frikbot/](bin/frikbot/)
+FrogBots | Map support and sample code for frogbots. | [frogbot/](bin/frogbot/)
 Omicron Bots | Map support for omicron. | [omicron/](bin/omicron/)
-Reaper Bots | Additional skins and configuration for reaper bots. | [reaper/](bin/reaper/)
+Reaper Bots | Additional skins for reaper bots. | [reaper/](bin/reaper/)
 Other | Sample code and skeleton code for bots. | [other/](bin/other/)
 
 
