@@ -97,6 +97,7 @@ Kooliobot | Robert de Heus aka "Koolio" | [kooliobot.zip](bin/kooliobot.zip)<br>
 Lightning Gun Competition (LGC) | Phil aka "peheyele" | [lgc3.zip](bin/lgc3.zip)<br>[lgc2c.zip](bin/lgc2c.zip)<br>[lgc2.zip](bin/lgc2.zip)<br>lgc.zip
 Lithium CTF Bot | Juan Ignacio Rava aka "Johnny" | [lith091c.zip](bin/lith091c.zip)
 LoydBot | Loyd aka "Juninho" | [lbotv10.zip](bin/lbotv10.zip)
+MaNiAc's FrogBot MOD (lag simulation) | Michael Turitzin aka "MaNiAc" | [lagmod.zip](bin/lagmod.zip)
 MaNiAcBot | Michael Turitzin aka "MaNiAc" | [maniacbt.zip](bin/maniacbt.zip)<br>maniacbt12.zip<br>FBMOD.ZIP
 MegaBot | "Vic" | [megabot.zip](bin/megabot.zip)
 Midair Bots | Benjamin Darling aka "Electro" and "Vomit" | [midair_qwbot.rar](bin/midair_qwbot.rar)<br>[midairbots_all.zip](bin/midairbots_all.zip)<br>[midairbots.zip](bin/midairbots.zip)

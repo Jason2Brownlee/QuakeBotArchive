@@ -1478,7 +1478,6 @@ frogbot mods?
 		Motd FMOD
 		Mod Pak 1 version 12
 		Holo soldier
-		Lag simulation
 		Accuracy FMOD
 		Drop Ring/Quad FMOD
 		TeamTalk+ FMOD
