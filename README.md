@@ -104,7 +104,6 @@ MegaBot | "Vic" | [megabot.zip](bin/megabot.zip)
 Midair Bots | Benjamin Darling aka "Electro" and "Vomit" | [midair_qwbot.rar](bin/midair_qwbot.rar)<br>[midairbots_all.zip](bin/midairbots_all.zip)<br>[midairbots.zip](bin/midairbots.zip)
 MyBot | Stephen Vanterpool | [mybot16.zip](bin/mybot16.zip)<br>[mybot13a.zip](bin/mybot13a.zip)<br>[mybot.zip](bin/mybot.zip)
 Navy SEALs sQuad bots | William van der Sterren | [nseal201.zip](bin/nseal201.zip)<br>sqdbt201.zip
-Norse Bot (Movement) | Roscoe A. Sincero aka "Legion" | [btmv31.zip](bin/btmv31.zip) <br>botmove.zip
 Ogre Bot | "Lava Man" | [ogrebot.zip](bin/ogrebot.zip)
 Omicron Bot | Jan Paul van Waveren aka "Mr. Elusive" and Miklos de Rijk aka "H2SO4" | [obots102.zip](bin/obots102.zip)<br>[obots101.zip](bin/obots101.zip)<br>obots100.zip
 Omicron Fixes | Joel Baxter aka "Johnny Law" | [obots102-fixed.zip](bin/obots102-fixed.zip)
@@ -183,6 +182,7 @@ FrikBots | Map support for frikbots. | [frikbot/](bin/frikbot/)
 FrogBots | Map support for frogbots. | [frogbot/](bin/frogbot/)
 Omicron Bots | Map support for omicron. | [omicron/](bin/omicron/)
 Reaper Bots | Additional skins and configuration for reaper bots. | [reaper/](bin/reaper/)
+Other | Sample code and skeleton code for bots. | [other/](bin/other/)
 
 
 
