@@ -167,7 +167,7 @@ File Column:
 
 Many bots have extra files that are not part of the main bot release.
 
-This may include sample code or code skeletons, waypoint or route files for supported maps (required for bot navigation), additional bot configurations or configuration <tfoot></tfoot>ls, and replacement bot models or skins.
+This may include sample code or code skeletons, waypoint or route files for supported maps (required for bot navigation), additional bot configurations or configuration tools, and replacement bot models or skins.
 
 These extra files are stored in the bot archive under the [bin/](bin/) directory organized by a subdirectory named for the bot.
 
