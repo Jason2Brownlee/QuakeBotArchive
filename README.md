@@ -81,7 +81,6 @@ Frogbot + Rocket Arena | Brian Mathiasen aka "Erazor" | fbarena013.zip
 Frogbot 2000 | Dennis de Boer aka "Justice" | [f2k006d.zip](bin/f2k006d.zip)<br>versie.zip<br>[f2k003c.zip](bin/f2k003c.zip)<br>f2k001a.zip<br>2000.zip
 Frogbot BotMatch Arena | Alex aka "DmSouL" | [botmatch.ZIP](bin/botmatch.ZIP) <br>[source_of_bm.ZIP](bin/source_of_bm.ZIP)<br>bm119gl.zip<br>bm116se.zip
 Frogbot Deathmatch | Alexey Pakhomov aka "ParboiL" | [fbdm012.zip](bin/fbdm012.zip)
-Frogbot Physics | Robert Field aka "Frog" | [frogphys001.zip](bin/frogphys001.zip)<br>[frogphys00.zip](bin/frogphys00.zip)
 Frogbot Special Edition | Brian Mathiasen aka "Erazor" | fb013se.zip
 Frogbot | Robert Field aka "Frog" | [frogbot013.zip](bin/frogbot013.zip)<br>[frogfix1.zip](bin/frogfix1.zip)<br>fixedsrc.zip<br>frog_src.zip<br>fbph.zip<br>[frogbot012c.zip](bin/frogbot012c.zip)<br>frogbot012b.zip<br>frogbot012a.zip<br>frogbot012.zip<br>frogbot011b.zip<br>frogbot011.zip<br>frogbot009.zip<br>frogbot007.zip<br>frogbot005.zip<br>frogbot000.zip<br>
 Gideon Bot | Matthew Turvey | [gidbot.zip](bin/gidbot.zip)
@@ -183,7 +182,6 @@ Reaper Bots | Additional skins and configuration for reaper bots. | [reaper/](bi
 Other | Sample code and skeleton code for bots. | [other/](bin/other/)
 
 
-
 ## About This Project
 
 Quake is a computer game released by id Software in 1996. The source code (QuakeC) that controls the game was released at around the same time.
@@ -199,6 +197,7 @@ There is no definitive list of Quake bots nor single location from which they ca
 This project seeks to archive and make available all Quake bot modifications in their original distributed form, mostly .zip files that may contain binary files and/or source code.
 
 In addition, the project also seeks to locate and make available all versions of modifications (e.g. older versions) as well as binaries and source code for mods that may not have been made public (e.g. contributed by bot authors directly).
+
 
 ## How You Can Help
 
