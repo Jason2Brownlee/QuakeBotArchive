@@ -170,7 +170,7 @@ File Column:
 
 Many bots have extra files that are not part of the main bot release.
 
-This may include waypoint files for supported maps (required for bot navigation), additional bot configurations or configuration tools, and replacement bot models or skins.
+This may include sample code or code skeletons, waypoint files for supported maps (required for bot navigation), additional bot configurations or configuration tools, and replacement bot models or skins.
 
 These extra files are stored in the bot archive under the bin/ directory organized by a subdirectory named for the bot.
 
@@ -180,6 +180,7 @@ Bot Name | Description | Subdirectory
 --- | --- | ---
 Eliminator Bots | Map support for eliminator bots. | [eliminator/](bin/eliminator/)
 FrikBots | Map support for frikbots. | [frikbot/](bin/frikbot/)
+FrogBots | Map support for frogbots. | [frogbot/](bin/frogbot/)
 Reaper Bots | Additional skins and configuration for reaper bots. | [reaper/](bin/reaper/)
 
 
