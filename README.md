@@ -166,13 +166,13 @@ File Column:
 - **no link** Indicates I discovered the filename but could not find a copy of the file to archive.
 
 
-## Quake Bot Map Support and Extras
+## Quake Bot Extra Files
 
-Many bots require special map support, such as the preparation of waypoint files for each map supported by the bot.
+Many bots have extra files that are not part of the main bot release.
 
-As such, there are many additional or extra files that are required to use some bots.
+This may include waypoint files for supported maps (required for bot navigation), additional bot configurations or configuration tools, and replacement bot models or skins.
 
-These extra files are stored in the archive under the bin/ directory organized by a subdirectory named for the bot.
+These extra files are stored in the bot archive under the bin/ directory organized by a subdirectory named for the bot.
 
 The list below summarizes the subdirectories of extra bot files in the archive.
 
