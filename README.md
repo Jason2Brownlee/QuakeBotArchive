@@ -41,6 +41,7 @@ DM Bot | Nathaniel Gorham | [dmbot1.zip](bin/dmbot1.zip)
 DOBBSBot | Stephen Dobbs | [dobbsbot15bwp.zip](bin/dobbsbot15bwp.zip)<br>dobbsbot15b.zip<br>[dobbsbot15a.zip](bin/dobbsbot15a.zip)
 Doombot | Roscoe A. Sincero aka "Legion" | [dmbt21b3.zip](bin/dmbt21b3.zip)<br>dmbt21b1.zip<br>dmbt20b2.zip<br>doombot.zip
 Drastic Reaper Bot | Mark Wheeler | [dreaper.zip](bin/dreaper.zip)
+Drop Quad/Ring (FMOD) | Brian Mathiasen aka "EraZoR" | [Quadring.zip](bin/Quadring.zip)
 EdBot | Edward Dawson aka "HotCakes" | [edbot0-04.zip](bin/edbot0-04.zip) <br>[edbotsrc0-04.zip](bin/edbotsrc0-04.zip)
 ELFBOt | "SkinSki" aka "MauveBib" | [elfbot.zip](bin/elfbot.zip)
 Eliminator Bot (CBot) | Cameron B. Newham | [elim14.zip](bin/elim14.zip)<br>[elimsrc.zip](bin/elimsrc.zip)<br>[elim12.zip](bin/elim12.zip)<br>[elim11.zip](bin/elim11.zip)<br>elim10.zip
@@ -179,7 +180,7 @@ Bot Name | Description | Subdirectory
 Eliminator Bots | Map support for eliminator bots. | [eliminator/](bin/eliminator/)
 FrikBots | Map support and tools for frikbots. | [frikbot/](bin/frikbot/)
 FrogBots | Map support and sample code for frogbots. | [frogbot/](bin/frogbot/)
-Omicron Bots | Map support for omicron. | [omicron/](bin/omicron/)
+Omicron Bots | Map support for omicron bots. | [omicron/](bin/omicron/)
 Reaper Bots | Additional skins for reaper bots. | [reaper/](bin/reaper/)
 Other | Sample code and skeleton code for bots. | [other/](bin/other/)
 
