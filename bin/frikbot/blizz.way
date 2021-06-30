@@ -1,0 +1,129 @@
+// begin waypoint dump - maps/blizz.way
+saved1 512.0; saved2 -466.1; saved3 -178.0
+scratch1 3; scratch2 2; scratch3 10; scratch4 0
+saved4 1; wait
+saved1 502.0; saved2 -270.1; saved3 -178.0
+scratch1 1; scratch2 4; scratch3 0; scratch4 0
+saved4 2; wait
+saved1 476; saved2 -656; saved3 -178.0
+scratch1 1; scratch2 0; scratch3 0; scratch4 0
+saved4 2; wait
+saved1 479.4; saved2 -75.8; saved3 -178.0
+scratch1 2; scratch2 5; scratch3 36; scratch4 37
+saved4 2; wait
+saved1 313.1; saved2  21.6; saved3 -178.0
+scratch1 4; scratch2 6; scratch3 37; scratch4 0
+saved4 2; wait
+saved1 119.5; saved2  14.3; saved3 -178.0
+scratch1 5; scratch2 7; scratch3 0; scratch4 0
+saved4 2; wait
+saved1 -18.1; saved2 -122.2; saved3 -178.0
+scratch1 6; scratch2 8; scratch3 0; scratch4 0
+saved4 2; wait
+saved1 -15.5; saved2 -314.0; saved3 -178.0
+scratch1 7; scratch2 9; scratch3 0; scratch4 0
+saved4 2; wait
+saved1  67.7; saved2 -494.3; saved3 -178.0
+scratch1 8; scratch2 10; scratch3 11; scratch4 0
+saved4 2; wait
+saved1 263.7; saved2 -520.0; saved3 -178.0
+scratch1 9; scratch2 1; scratch3 0; scratch4 0
+saved4 2; wait
+saved1 -127.2; saved2 -501.5; saved3 -178.0
+scratch1 9; scratch2 12; scratch3 8; scratch4 0
+saved4 2; wait
+saved1 -321.8; saved2 -523.9; saved3 -178.0
+scratch1 11; scratch2 13; scratch3 32; scratch4 0
+saved4 2; wait
+saved1 -496.8; saved2 -613.6; saved3 -178.0
+scratch1 12; scratch2 17; scratch3 0; scratch4 0
+saved4 10; wait
+saved1 361.5; saved2 390.7; saved3 -338.0
+scratch1 15; scratch2 17; scratch3 32; scratch4 0
+saved4 18; wait
+saved1 390.6; saved2 201.4; saved3 -338.0
+scratch1 14; scratch2 16; scratch3 0; scratch4 0
+saved4 2; wait
+saved1 331.0; saved2   7.8; saved3 -338.0
+scratch1 15; scratch2 18; scratch3 23; scratch4 20
+saved4 2; wait
+saved1 341.6; saved2 581.6; saved3 -338.0
+scratch1 14; scratch2 24; scratch3 32; scratch4 0
+saved4 18; wait
+saved1 148.6; saved2 -48.8; saved3 -338.0
+scratch1 16; scratch2 19; scratch3 20; scratch4 0
+saved4 2; wait
+saved1 -11.7; saved2 -165.1; saved3 -338.0
+scratch1 18; scratch2 20; scratch3 39; scratch4 0
+saved4 2; wait
+saved1  23.5; saved2 -354.7; saved3 -338.0
+scratch1 19; scratch2 21; scratch3 18; scratch4 16
+saved4 2; wait
+saved1 174.9; saved2 -481.9; saved3 -338.0
+scratch1 20; scratch2 22; scratch3 0; scratch4 0
+saved4 2; wait
+saved1 365.9; saved2 -475.9; saved3 -338.0
+scratch1 21; scratch2 23; scratch3 0; scratch4 0
+saved4 2; wait
+saved1 482.7; saved2 -320.6; saved3 -338.0
+scratch1 22; scratch2 16; scratch3 0; scratch4 0
+saved4 2; wait
+saved1 154.2; saved2 634.4; saved3 -338.0
+scratch1 17; scratch2 25; scratch3 0; scratch4 0
+saved4 2; wait
+saved1 -36.4; saved2 587.8; saved3 -338.0
+scratch1 24; scratch2 26; scratch3 17; scratch4 0
+saved4 2; wait
+saved1 -232.1; saved2 632.5; saved3 -338.0
+scratch1 25; scratch2 27; scratch3 28; scratch4 33
+saved4 2; wait
+saved1 -413.0; saved2 701.4; saved3 -338.0
+scratch1 26; scratch2 28; scratch3 33; scratch4 0
+saved4 2; wait
+saved1 -503.7; saved2 526.6; saved3 -333.1
+scratch1 27; scratch2 29; scratch3 26; scratch4 0
+saved4 2; wait
+saved1 -461.4; saved2 335.9; saved3 -301.7
+scratch1 28; scratch2 30; scratch3 26; scratch4 0
+saved4 2; wait
+saved1 -432.4; saved2 136.1; saved3 -268.8
+scratch1 29; scratch2 31; scratch3 0; scratch4 0
+saved4 2; wait
+saved1 -429.5; saved2 -62.1; saved3 -236.2
+scratch1 30; scratch2 32; scratch3 0; scratch4 0
+saved4 2; wait
+saved1 -413.5; saved2 -257.2; saved3 -204.1
+scratch1 31; scratch2 17; scratch3 0; scratch4 0
+saved4 10; wait
+saved1 113.5; saved2 711.0; saved3 -194.0
+scratch1 26; scratch2 34; scratch3 0; scratch4 0
+saved4 2; wait
+saved1 310.5; saved2 746.3; saved3 -178.0
+scratch1 33; scratch2 35; scratch3 0; scratch4 0
+saved4 2; wait
+saved1 472.9; saved2 643.9; saved3 -178.0
+scratch1 34; scratch2 36; scratch3 0; scratch4 0
+saved4 2; wait
+saved1 509.4; saved2 449.9; saved3 -178.0
+scratch1 35; scratch2 4; scratch3 38; scratch4 0
+saved4 2; wait
+saved1 512.0; saved2 117.0; saved3 -178.0
+scratch1 4; scratch2 38; scratch3 5; scratch4 0
+saved4 2; wait
+saved1 288.0; saved2 348.2; saved3 -150.0
+scratch1 36; scratch2 37; scratch3 0; scratch4 0
+saved4 2; wait
+saved1 -30.9; saved2  29.5; saved3 -338.0
+scratch1 19; scratch2 40; scratch3 16; scratch4 0
+saved4 2; wait
+saved1 -170.3; saved2 161.2; saved3 -338.0
+scratch1 39; scratch2 41; scratch3 0; scratch4 0
+saved4 2; wait
+saved1 -197.5; saved2 356.3; saved3 -338.0
+scratch1 40; scratch2 26; scratch3 0; scratch4 0
+saved4 2; wait
+saved1 200; saved2 -208; saved3 -178.0
+scratch1 0; scratch2 0; scratch3 0; scratch4 0
+saved4 2; wait
+saved4 3
+// end waypoint dump
