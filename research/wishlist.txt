@@ -21,7 +21,6 @@ ftp://ftp.cdrom.com/pub/quake/quakec/bots/dmbt21b1.zip
 ftp://ftp.cdrom.com/pub/quake/quakec/bots/doombot.zip
 ftp://ftp.elogica.com.br/pub/warlock/brbot.exe
 ftp://ftp.pk.edu.pl/pub/games/id/quaketoys/mods/reaprb75.zip
-ftp://ftp.quake.odessa.net/pub/bots/f2k006d.zip
 ftp://ftp.saix.net/pub/telefragged/metro/frogbot009.zip
 ftp://ftp.saix.net/pub/telefragged/metro/frogbot011b.zip
 ftp://ftp.stomped.com/pub/redwood/bots/oak0855.zip
@@ -56,7 +55,6 @@ http://groups.yahoo.com/group/friktf/files/friktf-092800-qw.zip
 http://groups.yahoo.com/group/friktf/files/friktf-092800.tar.gz
 http://home-4.worldonline.nl/~t625343/guardbot.zip
 http://home.t-online.de/home/0551705030/squirt10.zip
-http://mamuka.narod.ru/files/bots/f2k006d.zip
 http://members.nbci.com/nnctf.zip
 http://members.nbci.com/nnsource.zip
 http://members.tripod.com/mtm07/fbca085.zip
@@ -72,7 +70,6 @@ http://railgun.macquakeinfinity.com/downloads/fbctf030.zip
 http://shub-hub.quaddicted.com/files/mods_multiplayer/orionbots_v2.zip
 http://ssj4death.condemned.com/gb/gb027b.zip
 http://tux.telefragged.com/file.pl?filename=f2k001a.zip
-http://tux.telefragged.com/file.pl?filename=f2k006d.zip
 http://tux.telefragged.com/file.pl?filename=fb013se.zip
 http://tux.telefragged.com/file.pl?filename=fbca084.zip
 http://tux.telefragged.com/file.pl?filename=fbca085.zip
@@ -94,7 +91,6 @@ http://www.3ddownloads.com/?file_id=14369
 http://www.3ddownloads.com/?file_id=45791
 http://www.3ddownloads.com/showfile.php3?filename=2000.zip
 http://www.3ddownloads.com/showfile.php3?filename=darkfrog.zip
-http://www.3ddownloads.com/showfile.php3?filename=f2k006d.zip
 http://www.3ddownloads.com/showfile.php3?filename=fbarena013.zip
 http://www.3ddownloads.com/showfile.php3?filename=frogbot000.zip
 http://www.3ddownloads.com/showfile.php3?filename=maniacbt12.zip
@@ -107,7 +103,6 @@ http://www.botepidemic.com/fmods/bm116se.zip
 http://www.botepidemic.com/fmods/demos/squaretst.zip
 http://www.botepidemic.com/fmods/fbca088se.zip
 http://www.botepidemic.com/fmods/fbctf052.zip
-http://www.botepidemic.com/fmods/fbctf0532.zip
 http://www.botepidemic.com/fmods/hw_frogbot14h.zip
 http://www.botepidemic.com/fmods/versie.zip
 http://www.cdrom.com/pub/idgames2/quakec/bots/darkbt09.zip

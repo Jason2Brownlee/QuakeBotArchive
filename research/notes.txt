@@ -1441,6 +1441,7 @@ shockbot
 	http://quakeone.com/forum/quake-mod-releases/works-in-progress/4193-faithful-weapon-remakes
 	by Benjamin Darling aka "Electro"
 		https://www.quakeworld.nu/profiles/1389
+	Contacted author.
 	no release...
 Reapa
 	reaper clone
