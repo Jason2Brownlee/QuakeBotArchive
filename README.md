@@ -15,6 +15,7 @@ Alphabetical list of quake bot names, authors, and local download links for all 
 Bot Name | Bot Author(s) | File
 --- | --- | ---
 Ache | Athos Konkoran Kryn | [ache.zip](bin/ache.zip)
+AsdFMod | Matt McChesney aka "ASDF" | [asdfmod100.zip](bin/asdfmod100.zip)
 Attacker | Jonathan Geary | [attacker.zip](bin/attacker.zip)
 BGADM Bot | "Detour" | [bgadm101.zip](bin/bgadm101.zip) <br>bgadmbot.zip
 BGBot | Robert DeFilippo III aka "Punisher" | [bgbot20a.zip](bin/bgbot20a.zip)<br>[bgbot16.zip](bin/bgbot16.zip)<br>[bgbot16_src.zip](bin/bgbot16_src.zip)<br>[bgbot15.zip](bin/bgbot15.zip)<br>bgbot13.zip<br>bgbot125.zip<br>bgbot12.zip<br>[bgbot11.zip](bin/bgbot11.zip)<br>bgbot1.zip

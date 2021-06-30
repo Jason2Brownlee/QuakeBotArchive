@@ -1473,7 +1473,6 @@ frogbot mods?
 	http://botepidemic.no-origin.net/fmods/
 		https://web.archive.org/web/20100120074954/http://botepidemic.no-origin.net/fmods/
 	mods:
-		Asdf's FMOD
 		Combination of all previous Khol's FMODS
 		Motd FMOD
 		Mod Pak 1 version 12
