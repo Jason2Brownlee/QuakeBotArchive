@@ -123,6 +123,7 @@ ReaperFX Bot | A. W. Johnstone aka "Pob the Impaler" | [reaperfx.zip](bin/reaper
 Reformed Reaper Bot | "win32ch" | [rrbotprogs.zip](bin/rrbotprogs.zip) <br>[rrbotsrc.zip](bin/rrbotsrc.zip)
 Ric's Reaper Bots | "Ric" | [reap081h.zip](bin/reap081h.zip)
 Roam Bot | Carson Sutton aka "Crimson" | [roambot1.zip](bin/roambot1.zip)
+Rogue Bot | Benjamin Darling aka "Electro" | [Rbot.zip](bin/Rbot.zip)
 SamBot | Sam Stephens aka "Spam-man" | [sambot.zip](bin/sambot.zip)
 Sigmund Bot | Rich Whitehouse aka "thefatal" | [sigbot2.zip](bin/sigbot2.zip)
 Square Bot | Ashley Reynolds aka "Ze0" | squaretst.zip
