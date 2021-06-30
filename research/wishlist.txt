@@ -50,6 +50,8 @@ ftp://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/idgames2/telefragged/metro/
 ftp://ter.ort.spb.ru/Nico/Pathes/Bots/obot100.zip
 http://first.quakegate.ru/bots/frogbot.rar
 http://freespace.virgin.net/w.james/DJbot1.zip
+http://geocities.com/timessquare/hangar/8961/sq12to13.zip
+http://geocities.com/timessquare/hangar/8961/squirt12b.zip
 http://groups.yahoo.com/group/friktf/files/friktf-051901.zip
 http://groups.yahoo.com/group/friktf/files/friktf-092800-qw.zip
 http://groups.yahoo.com/group/friktf/files/friktf-092800.tar.gz
@@ -69,6 +71,7 @@ http://railgun.macquakeinfinity.com/downloads/fbctf026.zip
 http://railgun.macquakeinfinity.com/downloads/fbctf030.zip
 http://shub-hub.quaddicted.com/files/mods_multiplayer/orionbots_v2.zip
 http://ssj4death.condemned.com/gb/gb027b.zip
+http://tlb.quakedev.com/files/fbxways/variants/fbxpk.zip
 http://tux.telefragged.com/file.pl?filename=f2k001a.zip
 http://tux.telefragged.com/file.pl?filename=fb013se.zip
 http://tux.telefragged.com/file.pl?filename=fbca084.zip
@@ -148,7 +151,4 @@ http://xmark.ausgamers.com/xkteams/xkteams1705s.zip
 http://xmark.ausgamers.com/xkteams/xkteams2.zip
 https://www.angelfire.com/pe/pent3/images/frogbot011.zip
 https://www.bluesnews.com/files/patches/bots/oak084.zip
-https://www.oocities.org/timessquare/hangar/8961/sq12to13.zip
-https://www.oocities.org/timessquare/hangar/8961/squirt12b.zip
-
 
