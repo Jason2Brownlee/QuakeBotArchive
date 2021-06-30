@@ -78,7 +78,6 @@ http://tux.telefragged.com/file.pl?filename=fbctf014.zip
 http://tux.telefragged.com/file.pl?filename=fbctf034.zip
 http://tux.telefragged.com/file.pl?filename=fbctf041.zip
 http://tux.telefragged.com/file.pl?filename=hw_frogbot14.zip
-http://tux.telefragged.com/file.pl?filename=kooliobot.zip
 http://tux.telefragged.com/file.pl?filename=maniacbt12.zip
 http://web.ukonline.co.uk/johnc/oak084.zip
 http://web.ukonline.co.uk/johnc/oak0855.zip
