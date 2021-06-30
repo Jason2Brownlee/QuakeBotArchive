@@ -110,7 +110,6 @@ Optimized Frogbot | Christian Michael aka "surgeon" | [frogbot.lha](bin/frogbot.
 OrionBots | "Orion" | [orionbots4rel.zip](bin/orionbots4rel.zip)<br>orionbots_v2.zip<br>[orionbots_qc_beta5.zip](bin/orionbots_qc_beta5.zip)
 Paddybot | Patrick Stimson aka "sniper" | paddybot02.zip<br>paddybot.zip
 POXbot | "pOx" | [pox120b.zip](bin/pox120b.zip)
-QCBot | Alan Kivlin aka "Virtuoso" | [qcbot003.zip](bin/qcbot003.zip) <br>qcbot002.zip<br>qcbot001.zip
 Quake Bot (QBot) | "Grinder" | [qbot11.zip](bin/qbot11.zip)
 R Bot | Ross Johnson aka "ColdKill" | [rbot70.zip](bin/rbot70.zip)<br>[rbot20.zip](bin/rbot20.zip)<br>rbot.zip
 RABot | Rodrigo Marx aka "Shooter" | [MWRRABOT222CL.ZIP](bin/MWRRABOT222CL.ZIP)<br>[rabot.zip](bin/rabot.zip)
@@ -168,7 +167,7 @@ File Column:
 
 Many bots have extra files that are not part of the main bot release.
 
-This may include sample code or code skeletons, waypoint or route files for supported maps (required for bot navigation), additional bot configurations or configuration tools, and replacement bot models or skins.
+This may include sample code or code skeletons, waypoint or route files for supported maps (required for bot navigation), additional bot configurations or configuration <tfoot></tfoot>ls, and replacement bot models or skins.
 
 These extra files are stored in the bot archive under the [bin/](bin/) directory organized by a subdirectory named for the bot.
 
