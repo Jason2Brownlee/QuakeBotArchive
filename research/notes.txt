@@ -1474,11 +1474,20 @@ frogbot mods?
 		https://web.archive.org/web/20100120074954/http://botepidemic.no-origin.net/fmods/
 	mods:
 		Combination of all previous Khol's FMODS
+			http://www.3ddownloads.com/showfile.php3?filename=kfmod.zip
+			"Khol"
 		Motd FMOD
+			http://www.3ddownloads.com/showfile.php3?filename=motd.zip
+			Algirdas Kepezinskas aka "ZeCybEr"
 		Mod Pak 1 version 12
+			http://www.3ddownloads.com/showfile.php3?filename=mpak1v12.zip
+			"Neophyte"
 		Holo soldier
+			http://www.3ddownloads.com/showfile.php3?filename=holomod.zip
+			Algirdas Kepezinskas aka "ZeCybEr"
 		Accuracy FMOD
-		Team FMOD
+			http://www.3ddownloads.com/showfile.php3?filename=Accuracy.zip
+			Algirdas Kepezinskas aka "ZeCybEr"
 		...
 	TODO, what are all these mods...?
 frikbot mods
@@ -1500,6 +1509,9 @@ Ultimate Deathmatch
 	2004
 	quake world?
 	???
+quake mods here that have a bot added
+	http://www.randars.com/bots/bots2.html
+	https://www.quaketerminus.com/addon.shtml
 
 
 

@@ -48,6 +48,7 @@ ftp://quake.df.ru/pub/Quake/Bots/Omnicron/obots100.zip
 ftp://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/idgames2/telefragged/epidemic/frogbot012a.zip
 ftp://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/idgames2/telefragged/metro/frogbot007.zip
 ftp://ter.ort.spb.ru/Nico/Pathes/Bots/obot100.zip
+http://botarea51.impulse9.net/mirror/bot/elimpack.zip
 http://first.quakegate.ru/bots/frogbot.rar
 http://freespace.virgin.net/w.james/DJbot1.zip
 http://geocities.com/timessquare/hangar/8961/sq12to13.zip
@@ -94,10 +95,15 @@ http://www.3ddownloads.com/?file_id=14364
 http://www.3ddownloads.com/?file_id=14369
 http://www.3ddownloads.com/?file_id=45791
 http://www.3ddownloads.com/showfile.php3?filename=2000.zip
+http://www.3ddownloads.com/showfile.php3?filename=Accuracy.zip
 http://www.3ddownloads.com/showfile.php3?filename=darkfrog.zip
 http://www.3ddownloads.com/showfile.php3?filename=fbarena013.zip
 http://www.3ddownloads.com/showfile.php3?filename=frogbot000.zip
+http://www.3ddownloads.com/showfile.php3?filename=holomod.zip
+http://www.3ddownloads.com/showfile.php3?filename=kfmod.zip
 http://www.3ddownloads.com/showfile.php3?filename=maniacbt12.zip
+http://www.3ddownloads.com/showfile.php3?filename=motd.zip
+http://www.3ddownloads.com/showfile.php3?filename=mpak1v12.zip
 http://www.3ddownloads.com/showfile.php3?filename=stfm10.zip
 http://www.3ddownloads.com/showfile.php3?filename=vicinity/vicinitymodels.zip
 http://www.3ddownloads.com/showfile.php3?filename=vicinity/vicinityqwprogs.zip
@@ -117,6 +123,7 @@ http://www.cdrom.com/pub/idgames2/quakec/bots/rbot.zip
 http://www.converted2.com/bloodmage/junk/FBMOD.ZIP
 http://www.dmsoul.mailru.com/botmatch/bm119gl.zip
 http://www.dobbsnet.btinternet.co.uk/downloads/quake/dobbsbot15b.zip
+http://www.fileplanet.com/dl.aspx?/planetquake/botarea51/bot/elimpack.zip
 http://www.fileplanet.com/index.asp?file=22736
 http://www.fileplanet.com/index.asp?section=66&file=22736
 http://www.gameaholic.com/deicide/download.cgi?/quakec/bots/darkbt10.zip
@@ -153,4 +160,5 @@ http://xmark.ausgamers.com/xkteams/xkteams1705s.zip
 http://xmark.ausgamers.com/xkteams/xkteams2.zip
 https://www.angelfire.com/pe/pent3/images/frogbot011.zip
 https://www.bluesnews.com/files/patches/bots/oak084.zip
+
 
