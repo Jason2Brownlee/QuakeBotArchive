@@ -1,0 +1,87 @@
+Mat 24th, 2011 - Version 2
+Author:  Lightning Hunter (see below for more credits)
+Title:  The Definitive Frikbot Waypack (Version 2)
+Game: Quake, for use with the Frikbot modification
+Creation Time:  Waaay too long.  I'd say about 6 months on and off for the original release, plus an additional year for the version 2 release.
+
+---------DESCRIPTION----------
+This pack adds bot support for about 500 user created Quake maps.  It is for use with the wonderful Frikbot, created by Frika C.  About
+280 of these waypoints were created by me (I think, it was hard counting), while the rest were created by various artists - but heavily improved by me.
+When I say heavily improved, I mean that I spent just as much time improving the other 221 maps as I did creating my own waypoints!
+I was very meticulous about making sure each and every map had the best bot support possible.  I didn't slack off in any one map!  For this very reason,
+I have titled this pack the Definitive Frikbot Waypoint Pack.  You will not find a more complete archive of Frikbot waypoints - all of them the very
+best quality! 
+
+--------ORIGINAL AUTHORS AND UPDATE INFORMATION---------
+As stated above, 280 of these waypoints were created by me.  The rest were done by the various authors listed below, with improvements by me.
+I was tempted to claim all 500 waypoints as my own - because in most cases, I'm sure I spent as much time updating/testing the waypoints 
+by other authors as I did creating my own.  In some cases, I really think it would have been faster to do all of them from scratch!  There were
+so many issues here and there with the original waypoints that I spent forever tweaking each and every waypoint.  
+The improvements really show, however.
+
+Here are the original authors of the 221 waypoints:
+Bta.Monster
+CocoT
+Quest
+Electro
+Plumb
+Frika C
+Dr. Shadowborg
+Igor9
+
+I believe that covers everyone.  To see individual credits, open up the .way files!  The authors are credited in each one.
+
+Special thanks to Frika C and Dr. Shadowborg for answering general Frikbot questions.  They were very responsive!
+
+------INSTALLATION---------
+1.  Extract the contents of the archive to your Quake\Frikbot folder (make sure you have folder names turned on!)
+If all went well, the waypoint files should be in the Frikbot\maps folder.  If not, then go ahead and put them there!
+
+WARNING:  THIS NEXT STEP WILL MODIFY 47 MAPS; READ BELOW FOR MORE INFORMATION!
+2.  Install the ENT patches by going to your map folder, and opening "ENT Patches.bat". This will modify the code of 47 maps, to allow bot support.
+after this step is done, you may delete QBSP.EXE, ENT Patches.bat, and all the .ent files if you wish.  It won't harm anything if you wish to leave them
+in the folder, however.
+
+3.  Playing is easy.  Simply load a supported map like normal (with the Frikbot mod loaded), and you will see that the waypoints were loaded.  If not,
+then something went wrong with your installation.
+
+-IMPORTANT!!!  There were many maps that had issues with Frikbots that were beyond the control of my waypoints.  A few of the supported maps won't
+load the waypoints, unless you complete step number 2 above.  These issues are usually because of authors including waypoints in the .ent files for other bots, 
+or problems in the Frikbot code itself.  I didn't want to include the modified .bsp files themselves to respect the mappers - so instead, I included
+ENT files along with QBSP.exe, and a .bat file to automatically patch all the maps.  If you play a lot online and need these maps unchanged, then make sure
+you patch them in a separate folder for offline use!  If you do not run the ENT patches, then 47 of the supported maps will either have major issues, or not
+work at all.
+
+------WHERE DO I DOWNLOAD THE MAPS?-----------
+Due to the rarity of some of the supported maps in this pack, I have uploaded a hefty pack that contains ALL 500 maps.  This file is called 
+DefinitiveFrikbotMappack.zip, and should be found in the same place you downloaded this.  If you can't find it, then try heading over to the official
+forum thread over at Quakeone, and hopefully all the links still work:
+http://quakeone.com/forums/quake-mod-releases/finished-works/5154-definitive-frikbot-waypack.html
+
+If all else fails and you can't find a download link, contact me below.  I've listed several methods.  You should be able to get your hands on this 
+somehow! :) 
+
+------VERSION HISTORY-----------
+
+Version 1:  Support for nearly 400 maps.
+
+Version 2:  Support added to about 100 more maps, bringing the total to around 500.  All filenames changed to lowercase, to prevent conflicts. 
+
+------CONTACT-----------
+E-mail me at LightningHunter @ hotmail dot com (spelled out to avoid spam) if any bugs or problems are found (or for comments).
+You can also find me over in most of the popular Quake forums.  Send me a Private Message, and I should respond.  Check for my username,
+"Lightning Hunter", in the following Quake forums:
+
+QuakeOne:
+http://quakeone.com/forums/
+
+Inside 3d
+http://forums.inside3d.com/index.php
+
+Quakeworld.nu:
+http://www.quakeworld.nu/forum/index.php
+
+------Permissions----------
+There are no restrictions on this release.  If anyone feels like adding more waypoints to a future release of this pack, feel free to do so!
+I would really appreciate it if you would contact me, so we could collaborate on it.  I'd love to work with someone on getting even more
+waypoints completed!

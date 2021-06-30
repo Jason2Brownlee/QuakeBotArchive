@@ -165,6 +165,24 @@ Zeus Bot | Jonathan E. Wright aka "Nelno the Amoeba" | [zeus205.zip](bin/zeus205
 File Column:
 - **no link** Indicates I discovered the filename but could not find a copy of the file to archive.
 
+
+## Quake Bot Map Support and Extras
+
+Many bots require special map support, such as the preparation of waypoint files for each map supported by the bot.
+
+As such, there are many additional or extra files that are required to use some bots.
+
+These extra files are stored in the archive under the bin/ directory organized by a subdirectory named for the bot.
+
+The list below summarizes the additional subdirectories of extra bot files in the archive.
+
+Bot Name | Description | Subdirectory
+--- | --- | ---
+Eliminator Bots | Map support for the eliminator bots. | [eliminator](bin/eliminator/)
+FrikBots | Map support for the frikbot bots. | [frikbot](bin/frikbot/)
+
+
+
 ## About This Project
 
 Quake is a computer game released by id Software in 1996. The source code (QuakeC) that controls the game was released at around the same time.

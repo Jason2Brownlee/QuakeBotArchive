@@ -48,6 +48,7 @@ fileplanet bots
 	https://web.archive.org/web/20001213060000/http://www.fileplanet.com/index.asp?section=66
 	https://wiki.archiveteam.org/index.php?title=Fileplanet
 	https://archive.org/details/archiveteam-fileplanet
+	https://www.quaddicted.com/stuff/fileplanet/fileplanet.php?filename=bot
 quake preservation page
 	http://www.geocities.ws/oldquaker/pres1.html
 	all the client side bots...
