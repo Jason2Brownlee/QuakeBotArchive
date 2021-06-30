@@ -324,6 +324,7 @@ Squirt Bot
 	(geocities mirror)
 	v1.0
 		http://www.fileplanet.com/index.asp?file=22736
+	https://www.oocities.org/timessquare/hangar/8961/index.html
 Paddybot
 	https://web.archive.org/web/20001109033100/http://www.users.qwest.net/~mimpchnk/
 	based on tutor
