@@ -1478,7 +1478,6 @@ frogbot mods?
 		Mod Pak 1 version 12
 		Holo soldier
 		Accuracy FMOD
-		TeamTalk+ FMOD
 		Team FMOD
 		...
 	TODO, what are all these mods...?

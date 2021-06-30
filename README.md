@@ -15,7 +15,7 @@ Alphabetical list of quake bot names, authors, and local download links for all 
 Bot Name | Bot Author(s) | File
 --- | --- | ---
 Ache | Athos Konkoran Kryn | [ache.zip](bin/ache.zip)
-AsdFMod | Matt McChesney aka "ASDF" | [asdfmod100.zip](bin/asdfmod100.zip)
+Asdf's FMOD | Matt McChesney aka "asdf" | [asdfmod100.zip](bin/asdfmod100.zip)
 Attacker | Jonathan Geary | [attacker.zip](bin/attacker.zip)
 BGADM Bot | "Detour" | [bgadm101.zip](bin/bgadm101.zip) <br>bgadmbot.zip
 BGBot | Robert DeFilippo III aka "Punisher" | [bgbot20a.zip](bin/bgbot20a.zip)<br>[bgbot16.zip](bin/bgbot16.zip)<br>[bgbot16_src.zip](bin/bgbot16_src.zip)<br>[bgbot15.zip](bin/bgbot15.zip)<br>bgbot13.zip<br>bgbot125.zip<br>bgbot12.zip<br>[bgbot11.zip](bin/bgbot11.zip)<br>bgbot1.zip
@@ -137,6 +137,7 @@ TD2 Mech Bot | ? | [mech.zip](bin/mech.zip)
 Team FMOD | "Shelob" | stfm10.zip
 Team Fortress Bots | Darryl Atchison aka "coffee" | [tf_bots07.zip](bin/tf_bots07.zip)
 TeamFortress Bot | Valery Schedrin aka "Forthpick" | [teamfbot.zip](bin/teamfbot.zip)
+TeamTalk+ (FMOD) | Algirdas Kepezinskas aka "ZeCybEr" | [ttalk.zip](bin/ttalk.zip)
 TFBots | Jeff aka "wattsup" | [tfbot077.zip](bin/tfbot077.zip)<br>[TFBot076.zip](bin/TFBot076.zip)
 TFBots | Joern Strombach aka "Nexus" | [tfbot080.zip](bin/tfbot080.zip)
 TFBots | Wolfgang Lehrach aka "RainKing" | tfb-v07.zip
