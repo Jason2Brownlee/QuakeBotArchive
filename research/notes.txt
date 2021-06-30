@@ -1369,6 +1369,19 @@ The Force / Duel of the Fates mod
 	Frika C / Akuma
 	mod / tc
 	uses frikbots
+megabot
+	https://dukeworld.com/planetquake/captured/rip2/megabot.zip
+	tutor bot based
+	vic
+Unknown Bot
+ 	https://web.archive.org/web/20100123221300/http://botepidemic.no-origin.net/quake.shtml.htm
+ 	August, 1999
+ 	http://members.xoom.com/_XOOM/unknownbot/
+ 	Nothing on the web about this...
+ 	ubot14.zip
+
+
+
 
 
 No Info...
@@ -1376,12 +1389,6 @@ No Info...
 A sign of a bot, but not enough confirmation to add to the main list yet...
 Must have a name and a filename (public release).
 
-Unknown Bot
- 	https://web.archive.org/web/20100123221300/http://botepidemic.no-origin.net/quake.shtml.htm
- 	August, 1999
- 	http://members.xoom.com/_XOOM/unknownbot/
- 	Nothing on the web about this...
- 	???
 GerBot / Zaius Quake
 	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/news.htm
 	http://www.det5.com/drzaius/
