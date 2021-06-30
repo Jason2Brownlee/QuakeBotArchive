@@ -1318,7 +1318,9 @@ Rogue Bot
 	reaper extension
 	provided by author
 	Rbot.zip
-
+The Moron Bot
+	mbr1.zip
+	thefatal
 
 
 
