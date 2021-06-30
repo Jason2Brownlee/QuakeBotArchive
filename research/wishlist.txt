@@ -72,6 +72,8 @@ http://railgun.macquakeinfinity.com/downloads/fbctf030.zip
 http://shub-hub.quaddicted.com/files/mods_multiplayer/orionbots_v2.zip
 http://ssj4death.condemned.com/gb/gb027b.zip
 http://tlb.quakedev.com/files/fbxways/variants/fbxpk.zip
+http://trinca.no.sapo.pt/temp/waypoints_maker.rar
+http://trinca.no.sapo.pt/ways/qwprogs379.rar
 http://tux.telefragged.com/file.pl?filename=f2k001a.zip
 http://tux.telefragged.com/file.pl?filename=fb013se.zip
 http://tux.telefragged.com/file.pl?filename=fbca084.zip
@@ -151,4 +153,5 @@ http://xmark.ausgamers.com/xkteams/xkteams1705s.zip
 http://xmark.ausgamers.com/xkteams/xkteams2.zip
 https://www.angelfire.com/pe/pent3/images/frogbot011.zip
 https://www.bluesnews.com/files/patches/bots/oak084.zip
+
 

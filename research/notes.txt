@@ -1497,21 +1497,6 @@ frikbot mods
 		Bondo's mods
 		Quake on Steroids
 	TODO, what are all these mods...?
-FBCA
-	not happy that I understand the history/releases of FBCA / FBCA + KT...
-Eliminator extensions
-	https://www.quaddicted.com/files/idgames2/quakec/bots/eliminator/
-	do we add all these? no? map support?
-	maybe we should add these somehow? how would it fit, e.g. not into the list...
-Reaper extensions
-	https://www.quaddicted.com/files/idgames2/quakec/bots/reaper/
-	do we add all these? no? just skins...
-frikbot waypoints?
-	DefinitiveFrikbotWaypackV2.zip
-	http://quakeone.com/forum/quake-mod-releases/finished-works/5313-the-definitive-frikbot-waypack
-	https://www.quakeworld.nu/forum/topic/5198/62426/the-definitive-frikbot-waypack-vers/
-	https://www.quakeworld.nu/forum/topic/5198
-	http://forums.insideqc.com/viewtopic.php?f=4&t=3343
 Ultimate Deathmatch
 	https://www.quakewiki.net/archives/botarea51/main/history.html
 	2002
