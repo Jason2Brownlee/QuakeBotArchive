@@ -10,7 +10,7 @@ Estimated quake bot genealogy.
 
 ## Quake Bot List
 
-Alphabetical list of quake bot names, authors, and local download links.
+Alphabetical list of quake bot names, authors, and local download links for all bots in the [bin/](bin/) directory.
 
 Bot Name | Bot Author(s) | File
 --- | --- | ---
@@ -172,7 +172,7 @@ Many bots have extra files that are not part of the main bot release.
 
 This may include sample code or code skeletons, waypoint files for supported maps (required for bot navigation), additional bot configurations or configuration tools, and replacement bot models or skins.
 
-These extra files are stored in the bot archive under the bin/ directory organized by a subdirectory named for the bot.
+These extra files are stored in the bot archive under the [bin/](bin/) directory organized by a subdirectory named for the bot.
 
 The list below summarizes the subdirectories of extra bot files in the archive.
 
