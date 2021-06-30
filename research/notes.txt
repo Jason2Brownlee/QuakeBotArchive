@@ -1385,7 +1385,21 @@ VeNgAb0T / Vengabot
 	fookbot extends frogbot
 	by "WuPP"
 	nothing on the web about these...
-
+Combination of all previous Khol's FMODS
+	http://www.3ddownloads.com/showfile.php3?filename=kfmod.zip
+	"Khol"
+Motd FMOD
+	http://www.3ddownloads.com/showfile.php3?filename=motd.zip
+	Algirdas Kepezinskas aka "ZeCybEr"
+Mod Pak 1 FMOD
+	http://www.3ddownloads.com/showfile.php3?filename=mpak1v12.zip
+	"Neophyte"
+Holo soldier
+	http://www.3ddownloads.com/showfile.php3?filename=holomod.zip
+	Algirdas Kepezinskas aka "ZeCybEr"
+Accuracy FMOD
+	http://www.3ddownloads.com/showfile.php3?filename=Accuracy.zip
+	Algirdas Kepezinskas aka "ZeCybEr"
 
 
 
@@ -1466,30 +1480,6 @@ TODO
 ---------
 More digging to do here...
 
-
-frogbot mods?
-	http://www.botepidemic.com/fmods/mods.htm
-		https://web.archive.org/web/20020214103444/http://www.botepidemic.com/fmods/mods.htm
-	http://botepidemic.no-origin.net/fmods/
-		https://web.archive.org/web/20100120074954/http://botepidemic.no-origin.net/fmods/
-	mods:
-		Combination of all previous Khol's FMODS
-			http://www.3ddownloads.com/showfile.php3?filename=kfmod.zip
-			"Khol"
-		Motd FMOD
-			http://www.3ddownloads.com/showfile.php3?filename=motd.zip
-			Algirdas Kepezinskas aka "ZeCybEr"
-		Mod Pak 1 version 12
-			http://www.3ddownloads.com/showfile.php3?filename=mpak1v12.zip
-			"Neophyte"
-		Holo soldier
-			http://www.3ddownloads.com/showfile.php3?filename=holomod.zip
-			Algirdas Kepezinskas aka "ZeCybEr"
-		Accuracy FMOD
-			http://www.3ddownloads.com/showfile.php3?filename=Accuracy.zip
-			Algirdas Kepezinskas aka "ZeCybEr"
-		...
-	TODO, what are all these mods...?
 frikbot mods
 	http://www.inside3d.com/frikbot/
 		https://web.archive.org/web/20000817070547/http://www.inside3d.com/frikbot/

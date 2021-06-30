@@ -14,6 +14,7 @@ Alphabetical list of quake bot names, authors, and local download links for all 
 
 Bot Name | Bot Author(s) | File
 --- | --- | ---
+Accuracy FMOD | Algirdas Kepezinskas aka "ZeCybEr" | Accuracy.zip
 Ache | Athos Konkoran Kryn | [ache.zip](bin/ache.zip)
 Asdf's FMOD | Matt McChesney aka "asdf" | [asdfmod100.zip](bin/asdfmod100.zip)
 Attacker | Jonathan Geary | [attacker.zip](bin/attacker.zip)
@@ -89,11 +90,13 @@ Gideon Bot | Matthew Turvey | [gidbot.zip](bin/gidbot.zip)
 GlacierBot | "IceDagger" | gb027b.zip
 GuardBot | Peter van Wingerden | [grdbot23.zip](bin/grdbot23.zip)<br>grdbot13.zip<br>guardbot.zip
 GYPObot | Stephen Dobbs | [gypobot.zip](bin/gypobot.zip)
+Holo Soldier FMOD | Algirdas Kepezinskas aka "ZeCybEr" | holomod.zip
 Human Bot (Hbot) | Jeffrey Lee | [hbot.zip](bin/hbot.zip)
 Indecisive Bot (Gyrobot) | Aaron Logue aka "Gyro Gearloose" | [gyrobot.zip](bin/gyrobot.zip)<br>[gbotsrc.zip](bin/gbotsrc.zip)
 IronWulvt's Deathmatch Bot | Ben Garrod aka "IronWulvt" | [iwbot21.zip](bin/iwbot21.zip) <br>[iwbot16.zip](bin/iwbot16.zip)<br>iwbot1.zip
 JBot | Jeffrey Lee | [jbot.zip](bin/jbot.zip)
 KarNag Bot | Ken Madlener | [knbot45.zip](bin/knbot45.zip)<br>[knbot03.ZIP](bin/knbot03.ZIP)
+Khol's FMODS | "Khol" | kfmod.zip
 Killer Qcbot | William  Ravaine aka "Killer-Sub" | [kqcbots095b.zip](bin/kqcbots095b.zip)<br>KQCBotSource.zip
 Kooliobot | Robert de Heus aka "Koolio" | [kooliobot.zip](bin/kooliobot.zip)<br>koolio.zip
 Lightning Gun Competition (LGC) | Phil aka "peheyele" | [lgc3.zip](bin/lgc3.zip)<br>[lgc2c.zip](bin/lgc2c.zip)<br>[lgc2.zip](bin/lgc2.zip)<br>lgc.zip
@@ -103,6 +106,8 @@ MaNiAc's FrogBot MOD (lag simulation) | Michael Turitzin aka "MaNiAc" | [lagmod.
 MaNiAcBot | Michael Turitzin aka "MaNiAc" | [maniacbt.zip](bin/maniacbt.zip)<br>maniacbt12.zip<br>FBMOD.ZIP
 MegaBot | "Vic" | [megabot.zip](bin/megabot.zip)
 Midair Bots | Benjamin Darling aka "Electro" and "Vomit" | [midair_qwbot.rar](bin/midair_qwbot.rar)<br>[midairbots_all.zip](bin/midairbots_all.zip)<br>[midairbots.zip](bin/midairbots.zip)
+Mod Pak 1 FMOD | "Neophyte" | mpak1v12.zip
+Motd FMOD | Algirdas Kepezinskas aka "ZeCybEr" | motd.zip
 MyBot | Stephen Vanterpool | [mybot16.zip](bin/mybot16.zip)<br>[mybot13a.zip](bin/mybot13a.zip)<br>[mybot.zip](bin/mybot.zip)
 Navy SEALs sQuad bots | William van der Sterren | [nseal201.zip](bin/nseal201.zip)<br>sqdbt201.zip
 Ogre Bot | "Lava Man" | [ogrebot.zip](bin/ogrebot.zip)
