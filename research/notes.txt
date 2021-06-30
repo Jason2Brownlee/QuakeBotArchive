@@ -1490,7 +1490,13 @@ frikbot waypoints?
 	https://www.quakeworld.nu/forum/topic/5198/62426/the-definitive-frikbot-waypack-vers/
 	https://www.quakeworld.nu/forum/topic/5198
 	http://forums.insideqc.com/viewtopic.php?f=4&t=3343
-
+Ultimate Deathmatch
+	https://www.quakewiki.net/archives/botarea51/main/history.html
+	2002
+	http://planetquake.gamespy.com/quake1/index6c18.html?start_from=56&category_id=2
+	2004
+	quake world?
+	???
 
 
 
