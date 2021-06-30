@@ -1373,12 +1373,18 @@ megabot
 	https://dukeworld.com/planetquake/captured/rip2/megabot.zip
 	tutor bot based
 	vic
-Unknown Bot
+UnknownBot / Unknown Bot
  	https://web.archive.org/web/20100123221300/http://botepidemic.no-origin.net/quake.shtml.htm
  	August, 1999
  	http://members.xoom.com/_XOOM/unknownbot/
- 	Nothing on the web about this...
+ 	got a file...
  	ubot14.zip
+VeNgAb0T / Vengabot
+	venga.zip
+	extends Fo0KBoT / fookbot
+	fookbot extends frogbot
+	by "WuPP"
+	nothing on the web about these...
 
 
 

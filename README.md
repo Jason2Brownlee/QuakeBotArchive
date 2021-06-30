@@ -152,6 +152,7 @@ Tutor Bot + Holy Wars | Connor Caple aka "RiEvEr" | [holy_tb.zip](bin/holy_tb.zi
 Tutor Bot | Darryl Atchison aka "coffee" | [tutor.zip](bin/tutor.zip)
 UnknownBot | Brian L. | [ubot14.zip](bin/ubot14.zip)
 UrreBot | Marko Permanto aka "Urre" | [urrebot20050820.zip](bin/urrebot20050820.zip)
+VeNgAb0T | "WuPP" | [venga.zip](bin/venga.zip)
 Vicinity Bot | "Black" | vicinityqwprogs.zip<br>vicinitymodels.zip<br>vicinitysource.zip
 Victim Bot | Tony Tang aka "The TangMaster" | [vbot11.zip](bin/vbot11.zip)<br>[vbot1.ZIP](bin/vbot1.ZIP)
 WarBot | Muhammad Hidayat Bin Sman | warbt13a.zip
