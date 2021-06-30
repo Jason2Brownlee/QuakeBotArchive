@@ -1480,6 +1480,10 @@ TODO
 ---------
 More digging to do here...
 
+frogbot waypoints
+	https://web.archive.org/web/20011004091210/http://www.botepidemic.com/fmods/maps.htm
+frogbot utils
+	https://web.archive.org/web/20011203154945/http://www.botepidemic.com/fmods/down.htm
 frikbot mods
 	http://www.inside3d.com/frikbot/
 		https://web.archive.org/web/20000817070547/http://www.inside3d.com/frikbot/
