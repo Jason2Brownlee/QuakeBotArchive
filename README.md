@@ -174,12 +174,13 @@ As such, there are many additional or extra files that are required to use some 
 
 These extra files are stored in the archive under the bin/ directory organized by a subdirectory named for the bot.
 
-The list below summarizes the additional subdirectories of extra bot files in the archive.
+The list below summarizes the subdirectories of extra bot files in the archive.
 
 Bot Name | Description | Subdirectory
 --- | --- | ---
-Eliminator Bots | Map support for the eliminator bots. | [eliminator](bin/eliminator/)
-FrikBots | Map support for the frikbot bots. | [frikbot](bin/frikbot/)
+Eliminator Bots | Map support for eliminator bots. | [eliminator/](bin/eliminator/)
+FrikBots | Map support for frikbots. | [frikbot/](bin/frikbot/)
+Reaper Bots | Additional skins and configuration for reaper bots. | [reaper/](bin/reaper/)
 
 
 
