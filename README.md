@@ -114,7 +114,7 @@ Ogre Bot | "Lava Man" | [ogrebot.zip](bin/ogrebot.zip)
 Omicron Bot | Jan Paul van Waveren aka "Mr. Elusive" and Miklos de Rijk aka "H2SO4" | [obots102.zip](bin/obots102.zip)<br>[obots101.zip](bin/obots101.zip)<br>obots100.zip
 Omicron Fixes | Joel Baxter aka "Johnny Law" | [obots102-fixed.zip](bin/obots102-fixed.zip)
 Optimized Frogbot | Christian Michael aka "surgeon" | [frogbot.lha](bin/frogbot.lha)
-OrionBots | "Orion" | [orionbots4rel.zip](bin/orionbots4rel.zip)<br>orionbots_v2.zip<br>[orionbots_qc_beta5.zip](bin/orionbots_qc_beta5.zip)
+OrionBots | "Orion" | [orionbots4rel.zip](bin/orionbots4rel.zip)<br>[orionbots_v2.zip](bin/orionbots_v2.zip)<br>[orionbots_qc_beta5.zip](bin/orionbots_qc_beta5.zip)
 Paddybot | Patrick Stimson aka "sniper" | paddybot02.zip<br>paddybot.zip
 POXbot | "pOx" | [pox120b.zip](bin/pox120b.zip)
 Quake Bot (QBot) | "Grinder" | [qbot11.zip](bin/qbot11.zip)
