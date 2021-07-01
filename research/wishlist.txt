@@ -113,7 +113,6 @@ http://www.botepidemic.com/fmods/demos/squaretst.zip
 http://www.botepidemic.com/fmods/fbca088se.zip
 http://www.botepidemic.com/fmods/fbctf052.zip
 http://www.botepidemic.com/fmods/hw_frogbot14h.zip
-http://www.botepidemic.com/fmods/versie.zip
 http://www.cdrom.com/pub/idgames2/quakec/bots/darkbt09.zip
 http://www.cdrom.com/pub/idgames2/quakec/bots/dmbt20b2.zip
 http://www.cdrom.com/pub/idgames2/quakec/bots/drkbot04.zip
