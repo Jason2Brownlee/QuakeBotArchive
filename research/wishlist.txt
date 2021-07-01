@@ -70,7 +70,6 @@ http://quakemecca.simplenet.com/files/downloads/files/downloads/cujo13.zip
 http://railgun.macquakeinfinity.com/downloads/fbctf024.zip
 http://railgun.macquakeinfinity.com/downloads/fbctf026.zip
 http://railgun.macquakeinfinity.com/downloads/fbctf030.zip
-http://shub-hub.quaddicted.com/files/mods_multiplayer/orionbots_v2.zip
 http://tlb.quakedev.com/files/fbxways/variants/fbxpk.zip
 http://trinca.no.sapo.pt/temp/waypoints_maker.rar
 http://trinca.no.sapo.pt/ways/qwprogs379.rar
