@@ -87,7 +87,7 @@ Frogbot Deathmatch | Alexey Pakhomov aka "ParboiL" | [fbdm012.zip](bin/fbdm012.z
 Frogbot Special Edition | Brian Mathiasen aka "Erazor" | fb013se.zip
 Frogbot | Robert Field aka "Frog" | [frogbot013.zip](bin/frogbot013.zip)<br>[frogfix1.zip](bin/frogfix1.zip)<br>fixedsrc.zip<br>frog_src.zip<br>fbph.zip<br>[frogbot012c.zip](bin/frogbot012c.zip)<br>frogbot012b.zip<br>frogbot012a.zip<br>frogbot012.zip<br>frogbot011b.zip<br>frogbot011.zip<br>frogbot009.zip<br>frogbot007.zip<br>frogbot005.zip<br>frogbot000.zip<br>
 Gideon Bot | Matthew Turvey | [gidbot.zip](bin/gidbot.zip)
-GlacierBot | "IceDagger" | gb027b.zip
+GlacierBot | Rainier Rapera aka "IceDagger" | [gb027b.zip](bin/gb027b.zip)
 GuardBot | Peter van Wingerden | [grdbot23.zip](bin/grdbot23.zip)<br>grdbot13.zip<br>guardbot.zip
 GYPObot | Stephen Dobbs | [gypobot.zip](bin/gypobot.zip)
 Holo Soldier FMOD | Algirdas Kepezinskas aka "ZeCybEr" | holomod.zip
