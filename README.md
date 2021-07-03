@@ -222,9 +222,14 @@ Perhaps you can help to make this bot archive more complete.
 
 If you can help, please contact me directly: jason.brownlee05@gmail.com
 
-Also, I have a wishlist of broken bot URLs that maybe you can help with:
+### Wishlist
 
-* [Quake Bot Mod Files URL Wishlist](research/wishlist.txt)
+We also have a wishlist of known bot filenames and broken download URLs.
+
+Perhaps you have one of the files listed?
+
+* Quake bot Filename wishlist: [wishlist.txt](research/wishlist.txt)
+* Quake bot URL wishlist: [wishlist_urls.txt](research/wishlist_urls.txt)
 
 
 ## Acknowledgements
