@@ -227,6 +227,11 @@ Also, I have a wishlist of broken bot URLs that maybe you can help with:
 * [Quake Bot Mod Files URL Wishlist](research/wishlist.txt)
 
 
+## Acknowledgements
+
+This quake bot archive would not be as complete as it is without the generousness help from the Quake community.
+
+Special thank you to: John Crickett, "Spirit" (from quaddicted), "vegetous", and Benjamin Darling aka "Electro".
 
 
 
