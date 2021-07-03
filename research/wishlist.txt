@@ -2,6 +2,9 @@ Quake Bot Filename Wishlist
 
 A wishlist of lowecase bot filenames sorted alphabetically.
 
+Do you have one of these files?
+If so please email:  jason.brownlee05@gmail.com
+
 --------------------------------------------------------------------------------
 
 2000.zip
@@ -13,8 +16,10 @@ bgbot125.zip
 bgbot13.zip
 bm116se.zip
 bm119gl.zip
+botmove.zip
 botskn14.zip
 brbot.exe
+btsk22.zip
 clanv0.5auto.zip
 clanv0.6auto.zip
 clanv0.7hman.zip
@@ -22,6 +27,7 @@ cujo12c.zip
 cujo13.zip
 darkbt10.zip
 darkfrog.zip
+djbot1.zip
 dmbt20b2.zip
 dmbt21b1.zip
 dobbsbot15b.zip
@@ -29,6 +35,7 @@ doombot.zip
 drkbot04.zip
 drkbt013.zip
 elim10.zip
+elimpack.zip
 f2k001a.zip
 fb013se.zip
 fbarena013.zip
@@ -74,6 +81,7 @@ friktf-051901.zip
 friktf-092800-qw.zip
 friktf-092800.tar.gz
 frog_src.zip
+frogbot.rar
 frogbot000.zip
 frogbot005.zip
 frogbot007.zip
@@ -106,6 +114,10 @@ oak0855.zip
 obots100.zip
 paddybot.zip
 paddybot02.zip
+pak2pak.zip
+qcbot001.zip
+qcbot002.zip
+qwprogs379.rar
 rbot.zip
 reaprb05.zip
 reaprb75.zip
@@ -125,9 +137,11 @@ vicinitymodels.zip
 vicinityqwprogs.zip
 vicinitysource.zip
 warbt13a.zip
+waypoints_maker.rar
 wlbot1.9.zip
 xkteams1705.zip
 xkteams1705s.zip
 xkteams2.zip
 zeus202b.zip
+
 

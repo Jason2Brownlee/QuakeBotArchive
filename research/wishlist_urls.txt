@@ -2,6 +2,9 @@ Quake Bot URL Wishlist
 
 A wishlist of broken bot URLs sorted alphabetically.
 
+Do you have one of these files?
+If so please email:  jason.brownlee05@gmail.com
+
 --------------------------------------------------------------------------------
 
 ftp://bluesnews.com/pub/bots/reaprb75.zip
@@ -19,7 +22,6 @@ ftp://ftp.saix.net/pub/telefragged/metro/frogbot009.zip
 ftp://ftp.saix.net/pub/telefragged/metro/frogbot011b.zip
 ftp://ftp.stomped.com/pub/redwood/bots/oak0855.zip
 ftp://ftp.task.gda.pl/pub/games/idgames2/planetquake/ramshackle/obots100.zip
-ftp://ftp.telefragged.com/pub/be/chronobt.zip
 ftp://ftp.telefragged.com/pub/metro/frogbot005.zip
 ftp://ftp.telefragged.com/pub/metro/frogbot009.zip
 ftp://ftp.telepac.pt/pub/idgames2/telefragged/metro/frogbot007.zip

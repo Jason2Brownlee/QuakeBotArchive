@@ -37,7 +37,7 @@ Darkbot | Terry Hendrix aka "Dark_Skye" | [darkbot-fnl-q2.tar.gz](bin/darkbot-fn
 DarkCTF Bot | Terry Hendrix aka "Dark_Skye" | [darkctf13.zip](bin/darkctf13.zip)
 DeathBot | James Boswell aka "FlashFire" | [death-64.zip](bin/death-64.zip)
 Demonshooter | "Shootermaster" | [shooter.zip](bin/shooter.zip)
-DJBot | Dave James aka "DJ" | [DJbot1.zip](bin/DJbot1.zip)
+DJBot | Dave James aka "DJ" | DJbot1.zip
 DM Bot | Nathaniel Gorham | [dmbot1.zip](bin/dmbot1.zip)
 DOBBSBot | Stephen Dobbs | [dobbsbot15bwp.zip](bin/dobbsbot15bwp.zip)<br>dobbsbot15b.zip<br>[dobbsbot15a.zip](bin/dobbsbot15a.zip)
 Doombot | Roscoe A. Sincero aka "Legion" | [dmbt21b3.zip](bin/dmbt21b3.zip)<br>dmbt21b1.zip<br>dmbt20b2.zip<br>doombot.zip
@@ -220,7 +220,7 @@ Perhaps you can help to make this bot archive more complete.
 * Do you know how to contact a bot mod author?
 * Do you have access to an archive of a Quake website from back in the day?
 
-If you can help, please contact me directly: jason.brownlee05@gmail.com
+If you can help, please email Jason at jason.brownlee05@gmail.com
 
 ### Wishlist
 
