@@ -236,7 +236,7 @@ Perhaps you have one of the files listed?
 
 This quake bot archive would not be as complete as it is without the generousness help from the Quake community.
 
-Special thank you to: John Crickett, "Spirit" (from quaddicted), "vegetous", and Benjamin Darling aka "Electro".
+Special thank you to: John Crickett, Hannes aka "Spirit" (from quaddicted), Fabiano D. Amorim aka "vegetous", and Benjamin Darling aka "Electro".
 
 
 
