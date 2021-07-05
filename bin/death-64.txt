@@ -1,0 +1,76 @@
+QuakeC Mod :: DeathBot BETA release
+
+Filename :: death-XX.zip <XX is the Version number>
+Version  :: 0.64 <Alpha release of this Beta, or something...>
+Date     :: 17/02/97 
+Author   :: James "FlashFire" boswell
+Email    :: Flashfire@inorbit.com
+Credits  :: iD software for releasing the Quake sourcecode :)
+	   Rachel for neck-rubs, coffee and moral support. <As well as demonstrating how to use handcuffs properly :)>
+	   Jonathan Wright <nelno@interpath.com> for some code from Cujo, and the dog MDL
+ 	   
+	
+Disclaimer :: Use this patch at your own risk, so don`t come crying to me if your system dies/spouse leaves/anything else.
+
+ Type of Mod  
+Quake C  : yes
+Sound    : Yes
+MDL      : Yes
+
+Format of Quake C
+*.qc files    : no, get your own sourcecode :)
+progs.dat     : yes
+
+editors used ::
+Quake v1.06
+Ms Word
+qccwin32.exe
+
+Description of modification ::
+	This mod does ::-
+1.Gives you a Friendly Dog that attacks monsters (Not Zombies though) and `should` attack other players.
+2.Grappling hook
+3.Replaces the Guns with rapid fire versions
+
+4.
+Commands :-
+(Precede the number i.e. 98, with impulse in the console)
+CUJO_TOGGLE             = 98; // Turns cujo on and off.
+CUJO_TELEPORT           = 99; // Teleports Cujo to your location
+CUJO_LIGHT_TOGGLE       = 97; //Turns Collar light on/off
+CUJO_GIVE_STATUS        = 96; //Status report from cujo
+CUJO_ATTACK_TOGGLE      = 95; //tells cujo to attack/stand still
+Grappling_hook_on       = 90; // Turns the Grappling hook on
+Grappling_hook_off      = 91; //Turns the Grappling hook off
+
+
+How to Install the Modification
+Copy everything in the directory containing this readme.txt into a sub directory off your main Quake dir, i.e. c:\quake\DEATHbot\     then move bot.bat and winbot.bat into your quake dir (then add them to your start menu, or similar.). then just type bot or winbot in your Quake folder to begin. 
+
+
+Bugs:
+Several Sounds relating to the dog are not precached,  even though the CODE IS THERE!!!!
+Please email about any other bugs you find!
+NOTE:: This patch has not been tested with QuakeWorld or Winded, it could blow up it your face, but i say go for it :)
+
+Still to come!:-
+Deathbot the Enforcer will return in v0.65, i`ve misplaced the code for the AI (needed work anyway!)
+Tractor Beam... Maybe...
+Anything anyone asks for...
+
+
+Copyright `n` stuff
+
+Authors may NOT use these modifications as a basis for other
+publically available work. unless they ask very nicely, or are Beta testing for me, otherwise they ain`t getting the sourcecode
+
+You may distribute this Quake modification in any electronic
+format as long as this description file remains intact and unmodified
+and is retained along with all of the files in the archive.
+
+Where to get the latest version of this patch...
+Try my homepage
+email me and i`ll send it to you, or
+http://web.ukonline.co.uk/members/s.boswell/death-64.exe (self-depressing zip =) )
+Or
+Join My QuakeC mailing list, and chances are each new version will land in your inbox
