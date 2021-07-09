@@ -99,7 +99,7 @@ KarNag Bot | Ken Madlener | [knbot45.zip](bin/knbot45.zip)<br>[knbot03.ZIP](bin/
 Khol's FMODS | "Khol" | kfmod.zip
 Killer Qcbot | William  Ravaine aka "Killer-Sub" | [kqcbots095b.zip](bin/kqcbots095b.zip)<br>KQCBotSource.zip
 Kooliobot | Robert de Heus aka "Koolio" | [kooliobot.zip](bin/kooliobot.zip)<br>koolio.zip
-Lightning Gun Competition (LGC) | Phil aka "peheyele" | [lgc3.zip](bin/lgc3.zip)<br>[lgc2c.zip](bin/lgc2c.zip)<br>[lgc2.zip](bin/lgc2.zip)<br>lgc.zip
+Lightning Gun Competition (LGC) | Phil Romov aka "peheyele" | [lgc3.zip](bin/lgc3.zip)<br>[lgc2c.zip](bin/lgc2c.zip)<br>[lgc2.zip](bin/lgc2.zip)<br>lgc.zip
 Lithium CTF Bot | Juan Ignacio Rava aka "Johnny" | [lith091c.zip](bin/lith091c.zip)
 LoydBot | Loyd aka "Juninho" | [lbotv10.zip](bin/lbotv10.zip)
 MaNiAc's FrogBot MOD (lag simulation) | Michael Turitzin aka "MaNiAc" | [lagmod.zip](bin/lagmod.zip)
