@@ -119,7 +119,6 @@ paddybot02.zip
 pak2pak.zip
 qcbot001.zip
 qcbot002.zip
-qwprogs379.rar
 rbot.zip
 reaprb05.zip
 reaprb75.zip
