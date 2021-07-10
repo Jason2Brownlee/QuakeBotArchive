@@ -1322,7 +1322,37 @@ Rogue Bot
 The Moron Bot
 	mbr1.zip
 	thefatal
-
+megabot
+	https://dukeworld.com/planetquake/captured/rip2/megabot.zip
+	tutor bot based
+	vic
+UnknownBot / Unknown Bot
+ 	https://web.archive.org/web/20100123221300/http://botepidemic.no-origin.net/quake.shtml.htm
+ 	August, 1999
+ 	http://members.xoom.com/_XOOM/unknownbot/
+ 	got a file...
+ 	ubot14.zip
+VeNgAb0T / Vengabot
+	venga.zip
+	extends Fo0KBoT / fookbot
+	fookbot extends frogbot
+	by "WuPP"
+	nothing on the web about these...
+Combination of all previous Khol's FMODS
+	http://www.3ddownloads.com/showfile.php3?filename=kfmod.zip
+	"Khol"
+Motd FMOD
+	http://www.3ddownloads.com/showfile.php3?filename=motd.zip
+	Algirdas Kepezinskas aka "ZeCybEr"
+Mod Pak 1 FMOD
+	http://www.3ddownloads.com/showfile.php3?filename=mpak1v12.zip
+	"Neophyte"
+Holo soldier
+	http://www.3ddownloads.com/showfile.php3?filename=holomod.zip
+	Algirdas Kepezinskas aka "ZeCybEr"
+Accuracy FMOD
+	http://www.3ddownloads.com/showfile.php3?filename=Accuracy.zip
+	Algirdas Kepezinskas aka "ZeCybEr"
 
 
 
@@ -1369,38 +1399,10 @@ The Force / Duel of the Fates mod
 	Frika C / Akuma
 	mod / tc
 	uses frikbots
-megabot
-	https://dukeworld.com/planetquake/captured/rip2/megabot.zip
-	tutor bot based
-	vic
-UnknownBot / Unknown Bot
- 	https://web.archive.org/web/20100123221300/http://botepidemic.no-origin.net/quake.shtml.htm
- 	August, 1999
- 	http://members.xoom.com/_XOOM/unknownbot/
- 	got a file...
- 	ubot14.zip
-VeNgAb0T / Vengabot
-	venga.zip
-	extends Fo0KBoT / fookbot
-	fookbot extends frogbot
-	by "WuPP"
-	nothing on the web about these...
-Combination of all previous Khol's FMODS
-	http://www.3ddownloads.com/showfile.php3?filename=kfmod.zip
-	"Khol"
-Motd FMOD
-	http://www.3ddownloads.com/showfile.php3?filename=motd.zip
-	Algirdas Kepezinskas aka "ZeCybEr"
-Mod Pak 1 FMOD
-	http://www.3ddownloads.com/showfile.php3?filename=mpak1v12.zip
-	"Neophyte"
-Holo soldier
-	http://www.3ddownloads.com/showfile.php3?filename=holomod.zip
-	Algirdas Kepezinskas aka "ZeCybEr"
-Accuracy FMOD
-	http://www.3ddownloads.com/showfile.php3?filename=Accuracy.zip
-	Algirdas Kepezinskas aka "ZeCybEr"
-
+quake dodgeball
+	orion bots?
+	https://www.moddb.com/mods/quake-dodgeball/downloads
+	https://quakeone.com/forum/quake-talk/quake-central/7135-quake-dodgeball-now-up
 
 
 
