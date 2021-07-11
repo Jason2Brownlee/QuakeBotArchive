@@ -156,6 +156,7 @@ Total Destruction Bot (TDBot) | Rodrigo Marx aka "Shooter" | [TDBot.zip](bin/TDB
 TrevBot | Kris O'Shea | [trevbot.zip](bin/trevbot.zip)
 Tutor Bot + Holy Wars | Connor Caple aka "RiEvEr" | [holy_tb.zip](bin/holy_tb.zip)
 Tutor Bot | Darryl Atchison aka "coffee" | [tutor.zip](bin/tutor.zip)
+Ultimate Regular Quake Patch (URQP) | Matthias Buecher aka "Maddes" | [urqp106a.zip](bin/urqp106a.zip)<br>[urqp106.zip](bin/urqp106.zip)<br>[urqp105.zip](bin/urqp105.zip)<br>[urqp104a.zip](bin/urqp104a.zip)
 UnknownBot | Brian L. | [ubot14.zip](bin/ubot14.zip)
 UrreBot | Marko Permanto aka "Urre" | [urrebot20050820.zip](bin/urrebot20050820.zip)
 VeNgAb0T | "WuPP" | [venga.zip](bin/venga.zip)
