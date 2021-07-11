@@ -1353,7 +1353,9 @@ Holo soldier
 Accuracy FMOD
 	http://www.3ddownloads.com/showfile.php3?filename=Accuracy.zip
 	Algirdas Kepezinskas aka "ZeCybEr"
-
+Ultimate Regular Quake Patch (URQP)
+	frikbots
+	https://www.quake-info-pool.net/home.htm
 
 
 
