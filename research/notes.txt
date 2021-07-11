@@ -887,6 +887,7 @@ POXbot / Paroxysm
 	pox@planetquake.com
 	https://www.quakewiki.net/quake-1/mods/paroxysm/
 	https://www.quaddicted.com/files/idgames2/planetquake/paroxysm/
+	http://quake.chaoticbox.com/
 Decker's Reapers
 	reaper clone
 	http://www.insideqc.com/qctut/rip1.shtml
