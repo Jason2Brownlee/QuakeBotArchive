@@ -1357,6 +1357,8 @@ Accuracy FMOD
 Ultimate Regular Quake Patch (URQP)
 	frikbots
 	https://www.quake-info-pool.net/home.htm
+	frikbots only added in last releases e.g. 1.06
+	perhaps not worth getting older versions?
 
 
 
