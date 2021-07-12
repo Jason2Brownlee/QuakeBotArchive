@@ -121,7 +121,7 @@ Paroxysm (POXbot) | Frank Condello aka "pOx" | [paroxysm.zip](bin/paroxysm.zip)<
 Quake Bot (QBot) | "Grinder" | [qbot11.zip](bin/qbot11.zip)
 R Bot | Ross Johnson aka "ColdKill" | [rbot70.zip](bin/rbot70.zip)<br>[rbot20.zip](bin/rbot20.zip)<br>rbot.zip
 RABot | Rodrigo Marx aka "Shooter" | [MWRRABOT222CL.ZIP](bin/MWRRABOT222CL.ZIP)<br>[rabot.zip](bin/rabot.zip)
-Reaper + DM4 | "Hades" | [dm4reaper.zip](bin/dm4reaper.zip)
+Reaper + DM4 | Daniel Hein aka "Hades" | [dm4reaper.zip](bin/dm4reaper.zip)
 Reaper + Painkeep | Bent Svendsen aka "Decker" | [pkbot.zip](bin/pkbot.zip)
 Reaper + Scourge of Armagon | Bent Svendsen aka "Decker" | [hipreap3.zip](bin/hipreap3.zip)
 Reaper Bot | Steven Polge | [reaprb81.zip](bin/reaprb81.zip)<br>[rb81src_unoff.zip](bin/rb81src_unoff.zip)<br>[reaper80.zip](bin/reaper80.zip)<br>reaprb75.zip<br>[reaprb07.zip](bin/reaprb07.zip)<br>[reaprb06.zip](bin/reaprb06.zip)<br>reaprb05.zip
