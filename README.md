@@ -117,7 +117,7 @@ Omicron Fixes | Joel Baxter aka "Johnny Law" | [obots102-fixed.zip](bin/obots102
 Optimized Frogbot qboost3 (Amiga) | Christian Michael aka "surgeon" | [frogbot.lha](bin/frogbot.lha)
 OrionBots | "Orion" | [orionbots4rel.zip](bin/orionbots4rel.zip)<br>[orionbots_v2.zip](bin/orionbots_v2.zip)<br>[orionbots_qc_beta5.zip](bin/orionbots_qc_beta5.zip)
 Paddybot | Patrick Stimson aka "sniper" | paddybot02.zip<br>paddybot.zip
-Paroxysm (POXbot) | Frank Craptacular aka "pOx" | [paroxysm.zip](bin/paroxysm.zip)<br>[pox120b.zip](bin/pox120b.zip)<br>[pxsrc120.zip](bin/pxsrc120.zip)<br>[pox111b2.zip](bin/pox111b2.zip)<br>[pox111b.zip](bin/pox111b.zip)<br>[pox102b.zip](bin/pox102b.zip)<br>[pxqc102b.zip](bin/pxqc102b.zip)<br>[pox101bu.zip](bin/pox101bu.zip)<br>[pox_100.zip](bin/pox_100.zip)<br>[poxqc100.zip](bin/poxqc100.zip)<br>[pox_04b2.zip](bin/pox_04b2.zip)
+Paroxysm (POXbot) | Frank Condello aka "pOx" | [paroxysm.zip](bin/paroxysm.zip)<br>[pox120b.zip](bin/pox120b.zip)<br>[pxsrc120.zip](bin/pxsrc120.zip)<br>[pox111b2.zip](bin/pox111b2.zip)<br>[pox111b.zip](bin/pox111b.zip)<br>[pox102b.zip](bin/pox102b.zip)<br>[pxqc102b.zip](bin/pxqc102b.zip)<br>[pox101bu.zip](bin/pox101bu.zip)<br>[pox_100.zip](bin/pox_100.zip)<br>[poxqc100.zip](bin/poxqc100.zip)<br>[pox_04b2.zip](bin/pox_04b2.zip)
 Quake Bot (QBot) | "Grinder" | [qbot11.zip](bin/qbot11.zip)
 R Bot | Ross Johnson aka "ColdKill" | [rbot70.zip](bin/rbot70.zip)<br>[rbot20.zip](bin/rbot20.zip)<br>rbot.zip
 RABot | Rodrigo Marx aka "Shooter" | [MWRRABOT222CL.ZIP](bin/MWRRABOT222CL.ZIP)<br>[rabot.zip](bin/rabot.zip)
