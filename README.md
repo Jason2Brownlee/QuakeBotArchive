@@ -131,7 +131,7 @@ Ric's Reaper Bots | "Ric" | [reap081h.zip](bin/reap081h.zip)
 Roam Bot | Carson Sutton aka "Crimson" | [roambot1.zip](bin/roambot1.zip)
 Rogue Bot | Benjamin Darling aka "Electro" | [Rbot.zip](bin/Rbot.zip)
 SamBot | Sam Stephens aka "Spam-man" | [sambot.zip](bin/sambot.zip)
-Sigmund Bot | Rich Whitehouse aka "thefatal" | [sigbot2.zip](bin/sigbot2.zip)
+Sigmund Bot | Rich Whitehouse aka "thefatal" | [sigbot2.zip](bin/sigbot2.zip)<br>[sigbtsrc.zip](bin/sigbtsrc.zip)<br>[sigbot1.zip](bin/sigbot1.zip)
 Square Bot | Ashley Reynolds aka "Ze0" | [square01a.zip](bin/square01a.zip)<br>squaretst.zip
 Squirt Bot | Michael Buettner aka "Squirt" | [squirt13.zip](bin/squirt13.zip)<br>sq12to13.zip<br>[squirt12.zip](bin/squirt12.zip)<br>squirt12b.zip<br>[squirt11.zip](bin/squirt11.zip)<br>squirt10.zip
 SuPeRMan Bot | "(KSA)Tekken" | superman11.zip
@@ -238,8 +238,4 @@ Perhaps you have one of the files listed?
 
 This quake bot archive would not be as complete as it is without the generousness help from the Quake community.
 
-Special thank you to: John Crickett, Joel Baxter aka "Johnny Law", Hannes aka "Spirit" (from quaddicted), Fabiano D. Amorim aka "vegetous", and Benjamin Darling aka "Electro".
-
-
-
-
+Special thank you to: John Crickett, Joel Baxter aka "Johnny Law", Hannes aka "Spirit" (from quaddicted), Fabiano D. Amorim aka "vegetous", Benjamin Darling aka "Electro", and Rich Whitehouse aka "thefatal".
