@@ -16,7 +16,6 @@ quakeone.com
 	https://quakeone.com/forum/quake-talk/quake-central/283031-more-complete-archive-of-all-quake-1-bots
 quakeworld.nu
 	https://www.quakeworld.nu/forum/topic/7581
-	(awaiting moderation)
 hacker news
 	https://news.ycombinator.com/item?id=27731909
 
