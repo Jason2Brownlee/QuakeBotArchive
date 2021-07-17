@@ -30,7 +30,6 @@ Reaper Bot
 	decompile reaper
 		http://www.insideqc.com/qctut/rip1.shtml
 	Steven Polge
-	polge@ix.netcom.com
 	https://www.bluesnews.com/archives/sept96-5.html
 	old versions?
 		ftp://ftp.pk.edu.pl/pub/games/id/quaketoys/mods/reaprb75.zip
@@ -85,7 +84,6 @@ Frogbot
 	http://www.telefragged.com/mirrors/mirror.pl?metro/frogbot012.zip
 	ftp://ftp.telefragged.com/pub/metro/
 	Robert Field aka Frog
-	Frog@powerup.com.au
 	https://www.mobygames.com/developer/sheet/view/developerId,42907/
 		https://www.linkedin.com/in/robert-field-1235686/ ?
 	GPL
@@ -108,7 +106,6 @@ BGBot
 	https://web.archive.org/web/20030310034438/http://www.planetquake.com/qca/reviews/patch8.htm
 	bgbot20a.zip
 	https://www.quaddicted.com/files/idgames2/quakec/bots/bgbot20a.zip
-	punisher@trojan.neta.com
 	https://www.quaddicted.com/files/idgames2/quakec/weapons/punish.txt
 	Robert DeFilippo III
 	http://www.neta.com/~punisher/
@@ -125,8 +122,6 @@ Cronos Bot / Cronosbot
 		http://dl.fileplanet.com/dl/dl.asp?cronos/hd_cbots_hd.zip
 		http://dl.fileplanet.com/dl/dl.asp?cronos/hd_cbots.zip
 	"Cronos"
-		cronos@planetquake.com
-		Cronos@clovenhoof.freeserve.co.uk
 	http://www.planetquake.com/dl/dl.asp?cronos/hd_pak0.zip
 	http://www.planetquake.com/dl/dl.asp?cronos/hd_progs.zip
 	http://www.planetquake.com/dl/dl.asp?cronos/cronobot.zip
@@ -160,7 +155,7 @@ Cronos Bot / Cronosbot
 	there was an 0.5 release... it was the first release after the move to planet quake
 	https://web.archive.org/web/20020211234942/http://www.botepidemic.com/archives/4nov98-25nov98.shtml
 		?
-		ArwingX@aol.com
+		Arwing
 		Chronobot
 		nope
 Oak Bot
@@ -189,7 +184,6 @@ Tutor Bot / AI cafe / Coffee
 	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/tutor.htm
 	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/files/tutor.zip
 	Darryl Atchison aka "coffee"
-	coffee@planetquake.com
 Roambot
 	CARSON SUTTON ("Gwynn" on irc, "Crimson" to quake victims)
 	Carson Sutton aka "Crimson"
@@ -215,12 +209,10 @@ BGADM Bot
 	https://www.gamers.org/pub/idgames2/quakec/bots/bgadm101.txt
 	https://www.gamers.org/pub/idgames2/quakec/bots/bgadm101.zip
 	I had to compile manually qith qcc...
-	detour@chrysalis.org
 BPLAYER - Bot Player
 	https://www.quaddicted.com/files/idgames2/quakec/bots/bplayer2.txt
 	https://www.quaddicted.com/files/idgames2/quakec/bots/bplayer2.zip
 	Wolf
-	wolfg_l@pro-net.co.uk
 	Wolfgang Lehrach
 	http://www.pro-net.co.uk/home/wolfg_l
 	related to tfbot? oh yes!
@@ -333,7 +325,6 @@ Paddybot
 	https://web.archive.org/web/20001213060000/http://www.fileplanet.com/index.asp?section=66
 	https://web.archive.org/web/20010110032600/http://www.fileplanet.com/index.asp?section=66&file=28002
 	Cannot find file...
-	sniper@isleofmull56.freeserve.co.uk
 	https://web.archive.org/web/20000815235932/http://www.botepidemic.com/quake.shtml
 	Patrick Stimson
 	https://web.archive.org/web/20000815235932/http://www.isleofmull56.freeserve.co.uk/
@@ -355,7 +346,6 @@ Koolio Bot / KoolioBot / Koolio Arena Bot
 	based on tutor
 	https://web.archive.org/web/20010114035500/http://www.botepidemic.com/koolio/
 	"Koolio"
-	koolio@botepidemic.com
 	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/tutorial/locdam.htm
 	http://www.planetkoolio.com/
 	https://web.archive.org/web/20010304020445/http://www.planetkoolio.com/projects.shtml
@@ -367,7 +357,6 @@ Koolio Bot / KoolioBot / Koolio Arena Bot
 	https://web.archive.org/web/20020411053258/http://www.angelfire.com/co2/kooliobot/images/koolio.zip
 	https://web.archive.org/web/20011021092620fw_/http://www.angelfire.com/co2/kooliobot/info.html
 	https://web.archive.org/web/20010304020445/http://www.planetkoolio.com/projects.shtml
-	koolio@planetkoolio.com
 	???
 	https://web.archive.org/web/20010413025038/http://www.thebackburner.com/interviews/interviews.cgi?countera
 	"17 year old guy from the Netherlands"
@@ -389,13 +378,11 @@ GYPOBot
 	https://web.archive.org/web/20010114035500/http://www.dobbsnet.co.uk/gypobot.htm
 	https://web.archive.org/web/20010501075107/http://www.dobbsnet.co.uk/add-ons/quake/gypobot.htm
 	https://web.archive.org/web/20010501075107/http://www.dobbsnet.btinternet.co.uk/downloads/quake/gypobot.zip
-	stephen.dobbs@btinternet.com
 Square Bot / SquareBot
 	https://web.archive.org/web/20010129031600fw_/http://www.users.qwest.net/~mimpchnk/review.htm
 	based on tutor
 	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/news.htm
 	ZeO
-	ze0@botepidemic.com
 	https://www.quake-info-pool.net/news1999.htm
 	http://www.botepidemic.com/square/
 	was hosted, but was removed...
@@ -486,14 +473,12 @@ Dj bot / Djbot / Djbot MK2 / DJBot
 	little evidence
 	https://web.archive.org/web/20000303070145/http://www.botepidemic.com/bots/quake.shtml
 	http://www.botepidemic.com/quadmire/
-	dj22@botepidemic.com
 	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/links.htm
 	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/news.htm
 	DJ Quadmire site.
 	http://freespace.virgin.net/w.james/index.htm
 	https://web.archive.org/web/19991008223853/http://freespace.virgin.net/w.james/DJbot1.zip
 	https://web.archive.org/web/19991008223853/http://freespace.virgin.net/w.james/DJbot1.zip
-	https://web.archive.org/web/19991008223853/mailto:dave.james1@virgin.net
 	https://web.archive.org/web/20000715000000*/http://freespace.virgin.net/w.james/DJbot1.zip
 	???
 Eliminator (reaper) v2
@@ -525,7 +510,6 @@ Eliminator Bot (cbot)
 	https://web.archive.org/web/19990117033644/http://www.iinet.com.au/~cam/quakec.html
 	is it reaper? no.
 	Cameron B. Newham
-	cam@iinet.com.au
 	https://www.bluesnews.com/archives/dec96-3.html
 		src code?
 	https://www.theguardian.com/artanddesign/2019/dec/27/australian-on-mission-to-photograph-every-parish-church-in-england
@@ -792,7 +776,6 @@ JBot
 Human Bot (Hbot)
 	http://www.phlamethrower.co.uk/quake/hbot.zip
 	Jeffrey Lee
-	me@phlamethrower.co.uk
 Lithium CTF
 	https://www.bluesnews.com/archives/may97-2.html
 	- has bots
@@ -813,7 +796,6 @@ Frik-TF / FrikTF
 	https://web.archive.org/web/20020207024220/http://www.ncf.ca/~bk039/bugs.htm
 	http://www.egroups.com/files/friktf/friktf-051800-qw.zip
 	http://www.mdqnet.net/friktf/
-	bk039@freenet.carleton.ca
 	https://web.archive.org/web/20100123221300/http://www.ncf.ca/~bk039/frik-tf.zip
 	https://web.archive.org/web/20100123221300/http://www.ncf.ca/~bk039/friktfqw.zip
 	https://web.archive.org/web/20010609104604/http://groups.yahoo.com/group/friktf/files/
@@ -825,7 +807,6 @@ Frik-TF / FrikTF
 		https://web.archive.org/web/20010609104604/http://groups.yahoo.com/group/friktf/files/friktf-092800-src.zip
 		https://web.archive.org/web/20010609104604/http://groups.yahoo.com/group/friktf/files/friktf-092800.tar.gz
 		https://web.archive.org/web/20010609104604/http://groups.yahoo.com/group/friktf/files/friktf-092800.zip
-		dynamo_tamarin@yahoo.com
 
 TFBots (coffee)
 	https://web.archive.org/web/20041216170620/http://www.planetquake.com/minion/index2.html
@@ -835,7 +816,6 @@ TFBots (coffee)
 	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/readbots.txt
 	https://www.quaddicted.com/quake_advent_calendar_2013/13-18
 	Darryl Atchison aka "coffee"
-	coffee@planetquake.com
 	https://www.quaddicted.com/files/mods/tf_bots07.zip
 	prior versions?
 	https://www.reddit.com/r/RetroPie/comments/93pwke/team_fortress_for_quake/
@@ -845,12 +825,10 @@ TFBots (coffee)
 TFBot (RainKing / GentleMan / Hoerno/Nexus)
 	https://web.archive.org/web/20000831165233/http://planetquake.com/botshop/quake.html
 	http://www.planetquake.com/tfbot
-		wattsup@cedar.alberni.net
 	https://web.archive.org/web/20000303070145/http://www.botepidemic.com/bots/quake.shtml
 	"RainKing"
 	bot for team fortress...
 	https://web.archive.org/web/19990203170848/http://planetquake.com/tfbot/
-		wattsup@cedar.alberni.net
 	https://web.archive.org/web/19991009024128/ftp://ftp.cdrom.com/pub/idgames2/planetquake/tfbot/tfbot080.zip
 	https://dukeworld.com/planetquake/tfbot/
 	does not unzip, had to use another program
@@ -858,13 +836,12 @@ TFBot (RainKing / GentleMan / Hoerno/Nexus)
 	older versions have src
 		https://dukeworld.com/planetquake/tfbot/TFBot076.zip
 		based on not skeleton
-	wolfg_l@pro-net.co.uk
 	"GentleMan"
 	http://www.pro-net.co.uk/home/wolfg_l/
 	https://web.archive.org/web/19990127110318/http://www.pro-net.co.uk/home/wolfg_l/
 	https://www.quakewiki.net/archives/botarea51/main/qbot2e5f.html?id=22
 	Hoerno/Nexus ?
-		Joern Strombach / Hoerno@o-online.de
+		Joern Strombach /
 		maybe a fix for the prior version by "GentleMan"?
 	https://web.archive.org/web/19990218040426/http://www.planetquake.com/qca/reviews/patch107.htm
 	https://web.archive.org/web/20001011101258/ftp://ftp.cdrom.com/pub/quake/planetquake/qca/tfb-v07.zip
@@ -884,7 +861,6 @@ POXbot / Paroxysm
 	just a bot added to a mod
 	based on tutor bot
 	https://web.archive.org/web/20010602102355/http://www.planetquake.com/paroxysm/
-	pox@planetquake.com
 	https://www.quakewiki.net/quake-1/mods/paroxysm/
 	https://www.quaddicted.com/files/idgames2/planetquake/paroxysm/
 	http://quake.chaoticbox.com/
@@ -937,7 +913,6 @@ Frog Bot Clan Arena (FBCA)
 	https://www.quakewiki.net/archives/cronos/index89c3.html?links.html
 	Alexey 'ParboiL' Pakhomov
 	Alexey Pakhomov aka "ParboiL"
-		parboil@quakeworld.ru
 	http://www.parboil.quakeworld.ru/parboil/fbca101final.zip
 	https://github.com/ezQuake/fbca
 	fbca101kt.zip
@@ -955,7 +930,6 @@ Frog Bot Clan Arena (FBCA)
 	http://www.parboil.newmail.ru/parboil/fbca86se.zip
 	http://tux.telefragged.com/file.pl?filename=fbca085.zip
 	Matt McChesney aka "Asdf"
-		mtm07@hotmail.com
 		https://web.archive.org/web/20020514054317/http://www.3ddownloads.com/?file_id=14234
 	http://dl.dropbox.com/u/923337/FrogBot/fbca101final.zip
 	https://www.quakeworld.nu/forum/topic/4784/parboil-site-down-who-will-replace
@@ -989,12 +963,10 @@ frogbot ctf / Frogbot CTF / FBCTF
 	...
 	numb
 	Gerard Ryan aka "numb"
-	numb@macquakeintosh.com
 Frogbot BotMatch Arena / BotMatch frogbot mod
 	https://web.archive.org/web/20100123221244/http://botepidemic.no-origin.net/fmods/index.htm
 	Alex
 	DmSouL
-	dmsoul@mailru.com
 	http://www.dmsoul.mailru.com/botmatch/bm119gl.zip
 	bm119gl.zip
 	https://web.archive.org/web/20100123221244/http://www.dmsoul.mailru.com/botmatch/source_of_bm.ZIP
@@ -1005,16 +977,13 @@ Frogbot 2000 / Frogbot 2K
 	https://web.archive.org/web/20100123221300/http://tux.telefragged.com/file.pl?filename=f2k006d.zip
 	"Justice"
 	https://web.archive.org/web/20100123221300/http://tux.telefragged.com/file.pl?filename=f2k001a.zip
-	datdeboer@gmx.net
 	https://web.archive.org/web/20100123221244/http://www.botepidemic.com/fmods/versie.zip
 	https://web.archive.org/web/20100123221244/http://www.3ddownloads.com/showfile.php3?filename=2000.zip
-	dennisbo@hotmail.com
 	https://web.archive.org/web/20100123221244/http://www.3ddownloads.com/showfile.php3?filename=f2k006d.zip
 	http://www.moonlightarts.de/fb2000/
 	https://web.archive.org/web/20020614055730/http://www.moonlightarts.de/fb2000/
 	Dennis de Boer
 	http://www.moonlightarts.de/fb2000/fb2k_files.htm
-	dennisbo@hotmail.com
 Frogbot Special Edition / Erazor frogbot "Test Special Edition"
 	https://web.archive.org/web/20100123221300/http://tux.telefragged.com/file.pl?filename=fb013se.zip
 	what is this?
@@ -1033,7 +1002,6 @@ Dark Frog Bot FMOD / Dark Frogbot
 Vicinity Bot (FMOD)
 	https://web.archive.org/web/20091214083424/http://botepidemic.no-origin.net/fmods/mods.htm
 	Black
-	black@vegovc.s-sser.lj.edus.si
 	http://www.3ddownloads.com/showfile.php3?filename=vicinity/vicinityqwprogs.zip
 	http://www.3ddownloads.com/showfile.php3?filename=vicinity/vicinitymodels.zip
 	https://web.archive.org/web/20091214083424/http://www.3ddownloads.com/showfile.php3?filename=maps/fbarenax.zip&directory=/telefragged/be/fmods/
@@ -1050,7 +1018,6 @@ Holywars Tutor Bot
 	https://dukeworld.com/planetquake/minion/holy_tb.zip
 	"RiEvEr"
 	Connor "RiEvEr" Caple
-	riever@planetquake.com
 SuPeRMan Bot
 	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/news.htm
 	by (KSA)Tekken
@@ -1061,7 +1028,7 @@ FrikBot + Last Man Standing
 	https://web.archive.org/web/20000817070547/http://www.inside3d.com/frikbot/
 	https://web.archive.org/web/20000817070547/http://www.inside3d.com/frikbot/download.shtml?file=frikbot/frik-lms.zip
 	https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/inside3d/frikbot/frik-lms.zip
-	dynamo_tamarin@yahoo.com (Raymond Martineau)
+	Raymond Martineau
 	frik-lms.zip
 FrikBot + Final Arena
 	https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/inside3d/frikbot/frikfa.zip
@@ -1125,7 +1092,6 @@ FrikBot + Artifact Quake / Runebot
 	https://web.archive.org/web/20000831024015/http://www.home.earthlink.net/~pentm450/rnbt3.6.zip
 	https://web.archive.org/web/20000831024015/http://www.home.earthlink.net/~pentm450/rnbt4.2.zip
 	Chuck Parsons
-	Pentm450@earthlink.net
 FrikBot + Head Hunters
 	https://web.archive.org/web/20000831024015/http://www.home.earthlink.net/~pentm450/
 	https://web.archive.org/web/20000831024015/http://www.home.earthlink.net/~pentm450/hhbot.zip
@@ -1226,7 +1192,6 @@ LGC
 	lgc.zip
 LoydBot
 	LoydBot v1.0 - By Juninho
-	loyd@quake-br.com.br
 	http://www.loyd.cjb.net
 	http://www.loydbot.cjb.net
 RABot
@@ -1247,7 +1212,6 @@ TD-BOT
 	http://hkc.cjb.net/
 	http://membro.intermega.com.br/gqc/tdbot1_0.zip
 	tdbot1_0.zip
-	ganghp@bol.com.br
 mechbot td2
 	mech.zip
 	a TD2 bot (brazlian quake...)
@@ -1435,7 +1399,6 @@ Goatbot
 ? bot
 	https://web.archive.org/web/19990125093758/http://www.botepidemic.com/
 	by "HellioN"
-	hellion21@hotmail.com
 	Nothing on the web about this...
 	???
 TFBot / Team Fortress Bot
@@ -1447,7 +1410,6 @@ TFBot / Team Fortress Bot
 	https://web.archive.org/web/20020112065618/http://www.botepidemic.com/tfb/
 	Frikbot based
 	Plumb
-	plumb@botepidemic.com
 	no release??? no files ever...?
 	???
 shockbot
