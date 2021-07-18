@@ -1441,6 +1441,7 @@ Reapa
 Elima-Reaper / Elima Reaper
 	http://www.insideqc.com/modindex/qreview/patch9-1.shtml
 	Roscoe A. Sincero
+	no release...
 
 
 
@@ -1480,11 +1481,10 @@ quake mods here that have a bot added
 
 OUT OF SCOPE
 --------------------------------------------------------------------------------
-- Client-side bots / proxy bots / aim bots are all out of scope for now.
-- Monsters are out of scope for now.
+- Client-side bots / proxy bots / aim bots are all out of scope.
 - Engine bots are out of scope.
-- What about quakeworld bots? (I don't even understand what that means yet...)
-	I think QW bots that are quakec might be in scope at this stage...
+- Monsters are out of scope.
+
 
 GeneBot / Gene Bot
 	quakeworld
