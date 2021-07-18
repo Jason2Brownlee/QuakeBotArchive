@@ -78,8 +78,12 @@ Telefragged Mirrors
 	https://ia801303.us.archive.org/view_archive.php?archive=/33/items/AtomicGamer_telefragged/AtomicGamer_telefragged.tar
 bots united
 	http://bots-united.com/
-3ddownloads mirror
+3ddownloads/atomicgamer archives
 	https://doomwiki.org/wiki/User:Shambler/3ddownloads_archive
+	https://archive.org/details/atomicgamer
+	https://archive.org/search.php?query=AtomicGamer
+	https://wiki.archiveteam.org/index.php?title=Atomicgamer
+	https://www.celephais.net/board/view_thread.php?id=60873&start=236&end=260
 slipgate central bot
 	https://web.archive.org/web/19971210230311/http://www.slipgatecentral.com/Addons/Bots/
 
