@@ -1335,6 +1335,11 @@ FRIKBOT_X
 	https://web.archive.org/web/20130812175303/http://winxp76.net/index.php?dir=Game%20Hacks/QUAKE%201/
 	fbxa but has a zillion waypoints
 	not a bot release per se, more of a waypoint release or repackaging
+quakeworld client emulation
+	qwfcserv.zip
+	qwfcsrc.zip
+	https://www.richwhitehouse.com/index.php?content=inc_res.php
+	bot framework for QW I believe
 
 
 
