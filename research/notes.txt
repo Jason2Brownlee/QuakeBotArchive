@@ -1402,6 +1402,9 @@ Mathfrag
 	https://web.archive.org/web/20110202062819/http://tlb.quakedev.com/
 	Dr.Shadowborg
 	https://quakeone.com/forum/quake-help/general-help/9845-need-help-finding-a-mod
+Hellsmash
+	has Frikbot X
+	https://www.celephais.net/board/view_thread.php?id=60408
 
 
 No Info...
