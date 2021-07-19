@@ -80,6 +80,7 @@ Frogbot + Clan Arena (FBCA) | Rui Neto aka "Trinca" | [QWProgs379.rar](bin/QWPro
 Frogbot + Clan Arena + Kombat Teams | Alexey Pakhomov aka "ParboiL" | [fbca102kt.zip](bin/fbca102kt.zip) <br>fbca102kt-rc1.zip<br>[fbca101final.zip](bin/fbca101final.zip)<br>[fbca101kt.zip](bin/fbca101kt.zip)<br>[fbca101alt.zip](bin/fbca101alt.zip)<br>fbca095kt.zip<br>[fbca092kt.zip](bin/fbca092kt.zip)<br>fbca091kt.zip<br>fbca090kt.zip<br>fbca089kt.zip<br>
 Frogbot + CTF (FBCTF) | Gerard Ryan aka "numb" | [fbctf0532.zip](bin/fbctf0532.zip)<br>fbctf053.zip<br>fbctf052.zip<br>fbctf041.zip<br>[fbctf035.zip](bin/fbctf035.zip)<br>fbctf034.zip<br>fbctf033.zip<br>fbctf032.zip<br>fbctf030.zip<br>[fbctf027.zip](bin/fbctf027.zip)<br>fbctf026.zip<br>fbctf024.zip<br>fbctf023.zip<br>fbctf021.zip<br>fbctf019.zip<br>fbctf015.zip<br>fbctf014.zip<br>fbctf013.zip<br>fbctf011.zip<br>fbctf010.zip<br>fbctf006.zip<br>fbctf004.zip
 Frogbot + Holy Wars | Gerard Ryan aka "numb and Paolo Perrotta aka "Nusco" | hw_frogbotf.zip<br>hw_frogbot14h.zip<br>hw_frogbot14f.zip<br>hw_frogbot14.zip<br>[hw_frogbot13.zip](bin/hw_frogbot13.zip)
+Frogbot + QuakeWorld | Rich Whitehouse aka "thefatal" | [qwsvfrog.zip](bin/qwsvfrog.zip)
 Frogbot + Rocket Arena | Alexey Pakhomov aka "ParboiL" | [fbra.zip](bin/fbra.zip)
 Frogbot + Rocket Arena | Brian Mathiasen aka "Erazor" | fbarena013.zip
 Frogbot 2000 | Dennis de Boer aka "Justice" | [f2k006d.zip](bin/f2k006d.zip)<br>[versie.zip](bin/versie.zip)<br>[f2k003c.zip](bin/f2k003c.zip)<br>f2k001a.zip<br>2000.zip
@@ -168,6 +169,7 @@ WLBot | Kualker Koisa aka "Matador" | [wlbot21.7z](bin/wlbot21.7z)<br>wlbot1.9.z
 XKteams | Mark | xkteams2.zip<br>xkteams1705.zip<br>xkteams1705s.zip
 Xreaper | Ruud Heemskerk aka "Mephisto" | [xreaperb130.zip](bin/xreaperb130.zip)<br>[xreaperb130_unoff.zip](bin/xreaperb130_unoff.zip)<br>setup.exe
 Zeus Bot | Jonathan E. Wright aka "Nelno the Amoeba" | [zeus205.zip](bin/zeus205.zip)<br>[zeus_src.zip](bin/zeus_src.zip)<br>[zeus205s.zip](bin/zeus205s.zip)<br>[zeus2042.zip](bin/zeus2042.zip)<br>[zeus204.zip](bin/zeus204.zip)<br>[zeus203b.zip](bin/zeus203b.zip)<br>zeus202b.zip<br>[zeus10.zip](bin/zeus10.zip)
+
 
 File Column:
 - **no link** Indicates I discovered the filename but could not find a copy of the file to archive.
