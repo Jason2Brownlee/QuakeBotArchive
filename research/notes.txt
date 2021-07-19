@@ -1340,6 +1340,14 @@ quakeworld client emulation
 	qwfcsrc.zip
 	https://www.richwhitehouse.com/index.php?content=inc_res.php
 	bot framework for QW I believe
+Frikbot X Resource Cube
+	Lightning_Hunter
+	http://quakeone.com/forum/quake-talk/quake-central/4944-new-frikbot-waypoints
+	https://web.archive.org/web/20070824072433/http://tlb.quakedev.com/files/fbxways/
+	pre-cursor to "THE DEFINITIVE FRIKBOT WAYPACK "
+	https://web.archive.org/web/20070824072433/http://tlb.quakedev.com/files/fbxways/omega.zip
+	https://web.archive.org/web/20070826210916/http://tlb.quakedev.com/files/fbxways/variants/fbxdoom.rar
+	fbxdoom.rar
 
 
 
@@ -1389,7 +1397,11 @@ quake dodgeball
 	orion bots?
 	https://www.moddb.com/mods/quake-dodgeball/downloads
 	https://quakeone.com/forum/quake-talk/quake-central/7135-quake-dodgeball-now-up
-
+Mathfrag
+	has Frikbot X
+	https://web.archive.org/web/20110202062819/http://tlb.quakedev.com/
+	Dr.Shadowborg
+	https://quakeone.com/forum/quake-help/general-help/9845-need-help-finding-a-mod
 
 
 No Info...

@@ -75,6 +75,7 @@ fbctf053.zip
 fbma102_src.zip
 fbmod.zip
 fbph.zip
+fbxdoom.rar
 fbxpk.zip
 fixedsrc.zip
 frik-tf.zip
@@ -107,6 +108,7 @@ koolio.zip
 kqcbotsource.zip
 lgc.zip
 maniacbt12.zip
+monsterFBXID1waysV2.zip
 motd.zip
 mpak1v12.zip
 nnctf.zip
@@ -114,6 +116,7 @@ nnsource.zip
 oak084.zip
 oak0855.zip
 obots100.zip
+omega.zip
 paddybot.zip
 paddybot02.zip
 pak2pak.zip
