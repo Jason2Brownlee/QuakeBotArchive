@@ -1323,6 +1323,18 @@ Ultimate Regular Quake Patch (URQP)
 	https://www.quake-info-pool.net/home.htm
 	frikbots only added in last releases e.g. 1.06
 	perhaps not worth getting older versions?
+Frog + Quakeworld
+	Rich
+	qwsvfrog.zip
+	https://web.archive.org/web/20130812175303/http://winxp76.net/index.php?dir=Game%20Hacks/QUAKE%201/
+	https://www.richwhitehouse.com/index.php?content=inc_res.php
+FRIKBOT_X
+	https://www.moddb.com/mods/frikbot-x/downloads/frikbot-x-with-waypoints
+	FRIKBOT_X.zip
+	http://winxp76.net/index.php?dir=Game%20Hacks/QUAKE%201/
+	https://web.archive.org/web/20130812175303/http://winxp76.net/index.php?dir=Game%20Hacks/QUAKE%201/
+	fbxa but has a zillion waypoints
+	not a bot release per se, more of a waypoint release or repackaging
 
 
 
