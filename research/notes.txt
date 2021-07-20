@@ -1348,6 +1348,20 @@ Frikbot X Resource Cube
 	https://web.archive.org/web/20070824072433/http://tlb.quakedev.com/files/fbxways/omega.zip
 	https://web.archive.org/web/20070826210916/http://tlb.quakedev.com/files/fbxways/variants/fbxdoom.rar
 	fbxdoom.rar
+Hellsmash
+	has Frikbot X
+	https://www.celephais.net/board/view_thread.php?id=60408
+	http://forums.inside3d.com/viewtopic.php?p=22390
+	http://forums.inside3d.com/viewtopic.php?f=1&t=2037
+	http://tlb.quakedev.com/files/qsrbeta3a.zip
+	http://quakeone.com/forum/news/site-news/5448-hellsmash
+	http://www.quake-1.com/files/modfiles/qsrbeta3x.zip
+	http://forums.inside3d.com/viewtopic.php?t=2037
+	https://br0gspot.wordpress.com/2013/12/09/getting-back-into-the-hellsmash-of-things/
+	https://www.quaddicted.com/files/mods/qsr04a.7z
+	https://www.quaddicted.com/files/mods/
+
+
 
 
 
@@ -1402,9 +1416,7 @@ Mathfrag
 	https://web.archive.org/web/20110202062819/http://tlb.quakedev.com/
 	Dr.Shadowborg
 	https://quakeone.com/forum/quake-help/general-help/9845-need-help-finding-a-mod
-Hellsmash
-	has Frikbot X
-	https://www.celephais.net/board/view_thread.php?id=60408
+
 
 
 No Info...
