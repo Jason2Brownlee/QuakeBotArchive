@@ -1360,7 +1360,9 @@ Hellsmash
 	https://br0gspot.wordpress.com/2013/12/09/getting-back-into-the-hellsmash-of-things/
 	https://www.quaddicted.com/files/mods/qsr04a.7z
 	https://www.quaddicted.com/files/mods/
-
+	http://forums.insideqc.com/viewtopic.php?f=1&t=967&p=41389
+	qsrbeta1b.zip
+	qsrbeta1.zip
 
 
 
