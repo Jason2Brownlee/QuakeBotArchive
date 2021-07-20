@@ -1363,6 +1363,12 @@ Hellsmash
 	http://forums.insideqc.com/viewtopic.php?f=1&t=967&p=41389
 	qsrbeta1b.zip
 	qsrbeta1.zip
+Mathfrag
+	has Frikbot X
+	https://web.archive.org/web/20110202062819/http://tlb.quakedev.com/
+	Dr.Shadowborg
+	https://quakeone.com/forum/quake-help/general-help/9845-need-help-finding-a-mod
+	mlx20b.zip
 
 
 
@@ -1413,11 +1419,7 @@ quake dodgeball
 	orion bots?
 	https://www.moddb.com/mods/quake-dodgeball/downloads
 	https://quakeone.com/forum/quake-talk/quake-central/7135-quake-dodgeball-now-up
-Mathfrag
-	has Frikbot X
-	https://web.archive.org/web/20110202062819/http://tlb.quakedev.com/
-	Dr.Shadowborg
-	https://quakeone.com/forum/quake-help/general-help/9845-need-help-finding-a-mod
+
 
 
 

@@ -107,6 +107,7 @@ Lithium CTF Bot | Juan Ignacio Rava aka "Johnny" | [lith091c.zip](bin/lith091c.z
 LoydBot | Loyd aka "Juninho" | [lbotv10.zip](bin/lbotv10.zip)
 MaNiAc's FrogBot MOD (lag simulation) | Michael Turitzin aka "MaNiAc" | [lagmod.zip](bin/lagmod.zip)
 MaNiAcBot | Michael Turitzin aka "MaNiAc" | [maniacbt.zip](bin/maniacbt.zip)<br>maniacbt12.zip<br>FBMOD.ZIP
+Mathfrag | "Dr. Shadowborg" | [mlx20b.zip](bin/mlx20.zip)
 MegaBot | "Vic" | [megabot.zip](bin/megabot.zip)
 Midair Bots | Benjamin Darling aka "Electro" and "Vomit" | [midair_qwbot.rar](bin/midair_qwbot.rar)<br>[midairbots_all.zip](bin/midairbots_all.zip)<br>[midairbots.zip](bin/midairbots.zip)
 Mod Pak 1 FMOD | "Neophyte" | mpak1v12.zip
