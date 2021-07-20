@@ -108,7 +108,7 @@ koolio.zip
 kqcbotsource.zip
 lgc.zip
 maniacbt12.zip
-monsterFBXID1waysV2.zip
+monsterfbxid1waysv2.zip
 motd.zip
 mpak1v12.zip
 nnctf.zip
