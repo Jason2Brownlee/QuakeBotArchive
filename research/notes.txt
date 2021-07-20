@@ -1419,8 +1419,12 @@ quake dodgeball
 	orion bots?
 	https://www.moddb.com/mods/quake-dodgeball/downloads
 	https://quakeone.com/forum/quake-talk/quake-central/7135-quake-dodgeball-now-up
-
-
+Qore
+	- has frikbotx
+	https://www.moddb.com/mods/qore
+SuperDuper
+	has frikbots
+	https://quakeone.com/forum/quake-mod-releases/finished-works/12534-superduper-3-21
 
 
 No Info...
@@ -1524,7 +1528,9 @@ Ultimate Deathmatch
 quake mods here that have a bot added
 	http://www.randars.com/bots/bots2.html
 	https://www.quaketerminus.com/addon.shtml
-
+frikbot mods
+	http://leileilol.mancubus.net/static/download.html
+	...
 
 
 OUT OF SCOPE
