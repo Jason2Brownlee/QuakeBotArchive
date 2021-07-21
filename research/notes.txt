@@ -1369,6 +1369,13 @@ Mathfrag
 	Dr.Shadowborg
 	https://quakeone.com/forum/quake-help/general-help/9845-need-help-finding-a-mod
 	mlx20b.zip
+Quake Dodgeball
+	orion bots?
+	https://www.moddb.com/mods/quake-dodgeball/downloads
+	https://quakeone.com/forum/quake-talk/quake-central/7135-quake-dodgeball-now-up
+	http://www.quaketastic.com/upload/files/multiplayer/mods/Quake_Dodgeball_1.1_01.zip
+
+
 
 
 
@@ -1415,10 +1422,6 @@ The Force / Duel of the Fates mod
 	Frika C / Akuma
 	mod / tc
 	uses frikbots
-quake dodgeball
-	orion bots?
-	https://www.moddb.com/mods/quake-dodgeball/downloads
-	https://quakeone.com/forum/quake-talk/quake-central/7135-quake-dodgeball-now-up
 Qore
 	- has frikbotx
 	https://www.moddb.com/mods/qore
@@ -1489,10 +1492,12 @@ Reapa
 	https://www.hendrixgames.com/about/
 	Mongoose
 	https://social.hendrixgames.com/thendrix
+	Contacted author.
 	no release...
 Elima-Reaper / Elima Reaper
 	http://www.insideqc.com/modindex/qreview/patch9-1.shtml
 	Roscoe A. Sincero
+	Contacted author.
 	no release...
 
 

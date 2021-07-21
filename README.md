@@ -122,6 +122,7 @@ OrionBots | "Orion" | [orionbots4rel.zip](bin/orionbots4rel.zip)<br>[orionbots_v
 Paddybot | Patrick Stimson aka "sniper" | paddybot02.zip<br>paddybot.zip
 Paroxysm (POXbot) | Frank Condello aka "pOx" | [paroxysm.zip](bin/paroxysm.zip)<br>[pox120b.zip](bin/pox120b.zip)<br>[pxsrc120.zip](bin/pxsrc120.zip)<br>[pox111b2.zip](bin/pox111b2.zip)<br>[pox111b.zip](bin/pox111b.zip)<br>[pox102b.zip](bin/pox102b.zip)<br>[pxqc102b.zip](bin/pxqc102b.zip)<br>[pox101bu.zip](bin/pox101bu.zip)<br>[pox_100.zip](bin/pox_100.zip)<br>[poxqc100.zip](bin/poxqc100.zip)<br>[pox_04b2.zip](bin/pox_04b2.zip)
 Quake Bot (QBot) | "Grinder" | [qbot11.zip](bin/qbot11.zip)
+Quake Dodgeball | Brendan aka "Trickle" and "Orion" | [quake_dodgeball_v1.2.6.zip](bin/quake_dodgeball_v1.2.6.zip)<br>[db_src_2016.zip](bin/db_src_2016.zip)<br>[Quake_Dodgeball_1.1_01.zip](bin/Quake_Dodgeball_1.1_01.zip)
 R Bot | Ross Johnson aka "ColdKill" | [rbot70.zip](bin/rbot70.zip)<br>[rbot20.zip](bin/rbot20.zip)<br>rbot.zip
 RABot | Rodrigo Marx aka "Shooter" | [MWRRABOT222CL.ZIP](bin/MWRRABOT222CL.ZIP)<br>[rabot.zip](bin/rabot.zip)
 Reaper + DM4 | Daniel Hein aka "Hades" | [dm4reaper.zip](bin/dm4reaper.zip)
