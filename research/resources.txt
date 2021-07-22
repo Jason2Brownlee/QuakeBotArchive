@@ -58,7 +58,7 @@ bot authors
 		https://web.archive.org/web/19981206123951/http://www.botauthors.org/algorithms.html
 bot emporium (quake 2...)
 	https://www.quakewiki.net/archives/emporium.planetquake.gamespy.com/
-cdrom.com idgames2/quakec/bots Mirros
+cdrom.com idgames2/quakec/bots Mirrors
 	https://www.quaddicted.com/files/idgames2/quakec/bots
 	https://www.gamers.org/pub/idgames2/quakec/bots/
 	ftp://ftp.fu-berlin.de/pc/games/idgames2/quakec/bots/
