@@ -242,11 +242,13 @@ Cujo Bot (single player)
 		http://www.trailerpark.com/phase1/nelno/
 		http://www.planetquake.com/zeus
 	old versions:
-		1.3, 1.2c, 1.2b, 1.2a, 1.2, 1.1, 1.0
+		1.4, 1.3, 1.2c, 1.2b, 1.2a, 1.2, 1.1, 1.0
 	archive
 		https://web.archive.org/web/19981201033343/http://www.trailerpark.com/phase1/nelno/
-		https://web.archive.org/web/*/http://www.planetquake.com/zeus/
 		https://web.archive.org/web/20021030231204/http://www.planetquake.com/qca/reviews/patch104.htm
+	http://www.planetquake.com/qca/zeus/
+		http://www.planetquake.com/qca/zeus/cujo14.zip
+		https://web.archive.org/web/19970309231443/http://www.planetquake.com/qca/zeus/
 	other
 		https://www.quakewiki.net/archives/qca/reviews/patch31.txt
 		CUJO12C.ZIP
