@@ -25,7 +25,6 @@ clanv0.6auto.zip
 clanv0.7hman.zip
 ctfbot13.zip
 cujo12c.zip
-cujo13.zip
 darkbt10.zip
 darkfrog.zip
 djbot1.zip
