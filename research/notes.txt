@@ -481,40 +481,54 @@ Dj bot / Djbot / Djbot MK2 / DJBot
 	https://web.archive.org/web/19991008223853/http://freespace.virgin.net/w.james/DJbot1.zip
 	https://web.archive.org/web/20000715000000*/http://freespace.virgin.net/w.james/DJbot1.zip
 	???
-Eliminator (reaper) v2
-	reaper clone
-	https://www.quakewiki.net/archives/botarea51/main/qbot3773.html?id=27
-	http://www.gamers.org/pub/idgames2/quakec/bots/eliminator/
-	Perged & FuzzKatT
-	elim20b7.zip
-	http://www.planetquake.com/eliminator
-	https://web.archive.org/web/19990203024331/http://impact.frag.com/
-	https://web.archive.org/web/19990221085355/http://users.andara.com/~jdown/beta7.txt
-	https://web.archive.org/web/19990203003835fw_/http://www.planetquake.com/eliminator/files.html
-	https://web.archive.org/web/19990203003835/http://users.andara.com/~jdown/elim20b7.zip
-	http://www.ccn.cs.dal.ca/~ae142/
-	https://web.archive.org/web/sitemap/http://users.andara.com/~jdown/
-	http://www.insideqc.com/modindex/qreview/patch7.shtml
-	http://www.chebucto.ns.ca/~ae142/
-Eliminator v1
-	https://www.quakewiki.net/archives/botarea51/main/qbot8bcf.html?id=30
+Eliminator Bot (cbot engine)
 	Cameron B. Newham
-	elim14.zip
-	elimpack.zip
+	usenet searches found:
+		http://www.iinet.com.au/~cam/quakec.html
+		http://www.iinet.com.au/~cam/elim10.zip
+		http://www.iinet.com.au/~cam/elim11.zip
+		http://www.iinet.com.au/~cam/elim12.zip
+	archive
+		https://web.archive.org/web/19990117033644/http://www.iinet.com.au/~cam/quakec.html
+		https://web.archive.org/web/19990423124151/http://www.iinet.com.au/~cam/
+	google searches:
+		http://annex.retroarchive.org/cdrom/nightowl-023/022A/ELIM11.ZIP
+		http://annex.retroarchive.org/cdrom/nightowl-023/022A/ELIM12.ZIP
+		http://cd.textfiles.com/swextrav8/swextrav8-2/gamapog1/elim12.zip
+		http://cd.textfiles.com/swextrav8/swextrav8-2/gamapog1/elim14.zip
+	src
+		https://www.bluesnews.com/archives/dec96-3.html
+		https://web.archive.org/web/20020108164713/http://www.geocities.com/timessquare/dungeon/1271/files.html
+		elimsrc.zip
+	more
+		https://www.quaddicted.com/magazines/cd_zone_issue_48_march_1997
+		http://botarea51.impulse9.net/mirror/bot/elim14.zip
+		https://www.quakewiki.net/archives/botarea51/main/qbot8bcf.html?id=30
+		http://www.fileplanet.com/dl.aspx?/planetquake/botarea51/bot/elim14.zip
+		https://www.theguardian.com/artanddesign/2019/dec/27/australian-on-mission-to-photograph-every-parish-church-in-england
+		https://www.quakewiki.net/quake-1-bots/
+			See the comment at the bottom of the page
+Eliminator v1 (elim14 -> elim141)
 	https://www.quaddicted.com/files/idgames2/quakec/bots/eliminator/
 	https://www.quaddicted.com/files/idgames2/quakec/bots/eliminator/elim141.zip
-Eliminator Bot (cbot)
-	elim14.zip
-	http://cd.textfiles.com/swextrav8/swextrav8-2/gamapog1/elim14.zip
-	http://www.iinet.com.au/~cam/quakec.html
-	https://web.archive.org/web/19990117033644/http://www.iinet.com.au/~cam/quakec.html
-	is it reaper? no.
-	Cameron B. Newham
-	https://www.bluesnews.com/archives/dec96-3.html
-		src code?
-	https://www.theguardian.com/artanddesign/2019/dec/27/australian-on-mission-to-photograph-every-parish-church-in-england
-	Cameron Newham comment:
-		https://www.quakewiki.net/quake-1-bots/
+	Extension after Newham released the source
+	Jonathan Down (Perged <S.T.K.>)
+	http://www.ccn.cs.dal.ca/~ae142/homepage.html
+	http://www.ccn.cs.dal.ca/~ae142/
+	https://web.archive.org/web/19990220160146/http://www.ccn.cs.dal.ca/~ae142/
+	http://www.planetquake.com/eliminator/
+	https://web.archive.org/web/19990202102720/http://www.planetquake.com/eliminator/
+Eliminator v2
+	http://www.planetquake.com/eliminator/
+	https://web.archive.org/web/19990202102720/http://www.planetquake.com/eliminator/
+	http://www3.ns.sympatico.ca/jdown/Files/elim20b7.zip
+	http://users.andara.com/~jdown/elim20b7.zip
+	https://web.archive.org/web/20010305195701/http://users.andara.com/~jdown/beta7.txt
+	https://web.archive.org/web/19990203003835fw_/http://www.planetquake.com/eliminator/files.html
+	The Eliminator Bot V2.0 BETA 7
+	by Perged <S.T.K> and FuzzKatT <S.T.K>
+	http://www3.ns.sympatico.ca/ptcraig/
+	http://www.insideqc.com/modindex/qreview/patch7.shtml
 Doombot
 	Roscoe A. Sincero AKA Legion
 	https://www.quaddicted.com/files/idgames2/quakec/bots/dmbt21b3.txt
