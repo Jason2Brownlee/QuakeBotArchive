@@ -228,10 +228,32 @@ TM Bot
 	https://www.quaddicted.com/files/idgames2/quakec/bots/
 	https://www.quaddicted.com/files/idgames2/quakec/bots/tmbot11.zip
 Cujo Bot (single player)
-	https://web.archive.org/web/20021030231204/http://www.planetquake.com/qca/reviews/patch104.htm
-	https://www.quaddicted.com/files/idgames2/quakec/bots/
+	(also author of zeus bot)
 	https://www.quaddicted.com/files/idgames2/quakec/bots/cujo14.zip
 	https://www.quaddicted.com/files/idgames2/quakec/bots/cujo14.txt
+	https://dukeworld.com/idgames2/quakec/bots/cujo14.zip
+	https://ftp.zx.net.nz/pub/archive/ftp.gamers.org/pub/idgames2/quakec/bots/cujo14.zip
+	ftp://ftp.cdrom.com/pub/quake/quakec/bots/cujo14.zip
+	https://www.gamers.org/pub/idgames2/quakec/bots/cujo14.zip
+	https://www.quakewiki.net/archives/qca/reviews/patch104.htm
+	ftp://ftp.cdrom.com/pub/quake/planetquake/qca/cujo14.zip
+	Jonathan E. Wright
+	old pages
+		http://www.trailerpark.com/phase1/nelno/
+		http://www.planetquake.com/zeus
+	old versions:
+		1.3, 1.2c, 1.2b, 1.2a, 1.2, 1.1, 1.0
+	archive
+		https://web.archive.org/web/19981201033343/http://www.trailerpark.com/phase1/nelno/
+		https://web.archive.org/web/*/http://www.planetquake.com/zeus/
+		https://web.archive.org/web/20021030231204/http://www.planetquake.com/qca/reviews/patch104.htm
+	other
+		https://www.quakewiki.net/archives/qca/reviews/patch31.txt
+		CUJO12C.ZIP
+	http://web.archive.org/web/19961225222615/http://www.cdrom.com/pub/idgames2/quakec/monsters/
+		http://www.cdrom.com/pub/idgames2/quakec/monsters/cujo13.zip
+	usenet
+		cujo12c.zip
 Ogre Bot
 	https://web.archive.org/web/20020821004023/http://www.planetquake.com/qca/reviews/patch102.htm
 	https://www.quaddicted.com/files/idgames2/quakec/bots/ogrebot.zip
