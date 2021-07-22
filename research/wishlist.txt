@@ -39,6 +39,7 @@ doombot.zip
 drkbot04.zip
 drkbt013.zip
 elim10.zip
+elim13.zip
 elimpack.zip
 f2k001a.zip
 fb013se.zip
