@@ -92,7 +92,7 @@ Gideon Bot | Matthew Turvey | [gidbot.zip](bin/gidbot.zip)
 GlacierBot | Rainier Rapera aka "IceDagger" | [gb027b.zip](bin/gb027b.zip)
 GuardBot | Peter van Wingerden | [grdbot23.zip](bin/grdbot23.zip)<br>grdbot13.zip<br>guardbot.zip
 GYPObot | Stephen Dobbs | [gypobot.zip](bin/gypobot.zip)
-Hellsmash | "Dr. Shadowborg" | [qsr04apatch1.7z](bin/qsr04apatch1.7z)<br>[qsr04a.7z](bin/qsr04a.7z)<br>[qsrbeta3a.zip](bin/qsrbeta3a.zip)<br>[qsrbeta3a_src.zip](bin/qsrbeta3a_src.zip)<br>[qsrbeta3x.zip](bin/qsrbeta3x.zip)<br>[qsrbeta3.zip](bin/qsrbeta3.zip)<br>qsrbeta1b.zip<br>qsrbeta1.zip
+Hellsmash | Khin Mannering aka "Dr. Shadowborg" | [qsr04apatch1.7z](bin/qsr04apatch1.7z)<br>[qsr04a.7z](bin/qsr04a.7z)<br>[qsrbeta3a.zip](bin/qsrbeta3a.zip)<br>[qsrbeta3a_src.zip](bin/qsrbeta3a_src.zip)<br>[qsrbeta3x.zip](bin/qsrbeta3x.zip)<br>[qsrbeta3.zip](bin/qsrbeta3.zip)<br>qsrbeta1b.zip<br>qsrbeta1.zip
 Holo Soldier FMOD | Algirdas Kepezinskas aka "ZeCybEr" | holomod.zip
 Human Bot (Hbot) | Jeffrey Lee | [hbot.zip](bin/hbot.zip)
 Indecisive Bot (Gyrobot) | Aaron Logue aka "Gyro Gearloose" | [gyrobot.zip](bin/gyrobot.zip)<br>[gbotsrc.zip](bin/gbotsrc.zip)
@@ -107,7 +107,7 @@ Lithium CTF Bot | Juan Ignacio Rava aka "Johnny" | [lith091c.zip](bin/lith091c.z
 LoydBot | Loyd aka "Juninho" | [lbotv10.zip](bin/lbotv10.zip)
 MaNiAc's FrogBot MOD (lag simulation) | Michael Turitzin aka "MaNiAc" | [lagmod.zip](bin/lagmod.zip)
 MaNiAcBot | Michael Turitzin aka "MaNiAc" | [maniacbt.zip](bin/maniacbt.zip)<br>maniacbt12.zip<br>FBMOD.ZIP
-Mathfrag | "Dr. Shadowborg" | [mlx20b.zip](bin/mlx20.zip)
+Mathfrag | Khin Mannering aka "Dr. Shadowborg" | [mlx20b.zip](bin/mlx20.zip)
 MegaBot | "Vic" | [megabot.zip](bin/megabot.zip)
 Midair Bots | Benjamin Darling aka "Electro" and "Vomit" | [midair_qwbot.rar](bin/midair_qwbot.rar)<br>[midairbots_all.zip](bin/midairbots_all.zip)<br>[midairbots.zip](bin/midairbots.zip)
 Mod Pak 1 FMOD | "Neophyte" | mpak1v12.zip
