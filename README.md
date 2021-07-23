@@ -35,7 +35,7 @@ Cujo | Jonathan E. Wright | [cujo14.zip](bin/cujo14.zip)<br>[cujo13.zip](bin/cuj
 Dark Frogbot | "Pinsolle" | darkfrog.zip
 Darkbot | Terry Hendrix aka "Dark_Skye" | [darkbot-fnl-q2.tar.gz](bin/darkbot-fnl-q2.tar.gz)<br>[darkbot_0.13.9-pak.zip](bin/darkbot_0.13.9-pak.zip)<br>[darkbot_0.13.9-src.zip](bin/darkbot_0.13.9-src.zip)<br>drkbt013.zip<br>[drkbt11b.zip](bin/drkbt11b.zip)<br>darkbt10.zip<br>darkbt09.zip<br>[darkbt07.zip](bin/darkbt07.zip)<br>drkbot04.zip<br>[drkbot03.zip](bin/drkbot03.zip)<br>[darkbt01.zip](bin/darkbt01.zip)<br>[darkbotx.zip](bin/darkbotx.zip)
 DarkCTF Bot | Terry Hendrix aka "Dark_Skye" | [darkctf13.zip](bin/darkctf13.zip)
-DeathBot | James Boswell aka "FlashFire" | [death-64.zip](bin/death-64.zip)
+DeathBot | James Boswell aka "FlashFire" | [death-64.zip](bin/death-64.zip) ([txt](bin/death-64.txt))
 Demonshooter | "Shootermaster" | [shooter.zip](bin/shooter.zip)
 DJBot | Dave James aka "DJ" | djbot1.zip
 DM Bot | Nathaniel Gorham | [dmbot1.zip](bin/dmbot1.zip)

@@ -67,7 +67,9 @@ cdrom.com idgames2/quakec/bots Mirrors
 	ftp://ftp.fu-berlin.de/pc/games/idgames2/quakec/bots/
 	ftp://ftp.fu-berlin.de/pc/msdos/games/idgames2/quakec/bots/
 	https://ftpmirror1.infania.net/pub/idgames2/quakec/bots/
-	http://web.archive.org/web/19961225222455/http://www.cdrom.com/pub/idgames2/quakec/bots/
+	archive
+		http://web.archive.org/web/19961225222455/http://www.cdrom.com/pub/idgames2/quakec/bots/
+		http://web.archive.org/web/19961228005922/http://www.cdrom.com/pub/quake/quakec/
 		(archive of web interface)
 	https://archive.org/details/walnutcreekcdrom
 PlanetQuake Mirrors
