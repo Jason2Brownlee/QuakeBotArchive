@@ -227,6 +227,8 @@ Oak Bot
 		https://www.bluesnews.com/files/patches/bots/oak085.zip
 		https://www.bluesnews.com/files/patches/bots/oak0405.zip
 	http://www.telefragged.com/oak/
+	https://web.archive.org/web/19970529162802/http://quakemecca.simplenet.com/quakec.htm
+	https://web.archive.org/web/19970529162802/http://quakemecca.simplenet.com/files/downloads/oak081.zip
 		Oak II (quake II)
 	https://www.linkedin.com/in/johncrickett/
 	[contacted author directly via linked in]
