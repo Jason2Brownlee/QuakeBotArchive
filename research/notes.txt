@@ -70,6 +70,7 @@ ZeusBot / ZEUSbot
 	http://nelno.freeservers.com/
 	http://nelno.freeservers.com/contact.htm
 	other
+		https://www.bluesnews.com/archives/jan97-1.html
 		https://www.quakewiki.net/archives/botarea51/main/qbot2728.html?id=16
 		https://www.angelfire.com/wa/chrisquast/qbots.html
 		https://dukeworld.com/idgames2/quakec/bots/
@@ -90,6 +91,8 @@ ZeusBot / ZEUSbot
 		ftp://ftp.cdrom.com/.1/idgames2/quakec/bots/zeus205s.zip
 		https://archives.fidobbs.net/pub/bbs/1701/ZEUS2042.ZIP
 		http://cd.textfiles.com/swextrav8/swextrav8-2/gamapog2/zeus10.zip
+		https://www.bluesnews.com/files/zeus204.zip
+		https://www.bluesnews.com/files/zb204new.txt
 	usenet
 		ZEUS202B.ZIP
 Frogbot
@@ -1595,6 +1598,15 @@ quake mods here that have a bot added
 frikbot mods
 	http://leileilol.mancubus.net/static/download.html
 	...
+QuakeBot
+	Coop bot for Quake, written in QuakeC (at least for now)
+	https://github.com/ioan-chera/QuakeBot
+	https://bitbucket.org/ichera/quakebot/src/master/
+	Ioan Chera
+	released?
+	https://sourceforge.net/u/printz/profile/
+
+
 
 
 OUT OF SCOPE
