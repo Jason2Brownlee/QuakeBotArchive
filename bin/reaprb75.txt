@@ -1,0 +1,247 @@
+Title    : The Reaper Bot
+Filename : reaprb75.zip
+Version  : 0.75
+Date     : 11/02/96
+Author   : Steven Polge
+Email    : polge@ix.netcom.com
+Credits  : id software, for making the only computer games I ever play, and for
+		releasing QuakeC
+	   The QuakeC modifications included in this archive are entirely my
+		own design.
+	   Dennis Noordsji for the skins code concepts.
+
+Build time: about 100 hours so far...
+
+Type of Mod
+-----------
+Quake C  : yes
+Sound    : no
+MDL      : no
+
+
+Format of QuakeC (if a Quake C Mod)
+-----------------------------------
+unified diff  : no
+context diff  : no
+.qc files     : no
+progs.dat     : yes
+
+
+Description of the Modification
+-------------------------------
+
+This may be the most advanced bot opponent currently available.  It learns levels as it plays them, picks up and uses all items, roams around.  It understands doors, teleports, triggers, and buttons.  It will jump off ledges, and avoids landing in lava (understanding the gravity level).  When fighting you, it picks the best weapon it has, and strafes, circles or charges.  Variable skill levels are provided (skill 3 is very tough).
+
+Note:  This bot does not cheat!  At higher skill levels, it rarely misses, and shoots at the maximum rate allowed to players, but it never shoots faster than allowed or causes more damage on hits than normal.  It also does not move faster than players.
+
+If the bot is too tough, try a lower skill level (default skill is 1).  You can
+pick any value between 0 and 3 inclusive, including fractional values (e.g.
+1.4, 1.5, etc.).  To select skill, type 'skill n' at the console, where n is the
+value.
+
+To play with this bot, you should enable deathmatch either by starting quake
+with the -listen parameter, or by typing 'deathmatch 1' at the console, or
+by using the multiplayer game menu to start the game.
+
+The file reaper.cfg (included) sets up aliases for common bot functions, and
+binds them to keys.  If you type 'exec reaper.cfg' at the console, you will be
+able to use these keys to execute common functions.  For example, hitting the
+key b will add a bot at the current skill level.  You can edit this file to suit
+your preferences.  Look at the file to see what the key bindings are.
+
+Changes from Beta 0.7 to Beta 0.75 are described in B75CHG.TXT, included
+in this archive.
+
+Commands include:
+(to the left is the key binding in reaper.cfg)
+[	IMPULSE 200 - Increment skin (if skins support is set)
+]	IMPULSE 201 - Decrement skin (if skins support is set)
+p	IMPULSE 202 - Toggle skins support on and off
+b	IMPULSE 205 - add a bot (can do it repeatedly)
+n	IMPULSE 208 - add four bots
+	IMPULSE 210 - scores (bring up the console -
+			hit the ~ key - to read)
+	IMPULSE 211 - remove all bots
+o	IMPULSE 212 - Toggle limited observer mode
+			(you are invisible to bots unless you
+			attack them, but move normally)
+	IMPULSE 214 - update bots. Use when the
+			SV_GRAVITY or SV_MAXSPEED
+			server cvars are changed.
+v	IMPULSE 215 - Toggle verbose mode
+			(bots tell you what they're doing).
+	IMPULSE 218 - turn on restricted mode (only
+			client 0 can add bots or become
+			an observer)
+	IMPULSE 219 - turn on super restricted mode
+			(no client can add bots or become
+			an observer)
+m	IMPULSE 220 - normal scores (frag count)
+	IMPULSE 221 - update team colors (used to tell
+			the bots on your team if you change
+			colors)
+q	IMPULSE 222 - show top three scores (so you
+			don't need to bring down the console
+			- bind this to a key (see reaper.cfg))
+	IMPULSE 1XX - Bounds the total number of bots
+			+ players to XX (XX must no
+			greater than 15)
+	SKILL N - Change skill level (N = 0 to 3, default
+			is 1)
+
+	Note: Make sure your SV_MAXSPEED is not set too
+	high.  Bots use SV_MAXSPEED to determine their
+	speed.  The default is 320, and a higher setting will
+	make the bots look jerkier.
+
+	I have included reaper.cfg, which creates aliases for
+	the above commands and binds some common ones
+	to keys.  Look at reaper.cfg to see what the aliases
+	are, and edit it to change the key bindings if you
+	want.  Type 'exec reaper.cfg' from the console to
+	use it.
+
+TEAMPLAY
+	This release supports teamplay.  When teamplay is
+	on, IMPULSE 1XX no longer functions as above.
+	All bots added with IMPULSE 205 or IMPULSE 208
+	belong to the bot only team.  IMPULSE 1XX sets the
+	number of bots on each player's team to XX (must be no
+	greater than 15).  Bots on your team will have the same
+	color as you (and the same skin, if you're using skins).
+
+SKINS
+	I did not include a player.mdl with skins.  Get one from
+	a skins mod, and put it in a /progs subdirectory of the
+	directory where you put the reaperbot quakec progs.dat.
+
+Features Include:
+
+* Skill levels ranging from 0 to 3 (including non-integer values)
+which affect
+	- bot accuracy when shooting
+	- bot yaw speed (how fast it tracks you)
+	- average bot re-fire rate
+	- bot reaction time, and pain time
+	- whether bot leads you with grenades and rockets
+* Uses all player frames
+* Improved following AI
+	- can handle following opponents around corners, through
+	doorways, doors, teleports, etc.
+* Dynamic level learning
+	- Bots build internal map of level as they play, and use
+	it to roam around, go find weapons, hunt opponents, etc.
+* Understands jumping
+	- predicts jumps based on current gravity level
+	- won't jump into lava or slime
+	- will jump up onto low ledges or down, to go after goal
+* Combat AI
+	- charges, strafes, circles based on its weapon, enemy's
+	weapon, the distance between them, and whether enemy
+	is running away.
+	- picks best weapon depending on range (only uses rocket
+	launcher at close range if it doesn't have anything else
+	good, and health+armor is high)
+	- will even if needed go after health, ammo, or a weapon
+	in the middle of combat!
+	- trys to avoid combat if health or ammo low, and it
+	thinks it can escape
+	- avoids combat with invulnerable enemies
+* Improved grenade and rocket aiming
+	- leads player at higher skill levels
+	- adjusts grenade aiming to compensate for trajectory
+	(using current gravity 	level)
+	- adjusts rocket aim to avoid lips and edges
+* Understands triggers and buttons
+	- Will go for the triggered entity when it shoots a trigger
+	or presses a button.
+	- Doesn't go after doors, etc., which must be triggered
+	(unless they're already open).
+	- Doesn't go after triggers or buttons which have already
+	been activated.
+* Understands door, teleporters, secret doors, and wind tunnels
+	- Will fire at secret doors before going through
+* Chooses goals according to priorities depending on its current
+	inventory, health, armor, etc.
+	- Understands and uses all weapons, ammo, powerups, etc.
+	- Won't keep going after an item if it can't reach it
+	- Will use internal map to go after items it wants but
+	can't see
+* Up to 16 bots on a level
+* Multiplayer Server capability - deathmatch bots vs humans!
+  	- No other files needed by the clients
+	(they can use their original progs.dat).
+* Scoring - Impulse 210 gives a break out of kills & deaths
+	versus bots and players
+	- scoring is 2 * kills - deaths - 2 * suicides
+* Limited observer mode - you are invisible to bots, but
+you walk around rather than flying.  Impulse 212 turns
+on, Impulse 213 turns off.
+* Bot swims in water
+	- avoids drowning, even during combat
+	- understands whether it can swim to items
+	- can jump out of water
+	- chases enemies into water
+	- won't use lightning gun underwater unless
+	invincible
+* Same number of bots generated in new level after changelevel
+* Bots die in lava and slime, and drown if under water
+too long
+* Bots can telefrag or be telefragged
+
+Features to be added in version 1.0
+* Observer Mode (improved)
+* Learning AI w/ personalities - chooses camping,
+charging, sniping based on previous successes/failures
+- retreats when health is low, or bad relative weapons
+* Yaw bot model up and down
+* Merge w/ v1.06 Quake source
+
+And more to come...
+
+Known bugs
+* Occasional erroneous splash sound by bots, particularly
+when spawning
+
+How to Install the Modification
+-------------------------------
+
+Create a directory called RPBOT as a subdirectory in your Quake directory (parallel to the ID1 directory) move the PROGS.DAT file included in this archive to the RPBOT directory.  To play, type QUAKE -GAME RPBOT from the Quake directory.  This modification only works with the registered version of Quake.  Make sure you
+run deathmatch when you play with the bots- they don't play coop (either select
+multi-player, or type DEATHMATCH N at the console, where N = 1 or 2).  To change skill levels, type SKILL N at the console, where N is an integer 0 to 3.
+
+Technical Details
+-----------------
+
+The combat and local goal setting AI uses heuristics with fuzzy logic for decision making.  I am currently working on supporting learned behaviour based on combat success for the combat AI, as well as the hunting AI.
+
+The roaming AI uses dynamically placed botpaths to move from place to place.  The botpath node placement is optimized to guarantee a valid path followable by the bot, while bounding the number of botpath nodes.  Botpath routes are dynamically merged to minimize the number of botpath nodes.  Multiple spanning trees point in the upstream route direction for routing updates.  These routes can be used to go to both static and moving goals (e.g. players).  Loop detection and avoidance is implemented both for bots following the paths, and for routing updates.  I'm currently implementing route caches to improve performance, and to instantly provide the bot with the route to the "best" (based on distance and type) item of a given class (e.g. health, armor, weapons).
+
+
+Author Information
+------------------
+
+This is my first publicly distributed quakeC patch.
+I design router software and protocols for a living.
+
+
+Copyright and Distribution Permissions
+--------------------------------------
+
+The modifications included in this archive are Copyright 1996, Steven Polge.  The original
+QuakeC source is Copyright 1996, id software.
+
+Authors MAY NOT use these modifications as a basis for other publicly or commercially available work.
+
+You may distribute this Quake modification in any electronic format as long as all the files in this archive remain intact and unmodified and are distributed together.
+
+
+Availability
+------------
+
+This modification is available from the following places:
+
+FTP   : ftp.cdrom.com in \pub\quake\quakec\bots
+
+
+{"mode":"full","isActive":false}
