@@ -1,0 +1,119 @@
+Title : BG Bot
+Filename : bgbot12.zip
+Version : 1.20 (I know I know..updating too much.)
+Date : 96/9/1
+Author : Punisher
+Email : puni...@trojan.neta.com
+Credits : Micheal Polucha (co-designer of Original TM bot)
+Tim Polucha (co-designer of Original TM bot)
+Nathaniel Gorham (Original DM bot)
+Chris Weisdorf (expressing interest and ideas)
+det...@chrysalis.org (we had the same ideas and mods going
+about the same time. Just giving credit
+where credit is due.)
+Type of Mod
+-----------
+Quake C : yes
+Sound : no
+MDL : no
+
+
+Format of QuakeC
+----------------
+unified diff : no
+context diff : no
+.qc files : yes
+progs.dat : yes
+
+
+Description of the Modification
+-------------------------------
+Basicly a TM and DM bot slightly modded. This bot
+can pick up Health, Armor, Weapons, and Ammo. Also
+chooses which weapons is better of the weapons it
+has picked up. Also shoots all players and other
+bots. You can create as many bots as you like, memory
+allowing.
+
+Impulse 100 creates a bot. There is no way to
+get rid of the bots unless you kill it. They also
+have control of themselves.
+
+How to Install the Modification
+-------------------------------
+Make a new dir in your quake directory. (ie c:\quake\pun)
+then move this progs.dat into that directory and copy your
+*.cfg from c:\quake\id1 into the same directory. Then run quake
+ala
+quake -game bg
+
+then bind a key to impulse 100
+
+Technical Details
+-----------------
+Any bugs lemme know please?
+
+STILL NEEDS:
+Better roaming AI.
+(still walks same patterns)(Anyone willing to help?)
+Ability to walk into water, swim, jump, and walk over cracks
+in floor.
+Trying to get the bots score to come up on changelevel or when
+player dies. Cant seem to figure it out.(ie brain
+fried.)
+If anyone can lend some insight, lemme know.
+In Teamplay, Coop, and one player he is pretty useless on any
+level that has cracked floor, stairs, water, etc.
+
+VERSION 1.2:
+By Popular Demand:
+Now in COOP or one player, bots only attack monsters.
+In DM attacks everything.
+In teamplay, is on team of creator.
+Tweeked attacking so the bot can hit things above and below
+him.
+
+VERSION 1.1:
+Added more bot recognition throughout game.
+(ie doors, more recognition by monsters)
+Better Spawning:
+In ONE player spawns in players starting position.
+In COOP and DM spawns in random player position.
+Hunts Items if no enemys close enough.
+Gets health if it needs it.
+Other minor fixes.
+
+VERSION 1:
+TM, DM Bot basis.
+Ability to pick up things:
+Weapons
+Ammo
+Health
+Armor
+Chooses weapon from ones it has.
+Hunts all players (including creator)
+Hunts other bots
+Multiple Bots at once. (memory limiting)
+Telefrags
+
+Author Information
+------------------
+Co-Creator of Punishment.
+A weapons QC mod for Quake.
+
+
+Copyright and Distribution Permissions
+--------------------------------------
+
+Authors MAY use these modifications as a basis for other
+publically available work.
+
+You may do whatever you please with the contents of this archive.
+
+Availability
+------------
+
+This modification is available from the following places:
+
+FTP : ftp.cdrom.com
+WWW : http://www.neta.com/~punisher/quakec.htm

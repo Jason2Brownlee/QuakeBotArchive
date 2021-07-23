@@ -1,0 +1,59 @@
+Title : BG Bot
+Filename : bgbot13.zip
+Version : 1.30
+Date : 96/9/3
+Author : Punisher
+Email : puni...@trojan.neta.com
+Credits : Micheal Polucha (co-designer of Original TM bot)
+Tim Polucha (co-designer of Original TM bot)
+Nathaniel Gorham (Original DM bot)
+Chris Weisdorf (expressing interest and ideas)
+det...@chrysalis.org (we had the same ideas and mods going
+about the same time. Just giving credit where credit
+is due.)
+
+Type of Mod
+-----------
+Quake C : yes
+Sound : no
+MDL : no
+
+
+Format of QuakeC
+----------------
+unified diff : no
+context diff : no
+.qc files : yes
+progs.dat : yes
+
+
+Description of the Modification
+-------------------------------
+Basicly a TM and DM bot slightly modded. This bot
+can pick up Health, Armor, Weapons, and Ammo. Also
+chooses which weapons is better of the weapons it
+has picked up. Also shoots all players and other
+bots. You can create as many bots as you like, memory
+allowing.
+
+Impulse 100 creates a bot. There is no way to
+get rid of the bots unless you kill it. They also
+have control of themselves.
+
+STILL NEEDS:
+#1------Trying to get the bots score to come up on changelevel or when
+player dies. Cant seem to figure it out.(ie brain fried.)
+If anyone can lend some insight, lemme know.
+#2------Ability to walk into water, swim, jump, and walk over cracks
+in floor.
+#3------Better roaming AI.
+#4------Need to figure out how to change his colors. Random or
+
+otherwise.
+#5------In Teamplay, Coop, and one player he is pretty useless on any
+level that has cracked floor, stairs, water, etc.
+
+VRESION 1.30:
+Model is now the player model. He has the same colors as you.
+Fixed minor sound bug. (ie no sound when he fires.)
+Slightly improved roaming ai.

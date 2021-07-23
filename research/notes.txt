@@ -127,17 +127,36 @@ Optimized Frogbot
 	Christian Michael aka "surgeon"
 	http://aminet.net/game/patch/frogbot.lha
 BGBot
-	https://web.archive.org/web/20030310034438/http://www.planetquake.com/qca/reviews/patch8.htm
-	bgbot20a.zip
+	https://www.quaddicted.com/files/idgames2/quakec/bots/bgbot16.zip
 	https://www.quaddicted.com/files/idgames2/quakec/bots/bgbot20a.zip
-	https://www.quaddicted.com/files/idgames2/quakec/weapons/punish.txt
-	Robert DeFilippo III
-	http://www.neta.com/~punisher/
-	https://quake.fandom.com/wiki/Robert_DeFilippo_III
-	many versions posted to usenet
-		as user "BiG HuRT"
+	https://dukeworld.com/idgames2/quakec/bots/bgbot20a.zip
+	https://dukeworld.com/idgames2/quakec/bots/bgbot16.zip
+	ftp://ftp.cdrom.com/pub/quake/quakec/bots/bgbot16.zip
+	ftp://ftp.cdrom.com/pub/quake/quakec/bots/bgbot20a.zip
+	http://cd.textfiles.com/swextrav8/swextrav8-2/gamapog1/bgbot16.zip
+	http://cd.textfiles.com/swextrav8/swextrav8-2/gamapog1/bgbot20a.zip
+	http://annex.retroarchive.org/cdrom/nightowl-023/022A/BGBOT20A.ZIP
+	versions
+		1.0, 1.1, 1.2, 1.25, 1.3, 1.4 (not public), 1.5, 1.6, 2.00a
+	who
+		Punisher / BiG HuRT / Robert_DeFilippo_III
+		https://quake.fandom.com/wiki/Robert_DeFilippo_III
+		https://www.quaddicted.com/files/idgames2/quakec/weapons/punish.txt
+	archive
+		http://www.neta.com/~punisher/quakec.htm
+		http://www.neta.com/~punisher/
+	other
+		https://web.archive.org/web/20030310034438/http://www.planetquake.com/qca/reviews/patch8.htm
+	usenet
 		rec.games.computer.quake.editing
-		titles like "BG Bot v1.10"
+		many announcements as "BiG HuRT"
+			bgbot1.zip
+			bgbot11.zip
+			bgbot12.zip
+			bgbot125.zip
+			bgbot13.zip
+			bgbot15.zip
+			bgbot16.zip
 Cronos Bot / Cronosbot
 	http://www.planetquake.com/cronos
 	https://web.archive.org/web/20000815211132if_/http://www.planetquake.com:80/cronos/
