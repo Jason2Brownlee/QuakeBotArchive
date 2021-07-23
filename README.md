@@ -19,7 +19,7 @@ Ache | Athos Konkoran Kryn | [ache.zip](bin/ache.zip)
 Asdf's FMOD | Matt McChesney aka "asdf" | [asdfmod100.zip](bin/asdfmod100.zip)
 Attacker | Jonathan Geary | [attacker.zip](bin/attacker.zip)
 BGADM Bot | "Detour" | [bgadm101.zip](bin/bgadm101.zip) <br>bgadmbot.zip
-BGBot | Robert DeFilippo III aka "Punisher" | [bgbot20a.zip](bin/bgbot20a.zip)<br>[bgbot16.zip](bin/bgbot16.zip)<br>[bgbot16_src.zip](bin/bgbot16_src.zip)<br>[bgbot15.zip](bin/bgbot15.zip)<br>bgbot13.zip<br>bgbot125.zip<br>bgbot12.zip<br>[bgbot11.zip](bin/bgbot11.zip)<br>bgbot1.zip
+BGBot | Robert DeFilippo III aka "Punisher" | [bgbot20a.zip](bin/bgbot20a.zip)<br>[bgbot16.zip](bin/bgbot16.zip)<br>[bgbot16_src.zip](bin/bgbot16_src.zip)<br>[bgbot15.zip](bin/bgbot15.zip)<br>bgbot13.zip ([txt](bin/bgbot13.txt))<br>bgbot125.zip ([txt](bin/bgbot125.txt))<br>bgbot12.zip ([txt](bin/bgbot12.txt))<br>[bgbot11.zip](bin/bgbot11.zip)<br>bgbot1.zip ([txt](bin/bgbot1.txt))
 Borg Bot | Calvin Rien | [borg12.zip](bin/borg12.zip)
 Bot Hunt | Douglas H. King aka "Sea4" | [bthnt10.zip](bin/bthnt10.zip)
 Bot Player (BPlayer) | Wolfgang Lehrach aka "Wolf" | [bplayer2.zip](bin/bplayer2.zip)
