@@ -23,7 +23,6 @@ btsk22.zip
 clanv0.5auto.zip
 clanv0.6auto.zip
 clanv0.7hman.zip
-ctfbot13.zip
 cujo11.zip
 cujo12.zip
 cujo12a.zip
