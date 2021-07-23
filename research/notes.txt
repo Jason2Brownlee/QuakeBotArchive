@@ -52,7 +52,12 @@ Reaper Bot
 		https://groups.google.com/g/rec.games.computer.quake.quake-c/c/pb_PTSRMLts/m/KFLhdrajAcUJ
 		https://groups.google.com/g/rec.games.computer.quake.editing/c/c_8W-xBCc0g/m/abTNOXhICkAJ
 	https://web.archive.org/web/19970530203249/http://quakemecca.simplenet.com/files/downloads/reaprb75.txt
-ZeusBot
+ZeusBot / ZEUSbot
+	Jonathan E. Wright aka Nelno the Amoeba
+	https://www.quaddicted.com/files/idgames2/quakec/bots/zeus205.zip
+	https://www.quaddicted.com/files/idgames2/quakec/bots/zeus205s.zip
+	https://www.quaddicted.com/files/idgames2/quakec/bots/zeus_src.zip
+	archive:
 	http://trailerpark.com/phase1/nelno
 		https://web.archive.org/web/19990701000000*/http://trailerpark.com/phase1/nelno
 	http://www.qchq.com/zeus
@@ -62,15 +67,31 @@ ZeusBot
 		https://web.archive.org/web/19970309231443/http://www.planetquake.com/qca/zeus/
 	http://www.planetquake.com/qca/reviews/patch52.htm
 		https://web.archive.org/web/20020821003701/http://www.planetquake.com/qca/reviews/patch52.htm
+	http://nelno.freeservers.com/
+	http://nelno.freeservers.com/contact.htm
 	other
+		https://www.quakewiki.net/archives/botarea51/main/qbot2728.html?id=16
+		https://www.angelfire.com/wa/chrisquast/qbots.html
+		https://dukeworld.com/idgames2/quakec/bots/
+		ftp://ftp.cdrom.com/pub/idgames2/quakec/bots/zeus205.zip
+		ftp://ftp.cdrom.com/pub/quake/quakec/bots/zeus205.zip
+		ftp://ftp.cdrom.com/pub/quake/quakec/bots/zeus205.zip
 		https://quake.fandom.com/wiki/Zeus_Bot
-		https://www.quaddicted.com/files/idgames2/quakec/bots/zeus205.zip
 		http://easttown.co.uk/quake/zeus.html
 		https://web.archive.org/web/19981203131409/http://www.planetquake.com/design/bots.html
+	versions
+		2.05s, 2.05, 2.042, 2.041, 2.04, 2.03, 2.02, 2.01, 2.0, 1.0
 	old versions
 		https://www.bluesnews.com/files/zeus2042.zip
 		https://www.bluesnews.com/files/zeus204.zip
-	http://nelno.freeservers.com/contact.htm
+		http://cd.textfiles.com/cream/cream24/doom/zeus2042.zip
+		http://annex.retroarchive.org/cdrom/cotc-24/DOOM/ZEUS2042.ZIP
+		http://annex.retroarchive.org/cdrom/cotc-24/DOOM/ZEUS2042/
+		ftp://ftp.cdrom.com/.1/idgames2/quakec/bots/zeus205s.zip
+		https://archives.fidobbs.net/pub/bbs/1701/ZEUS2042.ZIP
+		http://cd.textfiles.com/swextrav8/swextrav8-2/gamapog2/zeus10.zip
+	usenet
+		ZEUS202B.ZIP
 Frogbot
 	http://www.telefragged.com/metro
 	1998-2000
