@@ -114,6 +114,7 @@ redwood
 stomped.com
 	https://web.archive.org/web/19961121230158/http://www.stomped.com/
 	https://web.archive.org/web/19990202192708/http://www.stomped.com/
+	https://web.archive.org/web/19961121231508/http://www.stomped.com/files.quakec.html
 blues news
 	https://web.archive.org/web/19961226231646/http://bluesnews.com/
 	https://www.bluesnews.com/archives/
