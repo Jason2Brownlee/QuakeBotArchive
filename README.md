@@ -22,15 +22,14 @@ Aug 27 1996 | tlgbot.zip | TLGBot v1.2a released.
 Sep 04 1996 | cujo10.zip | CujoBot v1.0 released.
 Sep 04 1996 | zeus10.zip | ZeusBot v1.0 released.
 Sep 12 1996 | elim10.zip | Eliminator Bot v1.0 released.
-Sep ?? 1996* | reaprb01.zip* | Reaper Bot v1.0 released (*estimated).
+Oct 03 1996* | reaper.zip* | Reaper Bot v1.0 released (*estimated).
 
 There is some interest in which was the first bot for Quake (e.g. [here](https://www.guinnessworldrecords.com/world-records/first-computer-controlled-deathmatch-opponent) and [here](https://www.quakewiki.net/quake-1-bots/#comment-2825) and [here](https://www.reddit.com/r/OutreachHPG/comments/40y87j/psa_how_to_spot_a_hackerbotter/)).
 
 Using dates in the text files and usenet posts, it suggest that the **TMBot** was the first cooperative Quake bot and the **DMBot** was the first deathmatch Quake bot, followed within days by the BGBot and TLGBot.
 
-More popular bots like the Zeus, Eliminator, and Reaper were not released until September 1996.
-
-Note, it is currently hard to nail down the exact filename and date for the first release of the reaper bot ([maybe Oct 03 1996](https://www.bluesnews.com/archives/sept96-5.html)). There may also be an earlier public release of TLGBot which is also hard to determine.
+* First reaper bot release estimated from news site ([ref](https://www.bluesnews.com/archives/sept96-5.html)).
+* There may also be an earlier public release of TLGBot which is also hard to determine.
 
 ## Quake Bot List
 
