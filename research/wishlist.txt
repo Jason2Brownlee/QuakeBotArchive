@@ -127,6 +127,7 @@ pak2pak.zip
 qcbot001.zip
 qcbot002.zip
 rbot.zip
+reaper.zip
 reaprb05.zip
 reaprb75.zip
 rnbt3.4.zip

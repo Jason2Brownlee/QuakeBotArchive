@@ -42,6 +42,9 @@ ftp://numb.macquakeinfinity.com/numb/ctf/fbctf033.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/pak2pak.zip
 ftp://numb.macquakeinfinity.com/numb/holywars/hw_frogbotf.zip
 ftp://quake.df.ru/pub/Quake/Bots/Omnicron/obots100.zip
+ftp://quake.mtu.ru/pub/quake/bots/frogbot7.zip
+ftp://quake.mtu.ru/pub/quake/bots/reaper.zip
+ftp://quake.mtu.ru/pub/quake/bots/zeusbot.zip
 ftp://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/idgames2/telefragged/epidemic/frogbot012a.zip
 ftp://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/idgames2/telefragged/metro/frogbot007.zip
 ftp://ter.ort.spb.ru/Nico/Pathes/Bots/obot100.zip
