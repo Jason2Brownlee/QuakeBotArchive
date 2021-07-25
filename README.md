@@ -18,7 +18,7 @@ Jul 25 1996 | qcc.tar.gz | QCC (compiler) source and QuakeC (.qc) source release
 Aug 21 1996 | **tmbot1.zip** | TMBot v1.0 released (**first cooperative bot).**
 Aug 23 1996 | **dmbot1.zip** | DMBot v1.0 released (**first deathmatch bot).**
 Aug 26 1996 | bgbot1.zip | BGBot v1.0 released.
-Aug 27 1996 | tlgbot.zip | TLGBot v1.0 released.
+Aug 27 1996 | tlgbot.zip | TLGBot v1.2a released.
 Sep 04 1996 | cujo10.zip | CujoBot v1.0 released.
 Sep 04 1996 | zeus10.zip | ZeusBot v1.0 released.
 Sep 12 1996 | elim10.zip | Eliminator Bot v1.0 released.
@@ -28,7 +28,7 @@ There is some interest in which was the first bot for Quake (e.g. [here](https:/
 
 Using dates in the text files and usenet posts, it suggest that the **TMBot** was the first cooperative Quake bot and the **DMBot** was the first deathmatch Quake bot, followed within days by the BGBot and TLGBot.
 
-More popular bots like the Zeus, Eliminator, and Reaper were not released until September 1996. Note, it is currently hard (impossible!?) to nail down the exact filename and date for the first release of the reaper bot.
+More popular bots like the Zeus, Eliminator, and Reaper were not released until September 1996. Note, it is currently hard (intractable!?) to nail down the exact filename and date for the first release of the reaper bot.
 
 ## Quake Bot List
 
