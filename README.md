@@ -28,7 +28,7 @@ There is some interest in which was the first bot for Quake (e.g. [here](https:/
 
 Using dates in the text files and usenet posts, it suggest that the **TMBot** was the first cooperative Quake bot and the **DMBot** was the first deathmatch Quake bot, followed within days by the BGBot and TLGBot.
 
-* First reaper bot release estimated from news site ([ref](https://www.bluesnews.com/archives/sept96-5.html)).
+* First reaper bot release estimated from news site ([ref](https://www.bluesnews.com/archives/sept96-5.html)), although was likely earlier (mid-late Sep).
 * There may also be an earlier public release of TLGBot which is also hard to determine.
 
 ## Quake Bot List
