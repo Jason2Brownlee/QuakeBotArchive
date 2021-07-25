@@ -30,7 +30,7 @@ Using dates in the text files and usenet posts, it suggest that the **TMBot** wa
 
 More popular bots like the Zeus, Eliminator, and Reaper were not released until September 1996.
 
-Note, it is currently hard (intractable!?) to nail down the exact filename and date for the first release of the reaper bot. There may also be an earlier public release of TLGBot which is also hard to determine.
+Note, it is currently hard to nail down the exact filename and date for the first release of the reaper bot ([maybe Oct 03 1996](https://www.bluesnews.com/archives/sept96-5.html)). There may also be an earlier public release of TLGBot which is also hard to determine.
 
 ## Quake Bot List
 
