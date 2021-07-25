@@ -151,7 +151,7 @@ RABot | Rodrigo Marx aka "Shooter" | [mwrrabot222cl.zip](bin/mwrrabot222cl.zip)<
 Reaper + DM4 | Daniel Hein aka "Hades" | [dm4reaper.zip](bin/dm4reaper.zip)
 Reaper + Painkeep | Bent Svendsen aka "Decker" | [pkbot.zip](bin/pkbot.zip)
 Reaper + Scourge of Armagon | Bent Svendsen aka "Decker" | [hipreap3.zip](bin/hipreap3.zip)
-Reaper Bot | Steven Polge | [reaprb81.zip](bin/reaprb81.zip)<br>[rb81src_unoff.zip](bin/rb81src_unoff.zip)<br>[reaper80.zip](bin/reaper80.zip)<br>reaprb75.zip ([txt](bin/reaprb75.txt))<br>[reaprb07.zip](bin/reaprb07.zip)<br>[reaprb06.zip](bin/reaprb06.zip)<br>reaprb05.zip
+Reaper Bot | Steven Polge | [reaprb81.zip](bin/reaprb81.zip)<br>[rb81src_unoff.zip](bin/rb81src_unoff.zip)<br>[reaprb80.zip](bin/reaprb80.zip)<br>reaprb75.zip ([txt](bin/reaprb75.txt))<br>[reaprb07.zip](bin/reaprb07.zip)<br>[reaprb06.zip](bin/reaprb06.zip)<br>reaprb05.zip
 ReaperFX Bot | Paul Johnstone aka "Pob the Impaler" | [reaperfx.zip](bin/reaperfx.zip)
 Reformed Reaper Bot | "win32ch" | [rrbotprogs.zip](bin/rrbotprogs.zip) <br>[rrbotsrc.zip](bin/rrbotsrc.zip)
 Ric's Reaper Bots | "Ric" | [reap081h.zip](bin/reap081h.zip)
