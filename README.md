@@ -15,12 +15,13 @@ Estimated quake bot chronology for August 1996.
 Some people seem to really care about which was the first bot for Quake (e.g. [here](https://www.guinnessworldrecords.com/world-records/first-computer-controlled-deathmatch-opponent) and [here](https://www.quakewiki.net/quake-1-bots/#comment-2825) and [here](https://www.reddit.com/r/OutreachHPG/comments/40y87j/psa_how_to_spot_a_hackerbotter/)), this section attempts to answer this question.
 
 Date | Release | Comment
-Jul 12 1996 | Quake Retail |
-Jul 25 1996 | QCC source and QC source v1.01 |
+--- | --- | ---
+Jul 12 1996 | n/a | Quake retail release.
+Jul 25 1996 | qcc.tar.gz | QCC source and QC source v1.01.
 Aug 21 1996 | **tmbot1.zip** | TMBot release.<br>**First cooperative bot.**
 Aug 23 1996 | **dmbot1.zip** | DMBot release<br>**First deathmatch bot.**
-Aug 26 1996 | bgbot1.zip | BGBot release
-Aug 27 1996 | tlgbot.zip | TLGBot release
+Aug 26 1996 | bgbot1.zip | BGBot release.
+Aug 27 1996 | tlgbot.zip | TLGBot release.
 
 Using dates in the text files, it suggest that the **TMBot** was the first cooperative Quake bot and the **DMBot** was the first deathmatch Quake bot, followed within days by the BGBot and TLGBot.
 
