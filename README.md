@@ -8,6 +8,23 @@ Estimated quake bot genealogy.
 
 ![Quake Bot Genealogy](mindmap/QuakeBots.png)
 
+## Quake Bot Chronology
+
+Estimated quake bot chronology for August 1996.
+
+Some people seem to really care about which was the first bot for Quake (e.g. [here](https://www.guinnessworldrecords.com/world-records/first-computer-controlled-deathmatch-opponent) and [here](https://www.quakewiki.net/quake-1-bots/#comment-2825) and [here](https://www.reddit.com/r/OutreachHPG/comments/40y87j/psa_how_to_spot_a_hackerbotter/)), this section attempts to answer this question.
+
+* Jul 12 - Quake Retail
+* Jul 25 - QCC source and QC source v1.01
+* Aug 21 - **tmbot1.zip** (first cooperative bot)
+* Aug 23 - **dmbot1.zip**  (first deathmatch bot)
+* Aug 26 - bgbot1.zip
+* Aug 27 - tlgbot.zip
+
+Using dates in the text files, it suggest that the **TMBot** was the first cooperative Quake bot and the **DMBot** was the first deathmatch Quake bot, followed within days by the BGBot and TLGBot.
+
+Zeus, Reaper, and Eliminator bots were not released until September 1996.
+
 ## Quake Bot List
 
 Alphabetical list of quake bot names, authors, and local download links for all bots in the [bin/](bin/) directory.
