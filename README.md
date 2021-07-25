@@ -28,7 +28,7 @@ Oct 12 1996 | reaprb06.zip | Reaper Bot v0.6 released.
 
 There is some interest in which was the first bot for Quake (e.g. [here](https://www.guinnessworldrecords.com/world-records/first-computer-controlled-deathmatch-opponent) and [here](https://www.quakewiki.net/quake-1-bots/#comment-2825) and [here](https://www.reddit.com/r/OutreachHPG/comments/40y87j/psa_how_to_spot_a_hackerbotter/)).
 
-Using dates in the text files and usenet posts, it suggest that the **TMBot** was the first cooperative Quake bot and the **DMBot** was the first deathmatch Quake bot, followed within days by the BGBot and TLGBot.
+Using dates in the text files and Usenet posts, it suggest that the **TMBot** was the first cooperative Quake bot and the **DMBot** was the first deathmatch Quake bot, followed within days by the BGBot and TLGBot.
 
 * The first public release of the reaper bot is challenging to determine after so long.
 * The TLGBot may have had prior public releases.
