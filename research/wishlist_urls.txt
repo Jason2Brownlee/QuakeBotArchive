@@ -8,6 +8,7 @@ If so please email:  jason.brownlee05@gmail.com
 --------------------------------------------------------------------------------
 
 ftp://bluesnews.com/pub/bots/reaprb75.zip
+ftp://ftp.canvasnet.com/quake/qc/bots/reaprb05.zip
 ftp://ftp.cdrom.com/pub/idgames2/planetquake/ramshackle/obots100.zip
 ftp://ftp.cdrom.com/pub/idgames2/planetquake/tfbot/tfb-v07.zip
 ftp://ftp.cdrom.com/pub/idgames2/quakec/bots/rbot.zip
