@@ -10,7 +10,7 @@ Estimated quake bot genealogy.
 
 ## Quake Bot Chronology
 
-Estimated early quake bot public release chronology around August 1996.
+Estimated early quake bot public release chronology around Aug and Sep 1996.
 
 Date | Release | Comment
 --- | --- | ---
@@ -45,7 +45,7 @@ BGADM Bot | "Detour" | [bgadm101.zip](bin/bgadm101.zip) <br>bgadmbot.zip
 BGBot | Robert DeFilippo III aka "Punisher" | [bgbot20a.zip](bin/bgbot20a.zip)<br>[bgbot16.zip](bin/bgbot16.zip)<br>[bgbot16_src.zip](bin/bgbot16_src.zip)<br>[bgbot15.zip](bin/bgbot15.zip)<br>bgbot13.zip ([txt](bin/bgbot13.txt))<br>bgbot125.zip ([txt](bin/bgbot125.txt))<br>bgbot12.zip ([txt](bin/bgbot12.txt))<br>[bgbot11.zip](bin/bgbot11.zip)<br>bgbot1.zip ([txt](bin/bgbot1.txt))
 Borg Bot | Calvin Rien | [borg12.zip](bin/borg12.zip)
 Bot Hunt | Douglas H. King aka "Sea4" | [bthnt10.zip](bin/bthnt10.zip)
-Bot Player (BPlayer) | Wolfgang Lehrach aka "Wolf" | [bplayer2.zip](bin/bplayer2.zip)
+Bot Player (BPlayer) | Wolfgang Lehrach aka "Wolf" | [bplayer2.zip](bin/bplayer2.zip)<br>bplayer.zip
 BotArena | Fabiano D. Amorim aka "Vegetous" | [botarena.zip](bin/botarena.zip)<br>[bt_scr.zip](bin/bt_scr.zip)
 BotSkin | "WACko" | [btskn22.zip](bin/btskn22.zip)<br>[botskn20.zip](bin/botskn20.zip)<br>[botskn18.zip](bin/botskn18.zip)<br>botskn14.zip<br>[botskn10.zip](bin/botskn10.zip)
 BrBot | "DRaKuLL" | [brbot.7z](bin/brbot.7z) <br>[brbotqc.zip](bin/brbotqc.zip)<br>brbot.exe

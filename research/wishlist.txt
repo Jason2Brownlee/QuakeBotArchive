@@ -18,6 +18,7 @@ bm116se.zip
 bm119gl.zip
 botmove.zip
 botskn14.zip
+bplayer.zip
 brbot.exe
 btsk22.zip
 clanv0.5auto.zip
