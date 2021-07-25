@@ -16,10 +16,9 @@ Some people seem to really care about which was the first bot for Quake (e.g. [h
 
 Date | Release | Comment
 --- | --- | ---
-Jul 12 1996 | n/a | Quake retail release.
-Jul 25 1996 | qcc.tar.gz | QCC source and QC source v1.01.
-Aug 21 1996 | **tmbot1.zip** | TMBot release.<br>**First cooperative bot.**
-Aug 23 1996 | **dmbot1.zip** | DMBot release<br>**First deathmatch bot.**
+Jul 25 1996 | qcc.tar.gz | QCC (compiler) source and QuakeC (.qc) source released.
+Aug 21 1996 | **tmbot1.zip** | TMBot release (**first cooperative bot).**
+Aug 23 1996 | **dmbot1.zip** | DMBot release (**first deathmatch bot).**
 Aug 26 1996 | bgbot1.zip | BGBot release.
 Aug 27 1996 | tlgbot.zip | TLGBot release.
 
