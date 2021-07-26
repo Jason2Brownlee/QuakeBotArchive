@@ -52,6 +52,9 @@ Reaper Bot
 		https://groups.google.com/g/rec.games.computer.quake.quake-c/c/pb_PTSRMLts/m/KFLhdrajAcUJ
 		https://groups.google.com/g/rec.games.computer.quake.editing/c/c_8W-xBCc0g/m/abTNOXhICkAJ
 	https://web.archive.org/web/19970530203249/http://quakemecca.simplenet.com/files/downloads/reaprb75.txt
+	lists an old version
+		https://web.archive.org/web/19990116234332/http://canvasnet.com/quake/qc.htm
+		ftp://ftp.canvasnet.com/quake/qc/bots/reaprb05.zip
 ZeusBot / ZEUSbot
 	Jonathan E. Wright aka Nelno the Amoeba
 	https://www.quaddicted.com/files/idgames2/quakec/bots/zeus205.zip

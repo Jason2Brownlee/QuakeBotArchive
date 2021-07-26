@@ -93,6 +93,15 @@ slipgate central bot
 	https://web.archive.org/web/19971210230311/http://www.slipgatecentral.com/Addons/Bots/
 
 
+BBS CDs / Archives
+- http://cd.textfiles.com/
+	(does not appear to be 100% indexed by google...)
+	http://cd.textfiles.com/directory.html
+- http://www.retroarchive.org/index.html
+	(does appear to be indexed, mostly...)
+	I manually searched all the 1996/1997 cds...
+	Some good wins.
+
 
 guides:
 
@@ -141,7 +150,8 @@ https://archive.org/details/cdrom-quake-it
 https://archive.org/details/cdrom-q-das-nachbeben
 https://archive.org/details/cdrom-aktiv-no3-duke-nukem-quake-addons-special
 https://archive.org/details/cdrom-quake-em
-
+https://archive.org/details/cdbbsarchive
+... too many I checked almost all.
 
 
 TOOLS
