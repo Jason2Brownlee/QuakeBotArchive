@@ -10,7 +10,7 @@ Estimated quake bot genealogy.
 
 ## Quake Bot Chronology
 
-Estimated quake bot public release chronology for Aug 1996.
+Estimated quake bot public release history for Aug 1996.
 
 Date | Release | Comment
 --- | --- | ---
@@ -28,10 +28,6 @@ Aug 28 1996* | mybot13a.zip | MyBot v1.3a (* estimated).
 Aug 31 1996 | bgadm101.zip | BGADM Bot v1.01.
 Aug 31 1996 | bgbot11.zip | BGBot v1.1.
 Aug 31 1996* | wisp.zip | Wisp v1.0 (* estimated).
-
-There is some interest in which was the first bot for Quake (e.g. [here](https://www.guinnessworldrecords.com/world-records/first-computer-controlled-deathmatch-opponent) and [here](https://www.quakewiki.net/quake-1-bots/#comment-2825) and [here](https://www.reddit.com/r/OutreachHPG/comments/40y87j/psa_how_to_spot_a_hackerbotter/)).
-
-Using dates in the text files and Usenet posts, it suggest that the **TMBot** was the first cooperative Quake bot and the **DMBot** was the first deathmatch Quake bot, followed within days by the MyBot, BGBot, TLGBot, BGADMBot and Wisp.
 
 For a more complete bot chronology see:
 
