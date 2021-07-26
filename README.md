@@ -10,26 +10,32 @@ Estimated quake bot genealogy.
 
 ## Quake Bot Chronology
 
-Estimated early quake bot public release chronology around Aug and Sep 1996.
+Estimated quake bot public release chronology for Aug 1996.
 
 Date | Release | Comment
 --- | --- | ---
-Jul 25 1996 | qcc.tar.gz | QCC (compiler) source and QuakeC (.qc) source released.
-Aug 21 1996 | **tmbot1.zip** | TMBot v1.0 released (**first cooperative bot).**
-Aug 23 1996 | **dmbot1.zip** | DMBot v1.0 released (**first deathmatch bot).**
-Aug 26 1996 | bgbot1.zip | BGBot v1.0 released.
-Aug 27 1996 | tlgbot.zip | TLGBot v1.2a released.
-Sep 04 1996 | cujo10.zip | CujoBot v1.0 released.
-Sep 04 1996 | zeus10.zip | ZeusBot v1.0 released.
-Sep 12 1996 | elim10.zip | Eliminator Bot v1.0 released.
-Oct 03 1996* | ? | ReaperBot v0.? release (*estimated, [ref](https://www.bluesnews.com/archives/sept96-5.html)).
+Jul 25 1996 | qcc.tar.gz | QCC (compiler) source and QuakeC (.qc) source.
+Aug 10 1996 | holo1.zip | HoloSelf v1.0 (pre-cursor to tmbot).
+Aug 14 1996 | holo2.zip | HoloSelf  v2.0 (pre-cursor to tmbot).
+Aug 21 1996 | **tmbot1.zip** | TMBot v1.0 (**first cooperative bot).**
+Aug 23 1996 | **dmbot1.zip** | DMBot v1.0 (**first deathmatch bot).**
+Aug 24 1996* | mybot.zip | MyBot v1.0 (* estimated).
+Aug 26 1996 | tmbot11.zip | TMBot v1.1.
+Aug 26 1996 | bgbot1.zip | BGBot v1.0.
+Aug 27 1996 | tlgbot.zip | TLGBot v1.2a.
+Aug 28 1996* | bgadmbot.zip | BGADM Bot v1.00 (*estimated).
+Aug 28 1996* | mybot13a.zip | MyBot v1.3a (* estimated).
+Aug 31 1996 | bgadm101.zip | BGADM Bot v1.01.
+Aug 31 1996 | bgbot11.zip | BGBot v1.1.
+Aug 31 1996* | wisp.zip | Wisp v1.0 (* estimated).
 
 There is some interest in which was the first bot for Quake (e.g. [here](https://www.guinnessworldrecords.com/world-records/first-computer-controlled-deathmatch-opponent) and [here](https://www.quakewiki.net/quake-1-bots/#comment-2825) and [here](https://www.reddit.com/r/OutreachHPG/comments/40y87j/psa_how_to_spot_a_hackerbotter/)).
 
-Using dates in the text files and Usenet posts, it suggest that the **TMBot** was the first cooperative Quake bot and the **DMBot** was the first deathmatch Quake bot, followed within days by the BGBot and TLGBot.
+Using dates in the text files and Usenet posts, it suggest that the **TMBot** was the first cooperative Quake bot and the **DMBot** was the first deathmatch Quake bot, followed within days by the MyBot, TLGBot, BGADMBot BGBot and Wisp.
 
-* First public release of the ReaperBot is unknown, likely late Sep or early Oct 1996.
-* TLGBot may have had prior public releases.
+For a more complete bot chronology see:
+
+* [Quake Bot Chronology](research/chronology.md)
 
 ## Quake Bot List
 
