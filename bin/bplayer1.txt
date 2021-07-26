@@ -1,0 +1,93 @@
+Title    : BPLAYER - Bot Player.
+Filename : bplayer1.zip
+Version  : 1.00 beta.
+Date     : 96/9/6
+Author   : Wolf
+Email    : wolfg_l@pro-net.co.uk
+Credits  : Punisher (designer of Original BG bot) 
+           Micheal Polucha (co-designer of Original TM bot)
+           Tim Polucha (co-designer of Original TM bot)
+           Nathaniel Gorham (Original DM bot)
+           Chris Weisdorf (expressing interest and ideas in BG bot)
+           detour@chrysalis.org (detour and punisher had the same ideas
+                                 and mods going about the same time.
+                                 Just giving credit where credit is due.)
+
+Type of Mod
+-----------
+Quake C  : yes
+Sound    : no
+MDL      : no
+
+
+Format of QuakeC
+----------------
+unified diff  : no
+context diff  : no
+.qc files     : yes
+progs.dat     : yes
+
+
+Description of the Modification
+-------------------------------
+Based upon BG Bot 1.5.
+
+Total overhaul for stability and flexiblity.  All animation and added
+axe and lightning.  Planing to add AIRCRAFT and flamethrower.
+
+ Impulse 100 creates a bot. There is no way to
+get rid of the bot.  Changing the level will remove all bots so
+changing to the current level will destory all bots.
+
+ Impulse 101 lists the current scores of the bots.  Shows up
+on all clients.  List the number of bots and the bot with
+the highest score.
+
+Nearly all of this code is mine.
+
+Installation
+------------
+
+Unzip the files into a directory off QUAKE.  Then run QUAKE using
+
+quake -game bplayer
+(assuming you unzipped into the directory BPLAYER.
+
+Then at the consul bind IMPULSE 100 and IMPULSE 101.
+
+For example:
+	bind ENTER "IMPULSE 100"
+	bind l "IMPULSE 101"
+With this every time you press enter you create a bot and when you press
+l you list their frags.
+
+TO PLAY DEATHMATCH AGAINST THEM!
+--------------------------------
+
+When you play single player, they work WITH you!
+If you want to player DeathMatch you have to start quake with the following:
+
+QUAKE -game bplayer -listen 2 +deathmatch 1 +map start
+
+This patch will work with any server normaly.  Remeber, this is a beta and
+there WILL be bugs!
+
+NOTE:
+There is a (crappy) camera view flicking.  IMPULSE 102 to use.  The only way
+to get out is to put in kill at the consul.
+
+Copyright and Distribution Permissions
+--------------------------------------
+
+Authors MAY use these modifications as a basis for other
+publically available work.
+
+You may do whatever you please with the contents of this archive.
+
+Availability
+------------
+
+This modification is available from the following places:
+
+FTP   : ftp.cdrom.com
+WWW   : http://www.pro-net.co.uk/home/wolfg_l
