@@ -1,0 +1,110 @@
+[Quake-c listing]
+Example of an alternate fiend jumping AI
+
+Here's a jumping algorithm I came up with for the fiends in Quake.
+It's a pretty good monster cheat that has them jumping for you and
+making it half the time no matter where you are.  Even from underwater.
+
+You can also change
+   setsize (self, VEC_HULL2_MIN, VEC_HULL2_MAX);
+to
+   setsize (self, VEC_HULL_MIN, VEC_HULL_MAX);
+in void() monster_demon1
+ 
+Quake only has three clipping hulls for moving entities, point-size,
+man-size, and shambler-size.  Making the hull man-sized gives the
+fiend a BIG edge in tracking you down, (it's a definite hack :)
+
+DEMON.QC
+(Change demon1_run6 and demon1_jump4)
+
+void()   demon1_jump1;
+void()   demon1_run6 =[ $run6,      demon1_run1 ]
+{
+   ai_run(36);
+   // if underwater, give a chance to switch to jump AI anyway
+   if (self.waterlevel == 1)
+   {
+      if ( random() > 0.8 )
+         self.think = demon1_jump1;
+   }
+
+};
+
+
+
+void()	demon1_jump4	=[	$leap4,		demon1_jump5	]
+{
+   local vector dir;
+   local float dist;
+
+   ai_face();
+	
+	self.touch = Demon_JumpTouch;
+	makevectors (self.angles);
+	self.origin_z = self.origin_z + 1;
+   if (self.enemy.origin_z > self.origin_z + 40)
+   {
+
+      if ( infront(self.enemy) || self.waterlevel == 1 )
+      {
+         dir = normalize(self.enemy.origin - self.origin);
+         dist = vlen(self.enemy.origin - self.origin);
+         self.velocity = dir * dist;
+      }
+      else
+         self.velocity = v_forward * 150;
+
+      dist = self.enemy.origin_z - self.origin_z;
+
+      // a vertical velocity to jump just above player's head
+      // for any given distance between z origins.
+      // (hack numbers that work for Quake)
+      dist = dist - 237;
+      self.velocity_z = 714 + dist;
+
+   }
+   else
+   {
+      // slow forward to fall off ledge if player down
+      // else normal horizontal velocity
+      if (self.enemy.origin_z < self.origin_z - 40)
+         self.velocity = v_forward * 150;
+      else
+         self.velocity = v_forward * 600;
+
+      // check for wall in front
+      traceline( self.origin - '0 0 16',
+                 (self.origin - '0 0 16') + v_forward*150, TRUE, self);
+
+      // attempt to jump wall or normal vel.
+      if (trace_fraction < 1)
+      {
+         self.velocity = v_forward * 110;
+         self.velocity_z = 250 * (random() + 1);
+      }
+      else
+         self.velocity_z = 250;
+   }
+
+
+   if (self.flags & FL_ONGROUND)
+		self.flags = self.flags - FL_ONGROUND;
+
+};
+
+
+(Add random statement to CheckDemonJump() to avoid hang-ups and
+enable going for it no matter what)
+
+float()	CheckDemonJump =
+{
+	local	vector	dist;
+	local	float	d;
+
+   if (random() < 0.4)
+      return TRUE;
+
+---
+Rob Albin
+albinatr@apci.net
