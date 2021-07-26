@@ -1,6 +1,6 @@
 # Quake Bot Chronology
 
-Estimated quake bot public release history for early bots (e.g. 1996).
+Estimated public release history for early Quake bots (circa 1996).
 
 Developed from release dates listed in readme files provided mod .zip files, corroborated with Usenet posts, unzipped file datetimes, and FTP file datetimes where possible.
 

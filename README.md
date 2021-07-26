@@ -4,13 +4,13 @@ The goal of this project is to archive **all versions** of **all Quake bots** (Q
 
 ## Quake Bot Genealogy
 
-Estimated quake bot genealogy.
+Estimated Quake bot genealogy.
 
 ![Quake Bot Genealogy](mindmap/QuakeBots.png)
 
 ## Quake Bot Chronology
 
-Estimated quake bot public release history for Aug 1996.
+Estimated Quake bot public release history circa Aug 1996.
 
 Date | Release | Comment
 --- | --- | ---
@@ -35,7 +35,7 @@ For a more complete bot chronology see:
 
 ## Quake Bot List
 
-Alphabetical list of quake bot names, authors, and local download links for all bots in the [bin/](bin/) directory.
+Alphabetical list of Quake bot names, authors, and local download links for all bots in the [bin/](bin/) directory.
 
 Bot Name | Bot Author(s) | File
 --- | --- | ---
