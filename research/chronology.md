@@ -1,6 +1,6 @@
 # Quake Bot Chronology
 
-Estimated quake bot public release chronology for early bots (e.g. 1996).
+Estimated quake bot public release history for early bots (e.g. 1996).
 
 Developed from release dates listed in readme files provided mod .zip files, corroborated with Usenet posts, unzipped file datetimes, and FTP file datetimes where possible.
 
@@ -78,3 +78,6 @@ Jan 09 1997 | zeus2042.zip | ZeusBot v2.042.
 Feb 12 1996 | cujo14.zip | CujoBot v1.4.
 Jun 03 1997 | zeus205.zip | ZeusBot v2.05.
 Jun 03 1997 | zeus205s.zip | ZeusBot v2.05s.
+
+
+If you can improve the accuracy of this history, please email Jason at jason.brownlee05@gmail.com
