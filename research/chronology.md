@@ -36,8 +36,12 @@ Sep ?? 1996 | iwbot15.zip | IronWulvt's Deathmatch Bot v1.5.
 Sep 11 1996 | iwbot16.zip | IronWulvt's Deathmatch Bot v1.6.
 Sep 12 1996 | elim10.zip | Eliminator Bot v1.0.
 Sep 13 1996 | bgbot16.zip | BGBot v1.6.
+Sep 15 1996 | elim11.zip | Eliminator Bot v1.1.
+Sep 16 1996 | elim12.zip | Eliminator Bot v1.2.
 Sep 17 1996 | botskn10.zip | BotSkin v1.1
 Sep 18 1998 | bthnt10.zip | Bot Hunt v1.0.
+Sep ?? 1996 | elim13.zip | Eliminator Bot v1.3.
+Sep 19 1996 | elim14.zip | Eliminator Bot v1.4.
 Sep 21 1996 | bplayer2.zip | BPlayer Bot v2.00.
 Sep 24 1996 | vbot1.zip | Victim Bot v1.0.
 Sep 26 1996* | vbot11.zip | Victim Bot v1.1 (* estimated).
