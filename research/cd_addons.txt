@@ -1,0 +1,179 @@
+Quake Addon CDs
+--------------------------------------------------------------------------------
+
+Lists of Add-ons
+--------------------------------------------------------------------------------
+
+List: Commercial (list of cds)
+	https://www.quaddicted.com/files/commercial/
+	lots of useful cds
+List: Commercial Addons
+	http://quakeone.com/forum/quake-talk/quake-central/9859-let-s-share-our-quake-addons-with-each-other
+List: Commercial Addons
+	https://www.quaketerminus.com/addon.shtml
+List: Unofficial add-ons for Quake games
+	https://www.mobygames.com/game-group/unofficial-add-ons-for-quake-games
+
+BOTS (addons that have bots)
+----
+Toolkit For Quake (QTOOL_0996)
+	https://www.quaddicted.com/files/commercial/Toolkit%20For%20Quake%20(QTOOL_0996).7z
+	no bots, stops short, e.g. just monsters, misc, etc. captured end of aug 1996 i think
+	has holo1 and holo2
+Toolkit For Quake 2nd Edition (QTool_0197)
+	https://www.quaddicted.com/files/commercial/Toolkit%20For%20Quake%202nd%20Edition%20(QTool_0197).7z
+	has bots, captured mid-late sep 1996 i think
+	includes reaper v0.7 and zeus 0.1
+Level Master V for Quake
+	https://www.quaddicted.com/files/commercial/Level%20Master%20V.7z
+	https://archive.org/details/levelmastervforquakeusa
+	https://archive.org/details/cdrom-quake-level-master-5
+	https://archive.org/details/msdos_Quake_Level_Master_V_1997
+	some patches...
+	zeus bot 2.042
+Eternal Darkness
+	https://www.quaddicted.com/files/commercial/Eternal%20Darkness%20(german).7z
+	https://archive.org/details/cdrom-eternal-darkness
+	has unzipped tmbot1.zip dmbot1.zip
+Quake 'em
+	https://archive.org/details/cdrom-quake-em
+	lots of maps and mods, other games as well
+	has bots: BGBOT11, BOTSKN18, DMBOT1, HOLO1, HOLO2, MYBOT, MYBOT13A, REAPRB07, SWBOT104,
+		TMBOT1, TMBOT11
+	(all unzipped)
+tremor quake
+	https://archive.org/details/cdrom-tremor-for-quake
+	https://archive.org/details/tremorusa
+		tremorusa.zip (200mb) -> 600 unzipped
+	lots of maps
+	unzipped mods under quakec
+	bots: CUJO13
+power tools for quake
+	https://www.quaddicted.com/files/commercial/Power%20Tools%20for%20Quake%20-%20Back.jpg
+	https://www.quaddicted.com/files/commercial/Power%20Tools%20for%20Quake.jpg
+	https://archive.org/download/redump_pc_P
+	https://archive.org/download/redump_pc_P/Power%20Tools%20for%20Quake%20%28Europe%29.7z
+	tools, levels
+	unzipped...
+	MAIN_WPN/BOTS
+	bots: bgadm, bgbot, bothunt, cujo, decoyz, dmbot, iwbot, mybot, roambot, mbot, zeus...
+	no reaper... no elim, no cujo
+
+
+
+NO BOTS (addons without bots)
+-------
+
+Aftershock for Quake
+	https://www.quaddicted.com/files/commercial/Aftershock.7z
+	https://archive.org/details/AftershockForQuake
+	https://archive.org/details/aftershockforquakeusa
+	lots of maps... no bots
+Aftershock for Quake: Deluxe
+	https://www.quaddicted.com/files/commercial/Aftershock%20Deluxe.7z
+	https://archive.org/details/AftershockForQuakeDeluxe
+	https://archive.org/details/aftershockforquakeusadeluxeedition
+	lots of maps... no bots
+Aftershock for Quake: Toolbox
+	https://www.quaddicted.com/files/commercial/Aftershock%20Toolbox.7z
+	https://archive.org/details/aftershocktoolboxtheultimatecommandtoolsforquakeusa
+	https://archive.org/details/cdrom-aftershock-toolbox
+	has mods, but no bots, sep 1996 I think
+dark hour
+	https://www.quaddicted.com/files/commercial/Dark%20Hour_redump11008_clonecd.7z
+	https://archive.org/details/darkhourcanada
+	https://archive.org/details/msdos_Dark_Hour_1996
+	no patches, just levels
+Malice
+	https://www.quaddicted.com/files/commercial/Malice.7z
+	https://archive.org/details/Malice23rdCenturyUltraconversionForQuakeUSA
+	https://archive.org/details/msdos_Malice_for_Quake_1997
+	https://archive.org/details/QuakeMalice
+	just a tc...
+Q!Zone / QZone
+	https://www.quaddicted.com/files/commercial/Q!Zone.7z
+	maps
+Q.... Das Nachbeben
+	https://www.quaddicted.com/files/commercial/Q....%20Das%20Nachbeben.7z
+	https://archive.org/details/cdrom-q-das-nachbeben
+	mods, no bots...
+Q2
+	https://www.quaddicted.com/files/commercial/Q2.7z
+	https://archive.org/details/cdrom-q2
+	maps
+QUAKE - MS7001 (?)
+	https://www.quaddicted.com/files/commercial/QUAKE%20-%20MS7001.7z
+	https://www.quaddicted.com/files/commercial/QUAKE%20-%20MS7001.cdrdao.7z
+	https://www.quaddicted.com/files/commercial/QUAKE%20-%20MS7001.dd.7z
+	https://www.quaddicted.com/files/commercial/QUAKE%20-%20MS7001.ddrescue.7z
+	lots of maps, few mods
+Quake It
+	https://www.quaddicted.com/files/commercial/Quake%20It%20(german).7z
+	https://archive.org/details/cdrom-quake-it
+	few mods, no bots
+Shrak
+	https://www.quaddicted.com/files/commercial/Shrak.7z
+	https://archive.org/details/ShrakForQuakeUSA
+	just a mod/tc
+Shrak 2
+	https://www.quaddicted.com/files/commercial/Shrak2.7z
+	https://archive.org/details/SHRAKV2
+	just a mod/tc
+Spiele Hits Vol. 1
+	https://www.quaddicted.com/files/commercial/Spiele%20Hits%20Vol.%201%20(1996-10-22-14-29-24-05).7z
+	tons of maps, few mods, all .exe compressed
+Superdead
+	https://archive.org/details/MicrobossSUPERDEAD
+	all maps i think
+Earth Quake
+	https://archive.org/details/tycultureearthquake
+	maps, mods, no bots
+Qu...ke / Qu_ke / Qu.......ke
+	https://www.quaddicted.com/forum/viewtopic.php?id=693
+	https://archive.org/details/krogersoftwaregmbhquke
+	unzipped mods, maps
+	weapons, utils
+CD ROM AKTIV No 3 Duke Nukem & Quake Add Ons Special
+	https://archive.org/details/cdrom-aktiv-no3-duke-nukem-quake-addons-special
+	zip files under G_APOGEE/ doom and duke
+	files.bbs has everything
+	just qtest stuff...
+Quake shareware CD without id stuff
+	https://archive.org/details/QuakeSWCDNID
+	just the shareware...
+Q.E.D. Level Creator for Quake (USA)
+	https://archive.org/details/qedlevelcreatorforquakeusa
+	just a level maker
+Deathmatch Maker
+	https://archive.org/details/deathmatchmakerusa
+	just an app
+	few small maps and mods
+
+
+
+
+TODO (cannot locate/access a copy)
+----
+
+Ultra Level Add-on / ultra collection volume 10
+	https://forum.nexgam.de/thread/63231-eure-pc-computer-games-sammlung/
+	http://quakeone.com/forum/quake-talk/quake-central/9859-let-s-share-our-quake-addons-with-each-other
+		there is a cd cover...
+	https://www.mobygames.com/game/ultra-level-add-on
+	https://www.mobygames.com/game/dos/ultra-level-add-on
+	https://talks.dos.zone/t/ultra-level-add-on-1997/6883
+	just levels???
+	???
+Universe of Levels / Universe of Levels: Das Ultimative Add-On Ereignis!
+	https://www.mobygames.com/game/universe-of-levels-das-ultimative-add-on-ereignis
+	https://picclick.de/Universe-of-Levels-Das-Ultimative-Add-On-Ereignis-133829157325.html?refresh=1
+	has: Qu.......ke (which we have already processed)
+	n/a
+Chartbusters 10
+GameMania for Quake
+The Q Files
+Time of Reckoning
+Q++
+
+
+
