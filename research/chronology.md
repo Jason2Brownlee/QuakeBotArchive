@@ -64,7 +64,7 @@ Oct 27 1996 | botskn20.zip | BotSkin v2.0.
 Nov 04 1996 | btskn22.zip | BotSkin v2.2.
 Nov 11 1996 | reaprb75.zip | ReaperBot v0.75.
 Nov 15 1996 | reaprb08.zip | ReaperBot v0.8.
-Nov 15 1996 | reaprb81.zip | ReaperBot v0.81
+Nov 17 1996* | reaprb81.zip | ReaperBot v0.81 (* estimated).
 ??? ?? 1996 | cujo12b.zip | CujoBot v1.2b.
 ??? ?? 1996 | cujo12c.zip | CujoBot v1.2c.
 Nov 27 1996 | cujo13.zip | CujoBot v1.3.
