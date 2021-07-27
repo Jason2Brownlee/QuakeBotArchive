@@ -1,0 +1,83 @@
+Title : Eliminator CBot Engine
+Filename : elim11.zip
+Version : 1.1
+Date : 96/09/15
+Author : Cameron Newham
+Email : c...@iinet.com.au
+Credits : see the readme.txt
+
+
+Type of Mod
+-----------
+Quake C : yes
+Sound : no
+MDL : no
+
+
+Format of QuakeC (if a Quake C Mod)
+-----------------------------------
+unified diff : no
+context diff : no
+.qc files : no
+progs.dat : yes
+
+
+Description of the Modification
+-------------------------------
+
+Currently, this is the most sophisticated Quake C Bot available.
+
+The Eliminator Bot package provides you with some decent adversaries
+to play Quake against. Don't have a network connection? Maybe you
+have a $100,000 LAN at home but no friends... Well, here is the
+answer to your Deathmatch dreams. These automated deathmatch opponents
+are by no means friendly and they'd just love to kick your sorry
+behind all over the place. What's more, they aren't stupid like
+most of the other bots out there. These know how to fight and know
+their way around.
+
+For further details see the README.TXT file in the archive.
+
+
+How to Install the Modification
+-------------------------------
+
+See the README.TXT file in the archive
+
+
+Technical Details
+-----------------
+
+See the README.TXT file in the archive
+
+
+Author Information
+------------------
+
+I am author of the "Realistic Weapons" Quake C patch,
+the sqeam.zip archive, and this Mod Template.
+
+
+Copyright and Distribution Permissions
+--------------------------------------
+
+Authors MAY use these modifications as a basis for other
+publically / commercially / publically or commercially available work
+SUBJECT TO THE LIMITATIONS SET OUT IN THE README.TXT FILE.
+
+
+You may distribute this Quake modification in any electronic
+format as long as this description file remains intact and unmodified
+and is retained along with all of the files in the archive.
+
+Availability
+------------
+
+This modification is available from the following places:
+
+FTP : (eventually) ftp.cdrom.com in the Quake C area
+WWW : http://www.iinet.com.au/~cam/quakec.html
+http://www.iinet.com.au/~cam/elim10.zip
+
+BBS : -
+Other : -
