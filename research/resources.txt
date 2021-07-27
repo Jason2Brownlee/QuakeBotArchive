@@ -220,6 +220,7 @@ Q!Zone / QZone
 	maps
 Q.... Das Nachbeben
 	https://www.quaddicted.com/files/commercial/Q....%20Das%20Nachbeben.7z
+	https://archive.org/details/cdrom-q-das-nachbeben
 	mods, no bots...
 Q2
 	https://www.quaddicted.com/files/commercial/Q2.7z
@@ -266,11 +267,10 @@ Quake shareware CD without id stuff
 	https://archive.org/details/QuakeSWCDNID
 	just the shareware...
 
+
+
 TODO
 ----
-
-
-
 
 power tools for quake
 	https://www.quaddicted.com/files/commercial/Power%20Tools%20for%20Quake%20-%20Back.jpg
@@ -290,12 +290,13 @@ Q++
 
 
 
+
+
 magazines + quake: archived cd's
 --------------------------------------------------------------------------------
 
 bots
 ----
-
 PC Zone March 1997 / CD Zone Issue #48 (March 1997)
 	https://www.quaddicted.com/magazines/cd_zone_issue_48_march_1997
 	https://archive.org/details/CdZoneIssue48march1997
@@ -309,12 +310,16 @@ PC Zone Cover CD "Complete Quake" Xmas 1997 / PCZone Complete Quake CD
 	https://archive.org/details/PCZoneCompleteQuakeCD/
 	maps, some
 	bots: reaper in setup.exe (v0.8)
-PC Gamer CD from November 1996
+PC Gamer CD from November 1996 (November 1996)
 	https://www.quaddicted.com/forum/viewtopic.php?id=671
 	https://archive.org/details/PCGAMER36
 	maps, utils, zipped up version of mods
 	bots: BGBOT15.ZIP, CUJO10.ZIP, DMBOT1.ZIP, MYBOT16.ZIP, ZEUS10.ZIP, TMBOT11.ZIP
-
+PC Gamer Disc 3.9 Number 2 (December 1997)
+	https://archive.org/details/PC_Gamer_Disc_3.9_Number_2_December_1997
+	https://archive.org/details/PC_Gamer_Disc_3.9_December_1997_Disc_1
+	https://archive.org/details/PC_Gamer_Disc_3.9_Disc_2_RBSII1_December_1997
+	bots: zeus205s.zip zeus205.zip
 
 
 no bot
@@ -327,21 +332,57 @@ PC Gamer October 1997 / 3.7 / Quake-O-Rama
 	https://www.moddb.com/games/quake/addons/pc-gamer-quake-o-rama
 	unzipped...
 	few maps, few tc's not a lot
+PC Gamer Cover Disc #2.9 (October 1996)
+	https://archive.org/details/pcgamer-coverdisc-1996-10
+	nothing
+PC Gamer CD 2.11 (December 1996)
+	https://archive.org/details/cdrom-pcgamer-211
+	quake maps
+CD Gamer February 1997
+	https://archive.org/details/CDGFeb97I40
+	some levels
+PC Gamer CD-ROM (Disc 3.1) (Imagine) (April 1997)
+	https://archive.org/details/PC_Gamer_CD-ROM_Disc_3.1_Imagine_April_1997
+	some levels
+PC Gamer CD Issue 3.3 (Theme Hospital) (June 1997)
+	https://archive.org/details/PC_Gamer_CD_Issue_3.3_Theme_Hospital_June_1997
+	https://archive.org/details/PC_Gamer_Disc_3.3_Imagine_June_1997
+	some levels
+PC GAMER July 1997 Disc 3.4
+	https://archive.org/details/PCGAMERJuly1997Disc3.4
+	https://archive.org/details/PC_Gamer_Disc_3.4_July_1997
+	some levels
+PC Gamer Magazine Disc 3.5 (August 1997)
+	https://archive.org/details/PC_Gamer_Magazine_Disc_3.5_August_1997
+	some levels
+PC Gamer Disc 3.6 (September 1997)
+	https://archive.org/details/PC_Gamer_Disc_3.6_September_1997
+	some levels
+PC Gamer Cover Disc #2.12 (January 1997)
+	https://archive.org/details/pcgamer-coverdisc-1997-01
+	some maps
+PC Gamer CD 2.8 (September 1996)
+	https://archive.org/details/cdrom-pcgamer-208
+	https://archive.org/details/pc-gamer-september-1996-pcg-34-9-96
 
 
 
+todo
+----
 
-
-
-
-
-https://archive.org/details/cdrom-q-das-nachbeben
-https://archive.org/details/cdrom-quake-em
-https://archive.org/details/cdbbsarchive
-
-
-
-
+PC Gamer CD-ROM August 1996 Issue 33 (August 1996)
+	https://archive.org/details/WH2DEMO
+	too soon...
+	???
+PC Gamer March 1997 (USA)
+	https://archive.org/details/PCGamerMarch1997USA
+	???
+PC Gamer CD-ROM (Disc 3.2) (May 1997)
+	https://archive.org/details/PC_Gamer_CD-ROM_Disc_3.2_May_1997
+	???
+PC Gamer Disc 3.8 (November 1997)
+	https://archive.org/details/PC_Gamer_Disc_3.8_November_1997
+	???
 
 
 
