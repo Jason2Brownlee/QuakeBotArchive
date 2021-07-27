@@ -20,10 +20,12 @@ Aug 14 1996 | holo2.zip | HoloSelf  v2.0 (pre-cursor to tmbot).
 Aug 21 1996 | **tmbot1.zip** | TMBot v1.0 (**first cooperative bot).**
 Aug 23 1996 | **dmbot1.zip** | DMBot v1.0 (**first deathmatch bot).**
 Aug 24 1996* | mybot.zip | MyBot v1.0 (* estimated).
+Aug 25 1996* | mybot11.zip | MyBot v1.1 (* estimated).
 Aug 26 1996 | tmbot11.zip | TMBot v1.1.
 Aug 26 1996 | bgbot1.zip | BGBot v1.0.
 Aug 27 1996 | tlgbot.zip | TLGBot v1.2a.
 Aug 28 1996* | bgadmbot.zip | BGADM Bot v1.00 (*estimated).
+Aug 28 1996* | mybot12.zip | MyBot v1.2 (* estimated).
 Aug 28 1996* | mybot13a.zip | MyBot v1.3a (* estimated).
 Aug 31 1996 | bgadm101.zip | BGADM Bot v1.01.
 Aug 31 1996 | bgbot11.zip | BGBot v1.1.
