@@ -137,7 +137,7 @@ MegaBot | "Vic" | [megabot.zip](bin/megabot.zip)
 Midair Bots | Benjamin Darling aka "Electro" and "Vomit" | [midair_qwbot.rar](bin/midair_qwbot.rar)<br>[midairbots_all.zip](bin/midairbots_all.zip)<br>[midairbots.zip](bin/midairbots.zip)
 Mod Pak 1 FMOD | "Neophyte" | mpak1v12.zip
 Motd FMOD | Algirdas Kepezinskas aka "ZeCybEr" | motd.zip
-MyBot | Stephen Vanterpool | [mybot16.zip](bin/mybot16.zip) ([txt](bin/mybot16.txt))<br>mybot14.zip<br>[mybot13a.zip](bin/mybot13a.zip)<br>[mybot.zip](bin/mybot.zip)
+MyBot | Stephen Vanterpool | [mybot16.zip](bin/mybot16.zip) ([txt](bin/mybot16.txt))<br>mybot14.zip<br>[mybot13a.zip](bin/mybot13a.zip)<br>[mybot11.zip](bin/mybot11.zip) ([txt](bin/mybot11.txt))<br>[mybot.zip](bin/mybot.zip)
 Navy SEALs sQuad bots | William van der Sterren | [nseal201.zip](bin/nseal201.zip)<br>sqdbt201.zip
 Ogre Bot | "Lava Man" | [ogrebot.zip](bin/ogrebot.zip)
 Omicron Bot | Jan Paul van Waveren aka "Mr. Elusive" and Miklos de Rijk aka "H2SO4" | [obots102.zip](bin/obots102.zip)<br>[obots101.zip](bin/obots101.zip)<br>obots100.zip
