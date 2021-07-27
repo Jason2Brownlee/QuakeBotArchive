@@ -10,8 +10,6 @@ If so please email:  jason.brownlee05@gmail.com
 2000.zip
 accuracy.zip
 bgadmbot.zip
-bgbot12.zip
-bgbot125.zip
 bgbot13.zip
 bm116se.zip
 bm119gl.zip
