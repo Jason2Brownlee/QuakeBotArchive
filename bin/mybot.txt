@@ -1,0 +1,18 @@
+I modified the tmbot qc mod to shoot grenades at zombies.
+I cannot take much credit for this mod because i am not really a good 
+proggrammer and the bot is mostly Micheal Polucha's (mpolucha@earthlink.net)
+code.
+Much credit to him!
+
+Check tmbot.txt for more important info!
+
+
+bugs
+1. the lazer still fires at zombies
+2. grenade sound still plays for lazers
+
+As i said i am not a real programmer so can someone please tell me when the fix it?
+
+Stephen Vanterpool
+Email: stephen@caribsurf.com
+
