@@ -137,12 +137,19 @@ planetquake
 	https://web.archive.org/web/19970208052149/http://www.planetquake.com:80/
 
 
-archived cd's (third party, magazines, etc)
+third party quake: archived cd's
 --------------------------------------------------------------------------------
 
-Commercial (list of cds)
+List: Commercial (list of cds)
 	https://www.quaddicted.com/files/commercial/
 	lots of useful cds
+List: Commercial Addons
+	http://quakeone.com/forum/quake-talk/quake-central/9859-let-s-share-our-quake-addons-with-each-other
+List: Commercial Addons
+	https://www.quaketerminus.com/addon.shtml
+
+BOTS
+----
 Toolkit For Quake (QTOOL_0996)
 	https://www.quaddicted.com/files/commercial/Toolkit%20For%20Quake%20(QTOOL_0996).7z
 	no bots, stops short, e.g. just monsters, misc, etc. captured end of aug 1996 i think
@@ -151,9 +158,148 @@ Toolkit For Quake 2nd Edition (QTool_0197)
 	https://www.quaddicted.com/files/commercial/Toolkit%20For%20Quake%202nd%20Edition%20(QTool_0197).7z
 	has bots, captured mid-late sep 1996 i think
 	includes reaper v0.7 and zeus 0.1
+Level Master V for Quake
+	https://www.quaddicted.com/files/commercial/Level%20Master%20V.7z
+	https://archive.org/details/levelmastervforquakeusa
+	https://archive.org/details/cdrom-quake-level-master-5
+	https://archive.org/details/msdos_Quake_Level_Master_V_1997
+	some patches...
+	zeus bot 2.042
+Eternal Darkness
+	https://www.quaddicted.com/files/commercial/Eternal%20Darkness%20(german).7z
+	https://archive.org/details/cdrom-eternal-darkness
+	has unzipped tmbot1.zip dmbot1.zip
+Quake 'em
+	https://archive.org/details/cdrom-quake-em
+	lots of maps and mods, other games as well
+	has bots: BGBOT11, BOTSKN18, DMBOT1, HOLO1, HOLO2, MYBOT, MYBOT13A, REAPRB07, SWBOT104,
+		TMBOT1, TMBOT11
+	(all unzipped)
 
-more cds
-https://www.quaddicted.com/forum/viewtopic.php?id=671
+
+NO BOTS
+-------
+
+Aftershock for Quake
+	https://www.quaddicted.com/files/commercial/Aftershock.7z
+	https://archive.org/details/AftershockForQuake
+	https://archive.org/details/aftershockforquakeusa
+	lots of maps... no bots
+Aftershock for Quake: Deluxe
+	https://www.quaddicted.com/files/commercial/Aftershock%20Deluxe.7z
+	https://archive.org/details/AftershockForQuakeDeluxe
+	https://archive.org/details/aftershockforquakeusadeluxeedition
+	lots of maps... no bots
+Aftershock for Quake: Toolbox
+	https://www.quaddicted.com/files/commercial/Aftershock%20Toolbox.7z
+	https://archive.org/details/aftershocktoolboxtheultimatecommandtoolsforquakeusa
+	https://archive.org/details/cdrom-aftershock-toolbox
+	has mods, but no bots, sep 1996 I think
+dark hour
+	https://www.quaddicted.com/files/commercial/Dark%20Hour_redump11008_clonecd.7z
+	https://archive.org/details/darkhourcanada
+	https://archive.org/details/msdos_Dark_Hour_1996
+	no patches, just levels
+Malice
+	https://www.quaddicted.com/files/commercial/Malice.7z
+	https://archive.org/details/Malice23rdCenturyUltraconversionForQuakeUSA
+	https://archive.org/details/msdos_Malice_for_Quake_1997
+	https://archive.org/details/QuakeMalice
+	just a tc...
+Q!Zone / QZone
+	https://www.quaddicted.com/files/commercial/Q!Zone.7z
+	maps
+Q.... Das Nachbeben
+	https://www.quaddicted.com/files/commercial/Q....%20Das%20Nachbeben.7z
+	mods, no bots...
+Q2
+	https://www.quaddicted.com/files/commercial/Q2.7z
+	https://archive.org/details/cdrom-q2
+	maps
+QUAKE - MS7001 (?)
+	https://www.quaddicted.com/files/commercial/QUAKE%20-%20MS7001.7z
+	https://www.quaddicted.com/files/commercial/QUAKE%20-%20MS7001.cdrdao.7z
+	https://www.quaddicted.com/files/commercial/QUAKE%20-%20MS7001.dd.7z
+	https://www.quaddicted.com/files/commercial/QUAKE%20-%20MS7001.ddrescue.7z
+	lots of maps, few mods
+Quake It
+	https://www.quaddicted.com/files/commercial/Quake%20It%20(german).7z
+	https://archive.org/details/cdrom-quake-it
+	few mods, no bots
+Shrak
+	https://www.quaddicted.com/files/commercial/Shrak.7z
+	https://archive.org/details/ShrakForQuakeUSA
+	just a mod/tc
+Shrak 2
+	https://www.quaddicted.com/files/commercial/Shrak2.7z
+	https://archive.org/details/SHRAKV2
+	just a mod/tc
+Spiele Hits Vol. 1
+	https://www.quaddicted.com/files/commercial/Spiele%20Hits%20Vol.%201%20(1996-10-22-14-29-24-05).7z
+	tons of maps, few mods, all .exe compressed
+Superdead
+	https://archive.org/details/MicrobossSUPERDEAD
+	all maps i think
+Earth Quake
+	https://archive.org/details/tycultureearthquake
+	maps, mods, no bots
+
+
+
+TODO
+----
+
+tremor quake
+	https://archive.org/details/cdrom-tremor-for-quake
+	https://archive.org/details/tremorusa
+	???
+power tools for quake
+	https://www.quaddicted.com/files/commercial/Power%20Tools%20for%20Quake%20-%20Back.jpg
+	https://www.quaddicted.com/files/commercial/Power%20Tools%20for%20Quake.jpg
+	https://archive.org/download/redump_pc_P
+	????
+Deathmatch Maker
+	https://archive.org/details/deathmatchmakerusa
+	???
+Ultra Level Addon / ultra collection volume 10
+Universe of Levels
+Chartbusters 10
+GameMania for Quake
+The Q Files
+Time of Reckoning
+
+
+
+magazines + quake: archived cd's
+--------------------------------------------------------------------------------
+
+
+PC Zone March 1997
+	https://archive.org/details/CdZoneIssue48march1997
+	early 1997 I think
+	bots: BGBOT16.ZIP, Drkbot03.zip, VBOT1.ZIP, ctfbot11.zip, darkbotx.zip, dmbot1.zip,
+		iwbot21.zip, mybot16.zip, roambot1.zip, swbot104.zip, tlgbot.zip, vbot11.zip,
+		zeus2042.zip, wisp.zip, bplayer2.zip, bthnt10.zip, btskn22.zip, bgadm101.zip, elim14.zip, sambot.zip
+		no reaper...?
+PC Gamer October 1997 / 3.7 / Quake-O-Rama
+	https://archive.org/details/PCGamerOct1997
+	https://archive.org/details/PC_Gamer_Disc_3.7_October_1997
+	https://archive.org/details/PC_Gamer_Disc_3.7_Imagine_October_1997
+	https://archive.org/details/PC_Gamer_CD_Issue_3.7_PCGAMER_October_1997
+	https://www.moddb.com/games/quake/addons/pc-gamer-quake-o-rama
+	unzipped...
+	few maps, few tc's not a lot
+PC Zone Cover CD "Complete Quake" Xmas 1997 / PCZone Complete Quake CD
+	https://archive.org/details/PCZoneCompleteQuakeCD
+	maps, some
+	bots: Reaper (v0.8)
+PC Gamer CD from November 1996
+	https://www.quaddicted.com/forum/viewtopic.php?id=671
+	https://archive.org/details/PCGAMER36
+	maps, utils, zipped up version of mods
+	bots: BGBOT15.ZIP, CUJO10.ZIP, DMBOT1.ZIP, MYBOT16.ZIP, ZEUS10.ZIP, TMBOT11.ZIP
+
+
 https://archive.org/details/CdZoneIssue48march1997
 https://archive.org/details/cdbbsarchive?and%5B%5D=subject%3A%22Quake%22&sort=-date
 https://archive.org/details/cdrom-aktiv-no3-duke-nukem-quake-addons-special
