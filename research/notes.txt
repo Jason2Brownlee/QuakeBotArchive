@@ -1659,6 +1659,7 @@ Decoyz
 	https://web.archive.org/web/19961121231508/http://www.stomped.com/files.quakec.html
 	https://web.archive.org/web/19961121231508/ftp://ftp.stomped.com/pub/quake/quakec/bots/decoyz.zip
 	http://cd.textfiles.com/swextrav8/swextrav8-2/gamapog1/decoyz.zip
+	also on the power tools cd...
 	Sam Shockey
 imbot
 	https://web.archive.org/web/19961221053200/http://www.gamesmania.com/english/quake/quakec.htm

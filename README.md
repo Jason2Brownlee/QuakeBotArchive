@@ -121,7 +121,7 @@ Hellsmash | Khin Mannering aka "Dr. Shadowborg" | [qsr04apatch1.7z](bin/qsr04apa
 Holo Soldier FMOD | Algirdas Kepezinskas aka "ZeCybEr" | holomod.zip
 Human Bot (Hbot) | Jeffrey Lee | [hbot.zip](bin/hbot.zip)
 Indecisive Bot (Gyrobot) | Aaron Logue aka "Gyro Gearloose" | [gyrobot.zip](bin/gyrobot.zip)<br>[gbotsrc.zip](bin/gbotsrc.zip)
-IronWulvt's Deathmatch Bot | Ben Garrod aka "IronWulvt" | [iwbot21.zip](bin/iwbot21.zip) ([txt](bin/iwbot21.txt))<br>iwbot20.zip<br>[iwbot16.zip](bin/iwbot16.zip)<br>iwbot15.zip<br>iwbot1.zip
+IronWulvt's Deathmatch Bot | Ben Garrod aka "IronWulvt" | [iwbot21.zip](bin/iwbot21.zip) ([txt](bin/iwbot21.txt))<br>iwbot20.zip<br>[iwbot16.zip](bin/iwbot16.zip)<br>iwbot15.zip<br>[iwbot1.zip](bin/iwbot1.zip) ([txt](bin/iwbot1.txt))
 JBot | Jeffrey Lee | [jbot.zip](bin/jbot.zip)
 KarNag Bot | Ken Madlener | [knbot45.zip](bin/knbot45.zip)<br>[knbot03.zip](bin/knbot03.zip)
 Khol's FMODS | "Khol" | kfmod.zip

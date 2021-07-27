@@ -1,0 +1,116 @@
+
+Title    : IronWulvt's Deathmatch Bot
+Filename : IWBOT1.zip
+Version  : 0.1
+Date     : 96/9/1 
+Author   : Ben Garrod (IRONWULVT)
+Email    : Bill@Seanet.com
+Credits  : Micheal Polucha (co-designer of Original TM bot)
+           Tim Polucha (co-designer of Original TM bot)
+           Punisher (Original BG bot)
+
+
+Type of Mod
+-----------
+Quake C  : yes
+Sound    : no
+MDL      : no
+SPR      : yes
+
+Source Included :  yes
+*Also included is a .pat file(unified diff)
+
+Description of the Modification
+-------------------------------
+
+        Well, this is my deathmatch bot I have been working on. Using the
+        original TMBOT as the base, I began work. Within a few days their
+        was most of the original TMBOT code had been revamped,changed or
+        taken out. Then BGBOT was released. I found it had
+        success with a few things I wanted to do, but was having trouble with
+        or was too busy with other things to implement. So I put in stuff from
+        BGBOT. Now Its beginning to shape up. There are alot of stuff I want
+        to do with it, but it works and want to release a version.
+
+        This will create a deathmatch opponent. This opponent will be able to
+        use all weapons except Lightning gun. He will pick up objects including
+        powerups. He dodges and hunts his killer after respawning.
+        It is very deadly. NOTE: THERE IS STILL BUGS!
+        
+How to Install the Modification
+-------------------------------
+
+To install, unzip the IWBOT.zip. Make a directory in your Quake directory
+called IWBOT. Copy the progs.dat from the zip into the IWBOT directory.
+Now make a directory in IWBOT directory called PROGS. Copy null.spr from
+the zip into the PROGS directory.
+From your main Quake directory, type:
+        quake -game iwbot
+and hit enter. Once the game loads, press escape for the menu, and select
+multiplayer game. From the multiplayer menu, select start new game.
+From this menu select Direct Connect. Now is a listing of settings for the game.
+Choose your starting episode and hit start game.
+This will begin the deathmatch.
+
+
+
+
+Technical Details
+-----------------
+
+Well, since this is version 0.1 you can expect there to be updates.
+This version is still really rusty.
+I am having trouble with the following things:
+
+Getting the bot to search for items without trying to walk through walls
+Getting the bot to walk off ledges
+Getting the bot to pick up health
+Getting the bot to face the opponent better
+Getting the bot to think through another entity(see source code for beginning of my work) 
+Getting the bot to activate all buttons and triggers
+getting the bot to sidestrafe and continually change its facing and thus
+        the direction of the sidestrafe(for circle strafes)
+getting the bot not to flip out when dodging nails.
+Name of bots and frag counts on score lists
+
+Things I want to do, but haven't tried:
+
+Add Lightning Gun to bot's weaponry
+Add Axe to bot's weaponry
+get bot to jump intelligently
+get the bot to avoid lightning better(gets nailed by lightning every time!)
+get bot to learn(perform better based on number of frags)
+get bot to have skill rankings (Have the bot not appear on Start.bsp, but
+        all others. This way you can select a skill level for your bot to
+        play against.)
+ability to add bots to the fray(one spawns when you initially spawn,
+        and it keeps respawning)
+Random quotes for the bot
+Random names for the bot
+New skin for the bot
+Bot teamplay(maybe have a 2 players compete against 2 bots, or 1 player
+        and a bot versus another player and a bot.)
+More careful about up close firing of rocket launcher and grenade launcher
+Aiming in front of opponent to lead them.
+
+(wow, quite a list)
+
+Author Information
+------------------
+
+I have programmed a little over the years, and plan on getting a degree
+in programming over the next couple of years. This is my first real mod.
+I released a patch called IRONWULV.zip, it was an early mod of my single
+player mod I am still working on.
+
+Copyright and Distribution Permissions
+--------------------------------------
+
+Authors MAY use these modifications as a basis for other
+publically available work.        
+
+Availability
+------------
+
+This modification is available from the following places:
+ftp.cdrom.com              

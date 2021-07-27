@@ -103,7 +103,6 @@ hw_frogbot14.zip
 hw_frogbot14f.zip
 hw_frogbot14h.zip
 hw_frogbotf.zip
-iwbot1.zip
 iwbot15.zip
 iwbot20.zip
 kfmod.zip
