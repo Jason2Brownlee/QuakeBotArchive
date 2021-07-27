@@ -1,0 +1,188 @@
+ษอออออออออออออออออออออป
+บ  Title    : ZeusBot บ
+ศอออออออออออออออออออออผ
+
+Filename : ZEUS10.ZIP
+Version  : 1.00
+
+Date     : 96/9/04
+
+Author(s): Jonathan E. Wright
+
+Email    : nelno@interpath.com
+
+Credits  : Micheal Polucha (TM Bot),
+           Tim Polucha (TM Bot), and
+           Nathaniel Gorham (DM Bot)
+
+	   ID Software for designign Quake with Quake C!
+
+
+ษอออออออออออออออป
+บ  Type of Mod  บ
+ศอออออออออออออออผ
+
+Quake C  : yes
+Sound    : no
+MDL      : no
+
+
+ษอออออออออออออออออออออป
+บ  Format of Quake C  บ
+ศอออออออออออออออออออออผ
+
+unified diff  : no
+context diff  : no
+.qc files     : yes
+progs.dat     : yes
+
+See the included file PROGS.SRC for a list of which files have been
+modified and which were added.
+
+
+ษอออออออออออออออออออออออออออออออออออป
+บ  Description of the Modification  บ
+ศอออออออออออออออออออออออออออออออออออผ
+
+This mod creates a helper bot which will attack the player's
+enemies and draw fire.  The bot attacks with a Lightning Gun,
+which will not harm the player if he runs into it.
+
+This bot is based in a big way on original code from DM Bot 1.0.
+
+
+ษอออออออออออออออออออออออออออป
+บ  How to use Modification  บ
+ศอออออออออออออออออออออออออออผ
+
+Impulse 100  Activates and Deactivates the bot
+
+Impulse 101  Toggles between Automatic and Manual Control Modes
+
+Impulse 102  Auto: Fires Weapon
+             Manual: Toggle bot movement-Stop/Walk/Run
+
+Impulse 103  Auto: Toggle auto-fire
+             Manual: Turn left
+
+Impulse 104  Auto: Teleport to player
+             Manual: Turn right
+
+Impulse 105  Toggles the bot's glow status.
+
+Impulse 106  Reports the bot's status.
+
+Bind these impulses to keys to make commanding the bot easy.  For example,
+to make the Q key activate and deactivate the bot put this line in your
+config.cfg file (or type it in the Quake console):
+
+BIND Q "IMPULSE 100"
+
+Now, every time you press Q the bot will be toggled between his active and
+inactive state.  You can bind the other impulses in a similar manner.
+
+
+ษอออออออออออออออออออออออออออออออออออป
+บ  How to Install the Modification  บ
+ศอออออออออออออออออออออออออออออออออออผ
+
+
+Unzip ZEUS10.ZIP into a temporary directory and run INSTALL.BAT
+with the full path of your Quake directory.  For example, if Quake
+is located in C:\GAMES\QUAKE then you would type:
+
+INSTALL C:\GAMES\QUAKE
+
+This will install the necessary files in a directory called ZEUS10
+which is inside of your Quake directory, and also create a batch
+file in the Quake directory called ZEUSBOT.BAT which will run the
+modified version of Quake.
+
+If you are interested in seeing how this was done, you can manually
+unzip the file SOURCE.ZIP which was contained inside ZEUS10.ZIP
+and look at the modified source.  If you would like to make your
+own Quake C mods, get QCC.ZIP and read the instructions contained
+within it.  Also, find one of the many web pages with info about
+Quake modifications to learn more.
+
+
+ษอออออออออออออออออออออป
+บ  Technical Details  บ
+ศอออออออออออออออออออออผ
+
+Features:
+
+þ The bot can draw enemy fire, lessening the amount of damage the player
+  takes.
+
+þ Seeks out monsters or other players and attacks them.
+
+þ Will continue to attack as long as an enemy target is visible.
+
+þ Will not attack teammates under Teamplay rules.
+
+þ ZeusBot can follow the player through portals.
+
+þ ZeusBot will activate trigger fields (such as light triggers and traps)
+
+þ ZeusBot starts with a full suit of red armor.
+
+þ ZeusBot cannot be injured by your shotgun blasts, axe, or thunderbolts,
+  but you can hurt him with nailguns and rockets, so keep this in mind
+  when firing at an enemy your faithful companion is already tearing to
+  pieces.
+
+þ ZeusBot is equipped with a special device based on slipgate technology.
+  Should he become separated from you, you can teleport him to your own
+  location instantly.  ZeusBot is even smart enough to activate this device
+  on his own when the distance becomes very great.
+
+þ ZeusBot fires the Thunderbolt weapon instead of the super nailgun.  It
+  doesn't seem to kill things quite as fast, but you can't be hit by his
+  beam, which is a big improvement.
+
+þ ZeusBot can glow, effectively lighting up everything around you.  You can
+  turn this on and off, so as not to give away your position in deathmatch.
+
+þ ZeusBot can say a total of 6 taunting remarks when it chooses a target
+   for destruction.  During deathmatch, it will even insult other players
+   by name.
+
+þ ZeusBot runs quite a bit more now than he did previously.  Whenever the
+   player is more than 100 units away the bot will sprint towards him.
+
+Bugs:
+
+þ ZeusBot does not jump or walk past edges.
+
+þ ZeusBot sometimes gets lost.  Okay.  Maybe it happens pretty often.
+
+þ ZeusBot is not deactivated after a level change, I don't think, but I think
+  the Quake code will dispose of it's entity memory anyway (tell me if I'm
+  wrong, please).
+
+þ The thunderbolt does not always appear at the end of ZeusBot's gun, and
+  I'm not really sure why.  It's still cool, though.
+
+þ Please email about any other bugs!
+
+
+ษอออออออออออออออออออออออป
+บ  Future Enhancements  บ
+ศอออออออออออออออออออออออผ
+
+None for now.  This was just a project to get familiar with Quake C.  But,
+you can email me if you have any cool ideas for improvements.
+
+
+ษออออออออออออออออออออออออออออออออออออออออออป
+บ  Copyright and Distribution Permissions  บ
+ศออออออออออออออออออออออออออออออออออออออออออผ
+
+Authors MAY use these modifications as a basis for other
+publically available work.  Please send me any modifications
+you make!
+
+You may distribute this Quake modification in any electronic
+format as long as this description file remains intact and unmodified
+and is retained along with all of the files in the archive.

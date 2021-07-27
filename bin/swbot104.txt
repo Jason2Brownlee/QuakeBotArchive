@@ -1,0 +1,92 @@
+Title    : Swimming Bot (Swimbot)
+Filename : swbot104.zip
+Version  : 1.04 (for Quake 1.06)
+Date     : 96/10/10
+Author   : baloo the bear (Greg Fukui aka julias_child)
+Email    : baloo@kaiwan.com
+Credits  : Micheal Polucha (co-designer of Original TM bot)
+           Tim Polucha (co-designer of Original TM bot)
+           Nathaniel Gorham (Original DM bot)
+           Punisher (BG bot...starting point for this work)
+           Stan Smith (for IDGlobe bubble idea)
+           Steve Bond (the thankfully modular Ejecting shells)
+           Carson Sutton (Roambot...basis for swimbot)
+           ...anyone else whose work is part of Roambot
+           Jim Lowell (Basin.bsp was used extensively for test)
+           Dennis Noordsij (Multiskin is cooool!)
+           Perecli Manole (the thankfully modular Holoquake)
+           Id Software (esp. Mikeab, who answers my emails!)
+
+Format of QuakeC
+----------------
+unified diff  : no
+context diff  : no
+.qc files     : no
+progs.dat     : yes
+
+Description of the Modification
+-------------------------------
+Changes since version 1.03:  Updated for Quake 1.06.
+Can now have up to four single player bots (may have
+some bugs still, one bot is still best).  Still no
+bot grenades or lightning.  Have only received a handful
+of comments about previous revs, so just the progs.dat
+this time.
+
+Impulse 100 creates a single (non-deathmatch), or four
+(deathmatch) bot(s). There is no way provided to get
+rid of the DM bots except by filling them with holes.
+2nd-4th single player bots may be added by subsequent
+impulse 100's.  After that they start disappearing.
+5th thru 8th DM bots are added by a 2nd impulse 100 (DM).
+The 2nd set of DM bots are "clones" of the first four,
+and have radio telemetry equipment to signal to the other
+twin during combat.  They do tend to gang up on opponents...
+
+The Holo is assigned to impulse 50, but since it still
+doesn't fool bots, it's not really useful.  Multiskin is
+the usual impulse 200/201.
+
+How to Install the Modification
+-------------------------------
+Make a new dir in your quake directory (ie: c:\quake\swimbot).
+Put progs.dat in the new dir.  Make sure you have player.mdl
+and shelcase.mdl in the 'c:\quake\swimbot\progs\' subdir; and
+shellhit.wav in 'c:\quake\swimbot\sound\weapons\' subdir
+(batteries not included).
+
+Bind a key to impulse 100 to activate the bot;
+Run quake, with your normal parameters plus:
+<...> quake <...> -game swimbot <+map ...>
+
+For the single player mode, I enter "teamplay 1<cr>" at the
+console.  For some reason the menu teamplay mode doesn't
+tame the bots.  I still have not tested the bot in cooperative
+mode yet (anyone else tried it?).
+
+Technical Details
+-----------------
+Trying to create more than 8 DM bots will get you to
+the console.  I gotta find a way to shrink the .dat
+file!  Report any bugs you may find.
+
+Author Information
+------------------
+This is my first effort, but I've also got some ideas
+for a level.  Unemployed, so got plenty of time...
+
+Copyright and Distribution Permissions
+--------------------------------------
+Swimbot mods copyright (c) 1996 Greg Fukui.
+
+You may distribute this Quake modification in any electronic
+format, with the following restrictions:
+
+This description file must remain intact and unmodified,
+and must be retained with the rest of the files in this
+archive.
+
+Availability
+------------
+This modification will be available first from Walnut Creek,
+ftp.cdrom.com.

@@ -1,0 +1,99 @@
+Title    : Victim Bot
+Filename : vbot10.zip
+Version  : 1.1
+Date     : 96/9/24
+Author   : The TangMaster
+Email    : ttang@intergate.bc.ca
+Credit   : WACko <WAC@intergate.bc.ca>
+              (moral support, coding support, beta testing and good bud)
+           Punisher <punisher@trojan.neta.com>
+              (created BGBOTS!  I used this code extensively!)
+           Everyone else who had something to do with QuakeBots so far
+           iD Software
+
+Special Thanks
+--------------
+This bot is based almost entirely from Punisher's BGBots.  I found
+his code easy to play with, so a big thankx to Punisher.  QuakeMe
+was used to create the MDL file, so a big thanks out to the author.
+Windows PaintBrush (ouch!) was used to create the skin for the vBot.  
+
+Type of Mod
+-----------
+Quake C  : yes
+Sound    : yes
+MDL      : yes
+
+
+Format of QuakeC
+----------------
+unified diff  : no
+context diff  : no
+.qc files     : yes
+progs.dat     : yes
+
+
+Description of the Modification
+-------------------------------
+ So.  You think you're pretty hot stuff.  You can rock _anyone_
+you know in a DeathMatch.  Well.  Try this baby.  victimBOT.
+Now there are innocent bystanders everywhere!  Can you avoid them
+while still attacking your target??
+
+ It began with the TM bot.  It was good, and the people rejoiced.
+But it wasn't enough.  EliminatorBot was made, and it was good.
+The people rejoiced.  BGBots was made, and it was good also.  The
+people rejoiced.  The TangMaster began playing with the BGBots
+code.  People looked in astonishment.  Suddenly.  vBot was born.
+VICTIM BOTS!  These guys play in Deathmatch, run around, act like
+total fools, get in your way, and if you kill them, you _lose a
+frag_!  They're innocent bystanders!  Don't kill them!
+
+ Impulse 100 creates 4 bots.
+
+How to Install the Modification
+-------------------------------
+Make a new dir in your quake directory. (ie c:\quake\vbot)
+then move this progs.dat into that directory and copy your
+*.cfg from c:\quake\id1 into the same directory.
+Then from the c:\quake dir. type:
+        quake -game vbot
+
+then bind a key to impulse 100
+
+From the console type:
+        bind b "impulse 100"
+
+Technical Details
+-----------------
+There are, of course bugs.  I'm not exactly sure what
+they are yet, but they will show up.  If you have a MAJOR
+bug, please report them to me.  Thanks!
+
+Update since 1.0
+----------------
+* Basically, I haven't changed anything.  This is just a housekeeping
+  job.  People were complaining that the PROGS.DAT wasn't in the ZIP.
+  That was true, but I just forgot -- you had to actually compile it
+  before.  Now you don't.  The PROGS.DAT is in here!  Yay! ;-)
+
+Author Information
+------------------
+A 17 year old kid living in Vancouver, BC.
+Likes to goof around with stuff.
+
+Copyright and Distribution Permissions
+--------------------------------------
+
+Authors MAY use these modifications as a basis for other
+publically available work.
+
+You may do whatever you please with the contents of this archive.
+
+Availability
+------------
+
+This modification is available from the following places:
+
+FTP   : ftp.cdrom.com
+WWW   : WEB SITE COMING SOON!

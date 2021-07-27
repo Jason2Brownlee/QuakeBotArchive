@@ -1,0 +1,207 @@
+Title    : BotSkin (for Quake 1.06)
+Filename : botskn18.zip
+Version  : 1.8
+Date     : Oct 18 1996
+Author   : WACko
+Email    : wac@intergate.bc.ca
+Credit   : Tony Tang - Look out for VictimBot- Coming Soon!
+        Punisher <punisher@trojan.neta.com>
+                BGbot Code is used as base-now really mangled
+                Not much left of it now...
+          BGBot: http://www.neta.com/~punisher/quakec.htm
+           Dennis Noordsij <lnoordsi@inter.NL.net> 
+          Looked at Multiskin code to figure out how to do skins
+                no code used anymore- but thanks for showing the world!
+          MultiSkin: http://web.inter.NL.net/users/L.J.Noordsij/qc.htm
+
+
+Type of Mod
+-----------
+Quake C  : yes
+Sound    : no
+MDL      : yes
+
+
+Format of QuakeC
+----------------
+unified diff  : no
+context diff  : no
+.qc files     : no
+progs.dat     : yes
+
+
+Description of the Modification
+-------------------------------
+Originally a BGBot(1.6) hack,  this little
+project started with the inclusion of
+skins to help distinguish between the bots.
+Now includes improved combat ai, fixed attack
+code, all the death animations, bodies that
+stay and MORE! Just added: Teamplay! Make a
+team of bots and go head to head with your
+HelperBots!
+
+Info on the Project
+-------------------
+WHAT! NO SOURCE CODE??!!  To simplify things
+for all the newbies out there, I'll be releasing
+just the compiled source.  Don't worry, you
+QuakeC programmers out there, the source is
+NOT being withheld.  It's available on the
+BOTSKIN HOMEPAGE(see bottom) and ME!! through
+e-mail.  Just ask.  All I'd like is a little
+recognition.
+
+This has been a little doodling project when
+I'm not doing homework to learn C. Now 
+that I have 20 megs of ram,  I can't really 
+say whether it runs on 8 megs anymore so
+feedback would be appreciated!
+BTW, check out the TANGMASTA's VBOT!
+"Help me!  Don't shoot!"
+
+New in Version 1.8
+------------------
+-THANK YOU ADAM VARNE... The Impulses were STILL wrong...
+        the CORRECT impulses should go from 100-103
+        Sorry to all those who just couldn't get this patch
+        to work.
+
+New in Version 1.7
+------------------
+-impulses for creating bots, showing scores, removing bots,
+        changing skins can be used while dead
+-fixed Readme.txt Impulse #s-they go from 100-104
+-bots should now move more smoothly
+-forgot to mention it before-moves while firing (since 1.4?)
+-helperbots in teamplay now have their own names
+-implemented skill levels (affects speed and leading)
+        WARNING:  at skill levels higher than 1 , bots may move
+                faster than players.  I'm not sure, but I'm
+                willing to listen to feedback
+-FIXED teamplay scores:teamplay shows scores for three teams:
+         Two player teams (and their helperbots) and a
+         seperate BOTS team
+
+Impulses
+--------
+
+ Impulse 100    creates 1 bot (for BOTS' Team in Teamplay)
+ Impulse 101    creates 1 bot - HelperBot for Your Team
+                in Teamplay
+ Impulse 102    prints scores to console
+                (hit the ~ to bring it down)
+                (scroll using pgup pgdn if it is offscreen)
+                (also printed to console on player death)
+ Impulse 103    Destroys ALL the bots
+
+ Impulse 200    goes through skins forwards
+ Impulse 201    goes through skins backwards
+
+To Deathmatch: Goto multiplayer.  Start a NEW GAME (any type)
+        and make sure the play type Deathmatch.  That's it!
+To Activate Teamplay: Set up as Dmatch but simply select
+        Teamplay ON when selecting options. 
+To Set Skill Level of Bots:  Simply change the skill level
+        in the menu.
+
+How to Install the Modification
+-------------------------------
+***Option 1) The Easy Way
+Make a new dir in your quake directory. (ie c:\quake\botskin)
+then unzip botskinXX.zip with -d option 
+
+(ie pkunzip -d botskinXX.zip).  
+
+It should automatically create the necessary directories. 
+
+(ie quake -game botskin)
+
+***Option 2) The Hard Way
+Make a new dir in your quake directory. (ie c:\quake\botskin)
+then move this progs.dat into that directory and copy your
+*.cfg from c:\quake\id1 into the same directory. Make a subdir
+called "progs" and move the player.mdl file in there
+
+***After install
+Make a new subdir for the source code (ie c:\quake\botskin\src).
+Unzip src.zip to that directory.  The source code MUST be compiled 
+to be used.  A zipped copy of QCC (QuakeC Compiler) should be 
+available on my homepage. Place the compiled progs.dat in the 
+main botskin directory (ie c:\quake\botskin\progs.dat)
+
+Then from the c:\quake dir. type:
+        quake -game botskin
+
+Bind a key to impulse 100, impulse 101, impulse 102,
+impulse 200 and impulse 201 if you want easy access
+to them.
+
+From the console type:
+        bind KEYHERE "impulse 100"
+        bind KEYHERE "impulse 101"
+        bind KEYHERE "impulse 102"
+        bind KEYHERE "impulse 103"
+        bind KEYHERE "impulse 200"
+        bind KEYHERE "impulse 201"
+
+Replace KEYHERE with any key you're not using.
+
+Technical Details/Features in no particular order
+-------------------------------------------------
+-Teamplay,  Deathmatch, Single Player Support
+-No limit on # of bots created
+-moves while firing
+-updated to Quake 1.06
+-allows removal of bots
+-can set skill level
+-uses monster colormap to distinguish from player
+-jumps
+-uses all weapons 
+-takes damage in lava, slime, drowns
+-Uses multiple skins to tell bots apart (and for player use)
+        Currently ten skins available:
+(0)     QuakeGuy
+(2)     DukeNukem
+(3)     Terminator
+(4)     Crusader
+(5)     Stormtrooper
+(6)     JudgeDredd
+(7)     Spiderman
+(8)     Flash
+(9)     Batman
+(10)    C3P0
+
+STILL NEEDS SWIMMING! Maybe they're really heavy and always sink?
+
+
+Source should be included
+feel free to bug me about what i did and didn't comment <g>
+Donations are always welcome!
+
+
+Copyright and Distribution Permissions
+--------------------------------------
+
+Authors MAY use these modifications as a basis for other
+publically available work.
+
+You may do whatever you please with the contents of this archive.
+
+Availability
+------------
+
+This modification is available from the following places:
+
+Try this one - it's usually faster if it's up:
+WWW   : http://www.nethosting.com/~wacko/quake/botskin.htm
+
+Alternate site:
+WWW   : http://www.geocities.com/CollegePark/2458/botskin.html
+
+or use FTP
+FTP   : ftp://ftp.cdrom.com/pub/idgrames2/quakec/bots/
+
+Or bug me, send me fixes, send me skins, send me Fan Mail!
+
+wac@intergate.bc.ca

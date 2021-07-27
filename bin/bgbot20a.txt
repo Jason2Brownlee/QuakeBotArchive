@@ -1,0 +1,122 @@
+Title    : BG Bot
+Filename : bgbot20a.zip
+Version  : 2.00a
+Date     : 96/9/29
+Author   : Punisher
+Email    : punisher@trojan.neta.com
+Credit   : Phillipe Doyon <pdoyon@netrover.com>
+                (Creating those marvelous MDL's for BGBot)
+           David Wiedenmann <dwied@cats.ucsc.edu>
+                (Jump idea and implementation..Thanks!!!!)
+           Chris Weisdorf (expressing interest and ideas)
+           Micheal Polucha (co-designer of Original TM bot)
+           Tim Polucha (co-designer of Original TM bot)
+           Nathaniel Gorham (Original DM bot)
+	   detour@chrysalis.org (we had the same ideas and mods going
+                 about the same time. Just giving credit
+                 where credit is due.)
+
+Type of Mod
+-----------
+Quake C  : yes
+Sound    : no
+MDL      : yes
+
+
+Format of QuakeC
+----------------
+unified diff  : no
+context diff  : no
+.qc files     : no
+progs.dat     : yes
+
+
+Description of the Modification
+-------------------------------
+ This is the ALPHA version. I know there
+are many, many bugs. If you find any it
+is ok to mail me about it. Just don't go
+overboard.
+
+ Impulse 100 creates 4 bots.
+
+How to Install the Modification
+-------------------------------
+Make a new dir in your quake directory. (ie c:\quake\bg)
+then move this pak0.pak into that directory and copy your
+*.cfg from c:\quake\id1 into the same directory.
+Then from the c:\quake dir. type:
+
+        quake -game bg
+
+then bind a key to impulse 100
+
+From the console type:
+        bind b "impulse 100"
+
+Technical Details
+-----------------
+Any bugs lemme know please?
+
+COMING IN NEXT RELEASE:
+#1------Dedicated server support. (by popular demand.)
+#2------More extreme personality differences.
+#3------2 more body MDL's.
+#4------Better ability to dodge and jump out of the way.
+#5------Many more...just I cant remember..heh...
+#6------For some reason they dont like to use doors. They
+        can, but they dont ever get close enough. FIXING IT!
+
+PROBLEM AREAS:
+#1------Trying to get the bots score to come up on changelevel or when
+                player dies. Cant seem to figure it out.(ie brain fried.)
+                If anyone can lend some insight, lemme know.
+#2------Ability to walk into water, swim, and walk over cracks
+                in floor.
+#3------Better roaming AI. STILL!!!!!
+#4------In Teamplay, Coop, and one player he is pretty useless on any
+                level that has cracked floor, stairs, water, etc.
+#5------Need to find a way to display the name of the bot who telefrags.
+                Doesn't work well. Displays a big blank.
+
+VERSION 2.00a:
+        Tad bit smarter. (I know not enough though!)
+        Bot's are now use 4 different code bases. They all have
+                their own brain per-say. I know that as of now
+                it is minimal in the diferences, but soon it will
+                be grand.
+        There are now 3 custom MDL's. 2 bodies and 1 head!!! heh.
+                (please do not use the mdl's in anything unless you
+                 have express written consent from Phillipe Doyon
+                 see above credit, and copywrite areas.)
+        Bot jumps out of the way if his enemy has a rocket.
+                (kinda lame but it will get better.)
+        Fixed bot's jumping a little. He doesn't keep jumping as much.
+        Lava bug fixed.
+        Nail gun now fires almost normaly.
+        Many minor things...I just have brain fryage.
+        
+Author Information
+------------------
+Co-Creator of Punishment.
+        A weapons QC mod for Quake.
+
+
+Copyright and Distribution Permissions
+--------------------------------------
+MDL's:
+Do NOT use MDL's in amy way without the express written
+consent of Phillipe Doyon. Much time and work has gone
+into them. Please be kind.
+
+.DAT:
+Do what you like. But consider this:
+Probably be smarter to wait till I release the source no?
+
+Availability
+------------
+
+This modification is available from the following places:
+
+FTP   : ftp.cdrom.com
+WWW   : http://www.neta.com/~punisher/

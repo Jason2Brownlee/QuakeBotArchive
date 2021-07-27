@@ -1,0 +1,132 @@
+Title    : DM Bot
+Filename : dmbot1.zip
+Version  : 1.00
+Date     : 96/8/23
+Author(s): Micheal Polucha (co-designer, coder)
+           Tim Polucha (co-designer, playtester)
+           Nathaniel Gorham (extremely little work, altered a serval
+           lines of code to make it attack other players instead
+           of monsters)
+
+Email    : ngorham@cris.com     
+
+Credits  : HoloSelf v1.0
+            by Perecli Manole
+            Perecli@ix.netcom.com
+
+           Quake-C specification and HTML version.
+ 	    by Olivier Montanuy 
+            Olivier.Montanuy@wanadoo.fr
+
+	   ID Software
+
+           Micheal Polucha and Tim Polucha (They are the ones to really
+            thank for this mod, my hats off to you guys. You did a mighty
+            fine bit of coding here.)
+
+Type of Mod
+-----------
+Quake C  : yes
+Sound    : no
+MDL      : no
+
+Format of Quake C
+-----------------
+unified diff  : no
+context diff  : no
+.qc files     : yes
+progs.dat     : yes
+
+Description of the Modification
+-------------------------------
+This bot is basically a small hack of Mike and Tim Polucha's
+Automated Helper Bot, by changing a small portion of the code
+I was able to reconfigure the bot to attack other players in
+deathmatch, and to be able to distinguish between team members
+and enemy team members.  I was able to do thing because of
+the new field that they added.  When the bot is spawned the bot's
+self is set to equal the owners self.bot field, so with a simple
+hack of the target aquisition portion of the code I was able to
+make it target players instead of monsters and check to see if
+the player is the bots owner.
+Just activate the bot and he'll be completely automated, or you can
+take control and wreak some havoc with multi-player fun.
+
+How to use Modification
+-------------------------------
+Impulse 100		Activates and Deactivates the Bot
+
+Impulse 101		Toggles between Automatic and Manual Control Modes
+
+Impulse 102		Auto: Fires Weapon
+			Manual: Toggle bot movement-Stop/Walk/Run
+
+Impulse 103		Auto: Toggle auto-fire
+			Manual: Turn left
+
+Impulse 104		Auto: Teleport to player
+			Manual: Turn right
+
+How to Install the Modification
+-------------------------------
+
+        Make a directory called DMBOT off of your quake directory.
+Unzip the archive into the DMBOT directory. Now run quake, adding
+"-game dmbot" to the command line (do not type the quotes). Bind
+the impulses and you're ready to go.
+
+	If you would like to see the source code, modify it, or
+recompile it, we have included it in the source.zip file.
+
+Technical Details
+-----------------
+
+Features:
+
+	1. Manual or automatic control of the bot.
+	2. Bot can draw enemy fire.
+        3. Seeks out players and attacks them.
+        4. Teamplay aware, will not attack teammates.
+        5. Can activate trigger fields on the floor (like
+	   the lights on E1M1 when going down the spiral ramp).
+        6. Can go through teleport portals.
+        7. Tries to return to player when player gets too
+	   far away.
+        8. Added a rapid-fire nailgun to the bot instead of that
+           laser, because players are much harder to kill than
+           monsters. (Usually :) )
+        9. Bot scans its area while firing, and as soon as the current
+           enemy drops the bot automatically fires on the next target,
+           and should no other target be available it sprays the corpse
+           with nails.
+
+Bugs:
+
+	1. Bot is insubstantial to its owner.
+	2. Owner cannot hurt the bot with axe, shotgun, or lightning.
+	3. Bot cannot trigger buttons on the wall. (Does not trigger
+	   the slipgates, but that is by design.)
+	4. Bot cannot jump or walk past edges.
+	5. Bot sometimes gets lost.
+	6. Certain functions (i.e. teleport, move, etc.)
+	   interrupt the dying process giving you a ghost bot
+	   that is insubstantial and unkillable.
+	7. Level changes may not be handled correctly by my code
+	   (Bot may not be deactivated, just lost).
+	8. And hopefully not many more.
+
+
+Future Enhancements:
+
+        1. The ability to target and kill other player's bots.
+        2. Improved target tracking so the bot leads its target.
+
+Copyright and Distribution Permissions
+--------------------------------------
+
+Authors MAY use these modifications as a basis for other
+publically available work, after all, I did.
+
+You may distribute this Quake modification in any electronic
+format as long as this description file remains intact and unmodified
+and is retained along with all of the files in the archive.

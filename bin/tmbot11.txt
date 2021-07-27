@@ -1,0 +1,175 @@
+Title    : TM Bot
+Filename : tmbot1.zip
+Version  : 1.1
+Date     : 96/8/26
+Author(s): Micheal Polucha (co-designer, coder)
+           Tim Polucha (co-designer, playtester)
+Email    : mpolucha@earthlink.net
+
+Credits  : HoloSelf v1.0
+            by Perecli Manole
+            Perecli@ix.netcom.com
+
+           Quake-C specification and HTML version.
+ 	    by Olivier Montanuy 
+            Olivier.Montanuy@wanadoo.fr
+
+	   ID Software
+
+Type of Mod
+-----------
+Quake C  : yes
+Sound    : no
+MDL      : no
+
+Format of Quake C
+-----------------
+unified diff  : no
+context diff  : no
+.qc files     : yes
+progs.dat     : yes
+
+Description of the Modification
+-------------------------------
+Updated version of TM Bot (v. 1.0).
+See technical details for new stuff.
+
+Automated Helper Bot or Player 2 on only one computer!
+With this advanced AI you can conquer any level of Quake.
+TM Bot is based on the Enforcer Model.
+Just activate the bot and he'll be completely automated.
+
+
+How to use Modification
+-------------------------------
+Impulse 100		Activates and Deactivates the Bot
+
+Impulse 101		Toggles Automatic/Manual Control Modes
+
+Impulse 102		Auto: Fires Weapon
+			Manual: Toggles bot Stop/Walk/Run
+
+Impulse 103		Auto: Toggle bot's auto-fire
+			Manual: Turn left
+
+Impulse 104		Auto: Teleport bot to player
+			Manual: Turn right
+
+Impulse 105		Toggle Co-op/Deathmatch modes
+
+Works great with the gravis gamepad:
+
+		2
+	      1   4
+		3
+
+Button 2 would fire / move
+Button 1 would toggle auto fire / turn left
+Button 4 would teleport / turn right
+Button 3 would toggle auto mode / manual mode
+
+And you could assign bot activate/deactivate &
+DM toggle to keyboard keys. 
+
+
+How to Install the Modification
+-------------------------------
+	Make a directory called TMBOT off of your quake directory.
+Unzip the archive into the TMBOT directory. Now run quake, adding
+"-game tmbot" to the command line (do not type the quotes). Bind
+the impulses and you're ready to go.
+
+	If you would like to see the source code, modify it, or
+recompile it, we have included it in the source.zip file. All
+modifications to original source have been marked with "TM Bot".
+
+
+Technical Details
+-----------------
+Fixes for version 1.1:
+
+Bit flags - Replaced five floats with one float and many bit flags.
+
+DM toggle - Toggles between Co-op and Deathmatch modes.
+            (a lot of people requested this one.)
+
+Speed - Increased walk speeds for the bot.
+
+*Safety - Working on decreased incidents of friendly fire.
+          (Thanks to Anthony Elk for reporting this.)
+
+Solidity - Bot is now solid to its owner.
+
+*Controls - Working on fix so pain and death are not interrupted.
+
+Spawning - Starts and teleports home at an offset position.
+         - Orientation of bot is now always level. (Thanks to
+           Anders Dalvander for reporting this.)
+
+*Firing - Working on manual firing control in manual mode.
+        - Manual firing while in auto mode causes bot to
+          face towards it enemy. (Thanks to Anders Dalvander
+          for reporting this.)
+
+* Not fixed in 1.1, so we plan on releasing a version 1.2.
+
+
+Enhancements planned for version 2.0:
+
+Auto DM		: automatic DM toggle
+AI		: lots of improvements
+		Dodging
+		Recognition of environment
+		Water, lava, slime aware
+		Jumping
+		Walking over broken ground
+		Planning moves in advance
+		Firing intelligently
+Communication	: working with AI
+		Talks to its owner
+		Accepts more commands from its owner
+Manual		: descriptions of bot use and modifications
+Ergonomics	: develop better control scheme
+Coding		: streamline and comment code logic
+Items		: pick up and use items, health, ammo
+Spawning	: require ammo, health, etc. to activate
+Transitions	: bot is permanent through level changes
+Hololink	: remote control of bot from bot's perspective
+		See through the bot's eyes
+		Control movements
+		Control firing
+Frames		: adjust sequences for new actions
+		adjust attack sequence when he doesn't fire
+		Link broken when player (self) is hurt
+Weapons		: pick up and use other weapons
+
+
+Features:
+Bugs:		See features.txt in the archive.
+
+
+Author Information
+------------------
+This is our first Quake C mod. We plan to do some more as time allows.
+If you use our code as a basis for another mod, or if you have some
+ideas for improvements or other mods, please let us know, we would
+be very interested.
+
+E-mail us at: mpolucha@earthlink.net
+
+Copyright and Distribution Permissions
+--------------------------------------
+Authors MAY use these modifications as a basis for other
+publically available work.
+
+You may distribute this Quake modification in any electronic
+format as long as this description file remains intact and unmodified
+and is retained along with all of the files in the archive.
+
+
+Availability
+------------
+The TM Bot mod can be found at the following locations:
+
+ftp://ftp.cdrom.com/.5/idgames2/quakec/bots/ 
+http://www.stomped.com/files.htm

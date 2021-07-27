@@ -1,0 +1,61 @@
+I modified the tmbot qc mod to shoot grenades at zombies.
+I cannot take much credit for this mod because i am not really a good 
+proggrammer and the bot is mostly Micheal Polucha's (mpolucha@earthlink.net)
+code.
+the shotgun shells code was by steve bond (Email: wedge@nuc.net)
+Much credit to them!
+
+*****INSTRUCTIONS*****
+To play deathmatch against the bot, 
+while the demo is playing, bring down the console (~),
+then type DEATHMATCH 1
+then type MAP "MAPNAME"    (eg: e1m2)
+the e1 represents the episode 1
+and m2 represents the  second mission 
+THE BOT ACTIVATES AUTOMATICALLY AND RESPAWNS IN THE PLAYER SPOTS
+WHEN IT IS KILLED
+THE BOT NOW USES IMPULSES AS SAID IN THE TMBOT11.TXT FILE!!
+
+
+Personnally added new features since my first mod.
+1. The bot goes into pain a lot less often
+
+2. sending the bot into deatchmatch mode makes the bot target !any! player. Even you!
+	(see how tough your bot really is)
+3. the bot kills zombies by using a grenade launcher
+4. even more deadly laser
+5. If the bot is attacking a target and is hit by 
+another target then the bot attacks the new attacker
+(phew)
+6. The bot is three times stronger!
+7. you and the soldier eject shotgun shells while using
+the shotgun.
+8. The bot fires more, and faster
+9. in single player mode, the bot appears in the 1 player start point, so move before you activate him!
+10 . in deathmatch  the bot will appear in player start points and will attack you on sight!
+(automatically goes into deathmatch mode)
+11. multiple bots allowed!
+12 . bot can pick up health and armour
+13.bot searches for health while no enemys targeted
+14. moves WHILE FIRING!
+
+
+Check tmbot.txt for more important info!
+
+
+bugs
+bot seems to stand in place too much while shooting :(
+As i said i am not a real programmer so can someone please tell me when the fix it?
+
+Stephen Vanterpool
+Email: stephen@caribsurf.com
+
+testers:
+FRAGNSTIN
+darkvampirehunter
+evilive
+fragnstin
+macdaddy
+tasslehoff
+nightpup
+

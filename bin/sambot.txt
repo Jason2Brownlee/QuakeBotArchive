@@ -1,0 +1,130 @@
+Title    : SamBot
+Filename : sambot.zip
+Version  : 0.9
+Date     : 8th September, 1996
+Author   : Sam Stephens (Spam-man on IRC, Quake, etc)
+
+Email    : Samuel.Stephens.1@uni.massey.ac.nz
+
+Credits  : Micheal Polucha (co-designer of Original TM bot)
+           Tim Polucha (co-designer of Original TM bot)
+           Nathaniel Gorham (Original DM bot)
+           Punisher (BG bot...some ideas used)
+           Carson Sutton (Roam Bot, starting point for my work)
+           Dennis Noordsij (creator of multiskin)
+
+Type of Mod
+-----------
+Quake C  : yes
+Sound    : no
+MDL      : yes
+
+Format of QuakeC
+----------------
+unified diff  : no
+context diff  : no
+.qc files     : yes
+progs.dat     : yes
+
+
+Description of the Modification
+-------------------------------
+
+Firstly it uses pretty much all the roambot AI. Read Roambot.txt for a
+basic description
+
+I got rid of the ejected shells as I found more than 5 bots all fighting
+on The House of Cthon cause massive amounts of packet overflows. However
+the mod is now combined with the multiskin patch
+
+When I played Roambot, I found it to be quite a fun Deathmatch substitute.
+However it still was too much like a monster. So I made this bot you see
+now. These are the basic differences to Roambot.
+
+- Bots are now player shaped, with random skins out of multiskin
+- Bots are named after their skin type
+- Bots can be gibbed (mwuhahaha :-)
+- Bots don't ever flinch in pain
+- Bots don't make idle noises, seeing noises, etc.
+- Bots respawn when killed (total kludge code :-)
+
+Be warned, they're now fairly bloody lethal because of the lack of flinching.
+If you want a bit of fun, try House of Cthon with 5-12 bots. But get the
+rocket launcher before you start it.
+
+How to Install the Modification
+-------------------------------
+Make a new dir in your quake directory (eg: c:\quake\sambot).
+Then extract the contents of this zip into that dir.
+Make sure you extract with directories on (eg: pkunzip -d sambot)
+Otherwise just move player.mdl in the PROGS subdir (eg c:\quake\sambot\progs)
+Start quake with -game [name of subdir]
+Like this:
+
+         quake -game sambot
+
+Bind a key to impulse 100 to activate the bot.
+
+
+Technical Details
+-----------------
+To get a play-by-play from each bot (careful, not uniquely
+identified!) indicating direction changes and decisions
+during roaming, change the following in bot.h:
+
+from:
+	float   ROAM_DEVEL    = FALSE;
+to:
+	float   ROAM_DEVEL    = TRUE;
+
+Nothing much in the way of AI is changed from Roambot by this patch,
+my alterations are mainly cosmetic. However, I would hope people will see
+that the Deathbots gone so far have been far too monsterish, even flinching
+in pain. Changes made mostly have been moving stuff from player.qc
+to botai.qc and changing the animation to match the player frames. But lots
+more can be done. Here's what really needs to be done to this bot
+
+- make it so it shoots all the weapons properly (watch a bot with a nailgun
+    to see what I mean). The current animation is a nasty hack, and should
+    look more like the player code
+- needs to telefrag properly
+- needs to be able to use axe and lightning gun and grenade launcher
+- needs to be able to move while shooting (my attempt led to a stack crash!)
+- needs to have defensive and evasive manuvers :-)
+- once it gets all this, it will need a screwup factor to stop it from
+    being invicible
+- needs to be able to jump/swim/walk off ledges and all those human things
+    that it can't do know
+- need to have a frag count etc
+
+Bugs
+----
+
+- Bots will appear one on top of another and get stuck. This problem will
+    disappear when telefragging is fixed
+- Bots will get stuck in running mode, and not do anything else, even when
+    attacked
+- Sure to be more waiting to be found :-)
+
+Author Information
+------------------
+Massey Uni student, 2nd year Comp Sci, guy whose machine is too small
+to REALLY play quake (486dx2/66 :-(
+
+Copyright and Distribution Permissions
+--------------------------------------
+
+Copyright (c) 1996 Sam Stephens
+
+Authors MAY use these modifications as a basis for other
+work providing they credit me if reusing or modifying any
+original code.
+
+
+Availability
+------------
+
+This modification will initially be available only from
+the following:
+
+FTP : ftp.cdrom.com

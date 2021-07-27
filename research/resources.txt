@@ -94,6 +94,8 @@ slipgate central bot
 
 
 BBS CDs / Archives
+--------------------------------------------------------------------------------
+
 - http://cd.textfiles.com/
 	(does not appear to be 100% indexed by google...)
 	http://cd.textfiles.com/directory.html
@@ -105,16 +107,18 @@ BBS CDs / Archives
 	nothing...
 
 guides:
-
+--------------------------------------------------------------------------------
 Deathmatch With Bots (modern guide)
 	http://neogeographica.com/site/pages/guides/deathmatch_with_bots.html
 Deathmatch With Bots (on hundreds of maps) [modern guide]
 	https://steamcommunity.com/sharedfiles/filedetails/?id=123626484
+gameaholic list of bots
+	https://web.archive.org/web/19970628184357/http://www.gameaholic.com/idgames/quakec/bots/
 
 
 old news sites:
 (e.g. news of quake bots being released)
-
+--------------------------------------------------------------------------------
 Scary's Quakeholio / sCary's Sugar Shack
 	https://web.archive.org/web/19971210064221/http://www.quakehole.com/frames/
 	https://web.archive.org/web/19971212025339/http://www.hipnotic.com/news.htm
@@ -133,15 +137,24 @@ planetquake
 	https://web.archive.org/web/19970208052149/http://www.planetquake.com:80/
 
 
+archived cd's (third party, magazines, etc)
+--------------------------------------------------------------------------------
 
-old gaming magazine cds
-https://www.quaddicted.com/forum/viewtopic.php?id=671
-https://archive.org/details/CdZoneIssue48march1997
-
-old list of bots
-https://web.archive.org/web/19970628184357/http://www.gameaholic.com/idgames/quakec/bots/
+Commercial (list of cds)
+	https://www.quaddicted.com/files/commercial/
+	lots of useful cds
+Toolkit For Quake (QTOOL_0996)
+	https://www.quaddicted.com/files/commercial/Toolkit%20For%20Quake%20(QTOOL_0996).7z
+	no bots, stops short, e.g. just monsters, misc, etc. captured end of aug 1996 i think
+	has holo1 and holo2
+Toolkit For Quake 2nd Edition (QTool_0197)
+	https://www.quaddicted.com/files/commercial/Toolkit%20For%20Quake%202nd%20Edition%20(QTool_0197).7z
+	has bots, captured mid-late sep 1996 i think
+	includes reaper v0.7 and zeus 0.1
 
 more cds
+https://www.quaddicted.com/forum/viewtopic.php?id=671
+https://archive.org/details/CdZoneIssue48march1997
 https://archive.org/details/cdbbsarchive?and%5B%5D=subject%3A%22Quake%22&sort=-date
 https://archive.org/details/cdrom-aktiv-no3-duke-nukem-quake-addons-special
 https://archive.org/details/CdZoneIssue48march1997
@@ -155,14 +168,7 @@ https://archive.org/details/cdbbsarchive
 ... too many I checked almost all.
 
 
-TOOLS
---------------------------------------------------------------------------------
 
-website archives
-	https://archive.org/web/
-usenet search
-	https://groups.google.com/
-ftp search
-	https://www.mmnt.ru/int/
+
 
 

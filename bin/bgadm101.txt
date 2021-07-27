@@ -1,0 +1,128 @@
+Title    : BGADM Bot - The BG Automatic DeathMatch Opponent!
+Filename : bgadm101.zip
+Version  : -1.01
+Date     : what day is this again?
+Author   : Detour
+Email    : detour@chrysalis.org
+Credits  : Micheal Polucha (TMBOT - mpolucha@earthlink.net  )
+           Tim Polucha (co-designer of Original TM bot)
+           Nathaniel Gorham (Original DM bot)
+           Punisher(BGbot - punisher@trojan.neta.com)
+
+*** NOTE *** THIS VERSION FIXES A MAJOR BUG IN VERSION 1.0..PLEASE DELETE
+             ALL COPIES OF THAT VERSION!
+
+Type of Mod
+-----------
+Quake C  : yes
+Sound    : no
+MDL      : no
+
+
+Format of QuakeC
+----------------
+unified diff  : no
+context diff  : no
+.qc files     : yes
+progs.dat     : no   //* get qccdos!
+
+
+Description of the Modification
+-------------------------------
+I wanted instant, automatic, halfway smart deathmatch opponents
+for one player - ME! This modification of Punisher's BGbot takes the bots
+and alters them for a "pseudo" deathmatch environment.  Now you can have a 
+full fledged deathmatch - by yourself! 
+
+
+Go into Multiplayer Games, new game - direct connection..then select your 
+favorite DM level.  
+        Use Impulse 100 to create indivual opponents
+        Impulse 99 will create four at one time.  
+        
+        (*NOTE* I do not recommend more than 8 bots at one time,unless
+        its a really large level...anything more can get ridiculous.
+        Note also that the bots tend to get stuck in one area due to
+        the fact that they are stupid and attack the first thing in sight
+        I will be working on some better AI and possible random spawning to 
+        help spread these bots out)
+
+Thanks to Punisher's mod, these bots will
+pick up and use all weapons(I was originally going to have to make this mod 
+myself on TMBOT... Thanks to Punisher for saving me the time!)
+
+Now your battling as many opponents as you want(just remember, the more
+you spawn, the harder it is and the slower your system )
+
+
+How to Install the Modification
+-------------------------------
+unzip the zip file into a new directory off of your Quake dir.
+cd to that directory and use qccdos (just type qccdos newbies)
+
+then bind a key to impulse 100
+and  bind a key to impulse 99
+
+Technical Details
+-----------------
+VERSION 1: BGBOT
+        TM, DM Bot basis.
+        Ability to pick up things:
+                Weapons
+                Ammo
+                Health
+                Armor
+        Chooses weapon from ones it has.
+        Hunts all players (including creator)
+        Hunts other bots
+        Multiple Bots at once. (memory limiting)
+        Telefrags //* Keep away from Spawning points!
+
+Version -1.00  BGADMBOT
+        Designed for a one player deathmatch environment
+        If hit, will sometimes get pissed and attack the attacker.
+        Respawning(after death, keeps the old bots info and respawns it)
+        250 health for bots and players - to keep it more interesting and 
+                challenging
+  
+  
+Version -1.01  Due to a last minute housekeeping task, I caused a bug
+               which would respawn a bot in the place it died, instead
+               of the deathmatch starts..This preety much made the game
+               lame..THIS BUG HAS BEEN FIXED!!
+               If you have the old version,please delete it..
+  
+  *FUTURE ENHANCEMENTS*
+  I couldn't get it to rank the bots.  I did however make some modifications
+        which will make it easier to do bot rankings. 
+  The AI could always be improved.  Sometimes these bots will do stupid
+        things.
+  I'm working on random spawning..this will reduce telefrags and also add
+        a little spice to the game...Currently its using the SelectSpawnPoint
+        for deathmatch info
+  Will I ever improve anything? dunno.  The little lady is getting jealous
+        of my puter :)
+  
+Author Information
+------------------
+Beer drinkin Network Support Specialist.
+
+
+Copyright and Distribution Permissions
+--------------------------------------
+
+Authors MAY use these modifications as a basis for other
+publically available work.
+
+You may do whatever you please with the contents of this archive.
+
+Keep the spirit alive! Make your sources Public Domain! Someone please fix
+the damn ranking problem.
+
+Availability
+------------
+
+This modification is available from the following places:
+
+FTP   : ftp.cdrom.com
+

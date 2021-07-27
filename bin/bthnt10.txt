@@ -1,0 +1,88 @@
+Title    : Bot Hunt
+Filename : bthnt10.zip
+Version  : 1.0
+Date     : 9/18/96
+Author   : Sea4  ( a.k.a. Douglas H. King )
+Email    : Sea4@ix.netcom.com
+Credit   : David Wiedenmann <dwied@cats.ucsc.edu> 
+	   
+		       { Micheal Polucha (co-designer of Original TM bot)
+They started it all! - |  
+		       { Tim Polucha (co-designer of Original TM bot)
+	   
+	   Nathaniel Gorham (Original DM bot)
+	   Punisher (for BG BOT )
+
+	   And all those electrons that make this possible!!
+
+Type of Mod
+-----------
+Quake C  : yes
+Sound    : no
+MDL      : no
+
+
+Format of QuakeC
+----------------
+.qc files     : no
+progs.dat     : yes
+
+
+Description of the Modification
+-------------------------------
+ Impulse 100 creates 1 bot, but up to 13 with different names.  
+ This(these) bot(s) will help you in co-op and kill you in deathmatch. My   
+ computer sucks and can only handle up to 9. These bots will be
+ like a real player.  Can pick up everything, but the invisibility
+ does not work right and the biosuit doesn't matter.  They gib if they 
+ happen to fire lightning underwater.  They can use all weapons and
+ will resort to the axe when out of ammo.
+
+How to Install the Modification
+-------------------------------
+ Make a directory under quake called "bhunt"
+ and unzip "bthnt10.zip" into it.  Then run
+ Quake by typing "quake -game bhunt".
+ Chose multiplayer, new game, direct connect, 
+ and begin.  See above.
+
+Technical Details
+-----------------
+This is the first release of Bot Hunt.
+
+It is based mostly on BgBot thanks punisher!!
+
+	If you can help me make him look like he is using 
+ the axe, jump at the right times, run while firing, avoid
+ enemy fire, swim or anything else you think is not right 
+ with this please contact me at:
+	
+	Sea4@ix.netcom.com
+
+Author Information
+------------------
+First of anything uploaded.
+
+
+Copyright and Distribution Permissions
+--------------------------------------
+
+	Since I have less than no money I would appreciate a donation
+in honor of this wonderfully made DM opponent.  Send any amount of
+money to:
+	
+	Douglas King
+	523 Route 38 - Suite 207
+	Cherry Hill, New Jersey 08002
+
+	$5 is asked but anything would be appreciated.  
+	
+			Thank you!
+
+Authors MAY use these modifications as a basis for anything.
+If you downloaded it, do what you want with it.
+
+Availability
+------------
+
+ftp://ftp.cdrom.com/pub/quake/quakec/bots/

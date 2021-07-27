@@ -1,0 +1,213 @@
+Title    : The Lone Gunmen QuakeBOT - Larva
+Filename : tlgbot.zip
+Version  : 1.2a
+Date     : 96/27/8
+Author(s): Micheal Polucha (co-designer, coder)
+           Tim Polucha (co-designer, playtester)
+           James 'Jaymz' Cullen (Gfx, sound, new weapons, DM enhancements)
+           Chris 'Incubus' Cullen (idea generator, network playtester)
+
+Email    : Micheal Polucha and Tim Polucha (mpolucha@earthlink.net)
+           James 'Jaymz' Cullen (lcullen@eis.net.au)
+           Incubus (LG_Incubus@hotmail.com)
+
+Credits  : HoloSelf v1.0
+            by Perecli Manole
+            Perecli@ix.netcom.com
+
+           Quake-C specification and HTML version.
+ 	    by Olivier Montanuy 
+            Olivier.Montanuy@wanadoo.fr
+
+	   ID Software
+
+           TM BOT v1.0 and 1.1
+            Micheal Polucha and Tim Polucha
+            mpolucha@earthlink.net
+
+Type of Mod
+-----------
+Quake C  : yes
+Sound    : yes
+MDL      : yes
+
+Format of Quake C
+-----------------
+unified diff  : no
+context diff  : no
+.qc files     : no
+progs.dat     : no
+.pak file     : yes
+
+Description of the Modification
+-------------------------------
+Yet another variation of TM Bot, it gives you our mascot bot 'Larva'.
+Larva has his own model file, and texture, based on the Enforcer Model.
+Just activate Larva and he'll be completely automated, or you can
+take control and wreak some havoc with multi-player fun.
+
+Plus, in deathmatch, Larva helps you out by killing your enemies, but
+doesn't attack your teammates. Larva also notifies which player/monster
+he attacks, and informs you once that player/monster is killed.
+
+Instead of that pissy little enforcer laser, he is armed with a rocket
+launcher for long distance foes, and a nailgun that he likes to use up
+close (he's smart enough to know that a rocket up close HURTS!).
+
+How to use Modification
+-------------------------------
+When you start the patch up, the control keys are
+automatically configured to the default keys below:
+
+Q  Activate Larva
+W  Automatic/Manual
+
+Automatic Commands :-
+E  Fire Weapon
+R  Toggle Auto-Fire
+Y  Teleport to Player
+
+Manual Commands :-
+E  Toggle movement: Stop/Walk/Run
+R  Turn Left
+Y  Turn Right
+
+To change these settings, modify the QUAKE.RC file that
+comes with this patch, and change the following lines:-
+
+bind q "impulse 100"
+bind w "impulse 101"
+bind e "impulse 102"
+bind r "impulse 103"
+bind y "impulse 104"
+
+to whatever keys you like. For instance, say you wanted to
+map the keys to your function keys, you'd replace the above
+lines with:
+
+bind F1 "impulse 100"
+bind F2 "impulse 101"
+bind F3 "impulse 102"
+bind F4 "impulse 103"
+bind F5 "impulse 104"
+
+How to Install the Modification
+-------------------------------
+Copy the TLGBOT.ZIP file into your quake directory, and
+unzip it by typing (without the quotes):
+
+                   "PKUNZIP TLGBOT.ZIP -D"
+                                       ^^
+                               DON'T FORGET THE -D!
+
+Then run the TLGBOT.BAT file in your Quake directory, or
+if you want to do it manually, type "QUAKE -game tlgbot"
+or "Q95.BAT -game tlgbot".
+
+
+Technical Details
+-----------------
+Features/Bug Fixes:
+
+        1. Manual or automatic control of Larva.
+        2. Larva can draw enemy fire.
+        3. Larva can activate trigger fields on the floor (like
+	   the lights on E1M1 when going down the spiral ramp).
+        4. Larva can go through teleport portals.
+        5. Larva tries to return to player when player gets too
+	   far away.
+        6. Larva possesses a rocket launcher for long distance, and a
+           nailgun for "Close Encounters".
+        7. Larva has his own custom model file, and new sounds.
+        8. You no longer get a frag if Larva kills you (in fact you
+           lose a frag, and everyone gets a message telling them that
+           your bot killed you).
+        9. Larva will target any player who is not the same color as
+           you, and any unfriendly bot as well (ones not owned by
+           teammates).
+       10. No longer has a 'co-op' mode (cause we don't play co-op).
+           WORKAROUND: Have all co-op players change their colors to
+           all the same color, and your bots will leave you alone....
+           If I get enough feedback asking for it, we'll release a co-op
+           version. Until then, NO co-op! (Still kills monsters though)
+       11. Larva informs you of which monster/player he is attacking,
+           and also informs you when/if he kills them.
+       12. Larva will inform an enemy player if he is targetting them or
+           their bot.
+       13. Help file has been removed, due to some problems it caused
+           on some systems. (Don't ask me why, the probs went away after
+           the help was removed. It was an unneeded feature anyway...)
+
+Bugs:
+
+        1. Larva will accidently shoot you if you get in the way
+           between him and his target (which will usually kill you
+           considering the power level of his weapons).
+        2. Larva cannot push buttons on the wall.
+        3. Larva cannot jump.
+        4. Larva cannot walk over broken ground.
+        5. Larva sometimes gets lost.
+	6. Certain functions (i.e. teleport, move, etc.)
+	   interrupt the dying process giving you a ghost bot
+	   that is insubstantial and unkillable.
+        7. Level changes may not be handled correctly by the code
+	   (Bot may not be deactivated, just lost).
+        8. Changing your color during gameplay after you've activated
+           Larva can be hazardous, as Larva will then proceed to attack
+           you! (I left it in, so single players could go up against
+           their own bot.....)
+        9. Disconnecting from a netgame whilst your bot is still active
+           leaves your bot in the game. Promptly reconnecting gives you
+           another bot as well as your old one (this is considered
+           cheating!!!!).
+       10. And hopefully not many more.
+
+
+Author Information
+------------------
+Jaymz and Incubus are from The Lone Gunmen, amongst the very first Quake
+clans to be created. The Lone Gunmen intend to create all-new add-ons for
+Quake, AND dominate the Quake Clan scene. If you wish to help us with
+developing our add-ons, then please e-mail Jaymz at lcullen@eis.net.au or
+visit our homepage: http://www2.eis.net.au/~lcullen/tlg/index.html for our
+online membership form.
+
+A word from Micheal Polucha and Tim Polucha:
+This is our first Quake C mod. We plan to do some more as time allows.
+If you use our code as a basis for another mod, or if you have some
+ideas for improvements or other mods, please let us know, we would
+be very interested.
+
+E-mail us at: mpolucha@earthlink.net
+
+
+Copyright and Distribution Permissions
+--------------------------------------
+
+Authors MAY use these modifications as a basis for other
+publically available work, EXCEPT for Larva's texture and
+name which remains the property of THE LONE GUNMEN. Anything
+else in this is ok to modify. If you want to create a bot
+using this as a base, replace Larva's texture and name. If
+you're no good at doing up textures, just use the enforcer's
+one. We will kill you slowly if you use the name Larva and
+his textures if you release your own bot, because those are
+OURS!.
+
+You may distribute this Quake modification in any electronic
+format as long as this description file remains intact and unmodified
+and is retained along with all of the files in the archive, and as
+long as you give us royalties up to US $10000 ;>
+
+Nahhhh, just kidding. Spread it 'round as you see fit, but make sure that all
+the files REMAIN INTACT! You'll be hunted down and shot by us otherwise....
+
+Availability
+------------
+
+This modification is available from the following places:
+
+The Lone Gunmen homepage:
+http://www2.eis.net.au/~lcullen/tlg/index.html
+
+ftp.cdrom.com's Quake directory

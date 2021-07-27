@@ -1,0 +1,159 @@
+Title    : BG Bot
+Filename : bgbot16.zip
+Version  : 1.6
+Date     : 96/9/13
+Author   : Punisher
+Email    : punisher@trojan.neta.com
+Credit   : David Wiedenmann <dwied@cats.ucsc.edu> 
+				(Jump idea and implementation..Thanks!!!!)
+           Chris Weisdorf (expressing interest and ideas)
+           Micheal Polucha (co-designer of Original TM bot)
+           Tim Polucha (co-designer of Original TM bot)
+           Nathaniel Gorham (Original DM bot)
+	   detour@chrysalis.org (we had the same ideas and mods going
+                                 about the same time. Just giving credit
+                                 where credit is due.)
+
+Type of Mod
+-----------
+Quake C  : yes
+Sound    : no
+MDL      : no
+
+
+Format of QuakeC
+----------------
+unified diff  : no
+context diff  : no
+.qc files     : yes
+progs.dat     : yes
+
+
+Description of the Modification
+-------------------------------
+ What started as a TM bot has drasticly changed.
+Now using the Player model, in Deathmatch these 4
+menacing bots will have you on your toes. Respawning
+when they die. In one player or coop, one bot will
+help conquer the levels with you.
+
+ Impulse 100 creates 4 bots.
+
+How to Install the Modification
+-------------------------------
+Make a new dir in your quake directory. (ie c:\quake\bg)
+then move this progs.dat into that directory and copy your
+*.cfg from c:\quake\id1 into the same directory.
+Then from the c:\quake dir. type:
+        quake -game bg
+
+then bind a key to impulse 100
+
+From the console type:
+        bind b "impulse 100"
+
+Technical Details
+-----------------
+Any bugs lemme know please?
+
+STILL NEEDS:
+#1------Trying to get the bots score to come up on changelevel or when
+                player dies. Cant seem to figure it out.(ie brain fried.)
+                If anyone can lend some insight, lemme know.
+#2------Ability to walk into water, swim, and walk over cracks
+                in floor.
+#3------Better roaming AI.
+#4------Need to figure out how to change his colors. Random or otherwise.
+#5------In Teamplay, Coop, and one player he is pretty useless on any
+                level that has cracked floor, stairs, water, etc.
+#6------Need to find a way to display the name of the bot who telefrags.
+                Doesn't work well. Displays a big blank.
+
+VERSION 1.60:
+        Bot now jumps thanks to a very helpfull David Wiedenmann!!!
+        Fixed bot death sequence. In single player mode, the death 
+                animation would someimtes stop a few frames early.
+        Fixed major bug where bots didnt loose their weapons when they
+                respawned. Caused infinate ammo and weapons on level.
+        Realized I was contradicting myself in the explanation of how to
+                install and run this. 
+        Bots frags are now displayed when they die.
+        Sped up firing of nail guns.
+        Slowed down rate of fire for rocket.
+        Fixed Ring Of Shadows bug. Now they can't see you if you have it.
+                Like it SHOULD have been.
+
+VERSION 1.50:
+        In Deathmatch 4 bots with diferent names are created. If they
+                die they will respawn in starting positions again.
+        In single player or COOP, only one bot is created but is not
+                respawned.
+        Bots can now be gibbed, with pieces flying everywhere.
+
+VERSION 1.40:
+        Not publicly released due to major beta problems.
+
+VERSION 1.30:
+        Model is now the player model. He has the same colors as you do.
+        Fixed minor sound bug. (ie no sound when he fires.)
+        Slightly improved roaming ai.
+
+VERSION 1.25:
+        Doesnt look for ammo if he has max ammo already.
+        Doesnt look for items if they are hidden or behind a wall.
+        Hunts backpacks now.
+        Getting closer to displaying bots kills.
+                I know what it needs. but quake wont let me do it.
+                Need to find a way around it.
+
+VERSION 1.2:
+        By Popular Demand:
+                Now in COOP or one player, bots only attack monsters.
+                In DM attacks everything.
+                In teamplay, is on team of creator.
+        Tweeked attacking so the bot can hit things above and below him.
+        
+VERSION 1.1:
+        Added more bot recognition throughout game.
+                (ie doors, more recognition by monsters)
+        Better Spawning:
+                In ONE player spawns in players starting position.
+                In COOP and DM spawns in random player position.
+        Hunts Items if no enemys close enough.
+                Gets health if it needs it.
+        Other minor fixes.
+
+VERSION 1:
+        TM, DM Bot basis.
+        Ability to pick up things:
+                Weapons
+                Ammo
+                Health
+                Armor
+        Chooses weapon from ones it has.
+        Hunts all players (including creator)
+        Hunts other bots
+        Multiple Bots at once. (memory limiting)
+        Telefrags
+
+Author Information
+------------------
+Co-Creator of Punishment.
+        A weapons QC mod for Quake.
+
+
+Copyright and Distribution Permissions
+--------------------------------------
+
+Authors MAY use these modifications as a basis for other
+publically available work.
+
+You may do whatever you please with the contents of this archive.
+
+Availability
+------------
+
+This modification is available from the following places:
+
+FTP   : ftp.cdrom.com
+WWW   : http://www.neta.com/~punisher/quakec.htm

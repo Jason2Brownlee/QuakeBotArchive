@@ -1,0 +1,56 @@
+
+Wisp version 1.0 by Iikka Paavolainen (ipaavola@cc.hut.fi)
+==========================================================
+
+The wisp is a flying bot (that resembles a lava ball due to a lack of a more
+accurate model) that you can summon and banish at will, freeze/unfreeze,
+recall, and even ride with! It will attack other players and monsters that
+it sees, and hunt semi-intelligently for targets when none are near. The
+flight logic/intelligence was my main interest when I begun coding this.
+
+The following impulses are used:
+
+100     Summon/banish wisp
+                Creates/destroys the wisp. There can be only one wisp per
+                player.
+
+101     Recall wisp
+                Teleports the wisp to your current position
+
+102     Freeze/unfreeze wisp
+                Freezes the wisp into its current location. In this state
+                the wisp will not even attack.
+
+103     Ride wisp/drop off
+                This is a complete hack (although a working one) gaming-wise
+                and was made only for visualization of the flight path.
+                The wisp grabs you to itself, wherever you happen to be,
+                and drags you behind itself through the air. You can look
+                around and fire your weapons in the same way as when you
+                are on the ground. The wisp drags you through any hole it
+                passes through itself like you were made of putty.
+                Using impulse 103 while you are hitching a ride drops you
+                down from your current place. If you are partly within
+                an obstacle while using this, Quake will automatically
+                move you to a suitable free space.
+
+
+Installation
+------------
+
+To install, do the usual:
+
+1. unzip the files to a subdirectory within the quake directory
+   (e.g. c:\quake\wisp)
+2. make a new temporary subdirectory under this directory
+   (e.g. c:\quake\wisp\temp), to which you copy the Quake C v1.01 files
+3. copy the contents of the wisp directory to this temporary directory,
+   overwriting the previous files
+4. run qcc in this temporary directory
+5. remove (with deltree for example) the temporary directory
+6. run quake like so: 'quake -game wisp', if the directory name was 'wisp'
+
+
+Please send any comments, suggestions, improvements etc. you can think of
+to me (address at top of this document).
+

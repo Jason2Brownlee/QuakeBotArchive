@@ -1,0 +1,132 @@
+Title    : roamBot
+Filename : roambot1.zip
+Version  : 0.9
+Date     : 96/9/3, 12:15am MDT.
+Author   : CARSON SUTTON ("Gwynn" on irc, "Crimson" to quake victims)
+
+Email    : carson@compusmart.ab.ca       ** Comments please! **
+
+Credits  : Micheal Polucha (co-designer of Original TM bot)
+           Tim Polucha (co-designer of Original TM bot)
+           Nathaniel Gorham (Original DM bot)
+           Punisher (BG bot...starting point for this work)
+           Stan Smith (for IDGlobe bubble idea)
+
+
+Type of Mod
+-----------
+Quake C  : yes
+Sound    : no
+MDL      : no
+
+
+Format of QuakeC
+----------------
+unified diff  : no
+context diff  : no
+.qc files     : yes
+progs.dat     : yes
+
+
+Description of the Modification
+-------------------------------
+Punisher asked for better roaming AI for the basic
+bot design...I thought I'd take a crack at it with this
+very blunt hack.  Essentially BG Bot v1.2 with more
+unpredicatable and intelligent roaming behaviour, and
+a few minor additional touches:
+
+- Bot follows its OWN target entity while roaming,
+  thus direction of roaming bot not tied to
+  creator or (last) target entity.  "Leader" entity
+  assigned pseudo-random directional and "dead end"
+  detection routines.  Standard turn left, turn right
+  AI too predictable, so bot pulls a u-turn or heads
+  off-center at obstacles.
+- Bot RUNS instead of walks while roaming.  Makes
+  them much more effective.
+- Bot will turn around (180) at ledges/obstacles
+  after timeout.
+- Bot will go through doors and teleporters.
+- Bot only hunts detected items if visible.
+- Bot gives up hunting target after 5 secs. if
+  no longer visible.
+- Better heath, less idle noise, a little near-sighted
+  (for game speed with more bots), etc.
+- Added shotgun shells ejecting just for fun.
+
+- Anything else I missed...
+
+Impulse 100 creates a bot. There is no way to
+get rid of a bot until it is killed.  They are
+somewhat autonomous, and will try to make life
+difficult for everyting around them.
+
+
+How to Install the Modification
+-------------------------------
+Make a new dir in your quake directory (ie: c:\quake\roam).
+Then extract the contents of this zip into that dir.
+Move .mdl into new dir 'c:\quake\roam\progs\', and .wav's
+into new dir 'c:\quake\roam\sound\weapons\'.
+Run quake with the following command line parameter:
+
+         quake -game roam
+
+Bind a key to impulse 100 to activate the bot.
+
+
+Technical Details
+-----------------
+To get a play-by-play from each bot (careful, not uniquely
+identified!) indicating direction changes and decisions
+during roaming, change the following in bot.h:
+
+from:
+	float   ROAM_DEVEL    = FALSE;
+to:
+	float   ROAM_DEVEL    = TRUE;
+
+As I looked through the basic bot design available today,
+I noticed that it was essentially a souped-up monster.
+The bot used monster AI "movetogoal(dist)"-type movement as
+the basis for roaming, with "self.goalentity" initially assigned
+to the bot's creator or attacker.
+
+In this hack I simply added an independent goal entity for the
+bot to follow around when it can't find any items or targets.
+This "leader" simply moves around ahead of the bot, mapped onto
+the nearest obstacle along its path (wall, player, etc.), and decides
+on a new direction based on a not-quite-random heading change
+or timeout when the bot is a certain distance away.  Easy.
+
+Not much of a start, but I know somebody out there will fine tune
+it into something reasonably threatening.  Now to work on
+DEFENSIVE/EVASIVE behaviour!
+
+
+Author Information
+------------------
+Quake-minded systems admin. whose fiancee is ready to trash the
+marriage-killer device any second.
+
+** Please forgive mediocre spelling or grammer...it's late. **
+
+
+Copyright and Distribution Permissions
+--------------------------------------
+
+Copyright (c) 1996 Carson Sutton.
+
+Authors MAY use these modifications as a basis for other
+work providing they credit me if reusing or modifying any
+original code.
+
+
+Availability
+------------
+
+This modification will initially be available only from
+the following:
+
+FTP : ftp.cdrom.com

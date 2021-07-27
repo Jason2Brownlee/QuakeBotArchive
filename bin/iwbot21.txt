@@ -1,0 +1,204 @@
+Title    : IronWulvt's Deathmatch Bot
+Filename : IWBOT16.zip
+Version  : 0.20
+Date     : 96/30/9
+Author   : Ben Garrod (IRONWULVT)
+Email    : Bill@Seanet.com
+Credits  : Micheal Polucha (co-designer of Original TM bot)
+           Tim Polucha (co-designer of Original TM bot)
+           Punisher (Original BG bot)
+                (Author of C-BOT Engine Eliminator bot)
+                        (He proved to me with his bot that waypoint/pathways
+                        are a necessary thing and they have since become
+                        top priority on the IWBOT)
+Type of Mod
+-----------
+Quake C  : yes
+Sound    : no
+MDL      : no
+SPR      : yes
+
+Source Included :  No
+(NOTE: This should be the only release without a patch and source included.
+I am still working out the bugs and will release the code next release which
+should be within a week)
+
+Description of the Modification
+-------------------------------
+
+        Well, this is my deathmatch bot I have been working on. Using the
+        original TMBOT as the base, I began work. Within a few days most
+        of the original TMBOT code had been revamped,changed or
+        taken out. Then BGBOT was released. I found it had
+        success with a few things I wanted to do, but was having trouble with
+        or was too busy with other things to implement. So I put in stuff from
+        BGBOT. Now Its beginning to shape up. There are alot of stuff I want
+        to do with it, but it works and want to release a version.
+
+        This will create a deathmatch opponent. This opponent will be able to
+        use all weapons. He will pick up objects including powerups. He dodges
+        and hunts his killer after respawning.
+        It is very deadly. NOTE: THERE IS STILL BUGS!
+        
+        THIS IS HOW THE AI FOR THE NORMAL MONSTER CREATURES SHOULD HAVE BEEN!!!! 
+
+How to Install the Modification
+-------------------------------
+
+To install, unzip the IWBOT.zip into your quake directory. Run IWBOT16I.bat
+to install the patch into the IWBOT directory. Then you can delete the
+IWBOT16I.bat. You can also then delete the IWBOT16.zip or move it to an
+archive section. To begin run IWBOT16.bat which will begin the game.
+
+Once the game loads, press escape for the menu, and select
+multiplayer game. From the multiplayer menu, select start new game.
+From this menu select Direct Connect. Now is a listing of settings for the game.
+Choose your starting episode and hit start game.
+This will begin the deathmatch.
+
+
+
+
+Technical Details
+-----------------
+
+Well, since this is version 0.2 you can expect there to be updates.
+This version is still really rusty.
+I am having trouble with the following things:
+
+* Getting the bot to have different colors for the pants and shirt.
+* Getting the bot not to go through firing frames when chasing an enemy out
+        of sight(doesn't fire, but goes through the frames)
+* Getting the bot to walk off ledges
+* Getting the bot to face the opponent better
+* Getting the bot to think through another entity 
+* Getting the bot to activate all buttons and triggers
+* Getting the bot to sidestrafe and continually change its facing and thus
+        the direction of the sidestrafe(for circle strafes)
+* Name of bots and frag counts on score lists ** NEW ADDITION FIXES PROBLEM
+* bots feet sink into the ground.
+* Get the bot to search for teleporters.
+* Fix the Null Function error. This might  have been fixed. I have tested
+and haven't seen it in awhile, but it might still be there. Not sure why
+it happens.
+
+Things I want to do, but haven't tried:
+
+* Get bot to jump intelligently
+* Get the bot to avoid lightning better(gets nailed by lightning every time!)
+* Get bot to learn(perform better based on number of frags)
+* Get bot to have skill rankings (This way you can select a skill level for
+        your bot to play against.)
+* Random quotes for the bot
+* New skin for the bot (may or may not do this)
+* Bot teamplay(maybe have a 2 players compete against 2 bots, or 1 player
+        and a bot versus another player and a bot.)
+* More careful about up close firing of rocket launcher and grenade launcher
+* Aiming in front of opponent to lead them.
+
+**** (wow, quite a list, but it is shrinking) ****
+
+Things fixed or added since version .16:
+
+* Added a impulse to bring up a frag listing for all players and bots.
+                        IMPULSE 200
+
+* Bot now only sees targets which are visible and in front. This way it has
+to actually see you. You can now sneak up on a bot if you try. Before it was
+like the bot had 1000 eyes all looking different directions.
+* Began writing code for the bot to follow paths set into its memory. Works
+pretty well. Right now only DM1 and DM5 is done but more should be done shortly.
+* Fixed bug about not being able to shoot bot from chest up.
+* Learned alot about how to get the bot to activate all the buttons. In the
+level(s) programmed into its memory, it will activate all the switches. It's
+FL_ONGROUND flag seems to be the factor in whether it hits a button or not.
+If it is set, it doesn't press button, if it isn't set it does. So the bot
+"jumps" at the switch to activate it.
+* Bot aims better with the lightning gun now.
+* Bot uses axe alot now when up close.
+* Bot doesn't continually fire after its enemy dies. 
+* Added "personalities" to the bot. When a bot spawns it picks a personality.
+Normal : Goes around picking up stuff, following paths fighting when it can.
+Camper : Will camp at certain spots in the level. Will wander off after a
+        little while.
+Hunter : Unlike the others, will hunt down old enemies.
+Sniper : Hasn't been implemented, but I think you can guess what he does.
+The Normal and Camper work, Hunter needs work, and Sniper is unused. The
+personalities only effect gameplay on the pathway levels.
+Once all personalities are in and functioning, I will change it to more
+personalities. One way will allow for mixes of the above types, or other
+ways of deathmatching. Like the suicide guy who likes to use explosives up
+close. Or somebody who just plain prefers the nailguns over all else and 
+won't fight without one.
+* Took out most of the monster code. The bot is designed to deathmatch against,
+so I figured I would remove the monsters to create more room and a smaller dat
+file. But this pathway thing will eat up alot, and its possible of a final
+IWBOT dat being around 1.5 megs or larger.
+
+Things fixed or added since version .15:
+
+* Fixed crashing when from the bot_pain routine. This is pretty much the only
+thing changed from version .15. This will allow people to play against
+more than one bot now, without it crashing.
+
+Things fixed by version .15:  
+
+* Bots have different names now.
+* Added Lightning gun to bots usable weapons
+* Added Axe to bots starting and usable weapons
+* Bot picks up health(had forgotten to set the newbot.max_health!)
+* Bot uses powerups. He will turn invisible and visible, he will use quad
+        damage, and invulnerability. The biosuit really isn't effective until
+        I can get it to be more acceptable about walking off paths/ledges into
+        slime or water.
+* Added an Impulse to create add a new bot to the battle(will work in
+        single player normal games, placing the bot at the player start
+        point.)
+* Bot does not spawn in deathmatch games on Start.bsp. From Start.bsp, you
+        can select a skill level. The skill level plus one is the number
+        of bots you will face.
+* Bot does not flip out when dodging nails.
+* Bot's grenades do the right amount of damage (120) rather than the ogres (30)
+* Bot now attempts to dodge grenades.
+* Grenades explode on contact with bot rather than bouncing off.
+* Bot searchs for items without trying to walk through walls(but still walks
+        into walls because of the follow wall routine)
+        
+
+Some complained about a No Free Edicts error. I know why its doing it, and
+the part has been turned off. I want to get it to work properly but it
+isn't. I want the bot to continually know the exact position you were at
+when it last saw you if you leave its sight. Then move to that sight.
+This is in their as the bot_enemy_image routine. But it only creates the
+images when you go through a teleporter or when the bot dies and is respawned.
+
+(NOTE: I've learned alot in the past few weeks and found out some of the problems
+of why the above didn't work properly. So I will be putting it back in, fixed
+and hopefully "NO FREE EDICTS ERROR" free.)
+
+Author Information
+------------------
+
+I have programmed a little over the years, and plan on getting a degree
+in programming over the next couple of years. This is my first real mod.
+I released a patch called IRONWLVT.zip, it was an early mod of my single
+player mod I am still working on. I should release an update to it soon.
+Included will be the menu system for selecting ammo types, equipment to
+use, explosives to throw, and what to detonate. Also new version will have
+my gas grenades! Throw these and they start spraying deadly gas, so put on
+the gas mask and you can walk through unhurt!
+
+Copyright and Distribution Permissions
+--------------------------------------
+
+Authors MAY use these modifications as a basis for other
+publically available work.        
+
+I would like to hear peoples ideas and suggestions. I hope to have this bot
+be capable of taking on the best deathmatchers and still come out with more
+frags. 
+Availability
+------------
+
+This modification is available from the following places:
+ftp.cdrom.com              
