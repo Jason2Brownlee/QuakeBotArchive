@@ -17,6 +17,7 @@ Aug 26 1996 | tmbot11.zip | TMBot v1.1.
 Aug 26 1996 | bgbot1.zip | BGBot v1.0.
 Aug 27 1996 | tlgbot.zip | TLGBot v1.2a.
 Aug 28 1996* | bgadmbot.zip | BGADM Bot v1.00 (*estimated).
+Aug 28 1996* | mybot12.zip | MyBot v1.2 (* estimated).
 Aug 28 1996* | mybot13a.zip | MyBot v1.3a (* estimated).
 Aug 31 1996 | bgadm101.zip | BGADM Bot v1.01.
 Aug 31 1996 | bgbot11.zip | BGBot v1.1.

@@ -1,0 +1,34 @@
+I modified the tmbot qc mod to shoot grenades at zombies.
+I cannot take much credit for this mod because i am not really a good 
+proggrammer and the bot is mostly Micheal Polucha's (mpolucha@earthlink.net)
+code.
+the shotgun shells code was by steve bond (Email: wedge@nuc.net)
+Much credit to them!
+
+Personnally added new features since my first mod.
+1. The bot goes into pain a lot less often
+
+2. sending the bot into deatchmatch mode makes the bot target !any! player. Even you!
+	(see how tough your bot really is)
+3. the bot kills zombies by using a grenade launcher
+4. even more deadly laser
+5. If the bot is attacking a target and is hit by 
+another target then the bot attacks the new attacker
+(phew)
+6. The bot is three times stronger!
+7. you and the soldier eject shotgun shells while using
+the shotgun.
+
+
+
+
+Check tmbot.txt for more important info!
+
+
+bugs
+the bot has to be reactivated every time you kill it :(
+As i said i am not a real programmer so can someone please tell me when the fix it?
+
+Stephen Vanterpool
+Email: stephen@caribsurf.com
+
