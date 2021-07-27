@@ -148,6 +148,8 @@ List: Commercial Addons
 List: Commercial Addons
 	https://www.quaketerminus.com/addon.shtml
 
+
+
 BOTS
 ----
 Toolkit For Quake (QTOOL_0996)
@@ -175,6 +177,13 @@ Quake 'em
 	has bots: BGBOT11, BOTSKN18, DMBOT1, HOLO1, HOLO2, MYBOT, MYBOT13A, REAPRB07, SWBOT104,
 		TMBOT1, TMBOT11
 	(all unzipped)
+tremor quake
+	https://archive.org/details/cdrom-tremor-for-quake
+	https://archive.org/details/tremorusa
+		tremorusa.zip (200mb) -> 600 unzipped
+	lots of maps
+	unzipped mods under quakec
+	bots: CUJO13
 
 
 NO BOTS
@@ -243,16 +252,26 @@ Superdead
 Earth Quake
 	https://archive.org/details/tycultureearthquake
 	maps, mods, no bots
-
-
+Qu...ke / Qu_ke
+	https://www.quaddicted.com/forum/viewtopic.php?id=693
+	https://archive.org/details/krogersoftwaregmbhquke
+	unzipped mods, maps
+	weapons, utils
+CD ROM AKTIV No 3 Duke Nukem & Quake Add Ons Special
+	https://archive.org/details/cdrom-aktiv-no3-duke-nukem-quake-addons-special
+	zip files under G_APOGEE/ doom and duke
+	files.bbs has everything
+	just qtest stuff...
+Quake shareware CD without id stuff
+	https://archive.org/details/QuakeSWCDNID
+	just the shareware...
 
 TODO
 ----
 
-tremor quake
-	https://archive.org/details/cdrom-tremor-for-quake
-	https://archive.org/details/tremorusa
-	???
+
+
+
 power tools for quake
 	https://www.quaddicted.com/files/commercial/Power%20Tools%20for%20Quake%20-%20Back.jpg
 	https://www.quaddicted.com/files/commercial/Power%20Tools%20for%20Quake.jpg
@@ -267,20 +286,39 @@ Chartbusters 10
 GameMania for Quake
 The Q Files
 Time of Reckoning
+Q++
 
 
 
 magazines + quake: archived cd's
 --------------------------------------------------------------------------------
 
+bots
+----
 
-PC Zone March 1997
+PC Zone March 1997 / CD Zone Issue #48 (March 1997)
+	https://www.quaddicted.com/magazines/cd_zone_issue_48_march_1997
 	https://archive.org/details/CdZoneIssue48march1997
 	early 1997 I think
 	bots: BGBOT16.ZIP, Drkbot03.zip, VBOT1.ZIP, ctfbot11.zip, darkbotx.zip, dmbot1.zip,
 		iwbot21.zip, mybot16.zip, roambot1.zip, swbot104.zip, tlgbot.zip, vbot11.zip,
 		zeus2042.zip, wisp.zip, bplayer2.zip, bthnt10.zip, btskn22.zip, bgadm101.zip, elim14.zip, sambot.zip
 		no reaper...?
+PC Zone Cover CD "Complete Quake" Xmas 1997 / PCZone Complete Quake CD
+	https://archive.org/details/PCZoneCompleteQuakeCD
+	https://archive.org/details/PCZoneCompleteQuakeCD/
+	maps, some
+	bots: reaper in setup.exe (v0.8)
+PC Gamer CD from November 1996
+	https://www.quaddicted.com/forum/viewtopic.php?id=671
+	https://archive.org/details/PCGAMER36
+	maps, utils, zipped up version of mods
+	bots: BGBOT15.ZIP, CUJO10.ZIP, DMBOT1.ZIP, MYBOT16.ZIP, ZEUS10.ZIP, TMBOT11.ZIP
+
+
+
+no bot
+------
 PC Gamer October 1997 / 3.7 / Quake-O-Rama
 	https://archive.org/details/PCGamerOct1997
 	https://archive.org/details/PC_Gamer_Disc_3.7_October_1997
@@ -289,29 +327,19 @@ PC Gamer October 1997 / 3.7 / Quake-O-Rama
 	https://www.moddb.com/games/quake/addons/pc-gamer-quake-o-rama
 	unzipped...
 	few maps, few tc's not a lot
-PC Zone Cover CD "Complete Quake" Xmas 1997 / PCZone Complete Quake CD
-	https://archive.org/details/PCZoneCompleteQuakeCD
-	maps, some
-	bots: Reaper (v0.8)
-PC Gamer CD from November 1996
-	https://www.quaddicted.com/forum/viewtopic.php?id=671
-	https://archive.org/details/PCGAMER36
-	maps, utils, zipped up version of mods
-	bots: BGBOT15.ZIP, CUJO10.ZIP, DMBOT1.ZIP, MYBOT16.ZIP, ZEUS10.ZIP, TMBOT11.ZIP
 
 
-https://archive.org/details/CdZoneIssue48march1997
-https://archive.org/details/cdbbsarchive?and%5B%5D=subject%3A%22Quake%22&sort=-date
-https://archive.org/details/cdrom-aktiv-no3-duke-nukem-quake-addons-special
-https://archive.org/details/CdZoneIssue48march1997
-https://archive.org/details/PCGamerOct1997
-https://archive.org/details/PCZoneCompleteQuakeCD/
-https://archive.org/details/cdrom-quake-it
+
+
+
+
+
+
 https://archive.org/details/cdrom-q-das-nachbeben
-https://archive.org/details/cdrom-aktiv-no3-duke-nukem-quake-addons-special
 https://archive.org/details/cdrom-quake-em
 https://archive.org/details/cdbbsarchive
-... too many I checked almost all.
+
+
 
 
 
