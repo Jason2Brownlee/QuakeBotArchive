@@ -21,6 +21,7 @@ Aug 31 1996 | bgadm101.zip | BGADM Bot v1.01.
 Aug 31 1996 | bgbot11.zip | BGBot v1.1.
 Aug 31 1996* | wisp.zip | Wisp v1.0 (* estimated).
 Sep 01 1996 | bgbot12.zip | BGBot v1.2.
+Sep 01 1996 | iwbot1.zip | IronWulvt's Deathmatch Bot v1.0.
 Sep ?? 1996 | mybot14.zip | MyBot v1.4.
 Sep 02 1996* | mybot16.zip | MyBot v1.6 (* estimated).
 Sep 03 1996 | bgbot125.zip | BGBot v1.25.
@@ -28,7 +29,6 @@ Sep 03 1996 | roambot1.zip | RoamBot v0.9.
 Sep 03 1996 | bgbot13.zip | BGBot v1.3.
 Sep 04 1996 | cujo10.zip | CujoBot v1.0.
 Sep 04 1996 | zeus10.zip | ZeusBot v1.0.
-Sep 05 1996* | iwbot1.zip | IronWulvt's Deathmatch Bot v1.0 (* estimated).
 Sep 06 1996 | bgbot15.zip | BGBot v1.5.
 Sep 06 1996 | bplayer1.zip | BPlayer Bot v1.00.
 Sep 08 1996 | sambot.zip | SamBot v0.9.
