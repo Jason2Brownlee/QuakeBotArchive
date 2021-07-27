@@ -1,0 +1,160 @@
+Title : TM Bot
+Filename : tmbot1.zip
+Version : 1.00
+Date : 96/8/21
+Author(s): Micheal Polucha (co-designer, coder)
+Tim Polucha (co-designer, playtester)
+Email : mpol...@earthlink.net
+Credits : HoloSelf v1.0
+by Perecli Manole
+Per...@ix.netcom.com
+
+Quake-C specification and HTML version.
+by Olivier Montanuy
+Olivier....@wanadoo.fr
+
+ID Software
+
+Type of Mod
+-----------
+Quake C : yes
+Sound : no
+MDL : no
+
+Format of Quake C
+-----------------
+unified diff : no
+context diff : no
+.qc files : yes
+progs.dat : yes
+
+Description of the Modification
+-------------------------------
+Automated Helper Bot or Player 2 on only one computer!
+With this advanced AI you can conquer any level of Quake.
+TM Bot is based on the Enforcer Model.
+Just activate the bot and he'll be completely automated, or you can
+take control and wreak some havoc with multi-player fun.
+
+Somebody tell us how it plays in Co-Op
+(Doesn't attack other players...can easily change that
+for DM mode).
+
+How to use Modification
+-------------------------------
+Impulse 100 Activates and Deactivates the Bot
+
+Impulse 101 Toggles between Automatic and Manual Control Modes
+
+Impulse 102 Auto: Fires Weapon
+Manual: Toggle bot movement-Stop/Walk/Run
+
+Impulse 103 Auto: Toggle auto-fire
+Manual: Turn left
+
+Impulse 104 Auto: Teleport to player
+Manual: Turn right
+
+Works best with a 4 button joystick (gravis gamepad) here's a diagram:
+
+2
+1 4
+3
+
+Button 2 would fire / move
+Button 1 would toggle auto fire / turn left
+Button 4 would teleport / turn right
+Button 3 would toggle auto mode / manual mode
+
+And you could assign bot activate/deactivate to the keyboard.
+
+(This is the way we have it set up)
+
+
+How to Install the Modification
+-------------------------------
+
+Make a directory called TMBOT off of your quake directory.
+Unzip the archive into the TMBOT directory. Now run quake, adding
+"-game tmbot" to the command line (do not type the quotes). Bind
+the impulses and you're ready to go.
+
+If you would like to see the source code, modify it, or
+recompile it, we have included it in the source.zip file. All
+modifications to original source have been marked with "TM Bot".
+
+
+Technical Details
+-----------------
+
+Features:
+
+1. Manual or automatic control of the bot.
+2. Bot can draw enemy fire.
+3. Seeks out monsters and attacks them.
+4. Can activate trigger fields on the floor (like
+the lights on E1M1 when going down the spiral ramp).
+5. Can go through teleport portals.
+6. Tries to return to player when player gets too
+far away.
+7. Does not attack other players (good for coop).
+8. And many more.
+
+Bugs:
+
+1. Bot is insubstantial to its owner.
+2. Owner cannot hurt the bot with axe, shotgun, or lightning.
+3. Bot cannot trigger buttons on the wall. (Does not trigger
+the slipgates, but that is by design.)
+4. Bot cannot jump or walk past edges.
+5. Bot sometimes gets lost.
+6. Certain functions (i.e. teleport, move, etc.)
+interrupt the dying process giving you a ghost bot
+that is insubstantial and unkillable.
+7. Level changes may not be handled correctly by my code
+(Bot may not be deactivated, just lost).
+8. And hopefully not many more.
+
+
+Future Enhancements:
+
+1. Streamline code and make it faster.
+2. Deathmatch toggle (seek out opposing players).
+3. Advanced AI (think ahead).
+4. Permanent Bot (travels with you to different levels).
+5. Bot able to pick up and use health, armor, and ammo.
+6. Bot regenerates power cells, but requires cell ammo
+for startup.
+7. New models, weapons, or sounds for the bot.
+8. Camera Mode (see through bot's eyes).
+9. Many more.
+
+Author Information
+------------------
+
+This is our first Quake C mod. We plan to do some more as time allows.
+If you use our code as a basis for another mod, or if you have some
+ideas for improvements or other mods, please let us know, we would
+be very interested.
+
+E-mail us at: mpol...@earthlink.net
+
+Copyright and Distribution Permissions
+--------------------------------------
+
+Authors MAY use these modifications as a basis for other
+publically available work.
+
+You may distribute this Quake modification in any electronic
+format as long as this description file remains intact and unmodified
+and is retained along with all of the files in the archive.
+
+
+Availability
+------------
+
+The TM Bot mod can hopefully be found at the following locations:
+
+ftp.cdrom.com/.5/idgames2/*
+* (check incoming, newstuff or quakec/bot or quakec/monster)
+The Quake Stomping Grounds - http://204.73.178.27/ (check files area)
