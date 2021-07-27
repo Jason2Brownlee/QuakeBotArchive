@@ -184,6 +184,17 @@ tremor quake
 	lots of maps
 	unzipped mods under quakec
 	bots: CUJO13
+power tools for quake
+	https://www.quaddicted.com/files/commercial/Power%20Tools%20for%20Quake%20-%20Back.jpg
+	https://www.quaddicted.com/files/commercial/Power%20Tools%20for%20Quake.jpg
+	https://archive.org/download/redump_pc_P
+	https://archive.org/download/redump_pc_P/Power%20Tools%20for%20Quake%20%28Europe%29.7z
+	tools, levels
+	unzipped...
+	MAIN_WPN/BOTS
+	bots: bgadm, bgbot, bothunt, cujo, decoyz, dmbot, iwbot, mybot, roambot, mbot, zeus...
+	no reaper... no elim, no cujo
+
 
 
 NO BOTS
@@ -269,14 +280,11 @@ Quake shareware CD without id stuff
 
 
 
+
+
+
 TODO
 ----
-
-power tools for quake
-	https://www.quaddicted.com/files/commercial/Power%20Tools%20for%20Quake%20-%20Back.jpg
-	https://www.quaddicted.com/files/commercial/Power%20Tools%20for%20Quake.jpg
-	https://archive.org/download/redump_pc_P
-	????
 Deathmatch Maker
 	https://archive.org/details/deathmatchmakerusa
 	???
@@ -364,7 +372,7 @@ PC Gamer Cover Disc #2.12 (January 1997)
 PC Gamer CD 2.8 (September 1996)
 	https://archive.org/details/cdrom-pcgamer-208
 	https://archive.org/details/pc-gamer-september-1996-pcg-34-9-96
-
+	shareware, patch
 
 
 todo
