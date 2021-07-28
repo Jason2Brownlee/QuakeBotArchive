@@ -28,6 +28,10 @@ PC Gamer Disc 3.9 Number 2 (December 1997)
 	https://archive.org/details/PC_Gamer_Disc_3.9_December_1997_Disc_1
 	https://archive.org/details/PC_Gamer_Disc_3.9_Disc_2_RBSII1_December_1997
 	bots: zeus205s.zip zeus205.zip
+PC Gamer (Italian Edition) Coverdisc 025
+	https://archive.org/details/PCGamerITCD25
+	zeus205.zip and zeus205s.zip
+
 
 
 no bot
@@ -73,12 +77,84 @@ PC Gamer CD 2.8 (September 1996)
 	https://archive.org/details/cdrom-pcgamer-208
 	https://archive.org/details/pc-gamer-september-1996-pcg-34-9-96
 	shareware, patch
-
+Australian PC User August 1996
+	https://archive.org/details/PCUPLUSAUG96
+	quake shareware and patch
+PC Review Issue 60 CD-ROM
+	https://archive.org/details/pc-review-coverdisc_1996-10
+	shareware
+PC Magazine CD   Ultimate Archive (1996)
+	https://archive.org/details/PC_Magazine_CD_Ultimate_Archive_1996
+	nothing
+Australian PC User January 1997
+	https://archive.org/details/PCUJAN97
+	nothing
+Australian PC User July 1997
+	https://archive.org/details/PCUJULY97
+	nothing
+Australian PC User June 1997
+	https://archive.org/details/PCUJUN97
+	nothing
+Australian PC User April 1997
+	https://archive.org/details/PCUAPR97
+	nothing
+Australian PC User December 1998
+	https://archive.org/details/APCUDec1998
+	some patch...
+Amiga Format CD #33
+	https://archive.org/details/cdrom-amigaformatcd33
+	mods
+Amiga Format CD #31
+	https://archive.org/details/cdrom-amigaformatcd31
+	some mods
+Amiga Format CD #39
+	https://archive.org/details/cdrom-amigaformatcd39
+	tons of mods
+Amiga Format CD #50
+	https://archive.org/details/cdrom-amigaformatcd50
+	source code for quake .exe
+Computer Buyer Issue 70 CD-ROM
+	https://archive.org/details/computerbuyercd-1997-03
+	shareware
+Computer Buyer Issue 72 CD-ROM
+	https://archive.org/details/computerbuyercd-1997-05
+	shareware
+PC Gamer (Italian Edition) Coverdisc 030 Disc 1/2
+	https://archive.org/details/PCGamerITCD3012
+	maps, mostly quake2
+PC Gamer (Italian Edition) Coverdisc 029 Disc 1/2
+	https://archive.org/details/PCGamerITCD2912
+	few maps
+PC Gamer (Italian Edition) Coverdisc 031 Disc 1/2
+	https://archive.org/details/PCGamerITCD3112
+	few maps
+PC Gamer (Italian Edition) Coverdisc 023
+	https://archive.org/details/PCGamerITCD23
+	few mods
+PC Gamer (Italian Edition) Coverdisc 027
+	https://archive.org/details/PCGamerITCD27
+	few maps
+Personal Computer World Interactive - Disk No. 4 - December 1996 Issue
+	https://archive.org/details/pcwdec96
+	shareware
+CU Amiga Super CD-ROM #22
+	https://archive.org/details/cu-amiga-super-cd-rom-22
+	shareware
+PC Games.EXE (December 1996)
+	https://archive.org/details/PC_Games.EXE_December_1996
+	shareware
+Computer Shopper [UK] Issue 104 CD-ROM
+	https://archive.org/details/computer-shopper-uk-104-cdrom
+	shareware
 
 
 todo
 ----
 
+PCGamer UK Coverdisk CD33
+	https://archive.org/details/pcgamer-uk-coverdisk-cd33
+	share I guess
+	???
 PC Gamer CD-ROM August 1996 Issue 33 (August 1996)
 	https://archive.org/details/WH2DEMO
 	too soon...
@@ -92,6 +168,9 @@ PC Gamer CD-ROM (Disc 3.2) (May 1997)
 PC Gamer Disc 3.8 (November 1997)
 	https://archive.org/details/PC_Gamer_Disc_3.8_November_1997
 	???
+LEVEL CD-ROM Romania Nr. 9/1998 May 1998
+	https://archive.org/details/LEVEL0598R
+	???
 LEVEL CD-ROM Romania 2/97 October 1997
 	https://archive.org/details/LEVEL1097R
 	???
@@ -99,3 +178,36 @@ PC Gamer: The Extended Play Collection Volume 2
 	https://legendsworld.net/shooter/game/11371
 	https://archive.org/details/pcgamer-coverdisc-extended-play-volume-2
 	???
+PC Zone 67 (September 1998)
+	https://archive.org/details/cd_PC_Zone_67_September_1998
+	???
+PC Zone 55 (October 1997)
+	https://archive.org/details/cd_PC_Zone_55_October_1997
+	some mods...
+	???
+Australian PC User November 1997
+	https://archive.org/details/PCUNOV97
+	???
+PC PowerPlay Quake Bible CD
+	https://archive.org/details/QUAKEBIBLE
+	???
+CHIP 1996. szeptember (CD 07) (Hungarian PC magazine CD)
+	https://archive.org/details/CHIP1996SzeptemberCD07
+	???
+CHIP 1996. november (CD 09) (Hungarian PC magazine CD)
+	https://archive.org/details/CHIP1996NovemberCD09
+	???
+PC Gamer CD 3.2
+	https://archive.org/details/cdrom-pcgamer-302
+	maps?
+	???
+PC Gamer (Italian Edition) Coverdisk 020
+	https://archive.org/details/PCGamerITCD20
+	???
+Best of Internet (October 1996) (PC Collector)
+	https://archive.org/details/boi-oct-96
+	has quakec compiler qcc
+	???
+	needs to unzip..
+	There are more of these for nov, dec...
+

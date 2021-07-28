@@ -17,6 +17,10 @@ List: quake addons
 	https://legendsworld.net/shooter/game/1833
 List: quake dos games
 	http://www.oldgamesfinder.com/?q=quake&m=-1
+List
+	https://web.archive.org/web/20160410114645/http://www.addoncollector.spielepedia.de/quakede.html
+	https://web.archive.org/web/20160410114855/http://www.addoncollector.spielepedia.de/multide.html
+
 
 BOTS (addons that have bots)
 ----
@@ -183,10 +187,16 @@ Quakestar
 
 TODO (cannot locate/access a copy)
 ----
+promising leads: "Chartbusters 10" and "Time of Reckoning"
+
+
 
 Quake World
 	https://legendsworld.net/shooter/game/1845
 	https://www.legendsworld.net/site/download.php?mirror=16915
+	qkwrld.rar
+	QUAKEWORLD.iso
+	error
 	???
 Quake World 2001
 	https://legendsworld.net/shooter/game/1847
@@ -200,7 +210,8 @@ Quake World 3 / 1999
 Quake compilation
 	russian
 	https://www.legendsworld.net/site/download.php?mirror=9326#Download
-	???
+	massive, more than 23gb...
+	cannot see bots in there...
 ULTIMATE QUAKE (ultqk)
 	https://www.legendsworld.net/site/download.php?mirror=7455#Download
 	fan made (not the 3 quake cd)
@@ -213,23 +224,50 @@ Ultra Level Add-on / ultra collection volume 10
 	https://www.mobygames.com/game/ultra-level-add-on
 	https://www.mobygames.com/game/dos/ultra-level-add-on
 	https://talks.dos.zone/t/ultra-level-add-on-1997/6883
+	https://web.archive.org/web/20160410114855/http://www.addoncollector.spielepedia.de/multide.html
 	just levels???
 	???
 Universe of Levels / Universe of Levels: Das Ultimative Add-On Ereignis!
 	https://www.mobygames.com/game/universe-of-levels-das-ultimative-add-on-ereignis
 	https://picclick.de/Universe-of-Levels-Das-Ultimative-Add-On-Ereignis-133829157325.html?refresh=1
 	has: Qu.......ke (which we have already processed)
+	https://web.archive.org/web/20160410114855/http://www.addoncollector.spielepedia.de/multide.html
 	n/a
 Chartbusters 10
 	http://quakeone.com/forum/quake-talk/quake-central/9859-let-s-share-our-quake-addons-with-each-other
 	https://legendsworld.net/shooter/game/9021
+	???
 GameMania for Quake
 	http://www.oldgamesfinder.com/?m=1&q=GameMania%20For%20Quake%20
 	https://legendsworld.net/shooter/game/10373
+	https://www.old-games.ru/forum/threads/ischetsja-gamemania-for-quake-1.83195/
 	Tech Express
 The Q Files
+	https://web.archive.org/web/20160410114855/http://www.addoncollector.spielepedia.de/multide.html
+	???
 Time of Reckoning
+	https://web.archive.org/web/20160410114855/http://www.addoncollector.spielepedia.de/multide.html
+	http://cd.textfiles.com/amigaformat/aformat-26-199804/-Websites-/WeirdScience/quake/quake.htm
+	https://amigareviews.leveluphost.com/timeofre.htm#timeofreckoningcu
+	http://obligement.free.fr/articles/timeofreckoning.php
+	says it has bots...
+	???
 Q++
-
+	https://www.quaddicted.com/webarchive/www.quaddicted.com/quake-nostalgia/q-quake-toolkit-for-serious-gamers-developers/
+	probably nothing...
+	???
+QUAD DAMAGE
+	https://web.archive.org/web/20160410114645/http://www.addoncollector.spielepedia.de/quakede.html
+	quake 2 i think
+Best of MEGA Edition
+	https://web.archive.org/web/20160410114855/http://www.addoncollector.spielepedia.de/multide.html
+	https://dukenukem.fandom.com/wiki/Best_of_Mega_Edition
+	https://doomwiki.org/wiki/File:BestofMega-AOC.jpg
+MEGA BLOOD
+	https://web.archive.org/web/20160410114855/http://www.addoncollector.spielepedia.de/multide.html
+Superpower
+	https://web.archive.org/web/20160410114855/http://www.addoncollector.spielepedia.de/multide.html
+The Ultimate & The Classic
+	https://web.archive.org/web/20160327022051/http://addoncollector.spielepedia.de/Compilationsde.html
 
 
