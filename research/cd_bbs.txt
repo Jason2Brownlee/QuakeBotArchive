@@ -83,12 +83,20 @@ Shareware Extravaganza 8 (Disk 8)
 		ELIM14PK.ZIP
 		ELIMTST1.ZIP
 		IWBOT16.ZIP
-			MSKIN1.ZIP (?) Player-Bot
+			MSKIN1.ZIP (?) Bonus: Player-Bot (Very Intelligent)
+			MSKIN2.ZIP
+				- has the bot, reaprb05 .txt and progs.dat
+				- also has qc v1.01 src (no idea why)
+			MSKIN3.ZIP
+			MSKIN4.ZIP
 		REAPRB07.ZIP
 		SAMBOT.ZIP
 		SWBOT103.ZIP
 		SWBOT104.ZIP
-
+		TMBOT1.ZIP
+		VBOT11.ZIP
+		ZEUS10.ZIP
+			BTR1.ZIP (?)
 
 
 
