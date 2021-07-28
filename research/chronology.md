@@ -40,7 +40,6 @@ Sep 12 1996 | elim10.zip | Eliminator Bot v1.0.
 Sep 13 1996 | bgbot16.zip | BGBot v1.6.
 Sep 15 1996 | elim11.zip | Eliminator Bot v1.1.
 Sep 16 1996 | elim12.zip | Eliminator Bot v1.2.
-Sep 16 1996 | reaprb05.zip | ReaperBot v0.5 (* [likely uploaded on Oct 03](https://www.bluesnews.com/archives/sept96-5.html)).
 Sep 17 1996 | botskn10.zip | BotSkin v1.1
 Sep 18 1998 | bthnt10.zip | Bot Hunt v1.0.
 Sep ?? 1996 | elim13.zip | Eliminator Bot v1.3.
@@ -55,6 +54,7 @@ Sep ?? 1996 | swbot102.zip | Swimming bot v1.02.
 Sep 29 1996 | swbot103.zip | Swimming bot v1.03.
 Sep 30 1996* | iwbot20.zip | IronWulvt's Deathmatch Bot v2.0 (* estimated).
 Oct 01 1996 | iwbot21.zip | IronWulvt's Deathmatch Bot v2.1.
+Oct 03 1996* | reaprb05.zip | ReaperBot v0.5 (* [likely uploaded on Oct 03](https://www.bluesnews.com/archives/sept96-5.html)).
 Oct 10 1996 | swbot104.zip | Swimming bot v1.04.
 Oct 12 1996 | reaprb06.zip | ReaperBot v0.6.
 Oct 18 1996 | botskn18.zip | BotSkin v1.8.
