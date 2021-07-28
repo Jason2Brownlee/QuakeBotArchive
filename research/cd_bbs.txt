@@ -3,14 +3,57 @@ BBS CDs / Archives
 
 Archives/ Backups of BBS with quake files
 
-- http://cd.textfiles.com/
-	(does not appear to be 100% indexed by google...)
-	http://cd.textfiles.com/directory.html
-- http://www.retroarchive.org/index.html
-	(does appear to be indexed, mostly...)
-	I manually searched all the 1996/1997 cds...
-	Some good wins.
-- http://archives.thebbs.org/
+http://cd.textfiles.com/
+------------------------------------
+(does not appear to be 100% indexed by google...)
+http://cd.textfiles.com/directory.html
+- tremor
+	http://cd.textfiles.com/tremor/
+	CUJO13/
+http://cd.textfiles.com/amigaacs/amigaacs02
+	http://cd.textfiles.com/amigaacs/amigaacs02/Games/QUAKE/
+	shareware
+http://cd.textfiles.com/cdaction/cdaction09a/QUAKE/
+	shareware
+CD REVIEW
+	http://cd.textfiles.com/cdreview/cdreview66/QUAKE/
+		levels, mods
+		CTFBOT12.ZIP
+		FRAGBOT.ZIP
+	http://cd.textfiles.com/cdreview/cdreview67/QUAKE/
+		levels, mods
+http://cd.textfiles.com/internetgd/QUAKE/
+	shareware
+http://cd.textfiles.com/cream/cream26/doom/
+	shareware
+http://cd.textfiles.com/cream/cream25/doom/
+	knbot03.zip
+http://cd.textfiles.com/cream/cream24/doom/
+	darkbotx.zip
+	zeus2042.zip
+http://cd.textfiles.com/cream/cream23/doom/
+	botskn20.zip
+	vbot11.zip
+http://cd.textfiles.com/cream/cream22/doom/
+	some mods. tons of maps!
+	ELIM14PK.ZIP
+	quake3.zip
+		BTHNT10.ZIP
+http://cd.textfiles.com/cream/cream21/doom/
+	quake mods
+
+
+
+http://www.retroarchive.org/index.html
+------------------------------------
+(does appear to be indexed, mostly...)
+I manually searched all the 1996/1997 cds...
+Some good wins.
+
+
+
+http://archives.thebbs.org/
+------------------------------------
 	nothing...
 
 
