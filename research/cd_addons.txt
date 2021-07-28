@@ -13,14 +13,19 @@ List: Commercial Addons
 	https://www.quaketerminus.com/addon.shtml
 List: Unofficial add-ons for Quake games
 	https://www.mobygames.com/game-group/unofficial-add-ons-for-quake-games
+List: quake addons
+	https://legendsworld.net/shooter/game/1833
+List: quake dos games
+	http://www.oldgamesfinder.com/?q=quake&m=-1
 
 BOTS (addons that have bots)
 ----
-Toolkit For Quake (QTOOL_0996)
+Toolkit For Quake (QTOOL_0996) / Walnut Creek
 	https://www.quaddicted.com/files/commercial/Toolkit%20For%20Quake%20(QTOOL_0996).7z
+	https://legendsworld.net/shooter/game/12222
 	no bots, stops short, e.g. just monsters, misc, etc. captured end of aug 1996 i think
 	has holo1 and holo2
-Toolkit For Quake 2nd Edition (QTool_0197)
+Toolkit For Quake 2nd Edition (QTool_0197) / Walnut Creek
 	https://www.quaddicted.com/files/commercial/Toolkit%20For%20Quake%202nd%20Edition%20(QTool_0197).7z
 	has bots, captured mid-late sep 1996 i think
 	includes reaper v0.7 and zeus 0.1
@@ -29,14 +34,17 @@ Level Master V for Quake
 	https://archive.org/details/levelmastervforquakeusa
 	https://archive.org/details/cdrom-quake-level-master-5
 	https://archive.org/details/msdos_Quake_Level_Master_V_1997
+	https://legendsworld.net/shooter/game/1839
 	some patches...
 	zeus bot 2.042
 Eternal Darkness
 	https://www.quaddicted.com/files/commercial/Eternal%20Darkness%20(german).7z
 	https://archive.org/details/cdrom-eternal-darkness
+	https://legendsworld.net/shooter/game/7131
 	has unzipped tmbot1.zip dmbot1.zip
 Quake 'em
 	https://archive.org/details/cdrom-quake-em
+	https://legendsworld.net/shooter/game/1834
 	lots of maps and mods, other games as well
 	has bots: BGBOT11, BOTSKN18, DMBOT1, HOLO1, HOLO2, MYBOT, MYBOT13A, REAPRB07, SWBOT104,
 		TMBOT1, TMBOT11
@@ -44,7 +52,7 @@ Quake 'em
 tremor quake
 	https://archive.org/details/cdrom-tremor-for-quake
 	https://archive.org/details/tremorusa
-		tremorusa.zip (200mb) -> 600 unzipped
+	https://legendsworld.net/shooter/game/2258
 	lots of maps
 	unzipped mods under quakec
 	bots: CUJO13
@@ -68,6 +76,7 @@ Aftershock for Quake
 	https://www.quaddicted.com/files/commercial/Aftershock.7z
 	https://archive.org/details/AftershockForQuake
 	https://archive.org/details/aftershockforquakeusa
+	https://legendsworld.net/shooter/game/1836
 	lots of maps... no bots
 Aftershock for Quake: Deluxe
 	https://www.quaddicted.com/files/commercial/Aftershock%20Deluxe.7z
@@ -83,23 +92,28 @@ dark hour
 	https://www.quaddicted.com/files/commercial/Dark%20Hour_redump11008_clonecd.7z
 	https://archive.org/details/darkhourcanada
 	https://archive.org/details/msdos_Dark_Hour_1996
+	https://legendsworld.net/shooter/game/1837
 	no patches, just levels
 Malice
 	https://www.quaddicted.com/files/commercial/Malice.7z
 	https://archive.org/details/Malice23rdCenturyUltraconversionForQuakeUSA
 	https://archive.org/details/msdos_Malice_for_Quake_1997
 	https://archive.org/details/QuakeMalice
+	https://legendsworld.net/shooter/game/1842
 	just a tc...
 Q!Zone / QZone
 	https://www.quaddicted.com/files/commercial/Q!Zone.7z
+	https://legendsworld.net/shooter/game/1848
 	maps
 Q.... Das Nachbeben
 	https://www.quaddicted.com/files/commercial/Q....%20Das%20Nachbeben.7z
 	https://archive.org/details/cdrom-q-das-nachbeben
+	https://legendsworld.net/shooter/game/7223
 	mods, no bots...
 Q2
 	https://www.quaddicted.com/files/commercial/Q2.7z
 	https://archive.org/details/cdrom-q2
+	https://legendsworld.net/shooter/game/1832
 	maps
 QUAKE - MS7001 (?)
 	https://www.quaddicted.com/files/commercial/QUAKE%20-%20MS7001.7z
@@ -110,6 +124,7 @@ QUAKE - MS7001 (?)
 Quake It
 	https://www.quaddicted.com/files/commercial/Quake%20It%20(german).7z
 	https://archive.org/details/cdrom-quake-it
+	https://legendsworld.net/shooter/game/7357
 	few mods, no bots
 Shrak
 	https://www.quaddicted.com/files/commercial/Shrak.7z
@@ -124,17 +139,21 @@ Spiele Hits Vol. 1
 	tons of maps, few mods, all .exe compressed
 Superdead
 	https://archive.org/details/MicrobossSUPERDEAD
+	https://legendsworld.net/shooter/game/7413
 	all maps i think
 Earth Quake
 	https://archive.org/details/tycultureearthquake
+	https://legendsworld.net/shooter/game/7357
 	maps, mods, no bots
 Qu...ke / Qu_ke / Qu.......ke
 	https://www.quaddicted.com/forum/viewtopic.php?id=693
 	https://archive.org/details/krogersoftwaregmbhquke
+	https://legendsworld.net/shooter/game/24797
 	unzipped mods, maps
 	weapons, utils
 CD ROM AKTIV No 3 Duke Nukem & Quake Add Ons Special
 	https://archive.org/details/cdrom-aktiv-no3-duke-nukem-quake-addons-special
+	https://legendsworld.net/shooter/game/27427
 	zip files under G_APOGEE/ doom and duke
 	files.bbs has everything
 	just qtest stuff...
@@ -143,11 +162,21 @@ Quake shareware CD without id stuff
 	just the shareware...
 Q.E.D. Level Creator for Quake (USA)
 	https://archive.org/details/qedlevelcreatorforquakeusa
+	https://legendsworld.net/shooter/game/27035
 	just a level maker
 Deathmatch Maker
 	https://archive.org/details/deathmatchmakerusa
+	https://legendsworld.net/shooter/game/1838
 	just an app
 	few small maps and mods
+Disposable Heroes
+	https://legendsworld.net/shooter/game/7811
+	https://www.gamers.org/pub/idgames2/planetquake/thecoven/
+	some mods, nothing really
+Quakestar
+	https://legendsworld.net/shooter/game/24945
+	https://archive.org/details/blackstarmultimediaquakestar
+	just maps
 
 
 
@@ -155,6 +184,28 @@ Deathmatch Maker
 TODO (cannot locate/access a copy)
 ----
 
+Quake World
+	https://legendsworld.net/shooter/game/1845
+	https://www.legendsworld.net/site/download.php?mirror=16915
+	???
+Quake World 2001
+	https://legendsworld.net/shooter/game/1847
+	https://www.legendsworld.net/site/download.php?mirror=3994
+	LW_3994.rar
+	password?
+	???
+Quake World 3 / 1999
+	https://legendsworld.net/shooter/game/1846
+	???
+Quake compilation
+	russian
+	https://www.legendsworld.net/site/download.php?mirror=9326#Download
+	???
+ULTIMATE QUAKE (ultqk)
+	https://www.legendsworld.net/site/download.php?mirror=7455#Download
+	fan made (not the 3 quake cd)
+	cannot unzip the setup.exe needs win32...
+	???
 Ultra Level Add-on / ultra collection volume 10
 	https://forum.nexgam.de/thread/63231-eure-pc-computer-games-sammlung/
 	http://quakeone.com/forum/quake-talk/quake-central/9859-let-s-share-our-quake-addons-with-each-other
@@ -170,7 +221,12 @@ Universe of Levels / Universe of Levels: Das Ultimative Add-On Ereignis!
 	has: Qu.......ke (which we have already processed)
 	n/a
 Chartbusters 10
+	http://quakeone.com/forum/quake-talk/quake-central/9859-let-s-share-our-quake-addons-with-each-other
+	https://legendsworld.net/shooter/game/9021
 GameMania for Quake
+	http://www.oldgamesfinder.com/?m=1&q=GameMania%20For%20Quake%20
+	https://legendsworld.net/shooter/game/10373
+	Tech Express
 The Q Files
 Time of Reckoning
 Q++

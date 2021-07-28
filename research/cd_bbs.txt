@@ -14,3 +14,28 @@ Archives/ Backups of BBS with quake files
 	nothing...
 
 
+
+
+
+
+
+---
+
+usenet has lists of files on BBS, e.g.:
+
+bbs for reaper
+https://groups.google.com/g/spk.file/c/IMPklo6HC-s/m/RmTFwJzM0owJ
+
+The Dominion BBS
+12 Nov 1996, 7:00:00 pm
+
+Area : G_QUAKE GAME: ???
+
+REAPRB05.ZIP 156,961 Quake: - The Reaper Bot
+Info [././.] New ./././-/./. (by GamesNet)
+
+GamesNet might be a lead
+https://gamenet.synchronetbbs.org/
+
+
+---
