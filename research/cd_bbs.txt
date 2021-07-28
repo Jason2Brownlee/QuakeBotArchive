@@ -7,40 +7,95 @@ http://cd.textfiles.com/
 ------------------------------------
 (does not appear to be 100% indexed by google...)
 http://cd.textfiles.com/directory.html
-- tremor
+
+Tremor
 	http://cd.textfiles.com/tremor/
 	CUJO13/
-http://cd.textfiles.com/amigaacs/amigaacs02
+Amiga ACS Coverdisc #02
+	http://cd.textfiles.com/amigaacs/amigaacs02
 	http://cd.textfiles.com/amigaacs/amigaacs02/Games/QUAKE/
 	shareware
-http://cd.textfiles.com/cdaction/cdaction09a/QUAKE/
+CD Action Coverdisc Issue #9a
+	http://cd.textfiles.com/cdaction/cdaction09a/QUAKE/
 	shareware
-CD REVIEW
+CD Review Issue #66
 	http://cd.textfiles.com/cdreview/cdreview66/QUAKE/
 		levels, mods
 		CTFBOT12.ZIP
 		FRAGBOT.ZIP
 	http://cd.textfiles.com/cdreview/cdreview67/QUAKE/
 		levels, mods
-http://cd.textfiles.com/internetgd/QUAKE/
+Cream of the Crop #26
+	http://cd.textfiles.com/internetgd/QUAKE/
 	shareware
+	DARKBT07.ZIP
 http://cd.textfiles.com/cream/cream26/doom/
 	shareware
-http://cd.textfiles.com/cream/cream25/doom/
+Cream of the Crop #25
+	http://cd.textfiles.com/cream/cream25/doom/
 	knbot03.zip
-http://cd.textfiles.com/cream/cream24/doom/
+Cream of the Crop #24
+	http://cd.textfiles.com/cream/cream24/doom/
 	darkbotx.zip
 	zeus2042.zip
-http://cd.textfiles.com/cream/cream23/doom/
-	botskn20.zip
-	vbot11.zip
-http://cd.textfiles.com/cream/cream22/doom/
+Cream of the Crop #23
+	http://cd.textfiles.com/cream/cream23/doom/
+	BOTSKN20.ZIP
+	BTSKN22.ZIP
+	DARKBT01.ZIP
+	VBOT11.ZIP
+	CUJGRAP.ZIP
+Cream of the Crop #22
+	http://cd.textfiles.com/cream/cream22/doom/
 	some mods. tons of maps!
 	ELIM14PK.ZIP
 	quake3.zip
 		BTHNT10.ZIP
-http://cd.textfiles.com/cream/cream21/doom/
-	quake mods
+Cream of the Crop #21
+	http://cd.textfiles.com/cream/cream21/doom/
+	quake mods, maps, utils
+Cream of the Crop #20
+	http://cd.textfiles.com/cream/cream20/
+	shareware, sounds (under games/)
+Hobbes OS/2
+	http://cd.textfiles.com/hobbesos29709/disk1/GAMES/
+	quake shareware
+Zodiac Super OZ CD
+	http://cd.textfiles.com/superozsw/FILES/06/FILES.BBS
+	http://cd.textfiles.com/superozsw/FILES/08/FILES.BBS
+	shareware
+Media Depot Volume 5
+	http://cd.textfiles.com/mediadepot/FILES/06/
+	http://cd.textfiles.com/mediadepot/FILES/08/FILES.BBS
+	shareware
+Shareware Extravaganza 8 (Disk 8)
+	http://cd.textfiles.com/swextrav8/swextrav8-1/disc1.bbs
+	mods
+	http://cd.textfiles.com/swextrav8/swextrav8-2/disc2.bbs
+	tons of mods
+		BGBOT16.ZIP
+		BGBOT20A.ZIP
+		BOTSKN10.ZIP
+		BOTSKN20.ZIP
+		BTHNT10.ZIP
+		ELIM12.ZIP
+		ELIM14.ZIP
+		ELIM14PK.ZIP
+		ELIMTST1.ZIP
+		IWBOT16.ZIP
+			MSKIN1.ZIP (?) Player-Bot
+		REAPRB07.ZIP
+		SAMBOT.ZIP
+		SWBOT103.ZIP
+		SWBOT104.ZIP
+
+
+
+
+todo (I want...)
+- CD Review Issue #65
+
+
 
 
 

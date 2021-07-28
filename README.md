@@ -72,7 +72,7 @@ Drastic Reaper Bot | Mark Wheeler | [dreaper.zip](bin/dreaper.zip)<br>[dreaper1e
 Drop Quad/Ring (FMOD) | Brian Mathiasen aka "EraZoR" | [quadring.zip](bin/quadring.zip)
 EdBot | Edward Dawson aka "HotCakes" | [edbot0-04.zip](bin/edbot0-04.zip) <br>[edbotsrc0-04.zip](bin/edbotsrc0-04.zip)
 ELFBOt | "SkinSki" aka "MauveBib" | [elfbot.zip](bin/elfbot.zip)
-Eliminator Bot (CBot) | Cameron B. Newham | [elim14.zip](bin/elim14.zip) ([txt](bin/elim14.txt))<br>[elimsrc.zip](bin/elimsrc.zip)<br>elim13.zip<br>[elim12.zip](bin/elim12.zip) ([txt](bin/elim12.txt))<br>[elim11.zip](bin/elim11.zip) ([txt](bin/elim11.txt))<br>elim10.zip ([txt](bin/elim10.txt))
+Eliminator Bot (CBot) | Cameron B. Newham | [elim14.zip](bin/elim14.zip) ([txt](bin/elim14.txt))<br>[elimsrc.zip](bin/elimsrc.zip)<br>elim13.zip<br>[elim12.zip](bin/elim12.zip) ([txt](bin/elim12.txt))<br>[elimtst1.zip](bin/elimtst1.zip) <br>[elim11.zip](bin/elim11.zip) ([txt](bin/elim11.txt))<br>elim10.zip ([txt](bin/elim10.txt))
 Eliminator Bot v1 | Jonathan Down aka "Perged" | [elim141.zip](bin/elim141.zip)
 Eliminator Bot v2 | Jonathan Down aka "Perged" and P. T. Craig aka "FuzzKatT" | [elim20b7.zip](bin/elim20b7.zip)
 Estep Bot (EsTePBot) | Enrique Gonzalez Alonso aka "EsTePaRiO" | [estepbot2eng.zip](bin/estepbot2eng.zip)<br>[estepbot2.zip](bin/estepbot2.zip)
