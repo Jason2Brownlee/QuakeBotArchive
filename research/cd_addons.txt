@@ -28,11 +28,13 @@ Toolkit For Quake (QTOOL_0996) / Walnut Creek
 	https://www.quaddicted.com/files/commercial/Toolkit%20For%20Quake%20(QTOOL_0996).7z
 	https://legendsworld.net/shooter/game/12222
 	no bots, stops short, e.g. just monsters, misc, etc. captured end of aug 1996 i think
-	has holo1 and holo2
+	has
+		holo1 and holo2
 Toolkit For Quake 2nd Edition (QTool_0197) / Walnut Creek
 	https://www.quaddicted.com/files/commercial/Toolkit%20For%20Quake%202nd%20Edition%20(QTool_0197).7z
 	has bots, captured mid-late sep 1996 i think
-	includes reaper v0.7 and zeus 0.1
+	includes
+		reaper v0.7 and zeus 0.1
 Level Master V for Quake
 	https://www.quaddicted.com/files/commercial/Level%20Master%20V.7z
 	https://archive.org/details/levelmastervforquakeusa
@@ -40,12 +42,13 @@ Level Master V for Quake
 	https://archive.org/details/msdos_Quake_Level_Master_V_1997
 	https://legendsworld.net/shooter/game/1839
 	some patches...
-	zeus bot 2.042
+		zeus bot 2.042
 Eternal Darkness
 	https://www.quaddicted.com/files/commercial/Eternal%20Darkness%20(german).7z
 	https://archive.org/details/cdrom-eternal-darkness
 	https://legendsworld.net/shooter/game/7131
-	has unzipped tmbot1.zip dmbot1.zip
+	has unzipped
+		tmbot1.zip dmbot1.zip
 Quake 'em
 	https://archive.org/details/cdrom-quake-em
 	https://legendsworld.net/shooter/game/1834
@@ -68,9 +71,29 @@ power tools for quake
 	tools, levels
 	unzipped...
 	MAIN_WPN/BOTS
-	bots: bgadm, bgbot, bothunt, cujo, decoyz, dmbot, iwbot, mybot, roambot, mbot, zeus...
+	bots:
+		bgadm, bgbot, bothunt, cujo, decoyz, dmbot, iwbot, mybot, roambot, mbot, zeus...
 	no reaper... no elim, no cujo
-
+Quake compilation
+	russian
+	https://www.legendsworld.net/site/download.php?mirror=9326#Download
+	massive, more than 23gb...
+	bots
+		tfbot080.zip
+		ctfbotp032399.zip
+		zeus205.zip
+		fbma102.zip
+		fbxb.zip
+		frikbot_x.zip
+		fbctf.zip
+		fbra.zip
+		frogbot012.zip
+		reaprb81.zip
+		Source.zip
+		lots more reaper files from "Reformed Reaper Bot" (I have them already, renamed)
+			progs.zip
+			proqc160.zip
+			rrbot313.zip
 
 
 NO BOTS (addons without bots)
@@ -207,11 +230,6 @@ Quake World 2001
 Quake World 3 / 1999
 	https://legendsworld.net/shooter/game/1846
 	???
-Quake compilation
-	russian
-	https://www.legendsworld.net/site/download.php?mirror=9326#Download
-	massive, more than 23gb...
-	cannot see bots in there...
 ULTIMATE QUAKE (ultqk)
 	https://www.legendsworld.net/site/download.php?mirror=7455#Download
 	fan made (not the 3 quake cd)
@@ -225,6 +243,7 @@ Ultra Level Add-on / ultra collection volume 10
 	https://www.mobygames.com/game/dos/ultra-level-add-on
 	https://talks.dos.zone/t/ultra-level-add-on-1997/6883
 	https://web.archive.org/web/20160410114855/http://www.addoncollector.spielepedia.de/multide.html
+	I think it just has Qu..ke on it..
 	just levels???
 	???
 Universe of Levels / Universe of Levels: Das Ultimative Add-On Ereignis!

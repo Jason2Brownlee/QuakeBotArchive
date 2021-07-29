@@ -269,6 +269,7 @@ https://scenelist.org/1997_11.html
 	SPECiAL FORCES QUAKE - TC FOR QUAKE
 https://scenelist.org/1998_07.html
 	KWIQ4001.ZIP
+		some tc...
 
 
 dreamlandbbs
@@ -288,9 +289,11 @@ http://www.dreamlandbbs.com/filegate/w32/w32_p&d/index.html
 	clients
 
 
+
+
 ------
 
-list
+bbs list
 https://synchro.net/sbbslist.html
 
 

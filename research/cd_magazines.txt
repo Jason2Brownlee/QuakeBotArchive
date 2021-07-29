@@ -17,20 +17,24 @@ PC Zone Cover CD "Complete Quake" Xmas 1997 / PCZone Complete Quake CD
 	https://archive.org/details/PCZoneCompleteQuakeCD
 	https://archive.org/details/PCZoneCompleteQuakeCD/
 	maps, some
-	bots: reaper in setup.exe (v0.8)
+	bots:
+		reaper in setup.exe (v0.8)
 PC Gamer CD from November 1996 (November 1996)
 	https://www.quaddicted.com/forum/viewtopic.php?id=671
 	https://archive.org/details/PCGAMER36
 	maps, utils, zipped up version of mods
-	bots: BGBOT15.ZIP, CUJO10.ZIP, DMBOT1.ZIP, MYBOT16.ZIP, ZEUS10.ZIP, TMBOT11.ZIP
+	bots:
+		BGBOT15.ZIP, CUJO10.ZIP, DMBOT1.ZIP, MYBOT16.ZIP, ZEUS10.ZIP, TMBOT11.ZIP
 PC Gamer Disc 3.9 Number 2 (December 1997)
 	https://archive.org/details/PC_Gamer_Disc_3.9_Number_2_December_1997
 	https://archive.org/details/PC_Gamer_Disc_3.9_December_1997_Disc_1
 	https://archive.org/details/PC_Gamer_Disc_3.9_Disc_2_RBSII1_December_1997
-	bots: zeus205s.zip zeus205.zip
+	bots:
+		zeus205s.zip zeus205.zip
 PC Gamer (Italian Edition) Coverdisc 025
 	https://archive.org/details/PCGamerITCD25
-	zeus205.zip and zeus205s.zip
+	bots:
+		zeus205.zip and zeus205s.zip
 
 
 
@@ -148,7 +152,7 @@ Computer Shopper [UK] Issue 104 CD-ROM
 	shareware
 
 
-todo
+todo (have to download..)
 ----
 
 PCGamer UK Coverdisk CD33
