@@ -125,6 +125,8 @@ Frogbot
 	All the "frogbot012.zip" out there are actually frogbot012c.zip
 		Can we find a real frogbot012.zip ????
 		Do we just host "frogbot012.zip" and ignore the issue?
+	interview
+		https://web.archive.org/web/19981206021000/http://www.telefragged.com/metro/interview_frog.html
 Optimized Frogbot
 	http://aminet.net/package/game/patch/frogbot
 	Christian Michael aka "surgeon"

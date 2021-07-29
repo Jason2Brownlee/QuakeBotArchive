@@ -125,11 +125,18 @@ Hobbes OS/2 Collection
 
 todo (I want...)
 - CD Review Issue #65
+	does it exist?
 - Shareware Extravaganza #7 / 1996
 	does not exist...
 - PDSL GAMERS TOOLKIT
 	http://cd.textfiles.com/pdsl/HELP/GAMERTK.TXT
 	has mods...
+	http://cd.textfiles.com/pdsl/HELP/GAMERTK.TXT
+	has bots (mid oct 1996)
+		nothing exciting except: reaprb07.txt / zip
+	I think this is probably it / equivalent
+		http://cd.textfiles.com/swextrav8/swextrav8-2/gamapog2/
+
 
 
 
