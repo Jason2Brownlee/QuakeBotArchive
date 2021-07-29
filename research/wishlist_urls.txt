@@ -25,6 +25,7 @@ ftp://ftp.stomped.com/pub/redwood/bots/oak0855.zip
 ftp://ftp.task.gda.pl/pub/games/idgames2/planetquake/ramshackle/obots100.zip
 ftp://ftp.telefragged.com/pub/metro/frogbot005.zip
 ftp://ftp.telefragged.com/pub/metro/frogbot009.zip
+ftp://ftp.telefragged.com/pub/swtc/obots100.zip
 ftp://ftp.telepac.pt/pub/idgames2/telefragged/metro/frogbot007.zip
 ftp://ftp.telepac.pt/pub/idgames2/telefragged/metro/frogbot009.zip
 ftp://ftр.telefragged.com/рub/frogbotb009.ziр
@@ -108,6 +109,7 @@ http://www.3ddownloads.com/showfile.php3?filename=vicinity/vicinitymodels.zip
 http://www.3ddownloads.com/showfile.php3?filename=vicinity/vicinityqwprogs.zip
 http://www.3ddownloads.com/showfile.php3?filename=vicinity/vicinitysource.zip
 http://www.angelfire.com/co2/kooliobot/images/koolio.zip
+http://www.bluesnews.com/files/patches/obots100.zip
 http://www.botepidemic.com/fmods/bm116se.zip
 http://www.botepidemic.com/fmods/demos/squaretst.zip
 http://www.botepidemic.com/fmods/fbca088se.zip
@@ -162,4 +164,3 @@ http://xmark.ausgamers.com/xkteams/xkteams1705s.zip
 http://xmark.ausgamers.com/xkteams/xkteams2.zip
 https://www.angelfire.com/pe/pent3/images/frogbot011.zip
 https://www.bluesnews.com/files/patches/bots/oak084.zip
-
