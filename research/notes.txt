@@ -1666,7 +1666,9 @@ imbot
 	Automated helper Bot
 	http://www.gamesmania.com/common/quake/c-code/imbot1.zip
 	imbot1.zip
-
+frogbot + kt
+	https://www.quakeworld.nu/forum/topic/7068/new-frogbots
+	(server side) not released?
 
 
 OUT OF SCOPE

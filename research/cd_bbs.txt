@@ -202,6 +202,8 @@ https://scenelist.org/
 https://scenelist.org/1996_08.html
 	QCPUP.ZIP
 		QCP Quake Patches
+		http://cd.textfiles.com/swextrav8/swextrav8-2/gamapog2/qcpup.zip
+	no bots
 https://scenelist.org/1996_09.html
 	BTHNT10.ZIP
 https://scenelist.org/1996_10.html
