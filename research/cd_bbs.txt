@@ -188,8 +188,6 @@ The Pier Shareware #10
 
 
 
-
-
 http://archives.thebbs.org/
 ------------------------------------
 	nothing...
@@ -201,30 +199,57 @@ SCiZE's CLASSIC WAREZ COLLECTION
 https://scenelist.org/
 
 
-
-- Eternal Darkness for Quake
-- Super Dead
-- QUAKE'EM - THE ULTiMATE QUAKE CD
-
+https://scenelist.org/1995_08.html
+	preview pics
+https://scenelist.org/1996_06.html
+	shareware
+	patches
+https://scenelist.org/1996_07.html
+	SUPERDEATH PACK FOR Quake (3 parts)
+		SUPQUA01.ZIP ... 03
+		qtest stuff i think
 https://scenelist.org/1996_08.html
 	QCPUP.ZIP
 		QCP Quake Patches
 		http://cd.textfiles.com/swextrav8/swextrav8-2/gamapog2/qcpup.zip
-	no bots
+		no bots
 https://scenelist.org/1996_09.html
 	BTHNT10.ZIP
+	AMF-QDW1.ZIP .. 2
+		DESIGN WIZZ COMPILATION FOR QUAKE
+		maps
 https://scenelist.org/1996_10.html
 	OBT-QLEV.ZIP (levels ?)
+		no bots
 	QLAB01.ZIP (7 parts)
+		lots of mods and maps
+		BOTSKN18.ZIP
+		REAPRB07.ZIP
 	Quake-set issue: oktober
 		Q_OKT01.ZIP ... 10
+		QUAKE ADD-ONs, readme says it has bots
+			BOTSKN18.ZIP
+			REAPRB07
 	BOTZQU01.ZIP and BOTZQU02.ZIP
 		BOTZ 'N STUFF FOR QUAKE
+			BOTSKN18.ZIP
+			REAPRB07.ZIP
+			SWBOT104.ZIP
+			ZEUS10.ZIP
+	MSKIN1.ZIP .. 4
+		bonus: player-bot ((( VERY INTELLIGENT )))
+		reaprb05
+	- Eternal Darkness
+	- QUAKE'EM - THE ULTiMATE QUAKE CD
 https://scenelist.org/1996_11.html
 	IRN-QT01.ZIP .. 34
 		Internet Relay Network: Toolkit for Quake
-	GIL-QC01.ZIP ... GIL-QC11.zip
-		QUAKE ADD-ONs
+		walnut creek archive, too early for bots i think, mid aug, first bot was late aug
+		no bots
+	GIL-QC01.ZIP ... GIL-QC11.zip (1 is missing?)
+		(early nov 1996)
+		DMBOT1.ZIP
+		TMBOT11.ZIP
 https://scenelist.org/1996_12.html
 	Quake: Dark Hour Addon
 	AFTERSHOCK for QUAKE
@@ -238,12 +263,12 @@ https://scenelist.org/1997_04.html
 
 https://scenelist.org/1997_05.html
 	na
-
-
-TODO (I want these)
-	SUPERDEATH PACK FOR Quake (3 parts)
-		https://scenelist.org/1996_07.html
-
+https://scenelist.org/1997_08.html
+	QuakeGL Rally
+https://scenelist.org/1997_11.html
+	SPECiAL FORCES QUAKE - TC FOR QUAKE
+https://scenelist.org/1998_07.html
+	KWIQ4001.ZIP
 
 
 dreamlandbbs

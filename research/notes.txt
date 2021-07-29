@@ -637,6 +637,8 @@ Killer QCBot
 	https://www.quaddicted.com/files/idgames2/quakec/bots/kqcbots095b.txt
 	https://www.quaddicted.com/files/idgames2/quakec/bots/kqcbots095b.zip
 	William 'Killer-Sub' Ravaine
+	http://heart.engr.csulb.edu/~thomason/bot/
+	https://web.archive.org/web/19980614160053/http://www.inside3d.com/nov12-nov13.shtml
 QCBot
 	https://web.archive.org/web/19990221085355/http://users.andara.com/~jdown/beta7.txt
 	Alan Kivlin
@@ -922,6 +924,8 @@ TFBots (coffee)
 		https://www.reddit.com/user/JLsoft/
 		contacted on reddit re older versions
 TFBot (RainKing / GentleMan / Hoerno/Nexus)
+	GentleMan, formerly known as RainKing
+		https://web.archive.org/web/19980614160135/http://www.inside3d.com/nov16-nov17.shtml
 	https://web.archive.org/web/20000831165233/http://planetquake.com/botshop/quake.html
 	http://www.planetquake.com/tfbot
 	https://web.archive.org/web/20000303070145/http://www.botepidemic.com/bots/quake.shtml
@@ -1673,6 +1677,12 @@ imbot
 frogbot + kt
 	https://www.quakeworld.nu/forum/topic/7068/new-frogbots
 	(server side) not released?
+Magenta's Reaper Bots Hack
+	https://web.archive.org/web/19980614160010/http://home.t-online.de/home/mag.enta/
+	https://web.archive.org/web/19980614160010/http://www.inside3d.com/nov08-nov09.shtml
+Kommando Kwake v2.10
+	https://web.archive.org/web/19980614160010/http://www.inside3d.com/nov08-nov09.shtml
+	reaperbots
 
 
 OUT OF SCOPE
