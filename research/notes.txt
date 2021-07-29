@@ -336,6 +336,8 @@ QuakeBot / WarBot / QBot
 	https://www.quakewiki.net/archives/botshop/news/quake-2.html
 	http://homer.pacific.net.sg/~grinder/warbot.htm
 	https://web.archive.org/web/20001207140300/http://homer.pacific.net.sg/~grinder/warbot.htm
+	https://web.archive.org/web/19980614160719/http://www.inside3d.com/dec18-dec19.shtml
+	warbot then quake bot extended it
 Xreaper (reaper bot)
 	http://www.rmbwenw.nl/botarea51/
 		https://web.archive.org/web/20010504230805/http://www.rmbwenw.nl/botarea51/

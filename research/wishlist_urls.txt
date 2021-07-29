@@ -148,10 +148,12 @@ http://www.parboil.newmail.ru/parboil/fbca86se.zip
 http://www.parboil.quakeworld.ru/parboil/fbma102_src.zip
 http://www.parboil.quakeworld.ru/parboil/frogbotmaps.zip
 http://www.parboil.quakeworld.ru/tappak/fbca102kt-rc1.zip
+http://www.ritual.com/shack_files/quakec/obots100.zip
 http://www.rmbwenw.nl/botarea51/files/xreaper/setup.exe
 http://www.telefragged.com/mirrors/mirror.pl?epidemic/frogbot012.zip
 http://www.telefragged.com/mirrors/mirror.pl?epidemic/frogbot012a.zip
 http://www.telefragged.com/mirrors/mirror.pl?epidemic/frogbot012b.zip
+http://www.telefragged.com/mirrors/mirror.pl?qnm/fbedit15.zip
 http://www.users.bigpond.com/clanslug/ClanV0.5Auto.zip
 http://www.users.bigpond.com/clanslug/ClanV0.6Auto.zip
 http://www.users.bigpond.com/clanslug/ClanV0.7HMan.zip
@@ -160,4 +162,4 @@ http://xmark.ausgamers.com/xkteams/xkteams1705s.zip
 http://xmark.ausgamers.com/xkteams/xkteams2.zip
 https://www.angelfire.com/pe/pent3/images/frogbot011.zip
 https://www.bluesnews.com/files/patches/bots/oak084.zip
-http://www.telefragged.com/mirrors/mirror.pl?qnm/fbedit15.zip
+
