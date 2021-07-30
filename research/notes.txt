@@ -296,6 +296,8 @@ Dark Bot / Darkbot
 	 	https://web.archive.org/web/19980614160345/http://www.inside3d.com/nov28-nov29.shtml
 	 Dark_Skye of Scrap Heap has released v0.13.8 of DarkBot
 	 	https://web.archive.org/web/19980614160658/http://www.inside3d.com/dec16-dec17.shtml
+	 v0.9
+	 	https://web.archive.org/web/19970605145825/http://www.cdrom.com/pub/idgames2/newstuff/
 DM Bot
 	https://www.gamers.org/pub/idgames2/quakec/bots/dmbot1.zip
 	basis for bg bot
@@ -661,6 +663,8 @@ Doombot
 	old versions:
 		ftp.cdrom.com/pub/quake/quakec/bots/doombot.zip
 		ftp.cdrom.com/pub/quake/quakec/bots/dmbt21b1.zip
+	https://web.archive.org/web/19970605145825/http://www.cdrom.com/pub/idgames2/newstuff/
+		doombot.zip 30-May-97
 bot skeleton
 	Roscoe A. Sincero AKA Legion
 	https://www.quaddicted.com/files/idgames2/quakec/bots/btsk23.txt
@@ -1517,7 +1521,10 @@ Quake Dodgeball
 	https://www.moddb.com/mods/quake-dodgeball/downloads
 	https://quakeone.com/forum/quake-talk/quake-central/7135-quake-dodgeball-now-up
 	http://www.quaketastic.com/upload/files/multiplayer/mods/Quake_Dodgeball_1.1_01.zip
-
+Lurkerz
+	https://www.dukeworld.com/idgames2/quakec/compilations/lrkrz_01.txt
+	https://www.dukeworld.com/idgames2/quakec/compilations/lrkrz_01.zip
+	extends dm bot
 
 
 
@@ -1709,6 +1716,9 @@ Decoyz
 	http://cd.textfiles.com/swextrav8/swextrav8-2/gamapog1/decoyz.zip
 	also on the power tools cd...
 	Sam Shockey
+	decoyz2.txt
+	http://cd.textfiles.com/pdsl/HELP/GAMERTK.TXT
+	also in cdrom.com all .txt files from archive.org
 imbot
 	https://web.archive.org/web/19961221053200/http://www.gamesmania.com/english/quake/quakec.htm
 	Automated helper Bot
@@ -1736,14 +1746,16 @@ Ultimate Quake Mod
 QCAP v2.0
 	all kinds of bots
 	https://web.archive.org/web/19980614160345/http://www.inside3d.com/nov28-nov29.shtml
-Lurkerz
-	https://www.dukeworld.com/idgames2/quakec/compilations/lrkrz_01.txt
-	https://www.dukeworld.com/idgames2/quakec/compilations/lrkrz_01.zip
-	extends dm bot
-
-
-
-
+cujgrap
+	extends cujo
+	https://www.dukeworld.com/idgames2/quakec/compilations/cujgrap.txt
+	https://www.dukeworld.com/idgames2/quakec/compilations/cujgrap.zip
+killer90
+	adds cujo bots
+	https://www.dukeworld.com/idgames2/quakec/compilations/killer90.txt
+kal_qk-s
+	adds wisp
+	https://www.dukeworld.com/idgames2/quakec/compilations/kal_qk-s.txt
 
 
 OUT OF SCOPE

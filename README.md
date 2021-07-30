@@ -44,10 +44,10 @@ Bot Name | Bot Author(s) | File
 Accuracy FMOD | Algirdas Kepezinskas aka "ZeCybEr" | accuracy.zip
 Ache | Athos Konkoran Kryn | [ache.zip](bin/ache.zip)
 Asdf's FMOD | Matt McChesney aka "asdf" | [asdfmod100.zip](bin/asdfmod100.zip)
-Attacker | Jonathan Geary | [attacker.zip](bin/attacker.zip)
+Attacker | Jonathan Geary | [attacker.zip](bin/attacker.zip) ([txt](bin/attacker.txt))
 BGADM Bot | "Detour" | [bgadm101.zip](bin/bgadm101.zip) ([txt](bin/bgadm101.txt))<br>bgadmbot.zip
 BGBot | Robert DeFilippo III aka "Punisher" | [bgbot20a.zip](bin/bgbot20a.zip) ([txt](bin/bgbot20a.txt))<br>[bgbot16.zip](bin/bgbot16.zip) ([txt](bin/bgbot16.txt))<br>[bgbot16_src.zip](bin/bgbot16_src.zip)<br>[bgbot15.zip](bin/bgbot15.zip) ([txt](bin/bgbot15.txt))<br>[bgbot13.zip](bin/bgbot13.zip) ([txt](bin/bgbot13.txt))<br>[bgbot125.zip](bin/bgbot125.zip) ([txt](bin/bgbot125.txt))<br>[bgbot12.zip](bin/bgbot12.zip) ([txt](bin/bgbot12.txt))<br>[bgbot11.zip](bin/bgbot11.zip) ([txt](bin/bgbot11.txt))<br>[bgbot1.zip](bin/bgbot1.zip) ([txt](bin/bgbot1.txt))
-Borg Bot | Calvin Rien | [borg12.zip](bin/borg12.zip)
+Borg Bot | Calvin Rien | [borg12.zip](bin/borg12.zip) ([txt](bin/borg12.txt))
 Bot Hunt | Douglas H. King aka "Sea4" | [bthnt10.zip](bin/bthnt10.zip) ([txt](bin/bthnt10.txt))
 Bot Player (BPlayer) | Wolfgang Lehrach aka "Wolf" | [bplayer2.zip](bin/bplayer2.zip)<br>bplayer1.zip ([txt](bin/bplayer1.txt))
 BotArena | Fabiano D. Amorim aka "Vegetous" | [botarena.zip](bin/botarena.zip)<br>[bt_scr.zip](bin/bt_scr.zip)
@@ -55,10 +55,10 @@ BotSkin | "WACko" | [btskn22.zip](bin/btskn22.zip) ([txt](bin/btskn22.txt))<br>[
 BrBot | "DRaKuLL" | [brbot.7z](bin/brbot.7z) <br>[brbotqc.zip](bin/brbotqc.zip)<br>brbot.exe
 BuddyBot | "Parsec" | [bbot_b1.zip](bin/bbot_b1.zip) <br>[bbot_b11.zip](bin/bbot_b11.zip)
 ClanBots | "slug" | clanv0.7hman.zip<br>clanv0.6auto.zip<br>clanv0.5auto.zip
-Cronos Bot | "Cronos" | [hd_cbots_hd.zip](bin/hd_cbots_hd.zip)<br>[hd_cbots.zip](bin/hd_cbots.zip)<br>[hd_pak0.zip](bin/hd_pak0.zip)<br>[hd_progs.zip](bin/hd_progs.zip)<br>[cronobot107a.zip](bin/cronobot107a.zip)<br>[cbotpak106.zip](bin/cbotpak106.zip)<br>[cronobot101.zip](bin/cronobot101.zip)
-CTF Bot | Drew Davidson aka "BZ" | [ctfbot13b1.zip](bin/ctfbot13b1.zip)<br>ctfbot13.zip<br>[newctf12.zip](bin/newctf12.zip)<br>[ctfbot12.zip](bin/ctfbot12.zip)<br>[ctfbot11.zip](bin/ctfbot11.zip)
+Cronos Bot | "Cronos" | [hd_cbots_hd.zip](bin/hd_cbots_hd.zip)<br>[hd_cbots.zip](bin/hd_cbots.zip)<br>[hd_pak0.zip](bin/hd_pak0.zip)<br>[hd_progs.zip](bin/hd_progs.zip)<br>[cronobot107a.zip](bin/cronobot107a.zip)<br>[cbotpak106.zip](bin/cbotpak106.zip)<br>[cronobot101.zip](bin/cronobot101.zip) ([txt](bin/cronobot.txt))
+CTF Bot | Drew Davidson aka "BZ" | [ctfbot13b1.zip](bin/ctfbot13b1.zip)<br>ctfbot13.zip<br>[newctf12.zip](bin/newctf12.zip)<br>[ctfbot12.zip](bin/ctfbot12.zip) ([txt](bin/ctfbot12.txt))<br>[ctfbot11.zip](bin/ctfbot11.zip)
 CTFBot+ | Anthony Distler aka "*this" | [ctfbotp032399.zip](bin/ctfbotp032399.zip) <br>[ctfbotmw21.zip](bin/ctfbotmw21.zip)<br>[ctfbotp071498-upgrade.zip](bin/ctfbotp071498-upgrade.zip)<br>[ctfbotp071498u.zip](bin/ctfbotp071498u.zip)<br>[ctfbotp070498.zip](bin/ctfbotp070498.zip)<br>[ctfbot_060298.zip](bin/ctfbot_060298.zip)
-Cujo | Jonathan E. Wright | [cujo14.zip](bin/cujo14.zip)<br>[cujo13.zip](bin/cujo13.zip) ([txt](bin/cujo13.txt))<br>cujo12c.zip<br>cujo12b.zip<br>cujo12a.zip ([txt](bin/cujo12a.txt))<br>cujo12.zip<br>cujo11.zip<br>[cujo10.zip](bin/cujo10.zip) ([txt](bin/cujo10.txt))
+Cujo | Jonathan E. Wright | [cujo14.zip](bin/cujo14.zip) ([txt](bin/cujo14.txt))<br>[cujo13.zip](bin/cujo13.zip) ([txt](bin/cujo13.txt))<br>cujo12c.zip<br>cujo12b.zip<br>cujo12a.zip ([txt](bin/cujo12a.txt))<br>cujo12.zip<br>cujo11.zip<br>[cujo10.zip](bin/cujo10.zip) ([txt](bin/cujo10.txt))
 Dark Frogbot | "Pinsolle" | darkfrog.zip
 Darkbot | Terry Hendrix aka "Dark_Skye" | [darkbot-fnl-q2.tar.gz](bin/darkbot-fnl-q2.tar.gz)<br>[darkbot_0.13.9-pak.zip](bin/darkbot_0.13.9-pak.zip)<br>[darkbot_0.13.9-src.zip](bin/darkbot_0.13.9-src.zip)<br>drkbt013.zip<br>[drkbt11b.zip](bin/drkbt11b.zip)<br>darkbt10.zip<br>darkbt09.zip<br>[darkbt07.zip](bin/darkbt07.zip)<br>drkbot04.zip ([txt](bin/drkbot04.txt))<br>[drkbot03.zip](bin/drkbot03.zip) ([txt](bin/drkbot03.txt))<br>[darkbt01.zip](bin/darkbt01.zip)<br>[darkbotx.zip](bin/darkbotx.zip)
 DarkCTF Bot | Terry Hendrix aka "Dark_Skye" | [darkctf13.zip](bin/darkctf13.zip)

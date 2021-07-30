@@ -1,0 +1,335 @@
+
+Title    : norse_movetogoal functions (bot demos and code)
+Filenames: btmv31.zip, botmove.zip
+           botmove.zip contains additional demos
+
+           READ THE EXTRACTION DIRECTIONS!!!!
+           Zeus demos require files in the progs subdirectory.
+
+Version  : 0.31
+Date     : July 3, 1997
+Author   : Roscoe A. Sincero
+Email    : legion@keg.zymurgy.org 
+
+           legion@nether.net address is difficult for me to use since
+           the nether.net system goes down from time to time.  To ensure
+           that I receive your message please send the e-mail to
+           legion@keg.zymurgy.org and *NOT* to legion@nether.net.
+
+           As of the last week of June, nether.net lost one of its major
+           hard-drives.  It is still down.
+
+           legion@gaianet.net will no longer be working starting
+           June 15th--the account will be deactivated.  My own connection
+           to the internet is quite flaky (just like nether.net's) but
+           even if I'm not connected, zymurgy.org will *STILL* receive
+           your e-mail.  It just may take some time before I read them.
+           I believe I lost some e-mail on my nether.net account since that
+           system goes down for whatever reason.  The zymurgy account is
+           more stable and reliable.
+
+
+Moniker  : "I Cause Lags!"
+Credits  : ID for making Quake, although they need to
+           improve on the language QuakeC greatly.
+         
+           Cameron Newham of the Eliminator Bot v1.4
+           Jonathan E. Wright of Cujobot v1.4 and Zeus v2.05
+           Punisher for BGBot v1.6
+           Carson Sutton for Roambot
+
+Misc     : This package contains eleven files plus this text file.  The
+           source code for the new movetogoal function is contained in the
+           file botmove.qc.  The instructions to use this function can be
+           read from the source.  Eight demos are included comparing
+           Zeusbot's movement to BGBot's using the new movetogoal function.
+           A demo of roambot using the new function is also included
+           as well as a demo of the Reaperbot showing the difficulties
+           it has in moving for a total of ten demos.
+
+
+============
+Type of Mod
+============
+
+Quake C  : yes, of course.
+Sound    : no
+MDL      : no
+
+
+==================
+Format of Quake C
+==================
+
+unified diff  : yes, no, maybe.  I would tell you if I knew what this was.
+context diff  : yes, no, maybe.  I would tell you if I knew what this was.
+.qc files     : yes
+progs.dat     : no
+progs.dat size: n/a, compile it with your bot source.
+
+
+===============================
+Description of the Modification
+===============================
+This mod provides an alternative function to ID's movetogoal function.  This
+will allow any bot to swim, move on broken ground, jump over gaps and other
+"tricks" that the original movetogoal function could not do.  In short, if
+you are making a bot, this new function will give an appearance that your
+bot is intelligent.  Unlike most other bots, this new function will allow
+your bot to move in one direction while facing another.  The roambot demo
+features this ability.
+
+INSTRUCTIONS to use the new function is included in the source, botmove.qc.
+This means that you will need to read the file called botmove.qc to learn
+how to use the new function, norse_movetogoal.  There are also COMMENTS
+used throughout the source.  It is assumed that you will read them.
+
+With a new movement code, fellow bot creators can now concentrate fully on
+making the next generation of bot AI.  Imagine a bot that can both learn
+a level (eg. reaper) AND be already knowledgeable of selected levels (eg.
+eliminator) while at the same time not lose its ability to roam around a
+map randomly (eg. roambot) when it already has all it needs.  Now bot
+creators can concentrate on making such bots and don't have to worry about
+movement (as much).
+
+The movement code WAS DESIGNED FOR BOTS THAT ARE THE SAME SIZE AS PLAYERS.
+It will not work properly with monsters.  You will need to modify the code
+to use this with most monsters and you will need to modify the monster's
+AI as well.  The new movement will allow monsters, for instance, to walk
+over ledges and into slime.  The movement code does not check for slime,
+only lava.  Bots can jump into slime to chase players or jump into slime
+because it needs to (eg. E1M1 to get to the grenade launcher room).
+
+=====
+Demos
+=====
+There should be ten demos included in the package.  Four demos of Zeus bot
+moving around on maps START, E1M2, E1M5, and E1M8.  The next four demos is
+BGBot moving around on the same four maps.  The order of viewing is very
+important.  Please look at the Zeus demos first.  The version of Zeus being
+tested is version 2.05.  This version of Zeus allows it to DROWN unlike the
+previous versions.  The last time I looked at Zeus, apparently I had the
+old version and the latest version switched.  Drowning is not tested since I
+already know that part works and works well.  The roambot demo features the
+bot's ability to move in one direction while facing another.  Yes, roambot
+is also using the new norse_movetogoal v0.31 function.  A demo of the
+reaperbot having difficulty walking in the rocket launcher corridor of the
+START map is also shown.  The bot uses ID's own movetogoal function which is
+why it has trouble walking on "broken ground".
+
+KEEP IN MIND that the performance is heavily depended on the AI of the bot.
+I only added the new movement code to the BGBot and Roambot.  I've taken
+out the bot's ability to attack and added the WaterMove function but I did
+not make any other changes. A new movement code is obviously worthless if
+the bot makes it a habit to launch itself into trouble all the time.
+Imagine the reaperbot being able to move on broken ground and jump over gaps
+better.  The reaperbot does, however, have the ability to jump out of the
+water on the START map.  It seems not to have the same amount of trouble that
+Zeus has.  I didn't show this since it took a while for the bots to get into
+the water.  They were too busy fighting each other.  So not all of Zeus'
+movement is better than the Reaper's.  BGBot, if you don't know already,
+likes to jump alot.  Jumping is the only way BGBot can get to the lightning
+gun on the START map.  That was programmed into the AI.  Again, I can not
+stress this enough.  I only added the new MOVEMENT.  That is, I removed all
+instances of movetogoal and replaced them with norse_movetogoal.  The AI of
+the bots have not changed except for the attacking and WaterMove.  It does
+not attack and it can drown in water and die in lava.   BGBot in the demos
+are still programmed to jump around if it doesn't have any enemies or doesn't
+see any enemies.
+
+Note for on ZEUS1.DEM.  On the map E1M2 while Zeus is in the water which is
+about waist high, pay attention to the splashing sounds when I was not in
+the bot's view.  I gave a reason for that splashing sounds.  Now recall
+where the nailgun is.  Did you hear a weapon pickup sound when I finally
+caught up with the bot?  So I am asking you: can you pick up the gun while
+you are in the water?  Apparently, some of Zeus' movement have been
+augmented--that is, it is stronger, faster, better than players'.  He is
+bionic.:)  But then, you will also see Zeus jumping over a gap and not
+making it.  Apparently, his bionics failed him.:)
+
+The Zeus bot sounds in the demos will seem odd and different.  The reason
+is that I did not include all the files for Zeus.  I only included enough
+files to allow you to view the Zeus demos.  So for ZEUS3.DEM, you will hear
+a lot of thud sounds on the map E1M8.  Jonathan E. Wright simply made a
+new *.wav for the demon thud sounds which removed the thud, I think.  This
+is contained in the *.pak file for Zeus which is NOT included in this
+package.  You can do the SAME thing for your bot if you don't want the thud
+sounds.  The skin that Zeus is using depends on the skins contained in YOUR
+player.mdl file.  Since I didn't include any new sounds, you will get errors
+saying that xxx was not loaded. Ignore the errors and watch the demo.  All
+the *.spr files are the plasma sprites used for the plasma gun.
+
+================
+General Comments
+================
+Why Zeus?  Doombot and Zeusbot are the only two bots with its own movetogoal
+function.  QCBot, Armageddon multibot project, and Oakbot with the new
+norse_movetogoal function are still in development.  So why pick Zeus and
+not Doombot?  First, nobody has tried doombot v0.21b3.  Okay, few people
+have tried but not many.  Zeus bot averages about 22 downloads a day.  So
+this means that 22 new people are trying out the bot everyday.  I am lucky
+to get 20 people TOTAL to try out Doombot.  Therefore, most people have
+heard about Zeusbot.  It would be silly to test out a bot that nobody has
+seen before.  Second, Zeus bot is rated a 10/10 by QuakeC Archive at Planet
+Quake.  It would be a good thing to compare the new movement code with the
+"best" bot out there (in terms of MOVEMENT, not AI).
+
+Yes, I am the creator of Doombot v0.21 beta 3.  You can download the bot
+at http://www.gameaholics.com/ (Quake Domain).  Look in the bots directory
+of the files section.  v0.21 beta 3 of Doombot does *NOT* feature the new
+norse_movetogoal.  But if you want to see a movement code in its infancy,
+check it out.  It rivals Zeus in many ways.  Doombot also features Cujo and
+a grappling hook which it uses.  And yes, the bots can have their own dog.
+It offers eliminatorbot roaming on modified maps and roambot roaming on
+normal maps.  It moves while attacking, too so this is not simply a
+eliminatorbot/roambot hack.  In "roambot" mode, it presses buttons,
+recognizes doors and shoots doors and buttons that need to be shot to open
+or to activate.
+
+Doombot, if you can't figure it out, is a bot for Quake which is written in
+QuakeC.  So download the bot today and test it out. <end plug>
+
+
+===========
+Extractions
+===========
+You will need to create a directory for "botmove" (you can use your own
+directory name).  This directory will hold all the demos.  Also in this
+directory is a sub-directory called progs.  This will hold all the *.spr
+files needed to view the Zeus demos.  So the directory structure should
+look like the following:
+
+
+   Quake                                  (directory name)
+      ---> ID1                            (directory name)
+      ---> botmove                        (directory name)
+            botmove.qc                    (file name)
+            zeus0.dem                     (file name)
+            zeus1.dem                     (file name)
+            ...                           (etc...)
+            ---> progs                    (directory name)
+                  s_plasma.spr            (file name)
+                  hud_stat.spr            (file name)
+                  ...                     (etc...)
+ 
+
+==========================
+What's New v0.30 --> v0.31
+==========================
+   - bot will now back up in water if the enemy is too high just like it
+     would on land.  It won't back up, however, if bot is practically
+     underneath the target already.  The tendency, however, is to move
+     forward so eventually it will be under you.
+   - in previous version, bot did not make too many splash sounds when bot
+     is roaming around by itself.  However, excessive splash sounds were
+     present when target has been selected (eg. self.enemy != world).  Bot
+     no longer makes excessive splash sounds.
+   - bot will now back up if the live goal is the owner of the bot AND it
+     is too close to the bot.  This is for those of you thinking of making
+     a helper bot.  This feature is not present for bots NOT owned.
+   - you can now select the speed of bot using the variable .speed.  As
+     long as self.speed is greater than -1, the bot will move at the speed
+     you specified.  Some bots (like the one for Team Fortress) need to
+     move at different rates depending on the class.  Now norse_movetogoal
+     is more compatible for bots such as that.
+   - you can now specify the direction using the variable .movedir.  If
+     self.movedir is set to '0 0 0', then the bot will move in either the
+     direction of its goal or the direction it is currently facing if
+     self.goalentity is not set.  If self.movedir is set to something other
+     than '0 0 0', the bot will move in that direction instead.  Keep in
+     mind that this is a VECTOR which has both direction and magnitude.
+      - this is useful if you plan to add strafing and other fighting
+        tactics to the bot.  You no longer have to reset goalentity or
+        self.enemy or use walkmove.  The bot, for instance, can now choose
+        to back up from enemy so it can fire its rocket launcher without
+        setting a new goal or using walkmove.
+      - to use self.movedir, you MUST specify goalentity.  Otherwise,
+        by default, the bot will move in the direction it is facing.
+   - included unused code for detecting traps.  It includes code to determine
+     if the bot is heading towards a trap.  This same code can be used
+     to determine if the bot is heading towards a grenade.  Coupled with
+     the new ability to set self.movedir, your fighting AI should now be
+     improved.  Previous bots do what I call "blind strafing".  It knows
+     that a grenade is nearby so it strafes but it doesn't know which
+     direction to strafe.  Everything is in botmove.qc.
+
+
+==========
+Tech Notes
+==========
+If you don't set the goal (ie. self.goalentity = world), then the bot will
+move in the direction it is currently facing.  This means that you can
+control the bots movement by simply specifying the values for the vector
+self.angles.  This should make norse_movetogoal versatile.  Specify the
+goal and the bot will move towards it and it doesn't matter what direction
+it is facing.  Specify a goal and a direction for self.movedir, then the bot
+will move according to the directions specified in self.movedir and the
+direction it is facing doesn't matter.  If you don't specify a goal, the bot
+will move in the direction it is currently facing which is controlled by the
+vector self.angles.  That is three ways to move the bot.
+
+
+=============
+Availability
+=============
+
+You can find this patch at the following URLs:
+
+a) ftp://ftp.cdrom.com/pub/quake/quakec/bots
+
+b) <on my homepage when I get a new ISP>
+
+================
+About the Author
+================
+
+Quake enthusiast who hasn't played a deathmatch game in months.  Graduate
+of University of Maryland at College Park with a degree in Chemical
+Engineering.  What else do you want to know?  Oh, I'm male, heterosexual;
+5 feet 8.5 inches, weigh about 165 to 170 pounds (depends on whether or
+not I just took a dump); likes women; does not like Pat Robertson/
+Pat Buchanan/Newt Gingrich/fundamentalist/"fundamentalist friendly" clones;
+despise censors especially censors who claim not to be against free speech or
+who are for "responsible" speech; should start working out again (stopped
+working out April 1993); drives a Blue dodge omni with over 100,000 miles on
+it and a left, rear-wheel that almost fell off just a couple of weeks ago;
+gets a haircut about twice a year; changes socks every leap year and brushes
+teeth [tooth] almost as often.
+
+"You don't REALLY need toilet paper for that; just use your hands and scrape
+it off."
+
+"You shouldn't camp with a rocket launcher aimed at your back."
+
+"Why do you camp in the middle of a large room?"
+
+"Why do you try to camp in the shadows when you have the Quad?"
+
+"I have a rocket launcher with 15 rockets; 140+ health; 150 armor, Quad, and
+Invulnerability.  You have 100 health, 25 shells and a shotgun.  Why
+do you insist on attacking me?  Is it really possible for me to get all this
+on E1M1 while camping?"
+
+"I play Quake using my instincts.  Yes, I am born being able to use a
+rocket launcher and a lightning gun while simultaneously hooking another
+poor soul with my grappling hook."
+
+"Bots are 100% accurate using the shotguns.  They could be even more accurate
+if they didn't miss sometimes."
+
+=========================
+Copyright and Permissions
+=========================
+
+Authors MAY use this modification as a basis for other PUBLICALLY
+available work on the condition that the work is *FREE* to all who
+wish to use it.  If you add this modification to your work, for
+instance in a compilation, make sure you provide credit where credit
+is due. 
+
+You may distribute this modification in any format except via CD-ROM
+as long as all accompanying files including this text file are unmodified
+and remain intact.
+
+Please read source for additional restrictions and permissions.
+

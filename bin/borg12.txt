@@ -1,0 +1,45 @@
+Quake vs. The Borg
+
+RESISTANCE IS FUTILE...
+
+so you might as well check it out.
+
+Impulse 100 creates one Borg; you can use this command twice on a level.
+Should be used in a Coop or Deathmatch level.
+
+The AI is based on BGBot1.5, so they ain't too bright.  They will still
+manage to assimilate you though.  I am posting this as a fat pak0.pak file
+because it contains some .mdl and .wav files in there as well.
+
+There are quirks, but shouldn't be anything fatal.  Also when there are 
+alot of Borg the server will get bogged down.
+
+Experiment and have fun.
+
+This is version 1.2, below is a list of fixes and additions:
+
+1.  Will work for people using Quake v1.01 (Oops!!)
+2.  Contains support for multiple player skins.
+	Impulse 201 Down one skin
+	Impulse 200 Up on skin
+	Impulse 199 Query what skin you are using
+3.  Will remember which skin you are wearing between level changes.
+4.  Site to site transport feature:
+	Impulse 151 through Impulse 154, sets transport location
+	Impulse 101 through Impulse 104, transports to set location
+5.  Star Trek sound effects for the new weapons.
+6.  Borg speak with a collective voice (really cool when there's a bunch of 
+them in a room).
+7.  Will adapt to the nail gun properly
+8.  Works pretty cool with coop games.  Borg hunt the grunts on the level 
+and assimilate them.
+
+I think that's all of them.  Remember, to install it, put the pak0.pak file in a 
+folder called Borg and use the command line "Quake -game Borg."  To spawn a borg 
+use impulse 100;  and incase you didn't know already impulse 12 cycles you backwards 
+one weapon.
+
+Calvin Rien
+
+send questions, comments, problems to maximum@wco.com 
+(not my email address, but he'll forward it).

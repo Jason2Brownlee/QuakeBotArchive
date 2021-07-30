@@ -1,0 +1,355 @@
+
+Title    : Bot Skeleton v0.23
+Filenames: btsk23.zip
+
+Version  : 0.23 
+Date     : July 22, 1997
+Author   : Roscoe A. Sincero
+Email    : legion@keg.zymurgy.org 
+
+           legion@nether.net address is difficult for me to use since
+           the nether.net system goes down from time to time.  To ensure
+           that I receive your message please send the e-mail to
+           legion@keg.zymurgy.org and *NOT* to legion@nether.net.
+
+           As of the last week of June, nether.net lost one of its major
+           hard-drives.  It is still down.
+
+           legion@gaianet.net will no longer be working starting
+           June 15th--the account will be deactivated.  My own connection
+           to the internet is quite flaky (just like nether.net's) but
+           even if I'm not connected, zymurgy.org will *STILL* receive
+           your e-mail.  It just may take some time before I read them.
+           I believe I lost some e-mail on my nether.net account since that
+           system goes down for whatever reason.  The zymurgy account is
+           more stable and reliable.
+
+
+Moniker  : "I Cause Lags!"
+Credits  : ID for making Quake, although they need to
+           improve on the language QuakeC greatly.
+         
+           Cameron Newham of the Eliminator Bot v1.4
+           Jonathan E. Wright of Cujobot v1.4 and Zeus v2.05
+           Punisher for BGBot v1.6
+           Alan Kivlin of QCBot for his detailed instructions on how
+               to get the bots on the rankings and his accompanying
+               source code to add bots to rankings.  His code to
+               count max number of clients as well as remove bots
+               from game were also used.  The notion to set .watertype
+               equal to zero at StartFrame function was also his.
+           Andrew B. Davidson for New CTF Bot v1.2
+           Dark_Skye of Darkbot v0.11d and ghost of Femplayer v2.5
+               for the female sounds.
+           Steven Polge for Reaperbot v0.81 (for rpbot0.dem)
+
+Misc     : This package contains the source code for a skeleton code
+           to help you make your own bot.  The only thing missing
+           from the code is its own AI.  However, this is a working
+           skeleton code.  I inserted a portion of BGBot's AI into
+           the code.  (The bot will NOT search for items.)  It is
+           assumed that you will add in your own AI and remove BGBot.
+           Or if you wish, you can add the remaining portions of 
+           BGBot's AI so it can search for items.  Just because it
+           can't search for items like health or armor, don't assume
+           it can't pick these items up by accident or that they
+           can't fight very well.  (See attack.dem)
+
+           
+============
+Type of Mod
+============
+
+Quake C  : yes, of course.
+Sound    : no
+MDL      : no
+
+
+==================
+Format of Quake C
+==================
+
+unified diff  : yes, no, maybe.  I would tell you if I knew what this was.
+context diff  : yes, no, maybe.  I would tell you if I knew what this was.
+.qc files     : yes
+progs.dat     : no
+progs.dat size: n/a, you will need to compile it.
+
+==========================
+What's New v0.22 --> v0.23
+==========================
+   - added minor trap avoidance code.  Bot will attempt to avoid traps
+     that shoot from ceiling.  (See bge1m5.dem)
+   - completely reworked jump ai.
+      - it will even predict whether or not the bot (or player) can
+        make a jump.  Prediction is upto 32 frames ahead.  Prediction
+        does take into account gravity.  (See traj1.dem for a sample.)
+   - major modifications for walking/running with waterlevel 1 or less
+      - walking on steps is now smoother
+   - removed splashing sounds (See bgstart.dem, bge1m2, bge1m5.dem)
+   - showed more strafing examples (See bgstart.dem, bge1m1.dem)
+   - added lag simulation for players only.
+      - impulse 40 decrease ping, impulse 41 increase ping
+      - simulation is not perfect
+         - upward velocity while swimming in water is not lagged
+         - shooting is not lagged although AIMING is
+      - simulation is for those of you who wish to practice deathmatch
+        against a LPB (low ping bot)
+
+===============================
+Description of the Modification
+===============================
+This package contains the latest copy of my norse_movetogoal function.
+The version number is v0.32.  The instructions to use this new movement
+is contained in the botmove.qc file.  Please read the file.
+
+The skeleton package (minus the AI, of course) will allow your bot to:
+   a) move on broken ground, swim, jump over gaps, etc.  (See demos).
+   b) male and female bots are supported as well as male and female
+      skins.  The female sounds are included in the package.  You will
+      need to supply your own skins.  Read the source for more important
+      information regarding skins.
+   c) your bot will move while attacking.
+   d) random names for bots.  Real names are used, not like Reaper7skill3
+      or something like that.  
+   e) classes are supported.  Currently, two classes are in use.  You will
+      need to create more if you want.  Fighters and Original Quake
+      soldiers are the two classes.
+   f) Thud reduction code.  The bot is far less likely to make the thud
+      sounds now.  Zeus bot requires you to have a new demon wav sound
+      file to remove the thuds.  This package will allow you to have a
+      bot that is unlikely to make thud sounds.  However, the faster the
+      bot moves, the more likely the sound will occur, especially if
+      bot was shot straight up into the air from a rocket blast.  This
+      is all done using QuakeC, so no new wav file is needed.
+   g) circle strafing without using walkmove is used as well as normal
+      strafing (again without using walkmove).
+      - you will need to modify values for constant in strafing code
+        if you want the bot to fight better.  In addition, you will
+        need to add code so that the bot can avoid grenades, rockets,
+        and other such things.
+   h) bots use all eight weapons well including the axe
+   i) backpacks contain *ALL* the weapons the deceased had.
+   j) a message of the day is included.
+   k) Deathmatch settings are supported.  Deathmatch variable is a bit
+      variable.
+         1 - normal Quake rules
+         2 - items don't respawn
+         4 - axe only DM
+         8 - Fighters only DM
+         16 - health in backpacks
+         64 - humans vs. bots (well, bots won't attack each other)
+
+
+      NOTE: Fighters in Fighters-ONLY DM games are different from
+            normal fighters.  The range for the axe as well as the
+            maximum damage from the axe have been reduced to add
+            some balance to the game.  Axe from fighters are DIFFERENT
+            from normal axe used by Quake soldiers.
+
+   l) weapons modified so that shootable doors, etc. don't bleed
+   m) skill levels for bot's yaw speed, aiming, movement speed (if you
+      don't specify the speed yourself), strafing abilities and pain
+      frame use.  Skills range from zero to three.  Yes, this means that
+      skill 1 bots can miss with their shotguns from close range but
+      don't expect the bot to miss often.  I suggest that you MOVE around
+      to make it more likely that the bot will miss.
+   o) bot suffers from weapon hit momentum like real players so you
+      can bounce them around now with your rocket launchers
+   p) bot's pitch is +/- 45 degrees.  So players can see the bot looking
+      up or down.  However, it's AIMING pitch is +/- 80 degrees.  The
+      bot's yaw and aiming yaw are identical.  This is roughly the same
+      as real players.  Maybe 45 degrees is too high.  It could be 35
+      degrees, I don't know.  Play around with the value until you get
+      a more realistic view of the bot's body.  Since a real player can
+      not shoot straight up or down, the aiming pitch can not be +/-
+      90 degrees, it is more like +/- 80 degrees.
+   q) And thanks to Alan K., the bots show up on rankings.
+  
+
+=====
+Demos
+=====
+There are 8 demos showing off the new movement and reduction of thud sounds.
+In addition, four demos of Zeus bot is also provided.  The final demo is a
+demo showing the reaperbot on START map.  It is basically a "demo fodder"
+showing the bot's dislike for walking on broken ground.  The zeus demos and
+the reaperbot demo were all taken from btmv31.zip.  All the demos were
+recorded on a 100MHz Sager laptop.  So the quality of animation may not be
+as good as a demo recorded on a P200 machine.
+
+Attack demos are demos of BGBot in action attacking me.  I had to cheat a few
+times to allow you to see what the bot can do when you (the target) don't
+move too much and are basically stationary.
+
+The demos speak for themselves.  Zeus bot movement is not as good as
+a bot using norse_movetogoal.  The reaperbot can't even be considered.
+It is worthy to note that the Zeus bot is able to obtain the super nailgun
+by jumping out of the water on E1M2.  Apparently, Zeus bot is bionic.
+Unfortunately for Zeus, his bionics failed him when he tried to jump from
+one ledge to another on the same map.  Moreover, Zeus moves like Jesus--he
+can jump up and down while on top of water!
+
+The demos are played in a specific order.  You will see the zeus demos first
+followed by BGBot with the new movement code.  You will see the improvements
+made from Zeus (Jan '97) to BGBot (July '97).
+
+Only a maximum of 8 demos can be in the demo loop.  So you'll need to type
+"playdemo bge1m8", "playdemo rpbot0", "playdemo attack", "playdemo attack1"
+and "playdemo attack2" at the console to play the last five demos.
+
+The zeus demos require that the *.spr files be placed in the progs
+subdirectory containing this patch.  Visit http://www.planetquake.com
+for instructions on how to install patches if you:
+   a) do not know what a subdirectory is
+   b) do not know what it means when one says to unzip the patch into
+      its own directory in the Quake directory
+   c) do not know how to create any directories or even go into one
+   d) do not know how to use the pkunzip program so that all the
+      files are placed in the proper subdirectories
+   e) do not know where to unzip the patch
+
+I only included enough files to play the Zeus demos.  You will see error
+messages telling you that certain sound files were not loaded.  Ignore
+them and watch the Zeus bot lose the war on movement.  You should hear the
+excessive splashing sounds made by Zeus and the thud sounds.  All the *.spr
+files are actually bubbles, these are not the original *.spr for Zeus.
+
+I should note that you can not bounce the Zeus bot around like you can
+with real players.  See bgstart.dem for an example of a bot being bounced
+around with a RL.
+
+================
+Impulse commands
+================
+If you wish to compile the program right away to test out the skeleton code
+with the partial BGBot AI, then the following impulse commands will be
+useful to you:
+
+   impulse 20  Spawn a male bot
+   impulse 21  Spawn a female bot
+
+================
+General Comments
+================
+You are encouraged to add your AI into the code.  Please name your bot
+package to something OTHER than Doombot or Norsebot.  Major portions
+of the message of the day should not be modified.  Simply follow the
+instructions provided in the source.  You will need to compile the included
+source if you wish to try out the package right away.
+
+The movecode has been "tweaked" for doombot.  For your bot, you will need
+to modify some of the values used in botmove.qc to make your bot move
+as smoothly as possible.  
+
+Yes, I am misusing the word "skeleton".  This package contains too many
+things to be called a "skeleton".  However, I could not think up a better
+name.
+
+Now some of you may be wondering why am I picking on Zeus?  Well, Zeusbot is
+rated by the QuakeC Archives as 10/10 while the Reaper is rated 7/10 below
+the CTFBot (9/10) and Karnagbot (8/10).  In addition, the Zeusbot is the ONLY
+bot (besides Doombot) that uses its own movement code.  Nobody has heard
+about Doombot so it would be silly to show demos of Doombot.  According to
+Quake Domain (http://www.gameaholic.com), Zeus gets roughly 22 downloads per
+day.  This means that 22 new people are trying out the Zeusbot.  I am lucky
+to get 20 people TOTAL to try out the Doombot.  Zeusbot is THE most popular
+bot that features its own movement code.  Reaperbot is the most popular bot
+(as well as being the best bot) when you want to discuss AI but when it comes
+to movement, the Zeus is #1 in that category.  (Alan Kivlin's QCBot which
+also has its own movement code has not been released.  The demos show that
+the movement is MUCH smoother than ANY BOT out there.  However, like I said,
+the bot is not released.)  Thus, the smart thing to do is to compare this new
+package containing the new move code with the best bot that is currently out
+there--Zeus.
+
+
+==========
+Disclaimer
+==========
+The author, Roscoe A. Sincero, is not responsible for any damages whether
+real or imaginary, temporary or permanent that may have been caused by the
+direct or indirect use of this package.  The author shall not be held
+responsible for any actions taken by any individuals which concerns the
+use of this bot skeleton package.  For instance, this author will not be
+held liable for any damages if a third-party decided to decompile the reaper
+or zeus bot and add the AI for these bot into the package.  The third-pary
+(which means you) take sole responsibility for these actions.  By using this
+package whether in part or as a whole, you agree with these statements.  If
+you don't agree, don't use the package.
+
+=============
+Availability
+=============
+
+You can find this patch at the following URLs:
+
+a) ftp://ftp.cdrom.com/pub/quake/quakec/bots
+
+b) <on my homepage when I get a new ISP>
+
+================
+About the Author
+================
+
+Quake enthusiast who hasn't played a deathmatch game in months.  Graduate
+of University of Maryland at College Park with a degree in Chemical
+Engineering.  What else do you want to know?  Oh, I'm male, heterosexual;
+5 feet 8.5 inches, weigh about 165 to 170 pounds (depends on whether or
+not I just took a dump); likes women; does not like Pat Robertson/
+Pat Buchanan/Newt Gingrich/fundamentalist/"fundamentalist friendly" clones;
+despise censors especially censors who claim not to be against free speech or
+who are for "responsible" speech; should start working out again (stopped
+working out April 1993); drives a Blue dodge omni with over 100,000 miles on
+it and a left, rear-wheel that almost fell off just a couple of weeks ago;
+gets a haircut about twice a year; changes socks every leap year and brushes
+teeth [tooth] almost as often.
+
+"You don't REALLY need toilet paper for that; just use your hands and scrape
+it off."
+
+"You shouldn't camp with a rocket launcher aimed at your back."
+
+"Why do you camp in the middle of a large room?"
+
+"Why do you try to camp in the shadows when you have the Quad?"
+
+"I have a rocket launcher with 15 rockets; 140+ health; 150 armor, Quad, and
+Invulnerability.  You have 100 health, 25 shells and a shotgun.  Why
+do you insist on attacking me?  Is it really possible for me to get all this
+on E1M1 while camping?"
+
+"I play Quake using my instincts.  Yes, I am born being able to use a
+rocket launcher and a lightning gun while simultaneously hooking another
+poor soul with my grappling hook."
+
+"Bots are 100% accurate using the shotguns.  They could be even more accurate
+if they didn't miss sometimes."
+
+=========================
+Copyright and Permissions
+=========================
+
+Authors MAY use this modification as a basis for other PUBLICALLY
+available work on the condition that the work is *FREE* to all who
+wish to use it.  If you add this modification to your work, for
+instance in a compilation, make sure you provide credit where credit
+is due and that you work is offered *FREE* to all who wish to use it.
+
+You may distribute this modification in any format except via CD-ROM
+as long as all accompanying files including this text file are unmodified
+and remain intact.
+
+Program source code is copyrighted 1997 by Roscoe A. Sincero.  Portions of
+code is copyrighted by their respected owners (see credits above).
+
+If you use this package, include THIS text with your package.  This text
+should not be modified in any way.
+
+Please read source for additional restrictions and permissions.  See
+botmove.qc.
+
+For commercial use, you will not only need to ask the individuals listed in
+the credits for botmove.qc but you will also need to ask permission from
+ID Software.  It is unlikely you will obtain all the permissions necessary
+for commercial use so don't even bother thinking about it.

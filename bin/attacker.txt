@@ -1,0 +1,14 @@
+This Quake C patch is a Helper bot named "Attacker"
+
+He uses a Chainsaw to kill your oponents!!!!  He will
+seek out your enemies while you just stand there.  He 
+is also great in Deathmatch.    
+
+Author: Jonathan Geary
+OS: IBM compatible
+Version: 1.0 
+Quake C: Helper Bot
+Date: 2-14-97
+  
+
+  

@@ -1,0 +1,65 @@
+====================
+Title    : CronosBot
+====================
+
+Filename : CRONOBOT.ZIP
+Version  : 1.01
+Rel Date : 25/07/99
+Author   : Cronos
+Email    : Cronos@clovenhoof.freeserve.co.uk
+
+Credits  : BGBOT, TutorBot and ZeusBot for ideas.
+	   Coffee for his tutorials although CronosBot is far removed from them :)
+	   BotEmporium for their web site.
+	   Alan Kivlin re Rankings for bots.
+
+============
+Type of Mod
+============
+
+Quake C  : yes
+Sound    : no
+MDL      : no
+
+
+==================
+Format of Quake C
+==================
+
+unified diff  : no 
+context diff  : no 
+.qc files     : no
+progs.dat     : yes
+
+
+================================
+Description of the Modification
+================================
+
+version 1.01
+------------
+Made some bug fixes on competitions on demo recording. I had to make QuakeC jump through a few hoops to get demos to record :). Decided to add a countdown to competitions as well.
+
+After learning the respawn points order on ztndm3 and wiping the floor against Abaddon I have decided to randomise the respawn points. I can't understand why Id didn't do this in the first place.
+
+Botcam will now continue even if it comes across a dead bot (it used to return to the player).
+
+Experimental rocket jumping has been added to the bots abilities, only for the better/harder bots though.
+
+I have been having problems with qcc compiling the bots. It seems to corrupt the compilation which is only seen with a decompiler (which fails to decompile properly and produces corrupted files). When run some very strange things were happening (like no info_player or info_deathmatch start routine,etc when there clearly was). I must have exceeded some internal limit of qcc. I have therefore moved over to proqcc. This seems to be ok, but I was having some initial problems and wasn't sure if was down to proqcc or a bug in the program. I managed to trace some problems to bugs but overall I have wasted a **lot** of time just messing around with different compilers. It really hasn't taken that much to exceed qcc's limits, which was a bit disappointing in a way, and proqcc could yet have some quirks to it which mean I have introduced more bugs (not that I'm at all knocking proqcc, it's by far the best compiler I found and I heartily recommend it).
+
+Following the problems with the compiler I have spent a lot of time tidying up the source code, including all the source code of Id's. This has meant a few bugs being found and corrected including a couple of Id's. It has also meant the bot using more player routines and becoming more tightly integrated into the whole program.
+
+There is now a demo on the web page you can watch. It is a ten minute 1 on 1 with abaddon on ztndm3. Unzip it to your id1 dir and type 'playdemo comp' on the console, making sure you have ztndm3 in your id1\maps directory.
+
+version 1.00
+------------
+It's a bot. A new bot. Thats all there is to it.
+
+I think it plays ok. It's nice to start with about four bots on a level and just go around nuking them over and over :) At least if you're a good quake player, if not then you might be in trouble.
+
+Seriously though. Read todo.txt for the technical bits. I added a cam and I also added many 'competitions' which are basically timed sessions with certain rules set (like deathmatch 1, 10 minutes with four predetermined bots). There are 16 bots, and they appear in rankings,etc.
+
+Enjoy....Feel free to e-mail me with comments, ideas and suggestions...
+
+(This project was started on 14/06/99 when I got hold of Id's source code, so version 1.00 is about a month old).
