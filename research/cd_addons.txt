@@ -212,8 +212,13 @@ TODO (cannot locate/access a copy)
 ----
 promising leads: "Chartbusters 10" and "Time of Reckoning"
 
-
-
+"Quake 2 Toolkit"
+	https://archive.org/details/q-2-tool-0498
+	https://archive.org/details/toolkitforquakeiiusa
+	https://www.moddb.com/addons/toolkit-for-quake-ii
+	probably just q2 stuff, but best to check
+	(have to download...)
+	???
 Quake World
 	https://legendsworld.net/shooter/game/1845
 	https://www.legendsworld.net/site/download.php?mirror=16915

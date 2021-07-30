@@ -80,6 +80,9 @@ fbxdoom.rar
 fbxpk.zip
 fixedsrc.zip
 frik-tf.zip
+frikbt01.zip
+frikbt02.zip
+frikbt03.zip
 friktf-051901.zip
 friktf-092800-qw.zip
 friktf-092800.tar.gz
@@ -162,3 +165,4 @@ zeus20.zip
 zeus201.zip
 zeus202b.zip
 zeus2041.zip
+
