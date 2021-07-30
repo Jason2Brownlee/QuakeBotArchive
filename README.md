@@ -153,7 +153,7 @@ Quake Bot (QBot) | Muhammad Hidayat Bin Sman aka "Grinder" | [qbot11.zip](bin/qb
 Quake Dodgeball | Brendan aka "Trickle" and "Orion" | [quake_dodgeball_v1.2.6.zip](bin/quake_dodgeball_v1.2.6.zip)<br>[db_src_2016.zip](bin/db_src_2016.zip)<br>[quake_dodgeball_1.1.zip](bin/quake_dodgeball_1.1.zip)
 R Bot | Ross Johnson aka "ColdKill" | [rbot70.zip](bin/rbot70.zip) ([txt](bin/rbot70.txt))<br>[rbot20.zip](bin/rbot20.zip) ([txt](bin/rbot20.txt))<br>rbot.zip
 RABot | Rodrigo Marx aka "Shooter" | [mwrrabot222cl.zip](bin/mwrrabot222cl.zip)<br>[rabot.zip](bin/rabot.zip)
-Reaper + DM4 | Daniel Hein aka "Hades" | [dm4reaper.zip](bin/dm4reaper.zip)
+Reaper + DM4 | Daniel Hein aka "Hades" | [dm4reaper.zip](bin/dm4reaper.zip) ([txt](bin/dm4reaper.txt))
 Reaper + Painkeep | Bent Svendsen aka "Decker" | [pkbot.zip](bin/pkbot.zip) ([txt](bin/pkbot.txt))
 Reaper + Scourge of Armagon | Bent Svendsen aka "Decker" | [hipreap3.zip](bin/hipreap3.zip) ([txt](bin/hipreap3.txt))
 Reaper Bot | Steven Polge | [reaprb81.zip](bin/reaprb81.zip) ([txt](bin/reaprb81.txt))<br>[rb81src_unoff.zip](bin/rb81src_unoff.zip)<br>[reaprb80.zip](bin/reaprb80.zip)<br>reaprb75.zip ([txt](bin/reaprb75.txt))<br>[reaprb07.zip](bin/reaprb07.zip) ([txt](bin/reaprb07.txt))<br>[reaprb06.zip](bin/reaprb06.zip)<br>[reaprb05.zip](bin/reaprb05.zip)

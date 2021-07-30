@@ -1,0 +1,33 @@
+Date: August 11, 1997
+******************
+ReaperBot with DeathMatch v4.0 Compatibility
+
+Well, since u asked fer it, u got it :)
+
+This is just yer plain 'ol Reaper, but has the new Deathmatch v4.0 Rules.
+
+"How do I use it?" U ask, Well, it's simple, just start Yer Reapers the 
+way u normally do, then type "deathmatch 4" at the console (Without quotes, of course)
+restart the level, and Kick some Reaper ass.
+
+"What's so different?" U wonder.... Well, Under the new Rules, all this:
+
+-Start out with all weapons and Unlimited ammo!
+-Start out with 250 Health and 200 Armor
+-Temporarily Invulnerable when u respawn (2-4 secs)
+-U get 10 health for each BackPack u pick up.
+-When u reach 300 health, U get Invisibility, Invulnerability, 
+ and Octa-Damage! (8x Damage) (Note: Upon Octa-Damage, all yer cells go 
+ away, they return when it wears off)
+-Weapons and Ammo don't respawn, But Armor and Health still does 
+ (I'm not sure if that's right tho...Tell me if u find otherwise)
+-Rocket Jumps Don't Hurt U! (I added that - not officially part of DMv4.0 Rules)
+
+There's probably a couple things I'm missing, but u'll figure it out.
+If u find any bugs, or have any suggestions on how to make it cooler,
+I'd love to hear from ya!
+
+ThanX fer all the requests! 
+'Hades'
+danhein@hotmail.com
+
