@@ -1736,6 +1736,15 @@ Ultimate Quake Mod
 QCAP v2.0
 	all kinds of bots
 	https://web.archive.org/web/19980614160345/http://www.inside3d.com/nov28-nov29.shtml
+Lurkerz
+	https://www.dukeworld.com/idgames2/quakec/compilations/lrkrz_01.txt
+	https://www.dukeworld.com/idgames2/quakec/compilations/lrkrz_01.zip
+	extends dm bot
+
+
+
+
+
 
 OUT OF SCOPE
 --------------------------------------------------------------------------------

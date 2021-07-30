@@ -1,0 +1,286 @@
+Title    : Lurkerz QuakeC Weapons/Items Hack
+Filename : lurkerz1.zip
+Version  : 1.00
+Date     : 9/01/96
+Author(s): Ron Goff (QuakeC hack, compiler, & playtester)
+           Jon Little (docs, & playtester)
+           
+Email    : lurkerz@ime.net
+Web      : http://ime.net/~lurkerz/
+
+Credits  : Every Single QuakeC file designer out there and of
+	   Course Id Software.
+	   Vholds Homing Rocket
+	   jepler@inetnebr.com, Synger  Flashlight
+	   Micheal Polucha's (mpolucha@earthlink.net)   //MYBOT
+	   Steve Bond  email:wedge@nuc.net  //Grenades
+	   {JDS} ? //Hopping Grenade/Prox. Mines
+	   DaScott  dascott@richnet.com  DASDM 
+           And the Many others who have created QuakeC patches
+	 
+Type of Mod
+-----------
+Quake C  : yes
+Sound    : no
+MDL      : no
+
+Format of Quake C
+-----------------
+unified diff  : no
+context diff  : no
+.qc files     : Request via lurkerz@ime.net or go to 
+		http://ime.net/~lurkerz
+progs.dat     : yes
+
+
+
+Description of the Modification
+===============================
+I just wanted one Modified Prog.Dat file with alot of 
+new weapons and items. so here is a quick list of 
+them.
+
+ DmBot - Death Match Bot  
+ Portable Teleporter
+ Holo Quaker
+ Feign Death
+ Flashlight
+
+*Lurkerz Personal Invisible Power //create by Me!!
+
+ Morning Star/Grappling Hook
+ Lava Gun
+ Laser Gun
+ BFG 
+ Proximity Mines
+ Firewall
+ Gib Gun
+ Homing Rocket
+ Sniper Shotgun
+*Scatter Gun //Created by Me!!  (very simple)
+ Hopper Prox. Mines/Grenades
+
+(I Heavly modified each weapon and item. I have tried
+to create a balanced and fun game.)
+
+
+
+
+============================
+How to use Modification
+============================
+
+
+
+How to use the DMBOT:
+---------------------
+
+ Shoots Laser Beams with scragg sound effects.
+ When he dies he drops 25 rockets. 
+ 
+
+    Impulse 100             Activates and Deactivates the Bot
+
+    Impulse 101             Toggles between Automatic and Manual Control Modes
+
+    Impulse 102             Auto: Fires Weapon
+                            Manual: Toggle bot movement-Stop/Walk/Run
+
+    Impulse 103             Auto: Toggle auto-fire
+                            Manual: Turn left
+ 
+    Impulse 104             Auto: Teleport to player
+                            Manual: Turn right
+
+
+
+How to use the Flashlight:
+--------------------------
+   Impulse 40             Turn off/on
+
+
+
+How to use the Portable Teleporter:
+-----------------------------------
+    Impulse 41              Drops the teleporter
+			    It now uses 5 cells to drop a Pad
+
+    Impulse 43              Teleports to the dropped teleporter
+			    Uses 10 cells to teleport
+
+
+
+How to use the Holo Quaker:
+---------------------------
+    Impulse 69              Says it all. 
+
+
+
+
+
+How to use Grappling Hook/Morning Star:
+---------------------------------------
+   How to use the Grapling Hook:
+    Press the AXE selector key twice.
+    Press and hold the ATTACK button.
+
+
+
+
+
+How to Feign Death:
+-------------------
+	Impulse 150         Fake your death
+	Impulse 150 again   Pop back up
+
+
+
+Lurkerz Personal Invisible Power:
+---------------------------------
+    Impulse 169  Become Invisible.
+	         Requires 50 cells to use
+	         lasts for like 30 seconds
+
+
+How to use Lurkerz's Scatter Gun:
+---------------------------------
+    Press the SHOTGUN selector key.
+    Impulse 19 will shoot the Scatter Gun.
+
+	Very fast & Deadly Shotgun with a huge spread
+	the pellets go everywhere.
+
+
+How to use the Sniper Rifle:
+----------------------------
+    Press the SUPER SHOTGUN selector key.
+    Impulse 19 will shoot the Sniper Rifle.
+
+
+
+How to use the Fire Ball Launcher:
+----------------------------------
+    Press the SUPER NAILGUN selector key.
+    Impulse 19 will shoot the Fire Ball.
+    Jumping in the water will put it out.
+    (very funny)
+
+
+
+How to use the FireWall grenade Launcher:
+-----------------------------------------
+    Press the GRENADE selector key twice, or until it says
+    "Fire Wall mode"
+    Press the ATTACK button.
+
+
+
+How to use the Proxy Mine Launcher:
+-----------------------------------
+    Press the GRENADE selector key three times, or until it says
+    "Proximity Mine Mode"
+    Press the ATTACK button, the mine will be dropped.
+
+
+
+How to use the Pipebomb:
+------------------------
+    Press the GRENADE selector key once, or until it says
+    "Grenade Launcher Mode".
+    Impulse 61 will throw a pipebomb.
+    Impulse 62 will detonate all thrown pipebombs.
+    Impulse 63 will disarm all thrown pipebombs.
+
+
+
+How to use the Gib Gun:
+-----------------------
+    Press the ROCKET LAUNCHER selector key twice, or until it says
+    "Gib Gun"
+    Press the ATTACK button.
+
+
+
+How to use Hopper Prox. Mines/Grenades:
+---------------------------------------
+    Press the GRENADE LAUNCHER selector key once, or until it says
+    "GRENADE LAUNCHER"
+    Impulse 19 will fire a Hopping Grenade/Mine.
+    (Very Very Funny)
+
+
+
+
+How to use Homing Missile:
+--------------------------
+    Press the ROCKET LAUNCHER selector key once, or until it says
+    "Rocket Launcher Mode"
+    Impulse 19 will fire a Homing Missile.
+    NOTE: Missiles CAN home-in on your DMBOT!
+
+
+
+How to use BFG:
+---------------
+    Press the Lightning Gun selector key once
+    Impulse 19 will fire the BFG. it uses cells.
+    (Cool)
+
+
+
+ 
+==============================
+How to Install the QuakeC File
+==============================
+
+Goto your Reg. Quake DIR
+Make Dir Lurkerz
+and unzip files into that Dir
+
+
+Author Information
+------------------
+Email:
+Ron Goff: lurkerz@ime.net
+Jon Little: jonl@ime.net
+
+Web pages:
+Ron Goff: http://ime.net/~lurkerz
+Jon Little: http://ime.net/~jonl
+
+Copyright and Distribution Permissions
+--------------------------------------
+
+
+You may distribute this Quake modification in any electronic
+format as long as this description file remains intact and unmodified
+and is retained along with all of the files in the archive.
+
+
+Availability
+------------
+
+Find it here:
+
+FTP:
+ftp.cdrom.com/pub/quake/quakec/
+   * (check incoming, newstuff, and the directories in the quakec dir.)
+
+ftp.cdrom.com mirrors.
+
+---------------------
+Web:
+http://ime.net/~lurkerz
+Source also here.
+
+---------------------
+E-Mail:
+lurkerz@ime.net
+
+
+Many Thanks to the Original authors of
+the Many Quake C files.
+
+
+
+
