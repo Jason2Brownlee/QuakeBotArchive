@@ -1,0 +1,154 @@
+Title    : Gideon Bot
+Filename : Gideon.zip
+Version  : 0.1b
+Date     : 30/8/97
+Author   : Matthew Turvey - Green Frog Technologies
+
+Type of Mod
+-----------
+Quake C  : yes
+Sound    : no
+MDL      : no  
+
+
+Format of QuakeC (if a Quake C Mod)
+-----------------------------------
+unified diff  : no
+context diff  : no
+.qc files     : no
+progs.dat     : yes
+
+
+Description of the Modification
+-------------------------------
+
+This QuakeC patch is an AI bot for Quake.
+Commands include:
+-----------------
+	IMPULSE 205 - add a bot (can do it repeatedly)
+	IMPULSE 208 - add four bots
+        IMPULSE 210 - scoring
+        IMPULSE 212 - turn on observer mode
+        IMPULSE 213 - turn off observer mode
+	IMPULSE 214 - update bots. Use when the 
+			SV_GRAVITY or SV_MAXSPEED 
+                        server varibles are changed.
+	IMPULSE 215 - turn on verbose mode 
+        IMPULSE 216 - turn off verbose mode
+	IMPULSE 220 - Normal scores (frags)
+        IMPULSE 1XX - Sets the ratio of 1 bot per human player (as players leave so do bots)
+        SKILL N - Change skill level (N = 0 to 3, default
+			is 1)
+                
+Features Include:
+
+* 4 skill levels (0 to 3), which affect
+	- bot accuracy when shooting 
+        - speed that it can follow or "track" you
+	- bot reaction time, and time taken to respond to "pain"
+        - which weapons it will use to attack you
+* Uses all player frames (Checked with Quake ME)
+* Improved following AI 
+        - can now handle following opponents around corners by analysing
+          player actions, as well as using doors and teleporters
+* Ability to learn levels
+        - Bots use their experience to remember where power ups are and to 
+          allow it to roam around, hunt opponents, etc. All knowledge is built
+          upon the bot internal map
+* Understands jumping
+        - won't jump into lava or slime 
+        - will jump up onto ledges if its designated "goal" requires it
+        - may use rocket jump if necessary, although it will not use it
+          if it can reach the area with a normal jump
+* Combat AI
+        - the bot will attack differently dependig upon the bot's current 
+          armoury, its opponent's weapon, the distance between them, and
+          whether enemy is running away.
+        - picks best weapon depending on range 
+        - will go after health, ammo, or a weapon in the middle of combat!
+          (should the circumstance require it)
+        - trys to avoid combat if health or ammo low, and it thinks it can
+          escape        
+	- avoids combat with players who are invincible
+        - "remembers" players accuracy, tactics and adds it to its AI. This
+          means that this is one of a limited few bots which have a learning
+          curve. "Forgets" tactics after game restarts otherwise bot would
+          become too powerful
+        - will prey upon weaker targets. If it can choose between fragging
+          a player or causing damage to a more powerful target, it will
+          choose the weaker bot in order to score a frag
+        - can learn player "hatred" i.e. it can remember who fragged it and
+          will hunt them if the bot's armoury appears to be larger than its
+          opponent
+* Improved grenade and rocket aiming
+* Understands triggers and buttons
+	- Will go for the triggered object when it shoots a trigger 
+          or presses a button. (This is how it can find secrets)
+        - Doesn't go after doors, unless it is open or has been triggered by
+          the bot
+        - Doesn't go after triggers or buttons which have already been
+          activated, although it may steal secrets if it can reach them
+          before the player.
+* Understands doors, teleporters, secret doors
+        - Will fire at secret doors to trigger them
+* Chooses goals according to priorities depending on its current power 
+        - Understands and uses all weapons, ammo, powerups, etc.
+	- Won't keep going after an item if it can't reach it
+        - Will use internal map to go after items it wants but can't see
+* Up to 16 bots on a level
+* Multiplayer Server capability
+        - deathmatch bots vs humans!
+  	- No other files needed by the clients 
+          (they can use their original progs.dat).
+* Scoring
+        - Impulse 210 gives scores
+	- scoring is 2 * kills - deaths - 2 * suicides
+* Observer mode. Impulse 212 turns on, Impulse 213 turns off.
+* Bot swims in water
+        - doesn't usually drown, unless forced and held underwater by player
+          fire
+	- understands whether it can swim to items
+	- can jump out of water
+        - follows enemies into water
+	- won't use lightning gun underwater unless the bot is
+          invincible
+* Same number of bots generated in new level after players exit via slipgate
+* Bots die in lava and slime, and drown if under water too long
+* Bots can telefrag or be telefragged
+
+* Known Bugs
+  None (As I'm aware, if you find any please contact me.)
+
+How to Install the Modification
+-------------------------------
+
+Unzip the file to a folder called Gideon in your Quake directory 
+(e.g. C:\Quake\Gideon).
+The zip file will not create any folders, you need to do it.
+To play, type QUAKE -GAME GIDEON -LISTEN 16 from the Quake directory.  This 
+modification only works with the registered version of Quake. Make sure you 
+run deathmatch when you play with the bots-they don't play coop (either 
+select multi-player,or type DEATHMATCH N at the console, where N = 1 or 
+2).  To change skill levels, type SKILL N at the console, where N is an 
+integer 0 to 3.
+
+Author Information
+------------------
+
+This is my first quakeC patch, playtested by Hugo Chesshire (known and feared as
+IronheaD) and his clan, Bohemia.
+
+Copyright and Distribution Permissions
+--------------------------------------
+
+The modifications included in this archive are Copyright 1997, Matthew Turvey.
+The original QuakeC source code is Copyright 1996, id software, and is
+available by unpacking pak0.pak and pak1.pak (or id1.pak with the beta
+tester version of Quake) with Xpak or 6Pak.
+
+
+This is a Beta version. There may well be bugs I don't know about. If so, here's
+where to send your bug reports:
+106317.3301@Compuserve.com (please include the line RE:GIDEONBOT in the title as
+I get a lot of mail and it helps me sort through it)
+mail and it helps

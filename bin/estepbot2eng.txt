@@ -1,0 +1,6 @@
+This file replaces the previous version of Estep Bot, which was in Spanish. This version of Estep (2.0) is now in English.
+
+Estep Bot is a significant Reaper Improvement by Enrique Gonzalez Alonso and it comes with complete English documentation.
+
+Randar
+mimpchnk@ionet.net

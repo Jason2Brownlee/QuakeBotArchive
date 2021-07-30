@@ -1,0 +1,66 @@
+Title:  Frag Bot  V1.5
+Authur: Richard "The Goat" Peacock
+Credits: Micheal Polucha (co-designer of Original TM bot)
+         Tim Polucha (co-designer of Original TM bot)
+         Nathaniel Gorham (Original DM bot)
+         Chris Weisdorf (expressing interest and ideas)
+         detour@chrysalis.org (we had the same ideas and mods going
+         about the same time. Just giving credit
+         where credit is due.)
+
+
+
+********
+progs.dat:  yes
+QuakeC: yes
+Source: yes
+crap: yes
+stupid: yes
+Age: 14
+married: yes
+yes: no
+illeterate and blind: yes
+spelling errors: yes, big time!!  please dont email to inform me! 'cause I'm
+                 just loose, and I dont care!!
+********
+
+Ok, Here's the deal.  It's a cheap Deathmatch game.  There's not that much
+else to tell.  People with the same color as you are on your team.  Start
+a normal multiplayer game  (direct connect & IPX dont ocupy the modem).
+Choose teamplay on....for teamplay(duh).  It is also a coop game (but very
+bad!!) .
+
+
+********Beginer stuff*****
+Another thing....  I made some custom models.  make a dir under quake:
+c:\quake\fragbot
+unzip the .dat file into that directory.  Make a progs dir under that:
+c:\quake\fragbot\progs
+unzip the .mdl file into that.
+start quake with:
+quake -game fragbot
+***************************
+
+
+****Commands******
+impulse 100           makes a good bot (makes a good in coop mode)
+impulse 101           makes a bad bot  (makes a good in coop mode)
+impulse 105           gives you 50 health
+impulse 110           makes 4 good bots in deathmatch
+impulse 111           makes 4 bad bots in deathmatch
+impulse 16            start democam (read the txt file -- this is the only
+                      one I put in.  The others dont work well. 
+******************
+
+I added a bunch of crap in this!!!
+There is tons of organs that come out when gibbed!  Also, when you shoot them
+the blood is motor oil.  But when they blow, it's red.   Dont ask!!
+another thing, the gernade shoots dogs, that bark when they blow!
+
+
+please send bugs & comments to :
+
+rjp1@bayou.com
+
+
+

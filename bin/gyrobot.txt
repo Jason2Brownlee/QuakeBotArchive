@@ -1,0 +1,346 @@
+Indecisive Bot 1.04 - 7/25/97 Gyro Gearloose
+
+Indecisive Bot Features:
+
+Teamplay is supported, and bots respawn across level changes
+Maps levels with "breadcrumb trails" (which you can see & edit)
+High performance - you should be able to run lotsa bots with not much slowdown
+Can be configured to use axes, weapons, or to switch between them
+Uses combination of wall-following and object seeking to explore levels
+Deals with lifts, doors, buttons, shootable triggers, etc.
+Evaluates items - doesn't go for health when uninjured for example
+Imbued with an inate sense of carnage, and is not afraid of death
+Moonlights as a professional art critic, and is a sensitive violin virtuoso
+
+---------------------------------------------------------------------------
+
+Quick start: With the registered Quake, copy PROGS.DAT to quake\gyrobot
+(create the "gyrobot" subdirectory under your "quake" directory) and type
+
+quake -game gyrobot +deathmatch 1 +map start
+
+Generate more bots by typing "impulse 220" at the console prompt.
+Impulse commands can be assigned to keys with the bind command.
+With the following console command, I can just hit E each time I want to
+add a bot:
+	BIND E "IMPULSE 220"
+
+Impulse 220 always spawns a bot (up to 16) that wants to kill you.
+If teamplay is on, then impulse 229 will spawn a bot for your team.
+With impulse 230 and 231, you can make spawned bots stick with axes or
+use axes and weapons, and when you change levels, the same set of
+bots and their behaviours should respawn.  However, they lose whatever
+weapons and armor they had accumulated in the previous level.
+
+---------------------------------------------------------------------------
+
+What's all this about "Key bindings"?!?  There's a number of ways to do this,
+but here's how I do it.  In my quake\id1 directory, I have a file called
+autoexec.cfg that includes the line "exec bot.cfg" in it.
+Over in quake\gyrobot, I have a file called bot.cfg that contains these key
+bindings:
+
+bind e "impulse 220"
+bind f "impulse 229"
+bind o "impulse 221"
+bind r "impulse 222"
+bind i "impulse 228"
+bind p "impulse 237"
+bind . "impulse 235"
+bind , "impulse 236"
+
+Now, when I run quake -game gyrobot, it picks up these bindings so that
+when I hit "e", I get one more enemy bot, and when I hit "o", I get one
+less bot.  This is important to me, because every typing keystroke I save
+means one more time I can smack the fire button before my digits seize up
+in paroxysms of carpal tunnel agony.
+
+---------------------------------------------------------------------------
+
+Short list of impulse commands:
+
+200 - Display version and short list of commands
+220 - Spawn one bot (up to 16 allowed)
+229 - Spawn a bot for your team (teamplay must be enabled)
+221 - Remove one bot (removes the highest numbered bots first)
+222 - Remove all bots
+223 - Status of a particular bot
+224 - Sorted list of scores of players and bots
+225 - List top 3 scores
+228 - Toggle observer mode - Bots don't notice you unless you shoot them
+230 - Use axes only
+231 - Use axes and weapons
+232 - "Bot's Choice"  If winning, use axes.  If losing, use weapons.
+235 - Bump skill level up by one
+236 - Drop skill level down by one
+237 - Cycle through waypoint visibility options
+238 - Make selected bot blind to waypoints
+239 - Select an object or waypoint entity
+240 - Add a waypoint that points at selected entity
+241 - Delete selected waypoint
+201-216 - Select an individual bot for a future operation
+242 - Select particular bot you're looking at for a future operation
+
+---------------------------------------------------------------------------
+
+Long list of impulse commands:
+
+Impulse 200 - List impulse commands
+
+	Displays a quick reference list of supported impulse commands,
+	along with the current skill setting and number of bot waypoints.
+
+Impulses 201 to 216 - Selects an individual bot
+
+	These impulses do not have an immediate effect, but rather, select
+	a bot for a future impulse to have an effect on.  Note that
+	selecting a bot with an impulse from 201 to 216 will change the
+	behaviour of most of the impulse commands that operate on bots.
+
+Impulse 220 - Spawn a bot
+
+	Spawns a bot for the bot team.  If teamplay is disabled, then bot
+	wants to kill everyone.  Having an individual bot selected has no
+	effect on impulse 220.  Up to 16 bots are allowed.  To affect
+	their behaviour, see impulses 230, 231, and 232.
+
+Impulse 229 - Spawn a bot for the player's team
+
+	If teamplay is disabled, then the bot wants to kill everyone,
+	including the player.  Having an individual bot selected has
+	no effect on impulse 229.
+
+Impulse 221 - Remove a bot
+
+	If no bots are selected, removes the highest numbered bot, which is
+	usually the last one created.
+
+	If a bot is selected, then that particular bot is removed.
+
+Impulse 222 - Remove all bots
+
+	Zap!  They're all gone.
+
+Impulse 230 - Use axes
+
+	If no bot is selected, causes future bots spawned with 220 or 229
+	to be axe-only.
+
+	If a bot is selected, causes that particular bot to use axes only.
+
+Impulse 231 - Use axes and weapons
+
+	If no bot is selected, causes future bots spawned with 220 or 229
+	to use weapons.  Axes are used sporadically, even when they are not
+	the best choice.
+
+	If a bot is selected, causes that particular bot to become a
+	weapons user.
+
+Impulse 232 - Bot's choice - If winning, uses axes.  If losing, uses weapons.
+
+	If no bot is selected, causes future bots spawned with 220 or 229
+	to use "merciful" behaviour (what I do I when I'm an LPB playing
+        with a bunch of modemers), which is to periodically compare their
+	frag count to the player's, and to switch to either axes or axes and
+	weapons depending on who's winning.  If the frag counts are close,
+	they will sometimes just stick with whatever behaviour they're
+	currently using.  When they respawn in the next level, they will
+	continue with the behaviour they were using in the previous level,
+	and will continue to adjust depending on frag count comparisons.
+
+	If a bot is selected, has the same effect on that particular bot only.
+
+Impulse 235 - Bump skill level up by one
+
+	Make bots a little meaner.  This is good, and helps build character
+	in players.  The skill setting affects all bots.
+
+Impulse 236 - Drop skill level down by one
+
+	Make bots a little kinder and gentler.
+
+Impulse 224 - List scores
+
+	Prints a sorted list of the frag counts of all player and bot
+	entities it can find.
+
+Impulse 225 - Top 3 scores
+
+	Same as 224, but only lists the top 3 scores.
+
+impulse 223 - Bot status
+
+	Prints a short blurb on the currently selected bot.  Impulse is
+	ignored if no bots are selected.
+
+Impulse 228 - Toggle observer mode
+
+	Make bots not notice you, unless you shoot them or they were
+	already mad at you.  This is handy to let you walk around and
+	see how the bots behave and navigate.  You can still take damage,
+	so don't step in front of any rockets.
+
+Impulse 242 - Select targeted bot
+
+	Selects the bot you are looking at for a future operation.
+	This has the same effect as using impulses 201 to 216 to
+	select a bot, but it solves that problem that most of the
+	time, all bots look the same.  This permits selection of
+	a bot by pointing at it and issuing an impulse.
+
+Impulse 237 - Cycle through waypoint visibility options
+
+	By default, the dynamic waypoints that the bots use to help
+	themselves locate worthy objects are invisible.  Issuing this
+	impulse makes the waypoints that the bots are using visible to
+	the human.  The impulse cycles through several sets of waypoints.
+	Note that having waypoints visible slows down the action
+	considerably.  I use this mostly to help me debug waypoint
+	creation, but left it in because some of you hackers might
+	find it kinda interesting.  The setting reverts to the default
+	across level changes.  Note that this setting does not affect
+	the bots at all - they see the waypoints even if you don't, unless
+	you blind them.
+
+	0 (default) = Waypoints invisible
+	1 = All waypoints visible
+	2 = View Armor waypoints
+	3 = Weapon waypoints
+	4 = Powerup waypoints
+	5 = Megahealth waypoints
+
+Impulse 238 - Make selected bot blind to waypoints
+
+	By default, all bots see the waypoints that other bots have created.
+	In theory, bots that use waypoints should have higher armor and health
+	values over time and be carrying better weapons on average.
+	Statistically, they should be able to kick virtual butt over the bots
+	that don't see the waypoints.  I wanted to test the theory, hence
+	this impulse.  Impulse is ignored if no bots are selected.  Blind
+	bots are healed across level changes.
+
+Impulse 239 - Select an object or waypoint entity
+
+	Besides seeing the waypoint routes that the bots have created,
+	you can also edit them.  This impulse selects the waypoint or
+	object that's right in front of you so that you can either create
+	a waypoint that points at it, or delete it.  If you issue this
+	impulse and see "No object selected", try moving a little closer
+	or changing your angle slightly.
+
+Impulse 240 - Add a waypoint that points at selected entity
+
+	You must have previously selected something using impulse 239
+	before using this for the first time.  You should also be able to
+	see the object that you selected from your present position
+	(if you can't, the bots probably won't be able to either and won't
+	be able to follow the path).  As soon as you add a waypoint, it
+	becomes the newly selected entity, which means that you can create
+	a twisting path to something without having to issue impulse 239
+	over and over again.
+
+Impulse 241 - Delete selected waypoint
+
+	You must have previously selected something using impulse 239
+	before using this for the first time.  This impulse deletes the
+	currently selected waypoint and makes the waypoint that it was
+	pointing at the new currently selected waypoint.  A waypoint
+	can be deleted only if it is at the end of a chain of waypoints.
+	In other words, you cannot sever a chain of waypoints in the middle.
+
+
+Bots and teams that have been configured for certain behaviours should
+retain those behaviours across level changes.  So, for example, if you have
+set up a bunch of bots with four axe users, three weapons user, two that
+change their behaviour depending on whether they're fragging you too much
+or too little, and one for your own team, all those bots should remember
+their settings when you change levels.
+
+Note that the bots will map a level out differently each time you play
+that level.  Also, they do take some time to construct useful links.
+Too few bots will take a long time to map a level, but too many bots will
+also take a long time because they'll be fighting instead of mapping.
+For most levels, 4 to 8 bots work well to map it out, but you can turn on
+the lavaball waypoints and see what works best for a level.
+
+---------------------------------------------------------------------------
+
+Known problems:
+
+-They don't jump out of water like players yet (except by rocket jumping).
+-The little perverts get a thrill out of bashing their brains out on lifts.
+-Some "Tried to sprint to non-client" errors still to be weeded out. 
+-They can get stuck in walls when underwater.  I gib them when I detect it.
+-They don't move over grates very well, especially ones over lava or slime.
+-Once in awhile they get hung up in fairly simple wall-following situations.
+-They cannot set their own colors - if anyone can fill me in on the story
+ behind the entity fields .owner, .team, .color, and .skin, I would be
+ grateful.
+-They're vicious opponents, but in levels with lots of lava and slime to
+ fall in, they kill themselves out of clumsiness too often.  If you're finding
+ skill 3 bots too easy to waste, add a few more or try playing in a different
+ level.
+-Not tested much as a net/modem multiplayer server
+-If enough people like this thing, maybe I'll do some more work on it.  There
+ are enough really cool bots out there already that I thought one more was
+ kind of redundant, but it's fun to work on it anyway.  Bots R cool.
+ 
+---------------------------------------------------------------------------
+
+1.04	More preloaded waypoints for id levels.  Object valuableness tuning.
+	Fixed not noticing backpacks bug.  Fixed bug with running in place
+	near lava/slime.  Added rocket jumping.  No longer sees through water.
+	No longer attacks inactive clients (multiplayer).  Made skill 0 and 1
+	bots more wimpy.  Made them a little smarter about doors and buttons.
+
+1.03	Bugfixes: Fixed wall button triggering.  Added 2nd "ignore" entity
+	which should fix most button infinite loops.  Bots now have trouble
+	seeing Ring-of-Shadows enabled players.  Lightning gun discharges
+	underwater behave correctly.  Added waypoint editing.  Bots now get
+	knocked around during combat just like players.  Preload a few
+	waypoints for some of the tougher things to get to, like the red
+	armor in dm3.  Bots now have limited up/down vision.
+
+1.02	Added some cool waypoint navigation features, and permit display
+	of bot's "breadcrumb trails" so you can see how they work.
+	Got rid of indecisive chatter - he was almost always lying anyway.
+	I put support for all the factory monsters back.
+
+1.01	Fixed skill problem - Quake resets 'skill' in deathmatch sometimes.
+	Fixed some multiplayer dprint/sprint problems.
+	Improved grenade aiming and rocket leading.
+	When you run, the bot will now sometimes launch rockets or lob
+	grenades at the spot where it last saw you before giving chase.
+
+---------------------------------------------------------------------------
+Greetz n' howdies:
+
+Thanks to Den for encouraging me to release this thing!
+Thanks to Meanstryk for bot dissection and analysis!  Thanx and tips
+o' the hat to Matt, Crash, Scope, Bubbah, DavO, Langsuyar, Taskmaster, Bill
+for destroying the Corporals in Nightmare and making me eat my words :),
+Scott, Marcus, Ace_Dave, and everyone else that I'll feel guilty about for
+not remembering off the top of my head because I'm going senile.
+Thanks to Lee Smith for ProQCC, which eliminated some really baffling
+problems I was running into (and compiles real fast too), and to
+Steven "Reaper" Polge and Jonathan "Zeus" Wright for their awesome bots
+and inspiration.  Thanks as well to John Carmack for this incredible game
+and for the open-architecture nature of id products.
+
+Things you should download before you even bother with my measly bot
+include Matthias Worch's Beyond Belief level pak, and Neil Manke's awesome
+level Slaughterhouse - SLAUGHTR.ZIP.  You must play them.  Go to your
+favorite level review page right now and download them.  For an eyefull,
+check out DavO' mondo cool artwork at http://www.algonet.se/~davo
+
+Thanks for gibbing Indecisive Bot!
+
+- Gyro   gyro@blarg.net   http://www.blarg.net/~gyro
+
+---------------------------------------------------------------------------
+
+Indecisive Bot is Copyright (C) 1997 by Aaron Logue.  Unauthorized
+commercial use of this material is subject to prosecution, including
+but not limited to injunctive relief.  Portions of the compiled
+progs.dat are copyrighted by Id Software, Inc.

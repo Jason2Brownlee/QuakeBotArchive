@@ -1,0 +1,662 @@
+
+Title    : Doombot
+Filename : dmbt21b3.zip
+Version  : 0.21b3
+Date     : June 14, 1997, my birthday
+Author   : Roscoe A. Sincero
+Email    : legion@keg.zymurgy.org 
+
+           legion@nether.net address is difficult for me to use since
+           the nether.net system goes down from time to time.  To ensure
+           that I receive your message please send the e-mail to
+           legion@keg.zymurgy.org and *NOT* to legion@nether.net.
+
+           legion@gaianet.net will no longer be working starting
+           June 15th--the account will be deactivated.  My own connection
+           to the internet is quite flaky (just like nether.net's) but
+           even if I'm not connected, zymurgy.org will *STILL* receive
+           your e-mail.  It just may take some time before I read them.
+           I believe I lost some e-mail on my nether.net account since that
+           system goes down for whatever reason.  The zymurgy account is
+           more stable and reliable.
+
+NOTE     : If you have v0.20b3, you can throw that away now.  Everything
+           in that version (including any bugs) is also found in this
+           version.  See "What's New" section for more details.
+
+Moniker  : "I Cause Lags!"
+Credits  : ID for making Quake, although they need to
+           improve on the language QuakeC greatly.
+         
+           Everyone who sent me comments via e-mail, you know who
+           you are.  Yes, all four of you.  And, no, I didn't count
+           my own e-mails to myself four times.
+
+           All those people who made the skins in the player.mdl
+           contained in DOOMBOT.ZIP that anyone who wishes to use
+           this patch must download also.  I don't know who made
+           them.  I took them from the 24Skinz patch and a few
+           others I don't recall.
+
+           Cameron Newham of the Eliminator Bot v1.4.
+           Carson Sutton of Roambot.
+           Jonathan E. Wright of Cujobot v1.4
+           Alan Kivlin of QCBot for his detailed instructions on how
+               to get the bots on the rankings and his accompanying
+               source code to add bots to rankings
+           Patrick Martin of Respawn v1.1 for the revive idea and his
+               "template" even though I didn't use it.
+           Perecli Manole of Hook v2.2
+           Steve Bond and John Guthrie of the Throwaxe v2.1 patch
+
+Misc     : This is an Eliminatorbot/Roambot hybrid with added movement
+           when attacking as well as additional search functions and
+           attack functions not present in either of the original two
+           bots.  Hope you like it.
+
+           You'll need to download doombot.zip.  This contains the
+           *.wav and *.mdl files not contained in this archive.  It
+           also contains various text files, too.
+           The file can be downloaded from
+
+               ftp.cdrom.com/pub/quake/quakec/bots/doombot.zip
+
+           To make this modification work, you will need to execute
+           Quake by using the "-listen" parameter.  This is 
+           performed by doing the following at the command prompt:
+
+               a) quake -game doombot -listen 16
+
+                           - or -
+
+               b) q95 -game doombot -listen 16
+
+           Notice the use of CAPS in the above examples.   "What caps?"
+           you asked.  Figure it out.
+
+
+
+============
+Type of Mod
+============
+
+Quake C  : yes, of course.
+Sound    : yes, but you still need to download doombot.zip
+MDL      : yes, but you still need to download doombot.zip
+
+
+==================
+Format of Quake C
+==================
+
+unified diff  : no 
+context diff  : no 
+.qc files     : no (read below)
+progs.dat     : yes
+progs.dat size: 644k
+
+
+===========
+Source Info
+===========
+
+I will not be releasing the source until I am finish fine-tuning the
+essential elements of the package.  The final package may contain
+bugs but it is hoped that the ESSENTIAL portions of the package
+are bug free and therefore it is acceptable for distribution.  I
+originally planned to release the source along with the legion of
+doom modification but the progs.dat for this package alone is over
+644k.  The progs.dat for the L.O.D. is over 1000k.  So right now,
+it appears I won't be combining the L.O.D. and this modification
+together.
+
+Right now, the condition of the source code is pretty pathetic.  When
+it is ready to be released, it will be just plain pathetic.
+
+===============================
+Description of the Modification
+===============================
+
+This modification creates one or more computer-controlled DEATHMATCH
+opponents.  The purpose of this mod is to give deathmatch players
+practice in defeating a competent opponent and/or give players a
+chance to play a realistic deathmatch game WITHOUT the hassle of
+lag or cheating from other human players.  The computer opponent is
+often called a "bot", short for roBOT.  These are not like the monsters
+in Quake, they are designed to mimic human players.
+
+The bots *CAN* be used in cooperative games but a large lag will follow.
+The reason is that the monsters now use the "monster_find_nearest_enemy"
+function.  Why?  Because the original function, checkclient, only looks
+for REAL players, one per frame, and not "faked" ones like the bots.
+For you programmers, the classname for the doombot is "player" just like
+real players.  In coop games, the monsters now look for every player
+including bots as often as the original checkclient.  There is, however,
+one exception.  Monsters will only look for bots every 0.12 seconds while
+monsters will look for real players as often as it can, just if
+checkclient was used.  So this means that in coop games, bots do have
+an advantage over humans.  It has to be this way to reduce the lag as
+much as possible.  Having 40+ monsters in the game is like having 40+
+bots.  Trust me, it is a lot better this way.  Or I could just let the
+monsters ignore the bots until the bots fire upon them.  The monsters
+would notice the bot that shot them.  But that would be "unfair" to the
+monsters.
+
+Bots can not be used in single-player games.  The monsters use the
+checkclient function in single-player games so single-player games with
+this mod is no different from the original quake.
+
+The bot is meant to be a DEATHMATCH opponent.  I added coop support to
+allow users to see what the bots can do without worrying about being pounded
+by them.
+
+==============================
+What's New v0.21b2 --> v0.21b3
+==============================
+
+   - I've changed the archive so that all the files you REALLY need
+     is here.  Only the player.mdl is missing.  You'll need to
+     download doombot.zip for that file.  Text files for the individual
+     patches are also contained in doombot.zip so I suggest you get it.
+   - ADDED CujoBot back in.  Here is the reason:
+      - I was able to fix that crash problem whenever I spawned too
+        many bots at once.
+        - Cujo no longer eats gibs as a result
+   - NO FREE EDICTS still occurs but at least not when spawning bots
+      - with 15 bots, you should expect the game to crash with
+        the no free edicts bogus bug error within 1 minute.
+         - suggest 4 to 6 bots
+         - with 15 bots, the game is pretty lagged anyway so why would
+           you want 15 bots?
+   
+
+v0.21b1 --> v0.21b2 (unreleased)
+
+   - REMOVED Cujobot, here are the reasons
+      - increases likelyhood of NO FREE EDICTS crash greatly, it's
+        actually okay, though, if you have only 2 or 3 bots MAX.  It's
+        excellent if you have only one bot but how many of you will
+        play a deathmatch game against only one bot or just two.
+         - because CujoBot adds 11 new variables to EVERY entity
+           in the game including the bots, spikes, etc.  This means that for
+           every entity in the game, Quake has 11 additional variables
+           it needs to keep track of.  One of the new variables
+           happens to be an entity variable itself.
+      - game crashes when Cujo attempts to eat gibs.  So I fixed it and
+        a new problem occurs.  Game crashes when you spawn too many
+        bots at the same time causing a lot of gibs.  You'll get a
+        silly overflow error, and no it is NOT "packet overflow".  Now
+        I know why ID had dead bodies execute the CopyToBodyQue function.
+      - NO FREE EDICTS crashes now occur after only spawning 5 bots
+        quickly while in COOP mode.
+
+
+v0.20b3 --> v0.21b1 (unreleased)
+
+   - the addition of two new patches was MUCH easier than expected so
+     release date is pretty close to original plans
+   - added P. Manole's grappling hook v2.2 patch
+      - patch has been modified so that one impulse toggles
+        on/off the grappling hook.  Use impulse 73 to toggle hook.
+      - hook is *NOT* a weapon.  It can only be activated using an
+        impulse.  So you can simultaneously fire your current weapon
+        AND the hook if you want.  If you kill a player with the hook,
+        the obituary will credit the kill to the weapon you currently
+        selected.  That is, "Bonehead ate two buckshots..." instead of
+        "Bonehead was ripped apart by Loser's hook".
+      - those of you already experienced in using the hook, keep in mind
+        that the bots from the beginning do *NOT* go through pain frames
+        very often except when it is close to dying.  I mentioned this
+        so that you won't think that the game is made much easier by
+        adding this patch.
+      - patch has been modified so that you won't hook your opponent
+        "forever".  A maximum of 15 consecutive hits are allowed before
+        the hook disables itself.  Each hit after the initial hit does
+        3 points of damage.  The first hit does 10 points of damage.
+      - deathmatch 32 to disable grappling hooks
+
+   - added J. Wright's Cujo bot v1.4 patch
+      - not tested at all in single-player games or coop games
+      - deathmatch 256 to enable Cujo bot
+      - Cujo bot is obtained by picking up lowest ranking armor in level
+      - those who defend "the armor" probably will do well in these games
+      - if you use this on a server, a REAL player must log in to make
+        Cujo available in deathmatch 256 games.
+
+   - if you use this patch on a server, the clients would need to
+     download DOOMBOT.ZIP and DMBT21B1.ZIP from ftp.cdrom.com or get
+     these files from you.
+                              
+
+
+v0.20b2 --> v0.20b3
+
+   - better looking text file
+   - added coop support
+      - monsters can now "see" the bots
+      - bots can now "see" the monsters
+   - bot recognizes buttons now and can press them if they choose to
+      - previously, it presses buttons by "accident".
+   - bot moves around more randomly now
+   - the amount of time bot searches for an item has been reduced
+      - time is no longer hard-coded, it is now based on distance
+        from bot when it initially found it.  Minumum search time,
+        however, is five seconds.
+         - this ALSO means that items will be tagged unreachable after
+           five seconds of trying to get to it.  Will be tagged
+           reachable after 90 seconds.  This means it can try again
+           later.
+   - bot will now still search for enemies while moving to found
+     items.
+   - code that was commented out in previous version(s) have been
+     uncommented out (hopefully, I found them all)
+      - eg. players can no longer use the "impulse 9" cheat code
+        in deathmatch and coop games anymore
+   - bot recognizes doors now.  Previously, it uses doors by "accident".
+     Now bot can CHOOSE to head towards a door.
+   - bot recognizes doors that need to be shot to open.
+   - increased "miss factor" for bots by over 50% for all skill levels
+   - yaw speed (how fast bot can turn) is now based on skill level
+      - this affects bots ability to follow target greatly
+      - can also affect bots ability to aim at target
+         - try circling a skill 0 bot, then try doing the same
+           thing against a skill 3 bot.
+      - low skill bots can sometime move like a "truck" making wide turns
+      - combined with the increased "miss factor" above, the low skill
+        bots are a "non-aiming" bunch assuming you are not stationary.
+   - will NOT shoot trigger_multiple entities.  Actually it never did.
+     Until I can find a way to keep the bot from shooting at it over and
+     over again, this ability won't be added.
+   - removed "server-friendly" status.  so now everyone who wishes to
+     use this modification will now have to download DOOMBOT.ZIP
+   - 6 new names were added so a total of 15 bots can be spawned
+
+   - this beta version still needs to be tested.
+
+===============
+Future versions
+===============
+
+   - may add female skins and sounds like the Darkbot v0.10.
+      - need to know where I can get female skins and sounds
+   - looking for suggestions for WEAPONS you want the bot to use
+      - weapon must not use a lot of explosions in a short period of time
+         - this causes lag
+            - those with high resolution suffer from the lag the most
+      - information on where I can download the source for this weapon
+      - must not be of the "super" weapon type.  See Killer Quake Patch
+        for numerous examples.  Imagine what a bot could do with these
+        and you can see why I won't add "super" weapons.
+      - must be a WEAPON, not a gadget like decoys, holograms and such
+         - bots don't need gadgets
+         - bots don't get fooled by gadgets
+         - I don't like gadgets.  They are boring.
+   - add more comments
+      - looking for suggestions for comments the bots would say
+
+================
+General Comments
+================
+
+   - I have a strong suspicion that bots won't show up on rankings properly,
+     if at all, if this patch is used on a server.  Since I have only one
+     computer to play Quake, I can not test its limited server capabilities.
+      - if bots don't show up on rankings, then I will probably add the
+        old method of keeping track of frag counts
+
+   - This version [0.21b1] still needs extensive testing.  The hook and Cujo
+     were added without any extensive testing of v0.20b3.  If anyone
+     sent bug reports via e-mail, I have not read them yet since I
+     am unable to log in to my nether.net account.  And obviously, I can not
+     send out any e-mail, either.  In any case, please send bug reports
+     to legion@keg.zymurgy.org instead of legion@nether.net.
+
+     I've always had the zymurgy account but it requires a mail client that
+     supports POP3.  I've only recently found one that works in
+     Linux that works well--Netscape's.
+
+     (If you are still confused, nether.net is *NOT* my ISP.  Nether.net
+     is the system I use to read/send e-mail.)
+
+   - Curious as to why Jonathan E. Wright, author of both Cujobot AND
+     Zeus bot, has never gotten around to combining the two patches.
+     As of this writing, only Killer Quake patch v2.0 by Howard Roy has
+     both of these bots together.   Pretty cool compilation patch.
+     Download it from ftp.cdrom.com/pub/quake as soon as you can.
+      - although I did find the gibbable bodies of the KQP to be so
+        damn annoying.
+
+================
+Doombot Features
+================
+
+   - varying skill levels from zero to three
+   - bots can camp but only on modified, waypoint maps
+   - search routine is prioritized:
+      - searches for enemies first
+      - searches for items second
+      - searches for shootable doors, buttons to push, etc. last
+   - bots can run, jump and swim like real players
+      - bot won't blindly go up for air when it is swimming.
+        it will only go up if there is room to go up
+   - bots can pick up all items that a real player can
+   - bots use waypoints to move around just like the eliminatorbot
+      - waypoints are found on MODIFIED maps.
+         - two modified maps for START and DM6 are included
+            in doombot.zip
+         - you can get more modified maps at
+            ftp.cdrom.com/pub/quake/quakec/bots/eliminator
+      - if no waypoints are found, bot will move around randomly like
+        the roambot
+         - this means if you choose to play the bot on UNMODIFIED
+           maps, the bot will move around randomly hitting walls,
+           walking through doors, pressing buttons, picking up items,
+           going through teleporters as it searches for your dumb ass.
+   - bots show up on rankings and have their own colors and names
+      - this is the reason for executing Quake using the -listen
+        parameter discussed above.  Otherwise, it will crash.
+      - if you wish to practice loading up Quake, I suggest you
+        try to spawn 4 or more bots without using the -listen
+        parameter.
+      - this is also the reason for not using the bots in single-player
+        games.  You don't have "rankings" in single-player games.  Spawning
+        one bot in single-player games causes an "i > max.clients" crash
+        which I am sure some of you already found out the hard-way.
+   - upto 15 bots can be spawned but I recommend 4 to 6 for P100 machines
+   - bots will chase target while attacking
+      - not like the Zeus bot when it chooses to fight from a distance, Zeus
+        will only "chase" if you are too far away.  Doombot always chases.
+   - bot can use *ALL* eight weapons.
+      - chooses the axe when appropriate
+         - unlike other bots which don't use the axe or it only
+           uses the axe when it runs out of ammo, doombot will consider
+           the axe as a VIABLE option
+   - bot will chase you around when it is attacking you.
+   - bot can also "revive" rather than respawn after being killed
+   - the bot named Jason is the only one, player or bot, that can use
+     the throwing axe
+   - when bot is chasing player, bot will strafe left and right if player
+     is looking at the bot.  Otherwise, it will not strafe.
+   - when bot is close enough to player, bot will attempt to circle enemy
+     for skill levels greater than 2.
+   - when chasing player, bot will not follow the player into lava most of
+     the time.  Will still follow player into water or slime.
+   - low skill bots are "nervous".  Don't be surprise to see some eratic
+     shooting from these bots unless it has a shotgun.  Something called
+     bullet spread helps reduce the chance that the bot will miss from
+     close range even if you are moving.
+   - bots use skins, players do not.
+   - navigates over "cracked ground" (eg. the rocket launcher corridor of
+     the START map) when chasing player, roaming around randomly or picking
+     up items on maps without waypoints
+      - bot uses my own bot_movetogoal function to move around for these
+        things
+      - bot uses Quake's movetogoal function to move around when it is
+        using waypoints.  So it is not smooth on cracked ground on these
+        maps.
+         - eliminator waypoint routine contains instructions for jumps and
+           swimming.  bot_movetogoal has its own routine for jumps and
+           swimming.  Thus, waypoint routine not fully compatible with
+           bot_movetogoal.
+   - when the bot loses a player it was chasing, there's a 3-4 second
+     delay before the bot starts looking for OTHER enemies.  It will only
+     look for that one specific enemy for 3 to 4 seconds.  This gives other
+     players 3 to 4 seconds to fire the first shot.  Don't blow it.
+
+   - no more weapon switching when picking up backpacks.
+   - backpacks now contain *ALL* the weapons the previous owner had
+
+   - THIS IS A DEATHMATCH BOT!
+
+===============
+Doombot Options
+===============
+
+   - deathmatch 16 puts health in backpacks
+      - pickup backpacks and you get health.
+         - amount of health is depended on skill level of previous
+           owner
+         - human owners give random amount of health
+   - deathmatch 32 to DISABLE grappling hooks.
+   - deathmatch 64 for "Humans vs Bots" deathmatch games.
+      - humans can do whatever but bots will only attack humans
+      - bots have the same skin and color
+   - deathmatch 128 for Axe-Only deathmatch games.
+   - deathmatch 256 to ENABLE cujobot
+
+===================
+Server Instructions
+===================
+
+   a) set temp1 variable in autoexec.cfg to 100
+      (eg. temp1 100).
+      - this spawns bots automatically once a REAL player logs in
+   b) set sv_aim in autoexec.cfg.  Follow instructions in autoexec.cfg.
+      - sv_aim controls how many bots and skill level
+   c) set deathmatch variable in autoexec.cfg for variation. Default = 1.
+   d) load Quake:
+      quake -game doombot -dedicated +map (mapname)
+
+   - Alternatively,
+   a) load Quake:
+      quake -game doombot -listen 16 +map (mapname)
+   b) join game as a player on server
+   c) press F7 (assuming you executed autoexec.cfg that came with the patch).
+      - this will execute bot.cfg to create bots based on your specifications
+        in bot.cfg
+
+   - or alternatively (recommended)
+   a) set temp1 variable in autoexec.cfg to 100 (eg. temp1 100).
+      - this is to spawn bots automatically
+   b) set sv_aim in autoexec.cfg.  Follow instructions in autoexec.cfg.
+      - sv_aim controls how many bots and skill level
+   c) set deathmatch variable in autoexec.cfg for variation. Default = 1.
+   d) load Quake:
+      quake -game doombot -listen 16 +map (mapname)
+   e) join game as a player. bots will then spawn automatically.      
+
+
+   NOTE: the clients NEED to download DOOMBOT.ZIP and DMBT21B1.ZIP.
+
+
+=====================
+Extraction Directions
+=====================
+
+   With DOOMBOT.ZIP
+
+   a) create the following directories within Quake main directory
+      doombot
+      doombot\maps
+      doombot\progs
+      doombot\sound\axe
+      doombot\text
+   b) extract all *.bsp files into the doombot\maps directory
+   c) extract all *.mdl files into doombot\progs
+   d) extract all *.wav files into doombot\sound\axe
+   e) extract all *.txt files into doombot\text
+   f) extract progs.dat into doombot
+   g) execute quake by
+      quake -game doombot -listen 16
+
+   With dmbt21b1.zip
+
+   a) copy progs.dat into doombot directory
+      - this will overwrite the older progs.dat in doombot.zip
+   b) execute quake by
+      quake -game doombot -listen 16
+
+
+================
+Impulse Commands
+================   
+
+   a) impulse 73 toggles on/off the grappling hook      
+   b) impulse 200 spawns one DEATHMATCH bot.
+
+
+==========
+Known Bugs
+==========
+
+   - NO FREE EDICTS.  This is due to a MAJOR, MAJOR problem with Quake
+   and has absolutely NOTHING to do with the patch itself.  This error
+   occurs for a couple of reasons.
+      1) Quake is grossly incapable of keeping count with the number
+         of free edicts available.  That is, rather than use an edict
+         that has been designated as free (which means that Quake
+         should use that edict!), Quake creates more edicts.  There is
+         a maximum number of edicts that can be created.   Once this
+         maximum number has been exceeded, Quake will crash.  You will
+         see this error quite often in patches and maps which causes
+         Quake to spawn a lot of entites quickly.
+      2) The maximum number of edicts is only 449.  All entities uses
+         edicts.  So those spike traps that you are so fond of eats up
+         a few edicts.  Those lava balls that you see uses up edicts.
+         The bubbles you see when you are drowning uses edicts.  Players
+         getting gibbed uses edicts.  The list goes on and on.  Naturally,
+         it should not surprise anyone that the maximum limit is reached
+         so quickly especially since Quake is incapable of keeping track of
+         the actual number in use.
+
+      - to reduce the likelyhood that this error would occur, you
+        should do one or more of the following:
+         a) use a BETTER map.
+            - smaller map
+            - map with few spike traps, lava balls, etc.
+            - maps with waypoints but not too many waypoints
+         b) use fewer bots (prefered range is 4 to 6 bots)
+         c) use a higher skill level (preferred range is 2.5 to 2.8)
+            - skill 3 bots are a tiny bit "unrealistic" in its use of
+            the grenade launcher.
+            - low skill bots spawn markers to roam around randomly
+               - lower the skill, more often it roams randomly
+               - higher the skill, more often it uses waypoints on
+                 maps that have them
+               - more markers spawned means greater chance of crash
+            - *ALL* bots regardless of skill will roam randomly
+              on maps without waypoints.  This means they will be spawning
+              markers.  This is why I recommend waypoint maps.
+         d) don't try to spawn too many bots at once.
+            - prior to adding the hook and Cujo, you could spawn bots
+              (upto 15) very quickly and without any problems.  This
+              is not true anymore.  Even with the grappling hook and
+              Cujo disabled, the problem still persists.
+              - the extra patches require more variables for Quake to
+                keep track of.  It doesn't matter if the hook and Cujo
+                is disabled.  The patches are part of the doombot now
+                and so are all the variables used by these patches.
+                Thus, Quake now has a harder time keeping track of the
+                number of edicts in use.
+
+
+   - PLAYER ends up in a VOID.  If you see a gray-colored area in your
+     screen then you are in a void.  This is again a problem with Quake.
+     Quake has a problem in removing entities properly.  In using the hook,
+     the hook itself needs to be removed, right?  When a victim dies and
+     the hook is removed, occasionally Quake transports the victim into a
+     void after Quake removes the hook.  This happens with ANY entity is
+     removed and the "victim" happens to be at the same location as the
+     entity.   Don't be surprise to see a few bots disappearing after
+     30 minutes of play.  The only solution to this ignorant problem is
+     to make sure that no entites are removed EXCEPT when its "think time"
+     is up.  This is unacceptable as this will not work at all with the
+     hook and increases the likelyhood that NO FREE EDICTS error will occur.
+      - this won't mess up the entire game, only the "victim" is affected.
+        If the victim is a real player, the player will have to re-enter
+        the game and start from the beginning.  If the victim is a bot,
+        then that bot is gone for good.  The "think" functions of the
+        bot is disabled while it is in a void.  And there are two types
+        of voids you should be aware of.
+         - one void is where you keep falling and falling and falling.
+           - I've included a routine in all of the think functions to
+             check for this.  If the bot has "fallen" from the level,
+             the bot will explode and respawn at a player DM start.
+         - another void is the first void I described in which all you
+           see is a grey area in your screen.  The think functions are
+           disabled and the bots are stuck.  In fact, if you are in this
+           void you are stuck too and that is why you have to start over.
+      - some of you probably have seen this void problem in other people's
+        weapon patches.  Some authors have commented that maybe their new
+        weapon was just too powerful.  Unfortunately, that is not the case.
+      - bug does not occur very often and I've only seen it twice and both
+        times involved being hooked and killed with a rocket launcher or
+        grenade launcher.   Deathmatch 32 disables hook.
+
+   - INCORRECT frame usage.  Actually, this is an old bug I haven't got a
+     clue on how to fix it.  The bot will go through incorrect frames.  It
+     does not affect game play--bot can still run, swim, jump, attack,
+     search for items or enemies and other things.  It looks strange seeing
+     the bot go through a portion of the death animation while still
+     trying to kill you.  It is believed that this is a problem with
+     Quake.  Quake has a bad problem in "remembering" the values of various
+     variables.  Incorrect frame usage could be one of the symptoms of this
+     problem.  For all I know, Quake's inability to keep track of free
+     edicts could be related to this.  That is, that problem is also a
+     symptom of another problem--Quake can not keep track of variables fast
+     enough and accurate enough.
+      - the animation sequence does get corrected eventually however.  And
+        the problem does not occur too often but it occurs often enough to
+        deserve mentioning.
+
+
+=============
+Availability
+=============
+
+You can find this patch at the following URLs:
+
+a) ftp://ftp.cdrom.com/pub/quake/quakec/bots
+
+b) <on my homepage when I get a new ISP>
+
+================
+About the Author
+================
+
+Quake enthusiast who hasn't played a deathmatch game in months.  Graduate
+of University of Maryland at College Park with a degree in Chemical
+Engineering.  What else do you want to know?  Oh, I'm male, heterosexual;
+5 feet 8.5 inches, weigh about 165 to 170 pounds (depends on whether or
+not I just took a dump); likes women; does not like Pat Robertson/
+Pat Buchanan/Newt Gingrich/fundamentalist/"fundamentalist friendly" clones;
+despise censors especially censors who claim not to be against free speech or
+who are for "responsible" speech; should start working out again (stopped
+working out April 1993); drives a Blue dodge omni with over 100,000 miles on
+it and a left, rear-wheel that almost fell off just a couple of weeks ago;
+gets a haircut about twice a year; changes socks every leap year and brushes
+teeth [tooth] almost as often.
+
+"You don't REALLY need toilet paper for that; just use your hands and scrape
+it off."
+
+"You shouldn't camp with a rocket launcher aimed at your back."
+
+"Why do you camp in the middle of a large room?"
+
+"Why do you try to camp in the shadows when you have the Quad?"
+
+"I have a rocket launcher with 15 rockets; 140+ health; 150 armor, Quad, and
+Invulnerability.  You have 100 health, 25 shells and a shotgun.  Why
+do you insist on attacking me?  Is it really possible for me to get all this
+on E1M1 while camping?"
+
+=========================
+Copyright and Permissions
+=========================
+
+Authors MAY use this modification as a basis for other PUBLICALLY
+available work on the condition that the work is *FREE* to all who
+wish to use it.  If you add this modification to your work, for
+instance in a compilation, make sure you provide credit where credit
+is due. 
+
+Portions of the code used in doombot is copyrighted by their respected
+authors (ie. Jonathan E. Wright, Cameron Newham, Carson Sutton, Steve Bond,
+Perecli Manole, and Alan Kivlin).  Original QuakeC code is copyrighted by
+ID software.
+
+You may distribute this modification in any format except via CD-ROM
+as long as all accompanying files including this text file are unmodified
+and remain intact.
+

@@ -60,23 +60,23 @@ CTF Bot | Drew Davidson aka "BZ" | [ctfbot13b1.zip](bin/ctfbot13b1.zip)<br>ctfbo
 CTFBot+ | Anthony Distler aka "*this" | [ctfbotp032399.zip](bin/ctfbotp032399.zip) <br>[ctfbotmw21.zip](bin/ctfbotmw21.zip)<br>[ctfbotp071498-upgrade.zip](bin/ctfbotp071498-upgrade.zip)<br>[ctfbotp071498u.zip](bin/ctfbotp071498u.zip)<br>[ctfbotp070498.zip](bin/ctfbotp070498.zip)<br>[ctfbot_060298.zip](bin/ctfbot_060298.zip)
 Cujo | Jonathan E. Wright | [cujo14.zip](bin/cujo14.zip) ([txt](bin/cujo14.txt))<br>[cujo13.zip](bin/cujo13.zip) ([txt](bin/cujo13.txt))<br>cujo12c.zip<br>cujo12b.zip<br>cujo12a.zip ([txt](bin/cujo12a.txt))<br>cujo12.zip<br>cujo11.zip<br>[cujo10.zip](bin/cujo10.zip) ([txt](bin/cujo10.txt))
 Dark Frogbot | "Pinsolle" | darkfrog.zip
-Darkbot | Terry Hendrix aka "Dark_Skye" | [darkbot-fnl-q2.tar.gz](bin/darkbot-fnl-q2.tar.gz)<br>[darkbot_0.13.9-pak.zip](bin/darkbot_0.13.9-pak.zip)<br>[darkbot_0.13.9-src.zip](bin/darkbot_0.13.9-src.zip)<br>drkbt013.zip<br>[drkbt11b.zip](bin/drkbt11b.zip)<br>darkbt10.zip<br>darkbt09.zip<br>[darkbt07.zip](bin/darkbt07.zip)<br>drkbot04.zip ([txt](bin/drkbot04.txt))<br>[drkbot03.zip](bin/drkbot03.zip) ([txt](bin/drkbot03.txt))<br>[darkbt01.zip](bin/darkbt01.zip)<br>[darkbotx.zip](bin/darkbotx.zip)
+Darkbot | Terry Hendrix aka "Dark_Skye" | [darkbot-fnl-q2.tar.gz](bin/darkbot-fnl-q2.tar.gz)<br>[darkbot_0.13.9-pak.zip](bin/darkbot_0.13.9-pak.zip)<br>[darkbot_0.13.9-src.zip](bin/darkbot_0.13.9-src.zip)<br>drkbt013.zip<br>[drkbt11b.zip](bin/drkbt11b.zip) ([txt](bin/drkbt11b.txt))<br>darkbt10.zip<br>darkbt09.zip<br>[darkbt07.zip](bin/darkbt07.zip)<br>drkbot04.zip ([txt](bin/drkbot04.txt))<br>[drkbot03.zip](bin/drkbot03.zip) ([txt](bin/drkbot03.txt))<br>[darkbt01.zip](bin/darkbt01.zip)<br>[darkbotx.zip](bin/darkbotx.zip)
 DarkCTF Bot | Terry Hendrix aka "Dark_Skye" | [darkctf13.zip](bin/darkctf13.zip)
 DeathBot | James Boswell aka "FlashFire" | [death-64.zip](bin/death-64.zip) ([txt](bin/death-64.txt))
 Demonshooter | "Shootermaster" | [shooter.zip](bin/shooter.zip)
 DJBot | Dave James aka "DJ" | djbot1.zip
 DM Bot | Nathaniel Gorham | [dmbot1.zip](bin/dmbot1.zip) ([txt](bin/dmbot1.txt))
 DOBBSBot | Stephen Dobbs | [dobbsbot15bwp.zip](bin/dobbsbot15bwp.zip)<br>dobbsbot15b.zip<br>[dobbsbot15a.zip](bin/dobbsbot15a.zip)
-Doombot | Roscoe A. Sincero aka "Legion" | [dmbt21b3.zip](bin/dmbt21b3.zip)<br>dmbt21b1.zip<br>dmbt20b2.zip<br>doombot.zip
-Drastic Reaper Bot | Mark Wheeler | [dreaper.zip](bin/dreaper.zip)<br>[dreaper1e.zip](bin/dreaper1e.zip)
+Doombot | Roscoe A. Sincero aka "Legion" | [dmbt21b3.zip](bin/dmbt21b3.zip) ([txt](bin/dmbt21b3.txt))<br>dmbt21b1.zip<br>dmbt20b2.zip<br>doombot.zip
+Drastic Reaper Bot | Mark Wheeler | [dreaper.zip](bin/dreaper.zip) ([txt](bin/dreaper.txt))<br>[dreaper1e.zip](bin/dreaper1e.zip)
 Drop Quad/Ring (FMOD) | Brian Mathiasen aka "EraZoR" | [quadring.zip](bin/quadring.zip)
 EdBot | Edward Dawson aka "HotCakes" | [edbot0-04.zip](bin/edbot0-04.zip) <br>[edbotsrc0-04.zip](bin/edbotsrc0-04.zip)
 ELFBOt | "SkinSki" aka "MauveBib" | [elfbot.zip](bin/elfbot.zip)
 Eliminator Bot (CBot) | Cameron B. Newham | [elim14.zip](bin/elim14.zip) ([txt](bin/elim14.txt))<br>[elimsrc.zip](bin/elimsrc.zip)<br>elim13.zip<br>[elim12.zip](bin/elim12.zip) ([txt](bin/elim12.txt))<br>[elimtst1.zip](bin/elimtst1.zip) <br>[elim11.zip](bin/elim11.zip) ([txt](bin/elim11.txt))<br>elim10.zip ([txt](bin/elim10.txt))
 Eliminator Bot v1 | Jonathan Down aka "Perged" | [elim141.zip](bin/elim141.zip)
 Eliminator Bot v2 | Jonathan Down aka "Perged" and P. T. Craig aka "FuzzKatT" | [elim20b7.zip](bin/elim20b7.zip)
-Estep Bot (EsTePBot) | Enrique Gonzalez Alonso aka "EsTePaRiO" | [estepbot2eng.zip](bin/estepbot2eng.zip)<br>[estepbot2.zip](bin/estepbot2.zip)
-Frag Bot | Richard Peacock aka "The Goat" | [fragbot.zip](bin/fragbot.zip)
+Estep Bot (EsTePBot) | Enrique Gonzalez Alonso aka "EsTePaRiO" | [estepbot2eng.zip](bin/estepbot2eng.zip) ([txt](bin/estepbot2eng.txt))<br>[estepbot2.zip](bin/estepbot2.zip)
+Frag Bot | Richard Peacock aka "The Goat" | [fragbot.zip](bin/fragbot.zip) ([txt](bin/fragbot.txt))
 Frik-TF | Raymond Martineau | [friktf-092800.zip](bin/friktf-092800.zip)<br>[friktf-092800-src.zip](bin/friktf-092800-src.zip)<br>friktf-092800-qw.zip<br>friktf-092800.tar.gz<br>friktf-051901.zip<br>[friktf-051800.zip](bin/friktf-051800.zip)<br>[friktf-051800-qw.zip](bin/friktf-051800-qw.zip)<br>[friktf-051800-src.zip](bin/friktf-051800-src.zip)<br>frik-tf.zip<br>[friktfqw.zip](bin/friktfqw.zip)
 FrikBot + Artifact Quake (Runebot) | Chuck Parsons | [rnbt9.zip](bin/rnbt9.zip)<br>[rnbt4.2.zip](bin/rnbt4.2.zip) <br>rnbt3.6.zip<br>rnbt3.4.zip
 Frikbot + CTF | Benjamin Darling aka "Electro" | [frikbotctf_01.zip](bin/frikbotctf_01.zip)
@@ -115,14 +115,14 @@ Frogbot BotMatch Arena | Alex aka "DmSouL" | [botmatch.zip](bin/botmatch.zip) <b
 Frogbot Deathmatch | Alexey Pakhomov aka "ParboiL" | [fbdm012.zip](bin/fbdm012.zip)<br>[fbdm07.zip](bin/fbdm07.zip)
 Frogbot Special Edition | Brian Mathiasen aka "Erazor" | fb013se.zip
 Frogbot | Robert Field aka "Frog" | [frogbot013.zip](bin/frogbot013.zip)<br>[frogfix1.zip](bin/frogfix1.zip)<br>fixedsrc.zip<br>frog_src.zip<br>fbph.zip<br>[frogbot012c.zip](bin/frogbot012c.zip)<br>frogbot012b.zip<br>frogbot012a.zip<br>frogbot012.zip<br>frogbot011b.zip<br>frogbot011.zip<br>frogbot010.zip<br>frogbot009.zip<br>frogbot008.zip<br>frogbot007.zip<br>frogbot006.zip<br>frogbot005.zip<br>frogbot004.zip<br>[frogbot003.zip](bin/frogbot003.zip)<br>frogbot002.zip<br>frogbot001.zip<br>frogbot000.zip<br>
-Gideon Bot | Matthew Turvey | [gidbot.zip](bin/gidbot.zip)
+Gideon Bot | Matthew Turvey | [gidbot.zip](bin/gidbot.zip) ([txt](bin/gidbot.txt))
 GlacierBot | Rainier Rapera aka "IceDagger" | [gb027b.zip](bin/gb027b.zip)
-GuardBot | Peter van Wingerden | [grdbot23.zip](bin/grdbot23.zip)<br>grdbot13.zip<br>guardbot.zip
+GuardBot | Peter van Wingerden | [grdbot23.zip](bin/grdbot23.zip) ([txt](bin/grdbot23.txt))<br>grdbot13.zip<br>guardbot.zip
 GYPObot | Stephen Dobbs | [gypobot.zip](bin/gypobot.zip)
 Hellsmash | Khin Mannering aka "Dr. Shadowborg" | [qsr04apatch1.7z](bin/qsr04apatch1.7z)<br>[qsr04a.7z](bin/qsr04a.7z)<br>[qsrbeta3a.zip](bin/qsrbeta3a.zip)<br>[qsrbeta3a_src.zip](bin/qsrbeta3a_src.zip)<br>[qsrbeta3x.zip](bin/qsrbeta3x.zip)<br>[qsrbeta3.zip](bin/qsrbeta3.zip)<br>qsrbeta1b.zip<br>qsrbeta1.zip
 Holo Soldier FMOD | Algirdas Kepezinskas aka "ZeCybEr" | holomod.zip
 Human Bot (Hbot) | Jeffrey Lee | [hbot.zip](bin/hbot.zip)
-Indecisive Bot (Gyrobot) | Aaron Logue aka "Gyro Gearloose" | [gyrobot.zip](bin/gyrobot.zip)<br>[gbotsrc.zip](bin/gbotsrc.zip)
+Indecisive Bot (Gyrobot) | Aaron Logue aka "Gyro Gearloose" | [gyrobot.zip](bin/gyrobot.zip) ([txt](bin/gyrobot.txt))<br>[gbotsrc.zip](bin/gbotsrc.zip)
 IronWulvt's Deathmatch Bot | Ben Garrod aka "IronWulvt" | [iwbot21.zip](bin/iwbot21.zip) ([txt](bin/iwbot21.txt))<br>iwbot20.zip<br>[iwbot16.zip](bin/iwbot16.zip)<br>iwbot15.zip<br>[iwbot1.zip](bin/iwbot1.zip) ([txt](bin/iwbot1.txt))
 JBot | Jeffrey Lee | [jbot.zip](bin/jbot.zip)
 KarNag Bot | Ken Madlener | [knbot45.zip](bin/knbot45.zip)<br>[knbot03.zip](bin/knbot03.zip)

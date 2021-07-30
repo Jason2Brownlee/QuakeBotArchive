@@ -1,0 +1,130 @@
+Title     : Darkbot 11th Beta
+Filename  : drkbt11b.zip
+Version   : Beta 11b
+Date      : June 1997
+Author    : Dark_Skye (Terry Hendrix)
+Email     : darkskye@mindspring.com
+WWW site  : http://www.mindspring.com/~darkskye/index.htm
+Build time: a while now
+Thanks    : John Carmack, American McGee, and id for quakeC.            
+            PUNISHER and the Bgbot crew for getting me started. 
+            Alan Kivlin	for color/frag/name scoreboard MSG f(x)'s.
+	    Drew 'BZ' Davidson for a few ideas. 
+            Linus Torvalds for killing Bill Gates hold on PCs.  
+            Undernet #quake and #linux for being cool.         
+            Former clanmates and enemies. 
+            Roscoe and Ken, they're entertaining aren't they?          
+            All my beta testers and llamas.
+
+Type of Mod
+-----------
+Quake C  : yes
+Sound    : no
+MDL      : no
+
+Format of QuakeC (if a Quake C Mod)
+-----------------------------------
+unified diff  : no
+context diff  : no
+.qc files     : no
+progs.dat     : yes 
+
+Description of the Modification
+-------------------------------
+Darkbot has 12 bots for DM ("clan ring" mode optional) and coop
+6 skins 
+observer mode
+Progs.dat loaded waypoints:
+ Start:
+  jump to nailgun 
+ E1M1:
+  route to 666 from rad suit
+  jump to nailgun
+  from platform to rl
+
+Tech stuff
+----------
+Please email me any bug reports/ suggestions.
+...if it gets laggy try -winmem 12
+
+How to Install the Modification
+-------------------------------
+make a subdirectory darkbot in your quake directory
+copy pak0.pak into the directory darkbot you just made
+
+How to Use the Modification
+---------------------------
+NOTE: you also need a drkpkXXX.zip file where XXX is any version number
+
+Single Player:
+Follow instructions for listen server 
+
+Listen Server: 
+Please use Quake -game darkbot -listen 16 + temp1 34         
+this spawns 3 bule and 4 red level respawning bots
+
+Dedicated Server: 
+Quake -dedicated {#players + #bots} +temp1 34 +deathmatch 1 +map e1m1
+This spawns 3 bule and 4 red level respawning bots in a DM on e1m1.
+If you'd like a different password and MOTD email me i'll code it in
+and mail you back the new progs.dat.  Please mail me if you run a 
+dedicated DarkBOT server
+
+How to be an ADMIN:
+If not an observer: impulse 255 - 250 - 251 - 252 - 253        
+Else Password: impulse 250 - 251 - 252 - 253	
+
+HINTS: 
+---------------
+Set fraglimit 50 is a good idea, bots WILL exit levels.
+Fraglimit makes it so if you have less frags than fraglimit when you 
+  touch the levelchange trigger your telefraged.
+You must be an ADMIN to do anything "kewl" no matter what game type.
+When you run a dedicated server the bots will play without any humans
+  and changelevels themselves 'cause who wants to play e1m1 10 times?
+Temp1 can be any number from 0 (no bots) to 66 (6 red, 6 bule).
+
+
+New for Beta 11b
+------------------
+Damn annoying bot watermove sound when swimming removed 
+ ( CONTENT_EMPTY when bot.waterlevel == 1 )
+Annoying no lg discharge in water fixed 
+ ( run a watercheck inside weapons like lg )
+Added a lg discharge in water at ppl when bot health is low 
+The most stable dedicated server id routine yet!
+
+On Deck
+-------------------------
+Roaming ai? my bot does good without it...with it  =)
+Dynamic level mapping
+Perhaps a multibot patch with another bot maker?
+New skins and new female sounds?
+
+Help me I need it
+-------------------------
+Please contribute female snd fx!!!
+Please report any bugs you see.
+
+All about the lame authour
+--------------------------
+I coded in ADA C, Fortran, and some basics and serveral 
+script languages before this "quake" C. 
+I check my box at least every week...
+
+Copyright and Distribution Permissions
+--------------------------------------
+The original QuakeC source is Copyright 1996, id software.
+I'll release source after the code is commented. (next release??)
+Scorebroad frag/name and color MSG_UPDATES Alan Kivlin (qcbot).
+Female sound fx aren't mine. (listen close...from another game)
+Aim skill/waypoints based on code by Drew Davidson (ctfbot).
+Drew also gave me the idea to set a bot's waterlevel .float directly
+ although he set feet waist and eye levels wrong.  =)
+Everything else done by Dark_Skye.
+
+
+Availability
+------------
+FTP.CDROM.COM/pub/quake/quakec/bots/
+http://www.mindspring.com/~darkskye/index.htm (latest)

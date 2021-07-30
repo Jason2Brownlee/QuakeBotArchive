@@ -1,0 +1,122 @@
+Title     : Drastic Reaper Bot
+Filename  : dreaper.zip
+Version   : Beta 3
+Date      : 10/17/97
+Author    : Mark Wheeler
+Email     : markwheeler@erols.com
+Website   : http://www.markwheeler.com
+Credits   : Text files from mods used included in pak
+Build time: 2-3 hours per day for 3 weeks
+
+Type of Mod
+-----------
+Quake C  : yes
+Sound    : yes
+MDL      : yes 
+
+Format of QuakeC (if a Quake C Mod)
+-----------------------------------
+.qc files     : no, don't ask for them.
+progs.dat     : yes
+
+
+Description of the Modification
+-------------------------------
+
+This is a modified Reaper Bot. Actual modifications to the Reaper code
+are based on the Reaper Improvement Protocol found at http://www.inside3d.com
+or http://www.brutality.com/scrap/index.html. There are several weapons mods
+most of which are based on tutorials found at the above mentioned sites.
+I did borrow the Killer Quake Pak's minigun. All related text files
+for the original mods are included in the pak.
+
+Weapons
+-------
+
+1. Hell Knight Axe / Throwing Axe / Grappling hook
+2. Laser Rifle / Rebound rifle
+3. Super Shotgun / Buzzsaw
+4. Flamethrower / Crossbow
+5. Super Nailgun / Minicannon
+6. Normal grenades / Nailbombs
+7. Normal rockets / Drunken rockets
+8. Positron Beam
+
+Motion detectors, holograms, jetpack (green armor).
+
+
+Commands include:
+
+IMPULSE 44 - Help/Impulse List (please see this list first for
+	     impulses for motion detectors, holograms and observer mode.
+
+IMPULSE 200 - Increment skin (if skins support is set)
+IMPULSE 201 - Decrement skin (if skins support is set)
+IMPULSE 202 - Toggle skins support - three settings
+		(off, normal, skill skins)
+		With skill skins mode, bot skin
+		depends on its skill level
+IMPULSE 205 - add a bot (can do it repeatedly)
+IMPULSE 208 - add four bots
+IMPULSE 210 - scores (bring up the console -
+		hit the ~ key - to read)
+              scores are now on the scoreboard!
+IMPULSE 211 - remove all bots
+IMPULSE 212 - Toggle limited observer mode
+		(you are invisible to bots unless you 
+attack them, but move normally)
+IMPULSE 214 - update bots. Use when the 
+		SV_GRAVITY or SV_MAXSPEED 
+		server cvars are changed.
+IMPULSE 215 - Toggle verbose mode 
+		(bots tell you what they're doing).
+IMPULSE 218 - turn on restricted mode (only
+		client 0 can add bots or become
+		an observer)
+IMPULSE 219 - turn on super restricted mode
+		(no client can add bots or become
+		an observer)
+IMPULSE 220 - normal scores (frag count)
+IMPULSE 221 - update team colors (used to tell
+		the bots on your team if you change
+		colors)
+IMPULSE 222 - show top three scores (so you
+		don't need to bring down the console
+IMPULSE 1XX - Bounds the total number of bots
+		+ players to XX (XX must no
+		greater than 15)  Enough bots to
+		meet this bound are spawned, and
+		they leave and come back as players
+		enter and leave the server.
+SKILL N - Change skill level (N = 0 to 3, default is 1)
+
+Note: Make sure your SV_MAXSPEED is not set too
+high.  Bots use SV_MAXSPEED to determine their
+speed.  The default is 320, and a higher setting will
+make the bots move faster and look jerkier.
+
+
+Known bugs
+----------
+Bots ignore holograms.
+Your score may look to be at 0, but frags are still counted.
+
+
+How to Install the Modification
+-------------------------------
+
+Create a subdirectory in your Quake directory
+ (parallel to the ID1 directory) move the pak2.pak file included in this archive
+ to your new directory.  To play, type QUAKE -GAME "your directory" +EXEC HOOK.CFG from the Quake
+ directory.  This modification only works with the registered version of Quake.
+  Make sure you run deathmatch when you play with the bots- they don't play coop (either select
+multi-player, or type DEATHMATCH N at the console, where N = 1 or 2).  To change skill levels, type SKILL N at the console, where N is a value between
+0 and 3 (inclusive).
+
+
+Availability
+------------
+
+This modification is available from the following places:
+
+www.markwheeler.com
