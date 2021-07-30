@@ -1,0 +1,95 @@
+Title    : Original Robot Skins for the Reaper Bot
+Filename : roboreap.zip
+Version  : 1.0 (for Reaper Beta 0.8)
+Date     : 12/11/96
+Author   : Mr Clare, Deceased
+Email    : sml@cableol.co.uk
+Credits  : id software, naturally, and Steven Polge for making one of the best patches I've ever used since I started playing Doom, let alone Quake.
+
+Build time: about 10-15 hours for the Skins
+
+Type of Mod
+-----------
+Quake C  : no
+Sound    : no
+MDL      : yes  
+
+
+Description of the Modification
+-------------------------------
+
+This .MDL includes 5 skins for use with the Reaper Bot. One is the player 
+character, obviously. The other four are based on a robot design I created.
+When I first heard about the bots for quake, images of machines running 
+around destroying everything in sight came to mind. I've tried to make the 
+main design similar to that of a robot designed for war. 
+
+Which Skins are which? 
+----------------------
+
+The Skins follow the Skin Specifications for the Reaper Bots. However, due
+to myself only having 8mbs of RAM, I had to restrict myself, and thus could
+not include as many robot designs as I wanted. If there is significant 
+interest in this .MDL, then I'll design a full 16-skin version with several
+more robot designs and variations.
+
+Skill           Description
+-------------------------------------------------------
+No Skins        Player Skin
+0 (Easy)        Soldier/Red Robot, glowing red eyes, edges of head and edges
+		of armour.  Trousers, belt and logo change colour. Grey 
+		boots
+1 (Medium)      Solder/Black Robot, glowing yellow eyes and edge of head. 
+		Trousers belt and logo change colour. Grey boots
+2 (Hard)        Sergeant/Black Robot, fluoroscent eyes, edge of head, 
+		shoulders and trousers. Boots, belt and logo change colour.
+3 (Nitemare)    Commander/Black Robot. Almost completely pitch black, with
+		grey eyes, outline and head. No logo. No belt. Gun is 
+		completely grey. Black boots
+
+If you want more robots, I have a ton more ideas up my sleeve
+
+
+How to Install the Modification
+-------------------------------
+
+First, you'll need a copy of the Reaper patch. This can be obtained from :-
+
+ftp://ftp.cdrom.com/pub/idgames2/quakec/bots/reaper/reapr08b.zip
+
+Follow the installation instructions in that zip file for the reaper bot.
+
+Next, you'll need to install the .mdl. Make a directory in you reaper bot
+directory called progs. Move the .mdl in there. Simple as that!
+
+
+Author Information
+------------------
+
+This is the first, and hopefully not the last skins I do. Hopefully in the 
+future I'll also do some more skins and maybe some replacement skins. I was
+gonna do a Marilyn Manson Quake, but it appears a project is already in 
+the works. Oh well
+
+Copyright and Distribution Permissions
+--------------------------------------
+
+Authors MAY NOT use these modifications as a basis for other publicly or
+ commercially available work unless written permission is given.
+
+You may distribute this Quake modification in any electronic format as long as
+ all the files in this archive remain intact and unmodified and are distributed
+ together.
+
+
+Availability
+------------
+
+This modification *should* available from the following places:
+
+FTP     : ftp.cdrom.com in \pub\quake\quakec\bots\reaper
+
+or 
+
+FTP     : ftp.cdrom.com in \pub\quake\graphics\mdls
+
