@@ -1,0 +1,404 @@
+ษอออออออออออออออออออป
+บ  Title    : CUJO  บ
+ศอออออออออออออออออออผ
+
+Filename : CUJO13.ZIP
+Version  : 1.3
+
+Date     : 11/27/96
+
+Author   : Jonathan E. Wright
+
+Web Page : http://www.trailerpark.com/phase1/nelno/
+
+           Check here for the latest updates to Cujo.
+
+Email    : nelno@interpath.com
+
+Credits  : Micheal Polucha (TM Bot),
+           Tim Polucha (TM Bot), and
+           Nathaniel Gorham (DM Bot)
+
+	   ID Software for designing Quake with Quake C!
+
+ษอออออออออออออออป
+บ  Type of Mod  บ
+ศอออออออออออออออผ
+
+Quake C  : yes
+Sound    : yes
+MDL      : yes
+
+
+ษอออออออออออออออออออออป
+บ  Format of Quake C  บ
+ศอออออออออออออออออออออผ
+
+unified diff  : no
+context diff  : no
+.qc files     : yes
+progs.dat     : yes
+
+See the included file PROGS.SRC for a list of which files have been
+modified and which were added.
+
+
+ษอออออออออออออออออออออออออออออออออออป
+บ  Description of the Modification  บ
+ศอออออออออออออออออออออออออออออออออออผ
+
+This mod creates a personal attack dog which will follow the
+player and attack his enemies.
+
+There are three new weapons in the mod:  a laser blaster, selectable by
+selecting the shotgun twice, the blaze gun which replaces the normal nailgun,
+and the BFG, selectable by selecting the Thunderbolt twice.  Picking up
+a Thunderbolt automatically gives the player the BFG along with the
+Thunderbolt.  For more info about these weapons, especially the BFG-9000,
+see the separate text files BLAZEGUN.TXT and BFG-9000.TXT.
+
+
+ษอออออออออออออออออออออออออออป
+บ  How to use Modification  บ
+ศอออออออออออออออออออออออออออผ
+
+Impulse 100  Activates and Deactivates the dog
+
+Impulse 101  Pretty cool but you really shouldn't use it as Quake would get
+             really boring really fast.  I put it in to make Cujo debugging
+             easier.  Just try it.
+
+Impulse 102  Tell Cujo to stay or follow.  When staying, Cujo will stand
+             where he is until he sights an enemy or he is told to follow.
+             If Cujo sights an enemy, he will automatically leave stay mode
+             and return to the player after killing all targets (if he can).
+             Thanks to NAME HERE for suggesting this!
+
+Impulse 103  This toggles your screen between the player's viewpoint and Cujo's
+             viewpoint.  This looks a bit odd at first, because Cujo's yaw
+             (turn) rate is very high (normally in 30 degree increments).  I
+             turned this down to 20 degrees and it looks pretty decent, but
+             it's still not as smooth as the player view.  When you use this
+             view, your player is still vulnerable, so don't get distracted
+             for too long.
+
+Impulse 104  Teleport the dog to your location.
+
+Impulse 105  Turns on Cujo's collar lamp.  Great for dark places.
+
+Impulse 106  Reports on Cujo's status.  If Cujo is not visible to the player
+             then his status cannot be determined.
+
+Impulse 107  Toggles Cujo between attack and non-attack modes.
+
+Bind these impulses to keys to make commanding Cujo easy.  For example, to
+make the Q key activate and deactivate Cujo put this line in your
+config.cfg file (or type it in the Quake console):
+
+BIND Q "IMPULSE 100"
+
+Now, every time you press Q Cujo will be toggled between his active and
+inactive state.  You can bind the other two impulses in a similar manner.
+
+
+ษอออออออออออออออออออออออออออออออออออป
+บ  How to Install the Modification  บ
+ศอออออออออออออออออออออออออออออออออออผ
+
+Cujo no longer comes with it's own installation batch file.  To install
+Cujo 1.3, make a directory in your Quake directory called CUJO.  Unzip
+CUJO13.ZIP into that directory using PKUNZIP's -d option.  For instance:
+
+PKUNZIP -d C:\DOWNLOAD\CUJO13.ZIP
+
+If you do not use the -d option the mod will not work correctly, if at all.
+If you are using WinZip, it is normally set to do this automatically.
+
+To start Quake using the Cujo mod, go to your quake directory and type:
+
+QUAKE -GAME CUJO
+
+where CUJO is the directory where you unzipped the CUJO13.ZIP archive.  See
+the above section about impulses and binding keys to learn how to control
+Cujo once you're playing Quake.
+
+If you are interested in seeing how Cujo was made, you can manually
+unzip the file SOURCE.ZIP which was contained inside CUJO13.ZIP
+and look at the modified source.  If you would like to make your
+own Quake C mods, get QCC.ZIP and read the instructions contained
+within it.  Also, find one of the many web pages with info about
+Quake modifications to learn more.
+
+
+ษอออออออออออออออออออออป
+บ  Technical Details  บ
+ศอออออออออออออออออออออผ
+
+Features:
+
+New features in version 1.3:
+
+þ The grappling hook is available (only by selecting the axe twice - no
+  separate impulse).
+
+þ Cujo can now be hit by all of his owner's weapons fire, including the axe.
+  So, for Cujo's sake, aim carefully.
+
+þ Cujo can activate and use platforms.
+
+þ Cujo can follow the player by jumping across water and from ledge to ledge.
+  He gets lost a _lot_ less now.
+
+þ Cujo can follow the player into water.
+
+þ Cujo will jump into water if he becomes engulfed in flames.
+
+þ Cujo can now be activated in and under water.
+
+þ Cujo knows when to jump across water or gaps to attack an enemy.
+
+þ Both player corpses and Cujo corpses are solid and gibbable.
+
+þ A BFG-9000 that works *just like* (see BFG-9000.TXT) the original big-daddy
+  in Doom.
+
+þ The Blaze Gun which can light enemies and bodies on fire.
+
+þ Fire that can spread from one enemy to another -- don't get too close to
+  that burning body, or you might be next!
+
+þ An enforcer's blaster.
+
+Features carried over from version 1.2c:
+
+þ Cujo can draw enemy fire, lessening the amount of damage the player takes.
+
+þ Seeks out monsters or other players and attacks them.
+
+þ Will continue to attack as long as an enemy target is visible.
+
+þ Will not attack teammates under Teamplay rules.
+
+þ Cujo can follow the player through portals.
+
+þ Cujo will not activate trigger fields (such as light triggers and traps)
+
+þ Cujo is trained *not* to attack zombies, allowing you to toss a grenade
+  in there without blowing up your dog in the process.  (But he will
+  sometimes lick their gibs when your done - hey, dogs will be dogs!)
+
+þ Cujo is a special, genetically enhanced breed of Rottweiler with 8 times
+  the endurance of other dogs his size.  He can cause up to twice as much
+  damage per attack as his piddly cousins, too.  And to top it all off,
+  Cujo is wearing a special suit of armor designed specifically with him
+  in mind.  Cujo is one *bad* dog.
+
+þ Cujo is equipped with a special device based on slipgate technology.
+  Should he become separated from you, you can teleport him to your own
+  location instantly.  Cujo is even smart enough to activate this device
+  on his own when the distance becomes very great.
+
+þ Cujo does not need to be fed.  He takes care of this himself.
+
+þ Cujo just loves to tackle big Shamblers while you put the nails to 'em!
+
+þ This is not Sea Quest, so no amount of technology will allow you to talk
+  to an animal.  He just growls and barks like animals do.
+
+
+Bugs:
+
+þ None so far (yeah, right).
+
+þ Please email about any bugs you find!
+
+
+ษอออออออออออออออออออออออป
+บ  Future Enhancements  บ
+ศอออออออออออออออออออออออผ
+
+þ Cujo currently can jump across (over) and down, but not up to a higher
+  ledge.  This should be fixed in the next minor update, I just didn't
+  get around to it.
+
+þ Make Cujo go after a teleporter that his owner just went through.
+  Currently he handles teleporters okay, but doesn't knowingly try to
+  follow his owner through them.
+
+þ Decrease the time between frames for Cujo, most especially pain frames,
+  so that he will be less vulnerable to player attacks in deathmatch.
+
+þ Cujo still cannot move across broken floors very well, such as those in
+  the episode 3 entrance on the start level.  This is due largely to Quake's
+  internal movetogoal () function, and unless I write a replacement, I doubt
+  this problem will go away.
+
+
+ษออออออออออออออออออออป
+บ  Revision History  บ
+ศออออออออออออออออออออผ
+
+
+Changes in version 1.3
+
+þ Major following/attacking AI enhancements.
+
+þ Streamlined target acquisition code, now twice as fast.
+
+þ Fixed lots and lots of minor bugs:
+
+  Cujo no longer teleports to the owner during the intermission view.
+
+  Cujo always goes after the closest enemy/food in his view.  If another
+  was closer but not visible to Cujo, he still goes after the one he saw
+  first.
+
+  Fixed "tried to sprint to a non-client" message.
+
+  Cujo no longer eats gibs during deathmatches unless he is hurt.
+
+  Cujo no longer tries to eat "phantom-gibs".  This problem has been
+  ruthlessly tracked down and crushed :)
+
+  Cujo's body was not always being removed correctly.
+
+  Probably a lot more than these that I can remember.
+
+  Cujo doesn't "stand up" for a frame after dying, as he would sometimes
+  do before.
+
+þ Cujo's body is now copied to the bodyque (yeah, I know, it's queue) along
+  with the player bodies.
+
+þ Lots of other stuff I forgot to write down.
+
+
+Changes in version 1.2c
+
+þ Fixed some bugs with Cujo in deathmatch:
+
+    Cujo was not being removed when his owner died.
+
+    If the owner died while in Cujo's view he was stuck.
+
+    KILLing oneself did not remove Cujo (this bug was not actually related
+    to being killed).
+
+þ Fixed INSTALL.BAT and CUJO12B.BAT.  CUJO12B.BAT would actually try to run
+  from the directory QUAKE\CUJO12A, causing an error if version 1.2a was not
+  installed, and running the older version if it was installed, thus it might
+  appear that there were no changes.
+
+Changes in version 1.2b
+
+þ Fixed the bug which was screwing up the players vectors and causing some
+  of the weapons to malfunction -- most notably the lightning gun would
+  not follow the player when he turned!
+
+þ Fixed bug that allowed weapon changing while seeing from Cujo's point of
+  view.  This was reseting the weapon model and making it look as if Cujo
+  was carrying a weapon.  You can change weapons and even shoot while seeing
+  from Cujo's viewpoint, but the weapon model will not be displayed as if
+  Cujo were holding it.
+
+Changes in version 1.2a
+
+þ Impulse 103 - toggle to and from Cujo's viewpoint is now working correctly
+  (it was purposely disabled in version 1.2).
+
+þ Cujo runs a bit smoother because he is updated more frequently and his yaw
+  rate is 20 degrees instead of 30 (which is the turn rate of normal dogs).
+
+Changes in version 1.2
+
+þ Cujo will eat gibs and heads for health.  Eating either will heal him 15
+  points.  If there are no enemies around and Cujo's health is 90% or less
+  he will eat any gibs he sees.  If Cujo's health is 25% or less he will
+  go after any visible gibs even if enemies are visible to him.  Cujo will
+  not go after gibs if he has been told not to attack.  Thanks to Gary 
+  Mcmillin" <psyhe@hitech.net.au> for this idea!
+
+þ New rules for Cujo in a deathmatch:
+  1) You must pick up a yellow armor to get Cujo.  You will still get the
+     yellow armor, but Cujo will be made available to you for ONE USE.  If
+     you don't need the armor because yours is better or the same IT STILL
+     GETS PICKED UP.  This is to prevent the Cujo powerup from staying around
+     for other people to pick up.  If your armor is better, you will still
+     keep the better armor, but the armor powerup will disappear.
+  2) You can only spawn one Cujo at a time.
+  3) You can only keep one Cujo powerup at a time.  You CAN spawn a Cujo
+     and then pick up another Cujo powerup, but if you pick up a second
+     powerup, you will still only have one other use.  There is no counter
+     for how many Cujo powerups you can have.  You either have one or you
+     don't!
+  4) Instead of 200 health and 200 red armor, Cujo gets 100 health and
+     150 yellow armor in deathmatch.
+
+þ Cujo has a a refined skin, thanks to Ed Oviedo <joviedo@gibson.com>, who
+  smoothed it out with Photoshop.  Thanks, Ed.
+
+þ Cujo no longer teleports away when he is killed.  Either he get's gibbed,
+  or his body remains where it falls.  Much cooler.  The bodies stay around
+  for a few minutes.  Don't ask me to make all bodies solid.  I tried this
+  and it sucks.  They just get in the way.
+
+þ You can find out Cujo's health and armor status as long as he is in view
+  of the player.
+
+þ You can tell Cujo to stay or follow.  If Cujo is staying he will still
+  attack enemies, but he will not follow the player.  Thanks to Betty Hardy
+  <bhardy@idcnet.com> for giving me the idea.
+
+Changes in version 1.1
+
+þ Cujo now *looks* like a Saint Bernard!  Okay, he looks like a white
+  rottweiler with brown spots.  The dog skin doesn't seem to map quite
+  as regularly as the player skin (the dog skin is drawn at a weird angle)
+  so a 3 of the triangles that make up the dog were mapping wierdly and
+  I couldn't seem to change them completely.  Also, St. Bernards have
+  floppy ears and long tails, but Cujo doesn't, cause he's still made
+  from a rottweiler model.  If you think the new skin sucks, let me know,
+  because I'm not completely satisfied with it.  Your feedback will be
+  appreciated.
+
+þ fixed the absence of \n's (returns) after some of Cujo's barks and
+  growls
+
+þ Cujo now spawns to the right of the player if possible and will not
+  activate at all if there is no room around the player
+
+þ Cujo can now be told to break off an attack, or not to attack at all.
+  This makes it a lot easier to avoid killing him when you want to
+  punch a rocket into what he's attacking.
+
+þ Messages concerning Cujo's activation, deactivation and death now
+  all appear in the center of the screen, while Cujo's comments appear
+  at the top left. (Cujo also whines when he want's to attack and you
+  won't let him...)
+
+Changes in version 1.0
+
+þ What changes?  This was the first one.
+
+
+ษออออออออออออออออออออออออออออออออออออออออออป
+บ  Copyright and Distribution Permissions  บ
+ศออออออออออออออออออออออออออออออออออออออออออผ
+
+Authors MAY use these modifications as a basis for other publically
+available, not-for-profit work, provided they inform the author of any
+modifications which are made.
+
+You may distribute this Quake modification in any electronic
+format as long as this description file remains intact and unmodified,
+is retained along with all of the files in the archive and the
+author's name and email address are never removed from the code,
+despite other modifications which might be made.
+
+The above permissions do not apply to Actura Software, who may not do
+anything, in any form, in any way, by any means with these files,
+including, but not limited to, sale and redistribution of the software.
+
+If anyone else would like to include this modification in a collection
+of Quake modifications, whether for sale or otherwise, you must contact me
+and let me know about it.
