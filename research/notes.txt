@@ -1756,6 +1756,10 @@ killer90
 kal_qk-s
 	adds wisp
 	https://www.dukeworld.com/idgames2/quakec/compilations/kal_qk-s.txt
+Ultimate Devastation mod
+	has reapers
+	https://web.archive.org/web/20001211024700/http://www.inside3d.com/?show=August-1999
+
 
 
 OUT OF SCOPE
