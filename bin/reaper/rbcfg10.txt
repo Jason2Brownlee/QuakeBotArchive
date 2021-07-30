@@ -1,0 +1,145 @@
+Reaper Script v1.0 for the Reaper Bot v0.75 by NecroBoi     rbcfg10.zip
+-----------------------------------------------------------------------
+
+  Zip contents: Reaper.cfg, Readme.txt
+
+-----------------------------------------------------------------------
+
+
+- setup info
+
+  Print out this Readme.txt. Unzip RBCFG10.ZIP into the c:\quake\rpbot
+  or the subdirectory where your Reaper Bot files reside.
+            
+  When using the Reaper Bot the commandline should look like:
+
+           quake -game rpbot -listen +skill 1
+
+  Once in the game bring down the console and type "exec reaper.cfg"
+  minus the quotes. You can put this command at the end of your
+  autoexec.cfg or config.cfg to run this script automatically.
+
+-----------------------------------------------------------------------
+
+
+- Key Layout Overview
+
+  BACKSPACE - bot scores (regular table)
+  TAB - bot scores (top 3 scores)
+  [ - last skin selection
+  ] - next skin selection
+  0 - remove all bots
+  b - noexit toggle
+  i - verbose bots
+  j - query skill setting
+  k - decrease skill level
+  l - increase skill level
+  m - timelimit cycler
+  n - fraglimit cycler
+  o - limited observer mode
+  p - skins toggle
+  u - bot update
+  y - team color update
+  , - singleplayer selector
+  . - cycle deathmatch (2 modes)
+  / - cycle teamplay (4 modes)
+  F1 - add one bot
+  F2 - add 4 bots
+  F3 - add 3 team bots
+  DEL - kill (player suicide)
+  END - disconnect
+  HOME - restarts level 
+  ' - version info
+
+  Featuring an actual learning and adaptive AI, this is definitely the
+  best Quake deathmatch bot produced to date. If you have tried this
+  bot, then you know there are quite a few impulses to configure and
+  to remember. For my REAPER.CFG I have also included the following
+  aliases giving you some administrative functions to make setting up
+  a bot game that much easier:
+
+  - (F1) adds 1 bot and (F2) adds 4 bots. Refer to the original
+    documentation for editing 'add 3 team bots', (F3).
+
+    - When teamplay is set I would press (F2) for 4 opposing bots and
+      (F3) to add 3 bots on my team.
+ 
+  - A Skill Selector (k and l) - lower and higher respectively; to
+    query current skill setting press (j); the Skill script contains
+    fractional values allowing you to really find a suitable skill
+    level to play with the bot
+
+  - Noexit toggle (b); this function, plus Fraglimit and Timelimit,
+    are automatically disabled when Singleplayer (,) is invoked
+
+  - Fraglimit (n); Cycles up to 50 frags; you can edit this script to
+    add more values if you wish
+
+  - Timelimit (m); Cycles up to 60 mins; you can edit this script to
+    add more values or change the time increments if you wish
+
+  - Playmode Selectors have been added to allow you to set up specific
+    game types without having to go to the menu or the console. (,)
+    selects Single Player. (.) selects Deathmatch and toggles between
+    mode 1 and 2. (/) selects Teamplay and cycles 4 modes of play.
+
+    - After setting up your specified game with fraglimit, skill, etc.,
+      use the restart key (HOME) to allow all updated settings to take
+      effect. You can also use (END) to disconnect from your game.
+
+    - If you are using multiskin remember to toggle on Skins (p) after
+      restarting a level.
+
+  - Top 3 scores (TAB) replaces the default +showscores hud. I have
+    added the regular bot score table (BACKSPACE) which brings down
+    the console for viewing.
+
+-----------------------------------------------------------------------
+
+
+- Other Things
+
+  This particular script is taken from my Network Script v4.0 which
+  also contains a support script for playing on Threewave Capture
+  servers. If you would like to get <qcfg40.zip> you can find it at
+  ftp.cdrom.com/pub/idgames2/console or you contact me for it.
+
+  Mike Kelly (elkabong@oanet.com) has made a Reaper Bot Skins file
+  <reaprskn.zip> which allows you to play against the bots with dif-
+  ferent colored player skins creating the illusion of a real death-
+  match. You can find this file and The Reaper Bot <reaprb75.zip> at
+  ftp.cdrom.com/pub/idgames2/quakec/bots.  
+
+-----------------------------------------------------------------------
+
+ 
+* Copyright / Permissions *
+
+  Quake is a registered TM and Copyright © of id Software
+
+  Reaper Bot modification code is a Copyright © of Steven Polge
+
+  You MAY distribute this Reaper Bot support script, provided you
+  include this file with NO modifications. If you do come up with
+  cool stuff for this script, send to me your version. Be sure to
+  update the txt file and the config files to reflect the changes
+  you've made and rename the zip file. Please DO give me credit.
+
+
+- legal disclaimer
+
+  I am not responsible for anything that happens to you, your loved
+  ones, your computer, or anything on it when using this script. Use
+  at your own risk. Batteries not included. Some assembly required.
+
+
+- contact info
+
+  Please let me know what you think of this Reaper Bot support script.
+  I welcome all comments and suggestions. If you have any improvements
+  to add or cool aliases to share, I would like you to send them to me.
+
+
+  James Ariz
+  moebius@netcom.ca
+  "NecroBoi" on TEN, Quake servers and IRC 
