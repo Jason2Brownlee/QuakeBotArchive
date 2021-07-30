@@ -1,0 +1,114 @@
+Title    : Dark Bot
+Filename : darkbt03.zip
+Version  : 0.3
+Date     : i dunno
+Author   : Dark_Skye 
+Email    : dark_skye@mindspring.com
+Credits  : PUNISHER and his crew that did BgBot,
+ 	   tank you for BgBot (Dark Bot's daddy) source!!
+	   [i have inculded BgBot16.txt]
+Build time: i dunno, not long
+
+Type of Mod
+-----------
+Quake C  : yes
+Sound    : no
+MDL      : yes  
+
+
+Format of QuakeC (if a Quake C Mod)
+-----------------------------------
+unified diff  : no
+context diff  : no
+.qc files     : no, but i'm looking for someone to help me..email me
+progs.dat     : yes
+
+
+Description of the Modification
+-------------------------------
+
+
+Commands:
+	IMPULSE 123 - version msg
+	IMPULSE 100 - singleplayer bot, Player0 
+	IMPULSES 205-207 turn on a bot at a time...
+	IMPULSE 205 - make up to 3 playmates from Dark_
+	IMPULSE 206 - make up to 3 playmates from ]L
+	IMPULSE 207 - make up to 3 playmates from ]\/[
+	IMPULSE 200 - change your looks [forward thru skins]
+	IMPULSE 201 - change your looks [backward thru skins]
+	
+
+Features Include:
+
+Dark_Skye made this so....if ya see bugs email me....
+DarkBot 0.3 based on BgBot 1.6 thankx Punisher and Bgbot crew
+
+1.Added 7 skins to it in weapons.qc def.qc client.qc
+2.Added teleport fire patch in triggers.qc
+3.Various minor stuff 
+4."Fixed" team play in bot.qc impulse2.qc
+5.Now injuryfull team play ¡¡YES!! in combat.qc
+6.Now bots drown and stuff in botai.qc
+7.Light'n gun bots!! in botai.qc items.qc
+
+Skins and colours in DM and teamplay are "static" meaning
+that the skin/colour you have when bots are spawned are used 
+to set bot's colours/skins for as long as they play....
+when you change your skin/colour they still keep their old ones...
+
+Colours are used to determine teams here changing color will change
+which team your on...bots choice of team is determined as follows:
+
+<<<<must have teamplay on for this to work!!>>>>
+i.e. if you spawned them with your colour = 3 and skin = 0 then:
+
+your name here	skin = 0 + 0 = 0        colour = 3 + 0 = 3
+
+Dark_ 		skin = 0 + 0 = 0        colour = 3 + 0 = 3
+
+]L		skin = 0 + 5 = 5   	colour = 3 + 1 = 4
+
+]V[		skin = 0 + 4 = 4	colour = 3 + 2 = 5
+
+now to switch teams change yer colour(to join ]\/[ here change to color 5)
+
+
+How to Install the Modification
+-------------------------------
+make a sub directory named darkbot in your quake directory
+inside darkbot directory make a directory named progs 
+throw the MDL file in it...now put the other files in the 
+darkbot directory....run 
+quake -game darkbot
+
+
+Technical Details
+-----------------
+Gee.. i just started i basicly reengineered BgBot...
+
+Bugs
+-----------------
+don't drown sometimes now...in .02 they did...werid huh?
+run outta ammo they keep attacking
+no check for entitys in firing distance
+a few more i didn't see i bet...
+
+Author Information
+------------------
+My second quake C thingy!!! hey...please yell at me if it sux...
+someone email me i wanna fix alot the bugs...i'll credit you
+
+
+Copyright and Distribution Permissions
+--------------------------------------
+
+The original QuakeC source is Copyright 1996, id software.
+Do as you will.....i care not....JUST TELL'EM BOUT ME AND PUNISHER!
+inculde our TXT files and/or mention you used our ideas...
+or the evil lawyers will be the least of your worries..this is free
+i am pittiful if you wanna help me email me....
+
+Availability
+------------
+hehehe i dunno...... 

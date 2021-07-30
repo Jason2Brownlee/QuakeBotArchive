@@ -1,0 +1,99 @@
+Oops...sorry THIS is the one that should've been uped
+
+Title    : Dark Bot
+Filename : darkbt04.zip
+Version  : 0.4
+Date     : i dunno
+Author   : Dark_Skye 
+Email    : dark_skye@mindspring.com
+Credits  : PUNISHER and his crew that did BgBot,
+ 	   tank you for BgBot (Dark Bot's daddy) source!!
+	   [i have inculded BgBot16.txt]
+Build time: i dunno, not long
+
+Type of Mod
+-----------
+Quake C  : yes
+Sound    : no
+MDL      : yes  
+
+
+Format of QuakeC (if a Quake C Mod)
+-----------------------------------
+unified diff  : no
+context diff  : no
+.qc files     : no, but i'm looking for someone to help me..email me
+progs.dat     : yes
+
+
+Description of the Modification
+-------------------------------
+Darkbot is 3 teams of 3 bots each....depending on your skin...
+they help or hurt you  =)
+
+Commands:
+	IMPULSE 100 - singleplayer bot, Player0 
+	IMPULSE 123 - help msg
+	IMPULSE 200 - change your looks [forward thru skins]
+	IMPULSE 201 - change your looks [backward thru skins]
+	IMPULSE 205 - make up to 3 playmates from Dark_ Bots
+	IMPULSE 206 - make up to 3 playmates from ]Lady Bots
+	IMPULSE 207 - make up to 3 playmates from ]Lord Bots
+	
+	
+
+Features Include:
+
+1.Added 7 skins to it 
+2.Added teleport fire patch 
+3.Various minor stuff 
+4."Fixed" team play 
+5.Now injuryfull team play ¡¡YES!! 
+6.Now bots drown and stuff 
+7.Light'n gun bots!!
+8.Skins now set teams  
+
+<<<<must have teamplay on for this to work!!>>>>
+[ even if teamplay is on you can kill teammates ]
+change your skin to the same as the bots you want to team with....
+
+
+How to Install the Modification
+-------------------------------
+make a sub directory named darkbot in your quake directory
+inside darkbot directory make a directory named progs 
+throw the MDL file in it...now put the other files in the 
+darkbot directory....run 
+quake -game darkbot
+
+
+Technical Details
+-----------------
+Gee.. i just started i basicly reengineered BgBot...
+if ya see bugs email me....
+
+Bugs
+-----------------
+don't drown sometimes now...in .2 they would drown 100%...werid huh?
+run outta ammo they keep attacking
+no check for entitys in firing distance
+a few more i didn't see i bet...
+
+Author Information
+------------------
+My second quake C thingy!!! hey...please yell at me if it sux...
+someone email me i wanna fix alot the bugs...i'll credit you
+
+
+Copyright and Distribution Permissions
+--------------------------------------
+
+The original QuakeC source is Copyright 1996, id software.
+Do as you will.....i care not....JUST TELL'EM BOUT ME AND PUNISHER!
+inculde our TXT files and/or mention you used our ideas...
+or the evil lawyers will be the least of your worries..this is free
+i am pittiful if you wanna help me email me....
+
+Availability
+------------
+hehehe i dunno...... 
