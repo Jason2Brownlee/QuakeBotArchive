@@ -27,10 +27,13 @@ Omicron Bot
 		https://www.bluesnews.com/archives/nov97-5.html
 		https://www.bluesnews.com/files/patches/obots100.zip
 		http://www.ritual.com/shack_files/quakec/obots100.zip
+		ftp://ftp.cdrom.com/pub/idgames2/planetquake/ramshackle/OBOTS100.ZIP
+		ftp://ftp.telefragged.com/pub/swtc/obots100.zip
 	v1.01 Monday, December 15, 1997
 		https://www.bluesnews.com/archives/dec97-2.html
 		https://web.archive.org/web/19980614160658/http://planetquake.com/ramshackle/omidlf.htm
 		ftp://ftp.cdrom.com/pub/idgames2/planetquake/ramshackle/OBOTS101.ZIP
+		https://mrelusive.com/oldprojects/obots/Reviews/Metropolis/obots101.zip
 	v1.02 3/24/98 (march 24)
 		https://web.archive.org/web/19980614161915/http://www.inside3d.com/mar24-mar25.html
 	http://www.demigod.demon.nl/
