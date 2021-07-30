@@ -1,0 +1,119 @@
+                             úkARNAg BOT û0.45bú
+                       `------------------------------'
+                              by:  Ken Madlener
+
+~:description:~
+  title:    Karnag-Bot
+  version:  0.45b
+  author:   Ken Madlener
+    mail:  kenzer@D219-2.ibk.fnt.hvu.nl (not madlener@pi.net anymore)
+    aka:   kenzer and fluffy on quake-servers
+  >qserver: 145.89.206.20 or D219-2.ibk.fnt.hvu.nl (up again)
+  credits:  Jonathan e. Wright (nelno@resurrection.com)
+            The Punisher (BGbot)
+            Carson Sutton (RMbot)
+            Micheal Polucha (TMbot)
+            Tim Polucha (TMbot)
+            Nathaniel Gorham (DMbot)
+            Rob Albin (chasecam - albinatr@apci.net)
+            iD software for making the god-gifted game Quake
+
+~:format:~
+  gfx:     yesway - added skin
+  sound:   nope
+  qcc:     yesway
+    src:  *yes*
+
+~:notes:~
+  This is a beta of the beta of version 0.5, which is coming up. 
+  I need a lot help of you guys, so don't hesitate to mail me.
+  (wow I get mail for my bot!) Mail me your ideas, hints, weapons
+  & stuff like that. (you will be credited)
+
+  I was also very happy when I saw my bot on PlanetQuake in the
+  quake-c archives. (www.planetquake.com\qca) Thanks for spreading
+  my bot, dudes!
+
+~:get-it-to-work:~
+  Create a directory in Quake where you put this patch in
+  (unzip with -d!) start quake with "-game <directory-where-patch-is-in>
+  eg. "quake -game knbot"
+  Start a new multiplayer game.
+
+  -Impulse 100 to add a bot
+  -Impulse 30 to toggle chase camera (very cool)
+  -Impulse 31 to toggle laser targetter
+  -Impulse 32 to toggle chase mode
+
+  (most of the other impulses are messed up)
+
+~:features:~
+  (there are many features where I'm working on which are added to 0.5)
+  ú individual names in deathmatch
+  ú bots now help you in coop, like the zeusbot (this is really cool)
+  ú faster movement (I want a smoother movement!!!)
+  ú he's a badass-strafer
+  ú intelligent roaming ai (still working on it)
+  ú intelligent jumping (used from cujo)
+  ú swimming code (also used from cujo, working on it)
+  ú use of all weapons except for axe which is going to be added
+  ú bots use cool comments (can be turned off)
+  ú +16 bots on one level
+  ú chasecam mod is included
+  ú I rewrote the source -- and you get it!
+  (left pretty much things out here)
+
+~:being added:~
+  (I need your help on these)
+  ú smoother moving (I really need this, can somebody *please* help me?)
+  ú walk to doors, buttons, lifts, etc. (also need help on this!!!)
+  ú normal fire rate for all weapons
+  ú axe use
+  ú running back (just needs some time, I know how this works)
+  ú walk to the last place where the enemy was spotted
+  ú escape with low health
+  ú head model (face is finished)
+  ú again a major code cleanup
+  ú skill settings
+  ú bots not getting stuck
+
+~:word from the author:~
+  I thought version 0.3 would be the one and only version of the bot
+  because I was working on my quake-server. (when I'm working on some-
+  thing else I usually don't return to my last job) So I was on the net
+  on a black day and I saw that my bot was moved to the huge file section
+  no ftp.cdrom.com and to planetquake, and guess what? I had around 10
+  mails in my mailbox!!! I was a happy man. Then I thought: "Okay now it's
+  the time to kick some serious ass, wait till version 0.5". And here it
+  is. Hope you'll like it.
+  Uh yea. I got some mails from guys who can't compile my code. I was using
+  another compiler . No. That's a joke .
+  I forgot to add the "progs.src" and the ".h" file.
+  (It should compile fine now) I also added my compiler (qcc.exe).
+
+~:author:~
+  I'm Ken Madlener, 14 years old, born in Holland, Europe.
+  My hobbies are: *computing* (80% of free time), listening & making
+  music (hardcore, yea right) My English is foolish bad .
+  If you have a job or something (like program something for your TC)
+  don't hesitate to mail me. I'll help you as much as I can. (for free)
+  hours working on this version: +/- 30 hours (I'm getting better)
+  You can always find me on a quake-server on saturday. (mostly my server
+  (145.89.206.20) or quake.xs4all.nl)
+
+~:copyright:~
+  Other authors may use my code on base of other bots, but I want to
+  be credited somewhere in your info file (something like I did) or
+  e-mail me. (madlener@pi.net) I will be very greatfull.
+
+  This file may be distributed as long as all the files included
+  stay intact.
+
+~:availability:~
+  Yea my bot was spreaded!  thank you all!
+
+  I will upload it tomorrow to all major sites.
+  (allways look at ftp.cdrom.com/quake, the biggest site)
+
+~:current time:~
+  23:45 - 18 april - 1997 - 20st century - second millenium

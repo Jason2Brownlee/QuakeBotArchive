@@ -1,0 +1,6 @@
+Hey Joost,
+
+This is identical to ZEUS205S.ZIP I uploaded earlier today, except that the pathing is compiled to default to off.
+If you'd just copy the zip over the other I'd appreciate it.
+
+Nelno

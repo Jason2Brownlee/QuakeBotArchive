@@ -1,0 +1,90 @@
+Title    : Target Player Place Patch Mk 2
+Filename : Place2.zip
+Version  : 2.00
+Date     : 07/02/97
+Author   : Vengence of The Lone Gunmen
+Email    : ven@hotmail.com
+Credits  : id software for their killer game Quake!
+           Testers : The Lone Gunmen
+           Original Ideas : ]-[itman of TLG
+           Ideas : The guys at Planet Quake - Thanks hestokke@online.no
+           ]-[itman for the TLG Skin
+
+Build time: a couple of hours
+
+Type of Mod
+-----------
+Quake C  : yep!
+Sound    : nope.
+MDL      : it has now! The New Player!!
+
+Format of QuakeC (if a Quake C Mod)
+-----------------------------------
+unified diff  : no
+context diff  : no 
+.qc files     : no
+progs.dat     : yep (well, technically).
+
+Description of the Modification
+-------------------------------
+It was suggested by the guys Planet Quake, that after the "Severed" patch was
+released, that for the previous placebot patch might be expanded so that taking
+cool screen shots of "Severed" people and/or their parts were easier.
+
+The Place Bot Patch Mk 2 has taken that into account.
+
+The impulses spawn the different placebots.  Once they're spawned, grab
+a rocket launcher, shoot them.. and off blows an arm, leg or head.
+
+Commands:
+Simply start Quake with the 'Quake -game Place2' or whatever
+directory you put it in.
+
+   Impulse  150 - Spawns Target player with an Axe
+   Impulse  151 - Spawns Target player with a Gun
+   Impulse  152 - Spawns Target player No Arm
+   Impulse  153 - Spawns Target player No Arm or Leg
+
+Known bugs
+* Sometimes the severing is a little slow in updating the frames.
+* Packet Overflow when you try to gib heaps of them at once.
+
+How to Install the Modification
+-------------------------------
+
+Create a directory called place2 as a subdirectory in your Quake directory
+(parallel to the ID1 directory) extract the archive to the place2 directory.
+
+To play, type quake -game place2 from the Quake directory.  This modification
+only works with the registered version of Quake.
+
+Author Information
+------------------
+Author of the TLG Base Level for Quake.
+Author of the Oldwest Level for Quake.
+Author of the Quake Dragon.
+Author of The First Place Bot for Quake.
+Author of "Severed" New Player Mdl for Quake.
+
+Copyright and Distribution Permissions
+--------------------------------------
+Copyright 1997 Steve Winston-Brown
+a.k.a. Vengence of T.L.G.
+QuakeC source is Copyright 1996, id software.
+
+Authors MAY use this patch as a base for other publically available work,
+but this patch MAY NOT, repeat, MAY NOT be packaged on a CD-ROM without
+my permission!!
+
+You may distribute this Quake modification in any electronic format as long
+as all the files in this archive remain intact and unmodified, and doesn't
+conflict with anything I've said above.
+
+Availability
+------------
+
+This patch is available from the following places:
+
+FTP   : ftp.cdrom.com
+HTTP  : http:/www2.eis.net.au/~lcullen/tlg/
+(The Lone Gunmen Current HQ)

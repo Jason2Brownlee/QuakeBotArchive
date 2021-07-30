@@ -1,0 +1,685 @@
+Title    : Everything for CTF-bot  (Acts like a Client mod)
+Filename : newctf12.zip
+
+
+Line 24: Description
+Line 34: How To Install
+Line 65: How To Play on normal levels in the game
+Line 680: Where to get the custom CTF Server and Client mods
+Line 684: Where to get current updates or anything for CTF
+
+Type of Mod
+===========
+Quake C  : yes
+MDL      : yes (extra skins)
+
+Format of QuakeC
+================
+unified diff  : no
+context diff  : no
+.qc files     : yes
+pak0.pak file : yes
+pak1.pak file : yes 
+
+Description 
+===========
+This is CTF Bot (Capture the Flag Bot), a bot that plays ThreeWave  
+Capture the Flag 3.5 WITHOUT having to download the server or client 
+mods to play with the  (1) ACTUAL BOTS (on normal or custom ctf levels),
+(2) RUNES (items you pick up which give you special powers like quad damage
+until you die), (3) GRAPPLING HOOK (weapon that you can use to hang up on
+ceilings,), etc...... 
+    
+
+How to Install 
+===============
+This package is all you need to play or join a custom ctf server on the
+internet. (but you still would need to download the bsp level: look at #2)
+
+1)  Make a new directory under QUAKE called CTFBOT
+	 (/quake/ctfbot)  and unzip the file into it.
+
+    A couple of sub-directories will pop out also.
+    ctfbot/src/      [DIR source code ]
+    ctfbot/ents/     [DIR entities for converting normal levels to CTF ]
+
+
+2) This is if you want to join a custom CTF server that uses their own 
+   bsp levels.
+    
+   Create a directory in the ctfbot directory called "maps".  
+			(/quake/ctfbot/maps)           
+	     and put the bsp file into it.  Thats it.
+ 
+
+5) Run Quake (or Q95.BAT if you want to play networked games) with 
+   the following command line parameters:
+
+    -game ctfbot   ==> to use CTF Bot resources (i.e. pak0.pak, pak1.pak)
+    -listen        ==> start a listen (i.e. deathmatch) server
+    -winmem 16     ==> give Quake 16 megs of ram  -If you only have 16 megs
+		       or ram in the first place you will only be able to
+		       put in a number like  -winmem 13
+    -zone 512      ==> give Quake more ram for config files (optional)
+
+Converting Normal Maps to CTF Maps
+==================================
+As of right now you can play on normal levels in the game.
+You can play with the runes, the bots, grappling hook, etc.. 
+and use a frag count for scoring if you wish BUT if you want to play with
+the flag it wont be there.  You can solve this by doing the steps 
+below. (This will also allow the bots to get smarter)
+
+1) Extract the bsp file from either pak0.pak or pak1.pak in the 
+    (quake/id1/.....) directory by using
+   WINPACK 1.2   (just click and it extracts: no messy crap)
+   You can get this at:
+       ftp://ftp.cdrom.com/pub/idgames2/utils/bsp_pak_tools/winpak12.zip
+
+2) Copy the *.bsp file you extracted in step (1) to your /ctfbot/ents/ 
+   directory. 
+
+3) Get a copy of QBSP.  I use the dos version which you can get at:
+   ftp://ftp.cdrom.com/pub/idgames2/utils/level_edit/bsp_builders/qbspdos.zip    
+   Put everything into the /ctfbot/ents directory and run DOBSP  (dobsp.bat)
+   This will insert the *.ent files into the *.bsp files.
+   (that is, it will insert the CTF entities into the bsp files so that
+   the flags appear in the maps).  It shouldn't take more than a minute
+   or two to convert all the bsp's.
+   
+4) Move the converted bsp's to your /ctfbot/maps/ directory.
+   
+
+Troubleshooting
+===============
+If the flags are not visible, one of the following two things has
+happened: either (1) you are in single player mode, or (2) the file
+server.cfg is not being exec'ed when you start Quake.  You can solve (1)
+by adding the "-listen" param to the Quake command line.  You can solve
+(2) by making sure that server.cfg is being exec'ed when you start Quake
+(e.g. make sure that autoexec.cfg in the ctfbot directory has the line
+"exec server.cfg"). The server.cfg file sets various server variables
+that are *REQUIRED* to run CTF correctly.  Also make sure that you
+didn't exec another file that overrode the settings.
+
+Customizing Controls and Settings
+=================================
+The file autoexec.cfg execs ctfbot.cfg and server.cfg. If you have a cfg
+file containing your Quake key bindings, you may want to exec it from
+the autoexec.cfg file in the ctfbot directory.  That is, add the line
+"exec blah.cfg" as the first line, where blah.cfg is the name of the
+config file containing your custom key bindings.  Or, if you want to
+override the default ctfbot key bindings, exec your config as the 
+last line.  However, be careful if your config file changes various
+teamplay options, or CTF may not work correctly.
+
+The file ctfbot.cfg sets up some key bindings for you, so you can spawn
+bots quickly (hit F7).  Tweak this file to change the settings, or just
+use the impules listed below to spawn bots and start killing.
+    
+The file server.cfg sets up the various CTF server variables.  You can
+tweak this to your liking, for example if you want to start in a
+different map by default, or if you want to disable observer mode or
+change the teamplay options.  See the ThreeWave CTF server docs for more
+info on what teamplay options are available.  Also see "Server 
+Administration & Settings" below for useful bot-related server settings.
+
+
+If you set teamplay bit 32768, CTF Bot will attempt to use the color 
+maps of clients instead of using skins.
+
+Also keep in mind that you need to run Q95.BAT instead of Quake.exe
+to do most network stuff.  Consult the Quake documentation for more
+info on running networked servers.
+
+If you are playing over a network, you may want to check out the
+"Server Administration & Settings" section below, because by default
+any player can execute any impulse (i.e. anybody can create a bot).  
+Note that if you want to have your server automatically select only
+certain maps (for example only the maps with waypoints) you will need to
+edit the source code (the RandomLevel routine) to select only the maps 
+you want.  If you don't do this you will probably select levels 
+manually with the changelevel command or the admin change-level menu.
+
+Impulse Commands
+================
+See the file "impulses.txt" for a complete list of impulses
+in numerical order.
+
+More default keys set in ctfbot.cfg:  F1-F4 sets skill 0-3
+
+Help Impulses
+=============
+Impulse ##    Key   Description
+-----------   ---   -----------
+impulse 199 =   F1  =  help
+
+Impulse 199 for help.  This lists all impulses & default keys,
+including the impulses that are default ThreeWave impulses.
+
+Maps 
+====
+On some maps, bots use a waypoint scheme to navigate.  The bots are much
+smarter (and thus much more fun) on waypoint maps than others. This
+is also where converting normal levels to CTF levels come in.
+
+Playing Notes
+=============
+Even on waypoint maps, the bots have certain limitations.  They don't
+know they entire layout of maps.  So, the moral is: help your bots.  If
+you see a bot on your team with just a shotgun, then either lead it to a
+good weapon, or toss it your weapon.  Otherwise, don't be surprised with
+your bot gets slaugtered.  Use the "report in" order to find out what
+weapon your bots are using, and help them out if they can't seem to find
+anything good. Luckily on most of the default ctf good weapons are easily
+found.  On some of the id levels the good weapons are not on the main
+path between bases and so the bots are unlikely to find them.
+
+Note that it is very helpful to have bots with you.  If you can't get
+past a high-skill enemy bot, bring along some buddies.  Let them grab
+the good weapons or toss them a rocket launcher and ammo and watch them
+kick ass while you get all the glory. :-)
+
+Check the CTF Bot web page for links to more maps, including more maps
+with complete waypoint support.
+
+On maps that do not contain waypoints, a lot of the time it is easy to
+capture their flag. If you go in their base, kill all the bots, and snag
+their flag, it may be easy to grab their flag again after that if they
+have all respawned away from their base, because they won't be able to
+find their way back. As a result, some non-waypoint maps work better than
+others with these bots. It can still be fun to play on non-waypoint maps,
+because the bots do use teamplay tactics.
+
+Skill Levels
+============
+The console variable "skill" is used as the skill of the next bot
+created. Type "skill #" in the console to change the skill, where # is a
+number from 0 to 3.  Skill levels don't have to be an integer (i.e. 1.5
+or 2.7 are legal). Skill has various effects on play.  Lower skill
+levels misjudge target's velocity and position when firing, have smaller
+field of view, are less likely to make evasive maneuvers, are less
+likely to jump effectively, are less likely to see enemies far away, are
+less likely to see enemies with Ring of Shadows, plus tons of other 
+things.
+
+Bots with a skill of 2 or higher use the "visor dude" CTF skin.
+
+Quick Spawning of Bots
+======================
+Included is a file that spawns a series of bots to demonstrate how you
+can make a config file spawn various differently-skilled bots easily.
+By default you can hit F7 to spawn 4 differently-skilled enemy bots and
+2 bots on your team. Edit makebots.cfg to suit your skill level and
+desired number of bots.
+
+For some reason exec'ing this file from the console does not work.  You
+have to bind it to a key in the console like this:  bind F7 "exec
+makebots.cfg" and then hit that key.
+
+If you get telefragged when you spawn the bots in this manner, it
+is likely that all the bots did not get created, because as soon
+as you get telefragged, you are dead and so impulse commands no
+longer work.  Start a new map and try again.
+
+Bot Orders [NEW!] 
+=================
+Impulse ##    Key   Description
+-----------   ---   -----------
+impulse  80 =  f  = report status & weapon
+impulse  81 =  a  = order more bots on your team to attack
+impulse  82 =  d  = order more bots on your team to defend
+impulse  83 =  e  = order closest bot to escort you
+impulse  84 =  c  = order closest bot to camp at your location
+impulse  85 =  x  = order closest bot to drop items for you
+impulse  86 =  z  = team status
+impulse  87 =  s  = order more bots on your team to roam
+
+When you give an order, the status of your team is printed so you
+can see how many bots are doing what.
+
+Bots will generally follow your orders, but will sometimes go 
+AWOL and decide what to do on their own.  
+
+When you give an order to attack, defend, or roam, you have no
+control over what bot will actually start attacking/defending/roaming.
+The bot will be taken out of the appropriate "pool" of other bots,
+for example, when you order more bots to attack, first they are taken
+out of the roaming pool, then if there are no roamers, they are taken
+out of the defender pool, then the camping pool, then the escort pool.
+If you keep pressing "more bots attack" eventually they will *all*
+attack.  However, you will be overriding orders given to bots to
+camp and escort (orders which were possibly given to the bots by
+other humans on your team).  So use teamwork with other humans on
+your team when giving bots orders.
+
+"Attack" means go toward the enemy base.  
+
+"Defend" means go toward your base.
+
+"Escort" means follow you around. Bots will say things like "let's
+attack" while they are following you, so you know that you have their
+attention. They will sometimes get distracted by items though.
+Sometimes the bot wants something but can't get it, but if you grab it
+the bot will of course not want it anymore.  If you are far above or
+below them, but they are still following you, they will try to jump
+down or hook their way up, so you can get them to follow you most
+places. Sometimes you have to just be patient while the dumb bot
+figures out how to get where you are, and sometimes you are just out of
+luck.  Sometimes it helps to try to get your buddy to try a different
+route; e.g. get it to hook its way up somewhere easier and then lead it
+to where you want it to be once it gets up there.
+
+Note that you do *NOT* need to request escort when you have the 
+enemy flag.  When you have the enemy flag, bots will *always* try to
+escort you.  
+
+"Camp" means stay at the location you specify.  Bots will not
+just stand still, but will jump and hook around, and still pick up
+nearby stuff.  Bots may get stuck behind something and not be
+able to get back to the camping location you specified.  If they
+get lost for more than 30 seconds, they stop camping and say so.
+
+Camping and escorting work for 2 minutes and then the bots go
+about their normal business.  
+
+"Roam" means just wander around and pick up stuff and kill.  Bots
+currently don't explore as well as they attack and defend.  They
+don't know where to go exactly and can tend to stay in one area,
+but may be drawn out of that area when they try to find good
+stuff or see an enemy, so there's no guarantee that bots will
+stay still.  
+
+Bots with the flag are not affected by orders to attack, defend, or
+roam.  They will camp and escort however.
+
+The bots are not smart enough to know whether or not the flag is in the
+base, and will happily defend (or attack) an empty base if you order 
+them to.  This can be helpful if you've got the enemy flag and the
+enemy has your flag... order your bots to attack and hope they can
+get your flag back.
+
+The bots have higher priorities than your orders, like fighting with
+enemies.  You may issue your orders and find that the bots are too 
+busy trying to kill to follow your orders.  However, the bots 
+remembered that you ordered them and will start attacking or defending 
+when they have finished killing the enemy, or finished getting
+the items they are interested in.
+
+"Attack" and "Defend" work only on maps with waypoints.  
+The other orders (including "Camp") work on all maps.  
+
+When you order a bot to drop stuff, a bot nearby you may drop something
+for you.  At most one thing will be dropped when you make this request,
+regardless of how many bots are nearby and regardless of how much good
+stuff they may have.  Bots will *NOT* drop anything that you already
+have.  This means that if you have a rune, bots won't drop a rune for
+you.  If you have a rocket launcher, they won't drop a rocket launcher.
+So if a bot has a rune that you want, you'll have to drop your rune first
+before asking the bot for its rune. When you ask bots to drop stuff, they
+will try to give you a rune first. Note that when bots drop runes, they
+pop out of the bot just like when you kill a someone with a rune.  This
+means that the rune may fall into lava or you might not be able to find
+it.  Those are the breaks.  If no nearby bot has a rune, they will try to
+drop a backpack containing a good weapon and some ammo for that weapon.
+Weapon priorities are: lightning gun, then rocket launcher, then grenade
+launcher, then super nailgun. When a bot drops a rune or backpack with a
+weapon, all bots on your team will ignore the item for 10 seconds, and
+then if its not picked up bots will try to get it.  However, other bots
+may pick up the item accidentally, so this may be tricky in a crowd of
+bots.
+
+Currently bots won't drop just ammo, they will only drop runes and 
+weapon/ammo backpacks.  Also, if the teamplay flags are set so that
+rune and/or backpack dropping is not allowed, then this of course
+will work differently.
+
+Detailed Scores
+===============
+Impulse ##    Key   Description
+-----------   ---   -----------
+Impulse 120 =  i  = prints detailed scores for you.
+Impulse 121 =  u  = prints detailed scores for everyone.
+Impulse 122 = TAB = print frag list
+
+Detailed scores includes number of frags (i.e. actual score), and
+also number of kills, deaths, suicides, captures, pickups, assists,
+recoveries, and bonuses.  Bonuses are things like fragging the
+enemy flag carrier, or fragging the person hurting your flag carrier.
+Recoveries are returning your flag to base.  Pickups are grabbing
+the enemy flag.  Assists are things like returning your flag to
+base right before your team captures.  For more info on CTF
+scoring, see the ThreeWave documentation.
+
+Increase/Decrease Bot Awareness/CPU Usage [NEW!] 
+================================================
+impulse  75 =     = decrease bot cpu usage/bot awareness
+impulse  76 =     = increase bot cpu usage/bot awareness
+
+Impulse 75/76 decreases/increases bot cpu usage.  On my machine this
+doesn't have much noticable effect, but I left it in there in case it may
+help someone.  Decreasing/increasing CPU usage makes the bot awareness
+distances smaller/larger.  So when you reduce the CPU usage, you are
+making the bots nearsighted.  They don't look as far for items and
+enemies. Conversely,  when you increase CPU usage you are making the bots
+see farther.  Since the bots have been "tuned" for the default
+parameters, reducing or increasing bot awareness may have undesirable
+effects, like making the bots no longer use waypoints or the grappling
+hook as effectively. If this feature lets you run more bots on your
+machine, I'd like to hear about it.
+
+Increase/Decrease Bot Ping [NEW!] 
+=================================
+impulse  77 =  <  = decrease bot ping
+impulse  78 =  >  = increase bot ping
+
+Impulse 77/78 decreases/increases the crudely simulated bot ping.  If you
+find that the bots on a network server are slaugtering all of the human
+players, you may want to increase the bot ping.  Increasing bot ping
+increases their reaction time when they see enemies.  That is, they will
+not start firing at an enemy for at least N/1000 seconds after it sees
+the enemy, where N is the bot ping.  Bot ping has no other effect than
+reaction time.  Note that bot skill also affects reaction time, so low
+skill bots will be even slower at reacting to enemies.
+
+The default bot ping is 0.  
+
+Other Impulses [NEW!] 
+=====================
+Impulse ##    Key   Description
+-----------   ---   -----------
+impulse  40 =  p  = drop current rune
+impulse  41 =     = rune status
+impulse  70 =     = toggle normal/bot names
+impulse  71 =     = toggle bot use of waypoints [NEW!] 
+impulse  90 = F11 = toss out your weapon in backpack with ammo [NEW!] 
+impulse  97 =     = toggle no damage mode [NEW!] 
+impulse  98 =     = enter observer mode [NEW!] 
+impulse 130 =  o  = toggle no target mode
+impulse 131 =     = toggle always escort mode
+
+Impulse 40 (default key p) drops the rune you are carrying so you 
+can pick up another.  Note that it pops out of you just like when
+you kill a player with a rune, so be careful if you are dropping
+it for a teammate -- it may pop out and fall into lava.
+
+Impulse 41 prints what rune you have.
+
+Impulse 70 toggles between "normal" names (e.g. "Outlaw") and bot
+names (e.g. "RedBot1").  There are 100 different normal names that
+the bots use.  Yes, some of the bots are girls.  Deal with it. :-)  
+
+Impulse 71 toggles bot use of waypoints.  If waypoints are disabled,
+then bots will be much dumber.  This can be useful however if you
+want all bots to be "roaming killers" to liven up the mix, instead
+of bots trying to capture and defend the flag.  Also, if you want
+to move the flags on the maps that CTF Bot has waypoints for, you
+will need to turn off bot use of waypoints on those maps otherwise
+the bots will get very confused (e.g. defending the area where the
+flag used to be).
+
+Impulse 90 tosses out a backpack with your weapon with some 
+ammo for it.  This is useful for tossing stuff to bots.  
+
+Impulse 130 toggles no target mode.  When no target mode is on,
+enemy bots won't try to target human players, but otherwise everything is
+the same.  You can still pick up stuff, and you can still be harmed by
+bot crossfire, you can still capture the flag, you can still kill bots,
+etc.  This is very useful for debugging the bots.
+
+Impulse 131 toggles always escort mode.  When always escort is on,
+bots will *always* try to escort you.  You don't have to explicitly 
+give them orders to request escort.  This is like version 1.1 of CTF
+Bot, where bots always follow you around.  
+
+Impulse 97 puts you toggles no damage mode.  You take no damage.  This is
+for debugging aspects of the bots where it would be hard to debug if the
+bots are killing you.
+
+Impulse 98 puts you in observer mode.  Observer mode is like when you
+join the server, press 1 or 2 for red/blue team.  When observer mode is
+on, you can fly and do not interact with the world at all. You can't
+execute impulses as an observer... you must press 1 or 2 to join a team
+or press jump to join a computer-selected team before you can execute
+impulses.  In observer mode you can fly, the same as when you use the
+fly mode cheat in single player.Impulse 107/108 removes the red/blue bot
+with the fewest frags.
+
+Dynamic Map Creation/Modification
+=================================
+Impulse ##    Key   Description
+-----------   ---   -----------
+impulse 115 =  r  = move/create red flag
+impulse 116 =  b  = move/create blue flag
+impulse 117 =  a  = create base stockpile
+impulse 118 =  e  = print entity list
+
+NOTE: By default the above keys are commented out in ctfbot.cfg...
+uncomment them to use the above key bindings.
+
+Impulse 115/116 creates a red/blue flag where you are standing.  
+You can only create one red or blue flag.  If you create another,
+the first one is removed.  You can use this to move the maps in the 
+existing CTF levels (e.g. ctf1-ctf8) if you feel like a change.  
+(Of course if you are playing the bots then the waypoints will
+no longer work on those levels.)
+
+In addition to the flag, 9 team spawn points are created when you
+create or move a flag.  This is done so that if you want to spawn
+some bots, they will appear near their flag.  All other team spawn
+points in the level for that team are removed.  If a spawn point
+is created in a wall, it is removed.
+
+Impulse 117 creates a respawning stockpile of 1 yellow armor, 
+1 super nailgun, 1 double shotgun, 2 large boxes of nails, 2 
+large boxes of shells, and 2 25-health boxes.  
+
+The above items may behave strangely or will fall out of the level if
+they are spawned in a wall or on top of an object or player. Please step
+out of the way after creating the items.  You will be warned and be
+given 2 seconds before the items are enabled.
+
+Your changes are *NOT* saved with the map.  You have to recreate the
+flags and bases every time you quit and restart Quake.  So don't 
+worry about screwing up your maps; you can't permanently change the
+map.
+
+*HOWEVER*, if you want to permanently change a map, you can use impulse
+118.  Impulse 118 prints out all entities that you dynamically created.
+It prints them to the console in the format used by QBSP for inserting
+entities into a bsp file.  If you want to use this feature to
+permanently modify a bsp file, start Quake with the -condebug command
+line option to save all console text to the file qconsole.log in the
+ctfbot directory.  Then add flags or items to the map with impulses
+115-117.  Finally, use impulse 118 to list the entities that you
+created.  Impulse 118 doesn't print out all the entities in the map,
+only entities that you created, so you will have to strip out the
+existing entities from the bsp file, paste them together with the
+entities printed out in qconsole.log, then use QBSP with the -onlyents
+parameter (i.e. as done by the dobsp.bat file in the ThreeWave server
+mod) to replace the entities in the bsp file.  If you merely moved a
+flag instead of creating a new one, the old team spawn points will still
+be in the bsp file, so remember to delete them.  Also, this will print
+out the waypoints in the map, so either delete them or use them 
+depending on what you want to do.
+
+Obviously, don't try modifying your bsp files like this unless you 
+know what you are doing!
+
+Server Administration & Settings [NEW!] 
+=======================================
+Total Freedom Mode (teamplay flag 2048)
+---------------------------------------
+By default, a CTF Bot server is in "total freedom" mode.  This means that
+anyone can create a bot, remove a bot, move the flag, etc.  This is great
+if you are playing by yourself, but most of the time over a network you
+don't want to have this total freedom for everyone, just the admin.
+
+You can change the teamplay flags so that only a player who enters the
+admin password (which is a specific series of impulses) can do things 
+like create bots, move flags and such.
+
+Toggle teamplay bit 2048 to turn total admin on or off.  If the bit is
+set, all bot impulses are allowed for all players.  If it is not set, all
+"naughty" bot impulses are disabled except for the admin, who can do
+anything. Some impulses still work for all players, like detailed scores,
+bot frags, rune status, rune dropping, etc.
+
+See the admin.qc source file for more information about admin mode,
+and how to set an admin password.  There is a default password set
+in admin.qc, but you should change it because everyone who has 
+downloaded CTF Bot knows what it is (duh).  You will need to recompile
+the bot to use your new password.
+
+The default password is in server.cfg.  By default you can type 
+"admin" at the console to enter admin mode.
+
+Total Freedom Mode is on by default (i.e. the bit is set, and any player
+can do any impulse).
+
+Auto-Even-Teams (teamplay flag 4096)
+------------------------------------
+You can change the teamplay flags so that the red and blue teams 
+are always even.  Bots are used to pad out teams that are different
+in size.
+
+Toggle teamplay bit 4096 to turn even teams on or off.  If the bit is
+set, when the teams are uneven bots will be added or removed so that the
+teams are even again.  Every 2 seconds, the server checks the team sizes
+and adds or remove bots.  When removing bots, the bot with the fewest
+frags is removed. 
+
+The team size and default bot skill is determined by the console
+variable "sv_aim".  When you want even teams, multiply the size of the
+team desired (1-8) by 4.  Then add the skill of the bots that will
+be added in order to keep teams even.  Note that skill does not have 
+to be an integer.  Examples:
+
+sv_aim 9        // team size 2, skill 1 = (2*4)+1
+sv_aim 18       // team size 4, skill 2 = (4*4)+2
+sv_aim 34.5     // team size 8, skill 2.5 = (8*4)+2.5
+
+An additional tweak:  if you then add 64 to the total, the bot skill
+you set will actually be the average skill, and bot skills will vary
+plus or minus 0.5.  Thus, a skill of 2.5 will actually add bots that
+range (linearly) in skill from 2.0 to 3.0.  The maximum skill is 3.0.
+
+sv_aim 98.5     // team size 8, skill 2.5, vary skill = 64+(8*4)+2.5
+
+Note that when sv_aim is greater than or equal to 1 (which of course
+it will be if you use it in the above manner), all auto-aiming by
+Quake is disabled.  If for some insane reason you *want* auto-aiming on
+your server (a horrible idea IMO), you'll have to reprogram the bot
+to use a different server variable than sv_aim, or not use the
+auto-even-teams capability.
+
+When auto-even-teams is on, you can't add or remove bots manually
+(i.e. with impulse 100 etc), even if you are the admin. 
+
+Auto-Even-Teams is off by default (i.e. the bit is not set, and teams
+can be uneven).
+
+No Player Rune Dropping (teamplay flag 8192)
+--------------------------------------------
+You can change the teamplay flags so that players and bots are not 
+allowed to drop runes.  
+
+Toggle teamplay bit 8192 to turn rune dropping off or on.  If the bit is
+set, rune dropping is disabled.  If the bit is not set, players and
+bots can drop runes.  Note that bots will drop runes only if a player
+asks them to.
+
+Rune dropping is on by default (i.e. the bit is not set, and players
+can drop runes).
+
+No Bot Flag Pickups (teamplay flag 16384)
+-----------------------------------------
+You can change the teamplay flags so that bots are cannot pick up 
+the enemy flag.  They can still return their own flag to base.  This
+can be useful if humans are letting the bots too much work, or you feel
+that the bots are too dumb for the responsibility of carrying the flag.
+
+Toggle teamplay bit 8192 to bot flag pickups off or on.  If the bit is
+set, bots can't pick up the enemy flag.  If the bit is not set, bots 
+can pick up the enemy flag.
+
+No Bot Flag Pickups is off by default (i.e. the bit is not set, and bots
+can pick up the enemy flag).
+
+Waypoints 
+=========
+Bots use waypoints to navigate on certain maps.  Waypoints are basically
+"threads" that lead the bot into or out of a base.  Waypoints are 
+necessary because otherwise bots would have NO knowledge of a level
+when they are spawned.  They would wander around randomly and probably
+not find their way to the enemy base.  Without waypoints, enemy bots 
+generally take your flag only if they happen to spawn in your base.  
+With waypoints, however, bots know exactly how to get into your base 
+and actually try to go there on purpose.  This makes CTF much more
+interesting and challenging, as bots can actually use some CTF strategy
+(if "try to take the other team's flag" can be termed a strategy).
+
+Source Code
+===========
+All changes related to the bot (should be) marked with "CTFBOT", except
+in the new bot files of course.  Changes that are not bot related, but
+are CTF improvements (like drop rune and CTF bug fixes), are marked with
+"CTFBOT EXTRAS".  Of course, I may have missed a few, so do a global
+diff to see what really has changed.
+
+CTF Bot is very large and you may have trouble compiling the source code
+with most QCC compilers.  I use ADVQCC which is available at:
+http://www.cdrom.com/pub/quake/quakec/utils/  If you are having trouble
+compiling the source with other compilers, you may have to remove
+sections (e.g. waypoints for maps you are not using).  If you know of
+a better compiler than ADVQCC, please let me know.
+
+If you are working with recompiling the bot source code, you will almost
+definitely want to take the stuff out of your pak0.pak and pak1.pak, 
+so that the ctfbot directory has no pak files in it. You can do this 
+by using WINPACK v1.2  (address for it is on line 74). If there are pak 
+files, Quake may use the progs.dat or player.mdl from the pak files instead 
+of the ones sitting in the directory.  Without pak files you will know for 
+sure what files Quake will be using.  Basically you need the player.mdl from 
+the pak1.pak (which has extra red/blue skins required to see the bots as
+different colors) instead of the one from the pak0.pak.
+
+Future Plans
+============
++ support new releases of ThreeWave CTF as they are created
++ waypoint support for more maps, plus improved waypoint schemes
++ more dynamic CTF map creation/modification support
++ make bots seem more human
++ make bots smarter in general
++ make bots know more about ctf strategy (i.e. don't leave the base
+    undefended to just go exploring)
++ make bots use hook better
++ make bots kill the guy who took their flag with higher priority
++ carry bots over to next level (although this is sort of handled by
+    the auto-even-teams thing)
++ make bots hook you intentionally
++ make bots communicate with other bots on its team... let them ask 
+    for ammo and/or weapons, tell them about a rune on the ground, tell 
+    them to come back to the base, etc.
++ make it so that if you try to play CTF on a map that has a CTF
+    version, the flags etc. are automatically spawned, so there is
+    no need to convert the maps to CTF with QBSP.
+
+
+Included files, and portions of the included source code created by 
+Andrew B. Davidson are Copyright (C) 1996-1997 Andrew B. Davidson.  
+Other portions of the source code are copyright their respective creators.
+
+Availability
+============
+This modification is available from the following URL:
+
+ftp://ftp.cdrom.com/pub/quake/quakec/bots/
+
+============================================
+Custom CTF Mods that include levels, etc...
+============================================
+server mod:  ftp://ftp.cdrom.com/pub/idgames2/quakec/teamplay/ctf/3wave35.zip  
+client mod:  ftp://ftp.cdrom.com/pub/idgames2/quakec/teamplay/ctf/3wctf301.zip
+
+for updates go to http://quake.threewave.com

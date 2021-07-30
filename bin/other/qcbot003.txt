@@ -1,0 +1,8 @@
+07 / JUNE / 1997
+
+Updated QCBot information and demos with details for getting QuakeC bots onto
+the quake rankings screen as well as changing the bots color.
+
+Copyright (C) 1997 by Alan Kivlin.
+
+

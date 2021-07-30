@@ -1,0 +1,35 @@
+This is the .qc source code of The Place Bot Patch.  Feel free to modify it
+and distribute it as you wish.
+
+Known bugs
+* If you try to gib to many of the bots at once, you will get packet overflow
+errors.
+
+Note: There is no limit to how many bots can be placed in a level, but too
+many will cause Quake to slow down and give packet overflows.
+
+Author Information
+------------------
+Author of the TLG Base Level for Quake
+and the Quake Dragon.
+
+Copyright and Distribution Permissions
+--------------------------------------
+Copyright 1996 Vengence of The Lone Gunmen.
+QuakeC source is Copyright 1996, id software.
+
+Authors MAY use this patch as a base for other publically available work,
+but this patch MAY NOT, repeat, MAY NOT be packaged on a CD-ROM without
+my permission!!
+
+You may distribute this Quake modification in any electronic format as long
+as all the files in this archive remain intact and unmodified, and doesn't
+conflict with anything I've said above.
+
+Availability
+------------
+
+This patch is available from the following places:
+
+FTP   : ftp.cdrom.com
+HTTP  : http:/www2.eis.net.au/~lcullen/tlg/ (The Lone Gunmen HQ)

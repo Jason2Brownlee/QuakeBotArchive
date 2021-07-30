@@ -1,0 +1,52 @@
+Tballman version 0.91
+Written by Mother "mother_quake@hotmail.com"
+http://fubar.cstp.umkc.edu/quake
+
+Please use the autoexec.cfg file that comes with this mod for everything to work correctly. The banning and server name are obviously editable.
+
+Tballman is a lonely bot who has nothing better to do than walk around giving you stuff while you play quake. He will provide you with ammo paks, health, and teleballz which can be used to teleport you or other people to random points in the level. Also there is a new weapon called the "pulse-cannon" that all players start out with. 2 Additional Runes (along with the normal CTF Runes): the Jet Pak (self explanatory) and the Credit Card (gives all weapons and a bit of ammo in each category). Also the Rocket Launcher has been modified to shoot up to 3 rockets at a time. Last but not least a Flame Thrower has been added to "light up" your friends lives.
+
+Type INFO at the console for impulse help.
+
+Features of Tballman 0.91:
+
+WEAPONS:
+========
+
+Multirockets:
+=============
+When using the rocket launcher you can shoot up to 3 rockets at a time by hitting "7" again.
+
+Pulse cannon:
+=============
+The pulse cannon is a new weapon which all player have by default from the start. It does 30 points of damage per hit, and is fully automatic. It shoots pulses of plasma at your enemies and can easily cut them down.
+
+Teleballz:
+==========
+Teleballz are a defensive weapon that can be shot into the floor, walls, or at a player. They explode like grenades and teleport all players within a small radius to random points in the level. Great tool for moving campers out of the way.
+
+Flamethrower:
+=============
+When the grenade launcher is selected, hit "6" again (or simply type impulse 50) and you will now be using the flamethrower. It uses shotgun shells as ammo, and can catch other players on fire.
+
+More features:
+==============
+
+Speak and be heard:
+===================
+Implulse 25-27 shout out commands to anyone that is close enough to hear, the commands are "Stop!", "You there!", and "Freeze!".
+
+Runes:
+======
+The normal CTF runes are present: Haste, Strength, Regen, and Half damage. But there are 2 additional runes: the Jet Pack (blue key card), and the Credit Card (gold key card). The Jet Pak is as expected, you fly. The Credit Card gives you every weapon, and a bit of ammo for each. Throwing the Credit Card will result in losing your weapons. You can however toss your current weapon (impulse 20) and some ammo paks (impulse 21), then toss the Card, and pick up your weapons and paks. This is useful for stocking up on ammo. Be careful though, since other players can run by and get all you stuff.
+
+
+
+
+Notes:
+======
+This mod was designed for multiplayer deathmatch only. If you experience problems loading the mod, make sure you have teamplay and deathmatch set to a value of 1.
+
+Also the MOD uses a maplist that is "hard-coded" into the mod. The START map isnt in the map queue. I suggest using E1M1 as your start map.
+
+ 

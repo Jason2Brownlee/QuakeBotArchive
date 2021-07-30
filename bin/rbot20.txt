@@ -1,0 +1,245 @@
+  //////////////////////////////////////////////////////////////
+ // GOTO HTTP://WWW.GeoCities.COM/SiliconValley/Lakes/8316/ //
+////////////////////////////////////////////////////////////
+For Richtor Scales quake page
+ษอออออออออออออออออออออออออออออออออป
+บ  Title: R Bot V.50              บ
+ศอออออออออออออออออออออออออออออออออผ
+
+Filename : RBOT.ZIP
+Version  : 0.57
+
+Date     : Today
+
+Author(s): ColdKill, Khan Reaper, Morgue 
+
+Email    : BRAINnMEAT@AOL.COM, MattP3d@AOL.COM, Coldkill@1webave.com 
+
+Credits  : To the Punisher for makeing BG bots,  Camreon NewHam for
+make eliminator and releaseing the source code (The strafeing is his code),
+Quake Command for making Eject and flamethrower,
+and ID for makeing Quake, The maker of Bplayer
+(for having a cleaner version of almost what I had done with BG) Joe Hero,
+for beta testing and making one of the heads (The crazy one). Micheal Polucha and
+and Tim Polucha, for TMBOT, Nathaniel Gorham for the dm bot.
+Footsteps v0.5 Brett "Vuh" Wagner. The maker of Laser gun.
+
+ษอออออออออออออออป
+บ  Type of Mod  บ
+ศอออออออออออออออผ
+
+Quake C  : yes
+Sound    : yes
+MDL      : yes
+
+
+ษอออออออออออออออออออออป
+บ  Format of Quake C  บ
+ศอออออออออออออออออออออผ
+
+unified diff  : no (What this is I don't know)
+context diff  : no (Same here)
+.qc files     : no (Read the rest about this)
+progs.dat     : yes
+
+ษอออออออออออออออออออออออออออออออออออป
+บ       Editors used                บ
+ศอออออออออออออออออออออออออออออออออออผ
+qccdos      -For a compiler
+Meedle      -For some of the new monster mdl's
+Quakeme     -For the rest of the skins
+Neopaint    -For the graphics of the skins
+Adquedit    -For alot of other cool stuff
+QMlite      -Viranith used this for the models
+ษอออออออออออออออออออออออออออออออออออป
+บ  Description of the Modification  บ
+ศอออออออออออออออออออออออออออออออออออผ
+        This bot is diffrent the others, not because it is better...because
+there are some better bots out there (Though this one is pretty good). Because
+I spent A LONG time adding in other QuakeC add-ons into it. I am still working
+on it though. Currently it has SuperAxe (Which the Bots use) throwing flame
+-axe, flame thrower, chasecam, multiskin, laser sight, and Eject. I also
+have included some skins.
+        This bot is also a clan of its own (I know, a clan bot?) Its name is
+"The Butchers". They specialize in the Axe! I WILL included there clan Hall,
+as a level that I made. (Not all that great, sorry) It includes there grave
+yard, there registration area, there arena, and there maze. Try it out! I
+have also included the skins for the clan. The offical one is the red and
+grey guy. I also included some heads. Some of the heads will match the bodys
+, others are just cool or funny. 
+        Some of the features include
+
+* Will use the super axe when you get to close
+
+* Fully strafeing and dodges missles
+
+* FlameThrower, Bots will also use it!
+
+* Does not cheat 
+
+* Swims
+
+* Will no longer shoot at you if something is in the way
+
+* Bodys will now stay around after they die
+
+* Creates a bot Randomly so you don't always fight the same one
+
+* The bots talk to you!!! (Real sound)
+
+* More advanced navagtion from BG
+
+* Laser Gun also added
+
+* Has a new weapon "FireAxe" that will burn your apponents down
+
+* Comes with eject built in!
+
+* Good aim, but still possable to dodge
+
+* Can help you in One Player as well
+
+* Read the follow section for more info on ejected shells.
+
+* Helmet lite, it better in dark places but then you are easier to spot!
+
+* ChaseCam and its components (HUD system, Laser Sight, MultiSkin)
+
+* Will no longer shoot at you if there is something in the way
+
+* There leader "Burn" is a better and stronger bot
+
+* Will now swim up if in water
+
+* LaserGun now included
+
+ษอออออออออออออออออออออออออออออออออออป
+บ       New info                    บ
+ศอออออออออออออออออออออออออออออออออออผ
+        The last bot was HUGE because of the new MDL files. So I took out
+all of them except the ones that were needed. So if you want the new mdls
+(Which I think are pretty cool) please e-mail me or Specter. There were
+also some problems downloading it so I have now zipped it with winZip instead
+of pkzip. I hope that will fix it. There is now the possibility of turning
+off eject, so now you don't have to restart a level if it packet over flows.
+There was a bug I forgot about (Huh-huh great!) which makes it so you
+can't change levels in single player. That is now fixed. The changing to
+axe thing has been fixed. Some better roaming, but still working on it...
+I now added the LaserGun. Thanks to Khan Reaper for the richoshaing nails
+code, and the flameThrower mdl. There was a big problem, the nail gun
+didn't work in my last upload, because I was working on the bounceing nails
+thing. That was fixed. I am having a bit of trouble with the source code,
+after deleting it by a mistake I had to decompile it with proqcc which makes
+it compilable but not very readable. I have managed to restore all files but
+the BOTAI.QC one, which is the most important. I would think that it should
+work when I try to take parts from an old file and past it over the messed up
+one but the compiler then gives me a "unknown punctuation" at the last line of
+the code that is blank.
+
+        ษอออออออออออออออออออออออออออออออออออป
+        บ       I need your help!           บ
+        ศอออออออออออออออออออออออออออออออออออผ
+        I need people to e-mail me what you think! With out it, I don't know
+how popular/unpopular this mod is. I also can't make it better with out
+imput. If you send me e-mail you will get the following benifits.
+
+Put on the Killers of Quake list
+
+Updates on all projects
+
+I will be welcome to try to help you with any Quake/QuakeC questions
+
+You get an Offical ButcherClan member ship sheet (WOW!!!)
+
+And more beniffits once I think them up.
+
+If I have time I will make a skin for you.
+
+        So its not hard to e-mail me,
+
+and you will get some cool beniffits. So take 1 min. to send me something
+
+I will reply to all mail.
+
+ษอออออออออออออออออออออออออออป
+บ  How to use Modification  บ
+ศอออออออออออออออออออออออออออผ
+
+Make a directory in Quake (Type MD RBOT) called "Rbot". Copy the ZIP
+file into it, and unzip it. Make another directory inside RBOT called
+"progs" (It must be called progs.) Copy the player.mdl file into it.
+Then make another directory inside Rbot called sound. Type copy *.wav sound
+Then goto the quake directory and type "Quake -game Rbot"
+.It should run.
+Impulse 100 creates 1 Random Bot.
+Impulse 103 Goes into observer mode ("Must type KILL to get out")
+Impulse 101 Is the score
+Impulse 130 turn eject on/off
+Impulse 30 ChaseCam
+Impulse 20 HelmLight
+Impulse 31 LaserSight
+Impulse 200/201 Skin cycle
+==========================================================================
+
+ษอออออออออออออออออออออป
+บ  Technical Details  บ
+ศอออออออออออออออออออออผ
+
+Bugs:
+
+The bots can use doors, but they don't........old BG problem...
+
+Old crack/broken ground problem.....another old bg problem
+
+They don't use the flame axe........
+
+Some spelling errors (Sorry, orange letters can get confusing)
+
+Some other bugs to be fixed
+
+Some times they say garbled messages
+
+ษอออออออออออออออออออออออป
+บ  Future Enhancements  บ
+ศอออออออออออออออออออออออผ
+
+Better wandering (I now know how, just working on it )
+
+Fix it so the bots use the fireAxe as well
+
+The same old Crack/broken ground bug. (Would help if I knew what caused it)
+
+More Weapons
+
+Use of PowerUps (Quad, Protection, BioSute)
+
+Use of doors.... (also know how)
+
+bots use of footsteps mod.
+
+Grappling Hook!(its just a cool mod)
+ษอออออออออออออออออออออป
+บ  Contacting Author  บ
+ศอออออออออออออออออออออผ
+
+As mentioned above, my email address is :
+
+BRAINnMEAT@AOL.COM 
+
+
+ษออออออออออออออออออออออออออออออออออออออออออป
+บ  Copyright and Distribution Permissions  บ
+ศออออออออออออออออออออออออออออออออออออออออออผ
+
+þ Authors MAY use this modification for there own files, E-MAIL
+me for the Source code, or visit my web page. And also put every
+one in the credits I did along with me. 
+
+þ You may distribute this Quake modification in any electronic
+format as long as this description file remains intact and unmodified
+and is retained along with all of the files in the archive. (Please do!)
+
+þ I would rather you didn't use deacc to look at what I have done,
+it won't be to hard to get the Source code from me. Its just an e-mail
+away!
+

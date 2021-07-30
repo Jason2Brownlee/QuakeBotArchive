@@ -1,0 +1,244 @@
+Title    : MaNiAcBot
+Filename : maniacbt.zip
+Version  : 1.3
+Date     : 6/15/99
+Author   : Michael 'MaNiAc' Turitzin
+Email    : <stevet@thevision.net> or <maniac@converted2.com>
+Credit   : Bots in Rankings code by Alan Kivlin <e-mail: alan.kivlin@cybersurf.co.uk>
+           Kasuha's Deathmatch Camera(KasCam) v1.8 by Karel Suhajda <suhajda@serverpha.czcom.cz>
+           Frog <frog@powerup.com.au> for the Copywrite/Permissions and
+           Disclaimer at the end of this text file(dunno if he got it from
+           somewhere)
+Webpage  : BloodMage TC for Quake <www.converted2.com/bloodmage>
+
+New to this Version(1.3)
+-------------------------
+-added MaNiAcBot Cam support.  type "botcam" in the console to switch the the
+ view of a bot and use this command again to switch between the different bots' views.
+ this cannot currently be turned off(other than restarting or changing maps).  there
+ are some bugs with the display of NG/SNG/LG firing frames in this mode.
+-smoothed out the movement of bots pitching up and down to look at their enemies.
+ this makes the MaNiAcBot Cam easier to watch.
+-bots now have their appropriate colors in GLQuake!  I had to really hack this in
+ and change a lot of code in the process, but I haven't found any bugs with it
+ so far.  the bots' bodies WILL lose their colors after they respawn in GLQuake
+ just like regular players, however.  this may cause problems in multiplayer if
+ more than one real player is involved, but I haven't tested it.  because the
+ colors are now working, I removed player.mdl, eyes.mdl, and h_player.mdl, but
+ added null.spr(with 143 frames!) to get rid of frame errors.  thanks to
+ Frika-C (of the Frik-Bot) for telling me the method he used to implement this
+ feature in his bot!
+
+New to Version 1.2
+-------------------------
+-stats are reset on level change in deathmatch 4 now.
+-some types of ammo were still spawning in deathmatch 4 mode(these were ones
+ that used the item_weapon entity which is only in DM5 and DM6 to my knowledge)
+-fixed bug with bot axe running frames(used standing ones)
+-added ANOTHER deathmatch mode, deathmatch 5!  the idea is basically ripped
+ from NIQ for Q2.  every 30 seconds a weapon is chosen at random(same weapon
+ won't be picked twice in a row) and all bots and players get that weapon and
+ infinite ammo for it BUT lose every other weapon.  lots o' fun when rocket
+ launchers are picked(everyone still starts with 100 health!) or when it's
+ all axes.  weapons and ammo do not spawn in this deathmatch mode.
+ [WARNING] I would not recommend spawning too many bots in this mode if you
+ are in a small level because the sheer number of entities(especially gibs)
+ can crash Quake.
+-shotgun can now do a maximum of ~100 damage in deathmatch 5(like the powerful
+ blaster in NIQ)
+-all weapons will be cycled through in deathmatch 5 before one is used again.
+ also, the game can never start with all players having axes.
+-weapons will not change in deathmatch 5 during intermission
+-bots will now look up and down at their enemies.  also the bug with the kascam
+ and bot "x" angles has been fixed.
+-bots will now push buttons!  they don't understand the trigger/target relationship,
+ but they can finally go up those button-push activated elevators.
+-it is less likely that a bot will keep getting crushed while on an elevator
+ because the bot will now try to position itself on the center of the elevator.
+-bots should turn to face their enemy when they are on elevators now.
+-bots will attack monsters and monsters will attack bots in single player mode.
+ (hey, the bot can beat e1m1 in "only" 4:31 ;)
+-bots will not strafe jump while attacking monsters(makes them less likely to
+ jump off cliffs while playing single player levels :)
+
+New to Version 1.1
+-------------------------
+-decreased bot's aiming accuracy(still perfect at skill 3)
+-bots will not strafe when they are blocked to the right and left and will
+ instead charge at you
+-added "Loop Current Track" option to Quake CDPlayer
+-correct ammo number and type should show up when KasCam is tracking a bot
+ most of the time now
+-bots will now move faster when "sv_maxspeed" is increased(up to 1000). note
+ that you may encounter bugs in bot movement(like staring at walls) at speeds
+ higher than 320(default)
+-bots shouldn't slide around on elevators any more
+-bots now observe "fraglimit" rules like players
+-bots now don't respawn instantly(there is now a delay of 1-2 seconds)
+-bots now each have a separate name(randomly chosen from list of 15) but don't
+ have their skill level in their name.  no 2 bots should have the same name.
+-fixed bug with bot falling death messages(I think)
+-added deathmatch 3 and deathmatch 4 modes.  just type "deathmatch 3" or "deathmatch 4"
+ in the console to use these and restart the level.  deathmatch 3 is like deathmatch 2
+ only items will respawn.  in deathmatch 4, no ammo or weapons spawn and all bots
+ and players start with all weapons, unlimited ammo, 200 health, red armor, and
+ 3.5 seconds of invulnerability.  also included in deathmatch 4 are the octa damage
+ and backpacks which give 10 health(when you get 250 you get octa damage and pentagram)
+ armor, health, and powerups will respawn in deathmatch 4.
+ [WARNING:  Bots will pretty much ONLY use the lightning gun in deathmatch 4 if
+  you don't use the rl_pref command]
+-bots will now stop running after weapons when they already have them in deathmatch 2
+ and deathmatch 3
+-bots will now "forget" about their goalentity and enemy when they go thru
+ teleporters
+-decreased amount of time bots will search for their enemy when it goes out
+ of sight
+-bots should now not fire at their own feet when you are below them(this may
+ still happen at lower skill levels though)
+-bots will now just stand around and do nothing during intermission
+-bots will now try to charge in closer when they have the (super)nailgun and
+ will fire the rocket launcher over the super shotgun at medium range
+-added teamplay!  use the "addteambot" command to add a bot to the "Human"
+ team(the team is blue and ALL players are automatically put on it)  The regular
+ "addbot" command will add a bot to the red team.  I had to use skins because player
+ colors weren't working in GlQuake.  It is a good idea to restart the level
+ if you ever have bots out and change the teamplay settings because otherwise
+ you might have a bunch of red/blue skinned bots running around in a nonteamplay
+ game or rogue non-skinned bots in a teamplay game.  at this point, bots on your
+ team will just not attack you.  all normal teamplay rules apply.
+-fixed small bugs with bot weapon selection at long range
+-added "rl_pref" command.  use this to make bots use the rocket launcher in
+ almost all situations other than VERY close range combat.  recommended for
+ deathmatch 4
+-you will not use ammo to discharge in deathmatch 5 now! :)
+
+Type of QC Mod
+-----------
+Bot             : Yes!
+Compilation     : No
+Deathmatch      : Yes!
+Teamplay        : Yes!
+Monster         : No
+Skin            : Yes(null.spr)
+Sound           : Yes(demon/dland2.wav which is silent)
+Weapon          : No
+Utilities       : Yes(KasCam, Quake CDPlayer(tm))
+Other           : Not that I can think of...
+
+
+Format of QuakeC
+----------------
+unified diff  : No(and yes, I do know what that is)
+context diff  : No
+.qc files     : No
+progs.dat     : Yes
+
+
+Construction
+----------------
+
+Base                  : Original Quake v1.06 source
+Build Time            : About 1 week(pretty fast, eh? :))
+Editor(s) used        : MS-DOS Edit, fastqcc
+Known Bugs            : Not really a bug, but bot roaming AI really needs work
+                        Currently no swimming code(but water affects bots exactly
+                                how it does players)
+                        Bots cannot currently shoot damageable triggers but can
+                                activate all others.
+                        Bots will occasionally just stop moving(this
+                                has pretty much been fixed though)
+                        NG/SNG/LG weapon frames get a little messed up in MaNiAcBot
+                                Cam mode
+                        Anything else?
+Impulses              : NOTE: All these impulses are aliased automatically
+                              to commands.  The commands and then the impulses
+                              are listed.  A message will be displayed on startup
+                              of the bot so you don't need to memorize 'em...
+                        addbot - impulse 15 - adds a bot
+                        addteambot - impulse 16 - adds a bot to the "Human" team
+                                                  (teamplay must be enabled)
+                        observer - impulse 17 - toggles observer mode(invisible to bots)
+                        verbose - impulse 18 - bots update you with text messages
+                                               when they change goals(for debugging)
+                        rl_pref - impulse 19 - toggles bot rocket preference(default
+                                               OFF)
+                        cdplayer - impulse 20 - a CD player menu pops up and
+                                                impulses 1-7 are used for CD
+                                                player options until you use
+                                                this command again to turn off
+                                                the CD player.  Player options
+                                                include increment/decrement
+                                                CD track, eject/close CD-ROM,
+                                                pause/resume play, loop, and CD
+                                                audio on/off...  cool eh?
+                        botcam - impulse 21 - activates MaNiAcBot Cam the first time
+                                              it is used and switches between bots
+                                              after that.  cannot currently be
+                                              turned off.
+                        kascam - impulse 250 - turns on KasCam.  For more detailed
+                                               instructions consult the included
+                                               kc18doc.txt file.
+Description of the Modification
+-------------------------------
+The MaNiAcBot project was my first attempt at a bot for Quake, much less "real"
+AI in general.  In all, I think it came out pretty well considering the time
+I took to develop it.  Don't go in expecting a Frogbot or Omicron because you
+will definitely be disappointed.  This bot DOES, however, have several advantages
+over the Reaper and Zeus bots(not to say it is a better bot or anything though)
+It shows up on the rankings, has smooth movement, can pick up all items, can
+roam the level fairly *decently*, and fights fairly well).  You can set the
+"skill" variable to anything from 0-3 which will only affect the accuracy of
+the bot's shots.  This bot currently doesn't support coop and I don't think I
+will add it due to the fact that I am currently working on a TC(BloodMage,
+www.converted2.com/bloodmage).  I included the Quake CDPlayer(tm) of my own
+making(in about 20 minutes for those interested) which is kinda cool and some
+other features(see impulse list above).  btw, besides the rankings code, this
+bot was created entirely from scratch in about a week's time.
+
+How to Install the Modification
+-------------------------------
+1. Create a directory off your Quake directory(for example, "c:\quake\maniacbt\")
+2. Unzip the contents of this archive into that directory.
+3. Run Quake(or GlQuake, WinQuake or VQuake) with the -game and -listen 16 parameters
+   (for example, if you installed the bot to "c:\quake\maniacbt\" you would
+   type "quake -game maniacbt -listen 16".  The "-listen 16" parameter is NEEDED
+   for the bot because of the rankings code.
+4. In the game, set your preferred deathmatch mode(type "deathmatch 1",
+   "deathmatch 2", "deathmatch 3", "deathmatch 4", or "deathmatch 5" in the
+   console and then switch to whatever map you want to play(the bot doesn't
+   need waypoints or anything).  Also, set the skill level if you like(from
+   0-3 by typing "skill #" where # is your desired skill level).  Higher skill
+   levels produce tougher bots.
+5. Frag away!  I would recommend playing on more simple levels because the
+   bot will usually have trouble on complicated ones.
+
+Technical Details
+-----------------
+Uh, not much to put here that I can think of.  I put a lot of randomness
+in the bot's decisions so it is usually unlikely you will see him do the same
+thing very often.  The MaNiAcBot can get to many locations other bots find
+inaccessable, but as a result he may do stupid things like fall in the lava
+more often.  Btw, the number at the end of each bot's name denotes that bot's
+skill level[NOTE: no number in new version].  I included the "sound/demon/dland2.wav"
+blank sound file to eliminate bot thuds without having to use extra cpu to
+detect and reduce them.
+
+Author Information
+------------------
+I'm 17 and currenty a high school student in California, USA.  I've always
+liked bots a lot and wanted to make one, hence the creation of the MaNiAcBot :)
+
+Copyright and Distribution Permissions
+--------------------------------------
+The modifications included in this archive are Copyright 1998, Michael
+Turitzin. The original QuakeC source is Copyright 1996, id software.
+
+You may distribute this Quake modification in any electronic format as
+long as all the files in this archive remain intact and unmodified and
+are distributed together.
+
+Disclaimer
+----------
+Software under this agreement is under no kind of warranty. Software
+under this agreement is provided as is, and isn't guaranteed in any
+way by the mod author. Use this software at your own risk.

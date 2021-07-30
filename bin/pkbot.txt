@@ -1,0 +1,93 @@
+----------------------------------
+Base File For QC Mods
+
+
+Title    : Painkeep Reaper
+Filename : pkbot.zip
+Version  : ?
+Date     : July 24, 1998
+Author   : Decker
+Email    : ?
+Credit   : This mod was created by the same author of the hipreap3.zip(Reaperbot combined with the
+           Hipnotic Mission Pack), but the author does not support both patches.
+
+Type of QC Mod
+-----------
+Bot  		: Yes				
+Compilation    	: Yes (replacement progs.dat for Painkeep)
+Deathmatch	: Yes	
+Teamplay	: Yes
+Monster		:
+skin		:
+Sound		:
+Weapon		:
+Utilities	:
+Other		:
+
+
+Format of QuakeC
+----------------
+unified diff  : 
+context diff  : 
+.qc files     : 
+progs.dat     : Yes
+
+
+Construction
+----------------
+
+Base                  :
+Build Time            :
+Editor(s) used        :
+Known Bugs            : Several (see Technical Details)
+Impulses              : Yes (see pkbot.cfg)
+
+
+Description of the Modification
+-------------------------------
+The Reaperbot merged with Painkeep. You need Painkeep in order to use this bot.
+(http://www.teamevolve.com/). Also, for more information of the Reaperbot along with complete
+impulse commands, you should download the Reaperbot from the (pub/idgames2/quakec/bots) directory
+at ftp.cdrom.com.
+
+How to Install the Modification
+-------------------------------
+To start off, go to your Painkeep directory and rename progs.dat to oldprogs.dat or something
+similar. Then extract this progs.dat into your Painkeep directory. You should either have the
+pkbot.cfg executed in your command line parameters or executed in your autoexec.cfg or whatever
+file you have that is automatically executed for Painkeep. As mentioned above, you should already
+have the Reaperbot and Painkeep and just refer to the significant readme files for all the
+necessary information. 
+
+Technical Details
+-----------------
+All the usual Reaperbot bugs are present in this bot also. They also do not use damage skins, 
+don't use multiskins, aren't affected by beartraps, they only use the default quake weapons, etc.
+
+Author Information
+------------------
+The author who merged this patch goes by the name of Decker and doesn't support it, I just
+downloaded this from a bot page and wrote the readme to go along with it. The author of the
+Reaperbot is Steven Polge who now works for Epic Megagames and was responsible for the Unreal
+monster and bot ai. The Painkeep authors are Team Evolve and are currently working on a secret
+project due to be released in a few weeks (as of this writing). I, loknlode, have nothing to do
+with the creation of this file. I simply put it together with this readme and config file. My
+email is dennis_n@pacbell.net. I really don't want any emails about this mod, as I will probably
+ignore them. If you want more information about bots I suggest you go visit Randars Bot Page
+(http://www.ionet.net/~mimpchnk/). 
+
+Copyright and Distribution Permissions
+--------------------------------------
+Quake C is Copyright (C) id Software.
+
+You may distribute this Quake modification in any electronic format as long
+as this description file remains intact and unmodified and is retained along
+with all of the files in the archive.
+
+=============
+Availability
+=============
+
+You can find this archive at the following URLs:
+
+ftp://ftp.cdrom.compub/idgames2/quakec/bots

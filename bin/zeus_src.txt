@@ -1,0 +1,173 @@
+======================================
+Title    : ZEUSbot 2.05 Source Release
+======================================
+
+Filename : ZEUS_SRC.ZIP
+Version  : 2.05
+Date     : 9/15/97
+Author   : Jonathan E. Wright aka Nelno the Amoeba
+Email    : nelno@resurrection.com, nelno@ionstorm.com
+
+Quake DM
+Name     : Nelno [ION]
+
+Home Page: http://trailerpark.com/phase1/nelno
+           Check here for the latest updates to all my Quake mods:
+           Zeus, Cujo, plasma gun, BFG, blaze gun and more.
+           If you didn't get this mod from my site, it's likely
+           that you don't have the latest version.
+
+           Go to the official Zeus bot page at Quake C Archive at:
+           http://www.planetquake.com/qca/zeus
+
+Credits  : ID Software for designing Quake with Quake C!
+
+           Otherwise, this bot was built from scratch.
+
+Special
+Thanks   :  My select group of hardworking beta testers:
+            Gary McMillin, "JumpA" <psyche@hitech.net.au> for
+              all the excellent testing and bug reporting he's
+              done for Zeus since version 2.03.
+            Jeff Blaine, jblaine@shore.net for catching all the
+              easily missable bugs in 2.041.
+            
+
+            Yowza the All-Knowing for the billions of suggestions
+              he's given me (usually reminding me of the nose on
+              my face).
+            Everyone who's sent me mail with suggestions, praises,
+              complaints and ummm... well, that's all.
+
+
+============
+Type of Mod
+============
+
+Quake C  : yes
+Sound    : no
+MDL      : no
+
+
+==================
+Format of Quake C
+==================
+
+unified diff  : no 
+context diff  : no 
+.qc files     : yes
+progs.dat     : no
+
+
+================================
+Description of the Modification
+================================
+
+This is it.  The source code for the Zeus bot, version 2.05.  It's far
+from perfect and has some obvious bugs in it, but I've left those as
+excercises for the reader.
+
+Some of the major problems:  
+. the shortest path routine does not work correctly, and causes an 
+  infinite loop error in some cases.  However, from what I can tell it's
+  a bogus error -- the pathing routine should just be rewritten.
+
+. Holo-HUD should be update from PlayerPrethink so that the update is
+  made on a frame by frame basis no matter how fast Quake is running.
+
+. the firing delay on some or all of the weapons was trashed in the
+  2.05 release -- the code isn't checking self.attack_finished to make
+  sure the bot is able to fire again.  The only limiting factor right
+  now is the number of frames in each firing sequence.  Anyone who knows
+  anything about Quake C should be able to fix this with a single if
+  statement.
+
+. Bot-sticking.  The nature of the movement code I used in the Zeus bot
+  causes some sticking problems.  I wrote the Zeus bot code before ever
+  seeing the Quake source, but since coming to ION Storm I found that
+  my movement code very closely parallels the player movement code in
+  the Quake engine -- however, in Quake C there is an important function
+  missing that allows testing the validity of an object move.  It's
+  in Quake, but there's no link to it from Quake C.  The problem with
+  the Zeus code is that I'm adding to the z origin of the bot before I
+  push it along in the direction it needs to go -- despite LOTS of 
+  tracelines, there are just times when obstructions are missed and the
+  bot can be moved into a solid object.  I think I got around a lot of
+  this with 2.05, but it's been a while and I can't remember.  A word
+  of warning: if you change the code in ZEUS_movetogoal, be prepared for
+  something to screw up hardcore, it's quite sensitive to changes.
+
+. Item grabbing in 2.05 is screwed.  I had plans to optimize the bot
+  by flagging all items on the map that were grabbable just as the map
+  started, but I either didn't finished or just screwed it up from the
+  start and it's not working correctly right now.  The bots will strafe
+  into items to pick them up during a fight, but they don't seem to go
+  after items when they aren't fighting.
+
+. In general, version 2.05 can get quite slow.  I added a bunch of crap
+  between 2.04 and 2.05 and didn't optimize any of it.  If you go through
+  and optimize the bot remember these things:  String compares in QC are 
+  REALLY, REALLY slow, so avoid doing them in a loop at all costs.  Try
+  to keep searches through the entity list to a minimum -- this is hard
+  because you have to do it to acquire targets, but if you're up to it
+  it shouldn't be too hard to optimize this part of the Zeus code.
+
+. Check out all of the debugging impulses -- there are a lot of them that
+  should help you to understand the bot's node generation and pathing
+  procedures.
+
+. there is an included Borland Pascal source file called QSTR.PAS 
+  which outputs strings that can be pasted into a .qc file to get the
+  orange text effect of a player "say" command.
+
+. this archive ONLY contains the source code for Zeus 2.05.  To get 
+  everything to run right off you'll probably need to also download 
+  zeus205.zip.
+
+
+==========================
+Questions About the Source
+==========================
+
+If you have any questions about what the hell is going on with this 
+source, email me at nelno@ionstorm.com or nelno@resurrection.com.  The
+latter will always forward to my current address, so it's probably best
+to use it.
+
+I haven't even looked at the Zeus source for more than 3 months, and
+haven't been hardcore into it for more than 7 months, so unless you're
+just stumped, it might benefit you to look around the code yourself a
+bit before emailing me, because I may not have any idea what's going
+on either.
+
+And yes, I'm sure lots of it is unoptimize lumps of crap, so please 
+don't email me telling me that I should have done this instead of that.
+Don't get me wrong -- I'm happy to hear suggestions for improving 
+algorithms and such, but try not to nitpick my code, k?
+
+
+=======================================
+Copyright and Distribution Permissions
+=======================================
+
+The modifications included in this archive are Copyright (C) 1996 by
+Jonathan E. Wright and Quake C is Copyright (C) id Software.
+
+The code contained in this archive may be used as the basis for other
+public domain works.  The Zeus bot code CANNOT be used, in whole or in
+part, as the basis for any commercial or non-public domain work without
+the written permission of the author, Jonathan E. Wright.
+
+You may distribute this Quake modification in any electronic format 
+as long as this description file remains intact and unmodified and 
+is retained along with all of the files in the archive.
+
+=============
+Availability
+=============
+
+You can find this archive at the following URLs:
+
+ftp://ftp.cdrom.com
+http://www.trailerpark.com/phase1/nelno
+http://www.planetquake.com/qca/zeus

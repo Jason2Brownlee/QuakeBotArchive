@@ -1,0 +1,167 @@
+Title    : The Oak
+Filename : oak0405.zip
+Version  : Public Beta: 04-May-1997
+Authors  : John Crickett & Neil Henderson
+Email    : john.crickett@ukonline.co.uk & neil.henderson@ukonline.co.uk
+Web Site : http://web.ukonline.co.uk/neil.henderson/index.htm
+           A Mirror site will be coming soon.
+Credits  : id software for Quake of course.
+	   Dan Bickell for the incredible Terminator skins.
+	   BGBOT Programmers for releasing their source code.
+
+Build time: Months and months...
+
+
+Type of Mod
+-----------
+Quake C  : yes
+Sound    : yes
+MDL      : yes  
+
+
+Format of QuakeC (if a Quake C Mod)
+-----------------------------------
+unified diff  : no
+context diff  : no
+.qc files     : no
+progs.dat     : yes
+
+
+This is a Beta Release!
+-----------------------
+
+This is an early release of The Oak. There are many bugs and features not yet
+implemented. If you do feel inclined to report any problems, please use the
+form available on The Oak's web site:
+
+http://web.ukonline.co.uk/neil.henderson/index.htm
+
+Thanks.
+
+We hope to release a new public beta in a few weeks.
+
+
+Quick Notes
+-----------
+
+This is a brief section detailing exactly how to install and run The Oak.
+
+The oak0405.zip file should contain these files:
+
+Pak0.pak
+Progs.dat
+TheOak.txt (this file)
+
+Unzip these files into an appropriate subdirectory under your Quake
+directory. For example, unzip them to:
+
+c:\games\quake\theoak
+
+To run The Oak, switch to your Quake directory, and enter at the command
+prompt:
+
+quake - game theoak
+
+Quake will now load and you will be ready to play! Bring up the menu by
+pressing the Escape key, then choose Multiplayer and then New Game. Select
+the Direct Connect option, and then choose OK at the next screen.
+
+Now you can setup the game environment, for example the difficulty level
+to play at, the frag/time limits, the map, etc. When you're ready, choose
+the Begin Game option.
+
+You will now be in the level and playing... but there won't be any bots there
+yet! To "spawn" them, bring down the Console by pressing the ~ key and then
+type:
+
+impulse 100
+
+To display the current score, type:
+
+impulse 200
+
+
+Description of the Modification
+-------------------------------
+
+The Oak is a Quake Bot written in QuakeC which simulates a Quake player.
+You can play Deathmatch, Co-Operative, and Team games on your own computer. 
+The Oak is named after body-building champion Arnold Schwarzenneger and, 
+using state of the art combat tactics and brilliant A.I., The Oak promises 
+to be one of the best, and toughest Bots around!
+
+Guaranteed not to "cheat", The Oak will provide a challenging opponent or a
+superb ally! Teamplay will be supported so that you and a team of bots can
+take on another team. Not only will you get immense enjoyment, but you will
+also increase your Quake skills too!
+
+Features:	* Intelligent set of Combat tactics.
+		* Dynamic Learning ability. The Oak will remember important
+		  map locations such as where weapons, health, armour, and
+		  other items are.
+		* Ability to swim in water.
+		* Will examine the map surroundings for secrets and logical
+		* paths to follow, for example jumping onto crates or
+		  shooting walls.
+		* Includes the Terminator skin and a number of WAV sounds.
+		* The skin will actually change to show the damage inflicted
+		  on the bot.
+		* Possibility to include new weapons in future versions.
+
+Well, that's what the FINAL version of The Oak will do. :) Please be aware
+that this is the first public beta that we have released. Currently, only
+Deathmatch mode is working. You can try the Cooperative or Teamplay modes
+but won't find much happening.
+
+Commands include:
+
+IMPULSE 100 - Spawn 4 bots.
+IMPULSE 200 - Display the score.
+
+SKILL x - Change skill level (x = 0 to 3, default is 1)
+
+You can "bind" keys to these commands, so that instead of having to bring
+down the Console to enter them, you can just press a key. For example:
+
+bind "q" "impulse 200"
+
+will display the scores whenever you press the Q key.
+
+
+Author Information
+------------------
+
+John Crickett is 20 years of age, and is studying at Swansea University. He
+is in his second year of a BSc Computer Science degree.
+john.crickett@ukonline.co.uk
+http://web.ukonline.co.uk/johnc/
+
+Neil Henderson is 18 years of age, and works for an IT solution provider who
+mainly create web sites and intranets.
+neil.henderson@ukonline.co.uk
+http://www.cvnet.co.uk/hendo/
+
+
+Copyright and Distribution Permissions
+--------------------------------------
+
+The modifications included in this archive are Copyright 1997, John Crickett
+and Neil Henderson.
+
+The original QuakeC source is Copyright 1996, id software.
+
+Authors may use these modifications as a basis for other publicly or
+commercially available work, but only after we release version 1 of The Oak.
+
+You may distribute this Quake modification in any electronic format as long 
+as all the files in this archive remain intact and unmodified and are
+distributed together.
+
+
+Availability
+------------
+
+This modification is available from the following places:
+
+Web   : http://web.ukonline.co.uk/neil.henderson/index.htm
+FTP   : ftp.cdrom.com in \pub\quake\quakec\bots

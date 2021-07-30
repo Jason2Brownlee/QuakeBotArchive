@@ -1,0 +1,195 @@
+Title    : Killer Qcbot
+Filename : KQcbotv095b.zip
+Version  : 0.94 beta
+Date     : 97-11-19
+Author   : William 'Killer-Sub' Ravaine
+Email    : ravaine@worldnet.fr
+
+Intro
+-----
+
+Whouuu ! YOU ARE DOWNLOADING A VERY SPECIAL BOT ! -> a QCBOT ! This mean that the bot's 
+NAME APPAIR IN THE RANKING, AND THAT HE HAS A DIFFERENT COLOR THAN AN OTHER BOT..., 
+and, finaly, he has a humain behaviour (or traying, he he).
+You won't believe your eyes when you'll see it !
+
+Don't forget that this is a beta version, and so contain some bugs. If you see new one, 
+please email me, or if you simply want to talk with me or something else ! I'll answer 
+you !
+
+	Thanks for playing the bots !!!!
+
+Type of Mod
+-----------
+Quake C  : Yes
+Sound    : Yes (sorry, but you must create a subdirectory called "sound" in the bot folder)
+MDL      : no (not yet)
+Source   : no (but if you want them, there's a zip file call KQCBotSource.zip 
+	       at CDrom.com, and soon to the killer qcbots home page)
+
+
+Installation Instructions
+-------------------------
+
+1. Make a directory/folder called "qcbot" in your Quake directory.  For example:
+
+	C:\>cd quake
+	C:\QUAKE>mkdir qcbot
+
+2. Extract the zip file in this folder/directory (pkunzip users, make sure that
+you had -d)
+
+3. Launch the patch with the -game option. For exemple :
+		
+	C:>cd quake
+	C:>QUAKE>quake -game qcbot
+
+  Hey, it works ! Fantastic !!!
+
+NEW IN THIS VERSION
+-------------------
+
+	* some bug fixed (yeeeehaaaa !) like angles...
+	* Listen : all the teamplay modes works prefectly !!! (execpt the red bots in 
+	  teamplay 1)
+	* Teamplay 1, Teamplay 2, Deathmatch 1 modes !!! Try them all !
+	* Modified the message at startup. You can see what mode is in use too ! very cool
+	* friend bots folow you until they acquire a target.
+		
+
+LAST VERSION
+------------
+	
+	* do you know what ? The bots start being intelligent ! When they jump, because now 
+	they jump, they check before if there's lava or slime ! Cool, isn't it ?
+	* added a lot of code for WATER STATE of the bots (water, lava, and slime). Now, the
+	bots go inside water, and after 12 s, they start drowning, and maybe dead ! All 
+	of this with total player sound !
+	* when the bots talk, there's a beep, like when real players talk.
+	* when a bot is in water, and if his current weapon is the lightning, he think to
+	kill you in a giga discharge, or select another weapon, like the rocket launcher.
+	* when you do the weapons cheat (impulse 9), you substract to you 3 frags
+	* Added MOTDD, at start
+	* players get a new weapon : the Flamed Rocket Launcher (select the 
+	Rocket Laucher Twice)
+	* substract the laser to the bots, because it slowed down the game
+	* reduce num of the weapons for the bots when they respawn or start the game,
+	because it slowed down the game, and it was too dificult to kill them !
+	* add a beta version of a new MG Point defense ! This missile stick into the wall
+	and start to shoot after an enemy in a short radius.
+	* tryed to make the bots flamethrower better !!!
+	* the bots can jump randomely, so they can go on all the map, and they're not 
+	  stopped on the platforms ! cool !!
+	* a new mode : show name mode. See the name of your enemy (in front of you)
+	* The bots fire flamethrower
+	* Also Laser too
+	* players have an homing nailgun ! Cool !!
+	* Also bots have an homing nailgun... Shit !
+	* players get a chaingun weapon : select the super nailgun 
+	  (WARNING : It make sometimes crash the game)
+	* the Grappeling Hook is here ! This will make players happy !
+	  Select twice the axe.
+	* the bots don't shoot at you when they don't see you ! They hunt you instead !!
+	  He he !!
+	* fixed some bugs on the bot flamethrower shoot, and bot movements
+	* players are alowed to use the flamethrower (select super shotgun twice)
+	* bots move faster
+	* some cheat codes for the cheaters... (for bad players !)  :)
+	* fixed the bug of the grapple sound (it was "blob/land.wav not precached")
+
+FUTUR VERSION
+-------------
+
+	I Think to work on the teamplay bots. There's too much bugs when running
+	this mode, so... With a strong teamplay mode, this bots will be nearly
+	perfect...
+	I'll try to make the bots swimming up when they start to drown.
+	For the version 1.01 of this bots, the total version, and not the beta, all
+	bugs (I hope), will be fixed, and the bots will be able to fire hook (grappler)
+	too.
+
+Credits
+-------
+
+	* hey, me... Naturly !
+	* Ernie Thomason <ernie.thomason@transamerica.com> for his help, and his work
+	  on the server of the Killers Qcbot Homepage, and original code for the meteor
+	  code (adapted for the flamed rocket launcher) wich is from his QuakeC patch
+	  Dope DM (avalaibility at ftp.CDRom.com / Compilations)
+
+	* Alan kilvin <alan.kivlin@cybersurf.co.uk> for his help on making the bot frags update
+	  and the source code for implemanting bots on the ranking screen (what a work !)
+
+	* Drew 'BZ' Davidson, the author of the CTFBots, which are very cool ! Try this bots
+	too !
+
+	* Wolf <wolfg_l@pro-net.co.uk> (the bplayer2 author)
+	* Punisher (designer of Original BG bot) 
+        	* Micheal Polucha (co-designer of Original TM bot)
+        	* Tim Polucha (co-designer of Original TM bot)
+        	* Nathaniel Gorham (Original DM bot)
+        	* Chris Weisdorf (expressing interest and ideas in BG bot)
+        	* detour@chrysalis.org (detour and punisher had the same ideas
+                                 and mods going about the same time.
+                                 Just giving credit where credit is due.)
+
+HOW TO PLAY
+-----------
+He He, Just kill the bots (or try) ! For Create a bots, report to the *IMPULSES* part.
+
+IMPULSES
+--------
+
+	* impulse 100 : create a deathmatch bots (if you're in deathmatch 1), or enemy 
+	  bots if you're in teamplay 1
+	* impulse 99 : only on teamplay mode --> create a friend bot (lot of bugs)
+	* impulse 50 : Whaouu ! The MEAGA BOMB, just for you ! This new "weapon" is the 
+	  most powerfull one all over the world (I think...). Blow up, and you'll see 
+	  what's append...
+	* impulse 12 : GOD MODE ON
+	* impulse 13 : GOD MODE OFF
+	* impulse 9 : give you all weapons (cost 3 frag)
+	* impulse 103 : camera mode, use the kill command to return into the game
+	* impulse 20 : fire the nail trap
+	* impulse 230 : Show name mode
+	* impulse 110 : Show bot skill
+	* type "teamplay 1" and "restart" at the console, and you'll be able to play with
+	2 two teams : Blue team against Red team. You're red team. Impulse 99 to make 
+	friends
+	* type "teamplay 2" and "restart" at the console, and you'll be able to play with
+	several bot teams. You're in the green team for the moment.
+	* type "deathmatch 1" and "restart" at the console, and you'll be able to play 
+	against other bots, one to one.
+	
+
+KNOW BUGS
+---------
+
+	* red bots in teamplay 1 are sometimes stuck to the ground.
+
+Copyright and Distribution Permissions
+--------------------------------------
+
+YOU CAN REDISTRIBUT IT IN ANY WAY YOU WANT BUT AS A FREEWARE (DON'T NEED TO PAY)
+OTHER QCBOT PROGRAMERS CAN TAKE THIS SOURCE FOR GETTING THEIR BOTS BETTER ! TRY TO
+MAKE A QCBOT CHALLENGE !
+
+DISCLAIMER:  William 'Killer-Sub' Ravaine is not responsible for any harm or
+psychological affects, loss of sleep, fatigue or general
+irresponsibility from playing this patch.
+
+Availability
+------------
+
+This modification is available from 
+	
+	the Killers Qcbots Homepage :
+		--> http://www.engr.csulb.edu/~thomason/bot
+
+	And avalaible too on the the cdrom.com ftp server:
+		--> ftp://ftp.cdrom.com/bots
+
+HELP ON ?
+---------
+If you have any problems, just email me at <ravaine@worldnet.fr> and I'll answer
+you immediately !

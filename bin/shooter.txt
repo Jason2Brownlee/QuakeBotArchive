@@ -1,0 +1,60 @@
+                          ======================
+                          | Demonshooter V 1.0 |
+                          ======================
+
+        Author:           Shootermaster  
+        Email:            Shootermaster@HoTMaiL.com
+
+        Credits:          ID Software for creating Quake and of course QuakeC
+
+
+This mod will create a helper bot called Demonshooter. This guy will HELP you 
+in SINGLEPLAYER mode to defeat the monsters of Shub-Niggurath or in MULTI-
+PLAYER mode to kill other players and bots. He will just HELP you and NOT 
+do everything you want. If you protect him he will protect you and every-
+thing will be fine.
+
+Demonshooter will kill your enemies. If he gets injured, and he has not enough 
+armor or shells he will pick up items, to recover. In case you also 
+need them you better pick them up before he does. He will not follow
+you into water, slime or other wet things. But I think in my next version
+he will. He only uses a shotgun and will not pick up other weapons or ammo
+for another weapon. If you've called him once he will always respawn again when you 
+enter the next Level. It is not possible to get him away. You have to kill
+him if you get rid of him. You can call him only ONE time. If he dies,
+you cannot call him again before you start a new game or repeat the level
+he died in! That's the way life is...
+
+This is the first version of Demonshooter - and - the first thing I created
+in QuakeC. Demonshooter will not hesistate to shoot you, if you're 
+between him and an enemy. Up to now, I don't know any other bugs, but if you 
+find one - or more than one - please email me at Shootermaster@HoTMaiL.com and explain 
+what kind of problem you have experienced. I also welcome suggestions for the next version 
+of Demonshooter. 
+
+
+To install this mod, you have to create a new directory in your Quake folder.
+For example "Shooter". Unzip the pak0.pak file into this new directory. 
+Start Quake by typing:
+
+         QUAKE -game new_directory
+
+new_directory has to be replaced by the name of your new folder. You can call Demonshooter
+by typing:
+  
+         impulse 100
+
+at the console or by writing:
+
+         bind o "impulse 100"
+
+into your personal config.cfg file. In this case you call Demonshooter every 
+time you press "o". If you want another character for calling Demonshooter 
+replace o by the character you want to call him with. Have fun!!! 
+For this reason I created him.
+
+You may edit the source code or use it as a basis for other modifications as 
+long as line 323 of the original shootai.qc file remains unchanged. If you write 
+a completely new code and write parts of the Demonshooter code into it you have
+to insert line 323 of the original shootai.qc file into the same context of your
+new code. Apart of that you can do with the code what you want to.

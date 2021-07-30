@@ -1,0 +1,31 @@
+Date: 18 August 1997
+
+NOTE: This is the same as hipreap2 but it makes the default player skin as the first skin in the mdl..previous file had the 1st skin as the "raw" skin which was a mistake. Please delete hipreap2 and replace with this.
+
+Credits:
+Steven Polge original author of the AWESOME ReaperBot
+The guys from Book of Skinz for some great skins
+The unknown guy who did the modifications to the Reaper code so that it runs on the Hipnotic pack.
+
+
+How to use this patch
+---------------------
+Unzip the file "hipreap3.zip" into your hipnotic directory (eg. c:\quake\hipnotic) and start a normal hipnotic pack game. Go to a map you want to play on. (I recommend HIPDM1 :)
+
+Pull down the console and type these commands:
+skill X (where X is a value from 1-3)
+impulse 202 (turns on the cool skins)
+
+and then spawn the bots with these either of these console commands:
+impulse 205 (1 bot)
+or 
+impulse 208 (4 bots)
+
+Then get ready for some SERIOUS ACTION! For something to REALLY spooge about, play this with the new GLQUAKE release by Zoid.
+
+Brought to you by:
+GR!nDeR [WAR] of the Singapore QUAKE Clan WARMASTERS
+
+!!!WARMASTERS RULEZ!!!
+
+:))

@@ -1,0 +1,68 @@
+Title    : TrevBot
+Filename : TrevBot.zip
+Version  : 1.0
+Date     : 24/3/97, 12:30am 
+Author   : Kris O'Shea
+
+Email    : kris.o'shea@eccles.seuk.com
+
+Credits  : Carson Sutton (For RoamBot stuff)
+	   Micheal Polucha (co-designer of Original TM bot)
+           Tim Polucha (co-designer of Original TM bot)
+           Nathaniel Gorham (Original DM bot)
+           Punisher (BG bot...starting point for this work)
+           Stan Smith (for IDGlobe bubble idea)
+
+
+Type of Mod
+-----------
+Quake C  : yes
+Sound    : yes
+MDL      : yes
+
+
+Format of QuakeC
+----------------
+unified diff  : no
+context diff  : no
+.qc files     : no
+progs.dat     : yes
+
+
+Description of the Modification
+-------------------------------
+TrevBot is just Trevor McDoanld with a bad
+attitude. Partly Roam Bot V.0.9 with some extra
+touches.
+
+IMPULSE 100 creates a TrevBot. They can only be
+gotten rid of by killing them.
+
+
+How to Install the Modification
+-------------------------------
+Make a new dir in your quake directory (ie: c:\quake\Trev).
+Then extract the contents of this zip into that dir.
+Move .mdl into new dir 'c:\quake\Trev\progs\', and .wav's
+into new dir 'c:\quake\Trev\sound\weapons\'.
+Run quake with the following command line parameter:
+
+         quake -game Trev
+
+Bind a key to impulse 100 to activate the bot.
+
+
+Copyright and Distribution Permissions
+--------------------------------------
+
+Copyright (c) 1997 Kris O'Shea.
+
+Authors MAY use these modifications as a basis for other
+work providing they credit me if reusing or modifying any
+original code.
+
+
+Availability
+------------
+
+This modification will initially be available only from me!

@@ -1,0 +1,94 @@
+Title    : Ogre Bot
+Filename : ogrebot.zip
+Version  : 1.0 Beta
+Date     : 26/06/97
+Author   : Lava Man
+
+Email    : lava_man@geocities.com
+ 
+Thanks   : Id Software for their killer game Quake and Quake C
+           Brian Martin, The Author of Meddle
+           Rene Post, The Author of qMe
+	   Jonathan E. Wright, The Author of Cujo Bot 
+	   Ashley Bone, The Author of Pak Explorer (THE best pak util)
+
+
+Build time: about 24 hours...
+
+Note:  This is a BETA version of the Ogre Bot.I will add more features in
+future version.
+
+Type of Mod
+-----------
+Quake C  : yes (duh)
+Sound    : yes (just the ogre talk and the drunk missile explosions)
+MDL      : yes (just the drunk missile mdl)
+
+Format of QuakeC
+-----------------------------------
+unified diff  : no
+context diff  : no 
+.qc files     : no  (they're a real mess)
+progs.dat     : yes
+
+
+Description of the Modification
+-------------------------------
+  Throw an ogre head by typing IMPULSE 100 on the console.That'll cost you 30
+life.Then an ogre will appear where the head was thrown.Try throwing the
+head in a clear area.If there is not enough space you'll get your health back.
+  When the ogrebot sees a target he'll taunt them to lower their self-esteem.
+Then he'll blow 'em to bits with his missiles or cut 'em to pieces.
+The drunk missiles home on their target.When flying they wave from side to
+side (that's why they're called drunk).Oh,the ogrebot doesn't like you hurting
+it.If you do he'll launch some drunk missiles after you.And no,your ogre's 
+missiles won't home on you,otherwise all the llamas out there would get really
+scared and call their mommy.The missiles explode if you kill their owner.
+Also the ogre goes into a parallel dimension if his master dies.The ogre heals
+himself if he does ablosutely nothing (like standing).
+
+
+Bugs
+
+* Sometimes when the ogre will chainsaw someone,it'll teleport somewhere (???)
+
+* Sometimes a monster will just freeze and become solid.
+
+
+How to Install the Modification
+-------------------------------
+Create a directory called OGREBOT as a subdirectory in your Quake directory
+(parallel to the ID1 directory) extract the archive to the OGREBOT directory.
+DO NOT, I repeat, DO NOT copy the pak0.pak file over the top of your
+existing one. That'll screw it right up.
+
+The directory structure should look something like this:
+
+        QUAKE (Directory you installed Quake to)
+          |
+          |-- ID1 (Original Quake game files)
+          |
+          |-- OGREBOT (Ogrebot modification files go here)
+
+
+To play, type Quake -game ogrebot from the Quake directory.  This modification
+only works with the registered version of Quake, so if you haven't got it,
+stop being a lamer, and buy the damn game already.Id deserves their money!
+
+Copyright and Distribution Permissions
+--------------------------------------
+Authors MAY use this patch as a base for other publically available work,
+but this patch MAY NOT be packaged on a CD-ROM without my permission.
+Penalty for crossing me is a grand dose of drunk missiles;
+
+You may distribute this Quake modification in any electronic format as long
+as all the files in this archive remain intact and unmodified, and doesn't
+conflict with anything I've said above.
+
+Availability
+------------
+
+This patch is available from the following places:
+
+HTTP://www.geocities.com/TimesSquare/Lair/1074/index.html
+

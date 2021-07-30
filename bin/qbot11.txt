@@ -1,0 +1,34 @@
+QuakeBot v1.1
+-------------
+This mod is an improvement over the original ReaperBot v0.81 . The impulses
+and basic command set is similar to the ReaperBot's. Unzip this archive with 
+the pkzip switch "-d" (restore directory structure) into C:\QUAKE\QBOT and
+run it with the following command line:
+
+quake.exe -winmem 16 -listen 16 -game qbot
+
+
+Added Features
+--------------
+. Reaperbot silent jumping bug fixed.
+. Reaperbot thud sound when landing fixed.
+. Reaperbot dissappearing weapon bug fixed.
+. Reaperbot names and skill designation convention changed.
+. Reaperbot spawned in teamplay mode have random team colors.
+. Reaperbot spawned in deathmatch have different shirt and pants colors.
+. Realistic bot-vision implemented.
+. Realistic bot-player-physics implemented.
+. True observer mode implemented.
+. Scores appear on ranking screen.
+. Deathmatch 3 mode supported.
+. Useless messages removed.
+. *Some* bugs that cause crashes fixed.
+. *Some* modified gfx and sounds.
+
+Note: The ranking screen works in Teamplay mode, but its kinda messed up.
+Unlike version 1.0, this version has random skill setting disabled because
+I found that advanced players prefered to play skill 3 bots most of the time
+anyway and skill randomization just made it more tedious to spawn a skill 3.
+Consider yourself warned :o)
+
+uploaded by Timm Stokke //mr@inside3d.com
