@@ -1,0 +1,235 @@
+Title    : BotSkin (for Quake 1.06)
+Filename : botskn22.zip
+Version  : 2.2
+Date     : Nov 4 1996
+Author   : WACko
+Email    : wac@intergate.bc.ca
+WWW      : http://www.nethosting.com/~wacko
+Credit   : Tony Tang - VictimBot- HELP ME! QCannon!
+           Punisher <punisher@trojan.neta.com>
+                BGbot Code is used as base-now really mangled
+                Not much left of it now...
+           BGBot: http://www.neta.com/~punisher/quakec.htm
+           Dennis Noordsij <lnoordsi@inter.NL.net> 
+                Looked at Multiskin code to figure out how to do skins
+                no code used anymore- but thanks for showing the world!
+           MultiSkin: http://web.inter.NL.net/users/L.J.Noordsij/qc.htm
+
+
+Type of Mod
+-----------
+Quake C  : yes
+Sound    : no
+MDL      : yes
+
+
+Format of QuakeC
+----------------
+unified diff  : no
+context diff  : no
+.qc files     : no (they're on my Webpage!)
+progs.dat     : yes
+
+
+Description of the Modification
+-------------------------------
+Originally a BGBot(1.6) hack,  this little
+project started with the inclusion of
+skins to help distinguish between the bots.
+Now includes improved combat ai, fixed attack
+code, all the death animations, bodies that
+stay and MORE! Just added: Teamplay! Make a
+team of bots and go head to head with your
+HelperBots!
+
+Info on the Project
+-------------------
+Just recently,  I managed to really destroy some
+of the code,  so i had to go back to an older version
+(backups,  backups)... so if something is broken again,
+tell me and I'll fix it.
+
+WHAT! NO SOURCE CODE??!!  To simplify things
+for all the newbies out there, I'll be releasing
+just the compiled source.  Don't worry, you
+QuakeC programmers out there, the source is
+NOT being withheld.  It's available on the
+BOTSKIN HOMEPAGE(see bottom) and ME!! through
+e-mail.  Just ask.  All I'd like is a little
+recognition.
+
+BTW,  it seems that lately, my typing has become
+quite atrocious so if something doesn't work,
+something looks wrong in this doc, IT PROBABLY
+IS.  (and I'd be really grateful if you pointed
+it out for me)
+
+This has been a little doodling project when
+I'm not doing homework to learn C. Now 
+that I have 20 megs of ram,  I can't really 
+say whether it runs on 8 megs anymore so
+feedback would be appreciated!
+BTW, check out the TANGMASTA's VBOT!
+"Help me!  Don't shoot!" (shades of Virtua Cop)
+and the QCannon!
+"Wow.  Never noticed a rocket launcher there
+before..."
+
+New in Version 2.2
+------------------
+-This one's just a MAJOR bug fix...didn't notice
+        it until i tried my "let's load 20 bots"
+        test...this one fixes a stack overflow
+        which kept people from loading more than
+        two or three bots w/o crashing
+        forgot to comment out a line
+
+New in Version 2.1
+------------------
+-fixed refire rates...now uses nailguns to FULL
+        advantage...
+-fixed the ultra fast movement...bots accelerate
+        properly at sv_acceleration for those
+        physics nuts. Affects strafing as well
+        as forwards/backwards
+-got around to giving credit for the skins
+
+New in Version 2.0!
+-------------------
+-unimportant: # of bots running printed when
+        new bots created
+-should now use ALL POWERUPS!
+-attempts to check for lava before jumping...
+-strafing code is in...time for new tactics
+-bots will now strafe (at cl_sidespeed)
+-bots yaw at whatever speed in cl_yawspeed
+-bots now run at whatever speed in cl_forwardspeed
+
+
+
+Impulses
+--------
+
+ Impulse 100    creates 1 bot (for BOTS' Team in Teamplay)
+ Impulse 101    creates 1 bot - HelperBot for Your Team
+                in Teamplay
+ Impulse 102    prints scores to console
+                (hit the ~ to bring it down)
+                (scroll using pgup pgdn if it is offscreen)
+                (also printed to console on player death)
+ Impulse 103    Destroys ALL the bots
+
+ Impulse 200    goes through skins forwards
+ Impulse 201    goes through skins backwards
+
+To Deathmatch: Goto multiplayer.  Start a NEW GAME (any type)
+        and make sure the play type Deathmatch.  That's it!
+To Activate Teamplay: Set up as Dmatch but simply select
+        Teamplay ON when selecting options. 
+To Set Skill Level of Bots:  Simply change the skill level
+        in the menu.
+
+How to Install the Modification
+-------------------------------
+***Option 1) The Easy Way
+Make a new dir in your quake directory. (ie c:\quake\botskin)
+then unzip botskinXX.zip with -d option 
+
+(ie pkunzip -d botskinXX.zip).  
+
+It should automatically create the necessary directories. 
+
+(ie quake -game botskin)
+
+***Option 2) The Hard Way
+Make a new dir in your quake directory. (ie c:\quake\botskin)
+then move this progs.dat into that directory and copy your
+*.cfg from c:\quake\id1 into the same directory. Make a subdir
+called "progs" and move the player.mdl file in there
+
+***After install - If you d/l src.zip (the source code)
+Make a new subdir for the source code (ie c:\quake\botskin\src).
+Unzip src.zip to that directory.  The source code MUST be compiled 
+to be used.  A zipped copy of QCC (QuakeC Compiler) should be 
+available on my homepage. Place the compiled progs.dat in the 
+main botskin directory (ie c:\quake\botskin\progs.dat)
+
+Then from the c:\quake dir. type:
+        quake -game botskin
+
+Bind a key to impulse 100, impulse 101, impulse 102,
+impulse 200 and impulse 201 if you want easy access
+to them.
+
+From the console type:
+        bind KEYHERE "impulse 100"
+        bind KEYHERE "impulse 101"
+        bind KEYHERE "impulse 102"
+        bind KEYHERE "impulse 103"
+        bind KEYHERE "impulse 200"
+        bind KEYHERE "impulse 201"
+
+Replace KEYHERE with any key you're not using.
+
+Technical Details/Features in no particular order
+-------------------------------------------------
+-Teamplay,  Deathmatch, Single Player Support
+-No limit on # of bots created
+-moves while firing
+-updated to Quake 1.06
+-allows removal of bots
+-can set skill level
+-uses monster colormap to distinguish from player
+-jumps
+-uses all weapons 
+-takes damage in lava, slime, drowns
+-Uses multiple skins to tell bots apart (and for player use)
+        Currently eleven skins available:
+(0)     QuakeGuy	id software
+(2)     DukeNukem	~ßuke, mbuckton@Direct.Ca
+(3)     Terminator	Dan Bickell, danbickell@loop.com
+(4)     Crusader	Petter Made ocean@wineasy.se
+(5)     Stormtrooper	Dan Bickell, danbickell@loop.com
+(6)     JudgeDredd	Unknown
+(7)     Spiderman	Max, maxdense@paradox.net. and 
+			Ian Malkav, ian5555@concentric.com
+(8)     Flash		BloodWynd/KFC, spido@sefl.satelnet.org
+(9)     Batman		Dave Dyson, dave@barra.com
+(10)    C3P0		Dan Bickell, danbickell@loop.com
+(11)    Cowboy		Lucas Pope (Skywalker), lupope@vt.edu
+
+Bug
+---
+STILL NEEDS SWIMMING! Maybe they're really heavy and always sink?
+
+
+Source should be included
+feel free to bug me about what i did and didn't comment <g>
+Donations are always welcome!
+
+
+Copyright and Distribution Permissions
+--------------------------------------
+
+Authors MAY use these modifications as a basis for other
+publically available work.
+
+You may do whatever you please with the contents of this archive.
+
+Availability
+------------
+
+This modification is available from the following places:
+
+Try this one - it's usually faster if it's up:
+WWW   : http://www.nethosting.com/~wacko/program/botskin.htm
+
+Alternate site (Only updated if above is not working):
+WWW   : http://www.geocities.com/CollegePark/2458/botskin.html
+
+or use FTP
+FTP   : ftp://ftp.cdrom.com/pub/idgrames2/quakec/bots/
+
+Or bug me, send me fixes, send me skins, send me Fan Mail!
+
+wac@intergate.bc.ca
