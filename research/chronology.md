@@ -80,6 +80,9 @@ Jan 09 1997 | zeus2042.zip | ZeusBot v2.042.
 Feb 12 1996 | cujo14.zip | CujoBot v1.4.
 Jun 03 1997 | zeus205.zip | ZeusBot v2.05.
 Jun 03 1997 | zeus205s.zip | ZeusBot v2.05s.
+Dec 04 1997 | obots100.zip | Omicron Bot v1.00.
+Dec 15 1997 | obots101.zip | Omicron Bot v1.01.
+Mar 24 1998 | obots102.zip | Omicron Bot v1.02.
 
 
 If you can improve the accuracy of this history, please email Jason at jason.brownlee05@gmail.com
