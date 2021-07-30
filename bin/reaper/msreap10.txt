@@ -1,0 +1,71 @@
+Title    : A MultiSkin MDL for Reaper Bots
+Filename : msreap10.zip
+Version  : 1.0
+Date     : 12/01/96
+Author   : Jeremy Martin
+Email    : jemartin@cswnet.com
+Credits  : id for Quake, Steve for Reaper Bots, and all the great people who
+           made the skins.
+
+
+
+
+Build time: about 1 hour
+
+
+Type of Mod
+-----------
+Quake C  : no
+Sound    : no
+MDL      : yes  
+
+
+Format of QuakeC (if a Quake C Mod)
+-----------------------------------
+unified diff  : no
+context diff  : no
+.qc files     : no
+progs.dat     : no
+
+
+Description of the Modification
+-------------------------------
+Just a multiskin file for Reaperbot. It allows for 16 different Reaperbots
+to run around, instead of the drab brown ones. Very interesting.
+
+Got the idea from reaprskn.zip, which changed the bots into 16 different
+colored players. I realized that there wasn't one made for ReaperBots that
+allowed totally different skins, so I made it. I enjoy it. In this version
+there aren't any head gibs. In the next there will be, so watch for it.
+
+How to Install the Modification
+-------------------------------
+In your ReaperBot directory, (where you have the ReaperBot's files stored)
+make a directory called progs and place player.mdl in it. Start the game
+normally with the ReaperBots, and before you add one, hit P to enable skin
+mode. Then hit N for 4 bots, B for 1. You should know the procedure.
+
+Technical Details
+-----------------
+Technical? I used QuakeMe 2.3.. that's about it.
+
+Author Information
+------------------
+This is my first Quake Mod ever distributed. I am quite proud of it, since
+I haven't done anything before. I have alot of free time on my hands to do
+this stuff.. but I can't tell you my age, or people will scorn me. ;)
+
+Copyright and Distribution Permissions
+--------------------------------------
+Authors MAY use this modification as a basis for other publicly or
+commercially available work without my permission
+
+You may distribute this Quake modification in any electronic format as long
+as all the files in this archive remain intact and unmodified and are
+distributed together.
+                            
+Availability
+------------
+This modification is available from the following places:
+
+FTP:  ftp.cdrom.com in \pub\quake\quakec\bots
