@@ -1,0 +1,64 @@
+Title    : Improved Reaper Bot Skins File for Server and Team Reaper
+Filename : rpskn2.zip
+Version  : 0.1
+Date     : 12/03/96
+Author   : Rick Chiffelle
+Email    : RjChiff@aol.com
+
+Credits  : (Sorry if I forget someone)
+
+ID Software			(for Quake)
+Steve Polge		 	(for Reaperbot)
+Muhammad Hidayat Bin Sman	(for the .mdl files)
+Phillipe Doyon           	(for BGBot/skins)
+Rene Post		        (for QuakeMe/soldier skin)
+Dennis Noordsij, PiGBOY,BUKE  	(for MSPRO/skins)
+Nathan Reynolds			(for Iskins99/skins)	
+
+Type of Mod
+-----------
+Quake C  : no
+Sound    : no
+MDL      : yes
+
+Build Time: (ripoff time is more appropriate!) 4 hours
+
+Desription:
+
+Switched some skins, dropped some that didn't look too good in the
+game, and added Enforcer and the Quake Ogre in armor with matching 
+head skin.  One of the BGbot skins is now skin15 for team bot play. 
+(STEVE IF YOU HAVE VISION OF WHAT THE REAPERBOT SHOULD LOOK LIKE LET
+ME KNOW).  Put standard Quake guy back in for skin 1 (default, and for 
+benefit of clients who do not have the skin file, so they appear normal 
+to those who do, oops). So if you're by yourself, you may like rpskin.zip
+better.  All of the skins files and the tools I used (besides mspaint) 
+were found at ftp.cdrom.com.  Of course the Terminator is still skill 3. 
+If you don't like my combinations, get Quakeme23 and some .mdl files and 
+make your own, its easy.
+
+1 - Quake Guy 		(default botskin)
+2 - BGbot1 skin  		(skill 0)
+3 - Quake Soldier	  	(skill 1) 
+4 - Quake Ogre in player armor	(skill 2) 
+5 - Terminator     		(skill 3) 
+6 - Predator
+7 - Star Wars trooper
+8 - Quake Enforcer
+9 - Toad man
+10- Quake biosuit
+11- Duke Nukem
+12- Skeleton man
+13- Quake guy (Quad-Damage face)
+14- Quake guy (Invincible face)
+15- Quake guy (red eyes)
+16- BGbot2 skin (Teamplay skin)
+
+Installation:
+
+Make a PROGS subdirectory in your RPBOT directory. Put .mdl files
+in the PROGS subdirectory.  See Polge's text files also for info.
+
+Disclaimer:
+I am not responsible for anything YOU do.
+  

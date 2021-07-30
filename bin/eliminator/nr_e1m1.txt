@@ -1,0 +1,85 @@
+Title    : E1M1 map for Eliminator Bot 
+Filename : nr_e1m1.zip
+Version  : 1.00
+Date     : 9/22/96
+Author   : Rick DeMar
+Email    : rick@demar.agn.net
+Credits  : Cameron Newham for his awesome Cbots and also for helping me to
+           get started, and Anthony Shimizu for help on extracting entities.
+
+
+Type of Mod
+-----------
+Quake C  : no
+Sound    : no
+MDL      : no
+BSP      : yes
+
+
+Format of QuakeC (if a Quake C Mod)
+-----------------------------------
+unified diff  : no
+context diff  : no
+.qc files     : no
+progs.dat     : no
+
+
+Description of the Modification
+-------------------------------
+This is my first attempt at modifying an existing level for use with the
+Eliminator bots. It is E1M1 with very slight weapon position adjustments at
+the single-player start area.
+
+How to Install the Modification
+-------------------------------
+1. You will need to unpack your pak0.pak and pak1.pak files. I use Adquedit,
+   a Windows based unpacker. Move the original pak files to a storage dir
+   somewhere to keep Quake from accesssing them. 
+
+2. You will need the Eliminator Bot patch by Cameron Newham to gain anything
+   useful from this level. Get the latest from:
+   ftp.cdrom.com/pub/quake/quakec/bots/eliminator
+   Install it and make sure it works. I used QBSP to patch the .map files
+   into the .bsp's... 
+
+3. Although I provided a E1M1.BSP, I also included an E1M1.MAP so you
+   tinkerers can mess with or learn from my code. Place the E1M1.BSP into
+   your quake\elim14(or whatever)\maps directory. Run Quake like:
+   QUAKE -LISTEN -GAME ELIM14(or whatever directory your eliminator progs.dat
+   is in) and from the console type "MAP E1M1"
+
+4. Type IMPULSE 166 in the console to produce a bot, up to a total of ten,
+   and watch the body parts fly! :-)
+
+Technical Details
+-----------------
+Bugs
+
+Sometimes the bots get wierd about the lift to the rocket launcher, but you
+won't catch it unless you die and lie there watching it.
+
+The 666 armor ledge is a hard thing for the bots to jump off of, so they
+hesitate sometimes.
+
+The ammo boxes in the single player start area sometimes snare the bots
+attention so much that they won't leave the room. They can't jump high
+enough to get at them, and they won't leave them behind, so they get stuck.
+The way I set them up keeps it from happening most of the time, though.
+
+Copyright and Distribution Permissions
+--------------------------------------
+Anyone interested in using this code for thier own works may do so as long as
+I am credited for the original work. The archive containing this modification
+may be distributed so long as it remains unaltered in any way.
+
+Availability
+------------
+
+This modification is available from the following places:
+
+FTP   : ftp.cdrom.com in the /pub/quake/quakec/bots/eliminator directory.       
+WWW   : I may choose to make it available from my web site at
+        HTTP://WWW.AGN.NET/RDEMAR if available resources permit.
+BBS   : 
+Other : 
+

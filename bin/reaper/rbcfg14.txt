@@ -1,0 +1,169 @@
+Reaper Script v1.4 for the Reaper Bot v0.81 by NecroBoi     rbcfg14.zip
+-----------------------------------------------------------------------
+
+  This script was designed for exclusive use with Steven Polge's
+  Reaper Bot. An Episode/Map Menu had been provided to complement
+  the Reaper Script giving direct access to the Deathmatch Arenas.
+   
+  ZIP contents: Reaper.rc, Readme.txt
+
+-----------------------------------------------------------------------
+
+
+- setup info
+
+  Print out this Readme.txt. UnZIP RBCFG14.ZIP into the c:\quake\rpbot
+  or the subdirectory where your Reaper Bot files reside.
+            
+  Assuming you copy the Reaper Bot progs.dat into the 'rpbot'
+  directory, the commandline should look like:
+
+           quake -zone 512 -game rpbot -listen 16 +skill 1
+
+  Once in the game bring down the console and type "exec reaper.rc"
+  minus the quotes. You can put this command at the end of your
+  autoexec.cfg or config.cfg to run this script automatically.
+
+-----------------------------------------------------------------------
+
+
+- Key Layout Overview
+
+  BACKSPACE - bot scores (regular table)
+  TAB - bot scores (top 3 scores)
+  [ - last skin selection
+  ] - next skin selection
+  0 - remove all bots
+  b - noexit toggle
+  i - verbose bots
+  j - query skill setting
+  k - decrease skill level
+  l - increase skill level
+  m - timelimit cycler
+  n - fraglimit cycler
+  o - limited observer mode
+  p - skins toggle (2 modes/off)
+  u - bot update
+  y - team color update
+  ' - version info
+  , - singleplayer selector
+  . - cycle deathmatch (2 modes)
+  / - cycle teamplay (4 modes)
+  F1 - add one bot
+  F2 - add 4 bots
+  F3 - add 3 team bots
+  DEL - kill (player suicide)
+  HOME - restarts level 
+  END - disconnect (disconnects from the current game and brings up
+  the Episode/Map Menu)
+
+  Featuring an actual learning and adaptive AI, this is definitely the
+  best Quake deathmatch bot produced to date. If you have tried this
+  bot, then you know there are quite a few impulses to configure and
+  to remember. For my REAPER.RC I have also included the following
+  aliases giving you some administrative functions to make setting up
+  a bot game that much easier:
+
+  - (F1) adds 1 bot and (F2) adds 4 bots. Refer to the original
+    documentation for editing 'add 3 team bots', (F3).
+
+    - When teamplay is set I would press (F2) for 4 opposing bots and
+      (F3) to add 3 bots on my team.
+ 
+  - A Skill Selector (k and l) - lower and higher respectively; to
+    query current skill setting press (j); the Skill script contains
+    fractional values allowing you to really find a suitable skill
+    level to play with the bot
+
+  - Fraglimit (n); Cycles up to 50 frags; you can edit this script to
+    add more values if you wish
+
+  - Timelimit (m); Cycles up to 60 mins; you can edit this script to
+    add more values or change the time increments if you wish
+
+  - Playmode Selectors have been added to allow you to set up specific
+    game types without having to go to the menu or the console. (,)
+    selects Single Player. (.) selects Deathmatch and toggles between
+    mode 1 and 2. (/) selects Teamplay and cycles 4 modes of play.
+
+    - After setting up your specified game with fraglimit, skill, etc.,
+      use the restart key (HOME) to allow all updated settings to take
+      effect. You can also use (END) to disconnect from your game.
+
+    - If you are using Multiskin remember to toggle on Skins (p) after
+      restarting a level; toggle twice if you prefer Skins Mode 2
+
+    - The Single Player Selector (,) resets fraglimit, timelimit, and
+      noexit OFF, and sets skill to 1 (normal)
+
+  - Top 3 scores (TAB) replaces the default +showscores HUD. I have
+    added the regular bot score table (BACKSPACE) which brings down
+    the console for viewing.
+
+  - Episode/Map Menu (END); press to disconnect from the current game
+    and bring up the Menu in the console; the selections are (m0-m10);
+    m0 is the Start map, m1-m4 are the first levels for the Episodes,
+    and m5-m10 are the Deathmatch Arenas
+
+    - You can edit the entries for the Episodes if you prefer to start
+      at a specific map, other than the first levels. I suggest using
+      the Secret Levels as alternative starts since these levels are
+      normally bypassed if you run through the Episodes with fraglimit
+      or timelimit set. The Secret Levels are:
+
+      E1M8 - Ziggurat Vertigo
+      E2M7 - Underearth
+      E3M7 - The Haunted Halls
+      E4M8 - The Nameless City
+
+-----------------------------------------------------------------------
+
+
+- Other Things
+
+  For v1.4 I decided to omit MENU.RC and put the Episode/Map Menu in
+  REAPER.RC since this file would not exceed the 7K file size limit
+  that is imposed on RC files. If your configuration size is large
+  when starting up Quake, it may still be a good idea to exec the
+  REAPER.RC in the console, rather than initializing it from your
+  own startup file.
+    
+  Many of the players I know use the ADSW location on the keyboard
+  for movement controls so I have deliberately left that area of
+  keyboard free in coordinating the layout for this script. It was
+  also taken from Network Script v4.4 which also contains a script
+  for playing on Threewave CTF servers. You can get <qcfg44n.zip>
+  at ftp.cdrom.com/pub/idgames2/console/ or contact me for it.
+
+  Mike Kelly (elkabong@oanet.com) has made a Reaper Bot Skins file
+  <reaprskn.zip> which allows you to play against the bots with dif-
+  ferent colored player skins creating the illusion of a real death-
+  match. You can find this file and The Reaper Bot <reaprb81.zip> at
+  ftp.cdrom.com/pub/idgames2/quakec/bots/reaper/.  
+
+-----------------------------------------------------------------------
+
+ 
+* Copyright / Permissions *
+
+  Quake is a registered TM and Copyright © of id Software
+
+  Reaper Bot modification code is a Copyright © of Steven Polge
+
+  You MAY distribute this Reaper Bot support script, provided you
+  include this file with NO modifications. If you do come up with
+  revisions for this script, send to me your version. Be sure to
+  update the txt file and the config file to reflect the changes
+  you've made and rename the zip file. Please DO give me credit.
+
+
+- legal disclaimer
+
+  The contained files are provided "as is" without warranty of any
+  kind, either expressed or implied. The author will not be held
+  responsible for any losses incurred by the use of this script.
+
+
+  James Ariz
+  moebius@netcom.ca
+  "NecroBoi" on TEN, Quake servers and IRC 

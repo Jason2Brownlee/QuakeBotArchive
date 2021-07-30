@@ -1,0 +1,92 @@
+
+
+Title    : Eliminator Bot Deathmatch Level
+Filename : cbot1.bsp
+Version  : 1.00
+Date     : 10/29/96
+Author   : Brook Vogt - a.k.a. BeJixed
+Email    : bjvogt@thegrid.net
+Credits  : CZTEX, I used two of his textures, C.N. of course for his cool bot patch, and 
+	     ID for a very addicting game.
+
+
+Type of Mod
+-----------
+Quake C  : no
+Sound    : no
+MDL      : no
+
+
+
+
+
+Description of the Modification
+-------------------------------
+This  is a level I made for the EliminatorBot, so you need to go and get it to have fun
+with this level, as this level was inspired by the House of Cythn which is a lag monster
+on the net, but rocks with bots.  
+
+How to Install the Modification
+-------------------------------
+
+
+You can get the elim bot from ftp://ftp.cdrom.com
+I recommend getting the elim14pak.zip, becuase its ready to go with skins!
+Put this cbot1.bsp in your eliminator\maps folder and start an elim bot game.
+i.e. 
+quake -game <elimfolder> -listen +map cbot1 
+
+This is my command for quake:
+quake -game elim -listen -winmem 12 +map cbot1
+
+-game elim tells quake to first look in the 'elim' folder for anthing new.
+-listen puts quake in deathmatch mode.
+-winmem 12 gives quake a 12 megabyte heap for windows95.
++map cbot1 tells quake to start with that map.
+
+
+Technical Details
+-----------------
+
+I made this level with Thred06, and also put the entities that the cbots need with 
+Thred.  The bots can get around pretty well, but when there are alot of bots around
+they dont go looking for items too much.  I used general item waypoints only because
+I found that with this map they would sit there and try for a priority item even when 
+way was blocked.  You only really see the shortcomings when you are an observer and 
+the one bot just roams around, but when there is more than one they usually die before 
+they ever complete a circuit.
+
+I think this level is a little to wide open to qualify as really good, but I didnt realize
+that until I started putting the bot entities in, so i finished it anyway.
+
+This level does have a secret room and a trigger that you have to jump at to get.  Then, 
+there is a delay as to when it opens the door, but it will tell you when its opening.
+This room has my authoring signature and the texture from CZTEX that is used for most of
+the room is quite cool.  Plus, if you find this room it has most of the stuff that isnt
+out in the playing field :)
+
+
+Author Information
+------------------
+
+I live on the central california coast and my other hobby is riding my 94 CBR 600F2.
+(BTW, im looking for 49state cams, +10HP!)
+
+
+Copyright and Distribution Permissions
+--------------------------------------
+
+You may distribute this Quake modification in any electronic
+format as long as this description file remains intact and unmodified
+and is retained along with all of the files in the archive.
+
+If anyone wants the .map file or .3dt file, just ask.
+
+
+Availability
+------------
+
+This modification is available from the following places:
+
+I dont know yet.
+

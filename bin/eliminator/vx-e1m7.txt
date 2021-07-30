@@ -1,0 +1,69 @@
+Title    : E1M7 map for Eliminator Bot 
+Filename : vx-e1m7.zip
+Version  : 1.00
+Date     : 96/9/20
+Author   : Anthony Shimizu
+Email    : laulau@cris.com
+Credits  : Cameron Newham(of course!) for creating the Eliminator Bot
+
+
+Type of Mod
+-----------
+Quake C  : no
+Sound    : no
+MDL      : no
+
+
+Format of QuakeC (if a Quake C Mod)
+-----------------------------------
+unified diff  : no
+context diff  : no
+.qc files     : no
+progs.dat     : no
+
+
+Description of the Modification
+-------------------------------
+
+This modification will add another level to Cameron Newham's Eliminator Bot.
+The level is E1M7. Can you say Gib-a-licious?
+
+How to Install the Modification
+-------------------------------
+
+1.  If you don't have the Eliminator Bot, this mod will do nothing for you. :)
+    You can get the latest version of the Eliminator Bot from:
+      ftp.cdrom.com in the Quake C area under bots/eliminator
+
+2.  The method to convert my MAP files to BSP form is the same as outlined 
+    in the README.TXT of the eliminator bot package.  That is, you will
+    require a PAK unpacker to extract E1M7.BSP.  You will also need a utility
+    such as QBSP or QDTOOLS to insert the entities MAP into the BSP.
+
+Technical Details
+-----------------
+Bug?    Sometimes when a cbot falls into the lava, it won't die and will
+        run around in the pool immune to all punishment.
+
+Copyright and Distribution Permissions
+--------------------------------------
+
+Authors MAY use these modifications as a basis for other
+publically / commercially / publically or commercially available work.
+
+You may distribute this Quake modification in any electronic
+format as long as this description file remains intact and unmodified
+and is retained along with all of the files in the archive.
+
+
+Availability
+------------
+
+This modification is available from the following places:
+
+FTP   : ftp.cdrom.com in the Quake C area under /bots/eliminator
+        ftp.aloha.com /incoming/quake (for a short time)
+WWW   : 
+BBS   : 
+Other : 
+

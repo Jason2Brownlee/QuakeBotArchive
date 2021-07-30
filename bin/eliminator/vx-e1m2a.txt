@@ -1,0 +1,72 @@
+Title    : E1M2 for Eliminator Bot 
+Filename : vx-e1m2a.zip
+Version  : 1.00a
+Date     : 96/9/27
+Author   : Anthony Shimizu
+Email    : laulau@cris.com
+Credits  : Cameron Newham(of course!) for creating the Eliminator Bot
+
+
+Type of Mod
+-----------
+Quake C  : no
+Sound    : no
+MDL      : no
+
+
+Format of QuakeC (if a Quake C Mod)
+-----------------------------------
+unified diff  : no
+context diff  : no
+.qc files     : no
+progs.dat     : no
+
+
+Description of the Modification
+-------------------------------
+This modification will add level E1M2 to Cameron Newham's Eliminator Bot.
+
+How to Install the Modification
+-------------------------------
+1.  You can get a version of the Eliminator Bot from:
+    ftp.cdrom.com in the Quake C area under bots/eliminator
+
+2.  The method to convert my MAP files to BSP form is the same as outlined
+in the README.TXT of the eliminator bot package.  That is, you will require
+a PAK unpacker to extract DM1.BSP and E1M2.BSP.  You will also need a
+utility such as QBSP or QDTOOLS to insert the entities MAP into the BSP.
+
+Technical Details
+-----------------
+1.0a
+    -Fixed some routes.
+    -Cbots now open quad door and activate bridge in g/l area.
+
+1.0
+    Couldn't get the cbots to make the three jumps up to the yellow armor
+proficiently.  So, the cbots make a super jump to the armor.  Just don't
+be too surprised when you're doing your little hops and The Dark Avenger
+goes sailing by you to grab the armor. :)
+
+Copyright and Distribution Permissions
+--------------------------------------
+
+Authors MAY use these modifications as a basis for other
+publically / commercially / publically or commercially available work.
+
+You may distribute this Quake modification in any electronic
+format as long as this description file remains intact and unmodified
+and is retained along with all of the files in the archive.
+
+
+Availability
+------------
+
+This modification is available from the following places:
+
+FTP   : ftp.cdrom.com in the Quake C area under bots/eliminator
+        ftp.aloha.com /incoming/quake (for a short time)
+WWW   : 
+BBS   : 
+Other : 
+

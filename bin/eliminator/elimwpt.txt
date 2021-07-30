@@ -1,0 +1,465 @@
+Eliminator Bot Waypoint Guide
+-----------------------------
+
+For Version 1.0/1.1/1.2
+By Cameron Newham (cam@iinet.com.au)
+
+
+CBot Engine "Home Page":   http://www.iinet.com.au/~cam/quakec.html
+
+
+INTRODUCTION
+------------
+
+The Eliminator Patch for Quake has at its heart a "waypoint" system
+for cbot navigation.  The basic idea is that a cbot (powered by
+a program written in Quake C - the CBot Engine) looks for the nearest
+waypoint in a level and then heads towards it.  Waypoints are
+daisychained together, so that once the cbot has aquired the waypoint
+(by standing within a short distance of it) it reads the information
+on the location of the next waypoint in the daisychain and heads
+towards that.
+
+Waypoints exist as entities in a level - that means that they can be
+added to a Quake MAP file, compiled into a BSP and will be available
+every time the level is loaded.
+
+Advantages:
+
+  * Navigation and AI code is vastly simplified
+  * The cbots will act with the same cunning as the person who
+    codes the waypoints
+  * Any MAP or BSP file can have waypoints added to it to convert
+    it to an "Eliminator Bot Level"
+  * The waypoint info is stand alone and doesn't require the Engine
+    source code
+  * The maps can be used as normal if you don't run the Engine (and
+    will work with any other patches you have)
+  * Waypoint information is transparent to the players - the maps
+    can be used on servers without having the clients download
+    special files
+  * Waypoint definitions are compact ASCII text - they can be
+    added to the end of any MAP file for compilation into a BSP
+
+Disadvantages:
+
+  * Requires that you have the entity definitions for a MAP
+    (but these can be extracted from the BSP if you don't have
+    the MAP file)
+  * Uses entities in Quake (there is a maximum limit) and uses
+    memory
+  * Requires a good understanding of the Engine and the Quake
+    maps (but nothing that can't be learnt by trial and error)
+    if you wish to build a waypoint system
+
+
+DETAILS
+-------
+
+Definitions
+
+waypoint - a waypoint entity in a map file
+pathway  - a path that a cbot will follow, defined by waypoints
+
+
+When a cbot is generated at a Deathmatch location it does two things:
+
+ 1 looks for weapons and armour within about 200 units of itself
+   and grabs them if if it finds them
+
+ 2 looks for the nearest General or Item waypoint
+
+There are two types of waypoints: General and Item. The Item waypoints
+are split into sub-catagories; one for each type of armour and weapon.
+There are no specific waypoints for ammo, health or specials. These
+are calculated on-the-fly by the Engine and are only used in "need to
+have" situations (eg: low on health, etc).
+
+The type of waypoint is given in the "items" field of a waypoint
+definition.  The following table lists the supported definitions:
+
+
+items   priority     waypoint type and sub-type
+-----   --------     --------------------------
+0       -            General
+11      9            Super Shotgun
+12      8            Nail Gun
+13      7            Super Nailgun
+14      6            Grenade Launcher
+15      5            Lightning Gun
+16      4            Rocket Launcher
+21      3            Green Armour
+22      2            Yellow Armour
+23      1            Red Armour
+
+
+The items is the value you place in the "items" field of a waypoint
+definition.
+
+The priority is used by the Engine to determine which waypoints to
+take if there are multiple ones available (depending of course
+on what items the cbot already has in its inventory).  This is
+just here for your reference (the values are implicit in the waypoint
+type and are not part of the waypoint definition).
+
+Waypoints also have another catagorisation: Waypoint or Endpoint.
+Endpoints are just waypoints with nothing to daisychain to. For instance,
+say we had the following path (showing waypoint names):
+
+g1---------->g2----------->g3----------->g4
+
+g1 daisychains to g2, g2 to g3, g3 to g4, and g4 to nothing.  In this
+case, g1, g2, and g3 are normal Waypoints and g4 is an Endpoint.
+In most cases the word "waypoint" can mean either a Waypoint or
+an Endpoint.  We use capitalisation in this document to refer to
+the specific case, and lowercase to refer to them in the general
+sense.
+
+
+General Waypoints
+
+The structure of a General waypoint is:
+
+{
+"classname" "cn_wpt"
+"origin" "544 808 -8"
+"targetname" "g1"
+"target" "g2"
+"items" "0"
+}
+
+classname  :  the entity classname that Quake and the Engine will use.
+              must be "cn_wpt" for a cbot waypoint
+origin     :  the X/Y/Z position of the waypoint in the level
+targetname :  The name of the waypoint (can be anything, but you are
+              better off following a convention, eg: g1, g2, g3, etc
+              for General waypoints)
+target     :  the name of the next waypoint in the daisychain.  This has
+              to be a "-" if this waypoint is an Endpoint.
+items      :  the type of waypoint
+
+
+You can do what you like with the daisychaining; a circular path can be
+created by making the "target" of the last waypoint the same as the
+"targetname" of your first waypoint (in which case your path will have no
+Endpoint).  If you make a waypoint point to itself, the cbot will just
+wander aimlessly around the point (not very useful).
+
+Waypoints should also be in line-of-sight in the daisychain. You can
+get away with having them slightly out of sight, so long as the cbot
+has a clear passage to the next waypoint, with glancing blows off
+walls (oblique to the wall) acceptable.  eg:
+
+
+============================+
+* g1                        |
+  ----\       cbot path     |
+       ----\                |
+            ----\           |
+ =================          |
+                 |* g2      |
+
+
+Another situation in which a waypoint can be out of sight is when you
+want the cbot to take a lift (rising platform).  You can make the vertical
+(Z) components quite different and it will work quite well:
+
+                _g2  floor level = 350
+               |
+              _|
+             |#| lift
+g1           |#|
+-------------+ +
+floor level = 10
+
+
+A cbot will follow the path from the nearest Waypoint it can find (it
+ignores Endpoints) until it reaches an Endpoint.  A good example
+of this is in the Start map - the very first and second waypoint definitions*
+define a line from the entrance of the middle corridor to the entrance
+of the teleport in the middle corridor.
+
+(* in Release 1.1 this has changed to the 2nd and 3rd definitions)
+
+
+
+Item Waypoints
+
+These are basically the same as General waypoints, but have their
+items field set to a particular item that they lead to.  You should
+keep the items field the same for all waypoints within a given item
+pathway.
+
+Item pathways don't have to lead right onto the targetted item. Once
+a cbot hits the Endpoint of an Item pathway it will search for nearby
+items and grab them.  The Endpoint should be within about 200 units
+of the item and should be in direct line of sight from the item.
+This is MOST important!
+
+
+Waypoint Modifiers
+
+You might have noticed that the cbots jump into teleporters and they
+can jump over the lava area in the Start level.  You can force the
+cbot to jump by adding three pieces of information to the waypoint:
+
+{
+"classname" "cn_wpt"
+"origin" "544 1330 -8"
+"targetname" "g2"
+"target" "-"
+"items" "0"
+"speed" "205"
+"angle" "90"
+"height" "220"
+}
+
+speed  : the forward velocity of the cbot
+angle  : the compass direction of the jump
+height : the vertical velocity of the jump
+
+
+The cbots are incapable of pressing floor mounted buttons by just
+walking over them. you can use a special jump to activate a button
+underneath a waypoint:
+
+{
+"classname" "cn_wpt"
+"origin" "-767 2143 330"
+"targetname" "g8g"
+"target" "g8h"
+"items" "0"
+"jump_flag" "1"
+}
+
+jump_flag : jump a tiny amount at this point
+
+The amount they jump is not noticable in game-play.  Use the full
+blown jump definition for normal jumping.
+
+
+Any Waypoint can have an optional daisychain.  The option is given
+a 50% chance of being used as the next waypoint:
+
+{
+"classname" "cn_wpt"
+"origin" "-125 2555 350"
+"targetname" "g8"
+"target" "g9"
+"noise4" "g10"
+"items" "0"
+}
+
+noise4 : an optional target name
+
+In this case, g8 points to both g9 and g10. There is a 50% chance
+of the cbot choosing g9 as its goal and a 50% chance of it choosing
+g10.
+
+
+
+A waypoint can have a camping position defined.  Under certain conditions
+(currently :-   weapon: R/L, LG, G/L or SNG, armour: >40%, health > 70%,
+and a 60% probability of taking the option) a cbot has the capability to
+"camp" (stand motionless, waiting for an enemy). The camping position
+is defined by three fields:
+
+{
+"classname" "cn_wpt"
+"origin" "-10 2293 88"
+"targetname" "w5"
+"target" "-"
+"items" "14"
+"button0" "1"
+"view_ofs" "88 2486 88"
+"angle" "200"
+}
+
+button0  : a boolean indicating this has a camping definition field (use 1)
+view_ofs : the X/Y/Z co-ordinates of the camping position
+angle    : the compass direction to face when standing at the camping position
+
+
+
+A waypoint can instruct the cbot to swim.  Normally a cbot will attempt
+to walk in water, but by using the swim flag, you can make them swim.
+This is useful if the water has no solid floor (eg: the pool in the Start
+level) or if you want them to swim to a point out of reach by walking
+on the floor.
+
+{
+"classname" "cn_wpt"
+"origin" "1150 1724 60"
+"targetname" "a3"
+"target" "-"
+"items" "23"
+"swim_flag" "1"
+}
+
+swim_flag : start swimming *after having read this waypoint definition*
+
+This flag operates slightly differently to the others in that it is acted
+on as soon as the co-ordinates of the waypoint are read, NOT when the cbot
+reaches the waypoint.  If you had the following pathway:
+
+  g1---------->g2---------->g3
+
+and you wanted the cbot to swim from g2 to g3, then you would place the
+swim_flag at waypoint g3.
+
+
+
+
+TIPS
+----
+
+Having written the CBot Engine and placed waypoint definitions in two
+maps, I know well the problems that you are likely to encounter.  Part
+of the secret of making the cbots appear intelligent is good waypoint
+design.  If you have carefully thought out what routes you want them to
+take, there is no reason why they shouldn't do extremely well in a
+deathmatch situation.
+
+
+Common Errors
+-------------
+
+* vertical positioning of waypoints
+
+When running around a level in Quake taking positional measurements,
+add 5 to 10 units to the vertical position so that the waypoints
+are clearly visible over low objects.
+
+
+* placing an Endpoint too near a teleport
+
+In this case the cbot may touch the teleport *before* detecting the
+Endpoint.  That will leave it searching for the Endpoint at the teleport
+destination - obviously not the ideal situation.
+
+To make cbots take teleports, make them jump into the teleport from some
+distance (about 40 or 50 units) away.  Always use Endpoints at the
+teleport jump - this ensures that the cbot will reinitialise itself
+at the destination and correctly aquire other waypoints.
+
+
+* incorrect swimming
+
+Make sure the swim_flag is in the correct waypoint definition - see my
+description above.
+
+
+* failure to run over certain floors, into water and over ledges
+
+id have made their movement code such that monsters (and bots) can't
+move over discontinuities in the floor (a discontinuity being where
+the floor height differs by a large ammount - probably 8 or 10 units).
+A good example of this is in the Start level near the Rocket Launcher.
+The zig-zag on the floor has lots of discontinuities and causes no
+end of trouble for would-be-bot-designers.
+
+The same goes for water - the surface of the water is *not* a floor
+level.
+
+Discontinuities are automatically taken care of by the Engine - it makes
+the cbots jump (currently the only effective way of doing it, although
+I know another way that is the bees-knees, but it's not in the Engine
+at this time).  The jump is pretty well random.
+
+Obviously this is not ideal if you want the cbot to move accurately - in
+that case make a waypoint near the water/ledge that is a jumping point.
+
+
+* cbots are on a pathway and then start jumping randomly
+
+You probably have made one of the waypoints unreachable. If the cbot hits
+a wall and gets stuck, it will reinitialise itself and try and aquire
+the nearest waypoint. If there are none in sight it will start jumping.
+In all cases this is *your* fault :)  Make SURE that the pathways are
+defined according to the rules given above.  I can't stress this enough.
+In all cases CHECK THEM YOURSELF BY RUNNING QUAKE AND FOLLOWING YOUR PATH.
+
+
+* placing waypoints near a ledge causes the cbots to jump randomly
+
+You must allow some over-shoot on the waypoints. It appears that if the
+bounding-box of the model moves over a floor discontinuity then id's
+movement code will go into "wall search mode".  This will, in turn,
+cause my code to run its unsticking routine.
+
+Place your waypoints at least 12 units back from ledges (floor discontinuities).
+
+
+* the cbot is running on a pathway to a nailgun when it suddenly changes
+  direction and goes somewhere else
+
+Don't forget that the waypoints are prioritised.  If a cbot is on an
+item path and it detects another item path for a higher priority item,
+it will swap to the new path (unless, of course, it already has the higher
+priority item).
+
+
+* the cbots seem to get confused after a firefight and just start jumping
+
+You have a severe lack of general waypoints. You should aim to have at
+least one general waypoint (part of a pathway, not stand-alone!) visible
+from every accessible area of the level.  Even if you don't, there should
+be one in each room so that cbots that fail to aquire a waypoint have
+a reasonable chance of doing so when they go into "unstick" mode (start
+jumping).
+
+Also make sure that there is a pathway start near each Deathmatch teleport
+location.
+
+
+* what about health and specials (quad, etc)?
+
+The cbots determine when to pick these up. If you want to give them
+the opportunity to do so, place a pathway (not necessarily a waypoint -
+the search for these items is on-the-fly) no further than 200 units away
+from the items.
+
+
+* how do I find out the X/Y/Z locations and test the maps?
+
+See the next section.
+
+
+
+CREATING AND TESTING LEVELS
+---------------------------
+
+I will provide a progs.dat file with the level debugging switched on.
+
+Level Debugging includes:
+
+* printout of current location and compass direction (impulse 202)
+* creation of a cbot a little way ahead of you (impulse 166)
+
+PLEASE do NOT use the debugging version as a multi-player server.
+Deathmatch teleport generation is switched off!
+
+The testing archive is called:   elimtst1.zip
+
+You can grab it from http://www.iinet.com.au/~cam/quakec.html
+OR from ftp.cdrom.com (in the quakec/bots directory).
+
+
+
+CONTACTS
+--------
+
+Comments and suggestions can be emailed to me at  cam@iinet.com.au
+
+Please DO NOT MAIL ME ASKING FOR THE SOURCE CODE.  The answer is NO.
+I will not reply to mail of this type.
+
+(you can guess that this is currently the majority of mail I get - some
+of it is very persistant :)
+
+All other questions will be replied to as best I can.  Please note
+that I will not be available after the 21st of September 1996.
+
+Thanks,
+c.
+

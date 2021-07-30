@@ -1,0 +1,81 @@
+Title    : E4M3 map for Eliminator Bot 
+Filename : vx-e4m3.zip
+Version  : 1.00
+Date     : 96/9/27
+Author   : Anthony Shimizu
+Email    : laulau@cris.com
+Credits  : Cameron Newham(of course!) for creating the Eliminator Bot
+
+
+Type of Mod
+-----------
+Quake C  : no
+Sound    : no
+MDL      : no
+
+
+Format of QuakeC (if a Quake C Mod)
+-----------------------------------
+unified diff  : no
+context diff  : no
+.qc files     : no
+progs.dat     : no
+
+
+Description of the Modification
+-------------------------------
+
+This modification will add level E4M3 to Cameron Newham's Eliminator Bot.
+Lotsa rockets, quads(5!), invis rings(4)...
+
+How to Install the Modification
+-------------------------------
+1.  You can get the latest version of the Eliminator Bot from:
+      ftp.cdrom.com in the Quake C area under bots/eliminator
+
+2.  The method to convert my MAP files to BSP form is the same as outlined
+in the README.TXT of the eliminator bot package.  That is, you will require
+a PAK unpacker to extract E4M3.BSP.  You will also need a utility such as
+QBSP or QDTOOLS to insert the entities MAP into the BSP.
+
+*For those wanting to know how to extract the entities from the .BSP files,
+I used qdtool10.zip at ftp.cdrom.com /pub/idgames2/utils/bsp_pak_tools
+
+Technical Details
+-----------------
+1.0
+    -Level comes with only 4 deathmatch spots; I added four more.  If you
+don't like them or want to change them, they're at the end of the MAP
+textfile.
+
+    -Did not implement the sliding floor area for the cbots.  They do stomp
+on that floor trigger tho..
+
+    -Created way too many waypoints..had to strip out about 70 of 'em. :)
+Even so, it still cannot handle more than 7 cbots(one user) for a long
+period of time and will crash with an 'Out of Edicts' error.  The quake
+console command, EDICTCOUNT will show how many edicts are being used.  When
+the edicts hit 450..say goodnight. :)
+
+Copyright and Distribution Permissions
+--------------------------------------
+
+Authors MAY use these modifications as a basis for other
+publically / commercially / publically or commercially available work.
+
+You may distribute this Quake modification in any electronic
+format as long as this description file remains intact and unmodified
+and is retained along with all of the files in the archive.
+
+
+Availability
+------------
+
+This modification is available from the following places:
+
+FTP   : ftp.cdrom.com in the Quake C area under /bots/eliminator
+        ftp.aloha.com /incoming/quake (for a short time)
+WWW   : 
+BBS   : 
+Other : 
+

@@ -1,0 +1,50 @@
+9/11/96
+================================================================
+Title                   : Eliminator does Death On The Docks
+Filename                : el_dotd.bsp/el_dotd.map
+Author                  : realistik, Imaginos of Clan SinTheTiK & White Hawke
+Email Address           : shaven@rapidramp.com (realistik)
+                          jacknife@rapidramp.com (Imaginos)
+                          rm@atlas.iobbs.com
+Description             : A DM Level aimed at 4-8 
+			  player games, now compatible with the Eliminator Bot
+			  patch.
+
+Additional Credits to   : #QuakeEd, id, Util. Authors everywhere.
+
+               
+================================================================
+
+* Play Information *
+
+Single Player           : Nope...
+Cooperative             : Nope...
+Deathmatch 2-4          : Most definately
+Deathmatch 5+           : No more than 6 probably, but go ahead
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : New level from scratch
+Editor(s) used          : Originally, UltraEdit-32, but this version (which
+                          has been completely rebuilt) was done with QScript.
+                          I also used Quest to touch up some corners when I
+                          was done, and a text editor (White Hawke) for the
+                          Eliminator Waypoints.
+Known Bugs              : The octagon inside has a few unsightly seams that I
+                          couldn't get rid of for the life of me...nothing
+                          major, but sorry anyway.
+Build Time              : I've completely lost count.
+
+* Legal Stuff *
+
+You may distribute and modify this level, in fact you can do
+whatever you wish with it. But if you do... please give me
+credit, ok? 
+
+This may be distributed in any format, i.e. CDROM, BBS, electronic magazines,
+or anything else as long as you ask one of the authors first.

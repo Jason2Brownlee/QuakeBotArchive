@@ -1,0 +1,71 @@
+---------------------------------------------------------------------
+        Reaper Bot Multi-Skin Model
+---------------------------------------------------------------------
+_it's about time i did this_
+
+Included files:         player.mdl
+                        rpskn_lp.txt
+
+Description:            This is a collection of 16 player skins compiled
+                        and arranged to comply with Steve Polge's
+                        reaper bot specs.
+
+Gibs:                   No head gibs... sorry
+
+Thanks:                 to iD Software
+                        to any and everyone who's skin i've included in
+                         this collection. These skins were chosen because
+                         they're the best I've seen.
+
+        This is the skin-by-skin breakdown:
+
+SKIN #          GRAPHIC                         CREDITS
+======----------=======-------------------------=======-------------------------------
+0               Original player skin            iD software
+1 (skill 0)     red clown                       Lucas Pope [lupope@vt.edu]
+2 (skill 1)     gorilla                         Lucas Pope       .          
+3 (skill 2)     tiger                           Lucas Pope       .
+4 (skill 3)     reptile                         Lucas Pope       .
+5               storm trooper                   Lucas Pope       .
+6               cowboy                          Lucas Pope       .
+7               Optimus Prime                   Lucas Pope       .
+8               Boba Fett                       Dan Bickell [danbickell@loop.com]
+9               Terminator                      Dan Bickell [danbickell@loop.com]                        
+10              Green Bot                       Steve C. Clark [steve3@mindspring.com]
+11              Biosuit                         converted by BUKE [mbuckton@Direct.Ca]
+12              HellKnight                      converted by Paolo Perrota [nan0744@comune.bologna.it]
+13              Predator                        Scott Roberts [scaatt@execpc.com]
+14              The Crow                        Dan Bernstein [?]
+15 (bot team)   blue clown                      Lucas Pope [lupope@vt.edu]
+
+You might've noticed a lot of skins by some guy named 'Lucas Pope'.
+Well, that's me. Those are my skins. There's a major 'animal' theme
+throughout so if you don't like animals, skip this collection (or
+get it to blow up animals, whatever). Since skins 1-4 represent the
+reaper bot's skill level I tried as best I could to arrange them in a
+proper fashion. Hopefully, you won't see too much of the clown and
+way too much of the reptile. Unless you play teams, in which case
+it's you versus the circus...
+
+Skin 15 (the blue clown) gets used for any reaper bot team you set up.
+
+Special Note:
+
+This is not a regular player multi-skin model. All of the skins
+have been color-raped so that their colors look decent as drawn.
+ie. The regular version of the reptile is orange and yellow to allow
+players to change their colors in the game. The reptile skin in this
+version is green and blue. If mapped onto a player on a net-game, his
+colors will _always_ be blue and green regardless of what his shirt
+and pants color are. If you don't know what i'm talking about, forget
+it, you probably won't notice anyways.
+
+Distribution Notes:
+
+This file is freeware and can only be distributed as such. Don't use
+any graphics without the author's permission and don't include this
+file in any non-electronic format without each author's permission.
+
+
+                _ (/ (  O~
+                lupope@vt.edu

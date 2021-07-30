@@ -1,0 +1,105 @@
+Title    : A Reaper Bot Skins File
+Filename : reaprskn.zip
+Version  : 1.0
+Date     : 11/04/96
+Author   : Mike Kelly
+Email    : elkabong@oanet.com
+Credits  : id software for making Quake, making Quake so easy to customize
+           and for releasing QuakeC, and Steven Polge for making the AWESOME
+           Reaper Bot patch - you are very kewl for doing this and sticking
+           with it!
+
+
+Build time: about 2 hours
+
+
+Type of Mod
+-----------
+Quake C  : no
+Sound    : no
+MDL      : yes  
+
+
+Format of QuakeC (if a Quake C Mod)
+-----------------------------------
+unified diff  : no
+context diff  : no
+.qc files     : no
+progs.dat     : no
+
+
+Description of the Modification
+-------------------------------
+Just a skins replacement file to allow 16 different colored player bots to
+run around fragging each other. There are no custom skins here - I just used
+the original player model and then changed the shirt and pants colors. Looks
+just like a network or Internet frag fest without all the DUMB C3p0,
+Terminator and Bozo the Clown skins running around. :)
+
+In keeping with Steven's Skins Spec, I have included 16 skins in the mod
+which should make it compatible with future releases of Reaper Bot where 
+skins support is fully implemented (the current version as of this writing 
+is .75).
+
+This mod should also work with the Eliminator Bot. 
+
+How to Install the Modification
+-------------------------------
+Create a directory in your Reaper directory called PROGS. Unzip the
+PLAYER.MDL file included in this archive into this new directory. Start
+Reaper Bot normally. Once in a multiplayer game type "p" to enable skins
+support then "n" to add four bots, each with a different skin. Repeat as
+necessary. :)
+
+You can also add one bot at a time by typing "b".
+
+I don't quite understand Steven's "increment skin" command. At one time I
+thought this had to be used in order to change the skin for each bot
+created (i.e. "b" - increment skin, "b" - increment skin, etc.) but I have
+found with further testing this may not be necessary. You're on your own
+here.
+
+You may find that the color combo's kinda suck. I just threw them together to
+get the mod done as I was tired of playing with a bunch of bots that looked
+the same. If you have a favorite color combo, just e-mail me a screenshot and
+I'll see what I can do (a screen shot of the skin in this file that you want
+it to replace would be helpful too). Remember though, this is strictly a
+player skin file so if you want a Duke Nukem, Robocop or Winnie the Pooh 
+skin included, yer outa luck. :)
+
+
+Technical Details
+-----------------
+D'oh! Technical? (not)
+
+Just messed around with Winpack, MedDLe, QuakeME, a screen grabber and
+Paintshop Pro for awhile. This stuff really IS easy to do (thanx id!).
+
+
+Author Information
+------------------
+This is my first publicly distributed quake mod. Doom frustrated me too much
+so I did some MS Flightsim scenery instead (Edmonton Municipal (City Centre)
+Airport for those who care).
+
+I live in Edmonton, Alberta. I don't program for a living - I'll let you 
+guess what I do. :)
+
+
+Copyright and Distribution Permissions
+--------------------------------------
+Authors MAY NOT use this modification as a basis for other publicly or
+commercially available work without my permission (really, it IS easy to do
+so either e-mail and ask me or do one yourself).
+
+You may distribute this Quake modification in any electronic format as long
+as all the files in this archive remain intact and unmodified and are
+distributed together.
+
+
+Availability
+------------
+This modification is available from the following places:
+
+FTP:  ftp.cdrom.com in \pub\quake\quakec\bots
+

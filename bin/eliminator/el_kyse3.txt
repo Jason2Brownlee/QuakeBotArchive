@@ -1,0 +1,67 @@
+Title    : kysenty3 map for the eliminator bot patch
+Filename : el_kyse3.zip
+Version  : 1.00
+Date     : 96/10/4 
+Author   : Michael L. King
+Email    : michaek@hubcap.clemson.edu
+Credits  : Cameron Newham for his killer bots, and Kayos for his equally
+           killer remake of Doom 2 map 1.  These guys have talent!  Check
+           out Kayos's kysdeath, coming out 96/10/6.
+
+
+Type of Mod
+-----------
+Quake C  : no
+Sound    : no
+MDL      : no
+
+
+Format of QuakeC (if a Quake C Mod)
+-----------------------------------
+unified diff  : no
+context diff  : no
+.qc files     : no
+progs.dat     : no
+
+
+Description of the Modification
+-------------------------------
+
+  This map simply allows you to use the Eliminator bots with kysenty3.map,
+which is a remake of Doom2 map 1, but about a million times better!
+
+How to Install the Modification
+-------------------------------
+
+Just put kysenty3.bsp into your eliminator/maps directory (or whatever you
+call your eliminator dir.).  I'm sure you know how to run it if you have
+the bots, but here's the startup command anyway:
+  quake -game eliminator +map kysenty3
+
+
+Technical Details
+-----------------
+- for level details, refer to kysenty3.txt
+- I'm including the .bsp since this isn't an id level.
+
+The bots are apparently "taller" than normal players, and can't walk around
+the corners of the top catwalk in the ammo room (first room on the left, 
+coming from the start position).  It would have probably been possible
+to have them jump around the corners, but I didn't try it.  I had to move
+some of the items on the top catwalk to the lower one so they wouldn't
+be trying to get the ones on the top catwalk.  Also I didn't make them any
+waypoints for the water, as it really doesn't lead anywhere except the exit.
+It would have been cool though, but oh well. 
+
+
+Copyright and Distribution Permissions
+--------------------------------------
+Refer to kysenty3.txt, it's Kayos's level.  I don't care what you do
+with my mods to it.
+
+Availability
+------------
+
+This modification is available from the following places:
+
+FTP   : ftp.cdrom.com pub/quake/quakec/bots/eliminator

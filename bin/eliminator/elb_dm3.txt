@@ -1,0 +1,52 @@
+Title    : Dm3 (The Abandoned Base)
+Filename : elb_dm3.zip (This is the beta)
+           look for the fixed one soon el_dm3.zip
+Date     : 7/10/96 
+Author   : Darran Taylor (Tower!)
+         : Greg Kopff (Hutch)
+Email    : Tower@strata.net.au
+         : Kopff@zeta.org.au
+Credits  : ID Software, for Quake
+           Cameron Newham for these Awsome bots.
+           Also to Clan Fragbait for there support
+           If you want to join a Clan Fragbait and your
+           good, E-mail Me (Tower!) or Hutch 
+           when you email us please send a demo of you
+           in action Thankz
+
+
+Common Bugs
+-----------
+There are a couple of bugs so far in this level
+Okay the first one is that while the bots are in the water
+and they pick up the lightning gun they try to shoot you
+but when they shoot you u think fuck discharged but no its
+normal they shoot the lightning gun as if they were out side
+The second one is that they cant get the red armour
+and the lucky last (I hope) is that they cant pick up the
+100% health near the super nailgun.
+If you see or find and other bugs please email us thankz
+
+The Fixed one will be ready to grab Soon!!
+
+Description of the Modification
+-------------------------------
+
+  This map simply allows you to use the Eliminator bots with DM3 which
+  is the best of the best deathmatch levels id released
+
+How to Install the Modification
+-------------------------------
+
+Just put dm3.bsp into your eliminator/maps directory (or whatever you
+call your eliminator dir.).  I'm sure you know how to run it if you have
+the bots, but here's the startup command anyway:
+  quake -game eliminator +map dm3
+
+Availability
+------------
+
+This modification is available from the following places:
+
+FTP   : ftp.cdrom.com pub/quake/quakec/bots/eliminator
+HTTP  : http://www.zeta.org.au/~kopff/AusShock/AusShock.htm

@@ -1,0 +1,74 @@
+Title    : DM4 map for Eliminator Bot 
+Filename : elimdm4.zip
+Version  : 1.00
+Date     : 9/26/96
+Author   : Eric Spry
+Email    : Rapture@incom.net
+Credits  : Cameron Newham for creating the awesome Eliminator Bot
+
+
+Type of Mod
+-----------
+Quake C  : no
+Sound    : no
+MDL      : no
+
+
+Format of QuakeC (if a Quake C Mod)
+-----------------------------------
+unified diff  : no
+context diff  : no
+.qc files     : no
+progs.dat     : no
+
+
+Description of the Modification
+-------------------------------
+
+This modification will add one more level to Cameron Newham's Eliminator Bot.
+The level is DM4.
+
+How to Install the Modification
+-------------------------------
+
+1.  If you don't have the Eliminator Bot, this mod will do nothing for you. :)
+    You can get a version of the Eliminator Bot from:
+      ftp.cdrom.com in the Quake C area under Bots\eliminator
+
+2.  Unzip the archive into your elim\maps directory.  Run game using the +map
+    dm4 parameter along with the others you use to run the eliminator bots.
+
+Technical Details
+-----------------
+DM4      - Ack! I picked a terrible level for my first eliminator bot map :).
+           The holes in the bottom walkway confuse the bots at times, and
+           after a while so many backpacks of guns & ammo have fallen into the
+           lava pit that they just can't help but jump in for them!, hehe
+           Gameplay tends to congregate near the grenade launcher & bottom
+           aisleway.  Overall it plays really good, but sometimes the bots
+           don't die in the lava, so I find that I just have to start the
+           map again after awhile.  Lots of action in the small level though.
+           Have fun, if you can improve on it...please send me a copy & lemme
+           know what you did to fix the probs I've mentioned above.
+
+Copyright and Distribution Permissions
+--------------------------------------
+
+Authors MAY use these modifications as a basis for other
+publically / commercially / publically or commercially available work.
+
+You may distribute this Quake modification in any electronic
+format as long as this description file remains intact and unmodified
+and is retained along with all of the files in the archive.
+
+
+Availability
+------------
+
+This modification is available from the following places:
+
+FTP   : ftp.cdrom.com in the Quake C area
+WWW   : 
+BBS   : H2H, San Diego
+Other : 
+

@@ -1,0 +1,81 @@
+Title    : dm6 map for Eliminator Bot 
+Filename : nr_dm6.zip
+Version  : 1.00
+Date     : 9/25/96
+Author   : Rick DeMar
+Email    : rick@demar.agn.net
+Credits  : Cameron Newham for his awesome Cbots and also for helping me to
+           get started, and Anthony Shimizu for help on extracting entities.
+           Also any who have e-mailed me with comments; thanks, even critism
+           is helpful!
+
+Type of Mod
+-----------
+Quake C  : no
+Sound    : no
+MDL      : no
+
+
+Format of QuakeC (if a Quake C Mod)
+-----------------------------------
+unified diff  : no
+context diff  : no
+.qc files     : no
+progs.dat     : no
+
+
+Description of the Modification
+-------------------------------
+This is my second attempt at modifying an existing level for use with the
+Eliminator bots. It is DM6 with bi-directional path travel, camping spots,
+and complete usage usage of the maze. The lightning gun room cannot be opened
+by the bots, but if they fall in they can get out.
+
+How to Install the Modification
+-------------------------------
+1. You will need to unpack your pak0.pak and pak1.pak files. I use Adquedit,
+   a Windows based unpacker. Move the original pak files to a storage dir
+   somewhere to keep Quake from accesssing them. 
+
+2. You will need the Eliminator Bot patch by Cameron Newham to gain anything
+   useful from this level. Get the latest from:
+   ftp.cdrom.com/pub/quake/quakec/bots/eliminator
+   Install it and make sure it works. I used QBSP to patch the .map files
+   into the .bsp's... 
+
+3. Get and install QDTOOLS (Had problems with QBSP and my .MAPs). Copy the
+   dm6.bsp from your quake\id1\maps dir and the dm6.map from this archive
+   to the qdtools dir and run:
+
+   QDIMPORT DM6.MAP DM6.BSP TEMP.BSP <-- Neccesary to prevent disk error
+   Copy the temp.bsp to \quake\elim14\maps\dm6.bsp
+   Run Quake -listen -game elim14 (-listen puts you in multiplayer mode)
+   
+4. Type IMPULSE 166 in the console to produce a bot, up to a total of ten,
+   and spread some guts on the walls! :-)
+
+Technical Details
+-----------------
+Bugs
+
+Interestingly enough, the bots switch direction for no apparant reason
+sometimes, though it's hard to catch. That's what I get for overlapping
+waypoints :-)
+
+Copyright and Distribution Permissions
+--------------------------------------
+Anyone interested in using this code for thier own works may do so as long as
+I am credited for the original work. The archive containing this modification
+may be distributed so long as it remains unaltered in any way.
+
+Availability
+------------
+
+This modification is available from the following places:
+
+FTP   : ftp.cdrom.com in the /pub/quake/quakec/bots/eliminator directory.       
+WWW   : I may choose to make it available from my web site at
+        HTTP://WWW.AGN.NET/RDEMAR if available resources permit.
+BBS   : 
+Other : 
+

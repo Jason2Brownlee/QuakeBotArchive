@@ -1,0 +1,103 @@
+Title	 : D2MAP07 for Eliminator Bot
+Filename : elimd2m7.zip
+Version  : 1.0
+Date	 : 30/09/96
+Author(s): Yonatan Donner
+Email	 : yonatan.donner@tbu.excellnet.co.il OR donner@hum.huji.ac.il
+
+Credits  : id Software for the game
+	   Tom Mustaine for this great remake of the original Doom2 map07,
+	     wonderful job!!
+	   Cameron Newham for this awesome bot that feels like true deathmatch!
+
+Type of Mod
+-----------
+Quake C  : no
+Sound    : no
+MDL      : no
+MAP	 : yes
+
+Format of Quake C
+-----------------
+unified diff  : no
+context diff  : no
+.qc files     : no
+progs.dat     : no
+MAP file      : yes
+
+Description of the Modification
+-------------------------------
+I don't like the deathmatch levels in Quake very much, actually they are
+nice but I had enough of them... I was very happy to see Tom Mustaine made a
+Quake version of Doom2's map07, which is a great deathmatch level, and I
+never got to play more than two players here... This map07 is great so I
+wanted to play here, therefore I learned the waypoints system and made this
+level work with the Eliminator bots.
+
+It's my first try with waypoints and it's very "unclean"... Sometimes they
+don't manage to jump to the weapons but usually they take the weapons and
+jump very nicely, taking the quad damage and the thunderbolt in one jump, I
+loved it... I have to rocket myself up or take the moving platform to take
+the quad damage and they just jump, well I made them that why so why
+complain?
+
+Ok, I hope you enjoy it, DON'T use qbsp, at least when I used it there were
+bugs in the level itself and I fell out of the map, use qdtools or
+something... If you have any comments let me know, I'm very interested to
+know what people think of this! I'll also record some demos of me beating
+the bots in a 6-player deathmatch, if you want them I can send them to you
+by mail.
+
+Have fun!
+
+How to use Modification
+-------------------------------
+Use qdtools to add this map file to d2map07.bsp, then put it in your
+eliminator/maps directory, and play!! Just like any other Eliminator
+level... If you record any really cool demos where you REALLY beat these
+bots by MUCH, I'd love to see them! I can easily beat them, I'm curious to
+see other people do it (and I'm sure you'll do it better since I'm not as
+good in Quake as I'm in Doom).
+
+How to Install the Modification
+-------------------------------
+Oops, I think I answered that above...
+
+Technical Details
+-----------------
+Thunderbolt with quad damage hurts a lot ;-)
+
+Hmm, there may be two small bugs:
+
+1. The bots don't always manage to jump on the weapons in the main arena
+2. When the bots climb up, they take the weapons and jump down, they don't
+always fall on just ground, sometimes they jump on weapons and then they
+don't jump to the thunderbolt unless they get off and get on again, not
+serious I think...
+
+Author Information
+------------------
+This is the part I've been waiting for ;-)
+
+Ok, I'm 16, live in Israel, love Quake and Doom even more, also science fiction
+and if you really want to know more about me visit my homepage at
+http://www.geocities.com/Hollywood/4704/ I know it's not very updated but
+it has some information of the stuff I do...
+
+Copyright and Distribution Permissions
+--------------------------------------
+Authors MAY use these modifications as a basis for other
+publically available work, just give me credit!
+
+You may distribute this Quake modification in any electronic
+format as long as this description file remains intact and unmodified
+and is retained along with all of the files in the archive.
+
+Availability
+------------
+This Eliminator level modification can be found at the following locations:
+
+ftp://ftp.cdrom.com/pub/idgames2/quakec/bots/eliminator/elimd2m7.zip
+http://www.geocities.com/Hollywood/4704/ (maybe)
+Stomped? Until I get a real ppp account I won't know, it should happen
+tomorrow though so no problems here ;-)

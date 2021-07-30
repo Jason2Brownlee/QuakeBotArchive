@@ -1,0 +1,23 @@
+        This is the latest version of ELIM 1.4.  I have placed this is a pak
+file for those who are having trouble and for convience.  I have also included
+Multiskin Pro with head gibs.  To install this, do the following:
+
+1. Make directory in your quake directory called elim.
+
+2. Unzip this files in there.
+
+3. Then start game like so: quake -winmem 10 -game elim -listen
+                            (-winmem 10 parameter only for win95 user)
+
+4. Then bind keys to the following impulses:
+        Impulse  166  -  Create a cbot (MAX of 10 cbots)
+        Impulse  170  -  View gib scores
+        Impulse  180  -  Observer mode
+
+        Thats it.  This is the best bot to my opinion. So have fun. I did not
+make this patch. I just helped by adding multiskin pro and making the pak file
+for easier access.  The man who deserves all the credit is Cameron Newham.
+Also the Multiskin Pro crew for making and organizing the great skins. Read
+the other text files for more info on this patch. Have fun. 
+
+                                                        Moraca

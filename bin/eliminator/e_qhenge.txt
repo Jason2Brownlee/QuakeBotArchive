@@ -1,0 +1,67 @@
+================================================================
+Title                   : Eliminator Does QuakeHenge
+Filename                : qhenge.bsp
+Map Author              : Stuart Presley
+Eliminator1.4 cBOT      : Cameron Newham (cam@iinet.com.au) 
+
+Eliminator Mod          : Dan Rockwell
+Email Address           : djr@advfilms.com
+
+Description             : QHenge is great, its fast, simple and alot
+			  of fun, but wait theres more!  Now with
+			  Eliminator code bring on gibbed death madness!
+			  Mod includes basic eliminator code, not much 
+			  really, just enough to make it fun.  Also
+			  Qhenge now sports a lightning gun instead of
+			  a rocketlauncher, an extra nailgun or two
+                          some armor, and more ammo.  
+
+			  Moved some deathmatch spots around.
+                          
+			  Play with at least 2-3 Eliminators.
+                          
+Additional Credits to   : ID Software, Stuart Presley for QHENGE.BSP
+			  Cameron Newham (cam@iinet.com.au) for Eliminator1.4 cBOT
+                          
+================================================================
+
+* Play Information *
+
+Level Name              : QuakeHenge Gone Eliminator Style!
+Single Player           : They will kill you in single player mode ya know.
+Cooperative 2-4 Player  : Sure!
+Deathmatch 1-4 Player   : Yes!!!
+Difficulty Settings     : None
+
+* Construction *
+
+Base            : QHENGE.BSP
+Build Time      : 1-3 hours
+Editor(s) used  : QDEXPORT to grab the entitys out of the QHENGE.BSP
+		  QBSP to reassemble.  Eliminator Construction Set.
+Known Bugs      : My simple waypoint patterns for these guys leaves them
+		  circling at times.
+		  In general they seem to be near sighted.  
+		  Beware of the mass teleporter fountain of gibbed
+		  death.  If you see it, grab some pics before quake
+		  crashes!  (its really kinda cool...)
+
+How to, what to do:  Just put the qhenge.bsp in your quake/elim/maps directory.
+		     Run quake via "quake -game elim".
+		     If you don't have Eliminator1.4, you NEED IT!  
+		 
+
+* Legal Stuff *
+
+You may distribute and modify this level, as long as you include my
+text file and give me credit. If you plan on distributing this map on
+a CD Collection you _MUST_ contact me first for my approval.
+
+* Where to get this MAP *
+
+If your reading this Text file....you know where to get the map....
+Whoever including the "Where to get this MAP" info in the template must
+have been stoned.
+
+Eliminator1.4 can be found in www sites everywhere sporting the Quake name.
+Such as: www.stomped.com, ftp.cdrom.com.

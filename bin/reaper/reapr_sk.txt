@@ -1,0 +1,86 @@
+Title    : A Reaper Bot Skins File
+Filename : reapr_sk.zip
+Version  : 1.0
+Date     : 07/11/96
+Author   : Muhammad Hidayat Bin Sman
+Email    : hidayat@pacific.net.sg
+
+Credits  :
+Id Software		(for Quake; original graphics)
+Steve Polge		(for Reaperbot)
+Phillipe Doyon  (pdoyon@netrover.com - for creating those marvelous MDL's
+                for BGBot)
+Mike Kelly      (elkabong@oanet.com - for the original Reaperbot Skin file)
+Steve C. Clark	(steve3@mindspring.com - for the Reaperbot Skill Skins)
+Rene Post		(for QuakeMe, which I used in testing these skins)
+Jonas P.		(for Grafixer, which helped me recolorize portions)
+Lucas Pope		(artistic inspiration)
+
+Type of Mod
+-----------
+Quake C  : no
+Sound    : no
+MDL      : yes
+
+What's This?
+------------
+This zipfile contains addon skins for Reaperbot ver0.8 and above. There are
+2 skin files in this package, Player.mdl and H_player.mdl. The first
+contains the 16 different skins and the second is the skins for the head
+gibs. Skins #1-4 are the Skill skins by  Steve C. Clark. These look like
+the QuakeGuy skin except that they have different skin color and wear cool
+metallic blue custom armor. Skin #15 is the BGHURT skin from BGBOT 2.0a and
+the rest are just the QuakeGuy wearing differently colored shirts and
+pants.
+
+The skins follows the Reaperbot skin guidelines as outline in Skinspec.txt
+in the Reaperbot 0.8 package. In case you haven't got it handy, here is an
+excerpt:
+
+
+	"The reaper bot assumes there are 16 skins in the player.mdl file
+	(numbered 0 to 15).  Skin 0 should be the default quake skin.
+	Skin 15 is what the "bot only" team uses if skins are enabled.  
+	If the "show difficulty" mode is enabled, then skins 1 to 4
+	will be associated with progressively higher skill levels (e.g. 
+	skill 0 = skin 1, etc.).  Otherwise, the bots will during deathmatch
+	play choose any skin between 0 and 15.  For teamplay, of course,
+	the bots will share the skin of their human teammate if they aren't
+	on the bot only team."
+
+That about explains it.
+
+How To Install
+--------------
+
+Create a PROGS subdirectory under your Reaperbot directory and unzip the
+contents of this zipfile there. If your Reaperbot directory is
+C:\QUAKE\RPBOT, then this directory would be C:\QUAKE\RPBOT\PROGS.
+
+Author Information
+------------------
+This is my first public release. I made a few DOOM Wads with DCK (very good
+editor), but it just for fun and never released them.
+
+I live in Singapore and am currently a conscripted soldier (6 more months
+to go...) My PC is a Cyrix P150+ with 16 MB EDO RAM and 1.2 Gig Quantum
+harddisk. First PC game I ever played was Wolf3d on my old Cyrix 486DLC
+(That CPU Sucked BIG TIME!) Have come a long way since then...8-)
+
+Copyright and Distribution Permissions
+--------------------------------------
+Authors MAY NOT use this modification as a basis for ANY commercially
+available work without my permission (FTP.CDROM.COM has my permission). If
+you're working on Reaperbot skins for free distribution though, you're
+welcome to it, but please mention me and send me an e-mail to tell me where
+to find your work. If you sell this and don't give me credit then prepare
+to bear my sins in the afterlife...8-)
+
+You may distribute this Quake modification in any electronic format as long
+as all the files in this archive remain intact and unmodified and are
+distributed together.
+
+Availability
+------------
+I am uploading this to ftp.cdrom.com so it should be there.
+

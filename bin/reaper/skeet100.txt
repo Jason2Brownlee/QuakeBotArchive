@@ -1,0 +1,66 @@
+SKEET-QUAKE! This is Skeet-Quake version 1.00
+================================================================
+Instructions:
+
+First off, you have to have the reaper bot mod.  Just copy the 
+skeet.bsp into your /id1/maps subdirectory off of c:\quake 
+(or whatever) and then from the quake prompt load the reaper patch... 
+ie: "quake -game reaper"  Once quake starts, start a new multiplayer
+game. Then, once in the game, at the console type "map skeet"
+
+Assuming you followed the simple directions, you will now be in the 
+skeet area.  Once you walk onto the main platform, type "impulse 103"
+at the console to bring in the correct number of reapers, then back 
+into the button to fire them away. :) Enjoy.
+
+IMPORTANT! The reaper will be launched out with VERY little health, so
+use the shotgun. The rocket launcher is impossible to hit em with...
+
+This could be fun for deathmatch!!
+
+================================================================
+Title                   : Skeet-Quake
+Filename                : skeet.bsp
+Author                  : Scott Olsson, aka Scohop (clan 'Tards)
+Email Address           : scohop@iaonline.com
+
+Description             : A great idea I came up when I was testing another
+                          level of mine. You basically just try to shoot the
+                          reapers out of the sky. Enjoy.
+
+================================================================
+
+* Play Information *
+
+Game                    : Quake Registered 1.01 or higher
+Single Player           : Yes
+Cooperative             : Might be interesting.
+Deathmatch              : HAHAHA. Havn't tried it, would be fun though.
+                          However, if you DO use it for dm, make sure
+                          you set the fraglimit at about 5-10 and then
+                          use "samelevel 1" so that you come back and
+                          everyone gets a shot (groan).  Remember that
+                          respawn points are ONLY in the skeet launchers,
+                          so if the main shooter dies, you'll be glad
+                          that you have the fraglimit set low!!
+
+Difficulty Settings     : Not implemented
+New Sounds              : No
+New Graphics            : No
+New QuakeC              : No
+New MDL's               : No
+* Construction *
+
+Base                    : New
+Editor(s) used          : Worldcraft, MS-DOS Edit
+Known Bugs              : None known
+Build time              : About 2 Hours
+
+* Copyright / Permissions *
+
+Authors may not use this level as a base to build additional
+levels.
+
+Check out some other work ala scohop with the .BSP Expansion Project:
+
+http://www.vvm.com/~fishman/quake/quakebsp.htm

@@ -1,0 +1,73 @@
+Title    : House of Desolation bsp map for Eliminator Bot 
+Filename : elimdeso.zip
+Version  : 1.00
+Date     : 9/28/96
+Author   : Eric Spry
+Email    : Rapture@incom.net  or Major Dump on H2H, San Diego
+Credits  : Cameron Newham for creating the awesome Eliminator Bot
+          Jim Lowell for creating the way cool House of Desolation with THRED.
+
+Type of Mod
+-----------
+Quake C  : no
+Sound    : no
+MDL      : no
+
+
+Format of QuakeC (if a Quake C Mod)
+-----------------------------------
+unified diff  : no
+context diff  : no
+.qc files     : no
+progs.dat     : no
+
+
+Description of the Modification
+-------------------------------
+
+This modification will add one more level to Cameron Newham's Eliminator Bot.
+The level is called House of Desolation (see accompanying text file).
+
+How to Install the Modification
+-------------------------------
+
+1.  If you don't have the Eliminator Bot, this mod will do nothing for you. :)
+    You can get a version of the Eliminator Bot from:
+      ftp.cdrom.com in the Quake C area under Bots\eliminator
+
+2.  Unzip the archive into your elim\maps directory.  Run game using the +map
+    deso parameter along with the others you use to run the eliminator bots.
+
+Technical Details
+-----------------
+Deso-      I did a much better job on this than my first eliminator bot map :).
+           The bots are plotted to run through the level completely in BOTH
+           directions, so they will aggressively pursuit you!.  Lots of
+           intense action and great with 10 bots on a fast machine :), and
+           much fun with only 3 or 4. Created for H2H BBS, Cameron Newham,
+           and Jim Lowell, the maker of Deso.bsp.
+
+           About 1000 lines of Eliminator bot scripting alone (sheesh).
+
+Copyright and Distribution Permissions
+--------------------------------------
+See limitations on Deso.bsp's text file PLEASE, adhere to them above all.
+Authors MAY use these modifications as a basis for other
+publically / commercially / publically or commercially available work.
+
+As long as you adhere to Deso's limitations, may distribute this Quake
+modification in any electronic format as long as this description file remains
+intact and unmodified and is retained along with all of the files in the
+archive.
+
+
+Availability
+------------
+
+This modification is available from the following places:
+
+FTP   : ftp.cdrom.com in the QuakeC\bots\eliminator area
+WWW   : 
+BBS   : H2H, San Diego  619-426-0073
+Other : 
+
