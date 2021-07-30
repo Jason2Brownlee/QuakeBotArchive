@@ -18,6 +18,26 @@ Omicron Bot
 		Miklos de Rijk aka "H2SO4"
 		https://doomwiki.org/wiki/Miklos_de_Rijk_(H2SO4)
 		https://www.linkedin.com/in/miklos-de-rijk-07360630/
+	old versions or old docs?
+	https://web.archive.org/web/19980614160554/http://www.inside3d.com/dec10.shtml
+		v0.81
+		v0.83
+	v1.00 released dec 4th 1997
+		https://web.archive.org/web/19980614160451/http://www.inside3d.com/dec04-dec05.shtml
+		https://www.bluesnews.com/archives/nov97-5.html
+		https://www.bluesnews.com/files/patches/obots100.zip
+		http://www.ritual.com/shack_files/quakec/obots100.zip
+	v1.01 Monday, December 15, 1997
+		https://www.bluesnews.com/archives/dec97-2.html
+		https://web.archive.org/web/19980614160658/http://planetquake.com/ramshackle/omidlf.htm
+		ftp://ftp.cdrom.com/pub/idgames2/planetquake/ramshackle/OBOTS101.ZIP
+	v1.02 3/24/98
+		https://web.archive.org/web/19980614161915/http://www.inside3d.com/mar24-mar25.html
+	http://www.demigod.demon.nl/
+		https://web.archive.org/web/19991111071544/http://www.demigod.demon.nl/
+		dead
+	no src ever
+		https://web.archive.org/web/19980614160949/http://www.inside3d.com/jan05-jan06.shtml
 Reaper Bot
 	https://quake.fandom.com/wiki/The_Reaper_Bot
 	https://www.quakewiki.net/archives/botarea51/main/qbot87f1.html?id=14
@@ -127,6 +147,17 @@ Frogbot
 		Do we just host "frogbot012.zip" and ignore the issue?
 	interview
 		https://web.archive.org/web/19981206021000/http://www.telefragged.com/metro/interview_frog.html
+	physics
+		https://web.archive.org/web/19980614161031/http://www.inside3d.com/jan09-jan10.shtml
+		https://web.archive.org/web/19991018233525fw_/http://www.planetquake.com/botshop/
+		news/1998-01.html
+		https://web.archive.org/web/19990221165445fw_/http://www.planetquake.com/botshop/code/index.html
+		https://web.archive.org/web/19980614161135/http://www.inside3d.com/jan19-jan24.shtml
+		ftp://ftp.cdrom.com/pub/idgames2/planetquake/botshop/frogphys01.zip
+		ftp://ftp.cdrom.com/pub/idgames2/planetquake/botshop/frogphys00.zip
+	frogbot005.zip 23rd-march-98
+		https://web.archive.org/web/19990428214630/http://www.telefragged.com/metro/q1bot_frogbot.html
+		https://web.archive.org/web/19980614161937/http://www.inside3d.com/mar26-mar29.html
 Optimized Frogbot
 	http://aminet.net/package/game/patch/frogbot
 	Christian Michael aka "surgeon"
@@ -256,6 +287,12 @@ Dark Bot / Darkbot
 	got it to work
 	old versions here???? newer by date inside the zip I think
 	https://dukeworld.com/planetquake/botshop/
+		https://web.archive.org/web/19980614160302/http://www.inside3d.com/nov24-nov25.shtml
+	DarkBOT release - Dark_Skye has released v0.13.1 of DarkBOT.
+	 Dark_Skye has released v0.13.7 beta of DarkBO
+	 	https://web.archive.org/web/19980614160345/http://www.inside3d.com/nov28-nov29.shtml
+	 Dark_Skye of Scrap Heap has released v0.13.8 of DarkBot
+	 	https://web.archive.org/web/19980614160658/http://www.inside3d.com/dec16-dec17.shtml
 DM Bot
 	https://www.gamers.org/pub/idgames2/quakec/bots/dmbot1.zip
 	basis for bg bot
@@ -1683,7 +1720,19 @@ Magenta's Reaper Bots Hack
 Kommando Kwake v2.10
 	https://web.archive.org/web/19980614160010/http://www.inside3d.com/nov08-nov09.shtml
 	reaperbots
-
+XBots
+	https://web.archive.org/web/19980614160010/http://www.inside3d.com/nov08-nov09.shtml
+	Prodigy Server Engine by David Rodgers
+	https://web.archive.org/web/19980614160010/http://www.mindspring.com/~orionx/home1.htm
+QuakePlus
+	https://web.archive.org/web/19980614160010/http://www.inside3d.com/nov08-nov09.shtml
+	reaper
+Ultimate Quake Mod
+	https://web.archive.org/web/19980614160053/http://www.inside3d.com/nov12-nov13.shtml
+	zeusbot
+QCAP v2.0
+	all kinds of bots
+	https://web.archive.org/web/19980614160345/http://www.inside3d.com/nov28-nov29.shtml
 
 OUT OF SCOPE
 --------------------------------------------------------------------------------

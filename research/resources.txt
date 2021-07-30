@@ -39,6 +39,10 @@ botshop / bot shop
 		https://web.archive.org/web/20020116204802/http://www.planetquake.com/botshop/quake.html
 	https://www.quakewiki.net/archives/botshop/
 		https://www.quakewiki.net/archives/botshop/code.html
+	news archives
+		https://web.archive.org/web/19980218103025/http://planetquake.com/botshop/
+	releases
+		https://web.archive.org/web/19990221165445fw_/http://www.planetquake.com/botshop/code/index.html
 QCA
 	http://www.planetquake.com/qca/reviews/
 		https://web.archive.org/web/20021019163323/http://www.planetquake.com/qca/reviews/
@@ -107,9 +111,16 @@ old news sites:
 (e.g. news of quake bots being released)
 --------------------------------------------------------------------------------
 Scary's Quakeholio / sCary's Sugar Shack
+	http://www.quakehole.com/quakec.html
 	https://web.archive.org/web/19971210064221/http://www.quakehole.com/frames/
+sCary's Shuga Shack / Shugashack / Shuga' Shack
 	https://web.archive.org/web/19971212025339/http://www.hipnotic.com/news.htm
 	https://web.archive.org/web/19971212030705/http://www.hipnotic.com/archives/archives.htm
+	https://web.archive.org/web/19991109063918/http://scary.vrgames.net/
+	https://web.archive.org/web/19991115160910/http://vrgames.net/index.html
+Shacknews
+	https://web.archive.org/web/20010228105020/http://www.shacknews.com/
+	http://www.shacknews.com/
 redwood
 	https://web.archive.org/web/19970327172107/http://redwood.gatsbyhouse.com/news.html
 stomped.com
@@ -121,7 +132,20 @@ blues news
 	https://www.bluesnews.com/archives/
 	https://www.bluesnews.com/files/patches/bots/
 planetquake
+	http://planetquake.gamespy.com/quake1/index.html
 	https://web.archive.org/web/19970208052149/http://www.planetquake.com:80/
+insideqc
+	http://www.insideqc.com
+	http://www.insideqc.com/qctut/
+	https://web.archive.org/web/20150728015151/http://www.insideqc.com/
+inside3d
+	http://www.inside3d.com/
+	https://web.archive.org/web/19980614152627/http://www.inside3d.com/
+	https://web.archive.org/web/19980614152833/http://www.inside3d.com/oldnews.shtml
+
+
+
+
 
 
 
