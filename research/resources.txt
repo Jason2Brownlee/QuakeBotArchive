@@ -14,6 +14,8 @@ botepidemic / bot epidemic
 	http://www.botepidemic.com
 		https://web.archive.org/web/20001027075424/http://www.botepidemic.com/bots/quake.shtml
 		https://web.archive.org/web/20000515000000*/http://www.botepidemic.com/bots/quake.shtml
+		https://web.archive.org/web/*/www.botepidemic.com/*
+			(all files, filter by .zip)
 	zeo -> zeee0
 		http://www.forums.bots-united.com/showthread.php?t=5732
 	http://botepidemic.impulse9.net
@@ -94,6 +96,7 @@ Telefragged Mirrors
 	http://dukeworld.duke4.net/telefragged/
 	https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/
 	https://ia801303.us.archive.org/view_archive.php?archive=/33/items/AtomicGamer_telefragged/AtomicGamer_telefragged.tar
+	https://web.archive.org/web/20001031022107/http://ftp.telefragged.com/
 bots united
 	http://bots-united.com/
 3ddownloads/atomicgamer archives

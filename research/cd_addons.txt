@@ -94,6 +94,16 @@ Quake compilation
 			progs.zip
 			proqc160.zip
 			rrbot313.zip
+spaces
+	russian
+	https://spac1.net/files/user/scorpiooon/list/quake1-2319856/
+	bots
+		obots102.zip
+		fbca092kt.zip
+		frogbotctf.zip (fbctf035.zip)
+		xreaper.zip
+		frogbot.zip (fbdm12.zip)
+
 
 
 NO BOTS (addons without bots)
