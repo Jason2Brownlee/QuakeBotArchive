@@ -1,0 +1,22 @@
+Research Tips
+--------------------------------------------------------------------------------
+
+Tips, in case I forget how to find things over the years.
+
+- There are many mirrors of cdrom over the years and many are in archive.org.
+- Many ftp sites have HTML interfaces that were captured on archive.org. Provides a great way to see what files existed at specific times and to get some .txt files.
+- On HTML pages for ftp pages captured in the archive, check the incoming/ and newstuff/ directories to see any additional files that have been uploaded but not yet put into the bots/ directory.
+- Many warez packs for quake also include mods/bots/levels.
+- There are tons of third-party addons for quake and many had mods/bots/levels.
+- The archive.org interface has a summary page, and on it a link to a list of all files captured. This can be searched for .zip files and more.
+- Maintain a spreadsheet and add every single email address seen in .txt files, on webpages from the archive and more. Email each in turn asking if they have bots and mark them off to avoid wasted effort.
+- Google search does not have everything, e.g. do a site search for a filename rarely finds files listed on HTML lists of files. Solution: look in directories manually.
+- Keep extensive records of what has been checked to avoid wasted effort/doubling up.
+- Usenet archives like google groups have tons of discussion of urls and filenames not in the google index. Also search of the archive is fickle and gives different results for slightly different search terms.
+- There are other archivist out there, make friends.
+
+
+
+
+
+
