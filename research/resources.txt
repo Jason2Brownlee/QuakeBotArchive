@@ -95,6 +95,9 @@ bots united
 	https://www.celephais.net/board/view_thread.php?id=60873&start=236&end=260
 slipgate central bot
 	https://web.archive.org/web/19971210230311/http://www.slipgatecentral.com/Addons/Bots/
+gameaholic.com
+	https://web.archive.org/web/19981203013532/http://www.gameaholic.com/addons/bots/
+
 
 
 guides:
@@ -105,6 +108,26 @@ Deathmatch With Bots (on hundreds of maps) [modern guide]
 	https://steamcommunity.com/sharedfiles/filedetails/?id=123626484
 gameaholic list of bots
 	https://web.archive.org/web/19970628184357/http://www.gameaholic.com/idgames/quakec/bots/
+	https://web.archive.org/web/19990117023651/http://idgames.gameaholic.com/idgames.d/quakec/bots/
+
+
+Quake Archives
+---------
+
+quaddicted
+	https://www.quaddicted.com/webarchive/
+	https://www.quaddicted.com/files/
+	https://www.quaddicted.com/files/commercial/
+	https://www.quaddicted.com/files/temp/files/
+	https://www.quaddicted.com/files/idgames2/quakec/bots/
+	https://www.quaddicted.com/files/mods/
+	https://www.quaddicted.com/files/mods/bots/
+quaketastic
+	http://www.quaketastic.com/
+	http://www.quaketastic.com/files/
+	http://www.quaketastic.com/files/site_archives/
+
+
 
 
 old news sites:
