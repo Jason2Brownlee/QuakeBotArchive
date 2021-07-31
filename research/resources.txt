@@ -123,6 +123,9 @@ Shacknews
 	http://www.shacknews.com/
 redwood
 	https://web.archive.org/web/19970327172107/http://redwood.gatsbyhouse.com/news.html
+	https://web.archive.org/web/20010925235042/http://redwood.stomped.com/
+	https://web.archive.org/web/19990208010004/http://redwood.stomped.com/
+	https://web.archive.org/web/20010209101036fw_/http://redwood.stomped.com/archives.html
 stomped.com
 	https://web.archive.org/web/19961121230158/http://www.stomped.com/
 	https://web.archive.org/web/19990202192708/http://www.stomped.com/
@@ -134,7 +137,7 @@ blues news
 planetquake
 	http://planetquake.gamespy.com/quake1/index.html
 	https://web.archive.org/web/19970208052149/http://www.planetquake.com:80/
-insideqc
+insideqc (mirror of inside3d...)
 	http://www.insideqc.com
 	http://www.insideqc.com/qctut/
 	https://web.archive.org/web/20150728015151/http://www.insideqc.com/
@@ -142,8 +145,30 @@ inside3d
 	http://www.inside3d.com/
 	https://web.archive.org/web/19980614152627/http://www.inside3d.com/
 	https://web.archive.org/web/19980614152833/http://www.inside3d.com/oldnews.shtml
-
-
+http://www.mdqnet.net/
+	https://web.archive.org/web/19990429004426/http://www.mdqnet.net/
+	https://web.archive.org/web/19991103204729/http://www.mdqnet.net/
+	https://web.archive.org/web/20000226193121/http://www.mdqnet.net/
+	https://web.archive.org/web/19990218124824/http://www.geocities.com/TimesSquare/Labyrinth/2011/index.html
+	https://web.archive.org/web/20000529114400/http://www.mdqnet.net/index.shtml?pwrfilter=Mods
+	https://web.archive.org/web/*/www.mdqnet.net/*
+	http://www.mdqnet.net/quakec
+		https://web.archive.org/web/20000831024237/http://www.mdqnet.net/quakec/
+	http://www.mdqnet.net/squirtbot
+	http://www.mdqnet.net/frikbot/
+		https://web.archive.org/web/20001009022144/http://www.mdqnet.net:80/ftp/frikbot/
+		https://web.archive.org/web/20000118183214/http://www.mdqnet.net:80/dept187/frikbot.htm
+	http://www.mdqnet.net/friktf
+		https://web.archive.org/web/20001009022207/http://www.mdqnet.net:80/ftp/friktf/
+	http://www.mdqnet.net/voidmod/
+	http://www.mdqnet.net/frikway/
+		https://web.archive.org/web/20001009022229/http://www.mdqnet.net:80/ftp/frikway/
+http://www.kinglink.com/qhq
+	https://web.archive.org/web/*/www.kinglink.com/*
+	nothing for qhq...
+	http://www.kinglink.com/qhq/index.html
+	http://www.kinglink.com:80/qhq/reaper.html
+	http://www.kinglink.com/qhq/news.html
 
 
 

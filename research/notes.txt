@@ -78,6 +78,8 @@ Reaper Bot
 	lists an old version
 		https://web.archive.org/web/19990116234332/http://canvasnet.com/quake/qc.htm
 		ftp://ftp.canvasnet.com/quake/qc/bots/reaprb05.zip
+	https://web.archive.org/web/19990203053917/http://www.geocities.com/TimesSquare/Arcade/1975/quake.htm
+		ftp://ftp.cdrom.com/pub/idgames2/quakec/bots/reaprb05.zip
 ZeusBot / ZEUSbot
 	Jonathan E. Wright aka Nelno the Amoeba
 	https://www.quaddicted.com/files/idgames2/quakec/bots/zeus205.zip
