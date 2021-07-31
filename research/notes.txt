@@ -163,6 +163,8 @@ Frogbot
 	frogbot005.zip 23rd-march-98
 		https://web.archive.org/web/19990428214630/http://www.telefragged.com/metro/q1bot_frogbot.html
 		https://web.archive.org/web/19980614161937/http://www.inside3d.com/mar26-mar29.html
+	bot board
+		https://web.archive.org/web/20001205062300/http://www.telefragged.com/metro/botboard/index.shtml
 Optimized Frogbot
 	http://aminet.net/package/game/patch/frogbot
 	Christian Michael aka "surgeon"
