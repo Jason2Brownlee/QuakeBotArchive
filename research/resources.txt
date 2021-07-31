@@ -14,12 +14,21 @@ botepidemic / bot epidemic
 	http://www.botepidemic.com
 		https://web.archive.org/web/20001027075424/http://www.botepidemic.com/bots/quake.shtml
 		https://web.archive.org/web/20000515000000*/http://www.botepidemic.com/bots/quake.shtml
-	http://botepidemic.impulse9.net
-		???
-	http://botepidemic.no-origin.net/quake.shtml.htm
-		https://web.archive.org/web/20100123221300/http://botepidemic.no-origin.net/quake.shtml.htm
 	zeo -> zeee0
 		http://www.forums.bots-united.com/showthread.php?t=5732
+	http://botepidemic.impulse9.net
+	(mirror)
+	http://botepidemic.no-origin.net/quake.shtml.htm
+	(mirror)
+		https://web.archive.org/web/20100108104405/http://botepidemic.no-origin.net/
+		https://web.archive.org/web/20100123221300/http://botepidemic.no-origin.net/quake.shtml.htm
+		https://web.archive.org/web/20100122110841/http://botepidemic.no-origin.net/frikbot/index.htm
+		https://web.archive.org/web/20100123221244/http://botepidemic.no-origin.net/fmods/index.htm
+	http://www.cyd.liu.se/~bjoli035/botepidemic/
+	(mirror)
+		https://web.archive.org/web/20030818023245/http://www.cyd.liu.se/~bjoli035/botepidemic/quake.shtml.htm
+		https://web.archive.org/web/20030626082844/http://www.cyd.liu.se/~bjoli035/botepidemic/fmods/index.htm
+		https://web.archive.org/web/20030818015901/http://www.cyd.liu.se/~bjoli035/botepidemic/frikbot/index.htm
 quake terminus
 	https://www.quaketerminus.com/bots.shtml
 botarea51 / bot area 51
@@ -97,7 +106,9 @@ slipgate central bot
 	https://web.archive.org/web/19971210230311/http://www.slipgatecentral.com/Addons/Bots/
 gameaholic.com
 	https://web.archive.org/web/19981203013532/http://www.gameaholic.com/addons/bots/
-
+captured.com
+	http://www.captured.com/bot/
+	https://web.archive.org/web/19981202043059/http://www.captured.com/bot/
 
 
 guides:
@@ -122,11 +133,46 @@ quaddicted
 	https://www.quaddicted.com/files/idgames2/quakec/bots/
 	https://www.quaddicted.com/files/mods/
 	https://www.quaddicted.com/files/mods/bots/
+	https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/
+	https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/inside3d/
+	https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/inside3d/frikbot/
+	https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/
 quaketastic
 	http://www.quaketastic.com/
 	http://www.quaketastic.com/files/
 	http://www.quaketastic.com/files/site_archives/
-
+quakewiki
+	https://www.quakewiki.net/
+	https://www.quakewiki.net/quake-1/mods/
+	https://www.quakewiki.net/planetquake-archives/
+	https://www.quakewiki.net/archives/ramshackle/bots/bots.htm
+	https://www.quakewiki.net/archives/skorpion/
+	https://www.quakewiki.net/archives/botarea51
+	https://www.quakewiki.net/archives/botshop/
+	https://www.quakewiki.net/archives/ctfbot/
+	https://www.quakewiki.net/archives/cronos/
+	https://www.quakewiki.net/archives/emporium.planetquake.gamespy.com/
+quake wiki
+	https://quake.fandom.com/wiki/Quake_Wikia
+	https://quake.fandom.com/wiki/Special:AllPages
+	https://quake.fandom.com/wiki/Quake
+	https://quake.fandom.com/wiki/The_Reaper_Bot
+	https://quake.fandom.com/wiki/Johannes_Marinus_Paulus_van_Waveren
+dukeworld
+	https://dukeworld.duke4.net/telefragged/
+	https://dukeworld.duke4.net/telefragged/inside3d/
+	https://dukeworld.duke4.net/telefragged/inside3d/frikbot/
+	https://dukeworld.duke4.net/telefragged/thefatal/
+	https://dukeworld.duke4.net/idgames2/
+	https://dukeworld.duke4.net/idgames2/quakec/bots/
+	https://dukeworld.duke4.net/planetquake/
+	https://dukeworld.duke4.net/planetquake/botshop/
+	https://dukeworld.duke4.net/planetquake/skorpion/
+	https://dukeworld.duke4.net/planetquake/skorpion/files/
+	https://dukeworld.duke4.net/planetquake/cronos/
+	https://dukeworld.duke4.net/planetquake/emporium/
+	https://dukeworld.duke4.net/planetquake/minion/
+	https://dukeworld.duke4.net/planetquake/tfbot/
 
 
 
