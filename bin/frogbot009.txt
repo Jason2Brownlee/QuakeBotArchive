@@ -1,0 +1,393 @@
+Title        : Frogbot
+Filename     : frogbot009.zip
+Date         : 18 May 1998
+Author       : Robert Field
+Email        : frog@powerup.com.au
+Download     : http://www.telefragged.com/metro/
+Next version : Probably not before July, since I have my uni exams
+               finish at the end of June.
+
+
+How to Install the Modification
+-------------------------------
+
+Create a directory called frogbot as a subdirectory in your Quake
+directory and unzip frogbot009.zip into it. Include in your command
+line parameters -game frogbot -zone 1024. The zone command should stop
+unwanted crashes from happening.
+
+
+Quick way to spawning Frogbots
+------------------------------
+
+addbot, add2bots, add3bots, add4bots will add between 1 to 4 bots.
+addbot0 through to addbot14 will add one bot of the specified color.
+
+Note: Due to the loading mechanism, be patient when spawning bots.
+
+
+Removing Frogbots
+-----------------
+
+removebot removes the last bot that joined the game.
+removeallbots removes all bots.
+
+
+More advanced ways of spawning Frogbots
+---------------------------------------
+
+In the frogbot directory you will see files will the .bot suffix.
+Executing one of these will spawn the bot with the information of that
+file (or any existing information such as skill if this isn't in the
+file). You may make your own .bot file and then execute it to spawn a
+bot to your liking. You can select the name, skin (you need a
+player.mdl file for this), skill, and colors (both teamplay 0 and
+teamplay). By default, using the addbot commands will randomly spawn a bot
+from the list specified in frogbot.cfg. Any .bot file you create can
+be added to the random spawn list by editting frogbot.cfg. Follow the
+existing pattern (eg. the number on the first line is the number of
+bot aliases following).
+
+A .bot file should start with the following 2 lines:
+wait;lines=
+wait;impulse 26
+
+26 here means that there is a total of 26 non-blank lines in the file.
+Though it is optional, it is very useful in stopping reading error
+messages of your .bot file, especially if you are a client logging
+into a Frogbot server (note that if you spawn a bot on a server, your
+own listing of .bot files is used, not those on the server - so you
+can turn up with your own Frogbot 'buddies').
+
+A .bot file should end with addbot (though possibly with addbot0
+through addbot13 - however, teamshirt= and teampants= discussed below
+supercede this command). The lines= command above checks lines up to
+this point.
+
+At this point it may be beneficial to refer to hello.bot. It will
+spawn a bot with name 'Hello' (with some decoration), color 2 13
+during teamplay 0, and color 5 4 during teamplay, skin 3, skill 105.
+
+
+The name= command
+-----------------
+
+The name= command must be followed by a sequence of impulse numbers
+which specify the characters of the name you are creating. You must
+indicate the end of this sequence with impulse_0 (NOT impulse 0).
+Use the lettercodes command to tell you what numbers correspond to
+what letters (type lettercodes more than once to cycle through the
+entire list).
+
+
+The setname command
+-------------------
+
+You can use the name= command with the setname command to make your
+'fun' name. Execute hello.nam to see an example of this.
+
+
+The admin= command
+------------------
+
+The admin= command must be followed by 3 impulse numbers. This sets
+your admin code. By default a server and the clients have admin code
+0 0 0. The listen server, or the first client logging onto a dedicated
+server, not only sets their own admin code by the admin= command, but
+also sets the server admin code. Many commands will only work if your
+admin code is equal to that of the server. To enable everyone to
+execute any command, just leave everyone's admin code as 0 0 0
+(ie. ignore the admin= command).
+
+
+impulse_0 reminder
+------------------
+
+If you want to use impulse 0, then use impulse_0 instead (impulse 0
+doesn't work). All impulse commands should be in the range from 0 to
+254 (255 is missing since I internally use it for 0).
+
+
+Other '=' commands
+------------------
+
+The list of the other '=' commands is: skill=, skin=, shirt=, pants=,
+teamshirt=, teampants=, bots=, teamplay=, deathmatch=, timelimit=,
+fraglimit=, addbot=.
+All these commands must be followed by a single impulse command.
+skill=, skin=, shirt=, pants=, teamshirt=, teampants= set particular
+attributes of bots you spawn. For a listen server, skill and skill=
+do the same thing. Also, setting teamshirt= and teampants= to say 4
+and then using addbot, is equivalent to using addbot4.
+The bots= command is used in the frogbot.cfg file. This is the only
+place it should be used, and should be changed as you add more bots
+to the random spawn list in frogbot.cfg.
+teamplay=, deathmatch=, timelimit=, fraglimit= give remote access to
+the corresponding variables on the server.
+addbot= is used to spawn multiple (random) bots.
+
+
+Remark on included .bot files
+-----------------------------
+
+The included .bot files in the random spawn list (in frogbot.cfg)
+contain only name and teamplay 0 information. Other information may
+be specified at runtime. By default bots will spawn in your team,
+though the addbot0 to addbot13 are useful for simple start up of team
+games.
+
+
+Remark on recording demos
+-------------------------
+
+If you use addbot to spawn a random bot during a demo, on playback the
+demo will contain the 'init' command, and the 'exec' command. To
+avoid this, either have the bots already spawned, or include the
+entire contents of your desired .bot file in an alias command.
+For example: alias thresh "wait;lines=;wait;impulse 15;wait;name=;wait;impulse 212;wait;impulse 104;wait;impulse 114;wait;impulse 101;wait;impulse 115;wait;impulse 232;wait;impulse_0;wait;shirt=;wait;impulse 2;wait;pants=;wait;impulse 1;wait;addbot"
+Then type 'thresh' to spawn your punching bag.
+
+
+Teamplay rules
+--------------
+
+teamplay 0        - every man for himself.
+teamplay 1        - teammate and self health protect.
+teamplay 2        - teammate kill frag penalty.
+teamplay 3        - teammate health protect.
+teamplay 4        - teammate health and armor protect.
+teamplay 5        - teammate health and armor protect, self health
+                    protect.
+(warning: in teamplay you suicide if you change pants color).
+(note: unlike regular Quake, you must restart a map for new teamplay
+settings to take effect with the Frogbot mod).
+
+
+Deathmatch rules
+----------------
+
+deathmatch 1      - all items respawn.
+deathmatch 2      - only weapons stay.
+deathmatch 3      - weapons stay and other items respawn.
+deathmatch 4      - start with full armor, 250 health, all weapons
+                    except the grenade launcher, unlimitted ammo.
+                    health and armor respawn. quad becomes octa.
+deathmatch 5      - start with full armor, 200 health, all weapons.
+                    items besides weapons respawn.
+deathmatch 6      - start with full armor, 100 health, all weapons,
+                    sufficient ammo. no items. (not Rocket Arena, in
+                    case you were wondering).
+
+
+Skill settings
+--------------
+
+skill is from 0 to 200 (default 100 is the hardest noncheating skill).
+Note: Once a Frogbot is spawned it retains its initial individual
+skill level (the skill setting when it was spawned) even if you change
+the skill variable at the console later. To change the skill of the
+Frogbots you should remove them from the game.
+Note: By spawning a few Frogbots, then changing the skill variable,
+then spawning a few more Frogbots, you can have different skill
+Frogbots in the same game.
+Above skill 100 the Frogbots will cheat with their aim by not shooting
+at the crosshair. I recommend skill 100 if you are having fun with
+that.
+
+
+Gameplay commands
+-----------------
+
+powerup           - toggles powerups on and off.
+
+rune              - allow/disallow runes.
+
+hook              - allow/disallow hook for clients (Frogbots don't
+                    use it currently).
+
+use_hook          - use the hook if it is allowed (bind this to a
+                    convenient key).
+
+custom            - toggle use of CTF custom sounds and models (you
+                    need to copy the Threewave Capture Pak0.pak and
+                    Pak1.pak files into the frogbot directory for
+                    this to work). Note: CTF is not currently
+                    supported.
+
+match             - toggle countdown match mode.
+
+ready             - start 15 second timer (in match mode).
+
+rl_pref           - toggle Frogbots' preference of rocket launcher
+                    over the shaft.
+
+
+Physics altering commands
+-------------------------
+
+slide             - Toggles wall sliding friction ON/OFF (this command
+                    should be a MUST for Quakeworld fans - the
+                    Quakeworld setting is to ENABLE this command).
+
+rune_rj           - if runes are allowed and rune_rj is set then
+                    self-inflicted splash damage/momentum (eg. for a
+                    rocket jump) is the same as for normal Quake.
+
+lavacheat         - Toggles whether the Frogbots will cheat in their
+                    avoidance of lava and cliffs.
+
+
+User commands
+-------------
+
+frogbot           - Toggle the internal frogbot AI taking control of
+                    your controls. Sit back and enjoy the smooth ride.
+
+kascam            - Toggle kascam camera. This camera uses the
+                    Kascam 'engine' but I have modified its interface.
+                    Use fire button to change between the observer,
+                    kascam, and kascam follow modes. Use jump to move
+                    up in observer mode, and change target in the
+                    other modes. impulse 1 toggles auto/lock target.
+                    The observer mode is a modification of the CTF
+                    observer mode.
+
+time              - prints time (useful in match mode for the correct
+                    time).
+
+
+Miscellaneous commands
+----------------------
+
+samelevel         - stores the above commands' configuration (you
+                    could set it in your autoexec.cfg after you find
+                    out what it is for a configuration - this number
+                    may change in future versions).
+
+framerate         - prints three framerate numbers on screen. For
+                    debug/testing purposes only.
+
+hide              - this toggles hiding many of the frogbot print
+                    messages so that things seem more like a real
+                    game (not recommended).
+
+rules             - prints the current game rules.
+
+noskins           - if enabled this will not allow people or bots to
+                    use skins.
+
+
+Supported maps
+--------------
+
+Currently supported maps: dm4, dm6.
+The commands map_dm4 and map_dm6 will remotely change the current map.
+
+
+Notes on computer requirements and dedicated servers
+----------------------------------------------------
+
+If you want to run a large game (say 8 or more players) then if you
+are not using a Pentium II you will need to run a dedicated server. I
+tested a dedicated server with 16 players (15 bots) first with a 66
+MHZ 486 and then with a 133 MHZ Pentium. You can forget about running
+a dedicated server with a 486, since I got only 10 fps with the 486.
+The dedicated Pentium server on the other hand had 35 fps using
+WinQuake and 40 fps (the maximum, set using sys_ticrat 0.025) using
+the MS_DOS prompt.
+
+
+About the mod
+-------------
+
+The Frogbot mod is a tribute to the excellent gameplay of multiplayer
+LAN Quake and my continuing attempt to create a bot that is believably
+human. I judge my efforts largely on the game product you play.
+
+The current AI of the Frogbot is what I would regard as a fairly
+minimal working model. I do intend to greatly improve it over time.
+Though it is true that QuakeC presents limitations of all sorts, by
+using a bit of ingenuity I have been able to push QuakeC to the
+limits.
+
+The first requirement of a 'human' bot, as opposed to a 'bot' bot, is
+fluent navigational skills. With the sacrifice of using static
+waypoints the Frogbot can achieve fluent navigation around a level,
+and moreover can actually be programmed in QuakeC (this is assuming
+todays relatively slow cpu speeds).
+
+The Frogbot is basically an exact client emulation bot.
+
+I have decided to make my so far incomplete efforts available to the
+Quake community so that other people can share in the enjoyment of
+playing the Frogbot.
+
+
+Copyright and Distribution Permissions
+--------------------------------------
+
+The modifications included in this archive are Copyright 1998, Robert
+Field. The original QuakeC source is Copyright 1996, id software.
+
+You may distribute this Quake modification in any electronic format as
+long as all the files in this archive remain intact and unmodified and
+are distributed together.
+
+
+Disclaimer
+----------
+
+Software under this agreement is under no kind of warranty. Software
+under this agreement is provided as is, and isn't guaranteed in any
+way by the mod author. Use this software at your own risk.
+
+
+Code Credits
+------------
+
+id softare for Quake and QuakeC.
+
+Alan 'Strider' Kivlin whose scoreboard code let me understand how to
+do the scoreboard for QuakeC bots (normal Quake and Quakeworld).
+Note: I extended this to support selectable bot names. I used some
+information from the unofficial DEM format description of Uwe Girlich
+to partially help do this.
+
+Mr Elusive for suggesting a better stair climbing method, and for
+suggesting Alan Kilvin's color bot method and thud removal method.
+
+Alan Kivlin for the part he played in the previous sentence.
+
+Simon Byrnand whose bot physics code gave me an idea to make the above
+stair climbing code more efficient (I was able to eliminate my call to
+droptofloor).
+
+Karel 'Kasuha' Suhajda for the KasCam DeathMatch Camera code.
+
+Dave 'Zoid' Kirsch for the CTF code.
+
+
+Compiler Credit
+---------------
+
+This mod was compiled with meqcc.exe, the 'undecompilable' QuakeC
+compiler written by Mr Elusive.
+
+
+Names Credit
+------------
+
+Timm Stokke for zap, yoda, frag-god, dragon, Superman, and dizzy.
+
+Mark 'Dethon' Petler for killingmachine, generalfailure, corpsegrind,
+and addicted2quake.
+
+
+Further Thanks
+--------------
+
+Mr Elusive for providing inspiration with his impressive Omicron bot.
+If you haven't played it then what are you waiting for!
+
+Timm Stokke for helping with the beta testing, for providing space
+on Metropolis and being a good promoter.

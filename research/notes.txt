@@ -143,6 +143,7 @@ Frogbot
 	https://web.archive.org/web/19980626082929/ftp://ftp.telefragged.com/pub/metro/frogbot009.zip
 	many versions
 		https://groups.google.com/g/fido7.ru.game.quake/c/P2YAtD9RQYc/m/eRJfv4QtTHEJ
+		https://web.archive.org/web/19991008150945/http://ftp.telepac.pt/pub/idgames2/telefragged/metro/
 	many versions
 		https://web.archive.org/web/20020214103406/http://www.botepidemic.com/fmods/ofiles.htm
 	interview

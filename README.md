@@ -114,7 +114,7 @@ Frogbot 2000 | Dennis de Boer aka "Justice" | [f2k006d.zip](bin/f2k006d.zip)<br>
 Frogbot BotMatch Arena | Alex aka "DmSouL" | [botmatch.zip](bin/botmatch.zip) <br>[source_of_bm.zip](bin/source_of_bm.zip)<br>bm119gl.zip<br>bm116se.zip
 Frogbot Deathmatch | Alexey Pakhomov aka "ParboiL" | [fbdm012.zip](bin/fbdm012.zip)<br>[fbdm07.zip](bin/fbdm07.zip)
 Frogbot Special Edition | Brian Mathiasen aka "Erazor" | fb013se.zip
-Frogbot | Robert Field aka "Frog" | [frogbot013.zip](bin/frogbot013.zip)<br>[frogfix1.zip](bin/frogfix1.zip)<br>fixedsrc.zip<br>frog_src.zip<br>fbph.zip<br>[frogbot012c.zip](bin/frogbot012c.zip)<br>frogbot012b.zip<br>frogbot012a.zip<br>frogbot012.zip<br>frogbot011b.zip<br>frogbot011.zip<br>frogbot010.zip<br>frogbot009.zip<br>frogbot008.zip<br>frogbot007.zip<br>frogbot006.zip<br>frogbot005.zip<br>frogbot004.zip<br>[frogbot003.zip](bin/frogbot003.zip)<br>frogbot002.zip<br>frogbot001.zip<br>frogbot000.zip<br>
+Frogbot | Robert Field aka "Frog" | [frogbot013.zip](bin/frogbot013.zip)<br>[frogfix1.zip](bin/frogfix1.zip)<br>fixedsrc.zip<br>frog_src.zip<br>fbph.zip<br>[frogbot012c.zip](bin/frogbot012c.zip)<br>frogbot012b.zip<br>frogbot012a.zip<br>frogbot012.zip<br>frogbot011b.zip<br>frogbot011.zip<br>frogbot010.zip<br>frogbot009.zip ([txt](bin/frogbot009.txt))<br>frogbot008.zip<br>frogbot007.zip<br>frogbot006.zip<br>frogbot005.zip<br>frogbot004.zip<br>[frogbot003.zip](bin/frogbot003.zip)<br>frogbot002.zip<br>frogbot001.zip<br>frogbot000.zip<br>
 Gideon Bot | Matthew Turvey | [gidbot.zip](bin/gidbot.zip) ([txt](bin/gidbot.txt))
 GlacierBot | Rainier Rapera aka "IceDagger" | [gb027b.zip](bin/gb027b.zip)
 GuardBot | Peter van Wingerden | [grdbot23.zip](bin/grdbot23.zip) ([txt](bin/grdbot23.txt))<br>grdbot13.zip<br>guardbot.zip
