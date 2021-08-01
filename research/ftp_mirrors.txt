@@ -54,6 +54,7 @@ ftp.telepac.pt/pub/idgames2/
 ftp://ftp.saix.net/pub/telefragged/metro/
 	https://web.archive.org/web/20030420124212/http://ftp.saix.net/
 	https://web.archive.org/web/20030607234702/http://ftp.saix.net/pub/telefragged/
+	https://web.archive.org/web/*/ftp.saix.net/*
 ftp://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/idgames2/
 	https://web.archive.org/web/19980109021452/http://sunsite.doc.ic.ac.uk/
 	https://web.archive.org/web/19980109023140/http://sunsite.doc.ic.ac.uk/Mirrors/
@@ -112,10 +113,73 @@ ftp.sci.fi/pub/idgames2/
 	nope
 flinux.tu-graz.ac.at/pub/idsoftware2/
 	https://web.archive.org/web/20010925155253/http://flinux.tu-graz.ac.at/
+	https://web.archive.org/web/19980206124247/http://flinux.tu-graz.ac.at/
+	https://web.archive.org/web/*/flinux.tu-graz.ac.at/*
 ftp.task.gda.pl/pub/games/idgames2/
+	https://web.archive.org/web/20210227155216/http://ftp.task.gda.pl/
+	https://web.archive.org/web/20010617204925/http://ftp.task.gda.pl/pub/
+	https://web.archive.org/web/19991004171450/http://ftp.task.gda.pl/pub/games/
+	https://web.archive.org/web/19990821043915/http://ftp.task.gda.pl/pub/games/quaketoys/
+	https://web.archive.org/web/20001219093100/http://ftp.task.gda.pl/pub/games/planetquake/
+	https://web.archive.org/web/19990821040048/http://ftp.task.gda.pl/pub/games/idgames2/
+	https://web.archive.org/web/*/ftp.task.gda.pl/*
 ftp.iis.com.br/pub/mirror/Quake/
+	https://web.archive.org/web/19991013143637/http://ftp.iis.com.br/
+	https://web.archive.org/web/20010107195800/http://ftp.iis.com.br/pub/
+	https://web.archive.org/web/20010527231252/http://ftp.iis.com.br/pub/quake/
+	https://web.archive.org/web/20010527231252/http://ftp.iis.com.br/pub/quake/
+	https://web.archive.org/web/20030918222404/http://ftp.iis.com.br/pub/mirror/Quake/
+	https://web.archive.org/web/*/ftp.iis.com.br/*
 ftp.powerup.com.au/pub/idgames2/
+	https://web.archive.org/web/19980110085333/http://ftp.powerup.com.au/
+	https://web.archive.org/web/*/ftp.powerup.com.au/*
 ftp.livewire.com.au/pub/idgames2/
+	https://web.archive.org/web/19980110081149/http://ftp.livewire.com.au/
+	https://web.archive.org/web/*/ftp.livewire.com.au/*
 mirror.aarnet.edu.au/pub/idgames2/
+	https://web.archive.org/web/19981205132240/http://mirror.aarnet.edu.au/
+	https://web.archive.org/web/19981206081623/http://mirror.aarnet.edu.au/indexgames.html
+	https://web.archive.org/web/19990210053817/http://mirror.aarnet.edu.au/games/idgames2/
+	https://web.archive.org/web/19990210053817/http://mirror.aarnet.edu.au/games/idgames2/newstuff/
+	https://web.archive.org/web/19981202010052/http://mirror.aarnet.edu.au/games/planetquake/
+	https://web.archive.org/web/19990221171905/http://mirror.aarnet.edu.au/games/planetquake/botshop/
+	https://web.archive.org/web/19990203111302/http://mirror.aarnet.edu.au/games/planetquake/minion/
+	https://web.archive.org/web/19990219094922/http://mirror.aarnet.edu.au/games/planetquake/ramshackle/
+	https://web.archive.org/web/19990221201021/http://mirror.aarnet.edu.au/games/planetquake/tfbot/
+	https://web.archive.org/web/19981206115013/http://mirror.aarnet.edu.au/pub/
+	https://web.archive.org/web/19990220112548/http://mirror.aarnet.edu.au/pub/idgames2/
+	https://web.archive.org/web/*/mirror.aarnet.edu.au/*
 ftp-new.labyrinth.net.au/pub/idgames2/
+	https://web.archive.org/web/20010201150200/http://ftp-new.labyrinth.net.au/
+	https://web.archive.org/web/*/ftp-new.labyrinth.net.au/*
 ftp://ftp.fu-berlin.de
+	https://web.archive.org/web/19981212014110/ftp://ftp.fu-berlin.de
+	https://web.archive.org/web/20200615141424/ftp://ftp.fu-berlin.de/pc/games/idgames2/
+	https://web.archive.org/web/*/ftp.fu-berlin.de/*
+ftp://ftp.bluesnews.com
+	https://web.archive.org/web/20001027075744/http://ftp.bluesnews.com/
+	nope, redirects to website
+ftp.elogica.com.br
+	https://web.archive.org/web/19961225214912/http://ftp.elogica.com.br/
+	https://web.archive.org/web/*/ftp.elogica.com.br/*
+ftp.pk.edu.pl
+	https://web.archive.org/web/19980210155043/http://ftp.pk.edu.pl/
+	https://web.archive.org/web/*/ftp.pk.edu.pl/*
+ftp.stomped.com
+	https://web.archive.org/web/19961229184826/http://ftp.stomped.com/
+	https://web.archive.org/web/*/ftp.stomped.com/*
+ftp://ftp.telefragged.com
+	https://web.archive.org/web/20001031022107/http://ftp.telefragged.com/
+	https://web.archive.org/web/*/ftp.telefragged.com/*
+ftp://numb.macquakeinfinity.com
+	https://web.archive.org/web/19991128221341/http://numb.macquakeinfinity.com/
+	https://web.archive.org/web/*/numb.macquakeinfinity.com/*
+ftp://quake.df.ru
+	https://web.archive.org/web/19971222144856/http://quake.df.ru/
+quake.mtu.ru
+	https://web.archive.org/web/19981111184319/http://www.quake.mtu.ru/
+	https://web.archive.org/web/19991008043448/http://quake.mtu.ru/files/quake.html
+	https://web.archive.org/web/*/quake.mtu.ru/*
+
+
+
