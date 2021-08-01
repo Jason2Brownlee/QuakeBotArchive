@@ -82,7 +82,17 @@ Jun 03 1997 | zeus205.zip | ZeusBot v2.05.
 Jun 03 1997 | zeus205s.zip | ZeusBot v2.05s.
 Dec 04 1997 | obots100.zip | Omicron Bot v1.00.
 Dec 15 1997 | obots101.zip | Omicron Bot v1.01.
+Mar 09 1998 | frogbot000.zip | Frogbot v0.00.
+Mar 23 1998 | frogbot003.zip | Frogbot v0.03.
 Mar 24 1998 | obots102.zip | Omicron Bot v1.02.
+Mar 29 1998 | frogbot005.zip | Frogbot v0.05.
+May 08 1998 | frogbot007.zip | Frogbot v0.07.
+May 18 1998 | frogbot009.zip | Frogbot v0.09.
+Jul 19 1998 | frogbot011b.zip | Frogbot v1.1b.
+Oct 17 1998 | frogbot012a.zip | Frogbot v1.2a.
+Oct 18 1998 | frogbot012c.zip | Frogbot v1.2b.
+Oct 23 1998 | frogbot012b.zip | Frogbot v1.2c.
+Apr 29 1999 | frogbot013.zip | Frogbot v1.3.
 
 
 If you can improve the accuracy of this history, please email Jason at jason.brownlee05@gmail.com

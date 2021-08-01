@@ -319,6 +319,11 @@ ftp.mirror.nl
 morpheus.posix.co.za
 mirrors.syringanetworks.net
 ftpmirror1.infania.net
+http://www.telefragged.com/mirrors
+	https://web.archive.org/web/20061114140545/http://www.telefragged.com/mirrors/
+
+
+
 
 
 
