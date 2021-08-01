@@ -312,31 +312,74 @@ ftp.questnet.net.au/pub/idgames2/
 	https://web.archive.org/web/19990218104216/http://mirror.aarnet.edu.au/idgames2/planetquake/
 	https://web.archive.org/web/*/ftp.questnet.net.au/*
 ftp.bf.rmit.edu.au/pub/quake/cdrom/
+	https://web.archive.org/web/19981212014106/http://ftp.bf.rmit.edu.au/
+	https://web.archive.org/web/*/ftp.bf.rmit.edu.au/*
 krunk3.xmission.com/planetquake/
-
-
+	https://web.archive.org/web/19981205055326/http://krunk3.xmission.com/
+	https://web.archive.org/web/*/krunk3.xmission.com/*
 ftp.orst.edu
+	https://web.archive.org/web/20020205020006/http://ftp.orst.edu/
+	https://web.archive.org/web/*/ftp.orst.edu/*
 nctuccca.edu.tw
+	https://web.archive.org/web/19961127092053/http://nctuccca.edu.tw/
+	https://web.archive.org/web/19970322090330/http://nctuccca.edu.tw:80/mirror/Simtel/games/idsoftware/quake
+	https://web.archive.org/web/19970321170302/http://nctuccca.edu.tw:80/OS/Linux/packages/Games/quake
+	https://web.archive.org/web/19970321194547/http://nctuccca.edu.tw:80/PC/games/ID-Software/idstuff/quake
+	https://web.archive.org/web/19970319081743/http://nctuccca.edu.tw:80/PC/games/QUAKE
+	https://web.archive.org/web/19970320021308/http://nctuccca.edu.tw/PC/games/QUAKE/quakec
+	https://web.archive.org/web/19970321201057/http://nctuccca.edu.tw/PC/games/QUAKE/quakec/bots
+	https://web.archive.org/web/19970320021229/http://nctuccca.edu.tw/PC/games/QUAKE/newstuff
 ftp.sun.ac.za
+	https://web.archive.org/web/19980110092632/http://ftp.sun.ac.za/
+	https://web.archive.org/web/*/ftp.sun.ac.za/*
 ftp.luth.se
+	https://web.archive.org/web/20000422213205/http://ftp.luth.se/
+	https://web.archive.org/web/*/ftp.luth.se/*
 ftp.dungeon.com
+	https://web.archive.org/web/20000116122456/http://ftp.dungeon.com/
+	https://web.archive.org/web/*/ftp.dungeon.com/*
 ftp.infomagic.com
+	https://web.archive.org/web/19980420213659/http://ftp.infomagic.com/
+	https://web.archive.org/web/*/ftp.infomagic.com/*
 ftp.uwp.edu
+	https://web.archive.org/web/20130823173455/http://ftp.uwp.edu/
+	https://web.archive.org/web/*/ftp.uwp.edu/*
 mirrors.aol.com
+	nothing
 ftp.calvacom.fr
+	https://web.archive.org/web/20001101133705/http://ftp.calvacom.fr/
+	nothing
 ftp.jussieu.fr
+	https://web.archive.org/web/19981203162729/http://ftp.jussieu.fr/
+	https://web.archive.org/web/*/ftp.jussieu.fr/*
 ftp.dstc.edu.au
+	https://web.archive.org/web/19980110071549/http://ftp.dstc.edu.au/
+	https://web.archive.org/web/*/ftp.dstc.edu.au/*
 ftp.linkline.be
+	https://web.archive.org/web/20020826163424/http://ftp.linkline.be/
+	https://web.archive.org/web/20020702175543/http://ftp.linkline.be:80/quake/
+	https://web.archive.org/web/*/ftp.linkline.be/*
 ftp.ais.net
+	nothing
 ftp.is.co.za
+	https://web.archive.org/web/19970412191022/http://ftp.is.co.za/
+	https://web.archive.org/web/*/ftp.is.co.za/*
 ftp.webcom.it
+	nothing
 ftp.mpc.com.br
+	nothing
 ftp.mirror.nl
+	https://web.archive.org/web/20010506000330/http://ftp.mirror.nl/
+	https://web.archive.org/web/*/ftp.mirror.nl/*
 morpheus.posix.co.za
+	https://web.archive.org/web/20010202124600/http://morpheus.posix.co.za/
+	https://web.archive.org/web/*/morpheus.posix.co.za/*
 mirrors.syringanetworks.net
+	https://web.archive.org/web/20120417100138/http://mirrors.syringanetworks.net/
+	https://web.archive.org/web/*/mirrors.syringanetworks.net/*
 ftpmirror1.infania.net
-http://www.telefragged.com/mirrors
-	https://web.archive.org/web/20061114140545/http://www.telefragged.com/mirrors/
+	https://web.archive.org/web/20210510033505/https://ftpmirror1.infania.net/
+
 
 
 

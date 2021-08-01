@@ -30,6 +30,7 @@ darkbt10.zip
 darkfrog.zip
 djbot1.zip
 dmbt20b2.zip
+dmbt20b3.zip
 dmbt21b1.zip
 dobbsbot15b.zip
 doombot.zip
