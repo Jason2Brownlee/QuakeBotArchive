@@ -55,6 +55,7 @@ cdrom.com
 	https://web.archive.org/web/19961221100314/http://www.cdrom.com/pub/idgames2/incoming/
 	https://web.archive.org/web/19961221100351/http://www.cdrom.com/pub/idgames2/newstuff/
 	https://web.archive.org/web/19961225222455/http://www.cdrom.com/pub/idgames2/quakec/bots/
+	https://web.archive.org/web/19970605145949/http://www.cdrom.com:80/pub/idgames2/planetquake/
 	https://web.archive.org/web/*/www.cdrom.com/*
 ftp.cdrom.com
 	https://web.archive.org/web/19980110064323/http://ftp.cdrom.com/
@@ -203,6 +204,7 @@ tux.telefragged.com
 ftp://ftp.warzone.com/pub/
 	nothing
 3darchives.in-span.net/pub/idgames2/
+	nothing
 ftp.planetmirror.com/pub/idgames2/
 	https://web.archive.org/web/20010201062600/http://ftp.planetmirror.com/
 	https://web.archive.org/web/20040920013054/http://public.ftp.planetmirror.com/pub/

@@ -90,7 +90,7 @@ FrikBot + MidAir + Kombat Teams | Alexey Pakhomov aka "ParboiL" | [fbma102.zip](
 FrikBot + PainKeep | Ryan Smith aka "Frika C" | fbxpk.zip<br>[frikpk.zip](bin/frikpk.zip)
 FrikBot + PerQuake | Ryan Smith aka "Frika C" | [frikper.zip](bin/frikper.zip)
 FrikBot + QuakeWorld | Ryan Smith aka "Frika C" | [frkqw01.zip](bin/frkqw01.zip)
-FrikBot + QW Vwep | Ryan Smith aka "Frika C" | [frikvwep.zip](bin/frikvwep.zip) <br>[frikqw03.zip](bin/frikqw03.zip)
+FrikBot + QW Vwep | Ryan Smith aka "Frika C" | [frikvwep.zip](bin/frikvwep.zip) <br>[frikqw03.zip](bin/frikqw03.zip)<br>[frikqw01.zip](bin/frikqw01.zip)
 FrikBot + Rhino's Ultimate Quake | Ryan Smith aka "Frika C" | [frikruq.zip](bin/frikruq.zip)
 FrikBot + Rocket Arena | Raymond Martineau | [frikra.zip](bin/frikra.zip)
 FrikBot + Scourge of Armagon | Ryan Smith aka "Frika C" | [frikmp01.zip](bin/frikmp01.zip)

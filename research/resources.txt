@@ -215,6 +215,7 @@ quakewiki
 	https://www.quakewiki.net/
 	https://www.quakewiki.net/quake-1/mods/
 	https://www.quakewiki.net/planetquake-archives/
+	https://www.quakewiki.net/archives/ramshackle/
 	https://www.quakewiki.net/archives/ramshackle/bots/bots.htm
 	https://www.quakewiki.net/archives/skorpion/
 	https://www.quakewiki.net/archives/botarea51
@@ -243,8 +244,11 @@ dukeworld
 	https://dukeworld.duke4.net/planetquake/emporium/
 	https://dukeworld.duke4.net/planetquake/minion/
 	https://dukeworld.duke4.net/planetquake/tfbot/
+	https://dukeworld.duke4.net/planetquake/ramshackle/
 lost mods
 	http://leileilol.mancubus.net/leiware/download.php?list.16
+quakeworld wiki
+	https://www.quakeworld.nu/wiki/Overview
 
 
 
