@@ -15,7 +15,7 @@ Tips, in case I forget how to find things over the years.
 - Usenet archives like google groups have tons of discussion of urls and filenames not in the google index. Also search of the archive is fickle and gives different results for slightly different search terms.
 - There are other archivist out there, make friends.
 - cdrom.com and friends kept mirrors of planetquake and telefragged ftps for some time. Exploring these dirs on archived mirrors of cdrom.com can be interesting.
-
+- The archived 00alltxt.tar.gz on ftp sites can be valuable.
 
 
 
