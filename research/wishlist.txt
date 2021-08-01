@@ -42,6 +42,9 @@ elimpack.zip
 f2k001a.zip
 fb013se.zip
 fbarena013.zip
+fbarena050.zip
+fbarena060.zip
+fbarena070.zip
 fbca084.zip
 fbca085.zip
 fbca086.zip
@@ -162,3 +165,4 @@ zeus20.zip
 zeus201.zip
 zeus202b.zip
 zeus2041.zip
+

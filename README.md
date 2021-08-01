@@ -109,7 +109,7 @@ Frogbot + CTF (FBCTF) | Gerard Ryan aka "numb" | [fbctf0532.zip](bin/fbctf0532.z
 Frogbot + Holy Wars | Gerard Ryan aka "numb and Paolo Perrotta aka "Nusco" | hw_frogbotf.zip<br>hw_frogbot14h.zip<br>hw_frogbot14f.zip<br>hw_frogbot14.zip<br>[hw_frogbot13.zip](bin/hw_frogbot13.zip)
 Frogbot + QuakeWorld | Rich Whitehouse aka "thefatal" | [qwsvfrog.zip](bin/qwsvfrog.zip)
 Frogbot + Rocket Arena | Alexey Pakhomov aka "ParboiL" | [fbra.zip](bin/fbra.zip)
-Frogbot + Rocket Arena | Brian Mathiasen aka "Erazor" | fbarena013.zip
+Frogbot + Rocket Arena | Brian Mathiasen aka "Erazor" | fbarena070.zip<>fbarena060.zip<br>fbarena050.zip<br>fbarena013.zip
 Frogbot 2000 | Dennis de Boer aka "Justice" | [f2k006d.zip](bin/f2k006d.zip)<br>[versie.zip](bin/versie.zip)<br>[f2k003c.zip](bin/f2k003c.zip)<br>f2k001a.zip<br>2000.zip
 Frogbot BotMatch Arena | Alex aka "DmSouL" | [botmatch.zip](bin/botmatch.zip) <br>[source_of_bm.zip](bin/source_of_bm.zip)<br>bm119gl.zip<br>bm116se.zip
 Frogbot Deathmatch | Alexey Pakhomov aka "ParboiL" | [fbdm012.zip](bin/fbdm012.zip)<br>[fbdm07.zip](bin/fbdm07.zip)
