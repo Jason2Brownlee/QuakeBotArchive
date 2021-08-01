@@ -40,6 +40,7 @@ elim10.zip
 elim13.zip
 elimpack.zip
 f2k001a.zip
+f2k005d.zip
 fb013se.zip
 fbarena013.zip
 fbarena050.zip
