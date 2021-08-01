@@ -113,7 +113,7 @@ ftp.sunet.se/pub/pc/games/idgames2/
 	https://web.archive.org/web/19970707042929/http://ftp.sunet.se/pub/pc/games/idgames2/
 	https://web.archive.org/web/19971017202339/http://ftp.sunet.se/pub/pc/games/idgames2/telefragged/
 	https://web.archive.org/web/19970707102409/http://ftp.sunet.se/pub/pc/games/idgames2/newstuff/
-	https://web.archive.org/web/19970615152340/http://ftp.sunet.se:80/pub/pc/games/idgames2/newstuff/
+	https://web.archive.org/web/19970615152257/http://ftp.sunet.se/pub/pc/games/idgames2/incoming/
 	https://web.archive.org/web/20001004204540/http://ftp.sunet.se/pub/pc/games/idgames2/quakec/bots/
 	https://web.archive.org/web/19990909143531/http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/botshop/
 	https://web.archive.org/web/19990218144530/http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/minion/
@@ -301,9 +301,19 @@ crydee.sai.msu.ru/ftproot/pub/rec/games/idgames/
 	https://web.archive.org/web/19981212013424/http://crydee.sai.msu.ru/
 	https://web.archive.org/web/*/crydee.sai.msu.ru/*
 ftp.lame.org/mirrors/quake_stuff/
+	https://web.archive.org/web/*/ftp.lame.org/*
 ftp.pnc.com.au/pub/idgames2/
+	nothing
 ftp.questnet.net.au/pub/idgames2/
+	https://web.archive.org/web/19981207022748/http://ftp.questnet.net.au/
+	https://web.archive.org/web/19981202042612/http://mirror.aarnet.edu.au/idgames2/
+	https://web.archive.org/web/19990218073028/http://mirror.aarnet.edu.au/idgames2/newstuff/
+	https://web.archive.org/web/19990218131300/http://mirror.aarnet.edu.au/idgames2/quakec/
+	https://web.archive.org/web/19990218104216/http://mirror.aarnet.edu.au/idgames2/planetquake/
+	https://web.archive.org/web/*/ftp.questnet.net.au/*
 ftp.bf.rmit.edu.au/pub/quake/cdrom/
+krunk3.xmission.com/planetquake/
+
 
 ftp.orst.edu
 nctuccca.edu.tw
