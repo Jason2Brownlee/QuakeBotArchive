@@ -18,6 +18,7 @@ telefragged directories
 	epidemic
 	inside3d
 	metro
+	mdqnet
 	swtc
 idgames2
 	incoming
@@ -25,6 +26,17 @@ idgames2
 	quakec
 	telefragged
 	planetquake
+
+
+
+lists of mirrors
+--------------------------------------------------------------------------------
+
+https://doomwiki.org/wiki/Idgames_archive
+https://web.archive.org/web/20011107162950/http://www.3dgamers.com/about/archives.html
+https://www.gamers.org/pub/idgames/levels/doom/s-u/telefrag.txt
+http://halflifezone.freeservers.com/mail.htm
+
 
 
 
@@ -44,6 +56,9 @@ cdrom.com
 	https://web.archive.org/web/19961221100351/http://www.cdrom.com/pub/idgames2/newstuff/
 	https://web.archive.org/web/19961225222455/http://www.cdrom.com/pub/idgames2/quakec/bots/
 	https://web.archive.org/web/*/www.cdrom.com/*
+ftp.cdrom.com
+	https://web.archive.org/web/19980110064323/http://ftp.cdrom.com/
+	https://web.archive.org/web/*/ftp.cdrom.com/*
 ftp.telepac.pt/pub/idgames2/
 	https://web.archive.org/web/19991008023652/http://ftp.telepac.pt/pub/idgames2/
 	https://web.archive.org/web/19991003081247/http://ftp.telepac.pt/pub/idgames2/quakec/bots/
@@ -152,7 +167,7 @@ mirror.aarnet.edu.au/pub/idgames2/
 ftp-new.labyrinth.net.au/pub/idgames2/
 	https://web.archive.org/web/20010201150200/http://ftp-new.labyrinth.net.au/
 	https://web.archive.org/web/*/ftp-new.labyrinth.net.au/*
-ftp://ftp.fu-berlin.de
+ftp.fu-berlin.de
 	https://web.archive.org/web/19981212014110/ftp://ftp.fu-berlin.de
 	https://web.archive.org/web/20200615141424/ftp://ftp.fu-berlin.de/pc/games/idgames2/
 	https://web.archive.org/web/*/ftp.fu-berlin.de/*
@@ -180,6 +195,130 @@ quake.mtu.ru
 	https://web.archive.org/web/19981111184319/http://www.quake.mtu.ru/
 	https://web.archive.org/web/19991008043448/http://quake.mtu.ru/files/quake.html
 	https://web.archive.org/web/*/quake.mtu.ru/*
+tux.telefragged.com
+	https://web.archive.org/web/19991013104453/http://tux.telefragged.com/
+	(just a lot of redirects to mirrors)
+	https://web.archive.org/web/*/tux.telefragged.com/*
+ftp://ftp.warzone.com/pub/
+	nothing
+3darchives.in-span.net/pub/idgames2/
+ftp.planetmirror.com/pub/idgames2/
+	https://web.archive.org/web/20010201062600/http://ftp.planetmirror.com/
+	https://web.archive.org/web/20040920013054/http://public.ftp.planetmirror.com/pub/
+	https://web.archive.org/web/20031229035530/http://public.ftp.planetmirror.com/pub/idgames2/
+	https://web.archive.org/web/20021231005700/http://public.planetmirror.com/pub/bluesnews/
+	https://web.archive.org/web/20040828103345/http://public.planetmirror.com/pub/bluesnews/quake/
+archives.3dgamers.com
+	nothing
+http://public.ftp.planetmirror.com/pub/
+	https://web.archive.org/web/20020925142841/http://public.ftp.planetmirror.com/
+	https://web.archive.org/web/20021117123201/http://public.planetmirror.com/pub/gameaholic/
+	https://web.archive.org/web/20021231005700/http://public.planetmirror.com/pub/bluesnews/
+	https://web.archive.org/web/20030511072832/http://public.planetmirror.com/pub/bluesnews/quake/
+	https://web.archive.org/web/20060825192037/http://public.ftp.planetmirror.com/pub/idgames2/?fl=i
+	https://web.archive.org/web/*/public.ftp.planetmirror.com/*
+ftp.cybersol.com.au/pub/mirrors
+	nothing
+ftp.gamezone.mweb.co.za/pub/mirrors
+	https://web.archive.org/web/20010402040606/http://ftp.gamezone.mweb.co.za/
+	https://web.archive.org/web/*/ftp.gamezone.mweb.co.za/*
+ftp.hidden.org/pub/mirrors/telefragged/
+	nothing
+ftp2.hidden.org/pub/mirrors/telefragged/be/
+	nothing
+ftp2.3ddownloads.com/pub/telefragged/
+	https://web.archive.org/web/20010417085708/http://ftp2.3ddownloads.com/
+	https://web.archive.org/web/*/ftp2.3ddownloads.com/*
+ftp.3ddownloads.com
+	https://web.archive.org/web/20010722095742/http://ftp.3ddownloads.com/
+	https://web.archive.org/web/*/ftp.3ddownloads.com/*
+pelit.saunalahti.fi/telenation/telefragged/be
+	https://web.archive.org/web/20001110072900/http://pelit.saunalahti.fi/
+	https://web.archive.org/web/20010124092400/http://pelit.saunalahti.fi/idgames2/
+	https://web.archive.org/web/*/pelit.saunalahti.fi/*
+ftp.mancubus.net/pub/idgames2/
+	https://web.archive.org/web/20060528020550/http://ftp.mancubus.net/
+	https://web.archive.org/web/20061017094130/http://ftp.mancubus.net/pub/games/
+	https://web.archive.org/web/20070829050724/http://ftp.mancubus.net/pub/games/idgames2/
+	https://web.archive.org/web/20070901215252/http://ftp.mancubus.net/pub/games/idgames2/quakec/
+	https://web.archive.org/web/20070901021130/http://ftp.mancubus.net/pub/games/idgames2/newstuff/
+	https://web.archive.org/web/20070828234936/http://ftp.mancubus.net/pub/games/quake/
+	https://web.archive.org/web/20070901020620/http://ftp.mancubus.net/pub/games/quake/quakec/
+	https://web.archive.org/web/20070831133510/http://ftp.mancubus.net/pub/games/quake/newstuff/
+	https://web.archive.org/web/20060831093632/http://ftp.mancubus.net/pub/idgames2/incoming/
+	https://web.archive.org/web/20060831093656/http://ftp.mancubus.net/pub/idgames2/newstuff/
+	https://web.archive.org/web/20060831093438/http://ftp.mancubus.net/pub/idgames2/quakec/
+	https://web.archive.org/web/20071011105959/http://ftp.mancubus.net/pub/idgames2/quakec/bots/
+ftp.chg.ru/pub/games/idgames2/
+	https://web.archive.org/web/19981205153559/http://ftp.chg.ru/
+	https://web.archive.org/web/20110215091436/http://ftp.chg.ru/pub/
+	https://web.archive.org/web/20090821125519/http://ftp.chg.ru/pub/games/
+	https://web.archive.org/web/20080928210840/http://ftp.chg.ru/pub/games/idgames2/
+	https://web.archive.org/web/20051126000324/http://ftp.chg.ru/pub/games/idgames2/newstuff/
+	https://web.archive.org/web/20051123093405/http://ftp.chg.ru/pub/games/idgames2/quakec/
+ftp.3dgamers.com
+	https://web.archive.org/web/19980110061629/http://ftp.3dgamers.com/
+	https://web.archive.org/web/*/ftp.3dgamers.com/*
+ftp2.3dgamers.com
+	notthing
+ftp.avault.com
+	https://web.archive.org/web/19981212014105/http://ftp.avault.com/
+	https://web.archive.org/web/*/ftp.avault.com/*
+ftp.won.net
+	https://web.archive.org/web/19981206222931/http://ftp.won.net/pub/
+	https://web.archive.org/web/*/ftp.won.net/*
+ftp.ntua.gr/pub/vendors/idgames/
+	https://web.archive.org/web/19981212014115/http://ftp.ntua.gr/
+	https://web.archive.org/web/20020830082702/http://ftp.ntua.gr/pub/
+	https://web.archive.org/web/20030911063331/http://ftp.ntua.gr/pub/vendors/idgames/
+	https://web.archive.org/web/*/ftp.ntua.gr/*
+youfailit.net/pub/idgames/
+	https://web.archive.org/web/20040405072741/youfailit.net
+	https://web.archive.org/web/20040607104544/http://youfailit.net/site/quake.html
+	https://web.archive.org/web/*/youfailit.net/*
+ftp.fdn.fr/games/idgames/
+	https://web.archive.org/web/19980110072807/http://ftp.fdn.fr/
+	https://web.archive.org/web/*/ftp.fdn.fr/*
+ftp.clinet.fi/pub/mirrors/archives.3dgamers.com/idgames/
+	https://web.archive.org/web/20020125080850/http://ftp.clinet.fi/
+	https://web.archive.org/web/20020313111448/http://ftp.clinet.fi/pub/games/
+	https://web.archive.org/web/*/ftp.clinet.fi/*
+ftp.netc.pt/pub/idgames/
+	https://web.archive.org/web/19991013065302/http://ftp.netc.pt/
+	https://web.archive.org/web/20010215092521/http://ftp.netc.pt/pub/
+	https://web.archive.org/web/20010602214317/http://ftp.netc.pt/pub/planetquake/
+	https://web.archive.org/web/20020718035803/http://ftp.netc.pt/pub/planetquake/botshop/
+	https://web.archive.org/web/20010722155813/http://ftp.netc.pt/pub/planetquake/skorpion/
+	https://web.archive.org/web/20010628025617/http://ftp.netc.pt/pub/planetquake/cronos/
+	https://web.archive.org/web/20010714065752/http://ftp.netc.pt/pub/planetquake/minion/
+	https://web.archive.org/web/20010723205342/http://ftp.netc.pt/pub/planetquake/tfbot/
+	https://web.archive.org/web/20010429080944/http://ftp.netc.pt/pub/idgames2/
+	https://web.archive.org/web/20010727134154/http://ftp.netc.pt/pub/idgames2/newstuff/
+	https://web.archive.org/web/20010727135930/http://ftp.netc.pt/pub/idgames2/quakec/
+	https://web.archive.org/web/*/ftp.netc.pt/*
+crydee.sai.msu.ru/ftproot/pub/rec/games/idgames/
+	https://web.archive.org/web/19981212013424/http://crydee.sai.msu.ru/
+	https://web.archive.org/web/*/crydee.sai.msu.ru/*
+ftp.orst.edu
+nctuccca.edu.tw
+ftp.sun.ac.za
+ftp.luth.se
+ftp.dungeon.com
+ftp.infomagic.com
+ftp.uwp.edu
+mirrors.aol.com
+ftp.calvacom.fr
+ftp.jussieu.fr
+ftp.dstc.edu.au
+ftp.linkline.be
+ftp.ais.net
+ftp.is.co.za
+ftp.webcom.it
+ftp.mpc.com.br
+ftp.mirror.nl
+morpheus.posix.co.za
+mirrors.syringanetworks.net
+ftpmirror1.infania.net
 
 
 
