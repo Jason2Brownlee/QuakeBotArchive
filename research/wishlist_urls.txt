@@ -22,10 +22,16 @@ ftp://ftp.saix.net/pub/telefragged/metro/frogbot009.zip
 ftp://ftp.saix.net/pub/telefragged/metro/frogbot011b.zip
 ftp://ftp.stomped.com/pub/quake/quakec/misc/cujo11.zip
 ftp://ftp.stomped.com/pub/redwood/bots/oak0855.zip
+ftp://ftp.sunet.se/pub/pc/games/idgames2/incoming/darkbt10.zip
+ftp://ftp.sunet.se/pub/pc/games/idgames2/incoming/dmbt20b3.zip
+ftp://ftp.sunet.se/pub/pc/games/idgames2/newstuff/dmbt20b2.zip
 ftp://ftp.task.gda.pl/pub/games/idgames2/planetquake/ramshackle/obots100.zip
 ftp://ftp.telefragged.com/pub/metro/frogbot005.zip
 ftp://ftp.telefragged.com/pub/metro/frogbot009.zip
 ftp://ftp.telefragged.com/pub/swtc/obots100.zip
+ftp://ftp.telepac.pt/pub/idgames2/telefragged/epidemic/frogbot012.zip
+ftp://ftp.telepac.pt/pub/idgames2/telefragged/epidemic/frogbot012a.zip
+ftp://ftp.telepac.pt/pub/idgames2/telefragged/epidemic/frogbot012b.zip
 ftp://ftp.telepac.pt/pub/idgames2/telefragged/metro/frogbot000.zip
 ftp://ftp.telepac.pt/pub/idgames2/telefragged/metro/frogbot005.zip
 ftp://ftp.telepac.pt/pub/idgames2/telefragged/metro/frogbot007.zip
@@ -168,3 +174,4 @@ http://xmark.ausgamers.com/xkteams/xkteams1705s.zip
 http://xmark.ausgamers.com/xkteams/xkteams2.zip
 https://www.angelfire.com/pe/pent3/images/frogbot011.zip
 https://www.bluesnews.com/files/patches/bots/oak084.zip
+

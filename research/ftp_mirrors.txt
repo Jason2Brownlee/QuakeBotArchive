@@ -65,6 +65,7 @@ ftp.telepac.pt/pub/idgames2/
 	https://web.archive.org/web/19991006012556/http://ftp.telepac.pt/pub/idgames2/telefragged/
 	https://web.archive.org/web/19991008051253/http://ftp.telepac.pt/pub/idgames2/telefragged/inside3d/
 	https://web.archive.org/web/19991008150945/http://ftp.telepac.pt/pub/idgames2/telefragged/metro/
+	https://web.archive.org/web/19991007054510/http://ftp.telepac.pt/pub/idgames2/telefragged/epidemic/
 	https://web.archive.org/web/*/ftp.telepac.pt/*
 ftp://ftp.saix.net/pub/telefragged/metro/
 	https://web.archive.org/web/20030420124212/http://ftp.saix.net/
@@ -299,6 +300,11 @@ ftp.netc.pt/pub/idgames/
 crydee.sai.msu.ru/ftproot/pub/rec/games/idgames/
 	https://web.archive.org/web/19981212013424/http://crydee.sai.msu.ru/
 	https://web.archive.org/web/*/crydee.sai.msu.ru/*
+ftp.lame.org/mirrors/quake_stuff/
+ftp.pnc.com.au/pub/idgames2/
+ftp.questnet.net.au/pub/idgames2/
+ftp.bf.rmit.edu.au/pub/quake/cdrom/
+
 ftp.orst.edu
 nctuccca.edu.tw
 ftp.sun.ac.za
