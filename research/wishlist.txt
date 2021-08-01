@@ -111,6 +111,13 @@ grdbot13.zip
 guardbot.zip
 hhbot.zip
 holomod.zip
+holyfbotmod05.zip
+holyfbotmod06.zip
+holyfbotmod07.zip
+holyfbotmod08.exe
+holyfbotmod09.exe
+holyfbotmod11.exe
+hw_frogbot.zip
 hw_frogbot14.zip
 hw_frogbot14f.zip
 hw_frogbot14h.zip
@@ -169,3 +176,4 @@ zeus20.zip
 zeus201.zip
 zeus202b.zip
 zeus2041.zip
+
