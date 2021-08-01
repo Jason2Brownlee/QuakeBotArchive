@@ -1,0 +1,71 @@
+Short:    Optimized Frogbot for quake
+Author:   Robert Field (frogbot) and Christian Michael (optimizations)
+Uploader: christian.michael@groenjord.dk
+Type:     game/patch
+
+Optional : game/data/frogmaps.lha   (all supported custom maps)
+           game/data/fastqprogs.lha (for extra speed)
+
+18/04-99
+
+Here you have it! The best quake dm-bot in existence, custom optimized by
+me (Christian "surgeon" Michael). The optimizations are largely the same as
+the quakeC modifications in qboost3.
+
+The original progs.dat files are in "original_progs.dat_files".
+These are included to avoid violating authors distribution guidelines.
+
+The maps supported in this release are:
+
+dm4
+
+dm6
+
+bless
+
+fribdev1(including the variations fribdev1_2 & fribdev1_3)
+
+rapture1
+
+ztndm1
+
+ztndm2
+
+ztndm3
+
+ztndm4
+
+ztndm5
+
+ztndm6
+
+
+I must stress that the only work I have done is
+to fps-optimize the source (68K friendly) and recompile with extra waypoints.
+Unfortunately I had to modify the source extensively, since it's written for
+a compiler called preqcc. Faqcc does not handle includes like preqcc,
+so I had to disable all of them and make sure, that only the parts relevant
+for normal quake was compiled. Enough about my effort.
+
+
+Credit must go to:
+
+
+Robert 'Frog' Field - creator of the Frogbot.
+
+
+and the waypoint authors:
+
+Brian 'EraZoR' Mathiasen
+Hylke 'Gibbie' Beck
+Jonathan 'Crunchy' Slark
+Matt 'Asdf' McChesney
+
+To install this modification, extract the archive to your quakedir.
+Start quake with the parameter -game frogbot -zone 1024
+
+
+
+Enjoy!
+
+surgeon

@@ -29,6 +29,7 @@ Omicron Bot
 		http://www.ritual.com/shack_files/quakec/obots100.zip
 		ftp://ftp.cdrom.com/pub/idgames2/planetquake/ramshackle/OBOTS100.ZIP
 		ftp://ftp.telefragged.com/pub/swtc/obots100.zip
+		https://web.archive.org/web/19990829162357/http://sunsite.org.uk/packages/idgames2/planetquake/ramshackle/
 	v1.01 Monday, December 15, 1997
 		https://www.bluesnews.com/archives/dec97-2.html
 		https://web.archive.org/web/19980614160658/http://planetquake.com/ramshackle/omidlf.htm
