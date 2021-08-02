@@ -93,6 +93,20 @@ Oct 17 1998 | frogbot012a.zip | Frogbot v1.2a.
 Oct 18 1998 | frogbot012c.zip | Frogbot v1.2b.
 Oct 23 1998 | frogbot012b.zip | Frogbot v1.2c.
 Apr 29 1999 | frogbot013.zip | Frogbot v1.3.
-
+??? ?? 1999 | frikbt01.zip | Frikbot v0.01.
+??? ?? 1999 | frikbt02.zip | Frikbot v0.02.
+??? ?? 1999 | frikbt03.zip | Frikbot v0.03.
+May 23 1999 | frikbt04.zip | Frikbot v0.04.
+Jun 07 1999 | frikbt05.zip | Frikbot v0.05.
+Jun 26 1999 | frikbt06.zip | Frikbot v0.06.
+Jul 28 1999 | frikbt07.zip | Frikbot v0.07.
+Sep 19 1999 | frikbt08.zip | Frikbot v0.08.
+Feb 22 2000 | frikbt09.zip | Frikbot v0.09.
+??? ?? 2000 | frikbt09a.zip | Frikbot v0.09a.
+May 16 2000 | frikbt09b.zip | Frikbot v0.09b.
+??? ?? 2001 | fbx.zip | Frikbot v0.10.
+Aug 06 2001* | fbxa.zip | Frikbot v0.10.1 (*estimated).
+Nov 22 2004* | fbxb.zip | Frikbot v0.10.1b (*estimated).
+May 19 2006 | fbxc.zip | Frikbot v0.10.2.
 
 If you can improve the accuracy of this history, please email Jason at jason.brownlee05@gmail.com
