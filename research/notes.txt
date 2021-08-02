@@ -837,12 +837,36 @@ FrikBot / FrikBotX / FBX
 		https://web.archive.org/web/20070219062937/http://www.qexpo.com/
 		https://web.archive.org/web/2004*/http://qexpo.com:80/booths/frikac/
 		https://web.archive.org/web/2006*/http://www.qexpo.com:80/frikac/fbxb.zip
+	http://qexpo.quakedev.com/
+		https://www.quaddicted.com/webarchive/qexpo2001.quakedev.com/
+	http://www.quakeexpo.com
+		https://www.quaddicted.com/webarchive/qexpo.tastyspleen.net/faq.php.html
+		http://qexpo2001.quakedev.com/booths/booth.php?n=9
+		http://qexpo2001.quakedev.com/qexpo/upload/11/fbxextra.zip
+		http://qexpo2001.quakedev.com/qexpo/upload/61/waypack1.zip
+		https://web.archive.org/details/http://qexpo2001.quakedev.com/
+		https://web.archive.org/web/20070717235413/http://qexpo2001.quakedev.com/booths/booth.php?n=9
+		http://qexpo2001.quakedev.com/qexpo/upload/11/fbx.zip
+		https://web.archive.org/web/20070717234752/http://qexpo2001.quakedev.com/qexpo/upload/61/waypack1.zip
+		https://web.archive.org/web/*/qexpo2001.quakedev.com/*
+	http://qexpo2005.quakedev.com/
+		https://web.archive.org/web/20060720074635/http://www.quakeexpo.com/
+		https://web.archive.org/web/20070925005229/http://www.quakeexpo.com/booth.php?id=99
 	homepage
 		http://www.frikac.com/?page_id=28
-	other versions?
+	missing versions?
 		v0.09a
 		v0.10
 		v0.10a
+	botarea51
+		http://www.planetquake.com/botarea51/main/qbot.asp?id=21
+		https://web.archive.org/web/20020817060206/http://www.planetquake.com/botarea51/main/qbot.asp?id=21
+		https://web.archive.org/web/20021115180557/http://www.planetquake.com:80/botarea51/main/qbot.asp?id=21
+		http://www.planetquake.com/botarea51/main/download.asp?name=fbxa.zip
+		http://www.planetquake.com/botarea51/main/download.asp?name=frikbt08.zip
+	other
+		https://web.archive.org/web/20100123221300/http://204.50.28.112/qexpo/upload/11/fbx.zip
+		https://www.quaddicted.com/webarchive/forums.insideqc.com/viewtopic.php%3Ff=1&t=5411.html
 	mirrors
 		http://www.insideqc.com/frikbot/
 			http://www.insideqc.com/frikbot/content.php?file=waypoints
@@ -850,13 +874,12 @@ FrikBot / FrikBotX / FBX
 		ftp
 			https://dukeworld.com/telefragged/inside3d/frikbot/
 			https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/inside3d/frikbot/
-	other
-		https://www.quakewiki.net/archives/botarea51/main/qbot6258.html?id=21
-		https://web.archive.org/web/20100123221300/http://204.50.28.112/qexpo/upload/11/fbx.zip
-		https://www.quaddicted.com/webarchive/forums.insideqc.com/viewtopic.php%3Ff=1&t=5411.html
+		botarea51
+			https://www.quakewiki.net/archives/botarea51/main/qbot6258.html?id=21
 	files
 		http://botarea51.impulse9.net/mirror/bot/frikbt08.zip
 		http://www.fileplanet.com/dl.aspx?/planetquake/botarea51/bot/frikbt08.zip
+		https://en.ds-servers.com/gf/quake/modifications/bots/frikbot-version-0-08.html
 		http://botarea51.impulse9.net/mirror/bot/fbxa.zip
 		http://www.fileplanet.com/dl.aspx?/planetquake/botarea51/bot/fbxa.zip
 		http://www.dr-shost.com/freqs/dosgam/fbxa.zip

@@ -89,7 +89,9 @@ fbctf053.zip
 fbma102_src.zip
 fbmod.zip
 fbph.zip
+fbx.zip
 fbxdoom.rar
+fbxextra.zip
 fbxpk.zip
 fbxrj2.zip
 fixedsrc.zip
@@ -176,6 +178,7 @@ vicinitymodels.zip
 vicinityqwprogs.zip
 vicinitysource.zip
 warbt13a.zip
+waypack1.zip
 waypoints_maker.rar
 wlbot1.9.zip
 xkteams1705.zip
