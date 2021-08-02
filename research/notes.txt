@@ -833,14 +833,8 @@ FrikBot / FrikBotX / FBX
 		https://web.archive.org/web/*/tlb.quakedev.com/*
 	http://quest.circa1984.com/frd/
 		no archive
-	http://www.qexpo.com/frikac/
-		https://web.archive.org/web/20070219062937/http://www.qexpo.com/
-		https://web.archive.org/web/2004*/http://qexpo.com:80/booths/frikac/
-		https://web.archive.org/web/2006*/http://www.qexpo.com:80/frikac/fbxb.zip
-	http://qexpo.quakedev.com/
-		https://www.quaddicted.com/webarchive/qexpo2001.quakedev.com/
-	http://www.quakeexpo.com
-		https://www.quaddicted.com/webarchive/qexpo.tastyspleen.net/faq.php.html
+	http://qexpo2001.quakedev.com
+		(2001)
 		http://qexpo2001.quakedev.com/booths/booth.php?n=9
 		http://qexpo2001.quakedev.com/qexpo/upload/11/fbxextra.zip
 		http://qexpo2001.quakedev.com/qexpo/upload/61/waypack1.zip
@@ -849,15 +843,13 @@ FrikBot / FrikBotX / FBX
 		http://qexpo2001.quakedev.com/qexpo/upload/11/fbx.zip
 		https://web.archive.org/web/20070717234752/http://qexpo2001.quakedev.com/qexpo/upload/61/waypack1.zip
 		https://web.archive.org/web/*/qexpo2001.quakedev.com/*
-	http://qexpo2005.quakedev.com/
-		https://web.archive.org/web/20060720074635/http://www.quakeexpo.com/
-		https://web.archive.org/web/20070925005229/http://www.quakeexpo.com/booth.php?id=99
+	http://www.qexpo.com/frikac/
+		(2003)
+		https://web.archive.org/web/20070219062937/http://www.qexpo.com/
+		https://web.archive.org/web/2004*/http://qexpo.com:80/booths/frikac/
+		https://web.archive.org/web/2006*/http://www.qexpo.com:80/frikac/fbxb.zip
 	homepage
 		http://www.frikac.com/?page_id=28
-	missing versions?
-		v0.09a
-		v0.10
-		v0.10a
 	botarea51
 		http://www.planetquake.com/botarea51/main/qbot.asp?id=21
 		https://web.archive.org/web/20020817060206/http://www.planetquake.com/botarea51/main/qbot.asp?id=21

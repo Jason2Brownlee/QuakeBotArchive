@@ -1,0 +1,49 @@
+Quake Expos
+---------
+
+https://quakewiki.org/wiki/Quake_Expo
+
+http://qexpo.quakedev.com/
+	redirect subdomain
+	https://web.archive.org/web/*/qexpo.quakedev.com/*
+
+
+2001
+http://qexpo2001.quakedev.com/
+	(fbx was released)
+	https://www.quaddicted.com/webarchive/qexpo2001.quakedev.com/
+	https://web.archive.org/web/20060821174513/http://qexpo2001.quakedev.com/
+	https://web.archive.org/web/*/qexpo2001.quakedev.com/*
+2003
+http://www.qexpo.com/
+	https://web.archive.org/web/20040210185619/http://qexpo.com/
+	https://web.archive.org/web/*/www.qexpo.com/*
+2005
+http://qexpo2005.quakedev.com/
+	https://www.quaddicted.com/webarchive/qexpo2005.quakedev.com/
+	https://web.archive.org/web/20060820191120/http://qexpo2005.quakedev.com/
+	https://web.archive.org/web/*/qexpo2005.quakedev.com/*
+2006
+http://www.quakeexpo.com
+	https://web.archive.org/web/20060720074635/http://www.quakeexpo.com/
+	https://web.archive.org/web/*/www.quakeexpo.com/*
+2008
+http://qexpo.tastyspleen.net
+	https://www.quaddicted.com/webarchive/qexpo.tastyspleen.net/
+	https://web.archive.org/web/20080828031446/http://qexpo.tastyspleen.net/
+	https://web.archive.org/web/*/qexpo.tastyspleen.net/*
+2011
+http://expo2011.quakewiki.net/
+	https://www.quaddicted.com/webarchive/expo2011.quakewiki.net/
+	https://web.archive.org/web/20110413070001/http://expo2011.quakewiki.net/
+	https://web.archive.org/web/20120609091714/http://expo2011.quakewiki.net/
+	https://web.archive.org/web/*/expo2011.quakewiki.net/*
+2016
+	https://qexpo2016.com/
+	https://web.archive.org/web/20160522094311/https://qexpo2016.com/
+	https://web.archive.org/web/20170807074855/https://qexpo2016.com/
+	https://web.archive.org/web/*/qexpo2016.com/*
+
+
+
+
