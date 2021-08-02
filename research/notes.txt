@@ -755,18 +755,6 @@ Frag Bot
 	https://www.quakewiki.net/archives/botarea51/main/history.html
 	https://www.quaddicted.com/files/idgames2/quakec/bots/fragbot.zip
 	Richard Peacock aka "The Goat"
-FrikBotX / FBX
-	https://web.archive.org/web/20000817070547/http://www.inside3d.com/frikbot/
-	https://www.quakewiki.net/archives/botarea51/main/qbot6258.html?id=21
-	https://web.archive.org/web/20021223155711/http://www.inside3d.com/frikbot/fbx/
-	https://web.archive.org/web/20100123221300/http://204.50.28.112/qexpo/upload/11/fbx.zip
-	http://www.dr-shost.com/freqs/dosgam/fbxa.zip
-	http://www.inside3d.com/frikbot/fbx/fbxb.zip
-	https://www.quaddicted.com/files/mods/fbxc.zip
-		https://www.quaddicted.com/webarchive/forums.insideqc.com/viewtopic.php%3Ff=1&t=5411.html
-	TODO: old versions:
-		https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/inside3d/frikbot/
-		https://dukeworld.com/telefragged/inside3d/frikbot/
 FrikBot X++ (FBX++)
 	https://steamcommunity.com/sharedfiles/filedetails/?id=123626484
 	https://neogeographica.com/site/pages/mods/fbxpp.html
@@ -783,19 +771,96 @@ FrikBot X+ (FBX+) fbx+
 	https://web.archive.org/web/20081228105009/http://tlb.quakedev.com/files/fbxways/variants/
 	http://quakeone.com/forum/quake-mod-releases/works-in-progress/5522-newdm-revival
 	???
-FrikBot
-	http://www.frikac.com/?page_id=28
+FrikBot / FrikBotX / FBX
 	http://rds.simplenet.com/frika/
-	http://www.mdqnet.net/dept187/
+		no archive
 	http://www.mdqnet.net/frikbot/
+	http://www.mdqnet.net/dept187/
+		not much in the archive
+		https://web.archive.org/web/20000226193121/http://www.mdqnet.net/
+		https://web.archive.org/web/20000118183214/http://www.mdqnet.net:80/dept187/frikbot.htm
 	http://www.inside3d.com/frikbot
-	https://web.archive.org/web/20010419123818/http://www.inside3d.com/frikbot/frikbot.shtml
+		https://web.archive.org/web/20001101000000*/http://www.inside3d.com/frikbot
+		https://web.archive.org/web/20000817070547/http://www.inside3d.com/frikbot/
+			frkbt09b.zip
+			frikbt08.zip
+			frikway1.zip
+		https://web.archive.org/web/20010418101433/http://www.inside3d.com/frikbot/
+		https://web.archive.org/web/20010419123818/http://www.inside3d.com/frikbot/frikbot.shtml
+		https://web.archive.org/web/20010816084952/http://inside3d.com/frikbot/
+		https://web.archive.org/web/20050403151641/http://www.inside3d.com/frikbot/
+		https://web.archive.org/web/20060612234245/http://www.inside3d.com/frikbot/
+		https://web.archive.org/web/20120820120602/http://www.inside3d.com/frikbot/
+	Files
+		https://web.archive.org/web/*/www.inside3d.com/*
+		https://web.archive.org/web/*/http://www.inside3d.com:80/frikbot/fbx/fbxb.zip
+		https://web.archive.org/web/2006*/http://www.inside3d.com:80/frikbot/dreamcast/fbxdc.zip
+		https://web.archive.org/web/2014*/http://www.inside3d.com/frikbot/fbxdc.zip
+		https://web.archive.org/web/*/http://www.inside3d.com/frikbot/fbx/monsterFBXways.zip
+		https://web.archive.org/web/2001*/http://www.inside3d.com:80/frikbot/fbxdem.zip
+	http://www.inside3d.com/frikbot/fbx/
+		https://web.archive.org/web/20020517170604/http://www.inside3d.com/frikbot/fbx/
+			FrikBot X 0.10.1 (Revision A)
+			http://www.3ddownloads.com/?file_id=150731
+			http://www.ozdominion.com/electro/mirror/fbxa.zip
+			http://www.fileplanet.com/dl/dl.asp?/planetquake/gzone/fbxa.zip
+		https://web.archive.org/web/20050211232820/http://www.inside3d.com/frikbot/fbx/
+			FrikBot X 0.10.2 (Revision B)
+			http://www.inside3d.com/frikbot/fbx/fbxb.zip
+			http://www.qexpo.com/frikac/fbxb.zip
 	http://www.botepidemic.com/frikbot/
-	https://web.archive.org/web/20020206051441/http://www.botepidemic.com/frikbot/
-	http://www.insideqc.com/frikbot/fbx/
-	http://www.inside3d.com/frikbot/fbx/fbxb.zip
+		https://web.archive.org/web/20010721020945/http://www.botepidemic.com/frikbot/
+		https://web.archive.org/web/20010605080300/http://www.inside3d.com/frikbot/fbxdem.zip
+		https://web.archive.org/web/20010716003350/http://www.3ddownloads.com/?file_id=144868
+			fbxrj2.zip
+		https://web.archive.org/web/20011214084133/http://www.botepidemic.com/frikbot/
+		https://web.archive.org/web/*/www.botepidemic.com/*
+	http://www.botepidemic.com/fwd/
+		https://web.archive.org/web/20010708003459/http://www.botepidemic.com/fwd/
+		https://web.archive.org/web/20010708001546/http://www.botepidemic.com/fwd/downloads.shtml
+	http://www.planetquake.com/5thD/
+		https://web.archive.org/web/19981202024456/http://www.planetquake.com/5thd/
+	http://quake.errorabove.com/
+		https://web.archive.org/web/20060613094016/http://quake.errorabove.com/
+		https://web.archive.org/web/2006*/http://quake.errorabove.com:80/QuakeC/Bots/fbxc.zip
+		https://web.archive.org/web/2006*/http://quake.errorabove.com:80/QuakeC/Bots/fbxc.txt
+		https://web.archive.org/web/*/quake.errorabove.com/*
+	http://tlb.quakedev.com/files/fbxways/
+		https://web.archive.org/web/20070824072433/http://tlb.quakedev.com/files/fbxways/
+		https://web.archive.org/web/20070824072433/http://tlb.quakedev.com/files/fbxways/omega.zip
+		https://web.archive.org/web/20070826211044/http://tlb.quakedev.com/files/fbxways/main/
+		https://web.archive.org/web/20070826210916/http://tlb.quakedev.com/files/fbxways/variants/
+		https://web.archive.org/web/*/tlb.quakedev.com/*
+	http://quest.circa1984.com/frd/
+		no archive
 	http://www.qexpo.com/frikac/
-	https://dukeworld.com/telefragged/inside3d/frikbot/
+		https://web.archive.org/web/20070219062937/http://www.qexpo.com/
+		https://web.archive.org/web/2004*/http://qexpo.com:80/booths/frikac/
+		https://web.archive.org/web/2006*/http://www.qexpo.com:80/frikac/fbxb.zip
+	homepage
+		http://www.frikac.com/?page_id=28
+	other versions?
+		v0.09a
+		v0.10
+		v0.10a
+	mirrors
+		http://www.insideqc.com/frikbot/
+			http://www.insideqc.com/frikbot/content.php?file=waypoints
+			http://www.insideqc.com/frikbot/fbx/
+		ftp
+			https://dukeworld.com/telefragged/inside3d/frikbot/
+			https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/inside3d/frikbot/
+	other
+		https://www.quakewiki.net/archives/botarea51/main/qbot6258.html?id=21
+		https://web.archive.org/web/20100123221300/http://204.50.28.112/qexpo/upload/11/fbx.zip
+		https://www.quaddicted.com/webarchive/forums.insideqc.com/viewtopic.php%3Ff=1&t=5411.html
+	files
+		http://botarea51.impulse9.net/mirror/bot/frikbt08.zip
+		http://www.fileplanet.com/dl.aspx?/planetquake/botarea51/bot/frikbt08.zip
+		http://botarea51.impulse9.net/mirror/bot/fbxa.zip
+		http://www.fileplanet.com/dl.aspx?/planetquake/botarea51/bot/fbxa.zip
+		http://www.dr-shost.com/freqs/dosgam/fbxa.zip
+		https://www.quaddicted.com/files/mods/fbxc.zip
 CTF Bot
 	https://web.archive.org/web/20000831165233/http://planetquake.com/botshop/quake.html
 	https://web.archive.org/web/19990218040426/http://www.planetquake.com/qca/reviews/patch66.htm
