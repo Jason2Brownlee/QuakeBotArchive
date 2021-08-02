@@ -249,7 +249,15 @@ lost mods
 	http://leileilol.mancubus.net/leiware/download.php?list.16
 quakeworld wiki
 	https://www.quakeworld.nu/wiki/Overview
-
+community archives (new cdrom.com)
+	https://rarefiles.tripod.com/cdromcom.htm
+	https://www.gamers.org/ftp/idgames_info.html
+	https://www.gamers.org/ftp/archives.html
+	mirrors:
+		ftp://archives.gamers.org/pub/idgames2/
+		ftp://ftp.fu-berlin.de/pc/games/idgames2/
+		https://www.quaddicted.com/files/idgames2/
+		https://ftpmirror1.infania.net/pub/idgames2/
 
 
 
