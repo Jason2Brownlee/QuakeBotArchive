@@ -91,6 +91,7 @@ fbmod.zip
 fbph.zip
 fbxdoom.rar
 fbxpk.zip
+fbxrj2.zip
 fixedsrc.zip
 frik-tf.zip
 frikbt01.zip
@@ -99,6 +100,7 @@ frikbt03.zip
 friktf-051901.zip
 friktf-092800-qw.zip
 friktf-092800.tar.gz
+frkbt09a.zip
 frog_src.zip
 frogbot.rar
 frogbot000.zip

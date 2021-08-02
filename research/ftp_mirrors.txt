@@ -7,12 +7,14 @@ directories
 --------------------------------------------------------------------------------
 
 planetquake directories
+	botarea51
 	botshop
 	skorpion
 	cronos
 	minion
 	ramshackle
 	tfbot
+	ctfbot
 telefragged directories
 	be
 	epidemic
