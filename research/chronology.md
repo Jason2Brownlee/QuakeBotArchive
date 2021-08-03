@@ -104,7 +104,7 @@ Sep 19 1999 | frikbt08.zip | Frikbot v0.08.
 Feb 22 2000 | frikbt09.zip | Frikbot v0.09.
 ??? ?? 2000 | frikbt09a.zip | Frikbot v0.09a.
 May 16 2000 | frikbt09b.zip | Frikbot v0.09b.
-??? ?? 2001 | fbx.zip | Frikbot v0.10.
+Jul 27 2001 | fbx.zip | Frikbot v0.10.
 Aug 06 2001* | fbxa.zip | Frikbot v0.10.1 (*estimated).
 Nov 22 2004* | fbxb.zip | Frikbot v0.10.1b (*estimated).
 May 19 2006 | fbxc.zip | Frikbot v0.10.2.
