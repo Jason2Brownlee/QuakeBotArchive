@@ -771,7 +771,7 @@ FrikBot X+ (FBX+) fbx+
 	https://web.archive.org/web/20081228105009/http://tlb.quakedev.com/files/fbxways/variants/
 	http://quakeone.com/forum/quake-mod-releases/works-in-progress/5522-newdm-revival
 	???
-FrikBot / FrikBotX / FBX
+Frikbot / FrikBot / FrikBotX / FBX
 	http://rds.simplenet.com/frika/
 		no archive
 	http://www.mdqnet.net/frikbot/
