@@ -178,6 +178,7 @@ vicinitymodels.zip
 vicinityqwprogs.zip
 vicinitysource.zip
 warbt13a.zip
+wayboxedit20050813.zip
 waypack1.zip
 waypoints_maker.rar
 wlbot1.9.zip

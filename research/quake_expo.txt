@@ -81,6 +81,10 @@ http://qexpo2005.quakedev.com/
 	https://web.archive.org/web/*/qexpo2005.quakedev.com/*
 	Urre's booth
 		UrreBots
+		https://web.archive.org/web/20060319101143/http://qexpo.quakedev.com/booths.php?tag=urre&si=44&sk=q5eTivO2
+		https://web.archive.org/web/*/http://qexpo.quakedev.com:80/uploaded/6/urrebot20050820.zip
+		https://web.archive.org/web/20060319101143/http://qexpo.quakedev.com/uploaded/6/wayboxedit20050813.zip
+		https://web.archive.org/web/20060507200939/http://forums.inside3d.com/viewtopic.php?p=2016
 	frikac's booth
 		https://web.archive.org/web/20060822095529/http://qexpo.quakedev.com/booth.php?id=8
 		no bots
@@ -96,7 +100,7 @@ http://qexpo2005.quakedev.com/
 			https://web.archive.org/web/20070218100137/http://trinca.no.sapo.pt/ways/ways.htm
 			https://web.archive.org/web/20070218100137/http://trinca.no.sapo.pt/temp/qwprogs375.rar
 			https://web.archive.org/web/20070218100137/http://trinca.no.sapo.pt/temp/src375.rar
-
+			https://web.archive.org/web/*/trinca.no.sapo.pt/*
 2006
 http://www.quakeexpo.com
 	https://web.archive.org/web/20060720074635/http://www.quakeexpo.com/
