@@ -10,19 +10,93 @@ http://qexpo.quakedev.com/
 
 2001
 http://qexpo2001.quakedev.com/
+qexpo.condemned.com
 	(fbx was released)
 	https://www.quaddicted.com/webarchive/qexpo2001.quakedev.com/
 	https://web.archive.org/web/20060821174513/http://qexpo2001.quakedev.com/
-	https://web.archive.org/web/*/qexpo2001.quakedev.com/*
+		https://web.archive.org/web/*/qexpo2001.quakedev.com/*
+	frikac's booth
+		https://web.archive.org/web/20070717235413/http://qexpo2001.quakedev.com/booths/booth.php?n=9
+		fbx
+			http://qexpo2001.quakedev.com/qexpo/upload/11/fbx.zip
+			http://qexpo2001.quakedev.com/qexpo/upload/11/fbxextra.zip
+	quest's booth
+		https://web.archive.org/web/20070717234752/http://qexpo2001.quakedev.com/booths/booth.php?n=37
+		waypoints
+			http://qexpo2001.quakedev.com/qexpo/upload/61/waypack1.zip
+			http://204.50.28.112/qexpo/upload/61/waypack1.zip
+	zeo's booth
+		https://web.archive.org/web/20110415084859/http://qexpo2001.quakedev.com/booths/booth.php?n=3
+		square bot
+			http://qexpo2001.quakedev.com/qexpo/upload/5/square01a.zip
+	Electro's Booth
+		https://web.archive.org/web/20110415044117/http://qexpo2001.quakedev.com/booths/booth.php?n=21
+		bot arena
+			http://www.ozdominion.com/electro/files/q1a_07.zip
+			https://web.archive.org/web/*/http://www.ozdominion.com/electro/files/q1a_07.zip
+			https://web.archive.org/web/*/www.ozdominion.com/*
+		CTF Frikbots
 2003
 http://www.qexpo.com/
 	https://web.archive.org/web/20040210185619/http://qexpo.com/
 	https://web.archive.org/web/*/www.qexpo.com/*
+	coffee's booth
+		https://web.archive.org/web/20040213084431/http://www.qexpo.com/booths.php?id=20
+		Coffee's Team Fortress Bots
+			http://www.fileplanet.com/dl.aspx?/planetquake/minion/tf_bots07.zip
+			https://web.archive.org/web/20040213084431/http://www.planetquake.com/minion/readbots.txt
+		tutorials
+			https://web.archive.org/web/20040213084431/http://www.qexpo.com/uploaded/20/dodging.htm
+			https://web.archive.org/web/20040321102845/http://www.qexpo.com/uploaded/20/fatigue.htm
+		domination (has bots)
+			https://web.archive.org/web/20040213084431/http://www.qexpo.com/uploaded/20/dom.zip
+	electro's booth
+		https://web.archive.org/web/20040213091151/http://www.qexpo.com/booths.php?id=25
+		Pro-X (with bots)
+			https://web.archive.org/web/20040603123747/http://www.qexpo.com/uploaded/25/prox_10.zip
+			https://web.archive.org/web/20040603123747/http://www.qexpo.com/uploaded/25/readme.txt
+	frikac's booth
+		https://web.archive.org/web/20040512153338/http://www.qexpo.com/booths.php?id=2
+		no bots
+	wazat's booth
+		https://web.archive.org/web/20040422164143/http://www.qexpo.com/booths.php?id=45
+		few bot mods:
+			Jeht
+				https://web.archive.org/web/20040422164143/http://www.qexpo.com/uploaded/45/Jeht15.zip
+			BattleMech
+				https://web.archive.org/web/20040422164143/http://static.condemned.com/files/BattleMech.zip
+	CocoT Booth
+		https://web.archive.org/web/20040213143214/http://www.qexpo.com/booths.php?id=58
+		Quakability (has bots)
+			https://web.archive.org/web/20040213143214/http://www.fileplanet.com/dl.aspx?/planetquake/cocot/quakability.zip
+		ULTIMATE QUAD CAPTURE 1.3a + SOURCE from QExpo.com (has bots)
+			https://web.archive.org/web/20040213143214/http://www.qexpo.com/uploaded/58/uqc13a.zip
+	Speed fragging competition
+		frikbots
+		https://web.archive.org/web/20040213174738/http://www.qexpo.com/booths/events/
 2005
 http://qexpo2005.quakedev.com/
 	https://www.quaddicted.com/webarchive/qexpo2005.quakedev.com/
 	https://web.archive.org/web/20060820191120/http://qexpo2005.quakedev.com/
 	https://web.archive.org/web/*/qexpo2005.quakedev.com/*
+	Urre's booth
+		UrreBots
+	frikac's booth
+		https://web.archive.org/web/20060822095529/http://qexpo.quakedev.com/booth.php?id=8
+		no bots
+	monter's booth for fbx
+		https://web.archive.org/web/20060823232836/http://qexpo.quakedev.com/booth.php?id=99
+		fbx's waypoints
+	TF2003
+		has bots?
+	Trinca's waypoints for frogbot
+		https://web.archive.org/web/20070328210412/http://qexpo2005.quakedev.com/archive.php
+		https://web.archive.org/web/20070128224236/http://qexpo.quakedev.com/booth.php?id=24
+		here
+			https://web.archive.org/web/20070218100137/http://trinca.no.sapo.pt/ways/ways.htm
+			https://web.archive.org/web/20070218100137/http://trinca.no.sapo.pt/temp/qwprogs375.rar
+			https://web.archive.org/web/20070218100137/http://trinca.no.sapo.pt/temp/src375.rar
+
 2006
 http://www.quakeexpo.com
 	https://web.archive.org/web/20060720074635/http://www.quakeexpo.com/
