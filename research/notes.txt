@@ -843,6 +843,10 @@ Frikbot / FrikBot / FrikBotX / FBX
 		http://qexpo2001.quakedev.com/qexpo/upload/11/fbx.zip
 		https://web.archive.org/web/20070717234752/http://qexpo2001.quakedev.com/qexpo/upload/61/waypack1.zip
 		https://web.archive.org/web/*/qexpo2001.quakedev.com/*
+	expo mirror
+		https://www.quaddicted.com/webarchive/qexpo2001.quakedev.com/qexpo/upload/61/waypack1.zip
+		https://www.quaddicted.com/webarchive/qexpo2001.quakedev.com/qexpo/upload/11/fbxextra.zip
+		https://www.quaddicted.com/webarchive/qexpo2001.quakedev.com/qexpo/upload/11/fbx.zip
 	http://www.qexpo.com/frikac/
 		(2003)
 		https://web.archive.org/web/20070219062937/http://www.qexpo.com/
