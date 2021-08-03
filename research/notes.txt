@@ -1502,6 +1502,7 @@ UrreBot
 	http://qexpo.quakedev.com/booths.php?tag=urre
 		https://web.archive.org/web/20051225012450/http://qexpo.quakedev.com/booths.php?tag=urre
 		https://web.archive.org/web/20051225012450/http://qexpo.quakedev.com/uploaded/6/urrebot20050820.zip
+		https://web.archive.org/web/20060319101143/http://qexpo.quakedev.com/booths.php?tag=urre&si=44&sk=q5eTivO2
 	urrebot20050820.zip
 	http://urre.quakedev.com/
 		https://web.archive.org/web/20050205163711/http://urre.quakedev.com/
