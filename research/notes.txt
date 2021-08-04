@@ -1639,6 +1639,8 @@ Vari-Patch
 		https://groups.google.com/g/rec.games.computer.quake.announce/c/NjMephDtO-4/m/vPuDox6LWW4J
 		20/10/96, posted oct 29th
 		www.btinternet.com/~chris.r.millward
+	1.7
+		https://groups.google.com/g/rec.games.computer.quake.announce/c/Ph_XRvWWRXU/m/hjlFMuIqx7EJ
 	Vari-Patch 1.4
 		https://web.archive.org/web/19961121231508/http://www.stomped.com/files.quakec.html
 		https://web.archive.org/web/19961121231508/ftp://ftp.stomped.com/pub/quake/quakec/weapons/var14.zip

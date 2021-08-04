@@ -384,7 +384,8 @@ mirrors.syringanetworks.net
 ftpmirror1.infania.net
 	https://web.archive.org/web/20210510033505/https://ftpmirror1.infania.net/
 3dgamers6.filefront.com
-
+ter.ort.spb.ru
+	nothing
 
 
 

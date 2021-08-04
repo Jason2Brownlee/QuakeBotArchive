@@ -9,6 +9,7 @@ If so please email:  jason.brownlee05@gmail.com
 
 ftp://bluesnews.com/pub/bots/reaprb75.zip
 ftp://ftp.cdrom.com/pub/idgames2/planetquake/ramshackle/obots100.zip
+ftp://ftp.cdrom.com/pub/idgames2/planetquake/ramshackle/OBOTS100.ZIP
 ftp://ftp.cdrom.com/pub/idgames2/planetquake/tfbot/tfb-v07.zip
 ftp://ftp.cdrom.com/pub/idgames2/quakec/bots/rbot.zip
 ftp://ftp.cdrom.com/pub/idgames2/telefragged/epidemic/frogbot012a.zip
