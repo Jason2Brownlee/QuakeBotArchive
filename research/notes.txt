@@ -1842,9 +1842,13 @@ Decoyz
 	also in cdrom.com all .txt files from archive.org
 imbot
 	https://web.archive.org/web/19961221053200/http://www.gamesmania.com/english/quake/quakec.htm
+		https://web.archive.org/web/*/www.gamesmania.com/*
+		file was not captured
 	Automated helper Bot
 	http://www.gamesmania.com/common/quake/c-code/imbot1.zip
 	imbot1.zip
+	is this real?
+	???
 frogbot + kt
 	https://www.quakeworld.nu/forum/topic/7068/new-frogbots
 	(server side) not released?
