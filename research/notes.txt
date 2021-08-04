@@ -1138,6 +1138,9 @@ Holy Wars Frogbot / Holywars Frogbot
 	http://www.planetquake.com/holywars/
 	http://www.botepidemic.com/fmods/hw_frogbot14h.zip
 		newer version...
+	https://web.archive.org/web/19990218084816/http://numb.quakeintosh.com:80/users/gerrybabe/holywars/
+		http://numb.quakeintosh.com/users/gerrybabe/holywars/frog/hwqwbot.exe
+		http://numb.quakeintosh.com/users/gerrybabe/holywars/frog/hwqwbot.sit
 Frog Bot Clan Arena (FBCA)
 	https://steamcommunity.com/sharedfiles/filedetails/?id=123626484
 	https://web.archive.org/web/20000303070145/http://www.botepidemic.com/bots/quake.shtml
@@ -1859,6 +1862,11 @@ Bot Epidemic files
 	http://web.archive.org/web/20010803101723/http://www.3ddownloads.com/?directory=/telefragged/be/
 frikbot files
 	http://web.archive.org/web/20030703161548/http://www.3ddownloads.com/telefragged/inside3d/frikbot
+VARI-PATCH 1.9
+	has bots
+	https://groups.google.com/g/rec.games.computer.quake.announce/c/x2MBkybVa-w/m/brMvh-GGxDYJ
+
+
 
 OUT OF SCOPE
 --------------------------------------------------------------------------------

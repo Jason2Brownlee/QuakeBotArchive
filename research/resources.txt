@@ -16,6 +16,12 @@ botepidemic / bot epidemic
 		https://web.archive.org/web/20000515000000*/http://www.botepidemic.com/bots/quake.shtml
 		https://web.archive.org/web/*/www.botepidemic.com/*
 			(all files, filter by .zip)
+		last capture feb 2002
+		offline by 2003... more likely late 2002
+		files made it to 3ddownloads
+			http://web.archive.org/web/20010803101723/http://www.3ddownloads.com/?directory=/telefragged/be/
+		3ddownloads -> atomic gamer in late 2007
+		files did not make it to atomicgamer...
 	zeo -> zeee0
 		http://www.forums.bots-united.com/showthread.php?t=5732
 	http://botepidemic.impulse9.net
@@ -100,11 +106,13 @@ Telefragged Mirrors
 bots united
 	http://bots-united.com/
 3ddownloads/atomicgamer archives
+	3ddownloads -> atomicgamer in late 2007
 	https://doomwiki.org/wiki/User:Shambler/3ddownloads_archive
 	https://archive.org/details/atomicgamer
 	https://archive.org/search.php?query=AtomicGamer
 	https://wiki.archiveteam.org/index.php?title=Atomicgamer
 	https://www.celephais.net/board/view_thread.php?id=60873&start=236&end=260
+	https://www.quaddicted.com/forum/viewtopic.php?id=17
 slipgate central bot
 	https://web.archive.org/web/19971210230311/http://www.slipgatecentral.com/Addons/Bots/
 gameaholic.com

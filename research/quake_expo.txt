@@ -74,7 +74,7 @@ http://www.qexpo.com/
 	Speed fragging competition
 		frikbots
 		https://web.archive.org/web/20040213174738/http://www.qexpo.com/booths/events/
-2005
+2005 (mixed up with 2006)
 http://qexpo2005.quakedev.com/
 	https://www.quaddicted.com/webarchive/qexpo2005.quakedev.com/
 	https://web.archive.org/web/20060820191120/http://qexpo2005.quakedev.com/
@@ -92,24 +92,46 @@ http://qexpo2005.quakedev.com/
 		https://web.archive.org/web/20060823232836/http://qexpo.quakedev.com/booth.php?id=99
 		fbx's waypoints
 	TF2003
-		has bots?
+		https://web.archive.org/web/20060108104830/http://qexpo.quakedev.com/booths.php?tag=angel-death
+		Lemming Bots
+			https://web.archive.org/web/20060108104830/http://quake.morda.ru/tf2003/bots.rar
+			engine mod perhaps
 	Trinca's waypoints for frogbot
 		https://web.archive.org/web/20070328210412/http://qexpo2005.quakedev.com/archive.php
 		https://web.archive.org/web/20070128224236/http://qexpo.quakedev.com/booth.php?id=24
+		https://web.archive.org/web/20060109153005/http://qexpo.quakedev.com/booths.php?tag=trinca
 		here
 			https://web.archive.org/web/20070218100137/http://trinca.no.sapo.pt/ways/ways.htm
 			https://web.archive.org/web/20070218100137/http://trinca.no.sapo.pt/temp/qwprogs375.rar
 			https://web.archive.org/web/20070218100137/http://trinca.no.sapo.pt/temp/src375.rar
 			https://web.archive.org/web/*/trinca.no.sapo.pt/*
+		CocoT's / ultimate quad capture
+			https://web.archive.org/web/20051218040844/http://qexpo.quakedev.com/booths.php?tag=cocot
+			https://web.archive.org/web/20051218040844/http://www.planetquake.com/cocot
+really 2005
+	https://web.archive.org/web/20051219230330/http://qexpo.quakedev.com/booths.php
 2006
 http://www.quakeexpo.com
 	https://web.archive.org/web/20060720074635/http://www.quakeexpo.com/
 	https://web.archive.org/web/*/www.quakeexpo.com/*
+	Monster's booth
+		fbx waypoints
+		https://web.archive.org/web/20070925005229/http://www.quakeexpo.com/booth.php?id=99
+		???
+	FrikBot plugin for FTE QuakeWorld
+		https://web.archive.org/web/20070504110235/http://www.quakeexpo.com/booth.php?id=83
+http://qexpo.quakedev.com/
+	https://web.archive.org/web/20061231200231/http://qexpo.quakedev.com/
+	https://web.archive.org/web/20061229223136/http://qexpo.quakedev.com/booths.php
 2008
 http://qexpo.tastyspleen.net
 	https://www.quaddicted.com/webarchive/qexpo.tastyspleen.net/
 	https://web.archive.org/web/20080828031446/http://qexpo.tastyspleen.net/
 	https://web.archive.org/web/*/qexpo.tastyspleen.net/*
+	CocoT bots
+		https://www.quaddicted.com/webarchive/qexpo.tastyspleen.net/booth.php%3Fid=76.html
+	midair with bots
+		https://www.quaddicted.com/webarchive/qexpo.tastyspleen.net/booth.php%3Fid=160.html
 2011
 http://expo2011.quakewiki.net/
 	https://www.quaddicted.com/webarchive/expo2011.quakewiki.net/

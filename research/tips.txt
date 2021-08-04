@@ -17,7 +17,7 @@ Tips, in case I forget how to find things over the years.
 - cdrom.com and friends kept mirrors of planetquake and telefragged ftps for some time. Exploring these dirs on archived mirrors of cdrom.com can be interesting.
 - The archived 00alltxt.tar.gz on ftp sites can be valuable.
 - BBS created and distributed compilation CDs that provide a great time capsule for mods.
-
+- Many BBSs would post lists of filenames, dates and descriptions to usenet back in 1996 and 1997. These are very helpful for finding filenames to search for, e.g. versions/releases you may not even know about from other sources.
 
 
 
