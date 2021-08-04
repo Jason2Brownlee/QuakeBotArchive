@@ -746,6 +746,11 @@ Borg Bot
 	https://www.quakewiki.net/archives/botarea51/main/history.html
 	https://www.quaddicted.com/files/idgames2/quakec/bots/borg12.txt
 	https://www.quaddicted.com/files/idgames2/quakec/bots/borg12.zip
+	related?
+		https://web.archive.org/web/19990224085346/http://www.planetquake.com/qca/reviews/patch160.htm
+		https://web.archive.org/web/19990224085346/ftp://ftp.cdrom.com/pub/idgames2/planetquake/qca/borg.zip
+		prior version?
+		different authors?
 Bot Hunt
 	https://www.quakewiki.net/archives/botarea51/main/history.html
 	https://www.quaddicted.com/files/idgames2/quakec/bots/bthnt10.txt
@@ -773,6 +778,8 @@ FrikBot X+ (FBX+) fbx+
 	???
 Frikbot / FrikBot / FrikBotX / FBX
 	http://rds.simplenet.com/frika/
+		no archive
+	http://mdq.stomped.com/frikbot
 		no archive
 	http://www.mdqnet.net/frikbot/
 	http://www.mdqnet.net/dept187/
@@ -1621,6 +1628,24 @@ Lurkerz
 	https://www.dukeworld.com/idgames2/quakec/compilations/lrkrz_01.txt
 	https://www.dukeworld.com/idgames2/quakec/compilations/lrkrz_01.zip
 	extends dm bot
+Vari-Patch
+	coop and dm bots
+	Chris Millward
+	Based on tm bot and dm bot
+	VARI-PATCH 1.9
+		https://groups.google.com/g/rec.games.computer.quake.announce/c/x2MBkybVa-w/m/brMvh-GGxDYJ
+		3/11/96, posted nov 6th
+	VARI-PATCH V1.8
+		https://groups.google.com/g/rec.games.computer.quake.announce/c/NjMephDtO-4/m/vPuDox6LWW4J
+		20/10/96, posted oct 29th
+		www.btinternet.com/~chris.r.millward
+	Vari-Patch 1.4
+		https://web.archive.org/web/19961121231508/http://www.stomped.com/files.quakec.html
+		https://web.archive.org/web/19961121231508/ftp://ftp.stomped.com/pub/quake/quakec/weapons/var14.zip
+		10/11/96, Oct 11th I would guess
+		Contains 2 different bots and many, many weapon patches
+	www.btinternet.com/~chris.r.millward
+		https://web.archive.org/web/20010516012952/http://www.btinternet.com/~chris.r.millward/
 
 
 
@@ -1862,9 +1887,7 @@ Bot Epidemic files
 	http://web.archive.org/web/20010803101723/http://www.3ddownloads.com/?directory=/telefragged/be/
 frikbot files
 	http://web.archive.org/web/20030703161548/http://www.3ddownloads.com/telefragged/inside3d/frikbot
-VARI-PATCH 1.9
-	has bots
-	https://groups.google.com/g/rec.games.computer.quake.announce/c/x2MBkybVa-w/m/brMvh-GGxDYJ
+
 
 
 

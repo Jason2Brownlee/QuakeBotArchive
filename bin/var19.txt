@@ -1,0 +1,135 @@
+***********************
+VARI-PATCH V1.9
+***********************
+
+Source available on request
+Please feel free to FTP this (mentioning me)
+
+By Chris Millward 3/11/96
+
+Credit goes mostly to these super programmers:-
+
+Grappling Code - Mike <amic...@asu.alasu.edu>
+
+Bot Code (Most) - Micheal Polucha (TM bot)
+Tim Polucha (TM bot)
+Nathaniel Gorham (DM bot)
+Chris Weisdorf (ideas)
+det...@chrysalis.org
+
+Tractor Beam - Jonathan Avraham <proc...@hotmail.com>
+
+Flamer (Most) - <lo...@brodart.com>
+
+Many thanks to ID for this superb game.
+
+
+Please let me know of any bugs you find. The only one I can see at
+the moment which occurs very rarely is when you kill a bot and collect
+its backpack, you seem to get 3 weapons. How ?
+
+Trying to get bots frags to come up on main scores list ?
+
+Trying to get bots to be effected by lava and water ?
+
+Trying to add a new console command, so clients can request
+a list of weapons/impulses
+
+Also does anyone know how to add gibbable bodies, like in the dropdead
+patch.
+----------------------------------------------------------------------------
+-------------------------------------------
+
+UPDATE: Grappling Hook Added - Toggle weapon 1 or IMPULSE 21 or 'E'
+Walk around on ceilings and areas never seen, snipe from
+high up, or just hang on the roof and wait for an enemy to
+walk by.
+
+Bots now use the Homing Missile Launcher.
+Onscreen message informs all of missiles current target.
+
+Nuke Grenage added, collect 20 grenades / rockets, press
+'G' or 'IMPULSE 90' and BOOM (kills all in the area - huge area)
+
+Various death messages added
+
+Several bug fixes
+
+----------------------------------------------------------------------------
+----------------------------------------
+
+Combines:-
+
+Deathmatch Bots (max of 12 - depending on edicts)
+Comrade Bots (AI is a bit lame)
+Start with Shotguns, but dont let these guys
+get Homing Rocket Launchers or Armour, they are tough.
+when they kill you your frag will -1
+so you can keep track of score.
+Bots can jump
+Bots frags are displayed when they die
+
+
+Tractor Beam (Lightning gun changes mode)
+Pipebomb (weapon 6 toggles)
+Prox Mines (weapon 7 toggles)
+Ammo needed for prox mines & pipebombs - 5 grenades
+Texture for grenade can be changed (invisible mines!)
+Timed Grenades for normal launcher
+(type Temp1 x (x is time) at console)
+
+Nuke Grenades - Wipe out an entire team!
+
+Zombies on walls can be gibbed
+
+Electro Bomb (throw into water, 5 secs, fried enemies)
+
+Laser rifle (replaces shotgun)
+Tough weapon, but it eats shotgun ammo.
+When used in combination with Quad Damage
+fires tons of lasers.
+
+Lightbomb
+Throw this a room and watch'em run for the exit
+Blinds all in prox for 15 seconds, easy targets! (not bots)
+
+Extra Gibs
+Twice as much gore, Three times as much
+on Shamber & Fiend
+
+Power Axe
+Twice as strong as before, actually worth using
+when you have ammo!
+
+Sticky Homing Missiles
+Home in to enemy, sticks up arse, then blows up after approx 3 secs
+watch the smoke trails as they run! (COOL)
+
+Give a Backpack
+Face your team mate and press T (impulse 55)
+
+Foot steps for deathmatch
+
+Flame Thrower (weapon 5 toggles)
+NOTE: You have to have the Super Nail Rifle & Grenade Launcher
+(both these combine to give flame thrower)
+
+Uses rocket fuel, works on players, monsters
+but not bots (metal)
+
+If your on fire, jump into some water
+
+Grappling Hook (weapon 1 toggles / IMPULSE 21 or 'E')
+Aim at a wall or roof and hold down fire, the chain will pull you
+towards your target. Fire it at enemies and watch there insides go
+outside.
+
+*********************************************************
+IMPORTANT - COPY THESE FILES TO PLAY
+*********************************************************
+Make these directories...
+
+\QUAKE\VAR\SOUND
+\QUAKE\VAR\PROGS
+
+Article Unavailable

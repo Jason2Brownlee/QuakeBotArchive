@@ -48,7 +48,7 @@ Eternal Darkness
 	https://archive.org/details/cdrom-eternal-darkness
 	https://legendsworld.net/shooter/game/7131
 	has unzipped
-		tmbot1.zip dmbot1.zip
+		tmbot1 dmbot1
 Quake 'em
 	https://archive.org/details/cdrom-quake-em
 	https://legendsworld.net/shooter/game/1834

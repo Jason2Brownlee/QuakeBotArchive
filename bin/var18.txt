@@ -1,0 +1,123 @@
+***************
+VARI-PATCH V1.8
+***************
+
+Source available on request
+Please feel free to FTP this (mentioning me)
+
+By Chris Millward 20/10/96
+
+Many thanks to ID for this superb game.
+
+
+Update:Bots now use the Homing Missile Launcher
+
+Nuke Grenage added, collect 20 grenades / rockets, press
+'G' or 'IMPULSE 90' and BOOM (kills all in the area - huge area)
+
+------------------------------------------------------------------------
+
+Combines:-
+
+Deathmatch Bots (max of 12 - depending on mem)
+Comrade Bots (AI is not perfected yet)
+Start with Shotguns, but dont let these guys
+get Homing Rocket Launchers or Armour, they are tough.
+when they kill you your frag will -1
+so you can keep track of score.
+Bots can jump
+Bots frags are displayed when they die
+
+
+Tractor Beam (Lightning gun changes mode)
+Pipebomb (weapon 6 toggles)
+Prox Mines (weapon 7 toggles)
+Ammo needed for prox mines & pipebombs - 5 grenades
+Texture for grenade can be changed (invisible mines!)
+Timed Grenades for normal launcher
+(type Temp1 x (x is time) at console)
+
+Nuke Grenades - Wipe out an entire team!
+
+Zombies on walls can be gibbed
+
+Electro Bomb (throw into water, 5 secs, fried enemies)
+
+Laser rifle (replaces shotgun)
+Tough weapon, but it eats shotgun ammo.
+When used in combination with Quad Damage
+fires tons of lasers.
+
+Lightbomb
+Throw this a room and watch'em run for the exit
+Blinds all in prox for 15 seconds, easy targets! (not bots)
+
+Extra Gibs
+Twice as much gore, Three times as much
+on Shamber & Fiend
+
+Power Axe
+Twice as strong as before, actually worth using
+when you have ammo!
+
+Sticky Homing Missiles
+Home in to enemy, sticks up arse, then blows up after approx 3 secs
+watch the smoke trails as they run! (COOL)
+
+Give a Backpack
+Face your team mate and press T (impulse 55)
+
+Foot steps for deathmatch
+
+Flame Thrower (weapon 5 toggles)
+NOTE: You have to have the Super Nail Rifle & Grenade Launcher
+(both these combine to give flame thrower)
+
+Uses rocket fuel, works on players, monsters
+but not bots (metal)
+
+If your on fire, jump into some water
+
+************************************
+IMPORTANT - COPY THESE FILES TO PLAY
+************************************
+Make these directories...
+
+\QUAKE\VAR\SOUND
+\QUAKE\VAR\PROGS
+
+Then...
+
+Copy step.wav into the sound dir
+Copy sol.wav into the sound dir
+Copy bot.mdl into the progs dir
+
+Copy all remaining files into \QUAKE\VAR
+
+
+To play...
+
+type quake -game var
+
+
+Commands... (should allready be setup in the config.cfg in \QUAKE\VAR)
+
+Key
+IMPULSE 15 Toggle Lightning / Tractor Beam "L"
+IMPULSE 100 Spawn Bot(s) "N"
+IMPULSE 63 Detonate Pipebombs "M"
+IMPULSE 61 Change Bomb Texture + "P"
+IMPULSE 62 Change Bomb Texture - "O"
+IMPULSE 64 Gives Weapons 6 + 7
+IMPULSE 35 Throw Light Bomb "V"
+IMPULSE 20 Throw Electro Bomb "W"
+IMPULSE 55 Give Backpack "T"
+IMPULSE 90 Throw Nuke Grenade "G"
+
+ENJOY!
+
+
+E-Mail
+Chris.R....@BTINTERNET.COM
+
+HOME: www.btinternet.com/~chris.r.millward
