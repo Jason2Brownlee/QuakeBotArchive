@@ -2,7 +2,7 @@
 
 Estimated public release history for early Quake bots (circa 1996).
 
-Release dates were determined from the content of readme files, the timestamp of files in the archive and the FTP upload timestamp (where available). Additionally, release dates are corroborated with Usenet posts where possible. It is typical for the release date in the readme to be premature compared to file and FTP timestamps, in which case the latter is used.
+Release dates were determined from the content of readme files, the timestamp of files in the archive and the FTP upload timestamp (where available). Additionally, release dates are corroborated with Usenet posts where possible. It is typical for the release date in the readme to be premature compared to file and FTP timestamps, in which case the latter is used with an asterisk annotation.
 
 Date | Release | Comment
 --- | --- | ---
