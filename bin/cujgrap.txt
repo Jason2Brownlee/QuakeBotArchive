@@ -1,0 +1,163 @@
+
+Title    : Me and my dog Cujo 
+
+Filename : CUJGRAP.ZIP
+Version  : 1.0
+
+Date     : 11/11/96
+
+Author   :Xavier Javornicki 
+
+Email    : xavy@geocities.com
+
+Credits  : Jonathan E. Wright(for the making of cujo) 
+	   <nelno@interpath.com>
+	   His credits are:
+	      Micheal Polucha (TM Bot),
+              Tim Polucha (TM Bot), and
+              Nathaniel Gorham (DM Bot)
+           "Mike" (for the making of the morningstar)
+	   <amichael@asu.alasu.edu>
+
+
+I have decided to combine two of my favorite quake addons: Cujo1.2a and the
+grapple1.11. This makes for a great team, when in trouble you can just hang
+from the ceiling and let Cujo go wild. 
+
+
+You should have the following files in the followin directories:
+
+../
+source.zip
+cujgrap.txt
+cujo12a.txt
+cujonew.txt
+grapple.txt
+progs.dat
+progs/armor.mdl
+progs/bit.mdl
+progs/cujo.mdl
+progs/h_cujo.mdl
+progs/star.mdl
+progs/v_star.mdl
+sound/weapons/bounce2.wav
+sound/weapons/chain1.wav
+sound/weapons/chain2.wav
+sound/weapons/chain3.wav
+sound/weapons/gotcha.wav
+sound/weapons/thankyou.wav
+
+
+     Type of Mod  
+
+
+Quake C  : yes
+Sound    : yes
+MDL      : yes
+
+
+
+     Format of Quake C  
+
+
+unified diff  : no
+context diff  : no
+.qc files     : yes
+progs.dat     : yes
+
+
+     Description of the Modification  
+
+
+This mod creates a personal attack dog which will follow the
+player and attack his enemies, even drawing fire in the process.
+The dog will not attack zombies, since it cannot gib them.
+This bot is based on original dog code and some code from
+DM Bot 1.0.  The dog does not have any manual control functions
+like those bots do.  He's all auto or he's dead.
+The grapple is a simple to use weapon it has the damage of the axe
+with some range. However it has a unique ability, it can attach 
+itself to walls and ceilings and pull you to them. While hanging 
+you can even change weapons and attack your enemies.
+
+
+     How to use Modification  
+
+
+Impulse 100  Activates and Deactivates the dog
+
+Impulse 102  Tell Cujo to stay or follow.  When staying, Cujo will stand
+             where he is until he sights an enemy or he is told to follow.
+             If Cujo sights an enemy, he will automatically leave stay mode
+             and return to the player after killing all targets (if he can).
+             Thanks to NAME HERE for suggesting this!
+
+Impulse 103  This toggles your screen between the player's viewpoint and Cujo's
+             viewpoint.  This looks a bit odd at first, because Cujo's yaw
+             (turn) rate is very high (normally in 30 degree increments).  I
+             turned this down to 20 degrees and it looks pretty decent, but
+             it's still not as smooth as the player view.  When you use this
+             view, your player is still vulnerable, so don't get distracted
+             for too long.
+
+Impulse 104  Teleport the dog to your location.
+
+Impulse 105  Turns on Cujo's collar lamp.  Great for dark places.
+
+Impulse 106  Reports on Cujo's status.  If Cujo is not visible to the player
+             then his status cannot be determined.
+
+Impulse 107  Toggles Cujo between attack and non-attack modes.
+
+Impulse 21   Change to the grapple. You can also hit 1 to change to the axe
+	     and then again and it will chang to the grapple
+
+The grapple is easy to use. Hit the attack button and it extends. To 
+attach it to a wall or ceiling hold the attack button and it will pull
+you towards it, keep holding the attack button and you'll just hand there
+and can then change weapons and you won't fall until you change back to 
+the grapple and let go of the attack button.
+
+Bind these impulses to keys to make commanding Cujo and using the 
+grapple easy.  For example, to make the Q key activate and deactivate 
+Cujo put this line in your config.cfg file (or type it in the Quake 
+console):
+
+BIND Q "IMPULSE 100"
+
+Now, every time you press Q Cujo will be toggled between his active and
+inactive state.  You can bind the other two impulses in a similar manner.
+
+
+
+     How to Install the Modification  
+
+
+make a new directory and name it anything you like (I'll use the directory 
+cujgrap for this example) unzip this file to your cujgrap directory, then to
+play type:
+
+	QUAKE -GAME CUJGRAP
+
+and your done, go and gib something to feed your poor dog now, will you!
+
+
+Bugs:
+
+There are no bugs in this to my knowledge I have fixed those which I knew of,
+if you find any please e-mail me. If you notice a problem with either cujo1.2a
+or grapple1.11 please contact their respective programers.
+
+
+For completeness I have included the text files from both the cujo1.2a and 
+grapple1.11. I have renamed them to coincide with they're topics. I have
+also included the source code for cujgrap so that you can fix any bugs you 
+find yourself.
+
+     Disclaimer:
+Xavier Javornicki, or any of the persons mentioned in this document, are
+not resposible for any problems you may have either directly or indirectly
+related to this or any of the files mentioned in this document.
+
+You may distribute these files in any electronic medium as long as this file
+is distributed with it and remains unmodified and intact.

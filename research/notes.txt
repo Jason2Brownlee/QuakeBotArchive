@@ -1648,7 +1648,11 @@ Vari-Patch
 		Contains 2 different bots and many, many weapon patches
 	www.btinternet.com/~chris.r.millward
 		https://web.archive.org/web/20010516012952/http://www.btinternet.com/~chris.r.millward/
-
+cujgrap / Cujo and Grapple
+	extends cujo
+	https://www.dukeworld.com/idgames2/quakec/compilations/cujgrap.txt
+	https://www.dukeworld.com/idgames2/quakec/compilations/cujgrap.zip
+	https://www.quaddicted.com/files/idgames2/quakec/compilations/cujgrap.zip
 
 
 
@@ -1873,10 +1877,6 @@ Ultimate Quake Mod
 QCAP v2.0
 	all kinds of bots
 	https://web.archive.org/web/19980614160345/http://www.inside3d.com/nov28-nov29.shtml
-cujgrap
-	extends cujo
-	https://www.dukeworld.com/idgames2/quakec/compilations/cujgrap.txt
-	https://www.dukeworld.com/idgames2/quakec/compilations/cujgrap.zip
 killer90
 	adds cujo bots
 	https://www.dukeworld.com/idgames2/quakec/compilations/killer90.txt

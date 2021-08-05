@@ -23,6 +23,7 @@ Usenet Archives
 
 - quake newsgroups
 	https://www.quaddicted.com/files/idgames2/docs/faqs/Welcome.html
+	https://people.montefiore.uliege.be/quinet/games/quake-rfd.html
 - google groups
 	https://groups.google.com/
 	https://groups.google.com/my-groups
@@ -39,5 +40,11 @@ The r.g.c.Quake Usenet postings archive
 		subjects and dates
 		maps to filenames
 		all email addresses
-
+usenet archives
+	https://www.usenetarchives.com/
+	does not appear complete
+		https://www.usenetarchives.com/threads.php?id=rec.games.computer.quake.editing
+usenet archives
+	https://www.livinginternet.com/u/uu_arch.htm
+	blah
 
