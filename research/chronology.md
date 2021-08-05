@@ -59,7 +59,7 @@ Oct 10 1996 | swbot104.zip | Swimming bot v1.04.
 Oct 12 1996 | reaprb06.zip | ReaperBot v0.6.
 Oct 18 1996 | botskn18.zip | BotSkin v1.8.
 ??? ?? 1996 | cujo11.zip | CujoBot v1.1.
-??? ?? 1996 | cujo12.zip | CujoBot v1.2.
+Oct 20 1996 | cujo12.zip | CujoBot v1.2.
 Oct 20 1996 | cujo12a.zip | CujoBot v1.2a.
 Oct 24 1996 | reaprb07.zip | ReaperBot v0.7.
 Oct 27 1996 | botskn20.zip | BotSkin v2.0.

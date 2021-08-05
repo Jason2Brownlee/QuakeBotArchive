@@ -171,6 +171,7 @@ http://www.telefragged.com/mirrors/mirror.pl?epidemic/frogbot012a.zip
 http://www.telefragged.com/mirrors/mirror.pl?epidemic/frogbot012b.zip
 http://www.telefragged.com/mirrors/mirror.pl?epidemic/frogbot012b.zip
 http://www.telefragged.com/mirrors/mirror.pl?qnm/fbedit15.zip
+http://www.ugrad.cs.ubc.ca/spider/u6m1/QC/killer.zip
 http://www.users.bigpond.com/clanslug/ClanV0.5Auto.zip
 http://www.users.bigpond.com/clanslug/ClanV0.6Auto.zip
 http://www.users.bigpond.com/clanslug/ClanV0.7HMan.zip

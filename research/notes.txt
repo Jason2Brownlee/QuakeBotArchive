@@ -1703,6 +1703,8 @@ killer / killer quake pack / kqp
 	 	0.8, 0.85, 0.86, 0.86b, 0.87, 0.9, ..
 	 http://cd.textfiles.com/cream/cream23/doom/killer85.zip
 	 http://annex.retroarchive.org/cdrom/nightowl-023/022A/KILLER85.ZIP
+	 https://archives.fidobbs.net/pub/bbs/852/KILLER85.ZIP
+
 
 
 RESEARCHING...
