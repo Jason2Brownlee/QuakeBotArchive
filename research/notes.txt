@@ -1893,7 +1893,10 @@ Bot Epidemic files
 	http://web.archive.org/web/20010803101723/http://www.3ddownloads.com/?directory=/telefragged/be/
 frikbot files
 	http://web.archive.org/web/20030703161548/http://www.3ddownloads.com/telefragged/inside3d/frikbot
-
+Requiem
+	compilation mod, with bots
+	https://groups.google.com/g/rec.games.computer.quake.announce/c/YvUGOjRFVSQ/m/gnzrOsHyUWgJ
+	ftp://ftp.cdrom.com/pub/quake/newstuff/req.zip
 
 
 

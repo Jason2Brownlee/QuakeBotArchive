@@ -38,8 +38,9 @@ https://doomwiki.org/wiki/Idgames_archive
 https://web.archive.org/web/20011107162950/http://www.3dgamers.com/about/archives.html
 https://www.gamers.org/pub/idgames/levels/doom/s-u/telefrag.txt
 http://halflifezone.freeservers.com/mail.htm
+https://www.gamers.org/docs/FAQ/quakefaq/qfaq.html#1-10
 
-
+https://web.archive.org/web/19970605031059/http://www.gameaholic.com:80/deicide/download.cgi?/quakec/bots/rbot.zip
 
 
 ftp mirrors
@@ -383,9 +384,41 @@ mirrors.syringanetworks.net
 	https://web.archive.org/web/*/mirrors.syringanetworks.net/*
 ftpmirror1.infania.net
 	https://web.archive.org/web/20210510033505/https://ftpmirror1.infania.net/
-3dgamers6.filefront.com
 ter.ort.spb.ru
 	nothing
+
+
+
+
+todo
+-----
+quake.best.com/mirrors/idsoftware/
+ftp.gamesdomain.com/pub/companies/id/quake/
+ftp.cssweb.com/pub/games/idstuff/quake/
+sparky.bright.net/quake/
+www.pht.com/pub/gamehead/id/
+ftp.technomancer.com/pub/idstuff/quake/
+ftp.feist.com/pub/pc/games/quake/
+ftp.ameritel.net/idsoftware/quake/
+ftp.getquake.com/pub/quake/
+quake.osiriscorp.com/pub/idstuff/quake/
+iclass.com/pub/quake/
+ftp.islandnet.com/mirrors/idsoftware/
+mirrors.aol.com/pub/pc_games/doom/idstuff/quake/
+
+3dgamers6.filefront.com
+hyperactive.com.au/pub/games/idstuff/quake/
+ftp.bnd.de/pub/quake/
+ftp.spel.postnet.se/pub/games/id/
+ftp.origo.telenor.no/pub/quake/
+ftp.volftp.vol.it/pub2/idstuff/quake/
+ftp.gig.nl/pub/idstuff/quake/
+rulhmpc49.LeidenUniv.nl/pub/mirrors/idsoft/
+camel.frtk-campus.mipt.ru/pub/idstuss/quake
+ftp.passagen.se/pub/idstuff/
+ftp.flexnet.net/pub/quake/
+idmirror.netvision.be/idstuff/quake/
+garfield.sch.bme.hu/pub/idstuff/quake/
 
 
 

@@ -117,8 +117,17 @@ slipgate central bot
 	https://web.archive.org/web/19971210230311/http://www.slipgatecentral.com/Addons/Bots/
 gameaholic.com
 		http://idgames.gameaholic.com/
+	https://web.archive.org/web/19970628184357/http://www.gameaholic.com:80/idgames/quakec/bots/
 	https://web.archive.org/web/19981203013532/http://www.gameaholic.com/addons/bots/
 	https://web.archive.org/web/19981205213832/http://idgames.gameaholic.com/
+	https://web.archive.org/web/20020321212019/http://idgames.gameaholic.com:80/idgames.d/quake/quakec/bots/?offset=14
+	https://web.archive.org/web/20020729014648/http://idgames.gameaholic.com:80/idgames.d/quake/quakec/bots/?offset=28
+	https://web.archive.org/web/20020321211657/http://idgames.gameaholic.com:80/idgames.d/quake/quakec/bots/eliminator/
+	https://web.archive.org/web/20020718184918/http://idgames.gameaholic.com:80/idgames.d/quake/quakec/bots/eliminator/?offset=14
+	https://web.archive.org/web/19991007100932/http://idgames.gameaholic.com:80/idgames/quakec/bots/
+	https://web.archive.org/web/19981201180505/http://idgames.gameaholic.com:80/idgames.d/quakec/bots/reaper/
+	https://web.archive.org/web/19970605031059/http://www.gameaholic.com:80/deicide/download.cgi?/quakec/bots/rbot.zip
+
 captured.com
 	http://www.captured.com/bot/
 	https://web.archive.org/web/19981202043059/http://www.captured.com/bot/
@@ -283,6 +292,8 @@ usenet
 ------
 
 alt.games.quake
+alt.binaries.games.quake
+
 rec.games.computer.quake.announce
 rec.games.computer.quake.editing
 rec.games.computer.quake.misc
@@ -290,7 +301,8 @@ rec.games.computer.quake.playing
 rec.games.computer.quake.quake-c
 rec.games.computer.quake.servers
 
-
+- quake newsgroups
+	https://www.quaddicted.com/files/idgames2/docs/faqs/Welcome.html
 - google groups
 	https://groups.google.com/
 	https://groups.google.com/my-groups
