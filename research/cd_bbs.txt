@@ -177,7 +177,11 @@ NightOwl #23
 		http://annex.retroarchive.org/cdrom/nightowl-023/022A/index.html
 		tons of mods
 		bots
-			BGBOT20A.ZIP DARKBT01.ZIP CUJGRAP.ZIP ELIM11.ZIP ELIM12.ZIP
+			BGBOT20A.ZIP
+			DARKBT01.ZIP
+			CUJGRAP.ZIP
+			ELIM11.ZIP
+			ELIM12.ZIP
 	addons
 		http://annex.retroarchive.org/cdrom/nightowl-023/019A/index.html
 		few maps

@@ -1,0 +1,43 @@
+Usenet
+--------------------------------------------------------------------------------
+
+Research of quake bots on usenet
+
+
+Groups
+--------------------------------------------------------------------------------
+
+alt.games.quake
+alt.binaries.games.quake
+
+rec.games.computer.quake.announce
+rec.games.computer.quake.editing
+rec.games.computer.quake.misc
+rec.games.computer.quake.playing
+rec.games.computer.quake.quake-c
+rec.games.computer.quake.servers
+
+
+Usenet Archives
+--------------------------------------------------------------------------------
+
+- quake newsgroups
+	https://www.quaddicted.com/files/idgames2/docs/faqs/Welcome.html
+- google groups
+	https://groups.google.com/
+	https://groups.google.com/my-groups
+	no binaries
+	terrible search...
+- internet archive
+	https://archive.org/browse.php?field=subject&mediatype=data&collection=usenet
+	https://archive.org/download/usenet-rec.games
+	https://archive.org/download/usenet-rec.games
+	2014... not useful
+The r.g.c.Quake Usenet postings archive
+	https://www.gamers.org/pub/archives/quake/
+	https://www.gamers.org/pub/archives/quake/articles/INDEX.1996
+		subjects and dates
+		maps to filenames
+		all email addresses
+
+
