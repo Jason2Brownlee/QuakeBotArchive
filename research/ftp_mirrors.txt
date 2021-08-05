@@ -386,40 +386,75 @@ ftpmirror1.infania.net
 	https://web.archive.org/web/20210510033505/https://ftpmirror1.infania.net/
 ter.ort.spb.ru
 	nothing
-
-
-
-
-todo
------
 quake.best.com/mirrors/idsoftware/
-ftp.gamesdomain.com/pub/companies/id/quake/
-ftp.cssweb.com/pub/games/idstuff/quake/
-sparky.bright.net/quake/
-www.pht.com/pub/gamehead/id/
-ftp.technomancer.com/pub/idstuff/quake/
-ftp.feist.com/pub/pc/games/quake/
-ftp.ameritel.net/idsoftware/quake/
-ftp.getquake.com/pub/quake/
-quake.osiriscorp.com/pub/idstuff/quake/
-iclass.com/pub/quake/
-ftp.islandnet.com/mirrors/idsoftware/
-mirrors.aol.com/pub/pc_games/doom/idstuff/quake/
-
+	nothing
 3dgamers6.filefront.com
+	https://web.archive.org/web/*/3dgamers6.filefront.com/*
+	very little
+ftp.gamesdomain.com/pub/companies/id/quake/
+	https://web.archive.org/web/19970708235049/http://ftp.gamesdomain.com/
+	https://web.archive.org/web/*/ftp.gamesdomain.com/*
+ftp.cssweb.com/pub/games/idstuff/quake/
+	https://web.archive.org/web/20010204233700/http://ftp.cssweb.com/
+	https://web.archive.org/web/*/ftp.cssweb.com/*
+sparky.bright.net/quake/
+	https://web.archive.org/web/19970415152814/http://sparky.bright.net/
+	https://web.archive.org/web/*/sparky.bright.net/*
+www.pht.com/pub/gamehead/id/
+	https://web.archive.org/web/19961227150740/http://pht.com/
+	https://web.archive.org/web/*/www.pht.com/*
+ftp.technomancer.com/pub/idstuff/quake/
+	https://web.archive.org/web/20010309070652/http://ftp.technomancer.com/
+	https://web.archive.org/web/20010302103036/http://www.idsoftware.com/
+	https://web.archive.org/web/*/ftp.technomancer.com/*
+ftp.feist.com/pub/pc/games/quake/
+	nothing
+ftp.ameritel.net/idsoftware/quake/
+	https://web.archive.org/web/19961221072239/http://ftp.ameritel.net/
+	https://web.archive.org/web/*/ftp.ameritel.net/*
+ftp.getquake.com/pub/quake/
+	nothing
+quake.osiriscorp.com/pub/idstuff/quake/
+	nothing
+iclass.com/pub/quake/
+	https://web.archive.org/web/19961224101107/http://www.iclass.com/
+	https://web.archive.org/web/20010424014826/http://iclass.com:80/pub/quake/
+	https://web.archive.org/web/*/iclass.com/*
+ftp.islandnet.com/mirrors/idsoftware/
+	https://web.archive.org/web/20031216015553/http://ftp.islandnet.com/
+	https://web.archive.org/web/*/ftp.islandnet.com/*
+mirrors.aol.com/pub/pc_games/doom/idstuff/quake/
+	nothing
 hyperactive.com.au/pub/games/idstuff/quake/
+	https://web.archive.org/web/19971210055602/http://www.hyperactive.com.au/
+	https://web.archive.org/web/*/hyperactive.com.au/*
 ftp.bnd.de/pub/quake/
+	nothing
 ftp.spel.postnet.se/pub/games/id/
+	https://web.archive.org/web/*/ftp.spel.postnet.se/*
 ftp.origo.telenor.no/pub/quake/
+	https://web.archive.org/web/*/ftp.origo.telenor.no/*
 ftp.volftp.vol.it/pub2/idstuff/quake/
+	https://web.archive.org/web/19980211093208/http://ftp.volftp.vol.it/
+	https://web.archive.org/web/*/ftp.volftp.vol.it/*
 ftp.gig.nl/pub/idstuff/quake/
+	https://web.archive.org/web/20010309182333/http://ftp.gig.nl/
+	https://web.archive.org/web/*/ftp.gig.nl/*
 rulhmpc49.LeidenUniv.nl/pub/mirrors/idsoft/
+	https://web.archive.org/web/19961227050010/http://rulhmpc49.leidenuniv.nl/
+	https://web.archive.org/web/*/rulhmpc49.LeidenUniv.nl/*
 camel.frtk-campus.mipt.ru/pub/idstuss/quake
+	nothing
 ftp.passagen.se/pub/idstuff/
+	https://web.archive.org/web/19991111162113/http://ftp.passagen.se/
+	https://web.archive.org/web/*/ftp.passagen.se/*
 ftp.flexnet.net/pub/quake/
+	nothing
 idmirror.netvision.be/idstuff/quake/
+	nothing
 garfield.sch.bme.hu/pub/idstuff/quake/
-
+	https://web.archive.org/web/19961227215418/http://garfield.sch.bme.hu/
+	https://web.archive.org/web/*/garfield.sch.bme.hu/*
 
 
 

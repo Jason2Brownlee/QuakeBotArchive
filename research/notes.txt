@@ -1877,7 +1877,7 @@ Ultimate Quake Mod
 QCAP v2.0
 	all kinds of bots
 	https://web.archive.org/web/19980614160345/http://www.inside3d.com/nov28-nov29.shtml
-killer90
+killer
 	adds cujo bots
 	https://www.dukeworld.com/idgames2/quakec/compilations/killer90.txt
 kal_qk-s
