@@ -16,7 +16,7 @@ Aug 25 1996* | mybot11.zip | MyBot v1.1.
 Aug 26 1996 | tmbot11.zip | TMBot v1.1.
 Aug 26 1996 | bgbot1.zip | BGBot v1.0.
 Aug 27 1996 | tlgbot.zip | TLGBot v1.2a.
-Aug 28 1996* | bgadmbot.zip | BGADM Bot v1.00 (*estimated).
+Aug 28 1996* | bgadmbot.zip | BGADM Bot v1.00.
 Aug 28 1996* | mybot12.zip | MyBot v1.2.
 Aug 28 1996* | mybot13a.zip | MyBot v1.3a.
 Aug 31 1996 | bgadm101.zip | BGADM Bot v1.01.
@@ -105,8 +105,8 @@ Feb 22 2000 | frikbt09.zip | Frikbot v0.09.
 ??? ?? 2000 | frikbt09a.zip | Frikbot v0.09a.
 May 16 2000 | frikbt09b.zip | Frikbot v0.09b.
 Jul 27 2001 | fbx.zip | Frikbot v0.10.
-Aug 06 2001* | fbxa.zip | Frikbot v0.10.1 (*estimated).
-Nov 22 2004* | fbxb.zip | Frikbot v0.10.1b (*estimated).
+Aug 06 2001* | fbxa.zip | Frikbot v0.10.1.
+Nov 22 2004* | fbxb.zip | Frikbot v0.10.1b.
 May 19 2006 | fbxc.zip | Frikbot v0.10.2.
 
 If you can improve the accuracy of this history, please email Jason at jason.brownlee05@gmail.com
