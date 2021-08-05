@@ -1653,8 +1653,56 @@ cujgrap / Cujo and Grapple
 	https://www.dukeworld.com/idgames2/quakec/compilations/cujgrap.txt
 	https://www.dukeworld.com/idgames2/quakec/compilations/cujgrap.zip
 	https://www.quaddicted.com/files/idgames2/quakec/compilations/cujgrap.zip
-
-
+killer / killer quake pack / kqp
+	adds zeus, cujo
+	Howard Roy
+	https://www.dukeworld.com/idgames2/quakec/compilations/killer90.txt
+	https://www.moddb.com/mods/killer-quake-pack
+	https://www.moddb.com/mods/killer-quake-pack/downloads/killer-quake-pack-22z
+	Killer Quake Pack v2.20z
+		KQP220Z.ZIP
+	https://www.quakewiki.net/archives/retroquake.planetquake.gamespy.com/blog/indexe539.html?p=151
+	kqp220z.zip
+	http://kqp.horoy.com
+		https://web.archive.org/web/2019*/http://kqp.horoy.com
+		https://web.archive.org/web/*/kqp.horoy.com/*
+		https://web.archive.org/web/20071207164459fw_/http://kqp.horoy.com/KQP220Z.ZIP
+	https://www.shacknews.com/cortex/article/918/cquake-part-7-lan-parties-and-killer-quake-pack
+	https://quake.fandom.com/wiki/Quake_Killerpack
+	https://www.reddit.com/r/quake/comments/gheg9w/how_do_i_install_the_killer_quake_pack_on_quake/
+	https://web.archive.org/web/20071219103441/http://www.horoy.com/
+	https://web.archive.org/web/19980216044532/http://planetquake.com/qca/
+		kqp220z.zip
+	KQP210Z.zip
+	http://kqp.mpog.com
+		https://web.archive.org/web/19980117141437/http://kqp.mpog.com/
+		https://web.archive.org/web/*/kqp.mpog.com/*
+	KQP200Z.zip
+	kqp.warzone.com
+	 	https://web.archive.org/web/19980420030318/http://kqp.warzone.com/
+	 	https://web.archive.org/web/*/%20kqp.warzone.com/*
+	 KQP 1.00
+	 	???
+	 KQP 0.90
+	 	https://www.dukeworld.com/idgames2/quakec/compilations/killer90.txt
+	 	https://www.dukeworld.com/idgames2/quakec/compilations/killer90.zip
+	 http://www.planetquake.com/kqp/
+	 	nope
+	 http://www.ugrad.cs.ubc.ca/spider/u6m1
+	 	https://web.archive.org/web/19970803064418/http://www.ugrad.cs.ubc.ca/spider/u6m1/
+	 	https://web.archive.org/web/*/www.ugrad.cs.ubc.ca/*
+	 	https://web.archive.org/web/19970803114347/http://www.ugrad.cs.ubc.ca/spider/u6m1/QC/killer.zip
+	 http://www.mpog.com/kqp/
+	 	https://web.archive.org/web/*/www.mpog.com/*
+	 	KQP100.zip
+	 	KQP210Z.zip
+	 	http://kqp.mpog.com/kqp/KQP100.zip
+	 	https://web.archive.org/web/19970428094455/http://www.mpog.com:80/kqp/quakenews.html
+	 http://www.planetquake.com/qca/files/kqp100.zip
+	 other versions
+	 	0.8, 0.85, 0.86, 0.86b, 0.87, 0.9, ..
+	 http://cd.textfiles.com/cream/cream23/doom/killer85.zip
+	 http://annex.retroarchive.org/cdrom/nightowl-023/022A/KILLER85.ZIP
 
 
 RESEARCHING...
@@ -1877,9 +1925,6 @@ Ultimate Quake Mod
 QCAP v2.0
 	all kinds of bots
 	https://web.archive.org/web/19980614160345/http://www.inside3d.com/nov28-nov29.shtml
-killer
-	adds cujo bots
-	https://www.dukeworld.com/idgames2/quakec/compilations/killer90.txt
 kal_qk-s
 	adds wisp
 	https://www.dukeworld.com/idgames2/quakec/compilations/kal_qk-s.txt
