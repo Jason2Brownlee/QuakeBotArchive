@@ -2,16 +2,16 @@
 
 Estimated public release history for early Quake bots (circa 1996).
 
-Developed from release dates listed in readme files provided mod .zip files, corroborated with Usenet posts, unzipped file datetimes, and FTP file datetimes where possible.
+Release dates were determined from the content of readme files, the timestamp of files in the archive and the FTP upload timestamp (where available). Additionally, release dates are corroborated with Usenet posts where possible. It is typical for the release date in the readme to be premature compared to file and FTP timestamps, in which case the latter is used.
 
 Date | Release | Comment
 --- | --- | ---
 Jul 25 1996 | qcc.tar.gz | QCC (compiler) source and QuakeC (.qc) source.
 Aug 10 1996 | holo1.zip | HoloSelf v1.0 (pre-cursor to tmbot).
 Aug 14 1996 | holo2.zip | HoloSelf  v2.0 (pre-cursor to tmbot).
-Aug 21 1996 | **tmbot1.zip** | TMBot v1.0 (**first cooperative bot).**
-Aug 23 1996 | **dmbot1.zip** | DMBot v1.0 (**first deathmatch bot).**
+Aug 21 1996 | tmbot1.zip | TMBot v1.0.
 Aug 24 1996* | mybot.zip | MyBot v1.0 (* estimated).
+Aug 25 1996* | dmbot1.zip | DMBot v1.0 (* estimated).
 Aug 25 1996* | mybot11.zip | MyBot v1.1 (* estimated).
 Aug 26 1996 | tmbot11.zip | TMBot v1.1.
 Aug 26 1996 | bgbot1.zip | BGBot v1.0.

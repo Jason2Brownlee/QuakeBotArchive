@@ -10,16 +10,16 @@ Estimated Quake bot genealogy.
 
 ## Quake Bot Chronology
 
-Estimated Quake bot public release history circa Aug 1996.
+Estimated Quake bot public release history circa August 1996.
 
 Date | Release | Comment
 --- | --- | ---
 Jul 25 1996 | qcc.tar.gz | QCC (compiler) source and QuakeC (.qc) source.
 Aug 10 1996 | holo1.zip | HoloSelf v1.0 (pre-cursor to tmbot).
 Aug 14 1996 | holo2.zip | HoloSelf  v2.0 (pre-cursor to tmbot).
-Aug 21 1996 | **tmbot1.zip** | TMBot v1.0 (**first cooperative bot).**
-Aug 23 1996 | **dmbot1.zip** | DMBot v1.0 (**first deathmatch bot).**
+Aug 21 1996 | tmbot1.zip | TMBot v1.0.
 Aug 24 1996* | mybot.zip | MyBot v1.0 (* estimated).
+Aug 25 1996* | dmbot1.zip | DMBot v1.0 (* estimated).
 Aug 25 1996* | mybot11.zip | MyBot v1.1 (* estimated).
 Aug 26 1996 | tmbot11.zip | TMBot v1.1.
 Aug 26 1996 | bgbot1.zip | BGBot v1.0.
