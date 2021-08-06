@@ -51,7 +51,7 @@ Borg Bot | Calvin Rien | [borg12.zip](bin/borg12.zip) ([txt](bin/borg12.txt))
 Bot Hunt | Douglas H. King aka "Sea4" | [bthnt10.zip](bin/bthnt10.zip) ([txt](bin/bthnt10.txt))
 Bot Player (BPlayer) | Wolfgang Lehrach aka "Wolf" | [bplayer2.zip](bin/bplayer2.zip)<br>bplayer1.zip ([txt](bin/bplayer1.txt))
 BotArena | Fabiano D. Amorim aka "Vegetous" | [botarena.zip](bin/botarena.zip)<br>[bt_scr.zip](bin/bt_scr.zip)
-BotSkin | "WACko" | [btskn22.zip](bin/btskn22.zip) ([txt](bin/btskn22.txt))<br>[botskn20.zip](bin/botskn20.zip) ([txt](bin/botskn20.txt))<br>[botskn18.zip](bin/botskn18.zip) ([txt](bin/botskn18.txt))<br>botskn14.zip<br>botskn13.zip<br>[botskn10.zip](bin/botskn10.zip)
+BotSkin | Warren Cheung aka "WACko" | [btskn22.zip](bin/btskn22.zip) ([txt](bin/btskn22.txt))<br>[botskn20.zip](bin/botskn20.zip) ([txt](bin/botskn20.txt))<br>[botskn18.zip](bin/botskn18.zip) ([txt](bin/botskn18.txt))<br>botskn14.zip<br>botskn13.zip<br>[botskn10.zip](bin/botskn10.zip)
 BrBot | "DRaKuLL" | [brbot.7z](bin/brbot.7z) <br>[brbotqc.zip](bin/brbotqc.zip)<br>brbot.exe
 BuddyBot | "Parsec" | [bbot_b1.zip](bin/bbot_b1.zip) <br>[bbot_b11.zip](bin/bbot_b11.zip)
 ClanBots | "slug" | clanv0.7hman.zip<br>clanv0.6auto.zip<br>clanv0.5auto.zip

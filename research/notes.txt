@@ -725,6 +725,10 @@ Victim Bot
 	Tony Tang
 	old version: ftp://ftp.cdrom.com/pub/idgames2/quakec/bots/vbot1.zip
 	https://www.quaddicted.com/magazines/cd_zone_issue_48_march_1997
+	homepage
+		https://web.archive.org/web/20010419130946/http://www.sfu.ca/~tonyt/news.html
+		https://web.archive.org/web/20020725062119/http://www.sfu.ca/~tonyt/
+		https://web.archive.org/web/20020907152520/http://www.sfu.ca/~tonyt/projects/vb.html
 Tballman
 	https://www.quakewiki.net/archives/botarea51/main/qbotf62c.html?id=36
 	Mother
@@ -956,7 +960,8 @@ DeathBot
 BotSkin
 	bgbot extension
 	WACko
-		real name?
+		Warren Cheung aka WACko
+		https://web.archive.org/web/19990830045058/http://www.geocities.com/CollegePark/2458/#whatis
 	http://www.nethosting.com/~wacko/program/botskin.htm
 		no archive
 		http://www.nethosting.com/~wacko/
@@ -966,6 +971,23 @@ BotSkin
 		no archive
 		http://www.geocities.com/CollegePark/2458/
 		https://web.archive.org/web/19990208223449/http://www.geocities.com/CollegePark/2458/
+		https://web.archive.org/web/20000916161152/http://www.geocities.com/CollegePark/2458/
+		https://web.archive.org/web/20000916161152/http://www.geocities.com/CollegePark/2458/
+	other home pages?
+		http://wac.cjb.net/
+			https://web.archive.org/web/20000918031937/http://wac.cjb.net/
+			(redirect)
+		http://www.intergate.bc.ca/personal/wac
+			https://web.archive.org/web/20010303094453/http://modena.intergate.ca/personal/wac/
+			https://web.archive.org/web/20010621234654/http://modena.intergate.ca/personal/wac/news/quake/main.htm
+		http://members.tripod.com/~WAC
+			https://web.archive.org/web/19991014045021/http://members.tripod.com/~WAC/
+			redirect/gone
+		http://www.wacko.com/
+			https://web.archive.org/web/19970518170921/http://www.wacko.com/
+		DNAHelix.org
+		http://members.shaw.ca/wac/index-main.html
+			https://web.archive.org/web/20041020204214/http://members.shaw.ca/wac/index-main.html
 	https://quake.fandom.com/wiki/BotSkin
 	btskn22.zip / botskn22.zip
 		https://www.quaddicted.com/files/idgames2/quakec/bots/btskn22.txt
@@ -987,14 +1009,19 @@ BotSkin
 			date times
 		https://groups.google.com/g/spk.file/c/bLbgWNVGY-U/m/lxFRQOrq204J
 		https://groups.google.com/g/spk.file/c/IMPklo6HC-s/m/FN3jqG6VoFEJ
+		Quake 'em CD
 	botskn14.zip
 		https://groups.google.com/g/spk.file/c/IMPklo6HC-s/m/PjulXOr7_-cJ
 		https://groups.google.com/g/spk.file/c/bLbgWNVGY-U/m/GOGriNWYtzsJ
 	botskn13.zip
 		https://groups.google.com/g/spk.file/c/rsMS7yVlcFg/m/sWl9SFWtg2YJ
 		https://groups.google.com/g/spk.file/c/mkQ_LwkLg5k/m/GImWg_zsyu0J
-	other versions
-		2.1, 1.9, 1.7
+	botskn10.zip
+		Shareware Extravaganza 8 (Disk 8) CD
+	v1.2
+		https://web.archive.org/web/20010305112420/http://modena.intergate.ca/personal/wac/news/sept96.htm
+	other versions (listed in readme) public?
+		2.1, 1.9, 1.7, 1.2
 IronWulvt's Deathmatch Bot
 	https://www.quaddicted.com/files/idgames2/quakec/bots/iwbot21.txt
 	https://www.quaddicted.com/files/idgames2/quakec/bots/iwbot21.zip
