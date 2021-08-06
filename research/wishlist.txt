@@ -13,6 +13,7 @@ bgadmbot.zip
 bm116se.zip
 bm119gl.zip
 botmove.zip
+botskn13.zip
 botskn14.zip
 bplayer.zip
 brbot.exe
