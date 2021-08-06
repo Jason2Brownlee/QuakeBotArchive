@@ -954,13 +954,47 @@ DeathBot
 	http://web.ukonline.co.uk/members/s.boswell/death-64.exe
 	single player
 BotSkin
-	https://www.quaddicted.com/files/idgames2/quakec/bots/btskn22.txt
-	https://www.quaddicted.com/files/idgames2/quakec/bots/btskn22.zip
 	bgbot extension
 	WACko
+		real name?
 	http://www.nethosting.com/~wacko/program/botskin.htm
+		no archive
+		http://www.nethosting.com/~wacko/
+	http://www.fiber.net/~wacko/program/botskin.htm
+		no archive
 	http://www.geocities.com/CollegePark/2458/botskin.html
+		no archive
+		http://www.geocities.com/CollegePark/2458/
+		https://web.archive.org/web/19990208223449/http://www.geocities.com/CollegePark/2458/
 	https://quake.fandom.com/wiki/BotSkin
+	btskn22.zip / botskn22.zip
+		https://www.quaddicted.com/files/idgames2/quakec/bots/btskn22.txt
+		https://www.quaddicted.com/files/idgames2/quakec/bots/btskn22.zip
+		http://annex.retroarchive.org/cdrom/cotc-23/DOOM/BTSKN22.ZIP
+		https://dukeworld.com/idgames2/quakec/bots/btskn22.zip
+		https://dukeworld.com/idgames2/quakec/bots/btskn22.txt
+		http://cd.textfiles.com/cream/cream23/doom/btskn22.zip
+		ftp://ftp.cdrom.com/pub/quake/quakec/bots/btskn22.zip
+		https://archives.fidobbs.net/area268.htm
+		http://annex.retroarchive.org/cdrom/cotc-23/DOOM/BTSKN22.ZIP
+	botskn20.zip
+		http://cd.textfiles.com/cream/cream23/doom/botskn20.zip
+		http://cd.textfiles.com/swextrav8/swextrav8-2/gamapog1/botskn20.zip
+		https://archives.fidobbs.net/area265.htm
+		http://annex.retroarchive.org/cdrom/cotc-23/DOOM/BOTSKN20.ZIP
+	botskn18.txt
+		http://cd.textfiles.com/pdsl/HELP/GAMERTK.TXT
+			date times
+		https://groups.google.com/g/spk.file/c/bLbgWNVGY-U/m/lxFRQOrq204J
+		https://groups.google.com/g/spk.file/c/IMPklo6HC-s/m/FN3jqG6VoFEJ
+	botskn14.zip
+		https://groups.google.com/g/spk.file/c/IMPklo6HC-s/m/PjulXOr7_-cJ
+		https://groups.google.com/g/spk.file/c/bLbgWNVGY-U/m/GOGriNWYtzsJ
+	botskn13.zip
+		https://groups.google.com/g/spk.file/c/rsMS7yVlcFg/m/sWl9SFWtg2YJ
+		https://groups.google.com/g/spk.file/c/mkQ_LwkLg5k/m/GImWg_zsyu0J
+	other versions
+		2.1, 1.9, 1.7
 IronWulvt's Deathmatch Bot
 	https://www.quaddicted.com/files/idgames2/quakec/bots/iwbot21.txt
 	https://www.quaddicted.com/files/idgames2/quakec/bots/iwbot21.zip
