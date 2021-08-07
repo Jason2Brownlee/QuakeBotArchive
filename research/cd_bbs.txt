@@ -3,6 +3,13 @@ BBS CDs / Archives
 
 Archives/ Backups of BBS with quake files
 
+
+lists
+------------------------------------
+https://www.mudinfo.net/viewtopic.php?t=2528
+https://gist.github.com/richinseattle/f76c607c735bfff737b74251ad9d3745
+
+
 http://cd.textfiles.com/
 ------------------------------------
 (does not appear to be 100% indexed by google...)
@@ -292,6 +299,15 @@ http://www.dreamlandbbs.com/gfd/appgame/index1.html
 http://www.dreamlandbbs.com/filegate/w32/w32_p&d/index.html
 	clients
 
+
+major.butt.care
+------------------------------------
+https://www.reddit.com/r/opendirectories/comments/bg1laz/major_butt_care_mirrors_of_multiple_ftps_repeat/
+major.butt.care
+
+lots of good stuff (cream of the crop, nightowl, etc)
+get "allfiles" in the root of mirrors/
+then grep through for desired files
 
 
 

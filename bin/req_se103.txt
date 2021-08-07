@@ -1,0 +1,947 @@
+
+
+                              QUAKE
+
+                
+
+                        - R E Q U I E M -
+
+        
+
+                       SPECIAL EDITION 1.03
+
+
+
+
+
+ Please be sure to read the SERVER.CFG and BINDKEYS.CFG to configure
+
+Requiem - SPECIAL EDITION - to your needs.
+
+
+
+ Performs best with at least 12MB RAM allocated to Quake (-winmem 12).
+
+
+
+ If you experience problems, please email me.
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+  Welcome to Quake Requiem. This patch is designed to enhance Quake 
+
+and it's playabilty as both a single player and multi-player game.
+
+This patch was designed to run in Multi-Player (deathmatch) mode, 
+
+either against other deathmatch players or against the computer
+
+controlled roBOTs, or regular Single-Player mode against the usual
+
+Quake monsters.
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+  This patch includes new weapons, bots, Capture the Flag with Manual
+
+Placement, powerup runes, jumping boots, jetpack, holos, radar, new
+
+scoring systems and a few other little things you'll have to find out
+
+for yourself... :)
+
+
+
+  You can find this TXT file and patch at...
+
+
+
+        ftp.cdrom.com and associated mirror sites 
+
+or
+
+        http://www.planetquake.com/requiem
+
+
+
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+
+
+
+        -------         The Good Stuff          --------
+
+
+
+-Weapons-
+
+
+
+Pressing each weapon button will cycle through the various weapons.
+
+
+
+1-AXE
+
+
+
+        Flaming Axe     -       Throws flaming torches.
+
+                        -       The first 10 stay for 45 seconds, the 
+
+                                rest disappear after 4. Low damage.
+
+        AIRGUN          -       Like the AirFist, shoots out compressed
+
+                                air. Good defensive weapon. Can move
+
+                                objects, or deflect missiles. :)
+
+        Grappling Hook  -       The ol' classic with keyboard control.
+
+
+
+2-SHOTGUN
+
+
+
+        Shotgun         -       Slightly refined.
+
+        Phaser          -       Like the Enforcer's but faster.
+
+
+
+3-DOUBLE-BARREL SHOTGUN 
+
+
+
+        DoubleBarrel    -       Much more powerful and wider spread.
+
+                                This is to make this weapon a little 
+
+                                fairer and more fun to use.
+
+        FlameThrower    -       More powerful and shoots further.
+
+                                And opponents call also catch on fire!
+
+
+
+4-NAILGUN
+
+
+
+        Nailgun         -       Same as usual.
+
+        Lavagun         -       Shoots balls of flame. More powerful.
+
+
+
+5-SUPER-NAILGUN
+
+
+
+        Chaingun        -       Like in Doom2. No longer a nailgun, this
+
+                                remake of the Chaingun is faster and a 
+
+                                whole lot more fun!
+
+        FreezeBomb      -       Freezes anything it touches. Shoots out
+
+                                little freezers, with a glowing yellow 
+
+                                proximity. If you get hit, or touch the
+
+                                yellow, you'll get frozen!
+
+
+
+6-GRENADE LAUNCHER
+
+
+
+        GrenadeLauncher -       Same as usual.
+
+        TouchGrenade    -       Shoots like a grenade but explodes on impact.
+
+
+
+7-ROCKET LAUNCHER
+
+
+
+        RocketLauncher  -       Same but slower.
+
+        GuidedMissile   -       You take control of the missile!
+
+
+
+8-LIGHTNING GUN
+
+
+
+        LightningGun    -       Same as usual.
+
+        BFG-9000        -       The ol' Doom2 classic.
+
+
+
+9-BLUE KEY
+
+
+
+        Pulverisor      -       Shoots 5 nails. Powerful!!
+
+        GibGun          -       Shoots 3 green gibbos which sap energy
+
+                                from your enemy and then gives it to you.
+
+                                Only a health pack will destroy the gibbbos.
+
+        CloakingDevice  -       Turn invisible. Uses up ammo.
+
+
+
+0-YELLOW KEY
+
+
+
+        RandomWeapon
+
+        Generator       -       You lose this weapon, but gain one of the
+
+                                above weapons, calculated randomly.
+
+        HealthRegen.    -       Regenerate your health. Uses up ammo.
+
+        ArmourRegen.    -       Regenerate your armour. Uses up ammo.
+
+        Surveillance
+
+        Camera          -       Shoot's a gibbed head which sticks to the
+
+                                walls and floors. You then see through the
+
+                                eyes of the head. You can revert to your 
+
+                                normal view by changing to any other
+
+                                weapon. Firing again, will remove the head.
+
+
+
+- Special Weapons!! -
+
+
+
+        There are also two new special weapons. To get them, either get 
+
+  both nailguns or bot grenade and rocket launcher. This will give you 
+
+  an extra weapon available by both similar weapons.
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+-Runes-
+
+
+
+        These are courtesy of ThreeWaves great CTF patch. They are very 
+
+similar with only minor adjustments. With RUNES, also comes some extra
+
+advantages described below.
+
+
+
+        Strength        -       Increases the DAMAGE you do to opponents by
+
+                                about 1.5
+
+        
+
+        Resistance      -       Decreases the DAMAGE you take by about 1.5
+
+
+
+        Speed           -       Increases your firing SPEED by about 1.5
+
+
+
+        Regeneration    -       Regenerates your HEALTH and ARMOUR to their
+
+                                default values.
+
+
+
+        Each rune also has special immunities to lava, slime, freezers, 
+
+airguns, and other assorted items, but you'll have to find these yourself :)
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+-Extras-
+
+
+
+R-      Radar           -       Bleeps and points to closest enemy. A beam
+
+                                of electricity shoots out towards the closest
+
+                                enemy showing their direction.
+
+
+
+        You need a rune to use these items.
+
+
+
+H-      Hologram        -       Creates a holo which lasts 30 seconds.
+
+
+
+J-      Jetpack         -       Allows you to fly around. No fall damage.
+
+
+
+U-      Jumping Boots   -       Increases jumping height. No fall damage.
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+-Impulse Commands-
+
+
+
+        Impulse 1 - 9           Weapons
+
+        Impulse 11              Weapon0
+
+
+
+        Impulse 10              Cycle Weapons Forward
+
+        Impulse 12              Cycle Weapons Backward
+
+        Impulse 22              Shoot Grappling Hook
+
+        Impulse 23              Release Grappling Hook
+
+
+
+        Impulse 13              Set/Remove Holo
+
+        Impulse 14              Sliding Dive...
+
+        Impulse 15              Drop Flag (CTF-MP only)
+
+        Impulse 17              softer AirGun
+
+        Impulse 18              Play dead/get back up
+
+        Impulse 40              Activate/DeActivate Radar
+
+        Impulse 41              Jumping Boots/Jetpack
+
+        Impulse 44              ShowScores, including bots. New scoring system.
+
+        Impulse 45              ShowScores, including bots. Old scoring system.
+
+        Impulse 46              ShowScores, including bots. New,
+
+                                shows experience instead of frags.
+
+        Impulse 100             Create a bot
+
+        Impulse 101             Remove ALL bots
+
+        Impulse 200             Change to next skin. (not in teamplay)
+
+        Impulse 201             Change to prev skin. (not in teamplay)
+
+        Impulse 222             Cheats in single-player. Gets all weapons
+
+
+
+        Impulse 120 - 126       Help Information
+
+
+
+        alias +hook     impulse 42
+
+        alias -hook     impulse 43
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+-Server Settings-
+
+
+
+        EXPERIENCE              Changes FRAGS to Experience
+
+        FRAGS                   Regular FRAG mode
+
+
+
+        NOEXIT          0       Exit levels as normal
+
+                        1       Does not exit levels when touching transporters
+
+                        2       Player blows up when touching transporters
+
+
+
+        SAMELEVEL       0       Goes to next sequential level at end of level.
+
+                        1       Restarts on same level at end of level.
+
+
+
+        FRAGLIMIT       ???     Ends level when a player reaches FRAGLIMIT
+
+
+
+        TIMELIMIT       ???     Ends level when time reaches TIMELIMIT
+
+
+
+        SKILL           0-5     Changes bot skill level to 0 through 5. 
+
+                                0 being easiest, and 5 being hardest.
+
+        
+
+        CHANGELEVEL     (MAP)   Changes the server to the specified map
+
+                                without disconnecting users.
+
+
+
+        SYS_TICRATE             Only used by dedicated servers.  This determines 
+
+                                the rate at which the server will send out updates
+
+                                to the clients.  The default value is 0.05
+
+                                (20 updatesper second).  For servers where bandwidth 
+
+                                is limited, using modems or the internet for example,
+
+                                it is advisable to lower this value to 0.1
+
+                                (10 updates per second).  This will have a very minor
+
+                                effect on responsiveness, but will half the outbound 
+
+                                bandwitdh required making the modem players a lot happier.
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+-Admin Commands-
+
+
+
+        RUNES           Enable/Disable runes
+
+
+
+        RANDOM-ITEMS    Enable/Disable random item spawning
+
+
+
+        NEW-WEAPONS     Enable/Disable the New Weapons (1-8)
+
+
+
+        SUPER-WEAPONS   Enable/Disable the new Super-Weapons (9-0)
+
+
+
+        BOTS_DISABLE    Disables BOTs from being created.
+
+
+
+        BOTS_ENABLE     Enables BOTS to be created. (default)
+
+
+
+        REMOVE_BOTS     Removes all bots from the game
+
+        
+
+        RESTART-START   Restarts server on START map
+
+
+
+        RESTART-MAP     Restarts server on current map
+
+
+
+        NEXT-MAP        Exits to next map
+
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+-Useful Commands-
+
+
+
+        BOT             Creates a bot based on SKILL
+
+
+
+        HELP_SERVER     Shows all the help information commands ingame.
+
+
+
+        HELP_?????      Shows information on the requested topic.
+
+                        Use HELP_SERVER to view the topics.
+
+
+
+        BIND_KEYS       Binds the extra impulses to the keys I have chosen.
+
+                        Read HELP_KEYS to see the key settings. This is for
+
+                        those who do not wish to create permanent bindings or
+
+                        do not know how.
+
+
+
+        KILL            Kamakazi suicide. You blow up and hopefully take 
+
+                        someone out with you.. ;)
+
+
+
+        PING            Show ping times on the server and clients playing.
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+-Server Modes-
+
+  As per the SERVER.CFG, most of these options speak for themselves...
+
+
+
+        64      =       TIMED SERVER SWITCHING - When the TIMELIMIT or FRAGLIMIT
+
+                        is reached as per the SERVER.CFG, the SWITCH.CFG is read
+
+                        and effectively makes any changes you select. eg.
+
+                        You can run Deathmatch1 for 30 minutes and then switch
+
+                        to Sudden Death mode for another final 2 minutes (default)
+
+
+
+        128     =       EXPERIENCE MODE - This changes everyones scores from 
+
+                        FRAGS to the new scoring mode. It is based on actual
+
+                        hits not actual kills, and also extra points for picking
+
+                        up items and freezing, etc... A fairer, rounded option.
+
+
+
+        512     =       LIGHTS OUT! This turns out ALL lights except for fluro 
+
+                        lights. Everyone is then equiped with a torch to look 
+
+                        around in the darkness. Server Admins beware.. all clients
+
+                        that connect to this mode MUST have the patch installed.
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+-Deathmatch Modes-
+
+  Deathmatch settings are to alter the way in which you play multiplayer games.
+
+Simply change the SERVER.CFG to added value you desire.
+
+
+
+        1       =       Normal Deathmatch (Select this option only. Do not add)
+
+        2       =       Items Disappear Permanently
+
+        4       =       Weapons Stay (pick up once only)
+
+        8       =       Random Items/Weapons Respawning
+
+        16      =       Charging Items - You must stand on an item to charge up.
+
+        32      =       Sudden Death! Everyone has QUAD-DAMAGE & kills are gibs.
+
+        64      =       Mortal Countdown - Health drops to 0 then you explode.
+
+        128     =       Enable Monsters in DeathMatch!
+
+        256     =       Maximum Energy - Health starts at 500 and maxes at 999!
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+-Teamplay Modes-
+
+
+
+  Teamplay is primarily the same as in ThreeWave's CTF. Typing TEAMPLAY then 
+
+the number of which options you wish to play.
+
+  My favourite is TEAMPLAY 1507, which is...
+
+        1024+256+128+64+32+2+1
+
+                
+
+        HEALTH_PROTECT =           1;   // No health damage from friendly fire
+
+        ARMOR_PROTECT =            2;   // No armor damage from friendly fire
+
+        ATTACKER_DAMAGE =          4;   // Attacker takes damage from hitting teammates
+
+        FRAG_PENALTY =             8;   // One frag penalty for killing teammate
+
+        DEATH_PENALTY =           16;   // Die when you kill a teammate.
+
+        LOCK_COLORS =             32;   // Allow only team colors
+
+        STATIC_TEAMS =            64;   // Don't allow players to switch teams
+
+        DROP_ITEMS =             128;   // Disabled
+
+        CAPTURE_FLAG =           256;   // Play capture the flag
+
+        TAG =                    512;   // Not operational as yet... Almost complete
+
+                                           Due for release in REQUIEM.1.07
+
+        MANUAL_PLACEMENT =      1024;   // Place your team flags yourself!
+
+
+
+CTF-MP (Capture The Flag - Manual Placement) -
+
+
+
+  The problem with the old CTF, was that you had to modify each map and
+
+then the flags were always in the same place.
+
+        
+
+  With CTF-MP, you place your own flag where-ever you want it. This, I think,
+
+adds a new element to CTF. Now you have to find the flag before you can take it.
+
+
+
+  The first player of each team is set as Team-Leader and holds their flag.  
+
+Hitting 'P' (impulse 15) drops the flag where you stand. After 3 seconds, any 
+
+teammate can run over the flag and pick it up to move it elsewhere.
+
+  While in PLACEMENT mode, being that both flags HAVE-NOT been placed, neither team
+
+is able to shoot. Nor can you pick up the opositions flag, so no cheating. To aid
+
+the flag-placers, the Team-Leader, carrying the flag, will be invisible, so you can 
+
+run around and find a secret place a little easier without being followed. :)
+
+  Once BOTH flags are dropped, and ONLY then, the game begins and the flags can no 
+
+longer be picked up and moved. So think about where you place your flag, you may not
+
+get another chance to move it.
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+- BOTS -
+
+
+
+  By hitting 'B' (impulse 100), you can create a roBOT, which will act as another
+
+player, who can do everything you can do, and use the same weapons as you. You 
+
+create up to 16 BOTs at the moment.
+
+
+
+  You can also change the skill of each bot so that you play against a dummy, or
+
+a whole bunch of crack-shooters. To do this, type SKILL at the prompt. This will
+
+show the current skill level. When you hit 'B' (impulse 100), the BOT will
+
+assume the current skill level. Skill levels range from 0 - 5. Default is 2.
+
+  This means you can have different BOTs of different skills at the same time,
+
+simply by changing the skill level between creating BOTs.
+
+  Bots also use the HOOK quite alot, so you may want to get used to using it 
+
+yourself.
+
+
+
+  BOTs are not really supported under TEAMPLAY modes, however, I have been playing 
+
+with the TEAMPLAY settings, and you can play a 2-team TEAMPLAY game but using
+
+TEAMPLAY 35 at the very least. Check the options above to see what 35 does. Not sure
+
+what would happen in other TEAMPLAY modes and more than 2 teams, as I am doing all
+
+my testing on one PC. :(
+
+
+
+  Typing REMOVE_BOTS will destroy all bots, incase you just cant handle dying... ;)
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+- GAMEPLAY -
+
+
+
+  There are a few things to look out for.
+
+
+
+ When using the FreezeBomb, it would be advisible to not shoot it at close range
+
+as you will be frozen too. The actual Bomb lasts 7-12 seconds, after which every
+
+entity it has frozen, is thawed. The only weapon that protects against the 
+
+FreezeBomb is the FlameThrower. If you are using the FlameThrower, you can't 
+
+be frozen.
+
+
+
+ When you are hit by the GibGun, your energy is sapped rather quickly. The only
+
+way to kill the little critters that take your energy is to pick up a health
+
+pack. This will destroy the green gibbo thingos that take your energy.
+
+
+
+ The Radar shoots out a lightning beam towards the closest enemy in short bursts
+
+repeating according to how close they are. This can only be seen by yourself, but
+
+the problem is when you are using the LightningGun, you may get confused. Please
+
+keep this in mind when using the Radar.
+
+
+
+ Ever wanted to walk through lava? Well.. if you have the freeze gun, you can.
+
+The newly designed freeze gun eminates a protective cold force field that 
+
+protects you against lava... (erk fnarr fnarr) hehehe... try it out.
+
+
+
+ If you want to know who's winning using a new scoring system, hit 'M' (impulse 44)
+
+to bring up a scoreboard, which also includes BOTs, showing FRAGS, DEATHS, and 
+
+who is overall at the top. 
+
+
+
+--------------------------------------------------------------------------------
+
+
+
+- SINGLE PLAYER -
+
+
+
+ There are some new SUPER monsters based on the original monsters.
+
+
+
+        MOBSTER         -       Like a soldier but weilds a deadly uzi...
+
+
+
+        SUPER-OGRE      -       A red ogre that now shoots rockets!
+
+
+
+        PSYCHO-SHAMBLER -       A purple shambler than now throws grenades!!
+
+
+
+ These monsters appear at random throughout the game based on the skill level,
+
+replacing the original monsters. For this reason, each time will be different! :)
+
+
+
+ I have also redone alot of the monster-ai, and you will notice that they all 
+
+move alot faster and even strafe now too! :) Good luck!
+
+
+
+--------------------------------------------------------------------------------
+
+////////////////////////////////////////////////////////////////////////////////
+
+                        A N N O U N C E M E N T ! ! ! 
+
+--------------------------------------------------------------------------------
+
+        This looks to be the last release of REQUIEM, as we are currently
+
+    working on a retail conversion called TORMENTED SOULS. I will be 
+
+    releasing more information on this shortly...
+
+
+
+        SpecialEdtion is not really complete by my standards, but we simply
+
+    can not continue with it due to the new project. I hope you all enjoy
+
+    what we've done so far, and ask you to be patient for TORMENTED SOULS, 
+
+    which will kick everything you've ever seen.    THANX
+
+-------------------------------------------------------------------------------
+
+
+
+
+
+        --------          That's it for now...          --------
+
+
+
+        Once again, thanks to everyone who helped out on this endeavour.
+
+
+
+This patch is still not finished and I am making modifications almost every day, 
+
+so don't be disheartened if something doesn't work properly yet, or it's lacking 
+
+that something special you feel NEEDs to be there. Email me:)
+
+
+
+I welcome ANY and ALL comments and suggestions. If you have something you wish
+
+to contribute, whether it be a suggestion or even code, please send me an email.
+
+If I use your stuff, I would be only to happy to acknowledge your contributions, 
+
+both in the game and in the TXT file. Afterall, I'm only trying to make one of
+
+the best and most popular patches according to you, the players. So it's up to you!
+
+
+
+  Before I go, I'd just like to take this opportunity to thank all those awesome
+
+Quake-C programmers who's source code and ideas I have used and learnt from. I'd 
+
+also like to thank all the great people who helped test and refine this patch, 
+
+especially all the Quakesters in #quake on IRC, like Ado, mrgibbed, Freek, Freaek, 
+
+ZiNC, Indiana, VuduChild, Netspawn, Vol(mr.impulse12), AirSwing, Summoner, Manowar,
+
+Platinum and all the fantastic people who sent me bug reports and kind emails, and 
+
+even aaargh who said this whole patch was crap! (hehehe)
+
+
+
+  Thanks also to all those who helped inspire this patch with works of their own
+
+and those who actually contributed like s.boyd@dynamite.com.au for the WidowMaker
+
+skin, and all the other authors of skins and ideas. Thanx guys. :)
+
+
+
+
+
+        email:  requiem@powernet.com.au
+
+
+
+:)
+
+Requiem.
+

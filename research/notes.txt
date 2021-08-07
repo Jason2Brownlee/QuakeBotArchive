@@ -1766,7 +1766,55 @@ killer / killer quake pack / kqp
 	 http://cd.textfiles.com/cream/cream23/doom/killer85.zip
 	 http://annex.retroarchive.org/cdrom/nightowl-023/022A/KILLER85.ZIP
 	 https://archives.fidobbs.net/pub/bbs/852/KILLER85.ZIP
-
+Requiem
+	compilation mod, with bots
+	https://groups.google.com/g/rec.games.computer.quake.announce/c/YvUGOjRFVSQ/m/gnzrOsHyUWgJ
+	ftp://ftp.cdrom.com/pub/quake/newstuff/req.zip
+	ftp://ftp.cdrom.com/pub/quake/newstuff/req.txt
+	http://www.powernet.com.au/files/req.zip
+	http://www.powernet.com.au/files/req.txt
+	https://archive.org/details/CdZoneIssue48march1997\
+	1.05
+		jan 2 1997
+		https://groups.google.com/g/rec.games.computer.quake.announce/c/YvUGOjRFVSQ/m/gnzrOsHyUWgJ
+	1.04 se
+		29 july 1997
+		https://groups.google.com/g/rec.games.computer.quake.misc/c/dEaIz4zCv2o/m/8fujhK0N_hgJ
+	Alexander Fiedler aka "Requiem"
+	http://www.planetquake.com/requiem
+		https://web.archive.org/web/19970607133312/http://www.planetquake.com/requiem/
+	1.02 se
+		http://www.planetquake.com/requiem/files/req_se.zip
+		ftp://ftp.cdrom.com/pub/quake/planetquake/qca/req_se.zip
+		http://www.planetquake.com/requiem/files/req_se.zip
+			https://dukeworld.com/idgames2/quakec/misc/req_se.zip
+			https://dukeworld.com/idgames2/quakec/misc/req_se.txt
+		http://www.planetquake.com/requiem/files/bugfix1.zip
+		http://www.planetquake.com/requiem/files/bugfix2.zip
+	1.03 (same filename: req_se.zip)
+		https://www.quakewiki.net/archives/qca/reviews/patch97.txt
+	1.07d
+		http://www.planetquake.com/requiem/files/req107d.zip
+	https://www.quakewiki.net/archives/qca/reviews/patch97.htm
+	https://web.archive.org/web/19990422135727/http://www.reqoning.com/
+	https://web.archive.org/web/20010706114218/http://reqoning.com:80/q1req/index.html
+	src
+		https://web.archive.org/web/20000118191934/http://asp.planetquake.com/dl/dl.asp?requiem/reqsrc.zip
+			reqsrc.zip
+Requiem + QW
+	Alexander Fiedler aka "Requiem"
+	https://web.archive.org/web/20010712055409/http://www.reqoning.com/files
+	https://web.archive.org/web/19990221032931/http://asp.planetquake.com/dl/dl.asp?requiem/
+		reqqwsrc.zip
+	https://web.archive.org/web/20010712055409/http://www.reqoning.com/qw/
+		qwreq24.zip
+	https://web.archive.org/web/20010712055409/http://www.reqoning.com/client/
+		reqpak2.zip
+	https://web.archive.org/web/19991119004944/http://planetquake.com/dl/dl.asp?requiem/reqqw23.zip
+	https://web.archive.org/web/19991119004944/http://www.planetquake.com/requiem/files/reqqw23.zip
+		reqqw23.zip
+	https://web.archive.org/web/20000118191934/http://www.planetquake.com/requiem/files/reqqw20i.zip
+		reqqw20i.zip
 
 
 RESEARCHING...
@@ -2002,10 +2050,7 @@ Bot Epidemic files
 	http://web.archive.org/web/20010803101723/http://www.3ddownloads.com/?directory=/telefragged/be/
 frikbot files
 	http://web.archive.org/web/20030703161548/http://www.3ddownloads.com/telefragged/inside3d/frikbot
-Requiem
-	compilation mod, with bots
-	https://groups.google.com/g/rec.games.computer.quake.announce/c/YvUGOjRFVSQ/m/gnzrOsHyUWgJ
-	ftp://ftp.cdrom.com/pub/quake/newstuff/req.zip
+
 
 
 

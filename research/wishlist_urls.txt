@@ -61,6 +61,8 @@ ftp://quake.mtu.ru/pub/quake/bots/zeusbot.zip
 ftp://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/idgames2/telefragged/epidemic/frogbot012a.zip
 ftp://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/idgames2/telefragged/metro/frogbot007.zip
 ftp://ter.ort.spb.ru/Nico/Pathes/Bots/obot100.zip
+http://asp.planetquake.com/dl/dl.asp?requiem/reqqwsrc.zip
+http://asp.planetquake.com/dl/dl.asp?requiem/reqsrc.zip
 http://botarea51.impulse9.net/mirror/bot/elimpack.zip
 http://first.quakegate.ru/bots/frogbot.rar
 http://freespace.virgin.net/w.james/DJbot1.zip
@@ -164,6 +166,11 @@ http://www.parboil.newmail.ru/parboil/fbca86se.zip
 http://www.parboil.quakeworld.ru/parboil/fbma102_src.zip
 http://www.parboil.quakeworld.ru/parboil/frogbotmaps.zip
 http://www.parboil.quakeworld.ru/tappak/fbca102kt-rc1.zip
+http://www.planetquake.com/requiem/files/bugfix1.zip
+http://www.planetquake.com/requiem/files/bugfix2.zip
+http://www.planetquake.com/requiem/files/req107d.zip
+http://www.planetquake.com/requiem/files/reqqw20i.zip
+http://www.planetquake.com/requiem/files/reqqw23.zip
 http://www.ritual.com/shack_files/quakec/obots100.zip
 http://www.rmbwenw.nl/botarea51/files/xreaper/setup.exe
 http://www.telefragged.com/mirrors/mirror.pl?epidemic/frogbot012.zip

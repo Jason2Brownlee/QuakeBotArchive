@@ -160,6 +160,8 @@ Reaper + Scourge of Armagon | Bent Svendsen aka "Decker" | [hipreap3.zip](bin/hi
 Reaper Bot | Steven Polge | [reaprb81.zip](bin/reaprb81.zip) ([txt](bin/reaprb81.txt))<br>[rb81src_unoff.zip](bin/rb81src_unoff.zip)<br>[reaprb80.zip](bin/reaprb80.zip)<br>reaprb75.zip ([txt](bin/reaprb75.txt))<br>[reaprb07.zip](bin/reaprb07.zip) ([txt](bin/reaprb07.txt))<br>[reaprb06.zip](bin/reaprb06.zip)<br>[reaprb05.zip](bin/reaprb05.zip)
 ReaperFX Bot | Paul Johnstone aka "Pob the Impaler" | [reaperfx.zip](bin/reaperfx.zip)
 Reformed Reaper Bot | "win32ch" | [rrbotprogs.zip](bin/rrbotprogs.zip) <br>[rrbotsrc.zip](bin/rrbotsrc.zip)
+Requiem + QW | Alexander Fiedler aka "Requiem" | [qwreq24.zip](bin/qwreq24.zip)<br>[reqpak2.zip](bin/reqpak2.zip)<br>reqqwsrc.zip<br>reqqw23.zip<br>reqqw20i.zip
+Requiem | Alexander Fiedler aka "Requiem" | [req2_pe.zip](bin/req2_pe.zip) ([txt](bin/req2_pe.txt))<br>[req2fb.zip](bin/req2fb.zip)<br>[reqpak2.zip](bin/reqpak2.zip)<br>reqsrc.zip<br>bugfix3.zip<br>req_se103.zip ([txt](bin/req_se103.txt))<br>bugfix2.zip<br>bugfix1.zip<br>[req_se102.zip](bin/req_se102.zip) ([txt](bin/req_se102.txt))<br>req107d.zip<br>[req105.zip](bin/req105.zip)
 Ric's Reaper Bots | "Ric" | [reap081h.zip](bin/reap081h.zip)
 Roam Bot | Carson Sutton aka "Crimson" | [roambot1.zip](bin/roambot1.zip) ([txt](bin/roambot1.txt))
 Rogue Bot | Benjamin Darling aka "Electro" | [rbot.zip](bin/rbot.zip)

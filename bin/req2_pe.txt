@@ -1,0 +1,18 @@
+                              QUAKE
+                
+                        - R E Q U I E M -
+                         Ode To The Dead
+
+                           VERSION 2.0
+
+                           PAK Edition
+
+------------------------------------------------------------------------
+
+This edition includes:
+
+1. Requiem 2.0 final beta server for Quake
+2. Requiem 2.0 client pack
+3. Skins from Requiem special edition
+
+All is in a single pak0.pak file for easy installation.
