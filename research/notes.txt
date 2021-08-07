@@ -1801,6 +1801,10 @@ Requiem
 	src
 		https://web.archive.org/web/20000118191934/http://asp.planetquake.com/dl/dl.asp?requiem/reqsrc.zip
 			reqsrc.zip
+	files
+		https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/requiem/
+		https://www.quaddicted.com/files/idgames2/planetquake/requiem/
+		https://dukeworld.com/planetquake/requiem/
 Requiem + QW
 	Alexander Fiedler aka "Requiem"
 	https://web.archive.org/web/20010712055409/http://www.reqoning.com/files
@@ -1815,6 +1819,8 @@ Requiem + QW
 		reqqw23.zip
 	https://web.archive.org/web/20000118191934/http://www.planetquake.com/requiem/files/reqqw20i.zip
 		reqqw20i.zip
+
+
 
 
 RESEARCHING...

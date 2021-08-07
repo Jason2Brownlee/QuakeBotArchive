@@ -22,6 +22,9 @@ botskn21.zip
 bplayer.zip
 brbot.exe
 btsk22.zip
+bugfix1.zip
+bugfix2.zip
+bugfix3.zip
 clanv0.5auto.zip
 clanv0.6auto.zip
 clanv0.7hman.zip
@@ -167,6 +170,11 @@ qcbot002.zip
 rbot.zip
 reaper.zip
 reaprb75.zip
+req107d.zip
+reqqw20i.zip
+reqqw23.zip
+reqqwsrc.zip
+reqsrc.zip
 rnbt3.4.zip
 rnbt3.6.zip
 setup.exe
@@ -199,11 +207,3 @@ zeus20.zip
 zeus201.zip
 zeus202b.zip
 zeus2041.zip
-reqqw20i.zip
-reqqw23.zip
-reqqwsrc.zip
-reqsrc.zip
-req107d.zip
-bugfix1.zip
-bugfix2.zip
-bugfix3.zip

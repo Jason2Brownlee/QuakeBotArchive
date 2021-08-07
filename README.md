@@ -128,7 +128,7 @@ JBot | Jeffrey Lee | [jbot.zip](bin/jbot.zip)
 KarNag Bot | Ken Madlener | [knbot45.zip](bin/knbot45.zip) ([txt](bin/knbot45.txt))<br>[knbot03.zip](bin/knbot03.zip)
 Khol's FMODS | "Khol" | kfmod.zip
 Killer Qcbot | William  Ravaine aka "Killer-Sub" | [kqcbots095b.zip](bin/kqcbots095b.zip) ([txt](bin/kqcbots095b.txt))<br>kqcbotsource.zip
-Killer Quake Pack (KQP) | Howard Roy aka "Solo" | [kqp220z.zip](bin/kqp220z.zip) ([txt](bin/kqp220z.txt))<br>[kqp210z.zip](bin/kqp210z.zip)<br>[kqp200z.zip](bin/kqp200z.zip)<br>[kqp100.zip](bin/kqp100.zip)<br>[killer90.zip](bin/killer90.zip) ([txt](bin/killer90.txt))<br>killer87.zip<br>killer86b.zip<br>killer86.zip<br>[killer85.zip](bin/killer85.zip)<br>killer80.zip
+Killer Quake Pack (KQP) | Howard Roy aka "Solo" | [kqp220z.zip](bin/kqp220z.zip) ([txt](bin/kqp220z.txt))<br>[kqp210z.zip](bin/kqp210z.zip)<br>[kqp200z.zip](bin/kqp200z.zip) ([txt](bin/kqp200z.txt))<br>[kqp100.zip](bin/kqp100.zip)<br>[killer90.zip](bin/killer90.zip) ([txt](bin/killer90.txt))<br>killer87.zip<br>killer86b.zip<br>killer86.zip<br>[killer85.zip](bin/killer85.zip)<br>killer80.zip
 Kooliobot | Robert de Heus aka "Koolio" | [kooliobot.zip](bin/kooliobot.zip)<br>koolio.zip
 Lightning Gun Competition (LGC) | Phil Romov aka "peheyele" | [lgc3.zip](bin/lgc3.zip)<br>[lgc2c.zip](bin/lgc2c.zip)<br>[lgc2.zip](bin/lgc2.zip)<br>lgc.zip
 Lithium CTF Bot | Juan Ignacio Rava aka "Johnny" | [lith091c.zip](bin/lith091c.zip)
