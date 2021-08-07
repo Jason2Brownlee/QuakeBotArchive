@@ -1072,7 +1072,10 @@ GlacierBot
 	https://web.archive.org/web/20020805015135/http://ssj4death.condemned.com/gb/gb027b.zip
 	may 2002
 	cannot locate a download
-	???
+	http://web.archive.org/web/20020706014001/http://www.quakepit.com:80/icedagger/news.htm
+	http://web.archive.org/web/20020716114929/http://www.quakepit.com:80/icedagger/files.htm
+	http://web.archive.org/web/20020716114929/http://ssj4death.condemned.com/gb/gb027b.zip
+	http://web.archive.org/web/20020716114929/http://ssj4death.condemned.com/gb/gbped10.zip
 JBot
 	http://www.phlamethrower.co.uk/quake/
 	http://www.phlamethrower.co.uk/quake/jbot.zip
@@ -1991,7 +1994,6 @@ Ultimate Deathmatch
 	???
 quake mods here that have a bot added
 	http://www.randars.com/bots/bots2.html
-	https://www.quaketerminus.com/addon.shtml
 frikbot mods
 	http://leileilol.mancubus.net/static/download.html
 	...
@@ -2002,16 +2004,6 @@ QuakeBot
 	Ioan Chera
 	released?
 	https://sourceforge.net/u/printz/profile/
-Decoyz
-	singleplayer bot
-	https://web.archive.org/web/19961121231508/http://www.stomped.com/files.quakec.html
-	https://web.archive.org/web/19961121231508/ftp://ftp.stomped.com/pub/quake/quakec/bots/decoyz.zip
-	http://cd.textfiles.com/swextrav8/swextrav8-2/gamapog1/decoyz.zip
-	also on the power tools cd...
-	Sam Shockey
-	decoyz2.txt
-	http://cd.textfiles.com/pdsl/HELP/GAMERTK.TXT
-	also in cdrom.com all .txt files from archive.org
 imbot
 	https://web.archive.org/web/19961221053200/http://www.gamesmania.com/english/quake/quakec.htm
 		https://web.archive.org/web/*/www.gamesmania.com/*
@@ -2056,8 +2048,19 @@ Bot Epidemic files
 	http://web.archive.org/web/20010803101723/http://www.3ddownloads.com/?directory=/telefragged/be/
 frikbot files
 	http://web.archive.org/web/20030703161548/http://www.3ddownloads.com/telefragged/inside3d/frikbot
-
-
+Quake 1 Arena
+	bots, basically a TC
+	https://www.quaketerminus.com/addon.shtml
+	http://www.quaketerminus.com/mods/q1a_075.zip
+	http://web.archive.org/web/20050204022844/http://www.quakepit.com/electro/
+Soul of Evil
+	bots
+	http://www.quaketerminus.com/mods/soul_of_evil.zip
+	http://web.archive.org/web/20051218230947/http://www.planetquake.com/tronyn/soul/
+Sky Blazer
+	https://www.quaketerminus.com/addon.shtml
+	http://www.quaketerminus.com/mods/sky.zip
+	http://web.archive.org/web/20040621003527/http://www.planetquake.com/minion/sky.htm
 
 
 OUT OF SCOPE
@@ -2220,7 +2223,17 @@ Monster Deathmatch
 	http://www.quaketastic.com/upload/files/multiplayer/mods/monsterdm_vmodels.zip
 	"Orion"
 	play as monsters in deathmatch...
-
+Decoyz
+	singleplayer bot
+	https://web.archive.org/web/19961121231508/http://www.stomped.com/files.quakec.html
+	https://web.archive.org/web/19961121231508/ftp://ftp.stomped.com/pub/quake/quakec/bots/decoyz.zip
+	http://cd.textfiles.com/swextrav8/swextrav8-2/gamapog1/decoyz.zip
+	also on the power tools cd...
+	Sam Shockey
+	decoyz2.txt
+	http://cd.textfiles.com/pdsl/HELP/GAMERTK.TXT
+	also in cdrom.com all .txt files from archive.org
+	nope, just a hologram type mod
 
 
 
