@@ -314,6 +314,8 @@ BGADM Bot
 	https://www.gamers.org/pub/idgames2/quakec/bots/bgadm101.txt
 	https://www.gamers.org/pub/idgames2/quakec/bots/bgadm101.zip
 	I had to compile manually qith qcc...
+	https://groups.google.com/g/dfw.jobs/c/9WYm6XtoefA/m/vjfzY8p-BoQJ
+		George Leithner
 BPLAYER - Bot Player
 	https://www.quaddicted.com/files/idgames2/quakec/bots/bplayer2.txt
 	https://www.quaddicted.com/files/idgames2/quakec/bots/bplayer2.zip
