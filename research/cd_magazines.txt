@@ -38,6 +38,7 @@ PC Gamer (Italian Edition) Coverdisc 025
 
 
 
+
 no bot
 ------
 PC Gamer October 1997 / 3.7 / Quake-O-Rama
@@ -150,6 +151,17 @@ PC Games.EXE (December 1996)
 Computer Shopper [UK] Issue 104 CD-ROM
 	https://archive.org/details/computer-shopper-uk-104-cdrom
 	shareware
+PC Zone 43 (October 1996)
+	http://www.pixsoriginadventures.co.uk/PCZone/PC%20Zone%2043%20(October%201996)/
+	https://archive.org/details/PC_Zone_43_October_1996/page/n3/mode/2up
+	https://archive.org/details/PC_Zone_43_October_1996
+	shareware
+	util
+PC Zone 42 (September 1996)
+	http://www.pixsoriginadventures.co.uk/PCZone/PC%20Zone%2042%20(September%201996)/
+	http://www.pixsoriginadventures.co.uk/PCZone/PC%20Zone%2042%20(September%201996)/CDZone%2342.rar
+	nothing
+
 
 
 todo (have to download..)
@@ -214,4 +226,26 @@ Best of Internet (October 1996) (PC Collector)
 	???
 	needs to unzip..
 	There are more of these for nov, dec...
+PC Zone 44 (November 1996)
+	TODO: I need the cd...
+	https://archive.org/stream/PC_Zone_44_November_1996/PC_Zone_44_November_1996_djvu.txt
+	http://www.pixsoriginadventures.co.uk/PCZone/PC%20Zone%2044%20(November%201996)/
+	http://www.pixsoriginadventures.co.uk/PCZone/PC%20Zone%2044%20(November%201996)/PC%20Zone%2044%20(November%201996).pdf
+		Explore your PC Zone CD this month and
+		find a directory called 'QSTUFF. Within, you
+		will find several directories, each one packed
+		to touching cloth point with new code
+		constructed by the sad denizens of the Net.
+		Most of this stuff was sourced from
+		http://www.stomped.com/ - the best Quake Web
+		site around. There are a few things to note,
+		however, before you canter off into the wonder-
+		park.
+	BGADMBOT
+	BGBOT
+	CUJO
+	MYBOT
+	WISP
+
+
 
