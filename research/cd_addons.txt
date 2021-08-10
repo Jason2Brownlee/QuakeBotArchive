@@ -214,14 +214,41 @@ Quakestar
 	https://legendsworld.net/shooter/game/24945
 	https://archive.org/details/blackstarmultimediaquakestar
 	just maps
+Unknown Warez CD (December '96 Vol 3) (Cracked)
+	https://archive.org/details/cd-dec-96-vol-3
+	"Toolkit for Quake"
+	QUAKEKIT.DAT
+		needs a password: walkman
+	had mods
+	holo1 and 2
+	looks like another cd... QUAKEKIT
 
 
 
-
-TODO (cannot locate/access a copy)
+TODO (need to process)
 ----
-promising leads: "Chartbusters 10" and "Time of Reckoning"
 
+Best of Internet (September 1996)
+	https://archive.org/details/boi-sep-96
+	Quake Project1 V0.5
+	all .bin files...
+	???
+Best of Internet (November 1996)
+	https://archive.org/details/boi-nov-1996
+	Quake V1.01 -> V1.06 update patch
+	Quake Advanced Weapons Pack V.7
+	Thred - Tha Quake Editor
+	???
+Best of Internet (October 1996) (PC Collector)
+	https://archive.org/details/boi-oct-96
+	has quakec compiler qcc
+	???
+	needs to unzip..
+	There are more of these for nov, dec...
+Triada Russian CD Anthology Quake (Fenklub
+	https://archive.org/details/Triada_Russian_CD_Anthology_Quake_Fenklub
+	(have to download...)
+	???
 "Quake 2 Toolkit"
 	https://archive.org/details/q-2-tool-0498
 	https://archive.org/details/toolkitforquakeiiusa
@@ -229,6 +256,14 @@ promising leads: "Chartbusters 10" and "Time of Reckoning"
 	probably just q2 stuff, but best to check
 	(have to download...)
 	???
+
+
+
+
+TODO (cannot locate)
+----
+promising leads: "Chartbusters 10" and "Time of Reckoning"
+
 Quake World
 	https://legendsworld.net/shooter/game/1845
 	https://www.legendsworld.net/site/download.php?mirror=16915

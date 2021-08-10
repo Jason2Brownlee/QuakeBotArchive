@@ -165,6 +165,17 @@ PC Zone 42 (September 1996)
 	http://www.pixsoriginadventures.co.uk/PCZone/PC%20Zone%2042%20(September%201996)/
 	http://www.pixsoriginadventures.co.uk/PCZone/PC%20Zone%2042%20(September%201996)/CDZone%2342.rar
 	nothing
+Soft CD Magazine
+	https://archive.org/details/softcdmagazine
+	quake shareware 0.91
+Deathmatch Manifesto CD-ROM
+	https://archive.org/details/DEATHMATCH_MANIFESTO
+	tons of maps
+CU Amiga Super CD-ROM #22
+	https://archive.org/details/cu-amiga-super-cd-rom-22
+	shareware I think, for Amiga
+
+
 
 
 
@@ -210,9 +221,17 @@ Australian PC User November 1997
 	???
 CHIP 1996. szeptember (CD 07) (Hungarian PC magazine CD)
 	https://archive.org/details/CHIP1996SzeptemberCD07
+	quake demo
 	???
 CHIP 1996. november (CD 09) (Hungarian PC magazine CD)
 	https://archive.org/details/CHIP1996NovemberCD09
+	quake patch
+	???
+CHIP 1996. október (CD 08) (Hungarian PC magazine CD)
+	https://archive.org/details/CHIP1996OktoberCD08
+	???
+CHIP 1996. december (CD 10) (Hungarian PC magazine CD)
+	https://archive.org/details/CHIP1996DecemberCD10
 	???
 PC Gamer CD 3.2
 	https://archive.org/details/cdrom-pcgamer-302
@@ -221,12 +240,6 @@ PC Gamer CD 3.2
 PC Gamer (Italian Edition) Coverdisk 020
 	https://archive.org/details/PCGamerITCD20
 	???
-Best of Internet (October 1996) (PC Collector)
-	https://archive.org/details/boi-oct-96
-	has quakec compiler qcc
-	???
-	needs to unzip..
-	There are more of these for nov, dec...
 PC Zone 44 (November 1996)
 	TODO: I need the cd...
 	https://archive.org/stream/PC_Zone_44_November_1996/PC_Zone_44_November_1996_djvu.txt
@@ -242,11 +255,13 @@ PC Zone 44 (November 1996)
 		site around. There are a few things to note,
 		however, before you canter off into the wonder-
 		park.
-	BGADMBOT
-	BGBOT
-	CUJO
-	MYBOT
-	WISP
+	in the mag:
+		BGADMBOT
+		BGBOT
+		CUJO
+		MYBOT
+		WISP
+	cd?
 pc zone 45, dec 1996
 	http://www.pixsoriginadventures.co.uk/PCZone/PC%20Zone%2045%20(December%201996)/
 	http://www.pixsoriginadventures.co.uk/PCZone/PC%20Zone%2045%20(December%201996)/PC%20Zone%2045%20(December%201996).pdf
@@ -255,11 +270,16 @@ pc zone 45, dec 1996
 pc zone feb 1997
 	http://www.pixsoriginadventures.co.uk/PCZone/PC%20Zone%2047%20(February%201997)/PC%20Zone%2047%20(February%201997).pdf
 	nothing
+	cd?
 PC Powerplay Issue 007 (1996-11)
 	https://archive.org/details/PCPowerplay-007-1996-11/page/n43/mode/2up
 	does not appear to be anby quake stuff listed in the mag for the cd
+	cd?
 PC Powerplay Issue 012
 	https://archive.org/details/PCPowerplay-012-1997-05/page/n7/mode/2up
 	- quake patch
 	- quake developers kit (?)
+	cd?
+
+
 
