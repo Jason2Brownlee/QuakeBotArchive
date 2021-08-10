@@ -127,10 +127,90 @@ gameaholic.com
 	https://web.archive.org/web/19991007100932/http://idgames.gameaholic.com:80/idgames/quakec/bots/
 	https://web.archive.org/web/19981201180505/http://idgames.gameaholic.com:80/idgames.d/quakec/bots/reaper/
 	https://web.archive.org/web/19970605031059/http://www.gameaholic.com:80/deicide/download.cgi?/quakec/bots/rbot.zip
-
 captured.com
+	http://www.captured.com/
+		https://web.archive.org/web/19981111185040/http://www.captured.com/
+		https://web.archive.org/web/20001213032100fw_/http://www.captured.com/archive/news_april97_body.htm
+		https://web.archive.org/web/20001213032100/http://www.imaxx.net/~dakota/capture/FILES/ctfbot131.zip
+			https://web.archive.org/web/19970429190749/http://www.imaxx.net/~dakota/capture/main.htm
+			https://web.archive.org/web/19970429211350/http://www.imaxx.net/~dakota/capture/FILES/reaprb81.zip
+			https://web.archive.org/web/19970429211350/http://www.imaxx.net/~dakota/capture/FILES/ctfbot131.zip
 	http://www.captured.com/bot/
-	https://web.archive.org/web/19981202043059/http://www.captured.com/bot/
+		ctf bots, q2?
+		https://web.archive.org/web/19981202043059/http://www.captured.com/bot/
+		https://web.archive.org/web/20000306181131fw_/http://captured.com/bot/mods.htm
+			https://web.archive.org/web/20000306181131/http://www.captured.com/ctfbot
+			https://web.archive.org/web/20000306181131/http://www.planetquake.com/botshop
+			https://web.archive.org/web/20000306181131/http://users.jp.tri6.net/~ponpoko/stupid.html
+http://quakemecca.simplenet.com
+	simplenet.com
+		https://web.archive.org/web/*/simplenet.com/*
+		https://web.archive.org/web/19961115071353/http://www.simplenet.com/
+	quakemecca.simplenet.com
+		https://web.archive.org/web/*/quakemecca.simplenet.com/*
+		https://web.archive.org/web/19970529162631/http://quakemecca.simplenet.com/
+		https://web.archive.org/web/19970512082540/http://www.meccaworld.com/quake/index.htm
+		https://web.archive.org/web/19970529162812/http://quakemecca.simplenet.com/quake.htm
+		https://web.archive.org/web/19970529162747/http://quakemecca.simplenet.com/misc.htm
+		https://web.archive.org/web/19970529162703/http://quakemecca.simplenet.com/links.htm
+		https://web.archive.org/web/19970530203353/http://quakemecca.simplenet.com:80/files/downloads/
+		https://web.archive.org/web/19970529162657/http://quakemecca.simplenet.com/download.htm
+		https://web.archive.org/web/19970530203615/http://quakemecca.simplenet.com/files/downloads/quakec.htm
+			https://web.archive.org/web/19970530203615/http://quakemecca.simplenet.com/files/downloads/files/downloads/ctfbot12.zip
+			https://web.archive.org/web/19970530203615/http://quakemecca.simplenet.com/files/downloads/files/downloads/zeus2042.zip
+			https://web.archive.org/web/19970530203615/http://quakemecca.simplenet.com/files/downloads/files/downloads/cujo13.zip
+			https://web.archive.org/web/19970530203615/http://quakemecca.simplenet.com/files/downloads/files/downloads/killer.zip
+		https://web.archive.org/web/19970529162802/http://quakemecca.simplenet.com/quakec.htm
+			https://web.archive.org/web/19970529162802/http://quakemecca.simplenet.com/files/downloads/oak081.zip
+			https://web.archive.org/web/19970529162802/http://quakemecca.simplenet.com/files/downloads/oak0405.zip
+			https://web.archive.org/web/19970529162802/http://quakemecca.simplenet.com/files/downloads/ctfbot13.zip
+			https://web.archive.org/web/19970529162802/http://quakemecca.simplenet.com/files/downloads/zeus2042.zip
+			https://web.archive.org/web/19970529162802/http://quakemecca.simplenet.com/files/downloads/kqp20z.zip
+		https://web.archive.org/web/19970707171150/http://quakemecca.simplenet.com:80/quakec.htm
+			https://web.archive.org/web/19970707171150/http://quakemecca.simplenet.com:80/files/downloads/oak085.zip
+			https://web.archive.org/web/19970707171150/http://quakemecca.simplenet.com:80/files/downloads/oak0405.zip
+			https://web.archive.org/web/19970707171150/http://quakemecca.simplenet.com:80/files/downloads/oak084.zip
+			https://web.archive.org/web/19970707171150/http://quakemecca.simplenet.com:80/files/downloads/kagero.zip
+			https://web.archive.org/web/19970707171150/http://quakemecca.simplenet.com:80/files/downloads/oak081.zip
+			https://web.archive.org/web/19970707171150/http://quakemecca.simplenet.com:80/files/downloads/ctfbot13.zip
+			https://web.archive.org/web/19970707171150/http://quakemecca.simplenet.com:80/files/downloads/zeus2042.zip
+			https://web.archive.org/web/19970707171150/http://quakemecca.simplenet.com:80/files/downloads/killer.zip
+		https://web.archive.org/web/19971016133308/http://quakemecca.simplenet.com:80/quakec.htm
+			https://web.archive.org/web/19971016133308/http://quakemecca.simplenet.com:80/files/downloads/reaprb81.zip
+			https://web.archive.org/web/*/http://quakemecca.simplenet.com:80/files/downloads/reaprb75.txt
+			https://web.archive.org/web/19970530203249/http://quakemecca.simplenet.com:80/files/downloads/reaprb75.txt
+			...
+		https://web.archive.org/web/19970529162947/http://quakemecca.simplenet.com/bots.htm
+		https://web.archive.org/web/19970707171443/http://quakemecca.simplenet.com:80/bots.htm
+		https://web.archive.org/web/19970530190922/http://quakemecca.simplenet.com/elim.htm
+			https://web.archive.org/web/19970530190922/ftp://ftp.cdrom.com/pub/idgames2/quakec/bots/eliminator/elim14.zip
+		https://web.archive.org/web/19970530190943/http://quakemecca.simplenet.com/bgbot.htm
+			https://web.archive.org/web/19970530190943/ftp://ftp.cdrom.com/pub/idgames2/quakec/bots/bgbot20a.zip
+		https://web.archive.org/web/19970530185051/http://quakemecca.simplenet.com/reaper.htm
+			https://web.archive.org/web/19970530185051/http://quakemecca.simplenet.com/files/downloads/reaprb81.zip
+		https://web.archive.org/web/*/http://quakemecca.simplenet.com:80/files/downloads/cujo14.zip
+	www.meccaworld.com
+		https://web.archive.org/web/19961221082657/http://meccaworld.com/
+		https://web.archive.org/web/*/http://meccaworld.com/
+		https://web.archive.org/web/*/meccaworld.com/*
+			https://web.archive.org/web/19970217173652/http://meccaworld.com/quake/index.htm
+		https://web.archive.org/web/19970512082540/http://www.meccaworld.com:80/quake/index.htm
+		https://web.archive.org/web/20000603215436/http://meccaworld.com/templates/games.asp?title=Quake
+			top25
+			https://web.archive.org/web/19980211171018/http://meccaworld.com:80/quake/top25/reaper_bot/
+			https://web.archive.org/web/*/http://meccaworld.com:80/quake/top25/zeus_bot/
+		https://web.archive.org/web/19970512082839/http://www.meccaworld.com/new.html
+	quakefactor.simplenet.com
+		https://web.archive.org/web/19971222150219/http://quakefactor.simplenet.com/
+		https://web.archive.org/web/*/quakefactor.simplenet.com/*
+
+https://web.archive.org/web/19980116133014/http://www.foobar.co.uk/users/macnet/rpbot/
+	https://web.archive.org/web/19980116133014/http://www.foobar.co.uk/users/macnet/rpbot/downloads/reaprb81.txt
+	https://web.archive.org/web/19980116133014/http://www.foobar.co.uk/users/macnet/rpbot/downloads/reaprb81.zip
+	https://web.archive.org/web/19980116133014/http://www.foobar.co.uk/users/macnet/rpbot/downloads/16reapers.zip
+	https://web.archive.org/web/19980116133014/ftp://ftp.cdrom.com/pub/idgames2/quakec/bots/reaper
+
+
 
 
 old news sites:
@@ -198,6 +278,7 @@ http://www.kinglink.com/qhq
 	http://www.kinglink.com/qhq/index.html
 	http://www.kinglink.com:80/qhq/reaper.html
 	http://www.kinglink.com/qhq/news.html
+
 
 
 
