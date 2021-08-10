@@ -35,7 +35,11 @@ PC Gamer (Italian Edition) Coverdisc 025
 	https://archive.org/details/PCGamerITCD25
 	bots:
 		zeus205.zip and zeus205s.zip
-
+PC PowerPlay Quake Bible CD
+	https://archive.org/details/QUAKEBIBLE
+		ELIM14PK.ZIP
+		OBOTS102.ZIP
+		REAPRB81.ZIP
 
 
 
@@ -204,9 +208,6 @@ PC Zone 55 (October 1997)
 Australian PC User November 1997
 	https://archive.org/details/PCUNOV97
 	???
-PC PowerPlay Quake Bible CD
-	https://archive.org/details/QUAKEBIBLE
-	???
 CHIP 1996. szeptember (CD 07) (Hungarian PC magazine CD)
 	https://archive.org/details/CHIP1996SzeptemberCD07
 	???
@@ -246,6 +247,19 @@ PC Zone 44 (November 1996)
 	CUJO
 	MYBOT
 	WISP
-
-
+pc zone 45, dec 1996
+	http://www.pixsoriginadventures.co.uk/PCZone/PC%20Zone%2045%20(December%201996)/
+	http://www.pixsoriginadventures.co.uk/PCZone/PC%20Zone%2045%20(December%201996)/PC%20Zone%2045%20(December%201996).pdf
+	quake spy
+	cd?
+pc zone feb 1997
+	http://www.pixsoriginadventures.co.uk/PCZone/PC%20Zone%2047%20(February%201997)/PC%20Zone%2047%20(February%201997).pdf
+	nothing
+PC Powerplay Issue 007 (1996-11)
+	https://archive.org/details/PCPowerplay-007-1996-11/page/n43/mode/2up
+	does not appear to be anby quake stuff listed in the mag for the cd
+PC Powerplay Issue 012
+	https://archive.org/details/PCPowerplay-012-1997-05/page/n7/mode/2up
+	- quake patch
+	- quake developers kit (?)
 
