@@ -17,6 +17,7 @@ ftp://ftp.cdrom.com/pub/idgames2/telefragged/metro/frogbot007.zip
 ftp://ftp.cdrom.com/pub/quake/quakec/bots/btsk22.zip
 ftp://ftp.cdrom.com/pub/quake/quakec/bots/dmbt21b1.zip
 ftp://ftp.cdrom.com/pub/quake/quakec/bots/doombot.zip
+ftp://ftp.cdrom.com:21/pub/planetquake/holywars/hw_frogbot.zip
 ftp://ftp.elogica.com.br/pub/warlock/brbot.exe
 ftp://ftp.pk.edu.pl/pub/games/id/quaketoys/mods/reaprb75.zip
 ftp://ftp.saix.net/pub/telefragged/metro/frogbot009.zip
@@ -66,6 +67,12 @@ http://asp.planetquake.com/dl/dl.asp?requiem/reqsrc.zip
 http://botarea51.impulse9.net/mirror/bot/elimpack.zip
 http://first.quakegate.ru/bots/frogbot.rar
 http://freespace.virgin.net/w.james/DJbot1.zip
+http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/holywars/hwqwbot.exe
+http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/holywars/hwqwbot.sit
+http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/holywars/hwqwbot.zip
+http://ftp.sunet.se:80/pub/pc/games/idgames2/planetquake/holywars/hw_frogbot.exe
+http://ftp.sunet.se:80/pub/pc/games/idgames2/planetquake/holywars/hw_frogbot.sit.bin
+http://ftp.sunet.se:80/pub/pc/games/idgames2/planetquake/holywars/hw_frogbot.zip
 http://geocities.com/timessquare/hangar/8961/sq12to13.zip
 http://geocities.com/timessquare/hangar/8961/squirt12b.zip
 http://groups.yahoo.com/group/friktf/files/friktf-051901.zip
@@ -87,6 +94,9 @@ http://railgun.macquakeinfinity.com/downloads/fbctf026.zip
 http://railgun.macquakeinfinity.com/downloads/fbctf030.zip
 http://shub-hub.quaddicted.com/files/mods_multiplayer/monsterFBXID1waysV2.zip
 http://ssj4death.condemned.com/gb/gbped10.zip
+http://sunsite.org.uk/packages/idgames2/planetquake/holywars/hw_frogbot.exe
+http://sunsite.org.uk/packages/idgames2/planetquake/holywars/hw_frogbot.sit.bin
+http://sunsite.org.uk/packages/idgames2/planetquake/holywars/hw_frogbot.zip
 http://tlb.quakedev.com/files/fbxways/omega.zip
 http://tlb.quakedev.com/files/fbxways/variants/fbxdoom.rar
 http://tlb.quakedev.com/files/fbxways/variants/fbxpk.zip
@@ -188,3 +198,4 @@ http://xmark.ausgamers.com/xkteams/xkteams1705.zip
 http://xmark.ausgamers.com/xkteams/xkteams1705s.zip
 http://xmark.ausgamers.com/xkteams/xkteams2.zip
 https://www.angelfire.com/pe/pent3/images/frogbot011.zip
+

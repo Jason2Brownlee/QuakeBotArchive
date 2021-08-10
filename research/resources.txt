@@ -203,13 +203,19 @@ http://quakemecca.simplenet.com
 	quakefactor.simplenet.com
 		https://web.archive.org/web/19971222150219/http://quakefactor.simplenet.com/
 		https://web.archive.org/web/*/quakefactor.simplenet.com/*
-
 https://web.archive.org/web/19980116133014/http://www.foobar.co.uk/users/macnet/rpbot/
 	https://web.archive.org/web/19980116133014/http://www.foobar.co.uk/users/macnet/rpbot/downloads/reaprb81.txt
 	https://web.archive.org/web/19980116133014/http://www.foobar.co.uk/users/macnet/rpbot/downloads/reaprb81.zip
 	https://web.archive.org/web/19980116133014/http://www.foobar.co.uk/users/macnet/rpbot/downloads/16reapers.zip
 	https://web.archive.org/web/19980116133014/ftp://ftp.cdrom.com/pub/idgames2/quakec/bots/reaper
-
+http://www.fileplanet.com/index.asp?section=66
+	fileplanet bots
+	https://web.archive.org/web/20000604172004/http://www.fileplanet.com/index.asp?section=66
+	https://web.archive.org/web/20010112144200/http://fileplanet.com/index.asp?section=66&page=2
+	https://web.archive.org/web/20010112144900/http://fileplanet.com/index.asp?section=66&page=4
+		ftp://ftp.cdrom.com:21/pub/planetquake/holywars/hw_frogbot.zip
+		http://home.t-online.de/home/0551705030/squirt10.zip
+		http://www.isleofmull56.freeserve.co.uk/paddybot.zip
 
 
 

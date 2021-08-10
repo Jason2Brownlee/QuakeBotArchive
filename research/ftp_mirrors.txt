@@ -9,12 +9,13 @@ directories
 planetquake directories
 	botarea51
 	botshop
-	skorpion
 	cronos
+	ctfbot
+	holywars
 	minion
 	ramshackle
+	skorpion
 	tfbot
-	ctfbot
 telefragged directories
 	be
 	epidemic
@@ -96,6 +97,7 @@ sunsite.doc.ic.ac.uk/packages/idgames2/
 	https://web.archive.org/web/19990828044346/http://sunsite.org.uk/packages/idgames2/planetquake/minion/
 	https://web.archive.org/web/19990830065307/http://sunsite.org.uk/packages/idgames2/planetquake/tfbot/
 	https://web.archive.org/web/19990829162357/http://sunsite.org.uk/packages/idgames2/planetquake/ramshackle/
+	https://web.archive.org/web/19990827154715/http://sunsite.org.uk/packages/idgames2/planetquake/holywars/
 	https://web.archive.org/web/*/sunsite.doc.ic.ac.uk/*
 ftp.epix.net/pub/idgames2/
 	https://web.archive.org/web/19970516222708/http://ftp.epix.net/
@@ -124,6 +126,7 @@ ftp.sunet.se/pub/pc/games/idgames2/
 	https://web.archive.org/web/19990203011323/http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/tfbot/
 	https://web.archive.org/web/19990826153117/http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/skorpion/
 	https://web.archive.org/web/20001004084745/http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/cronos/
+	https://web.archive.org/web/19990209001225/http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/holywars/
 	https://web.archive.org/web/*/ftp.sunet.se/*
 ftp.edu.sollentuna.se/pub/games/quake-stuff/
 	https://web.archive.org/web/20001027144522/http://ftp.edu.sollentuna.se/
@@ -298,6 +301,7 @@ ftp.netc.pt/pub/idgames/
 	https://web.archive.org/web/20010628025617/http://ftp.netc.pt/pub/planetquake/cronos/
 	https://web.archive.org/web/20010714065752/http://ftp.netc.pt/pub/planetquake/minion/
 	https://web.archive.org/web/20010723205342/http://ftp.netc.pt/pub/planetquake/tfbot/
+	https://web.archive.org/web/20020719213530/http://ftp.netc.pt/pub/planetquake/holywars/
 	https://web.archive.org/web/20010429080944/http://ftp.netc.pt/pub/idgames2/
 	https://web.archive.org/web/20010727134154/http://ftp.netc.pt/pub/idgames2/newstuff/
 	https://web.archive.org/web/20010727135930/http://ftp.netc.pt/pub/idgames2/quakec/
