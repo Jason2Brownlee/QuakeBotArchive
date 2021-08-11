@@ -114,6 +114,7 @@ bots united
 	https://www.celephais.net/board/view_thread.php?id=60873&start=236&end=260
 	https://www.quaddicted.com/forum/viewtopic.php?id=17
 slipgate central bot
+	http://www.slipgatecentral.com
 	https://web.archive.org/web/19971210230311/http://www.slipgatecentral.com/Addons/Bots/
 gameaholic.com
 		http://idgames.gameaholic.com/

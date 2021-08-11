@@ -1,0 +1,173 @@
+OUT OF SCOPE
+--------------------------------------------------------------------------------
+- Client-side bots / proxy bots / aim bots are all out of scope.
+- Engine bots are out of scope.
+- Monsters are out of scope.
+
+
+GeneBot / Gene Bot
+	quakeworld
+	http://www.randars.com/bots/bots1.html
+	http://www.atomicgamer.com/files/14507/release-3-of-the-quakeworld-genebot-server
+	https://web.archive.org/web/20010124062700/http://www.telefragged.com/thefatal/
+	https://web.archive.org/web/20010113234600/http://www.telefragged.com/thefatal/cgi-bin/download.pl?genbot03.zip
+	https://www.richwhitehouse.com/filemirror/genbot03.zip
+	genbot01.zip
+	genbot02.zip
+	genbot03.zip
+	quake world
+	engine bot I believe...
+Minion
+	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/minion.htm
+	monster
+dragon
+	http://www.insideqc.com/modindex/qreview/drag.shtml
+	https://web.archive.org/web/19990125075903/http://203.32.12.18/
+	monster
+Mystery Bot
+	http://www.insideqc.com/modindex/qreview/mys.shtml
+	http://mystery.telefragged.com/
+	https://web.archive.org/web/19971222022816/http://mystery.telefragged.com/
+	https://webjc.com/zone51/jeux/Qbots3.htm
+	client-side
+tEdBot
+	https://web.archive.org/web/20000303070145/http://www.botepidemic.com/bots/quake.shtml
+	Grant Davies & Ramanan Rajeswaran
+	http://www.labyrinth.net.au/~adsoft
+	https://web.archive.org/web/19990204002002/http://www.labyrinth.net.au/~adsoft/
+	client side
+mikeBot
+	https://web.archive.org/web/19990204002855/http://www.planetquake.com/mikeBot/
+	https://web.archive.org/web/19990127170703/http://www.planetquake.com/mikeBot/table-index.html
+	client side
+stooge bot
+	https://graphics.stanford.edu/~kekoa/stoogebot/about.html
+	client side
+Requiem QW Bot
+	https://web.archive.org/web/20000303070145/http://www.botepidemic.com/bots/quake.shtml
+	Requiem
+	http://www.planetquake.com/requiem
+	https://web.archive.org/web/19981206204028/http://www.planetquake.com/requiem/
+	https://www.quakeworld.nu/wiki/Requiem
+	bots added to a mod I believe
+Itchy Bot
+	https://web.archive.org/web/20001027075424/http://www.botepidemic.com/bots/quake.shtml
+	https://web.archive.org/web/20000818034616/http://www-mddsp.enel.ucalgary.ca/People/dreveny/itchy/index.html
+	client side
+PandoraBot
+	https://web.archive.org/web/20001027075424/http://www.botepidemic.com/bots/quake.shtml
+	client side
+AE_Playmate
+	https://www.bluesnews.com/archives/august96.html
+	http://www.tf.hut.fi/~ath/Aesir/
+	"Clan Aesir"
+	http://www.tf.hut.fi/~ath/Aesir/bot.html
+	https://web.archive.org/web/19990117030446/http://www.tf.hut.fi/~ath/Aesir/bot.html
+	client side bot, it looks like
+Interference Bot
+	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/news.htm
+	http://tux.telefragged.com/download.pl?dir=telefragged/be/&filename=interbotdm79z.zip&dl=local
+	interbotdm79z.zip
+	http://tux.telefragged.com/download.pl?dir=telefragged/be/&filename=intarena.zip&dl=local
+	intarena.zip
+	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/inter.htm
+	Chris "ArwingX" Dozier
+	monster bot
+loefbot
+	https://webjc.com/zone51/jeux/Qbots3.htm
+	http://www.mindspring.com/~jamesloe/Loefsrc.zip
+	http://www.mindspring.com/~jamesloe/
+	http://www.geocities.ws/oldquaker/loefbot/
+	https://www.quakewiki.net/archives/mikebot/faq.html#2.7
+	client side
+Terminator bot
+	https://www.gamers.org/dEngine/quake/Qbot/
+	client side
+ZaphBot
+	https://web.archive.org/web/20010408210009/http://www.geocities.com/SiliconValley/Vista/1052/zaphbot.html
+	client bot
+BioBots
+	https://web.archive.org/web/19971017015410/http://coriander.psychol.ucl.ac.uk/fw/quakebot1.html
+	client bot
+Tsumi to Botsu
+	https://web.archive.org/web/20020408101357/http://www.botepidemic.com:80/quake.shtml
+	https://web.archive.org/web/20020408101357/http://www.telefragged.com/thefatal/tsumi.shtml
+	https://web.archive.org/web/20020408101357/http://www.3ddownloads.com/?file_id=115170
+	engine bot I believe
+TomazQuake Bot
+	https://web.archive.org/web/20100123221300/http://botepidemic.no-origin.net/quake.shtml.htm
+	http://www.telefragged.com/thefatal/
+	http://riever.condemned.com/TomazBot.zip
+	http://riever.condemned.com/
+	https://web.archive.org/web/20020207050153/http://riever.condemned.com/
+	https://web.archive.org/web/20020206072434/http://www.telefragged.com/thefatal/
+	?
+	what is this?
+	an in-engine bot
+	https://web.archive.org/web/20020206072434/http://www.telefragged.com/thefatal/
+	out of scope?
+	addition of Tsumi to Botsu to an engine
+	engine bot
+QW Bot Project / QuakeForge QW bot server
+	https://web.archive.org/web/20100123221300/http://botepidemic.no-origin.net/quake.shtml.htm
+	Mongoose / botshop (Terry Hendrix II )
+	http://darkskye.home.mindspring.com/quakeworld-20000102.tar.gz
+	http://asp.planetquake.com/dl/dl.asp?/botshop/quakeworld-20000102.tar.gz
+	http://asp.planetquake.com/dl/dl.asp?/botshop/quakeworld-991230.tar.gz
+	https://www.quakewiki.net/archives/botshop/news.html
+	https://www.quakewiki.net/archives/botshop/
+	looks like an engine bot... based on GeneBot I think
+Interference Bot / Monster Mash 2 DM Interference Bot / Interference Bot Arena
+	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/news.htm
+	ArwingX
+	Chris "ArwingX" Dozier
+	http://tux.telefragged.com/download.pl?dir=telefragged/be/&filename=interbotdm79z.zip
+	interbotdm79z.zip
+	http://tux.telefragged.com/download.pl?dir=telefragged/be/&filename=intarena.zip
+	intarena.zip
+	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/inter.htm
+	monster bot..
+Quakabiltiy: Bot Arena
+	https://web.archive.org/web/20020408101357/http://www.botepidemic.com:80/quake.shtml
+	http://www.crosswinds.net/~noricoco/neurotic-homepage.htm
+	total conversion
+	engine bots I believe...
+Void Mod
+	https://web.archive.org/web/20020408101357/http://www.botepidemic.com:80/quake.shtml
+	http://www.mdqnet.net/dept187/
+	made by ryan too...
+	monster bots I think...
+q1 arena
+	https://www.moddb.com/mods/quake-1-arena
+	quake 3 mod...
+	http://www.quaketastic.com/files/single_player/mods/q1a_075.zip
+	???
+	engine + bots I think
+GloBot
+	tomaz quake
+	http://tomaz.snowcold.net/files.php
+	http://tomaz.snowcold.net/files/quake/GloBot_Tut.zip
+	engine bot
+havocbot
+	http://quakeone.com/forum/quake-help/servers-and-coding/12703-quakec-bots
+	engine bot, darkplaces?
+	???
+Monster Deathmatch
+	http://www.quaketastic.com/upload/files/multiplayer/mods/monster_dm.zip
+	http://www.quaketastic.com/upload/files/multiplayer/mods/mondm_patch.zip
+	http://www.quaketastic.com/upload/files/multiplayer/mods/monsterdm_vmodels.zip
+	"Orion"
+	play as monsters in deathmatch...
+Decoyz
+	singleplayer bot
+	https://web.archive.org/web/19961121231508/http://www.stomped.com/files.quakec.html
+	https://web.archive.org/web/19961121231508/ftp://ftp.stomped.com/pub/quake/quakec/bots/decoyz.zip
+	http://cd.textfiles.com/swextrav8/swextrav8-2/gamapog1/decoyz.zip
+	also on the power tools cd...
+	Sam Shockey
+	decoyz2.txt
+	http://cd.textfiles.com/pdsl/HELP/GAMERTK.TXT
+	also in cdrom.com all .txt files from archive.org
+	nope, just a hologram type mod
+
+

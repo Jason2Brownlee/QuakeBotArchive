@@ -22,6 +22,7 @@ List
 	https://web.archive.org/web/20160410114855/http://www.addoncollector.spielepedia.de/multide.html
 
 
+
 BOTS (addons that have bots)
 ----
 Toolkit For Quake (QTOOL_0996) / Walnut Creek
@@ -222,7 +223,13 @@ Unknown Warez CD (December '96 Vol 3) (Cracked)
 	had mods
 	holo1 and 2
 	looks like another cd... QUAKEKIT
-
+DOOM (prboom) + Quake (tyrquake) Games Russian Translate
+	https://archive.org/details/prboom_Ckau
+	nothing
+Triada Russian CD Anthology Quake (Fenklub
+	https://archive.org/details/Triada_Russian_CD_Anthology_Quake_Fenklub
+	(have to download...)
+	nothing
 
 
 TODO (need to process)
@@ -245,10 +252,6 @@ Best of Internet (October 1996) (PC Collector)
 	???
 	needs to unzip..
 	There are more of these for nov, dec...
-Triada Russian CD Anthology Quake (Fenklub
-	https://archive.org/details/Triada_Russian_CD_Anthology_Quake_Fenklub
-	(have to download...)
-	???
 "Quake 2 Toolkit"
 	https://archive.org/details/q-2-tool-0498
 	https://archive.org/details/toolkitforquakeiiusa
