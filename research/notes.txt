@@ -40,8 +40,18 @@ Omicron Bot
 	http://www.demigod.demon.nl/
 		https://web.archive.org/web/19991111071544/http://www.demigod.demon.nl/
 		dead
+		http://www.demigod.demon.nl/omibots1.html
+			https://web.archive.org/web/19981207061921/http://www.demigod.demon.nl/omibots1.html
 	no src ever
 		https://web.archive.org/web/19980614160949/http://www.inside3d.com/jan05-jan06.shtml
+	omicron bot blast
+		https://web.archive.org/web/19990128151537/http://www.visi.com/~zappa/quake/quake.html
+		https://web.archive.org/web/19990218061242/http://www.visi.com/~zappa/quake/faq.html
+		https://web.archive.org/web/19990218085647/http://www.visi.com/~zappa/quake/links.html
+		blast.quakeintosh.com
+			https://web.archive.org/web/*/blast.quakeintosh.com/*
+		https://web.archive.org/web/19980213185455/http://www2.arkansas.net/~bnapier/
+		https://web.archive.org/web/19980128215009/http://www.grayphics.com/~frigid/botblast/index.shtml
 Reaper Bot
 	https://quake.fandom.com/wiki/The_Reaper_Bot
 	https://www.quakewiki.net/archives/botarea51/main/qbot87f1.html?id=14
