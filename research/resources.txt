@@ -113,9 +113,15 @@ bots united
 	https://wiki.archiveteam.org/index.php?title=Atomicgamer
 	https://www.celephais.net/board/view_thread.php?id=60873&start=236&end=260
 	https://www.quaddicted.com/forum/viewtopic.php?id=17
-slipgate central bot
+slipgate central
 	http://www.slipgatecentral.com
-	https://web.archive.org/web/19971210230311/http://www.slipgatecentral.com/Addons/Bots/
+	http://www.slipgatecentral.com/Addons/Bots/
+		https://web.archive.org/web/19971210230311/http://www.slipgatecentral.com/Addons/Bots/
+		https://web.archive.org/web/19971210230240/http://www.slipgatecentral.com/Addons/Quake_C/
+		https://web.archive.org/web/19971210225958/http://www.slipgatecentral.com/news.html
+		https://web.archive.org/web/19971210230038/http://www.slipgatecentral.com/latest.html
+	http://www.nuqneH.org/slipgates
+		https://web.archive.org/web/19990429214156/http://www.nuqneH.org/slipgates
 gameaholic.com
 		http://idgames.gameaholic.com/
 	https://web.archive.org/web/19970628184357/http://www.gameaholic.com:80/idgames/quakec/bots/
@@ -358,6 +364,7 @@ dukeworld
 	https://dukeworld.duke4.net/planetquake/minion/
 	https://dukeworld.duke4.net/planetquake/tfbot/
 	https://dukeworld.duke4.net/planetquake/ramshackle/
+	https://dukeworld.duke4.net/planetquake/holywars/
 lost mods
 	http://leileilol.mancubus.net/leiware/download.php?list.16
 quakeworld wiki

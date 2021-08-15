@@ -156,6 +156,8 @@ http://www.fileplanet.com/index.asp?section=66&file=22736
 http://www.gameaholic.com/deicide/download.cgi?/quakec/bots/darkbt10.zip
 http://www.gameaholic.com/deicide/download.cgi?/quakec/bots/rbot.zip
 http://www.geocities.com/TimesSquare/Fortress/7565/superman11.zip
+http://www.geocities.com/TimesSquare/Hangar/8961/sq12to13.zip
+http://www.geocities.com/TimesSquare/Hangar/8961/squirt12b.zip
 http://www.hipnotic.com/shack_files/quakec/obots100.zip
 http://www.home.earthlink.net/~pentm450/hhbot.zip
 http://www.home.earthlink.net/~pentm450/rnbt3.4.zip
@@ -198,4 +200,3 @@ http://xmark.ausgamers.com/xkteams/xkteams1705.zip
 http://xmark.ausgamers.com/xkteams/xkteams1705s.zip
 http://xmark.ausgamers.com/xkteams/xkteams2.zip
 https://www.angelfire.com/pe/pent3/images/frogbot011.zip
-

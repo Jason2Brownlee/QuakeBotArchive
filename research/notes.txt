@@ -991,6 +991,9 @@ BotSkin
 			https://sites.google.com/view/dnahelix/home
 		http://members.shaw.ca/wac/index-main.html
 			https://web.archive.org/web/20041020204214/http://members.shaw.ca/wac/index-main.html
+		http://www.toptown.com/dorms/wac/program/botskin.htm
+			https://web.archive.org/web/19971210230311/http://www.slipgatecentral.com/Addons/Bots/
+			https://web.archive.org/web/19971210230311/http://www.toptown.com/dorms/wac/program/botskin.htm
 	https://quake.fandom.com/wiki/BotSkin
 	btskn22.zip / botskn22.zip
 		https://www.quaddicted.com/files/idgames2/quakec/bots/btskn22.txt
@@ -1966,6 +1969,7 @@ coopbot / teambot / TeambotX
 	teambot (not related it seems)
 		https://web.archive.org/web/20010302052220if_/http://www.teambot.net:80/
 	usenet
+		https://groups.google.com/g/fido7.ru.game.quake/c/GdJKXJ_pQeU/m/gscDXkvuFlYJ
 		maybe a teambot based on frobot
 			translated from russian: "There are also TeamBots made on the basis of v012 frogs (these are for teamplay), too."
 
@@ -2041,6 +2045,7 @@ Ultimate Quake Mod
 	zeusbot
 QCAP v2.0
 	all kinds of bots
+	Rich Whitehouse
 	https://web.archive.org/web/19980614160345/http://www.inside3d.com/nov28-nov29.shtml
 kal_qk-s
 	adds wisp
