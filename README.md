@@ -189,7 +189,8 @@ The Oak | John Crickett and Neil Henderson | [oak0405_final.zip](bin/oak0405_fin
 TM Bot | Micheal Polucha and Tim Polucha | [tmbot11.zip](bin/tmbot11.zip) ([txt](bin/tmbot11.txt))<br>[tmbot1.zip](bin/tmbot1.zip) ([txt](bin/tmbot1.txt))
 Total Destruction Bot (TDBot) | Rodrigo Marx aka "Shooter" | [tdbot.zip](bin/tdbot.zip)
 TrevBot | Kris O'Shea | [trevbot.zip](bin/trevbot.zip) ([txt](bin/trevbot.txt))
-Tutor Bot + Holy Wars | Connor Caple aka "RiEvEr" | [holy_tb.zip](bin/holy_tb.zip)<br>[QHWBot105.zip](bin/QHWBot105.zip)
+Tutor Bot + Holy Wars | Connor Caple aka "RiEvEr" | [holy_tb.zip](bin/holy_tb.zip)<br>[qhwbot105.zip](bin/qhwbot105.zip)
+Tutor Bot + Rocket Arena | Connor Caple aka "RiEvEr" | [qrabot002.zip](bin/qrabot002.zip)<br>qrabot001.zip
 Tutor Bot | Darryl Atchison aka "coffee" | [tutor.zip](bin/tutor.zip)
 Ultimate Regular Quake Patch (URQP) | Matthias Buecher aka "Maddes" | [urqp106a.zip](bin/urqp106a.zip)<br>[urqp106.zip](bin/urqp106.zip)<br>[urqp105.zip](bin/urqp105.zip)<br>[urqp104a.zip](bin/urqp104a.zip)
 UnknownBot | Brian L. | [ubot14.zip](bin/ubot14.zip)
