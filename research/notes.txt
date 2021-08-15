@@ -1335,6 +1335,12 @@ Holywars Tutor Bot
 	https://dukeworld.com/planetquake/minion/holy_tb.zip
 	"RiEvEr"
 	Connor "RiEvEr" Caple
+	more
+		https://web.archive.org/web/20010624194317/http://www.planetquake.com/redemption/html/Downloads.html
+		https://web.archive.org/web/20010624185128/http://www.planetquake.com/redemption/html/july99.shtml
+			https://web.archive.org/web/20010624194317/http://www.planetquake.com/dl/dl.asp?redemption/QHWBot105.zip
+			https://web.archive.org/web/20010624194317/http://www.planetquake.com/dl/dl.asp?redemption/QRABot002.zip
+			https://dukeworld.duke4.net/planetquake/redemption/
 SuPeRMan Bot
 	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/news.htm
 	by (KSA)Tekken
