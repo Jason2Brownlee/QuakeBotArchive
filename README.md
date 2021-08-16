@@ -16,26 +16,25 @@ Helpful links:
 
 ## About This Project
 
-Quake is a computer game released by id Software in 1996. The source code (QuakeC) that controls the game was released at around the same time.
+Quake is a computer game released by id Software in mid 1996. The source code (QuakeC) that controls the game was released shortly after.
 
-A bot mod is a modification to the Quake game code to introduce "intelligent" opponents, typically for deathmatch play. Before the introduction of bots, deathmatch game play required access to a fast network or internet connection and other human players.
+A Quake bot mod is a third-party modification to the Quake game code to introduce "intelligent" opponents, typically for deathmatch play.
 
-Quake bots represent a breakthrough in computer game artificial intelligence at the time (e.g. opponents that acted like humans), and are also a lot of fun to play (e.g. a multiplayer game can be enjoyed as a singleplayer game).
+Quake bots represent a historic breakthrough in computer game artificial intelligence at the time (e.g. opponents that acted like humans), and are also a lot of fun to play (e.g. a multiplayer game can be enjoyed as a singleplayer game).
 
-Quake bot mods were mostly developed between 1996 and 2000, were distributed as binary or source files, and were hosted on third-party websites. There is no definitive list of Quake bots nor single location from which they can be downloaded. Many of the third party websites that hosted the bots have disappeared over the last 25 years, along with many bot mods themselves.
+Quake bot mods were mostly developed between 1996 and 2000 and were hosted on a tangle of third-party websites. Most of these websites have disappeared over the last 25 years, along with many bot mods themselves. This is a terrible loss.
 
 This project seeks to (1) **locate**, (2) **archive**, and (3) **host** all publicly released versions of all Quake bot modifications in their original distributed form.
 
-
 ## How You Can Help
 
-Perhaps you can help to make this bot archive more complete.
+Perhaps you can help to make this Quake bot archive more complete.
 
 * Do you know about a Quake bot missing from the archive?
-* Do you have a copy of a Quake bot file missing from the archive?
-* Do you know a bot author's real name or how to contact them?
+* Do you have a copy of a Quake bot file that is missing from the archive?
+* Do you know a Quake bot author's real name or how to contact them?
 
-If you can help in any way, please email Jason: jason.brownlee05 AT gmail.com
+If you can help in any way, please email Jason: jason.brownlee05@gmail.com
 
 ## Acknowledgements
 
