@@ -459,7 +459,9 @@ idmirror.netvision.be/idstuff/quake/
 garfield.sch.bme.hu/pub/idstuff/quake/
 	https://web.archive.org/web/19961227215418/http://garfield.sch.bme.hu/
 	https://web.archive.org/web/*/garfield.sch.bme.hu/*
-
+ftp://ftp.gamesnet.net/
+	ftp://ftp.gamesnet.net/pub/bluesnews/quake2/featuredmaps/ztn2dm3.txt
+	https://web.archive.org/web/19981212014110/ftp://ftp.gamesnet.net/
 
 
 

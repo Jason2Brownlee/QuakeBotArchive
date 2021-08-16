@@ -226,6 +226,55 @@ http://www.fileplanet.com/index.asp?section=66
 			https://web.archive.org/web/*/home.t-online.de/*
 		http://www.isleofmull56.freeserve.co.uk/paddybot.zip
 			https://web.archive.org/web/*/www.isleofmull56.freeserve.co.uk/*
+http://planetquake.com/ramshackle/
+	deathmatch reviews
+		Jeff Yost aka "goblin"
+	bot reviews
+		Brian Bland aka "meanstryk"
+	started mid 1997
+		https://www.quakewiki.net/archives/legacy/spotlight/ramshackle.htm
+	old site
+		http://goblin.simplenet.com/
+		https://web.archive.org/web/19980111104033/http://goblin.simplenet.com/
+		https://web.archive.org/web/19990901020245/http://goblin.simplenet.com:80/text/punish.htm
+		https://web.archive.org/web/*/goblin.simplenet.com/*
+	shutdown/archived in mid 2000
+	http://planetquake.com/ramshackle/
+		https://web.archive.org/web/19980113012821/http://www.planetquake.com/ramshackle/
+		https://web.archive.org/web/19981202053809/http://planetquake.com/ramshackle/
+		https://web.archive.org/web/19981202053809/http://planetquake.com:80/ramshackle/
+		https://web.archive.org/web/19990508223421/http://www.planetquake.com/ramshackle/
+		https://web.archive.org/web/20000815235430/http://www.planetquake.com/ramshackle/
+		https://web.archive.org/web/19990224131337/http://planetquake.com/ramshackle/legal.htm
+		https://web.archive.org/web/19990117020249/http://www.planetquake.com/ramshackle/frame3.htm
+		https://web.archive.org/web/20001011091642fw_/http://planetquake.com/ramshackle/bots/bots.htm
+		https://web.archive.org/web/19980218122434/http://planetquake.com/ramshackle/iview/headshot.htm
+	where are the bot reviews?
+		http://www.planetquake.com/ramshackle/reap.htm
+		https://web.archive.org/web/19990117055626/http://www.planetquake.com/ramshackle/reap.htm
+	omicron
+		preview
+			http://planetquake.com/ramshackle/omicf.htm
+			https://web.archive.org/web/19990117075458/http://planetquake.com/ramshackle/omicf.htm
+			https://mrelusive.com/oldprojects/obots/Reviews/Ramshackle/beta/omicron.htm
+			???
+		early access to the omicron bot, exclusive hosting of the first version
+			"There is no local copy because Ramshackle has arranged to be the exclusive host of the bot's downloads for a week."
+			https://www.bluesnews.com/archives/nov97-5.html
+		release v1
+			http://planetquake.com/ramshackle/omi100f.htm
+			https://web.archive.org/web/19981203161552/http://planetquake.com/ramshackle/omi100f.htm
+			https://mrelusive.com/oldprojects/obots/Reviews/Ramshackle/v1.00/omi100.htm
+		release v1.1
+			http://planetquake.com/ramshackle/omidlf.htm
+			https://web.archive.org/web/19981201084620/http://planetquake.com/ramshackle/omidlf.htm
+			https://web.archive.org/web/19981201084620/http://www.planetquake.com/ramshackle/omidlf.htm
+	mirrors
+		https://www.quakewiki.net/archives/ramshackle/
+		https://www.quakewiki.net/archives/ramshackle/bots/bots.htm
+		https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/ramshackle/
+
+
 
 
 
@@ -260,8 +309,10 @@ blues news
 	https://www.bluesnews.com/archives/
 	https://www.bluesnews.com/files/patches/bots/
 planetquake
-	http://planetquake.gamespy.com/quake1/index.html
-	https://web.archive.org/web/19970208052149/http://www.planetquake.com:80/
+	https://web.archive.org/web/*/planetquake.com/*
+	https://web.archive.org/web/*/www.planetquake.com/*
+	https://web.archive.org/web/*/planetquake.gamespy.com/*
+	https://web.archive.org/web/*/hosted.planetquake.gamespy.com/*
 insideqc (mirror of inside3d...)
 	http://www.insideqc.com
 	http://www.insideqc.com/qctut/
@@ -294,6 +345,7 @@ http://www.kinglink.com/qhq
 	http://www.kinglink.com/qhq/index.html
 	http://www.kinglink.com:80/qhq/reaper.html
 	http://www.kinglink.com/qhq/news.html
+
 
 
 
