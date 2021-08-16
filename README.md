@@ -4,7 +4,7 @@ The goal of this project is to archive **all versions** of **all Quake bots** (Q
 
 ## Overview
 
-Bot files (e.g. .zip and .txt) are stored in [bin/](bin/) and ongoing research notes are stored in [research/](research/).
+Quake bot files (e.g. .zip and .txt) are stored in [bin/](bin/) and ongoing research notes are stored in [research/](research/).
 
 Helpful links:
 
