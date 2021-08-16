@@ -22,7 +22,7 @@ A bot mod is a modification to the Quake game code to introduce "intelligent" op
 
 Quake bots represent a breakthrough in computer game artificial intelligence at the time (e.g. opponents that acted like humans), and are also a lot of fun to play (e.g. a multiplayer game can be enjoyed as a singleplayer game).
 
-Quake bot mods were mostly developed between 1996 and 2000, were distributed as binary or source files, and were hosted on third-party websites. There is no definitive list of Quake bots nor single location from which they can be downloaded. Many of the third party websites that hosted the bots have disappeared over the last 25 years, along with many bot mods themselves. Some bots may be lost to time with no known backups.
+Quake bot mods were mostly developed between 1996 and 2000, were distributed as binary or source files, and were hosted on third-party websites. There is no definitive list of Quake bots nor single location from which they can be downloaded. Many of the third party websites that hosted the bots have disappeared over the last 25 years, along with many bot mods themselves.
 
 This project seeks to (1) **locate**, (2) **archive**, and (3) **host** all publicly released versions of all Quake bot modifications in their original distributed form.
 
