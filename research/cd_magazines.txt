@@ -40,6 +40,14 @@ PC PowerPlay Quake Bible CD
 		ELIM14PK.ZIP
 		OBOTS102.ZIP
 		REAPRB81.ZIP
+PCManía CD  49 (Spanish)
+	https://archive.org/details/PCManiaCD49
+	https://archive.org/stream/Pcmania49/pcmania_djvu.txt
+	https://ia600807.us.archive.org/view_archive.php?archive=/25/items/PCManiaCD49/PCMania%20CD%2049_1.iso
+		BGBOT15
+		CUJO10
+		BGADMB (BGADM Bot)
+		WISP
 
 
 
@@ -276,6 +284,16 @@ PC Powerplay Issue 012
 	- quake patch
 	- quake developers kit (?)
 	cd?
-
+Gambler Magzine (February 1997)
+	https://archive.org/details/gambler_magazine-1997-02/page/n83/mode/2up?q=BGBOT
+	BGBOT
+	REAPER
+	Eliminator
+	TM Bot
+	cd?
+Computer Gaming World #1 (BR)
+	https://archive.org/details/cgw1-br/revista%2Fcomputer_gaming_world_01
+	reaper bot?
+	???
 
 
