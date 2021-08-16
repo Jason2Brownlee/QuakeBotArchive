@@ -108,4 +108,3 @@ Aug 06 2001* | fbxa.zip | Frikbot v0.10.1.
 Nov 22 2004* | fbxb.zip | Frikbot v0.10.1b.
 May 19 2006 | fbxc.zip | Frikbot v0.10.2.
 
-If you can improve the accuracy of this history, please email Jason at jason.brownlee05@gmail.com
