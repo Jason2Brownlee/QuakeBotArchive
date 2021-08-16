@@ -23,9 +23,9 @@ Quake bots represent a breakthrough in computer game artificial intelligence at 
 
 Quake bot mods were mostly developed between 1996 and 1998, were distributed as binary or source files, and were hosted on third-party websites.
 
-There is no definitive list of Quake bots nor single location from which they can be downloaded.
+There is no definitive list of Quake bots nor single location from which they can be downloaded. The third party websites that hosted the bots have disappeared over the last 25 years, along with the bot mods themselves. Some bots may be lost to time with no known backups.
 
-This project seeks to archive and make available all Quake bot modifications in their original distributed form, mostly .zip files that may contain binary files and/or source code.
+This project seeks to (1) **locate**, (2) **archive**, and (3) **host** all Quake bot modifications in their original distributed form.
 
 In addition, the project also seeks to locate and make available all versions of modifications (e.g. older versions) as well as binaries and source code for mods that may not have been made public (e.g. contributed by bot authors directly).
 
@@ -35,7 +35,7 @@ In addition, the project also seeks to locate and make available all versions of
 Perhaps you can help to make this bot archive more complete.
 
 * Do you know of a missing Quake bot?
-* Do you have a copy of a missing file from the above list?
+* Do you have a copy of a missing file from the list?
 * Do you know a bot author's real name?
 * Do you have have an older or newer version of a listed bot mod?
 * Do you have access to the source code for an old bot?
