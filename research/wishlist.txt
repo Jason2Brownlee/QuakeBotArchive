@@ -1,9 +1,6 @@
 Quake Bot Filename Wishlist
 
-A wishlist of lowecase bot filenames sorted alphabetically.
-
-Do you have one of these files?
-If so please email:  jason.brownlee05@gmail.com
+A wishlist of lowercase bot filenames sorted alphabetically.
 
 --------------------------------------------------------------------------------
 

@@ -2,9 +2,6 @@ Quake Bot URL Wishlist
 
 A wishlist of broken bot URLs sorted alphabetically.
 
-Do you have one of these files?
-If so please email:  jason.brownlee05@gmail.com
-
 --------------------------------------------------------------------------------
 
 ftp://bluesnews.com/pub/bots/reaprb75.zip
