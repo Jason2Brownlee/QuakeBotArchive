@@ -8,9 +8,9 @@ Bot files (e.g. .zip and .txt) are stored in [bin/](bin/) and ongoing research n
 
 Helpful links:
 
-* [Quake Bot List](botlist.md): Alphabetical list of all versions of all quake bots.
-* [Quake Bot Genealogy](genealogy.md): Estimated quake bot genealogy.
-* [Quake Bot Chronology](chronology.md): Estimated quake bot public release history.
+* [Quake Bot List](botlist.md): alphabetical list of all versions of all quake bots.
+* [Quake Bot Genealogy](genealogy.md): estimated quake bot genealogy.
+* [Quake Bot Chronology](chronology.md): estimated quake bot public release history.
 
 
 ## About This Project
@@ -50,8 +50,8 @@ We also have a wishlist of known bot filenames and broken download URLs.
 
 Perhaps you have one of the files listed?
 
-* [Quake bot Filename Wishlist](research/wishlist.txt): List of known files missing from the archive.
-* [Quake bot URL Wishlist](research/wishlist_urls.txt): List of known but broken download links for missing files.
+* [Quake bot Filename Wishlist](research/wishlist.txt): list of known files missing from the archive.
+* [Quake bot URL Wishlist](research/wishlist_urls.txt): list of broken URLs for files missing from the archive.
 
 
 ## Acknowledgements
