@@ -11,7 +11,8 @@ Helpful links:
 * [Quake Bot List](botlist.md): alphabetical list of all versions of all quake bots.
 * [Quake Bot Genealogy](genealogy.md): estimated quake bot genealogy.
 * [Quake Bot Chronology](chronology.md): estimated quake bot public release history.
-
+* [Quake Bot Filename Wishlist](research/wishlist.txt): list of known files missing from the archive.
+* [Quake Bot URL Wishlist](research/wishlist_urls.txt): list of broken URLs for files missing from the archive.
 
 ## About This Project
 
@@ -39,16 +40,6 @@ Perhaps you can help to make this bot archive more complete.
 * Do you have access to an archive of a Quake website from back in the day?
 
 If you can help, please email Jason at jason.brownlee05@gmail.com
-
-### Wishlist
-
-We also have a wishlist of known bot filenames and broken download URLs.
-
-Perhaps you have one of the files listed?
-
-* [Quake bot Filename Wishlist](research/wishlist.txt): list of known files missing from the archive.
-* [Quake bot URL Wishlist](research/wishlist_urls.txt): list of broken URLs for files missing from the archive.
-
 
 ## Acknowledgements
 
