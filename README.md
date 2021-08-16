@@ -4,21 +4,11 @@ The goal of this project is to archive **all versions** of **all Quake bots** (Q
 
 ## Overview
 
-All bot files (e.g. .zip and .txt) are stored in the [bin/](bin/) directory.
+All bot files (e.g. .zip and .txt) are stored in the [bin/](bin/) directory. All ongoing research notes are stored in the [research/](research/) directory.
 
-You can review an alphabetical list of all quake bots in the archive with download links here:
-
-* [Quake Bot List](research/botlist.md)
-
-You can review an estimated genealogy of all quake bots as a mind map plot here:
-
-* [Quake Bot Genealogy](research/genealogy.md)
-
-You can review an estimated public release history for the quake bots here:
-
-* [Quake Bot Chronology](research/chronology.md)
-
-Finally, all ongoing research notes are stored in the [research/](research/) directory.
+* [Quake Bot List](botlist.md): alphabetical list of all quake bots.
+* [Quake Bot Genealogy](genealogy.md): estimated quake bot genealogy.
+* [Quake Bot Chronology](chronology.md): estimated quake bot public release history.
 
 
 ## About This Project
