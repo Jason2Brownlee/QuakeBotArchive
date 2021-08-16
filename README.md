@@ -31,15 +31,11 @@ This project seeks to (1) **locate**, (2) **archive**, and (3) **host** all publ
 
 Perhaps you can help to make this bot archive more complete.
 
-* Do you know of a missing Quake bot?
-* Do you have a copy of a missing file from the list?
-* Do you know a bot author's real name?
-* Do you have have an older or newer version of a listed bot mod?
-* Do you have access to the source code for an old bot?
-* Do you know how to contact a bot mod author?
-* Do you have access to an archive of a Quake website from back in the day?
+* Do you know about a Quake bot missing from the archive?
+* Do you have a copy of a Quake bot file missing from the archive?
+* Do you know a bot author's real name or how to contact them?
 
-If you can help, please email Jason at jason.brownlee05@gmail.com
+If you can help in any way, please email Jason: jason.brownlee05 AT gmail.com
 
 ## Acknowledgements
 
