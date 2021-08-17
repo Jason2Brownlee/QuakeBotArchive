@@ -1,4 +1,6 @@
-bot blast research
+mac quake / bot blast
+
+research
 
 the macquake community had botblasts, e.g. recording demos of getting good scores with bots
 
@@ -14,9 +16,12 @@ http://www.planetquake.com/jvox/
 	http://www.planetquake.com/jvox/files_quake_mods.html
 	https://web.archive.org/web/19990210171607/http://www.planetquake.com/jvox/files_quake_mods.html
 http://quakeintosh.com
+http://www.quakeintosh.com/
 	https://web.archive.org/web/19981205204851/http://www.quakeintosh.com/
 	https://web.archive.org/web/19981201062619/http://www.quakeintosh.com/second.html
 	https://web.archive.org/web/*/quakeintosh.com/*
+	https://web.archive.org/web/19990221231925/http://www.quakeintosh.com/
+	https://web.archive.org/web/19990418010021/http://www.quakeintosh.com/second.html
 http://www.aegidian.org/gqt/mqfe/tutorial/blast.html
 	omicron bot blast
 	http://www.aegidian.org/gqt/mqfe/
@@ -69,6 +74,59 @@ http://www.quakeforum.de/qog/reaper/
 http://www.foobar.co.uk/users/macnet/rpbot/
 	reaper madness
 	https://web.archive.org/web/19980116133014/http://www.foobar.co.uk/users/macnet/rpbot/
+http://home.auragen.com/staff/dvedder/haiku/
+	https://web.archive.org/web/19990203103915/http://home.auragen.com/staff/dvedder/haiku/
+http://coolhouse.simplenet.com/mqmp/
+	https://web.archive.org/web/19980425025724/http://coolhouse.simplenet.com/mqmp/
+	https://web.archive.org/web/19980425030100fw_/http://coolhouse.simplenet.com/mqmp/addons.html
+	https://web.archive.org/web/19980425030716fw_/http://coolhouse.simplenet.com/mqmp/kqp/review.html
+	https://web.archive.org/web/19980425030054fw_/http://coolhouse.simplenet.com/mqmp/links.html
+	https://web.archive.org/web/19980425030046fw_/http://coolhouse.simplenet.com/mqmp/misc.html
+	https://web.archive.org/web/19980425030630fw_/http://coolhouse.simplenet.com/mqmp/articles/quakejerk/chapter1.html
+	https://web.archive.org/web/19980425030559fw_/http://coolhouse.simplenet.com/mqmp/articles/ldapak/ldthtpk.html
+	https://web.archive.org/web/19980425030605fw_/http://coolhouse.simplenet.com/mqmp/articles/myths.html
+	https://web.archive.org/web/19980425030623/http://coolhouse.simplenet.com/mqmp/bbs.hts
+	https://web.archive.org/web/19980425031624fw_/http://coolhouse.simplenet.com/mqmp/oldnews/
+	https://web.archive.org/web/19980425025730/http://coolhouse.simplenet.com/mqfaq/
+	https://web.archive.org/web/19980425025718/http://coolhouse.simplenet.com/frank/
+	https://web.archive.org/web/19980425025645/http://coolhouse.simplenet.com/
+	https://web.archive.org/web/*/coolhouse.simplenet.com/*
+http://www.curtin.edu/~scott/macquake/
+	Scott Kevill
+	https://web.archive.org/web/19970629214102/http://www.curtin.edu.au/~scott/
+	https://web.archive.org/web/20000930172625/http://www.curtin.edu/~scott/macquake/
+	https://web.archive.org/web/20030426193936/http://www.curtin.edu/~scott/software.html
+http://www.astro.wisc.edu/~haffner/QS
+	https://web.archive.org/web/19981202135557/http://www.astro.wisc.edu/~haffner/QSI.html
+	https://web.archive.org/web/19990203180811/http://www.astro.wisc.edu/~haffner/MQP.html
+http://www.quakeintosh.com/macfortress
+	https://web.archive.org/web/20000708131636/http://www.quakeintosh.com/macfortress
+	not archived
+http://deathmaps.quakeintosh.com/
+	https://web.archive.org/web/19990427231430/http://deathmaps.quakeintosh.com/
+	https://web.archive.org/web/19990508110643fw_/http://deathmaps.quakeintosh.com/links.html
+http://mqec.quakeintosh.com/
+	https://web.archive.org/web/19990423203530/http://mqec.quakeintosh.com/
+http://mqpp.quakeintosh.com/
+	https://web.archive.org/web/19990420081926/http://mqpp.quakeintosh.com/
+http://jqt.quakeintosh.com/
+	https://web.archive.org/web/19990422122835/http://jqt.quakeintosh.com/
+http://gqt.macquakeinfinity.com/
+	https://web.archive.org/web/19991002021743/http://gqt.macquakeinfinity.com/
+http://www.westlakeinteractive.com/
+	https://web.archive.org/web/19990220021133/http://www.westlakeinteractive.com/download.html
+	https://web.archive.org/web/19990220091848/http://www.westlakeinteractive.com/download0004.html
+http://www.planetquake.com/mpq/
+	https://web.archive.org/web/19990202163632/http://www.planetquake.com/mpq/Netscape.htm
+http://peek.terrafusion.com/
+	https://web.archive.org/web/19990427235032/http://peek.terrafusion.com/
+http://skillz.quakeintosh.com/
+	https://web.archive.org/web/19990429182116/http://skillz.quakeintosh.com/
+	not archived
+
+
+
+
 
 
 
