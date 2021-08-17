@@ -1,0 +1,75 @@
+bot blast research
+
+the macquake community had botblasts, e.g. recording demos of getting good scores with bots
+
+they also created and distributed mac versions of bot mods like reaper and omicron, e.g. obots102.sit
+
+--------------------------------------------------------------------------------
+
+
+
+
+http://www.planetquake.com/jvox/
+	https://web.archive.org/web/19981202233801if_/http://planetquake.com:80/jvox/
+	http://www.planetquake.com/jvox/files_quake_mods.html
+	https://web.archive.org/web/19990210171607/http://www.planetquake.com/jvox/files_quake_mods.html
+http://quakeintosh.com
+	https://web.archive.org/web/19981205204851/http://www.quakeintosh.com/
+	https://web.archive.org/web/19981201062619/http://www.quakeintosh.com/second.html
+	https://web.archive.org/web/*/quakeintosh.com/*
+http://www.aegidian.org/gqt/mqfe/tutorial/blast.html
+	omicron bot blast
+	http://www.aegidian.org/gqt/mqfe/
+	"MacQFE"
+http://botblast.quakeintosh.com/
+	no archive
+http://blast.quakeintosh.com/
+	http://blast.quakeintosh.com/current.html
+	https://web.archive.org/web/*/blast.quakeintosh.com/*
+	no archive
+http://www.visi.com/~zappa/quake/quake.html
+	https://www.bluesnews.com/archives/jan98-5.html
+	https://web.archive.org/web/19990128151537/http://www.visi.com/~zappa/quake/quake.html
+	https://web.archive.org/web/19990218061242/http://www.visi.com/~zappa/quake/faq.html
+	https://web.archive.org/web/19990218085647/http://www.visi.com/~zappa/quake/links.html
+		moved to blast.quakeintosh.com
+	https://web.archive.org/web/19990302040338/http://www.visi.com/~zappa/quake/
+	https://web.archive.org/web/19990930054651/http://www.visi.com/~zappa/cgi-bin/index.cgi
+	ftp://ftp.visi.com/users/zappa/
+	Bill "ZAPPA" Christopulos
+http://www2.arkansas.net/~bnapier/
+	https://web.archive.org/web/19980213185455/http://www2.arkansas.net/~bnapier/
+	https://web.archive.org/web/19980213214902fw_/http://www2.arkansas.net/~bnapier/omicronI.html
+	OBOTS100.sit
+	created the .sit versions of v1.0 and v1.01...
+	http://quakeintosh.com/files/Paks%20-%20Maps%20-%20Mods%20/Quake%20Bots/%20Omicron%20Bot/OBOTS101.sit
+	https://web.archive.org/web/19980213214908fw_/http://www2.arkansas.net/~bnapier/qdqfix.html
+	https://web.archive.org/web/19980214005222fw_/http://www2.arkansas.net/~bnapier/utilities.html
+	https://web.archive.org/web/19980213215017fw_/http://www2.arkansas.net/~bnapier/archive.html
+http://www.grayphics.com/~frigid/botblast/index.shtml
+	Randall Shaw / Mr. FrigidMan / Randall "Frigidman" Shaw
+	http://www.grayphics.com/~frigid/reaper/news.shtml
+	https://web.archive.org/web/19980128215009/http://www.grayphics.com/~frigid/botblast/index.shtml
+	https://web.archive.org/web/19980128221055/http://www.grayphics.com/~frigid/botblast/
+	https://web.archive.org/web/19980128220811/http://www.grayphics.com/~frigid/botblast/omi.shtml
+	https://web.archive.org/web/19980128220818/http://www.grayphics.com/~frigid/botblast/reap.shtml
+	https://web.archive.org/web/19980128220828/http://www.grayphics.com/~frigid/botblast/about.shtml
+	https://web.archive.org/web/19980128220902/http://www.grayphics.com/~frigid/botblast/omi-readme/OBOTS.HTM
+	https://web.archive.org/web/19980128220838/http://www.grayphics.com/~frigid/botblast/rules.shtml
+	https://web.archive.org/web/19980128220838/ftp://ftp.grayphics.com/pub/frigid/botblast/obots101.hqx
+	https://web.archive.org/web/19980128220838/ftp://ftp.grayphics.com/pub/frigid/botblast/reaper08.sit.hqx
+	https://web.archive.org/web/19980128220846/http://www.grayphics.com/~frigid/botblast/total.shtml
+	http://www.grayphics.com/~frigid/
+		https://web.archive.org/web/19970327105354/http://www.grayphics.com/~frigid/
+http://www.best.com/~pberry/quake/
+	https://web.archive.org/web/19990128024557/http://www.best.com/~pberry/quake/
+http://www.quakeforum.de/qog/reaper/
+	bot league
+	no archive
+http://www.foobar.co.uk/users/macnet/rpbot/
+	reaper madness
+	https://web.archive.org/web/19980116133014/http://www.foobar.co.uk/users/macnet/rpbot/
+
+
+
+
