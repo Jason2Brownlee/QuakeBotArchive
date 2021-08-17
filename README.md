@@ -14,13 +14,13 @@ Quick links:
 * [Quake Bot Filename Wishlist](research/wishlist.txt): list of known files missing from the archive.
 * [Quake Bot URL Wishlist](research/wishlist_urls.txt): list of broken URLs for files missing from the archive.
 
-## About This Project
+## About
 
 Quake is a computer game released by id Software in mid 1996. The source code (QuakeC) that controls the game was released shortly after.
 
 A Quake bot mod is a third-party modification to the Quake game code to introduce "intelligent" opponents, typically for deathmatch play.
 
-Quake bots represent a historical breakthrough in computer game artificial intelligence (e.g. opponents that act like humans) and are also a lot of fun to play (e.g. a multiplayer game can be enjoyed as a singleplayer game).
+Quake bots represent a historical breakthrough in computer game artificial intelligence (e.g. opponents that act like human players) and are also a lot of fun to play (e.g. a multiplayer game can be enjoyed as a singleplayer game).
 
 Quake bot mods were mostly developed between 1996 and 2000 and were hosted on a tangle of third-party websites. Most of these websites have disappeared over the last 25 years, along with many bot mods themselves. **This is a terrible loss**!
 
@@ -221,20 +221,15 @@ Omicron Bots | Map support for omicron bots. | [omicron/](bin/omicron/)
 Reaper Bots | Additional skins for reaper bots. | [reaper/](bin/reaper/)
 Other | Sample code and skeleton code for bots. | [other/](bin/other/)
 
+## Help
 
-
-
-
-
-## How You Can Help
-
-Perhaps you can help to make this Quake bot archive more complete.
+Perhaps you can help to make this archive more complete.
 
 * Do you know about a Quake bot missing from the archive?
 * Do you have a copy of a Quake bot file that is missing from the archive?
 * Do you know a Quake bot author's real name or how to contact them?
 
-If you can help in any way, please email Jason: jason.brownlee05@gmail.com
+Please email Jason Brownlee via jason.brownlee05@gmail.com
 
 ## Acknowledgements
 
