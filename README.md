@@ -202,7 +202,7 @@ File Column:
 - **no link** Indicates I discovered the filename but could not find a copy of the file to archive.
 - Separate text files are included when available as some differ from the contents of the .zip files.
 
-## Quake Bot Extra Files
+## Additional Files
 
 Many bots have extra files that are not part of the main bot release.
 
@@ -226,7 +226,7 @@ Other | Sample code and skeleton code for bots. | [other/](bin/other/)
 Perhaps you can help to make this archive more complete.
 
 * Do you know about a Quake bot missing from the archive?
-* Do you have a copy of a Quake bot file that is missing from the archive?
+* Do you have a copy of a missing Quake bot file?
 * Do you know a Quake bot author's real name or how to contact them?
 
 Please email Jason Brownlee via jason.brownlee05@gmail.com
