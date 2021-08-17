@@ -159,7 +159,10 @@ nnsource.zip
 oak082.zip
 oak084.zip
 oak0855.zip
+obots100.sit
 obots100.zip
+obots101.hqx
+obots101.sit
 omega.zip
 paddybot.zip
 paddybot02.zip
@@ -168,6 +171,7 @@ qcbot001.zip
 qcbot002.zip
 rbot.zip
 reaper.zip
+reaper08.sit.hqx
 reaprb75.zip
 req107d.zip
 reqqw20i.zip
@@ -206,3 +210,5 @@ zeus20.zip
 zeus201.zip
 zeus202b.zip
 zeus2041.zip
+
+
