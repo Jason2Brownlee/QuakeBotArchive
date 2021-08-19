@@ -1039,11 +1039,25 @@ BotSkin
 	other versions (listed in readme) public?
 		2.1, 1.9, 1.7, 1.2
 IronWulvt's Deathmatch Bot
-	https://www.quaddicted.com/files/idgames2/quakec/bots/iwbot21.txt
-	https://www.quaddicted.com/files/idgames2/quakec/bots/iwbot21.zip
+	v0.21
+		https://www.quaddicted.com/files/idgames2/quakec/bots/iwbot21.txt
+		https://www.quaddicted.com/files/idgames2/quakec/bots/iwbot21.zip
 	Ben Garrod aka "IRONWULVT"
 	bgbot extension
 	had to create progs/ and move the sprite into there
+	other versions
+		v0.1
+			iwbot1.zip
+			https://groups.google.com/g/rec.games.computer.quake.editing/c/CCoT-6kWaeM/m/VNj0E7-eTdcJ
+			a copy exists in "power tools for quake"
+			https://archive.org/download/redump_pc_P/Power%20Tools%20for%20Quake%20%28Europe%29.7z
+		v0.15
+			listed in readme of 0.16 and 0.21
+		v0.16
+			http://cd.textfiles.com/swextrav8/swextrav8-2/gamapog1/iwbot16.zip
+			https://groups.google.com/g/rec.games.computer.quake.editing/c/-H4WaO-axj4/m/OrSqDVJfZhQJ
+			"bill garrod"
+			https://groups.google.com/g/spk.file/c/rsMS7yVlcFg/m/JQ3WuglimYgJ
 MyBot
 	Stephen Vanterpool
 	https://www.quaddicted.com/files/idgames2/quakec/bots/mybot16.txt
@@ -2039,6 +2053,7 @@ imbot
 	http://www.gamesmania.com/common/quake/c-code/imbot1.zip
 	imbot1.zip
 	is this real?
+	(could be iwbot with a typo?)
 	???
 frogbot + kt
 	https://www.quakeworld.nu/forum/topic/7068/new-frogbots
