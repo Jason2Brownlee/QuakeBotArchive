@@ -2,29 +2,37 @@
 
 The goal of this project is to archive **all versions** of **all Quake bots** (QuakeC modifications).
 
-## Overview
+## Quake Bot Genealogy
 
-Quake bot files (e.g. .zip and .txt) are stored in [bin/](bin/) and ongoing research notes are stored in [research/](research/).
+Estimated Quake bot genealogy.
 
-Quick links:
+![Quake Bot Genealogy](research/mindmap/QuakeBots.png)
 
-* [Quake Bot List](README.md#quake-bot-list): alphabetical list of all versions of all quake bots.
-* [Quake Bot Genealogy](research/genealogy.md): estimated quake bot genealogy.
-* [Quake Bot Chronology](research/chronology.md): estimated quake bot public release history.
-* [Quake Bot Filename Wishlist](research/wishlist.txt): list of known files missing from the archive.
-* [Quake Bot URL Wishlist](research/wishlist_urls.txt): list of broken URLs for files missing from the archive.
+## Quake Bot Chronology
 
-## About
+Estimated Quake bot public release history circa August 1996.
 
-Quake is a computer game released by id Software in mid 1996. The source code (QuakeC) that controls the game was released shortly after.
+Date | Release | Comment
+--- | --- | ---
+Jul 25 1996 | qcc.tar.gz | QCC (compiler) source and QuakeC (.qc) source.
+Aug 10 1996 | holo1.zip | HoloSelf v1.0 (pre-cursor to tmbot).
+Aug 14 1996 | holo2.zip | HoloSelf  v2.0 (pre-cursor to tmbot).
+Aug 21 1996 | tmbot1.zip | TMBot v1.0.
+Aug 24 1996* | mybot.zip | MyBot v1.0.
+Aug 25 1996* | dmbot1.zip | DMBot v1.0.
+Aug 25 1996* | mybot11.zip | MyBot v1.1.
+Aug 26 1996 | tmbot11.zip | TMBot v1.1.
+Aug 27 1996* | mybot12.zip | MyBot v1.2.
+Aug 28 1996* | bgadmbot.zip | BGADM Bot v1.00.
+Aug 28 1996* | mybot13a.zip | MyBot v1.3a.
+Aug 29 1996* | bgbot1.zip | BGBot v1.0.
+Aug 31 1996 | bgadm101.zip | BGADM Bot v1.01.
+Aug 31 1996 | bgbot11.zip | BGBot v1.1.
+Aug 31 1996* | wisp.zip | Wisp v1.0.
 
-A Quake bot mod is a third-party modification to the Quake game code to introduce "intelligent" opponents, typically for deathmatch play.
+For a more complete release history see:
 
-Quake bots represent a historical breakthrough in computer game artificial intelligence (e.g. opponents that act like human players) and are also a lot of fun to play (e.g. a multiplayer game can be enjoyed as a singleplayer game).
-
-Quake bot mods were mostly developed between 1996 and 2000 and were hosted on a tangle of third-party websites. Most of these websites have disappeared over the last 25 years, along with many bot mods themselves. **This is a terrible loss**!
-
-This project seeks to (1) **locate**, (2) **archive**, and (3) **host** all versions of all Quake bot modifications in their original distributed form.
+* [Quake Bot Public Release History](research/chronology.md)
 
 ## Quake Bot List
 
@@ -221,6 +229,18 @@ Omicron Bots | Map support for omicron bots. | [omicron/](bin/omicron/)
 Reaper Bots | Additional skins for reaper bots. | [reaper/](bin/reaper/)
 Other | Sample code and skeleton code for bots. | [other/](bin/other/)
 
+## About
+
+Quake is a computer game released by id Software in mid 1996. The source code (QuakeC) that controls the game was released shortly after.
+
+A Quake bot mod is a third-party modification to the Quake game code to introduce "intelligent" opponents, typically for deathmatch play.
+
+Quake bots represent a historical breakthrough in computer game artificial intelligence (e.g. opponents that act like human players) and are also a lot of fun to play (e.g. a multiplayer game can be enjoyed as a singleplayer game).
+
+Quake bot mods were mostly developed between 1996 and 2000 and were hosted on a tangle of third-party websites. Most of these websites have disappeared over the last 25 years, along with many bot mods themselves. **This is a terrible loss**!
+
+This project seeks to (1) **locate**, (2) **archive**, and (3) **host** all versions of all Quake bot modifications in their original distributed form.
+
 ## Help
 
 Perhaps you can help to make this archive more complete.
@@ -230,6 +250,13 @@ Perhaps you can help to make this archive more complete.
 * Do you know a Quake bot author's real name or how to contact them?
 
 Please email Jason Brownlee via jason.brownlee05@gmail.com
+
+### Wishlists
+
+Lists of known files missing from the archive.
+
+* [Quake Bot Filename Wishlist](research/wishlist.txt): list of known files missing from the archive.
+* [Quake Bot URL Wishlist](research/wishlist_urls.txt): list of broken URLs for files missing from the archive.
 
 ## Acknowledgements
 
