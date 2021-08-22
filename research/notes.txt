@@ -430,6 +430,7 @@ Xreaper (reaper bot)
 	(bad copy of the mod...)
 	Ruud 'Mephisto' Heemskerk
 	Ruud Heemskerk
+	https://web.archive.org/web/20110604154841/http://members.cox.net/gbppap/xreaperb130.zip
 Estep Bot (EsTePBot)
 	by "EsTePaRiO"
 	reaper
@@ -1724,6 +1725,14 @@ Quake Dodgeball
 	https://www.moddb.com/mods/quake-dodgeball/downloads
 	https://quakeone.com/forum/quake-talk/quake-central/7135-quake-dodgeball-now-up
 	http://www.quaketastic.com/upload/files/multiplayer/mods/Quake_Dodgeball_1.1_01.zip
+	https://www.quaketastic.com/files/multiplayer/mods/Quake_Dodgeball_1.1_01.zip
+	more here?
+		https://www.quaketastic.com/files/multiplayer/mods/
+		https://www.quaketastic.com/files/multiplayer/mods/Quake_Dodgeball_1.1.zip
+		https://www.quaketastic.com/files/multiplayer/mods/dodgeball.zip
+		https://www.quaketastic.com/files/multiplayer/mods/dodgeball3.zip
+		https://www.quaketastic.com/files/multiplayer/mods/dodgeball_01.zip
+		https://www.quaketastic.com/files/multiplayer/mods/dodgeball_patch.zip
 Lurkerz
 	https://www.dukeworld.com/idgames2/quakec/compilations/lrkrz_01.txt
 	https://www.dukeworld.com/idgames2/quakec/compilations/lrkrz_01.zip
@@ -1861,6 +1870,18 @@ Kagero Bot
 	https://web.archive.org/web/19970707171150/http://quakemecca.simplenet.com:80/quakec.htm
 	https://web.archive.org/web/19970707171150/http://quakemecca.simplenet.com:80/files/downloads/kagero.zip
 	Based on the TMBot
+Ranger Bot
+	https://web.archive.org/web/20091027042143/http://geocities.com/maleficus666/
+	Ranger Bot v0.6 Alpha
+	Maleficus
+	John "Maleficus" Dean
+	https://web.archive.org/web/20091024081012/http://geocities.com/maleficus666/ranger_about.htm
+	bot for Rocket Arena
+	https://web.archive.org/web/20091025143535/http://geocities.com/maleficus666/ranger_pics.htm
+	https://web.archive.org/web/20091024202854/http://aswp.tzo.net/maleficus/setup.zip
+	https://web.archive.org/web/20091024202854/http://geocities.com/maleficus666/Ranger_DEMO.txt
+	2001
+	https://web.archive.org/web/20040707055841/http://fritzbot.bots-united.com/
 
 
 
@@ -2114,9 +2135,17 @@ Nirvana Bot Mods
 	Christopher Dozier a.k.a Arwing ?
 	https://www.quaketerminus.com/index2.shtml
 	?
-
-
-
+Quakability
+		has bots?
+		https://web.archive.org/web/20191226211146fw_/http://users.skynet.be/bk236270/quakability.htm
+		https://www.quaketastic.com/files/multiplayer/mods/Quakability_2.1_-_NoMusicRepack.txt
+		https://www.quaketastic.com/files/multiplayer/mods/Quakability_2.1_-_NoMusicRepack.zip
+oriontf
+	has bots
+	https://www.quaketastic.com/files/multiplayer/mods/oriontf.zip
+	https://www.quaketastic.com/files/multiplayer/mods/oriontf_beta2.zip
+	https://www.quaketastic.com/files/multiplayer/mods/oriontf_beta3.zip
+	https://www.quaketastic.com/files/multiplayer/mods/oriontf_beta4.zip
 
 
 

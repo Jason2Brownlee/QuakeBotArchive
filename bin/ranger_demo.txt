@@ -1,0 +1,152 @@
+=======================================================================
+Title    : Ranger Bot: Rocket Arena - DEMO
+Filename : Setup.exe
+Version  : v0.6.9 ALPHA
+Date     : 
+Author   : Maleficus
+Email    : maleficus666@yahoo.com
+Credits  : id software, many others........
+
+
+Construction
+----------------
+
+Build Time            : About 24 hours so far.... no where near being complete!
+
+Editor(s) used        : QCEDIT, QuArK, QME, Nullsoft Install System, FrikQcc, PreQcc. 
+
+Known Bugs            : His skill 1 movement isn't the best yet. Needs some work to be as 
+			"natural" and varied as the higher skills are; which were the skill
+			levels I worked	on the most. :-/
+
+			NOTE: on skill 1, he'll make various "bad" choices as to his weapons
+			as well as his combat tactics. This is NOT a bug! On skill 1: hes
+			supposed to be a total n00b - which means he's SUPPOSED to suck. ;-)
+
+Impulses              : Typing "start" in the console starts the game.
+			There is also a "fight" key - bound to 'i' that
+			does the same thing.
+
+
+Description of the Modification
+-------------------------------
+
+This is just a quick demo that shows the current progress of the Ranger Bot, for Rocket
+Arena. There are only 4 maps included with this demo: the start map where you
+select at which skill you want to play Ranger, gear8 by Marc Roussel, arenax, 
+and Zaphod's "Arena" RA map.
+
+***********PLEASE NOTE:*********************** 
+
+I am releasing this for testing, feedback, and suggestions. If you see something
+that needs work, please give a complete description of what the problem was.
+
+If you see something that works, you can pass that along too ;-).
+
+If you can, a demo of the problem/bug you found would be nice too.
+
+Recording a demo in Q1 is a bit different than how it is in Q3.
+
+Heres how to record a demo:
+
+Bring down the console. Type: "record demoname arenazap" -OR- "record demoname gear8"
+(depending on which map you want to record the demo on) without the quotes, and press enter.
+You can replace the name "demoname" with whatever you would like to call the demo.  
+Then, go to the dir where you installed Ranger, and move to the "mal_ra" folder. Inside that
+folder will be your demo file (the extension is ".dem").
+
+
+How to Run the Modification
+-------------------------------
+
+Double click on the shortcut "Ranger Bot - DEMO" that is now on your desktop.
+
+When the game loads, and you see the console, hit the "ESC" key in the upper left hand
+corner of your keyboard.
+
+Go to "options", to configure your settings and preferences. This is important!
+
+Go to "Multiplayer" then "Setup" to configure your name and colors.
+
+When your ready to play, then Select "Single Player" in the main menu.
+
+A map with 3 hallways will load. You CANNOT play Ranger on this map.
+
+Each hall picks a different level of skill. The one to the left picks "Easy", the middle
+"Normal", and the one to the right picks "Hard". Pick whichever one you want to play Ranger
+at, then walk thru the teleporter at the end of your chosen hallway.
+
+You'll spawn into a spectator room inside a new map, and Ranger will join you shortly.
+You CANNOT fire your weapon in the spec room (nor can Ranger), so just use this time
+to get comfortable with your settings/movement, and check out the Arena below.
+
+To begin the game, bring down the console (hitting the "`" key) and type "impulse 100"
+without the qoutes; OR just hit the "i" key (if you haven't already bound it for 
+a diff function).
+
+The game will countdown, then spawn you into the arena proper, and the match will have begun.
+
+The winner is the last man (or bot) standing.
+
+Good Luck!
+
+
+Some Basic Tips/Suggestions:
+-----------------
+
+Ranger is a VERY jealous bot! Don't try to make 2 Rangers in the game - bad
+things might happen! ;-)
+
+Be sure to set your controls BEFORE you play - the default controls aren't the best.
+
+You lose armor, but not health when you Rocket Jump - use this tactic to your advantage:
+Ranger will!
+
+Try to use TomazQuake for the demo only (in case you have Dos/Win/GLquake):
+TomazQuake is more stable and looks/runs better.
+
+If your having a hard time with Ranger, be sure to change the skill level to suit 
+your needs by bringing down the console and typing "skill N", 
+where "N" is either 1, 2, or 3.
+Ranger will automatically update and adjust his actions to fit the skill level you
+choose.
+
+The "i" key is bound by default to be the "Fight" key - if your in the spectator room,
+hitting this key will also start the match (and is faster then typing "start" in the
+console all the time).
+
+One of the first things you'll prolly want to do, after installing, is set the brightness
+in "Setup/Video". TomazQuake defaults to a very dark gamma.
+
+If you try to select a diff map (other than the 4 maps included), it WILL kick you back
+to start. FYI: nearly everything not related to Ranger and this demo has been
+removed/disabled, so you can't play regular quake with this demo.
+
+When you finish the first arena, it will move to the second arena, then to the third.
+After that, it will loop betweent the first, second, and third arenas.
+
+After the match, be sure to check out Ranger's chats by bringing down the console!
+
+Please don't distribute this demo to NON-ASWP members! This demo uses a bit of the
+original Quake's resources, and widely distributing it to anyone outside of our 
+organization would violate the GPL (i.e. would be BAD!).
+
+There are a few jokes/secrets hidden in Ranger - including one secret mode 
+thats really fun! Best of luck in finding them! :-P
+
+When you finish the match (and if you win), the announcer will give you an audio award:
+"perfect" if you still have all your health and armor, "excellent" if your health and armor
+is over 100, and a plain "you win" otherwise.
+
+
+Copyright and Distribution Permissions
+--------------------------------------
+This archive must remain FREE and intact. This archive was designed for release ONLY to
+the ASWP clan/community for INTERNAL alpha testing!! This archive is NOT for public
+release!
+
+The QuakeC code is mine.
+
+The maps/engine/various art are the work of others.
+
+Cheers!
