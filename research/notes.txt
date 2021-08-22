@@ -1895,6 +1895,9 @@ Ranger Bot
 		http://www.geocities.ws/maleficus666/mal_log.txt
 			only one version was distributed?!
 			25*8*01: version 0.3.0a (distributed)
+	aswp clan
+		https://web.archive.org/web/20010429002459/http://www.aswp.net/
+		https://web.archive.org/web/20010813110850/http://people.a2000.nl/kunst/aswp/members/main.html
 
 
 

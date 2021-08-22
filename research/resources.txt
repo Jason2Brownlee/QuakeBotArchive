@@ -10,6 +10,8 @@ randar's bot page
 	http://www.randars.com/bots/
 	http://www.users.qwest.net/~mimpchnk/
 		https://web.archive.org/web/20001109033100/http://www.users.qwest.net/~mimpchnk/
+	http://members.cox.net/randar
+		https://web.archive.org/web/20110604154841/http://members.cox.net/randar/bots1.html
 botepidemic / bot epidemic
 	http://www.botepidemic.com
 		https://web.archive.org/web/20001027075424/http://www.botepidemic.com/bots/quake.shtml
