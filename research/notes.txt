@@ -1880,8 +1880,21 @@ Ranger Bot
 	https://web.archive.org/web/20091025143535/http://geocities.com/maleficus666/ranger_pics.htm
 	https://web.archive.org/web/20091024202854/http://aswp.tzo.net/maleficus/setup.zip
 	https://web.archive.org/web/20091024202854/http://geocities.com/maleficus666/Ranger_DEMO.txt
+	http://aswp.tzo.net/maleficus
+		not in the archive
+		https://web.archive.org/web/20020117165458/http://aswp.tzo.net/
 	2001
 	https://web.archive.org/web/20040707055841/http://fritzbot.bots-united.com/
+	https://www.ign.com/articles/2007/06/01/making-bots-for-quake-wars
+	https://www.mobygames.com/developer/sheet/view/developerId,292272/
+	mirror
+		http://www.geocities.ws/maleficus666/
+		http://aswp.tzo.net/maleficus/setup.zip
+		http://www.geocities.ws/maleficus666/Ranger_DEMO.txt
+		http://www.geocities.ws/maleficus666/setup.zip
+		http://www.geocities.ws/maleficus666/mal_log.txt
+			only one version was distributed?!
+			25*8*01: version 0.3.0a (distributed)
 
 
 

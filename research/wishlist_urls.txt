@@ -62,6 +62,7 @@ ftp://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/idgames2/telefragged/metro/
 ftp://ter.ort.spb.ru/Nico/Pathes/Bots/obot100.zip
 http://asp.planetquake.com/dl/dl.asp?requiem/reqqwsrc.zip
 http://asp.planetquake.com/dl/dl.asp?requiem/reqsrc.zip
+http://aswp.tzo.net/maleficus/setup.zip
 http://botarea51.impulse9.net/mirror/bot/elimpack.zip
 http://first.quakegate.ru/bots/frogbot.rar
 http://freespace.virgin.net/w.james/DJbot1.zip
@@ -199,4 +200,3 @@ http://xmark.ausgamers.com/xkteams/xkteams1705.zip
 http://xmark.ausgamers.com/xkteams/xkteams1705s.zip
 http://xmark.ausgamers.com/xkteams/xkteams2.zip
 https://www.angelfire.com/pe/pent3/images/frogbot011.zip
-

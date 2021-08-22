@@ -154,7 +154,7 @@ Quake Bot (QBot) | Muhammad Hidayat Bin Sman aka "Grinder" | [qbot11.zip](bin/qb
 Quake Dodgeball | Brendan aka "Trickle" and "Orion" | [quake_dodgeball_v1.2.6.zip](bin/quake_dodgeball_v1.2.6.zip)<br>[db_src_2016.zip](bin/db_src_2016.zip)<br>[quake_dodgeball_1.1.zip](bin/quake_dodgeball_1.1.zip)
 R Bot | Ross Johnson aka "ColdKill" | [rbot70.zip](bin/rbot70.zip) ([txt](bin/rbot70.txt))<br>[rbot20.zip](bin/rbot20.zip) ([txt](bin/rbot20.txt))<br>rbot.zip
 RABot | Rodrigo Marx aka "Shooter" | [mwrrabot222cl.zip](bin/mwrrabot222cl.zip)<br>[rabot.zip](bin/rabot.zip)
-Ranger Bot | John Dean aka "Maleficus" | setup.exe ([txt](bin/ranger_demo.txt))
+Ranger Bot | John Dean aka "Maleficus" | setup.zip ([txt](bin/ranger_demo.txt))
 Reaper + DM4 | Daniel Hein aka "Hades" | [dm4reaper.zip](bin/dm4reaper.zip) ([txt](bin/dm4reaper.txt))
 Reaper + Painkeep | Bent Svendsen aka "Decker" | [pkbot.zip](bin/pkbot.zip) ([txt](bin/pkbot.txt))
 Reaper + Scourge of Armagon | Bent Svendsen aka "Decker" | [hipreap3.zip](bin/hipreap3.zip) ([txt](bin/hipreap3.txt))
