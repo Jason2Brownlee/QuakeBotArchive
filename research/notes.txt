@@ -1898,6 +1898,29 @@ Ranger Bot
 	aswp clan
 		https://web.archive.org/web/20010429002459/http://www.aswp.net/
 		https://web.archive.org/web/20010813110850/http://people.a2000.nl/kunst/aswp/members/main.html
+coopbot / teambot / TeambotX
+	Michael Matthew Messina aka "Bolt Action Gaming"
+		http://gamegurureport.blogspot.com
+	"An Introduction to GameGuru" book
+		"The result was now somewhat infamous. I had created the first (to my knowledge) cooperative Quake1 bot called “Coopbot.” Later, it was called Teambot and followed with the final version TeambotX. Over the years, other modders grabbed my code, rehashed it, and it ended up distorted. Eventually, some pieces of it made it into the reaper bot code, which I’ve always been particularly proud of."
+			does not seem correct based on genealogy of bots...
+	https://www.reddit.com/r/OutreachHPG/comments/40y87j/psa_how_to_spot_a_hackerbotter/
+	coopbot3/X
+		"which was based on darkbot's awful coding"
+	https://forum.game-guru.com/thread/213975
+		"I wrote the CoopBot for Quake 1, which became the Zeus bot, which became the reaper bot"
+			Does not seem correct...
+	extension of darkbot?
+	teambot (not related it seems)
+		https://web.archive.org/web/20010302052220if_/http://www.teambot.net:80/
+	usenet
+		https://groups.google.com/g/fido7.ru.game.quake/c/GdJKXJ_pQeU/m/gscDXkvuFlYJ
+		maybe a teambot based on frobot
+			translated from russian: "There are also TeamBots made on the basis of v012 frogs (these are for teamplay), too."
+	received a version from author
+		coopbot3.zip
+
+
 
 
 
@@ -2020,25 +2043,7 @@ Elima-Reaper / Elima Reaper
 	Roscoe A. Sincero
 	Contacted author.
 	no release...
-coopbot / teambot / TeambotX
-	Michael Matthew Messina aka "Bolt Action Gaming"
-		http://gamegurureport.blogspot.com
-	"An Introduction to GameGuru" book
-		"The result was now somewhat infamous. I had created the first (to my knowledge) cooperative Quake1 bot called “Coopbot.” Later, it was called Teambot and followed with the final version TeambotX. Over the years, other modders grabbed my code, rehashed it, and it ended up distorted. Eventually, some pieces of it made it into the reaper bot code, which I’ve always been particularly proud of."
-			does not seem correct based on genealogy of bots...
-	https://www.reddit.com/r/OutreachHPG/comments/40y87j/psa_how_to_spot_a_hackerbotter/
-	coopbot3/X
-		"which was based on darkbot's awful coding"
-	https://forum.game-guru.com/thread/213975
-		"I wrote the CoopBot for Quake 1, which became the Zeus bot, which became the reaper bot"
-			Does not seem correct...
-	extension of darkbot?
-	teambot (not related it seems)
-		https://web.archive.org/web/20010302052220if_/http://www.teambot.net:80/
-	usenet
-		https://groups.google.com/g/fido7.ru.game.quake/c/GdJKXJ_pQeU/m/gscDXkvuFlYJ
-		maybe a teambot based on frobot
-			translated from russian: "There are also TeamBots made on the basis of v012 frogs (these are for teamplay), too."
+
 
 
 
