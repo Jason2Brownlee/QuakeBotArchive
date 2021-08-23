@@ -3,15 +3,36 @@ RESOURCES
 
 Useful resources when looking for quake bots, mostly mirrors of popular quake sites.
 
-
-quake bot reviews
-	http://www.insideqc.com/modindex/qreview/
 randar's bot page
+	Brent Phillips aka "Randar"
 	http://www.randars.com/bots/
+		https://web.archive.org/web/*/www.randars.com/*
+		https://web.archive.org/web/20120406205400/http://www.randars.com/bots/bots1.html
+		http://www.randars.com/bots/news1.html
+		http://www.randars.com/bots/news2.html
+		http://www.randars.com/bots/news3.html
+		http://www.randars.com/bots/news4.html
+		http://www.randars.com/bots/bots1.html
+		http://www.randars.com/bots/botfaq.html
+		http://www.randars.com/bots/review.html
+	http://home.earthlink.net/~gbppap/
+		https://web.archive.org/web/20020527081109/http://home.earthlink.net/~gbppap/
+		https://web.archive.org/web/20020105015848/http://home.earthlink.net/~gbppap/bots1.htm
+		https://web.archive.org/web/20020422080813fw/http://home.earthlink.net/~gbppap/bots4.htm
 	http://www.users.qwest.net/~mimpchnk/
 		https://web.archive.org/web/20001109033100/http://www.users.qwest.net/~mimpchnk/
+		https://web.archive.org/web/20010114035500fw/http://www.users.qwest.net/~mimpchnk/bots1.htm
+		https://web.archive.org/web/20010129020100fw_/http://www.users.qwest.net/~mimpchnk/bots4.htm
 	http://members.cox.net/randar
 		https://web.archive.org/web/20110604154841/http://members.cox.net/randar/bots1.html
+		https://web.archive.org/web/20021022125841fw/http://members.cox.net/randar/bots1.htm
+	http://www.users.uswest.net/~mimpchnk/
+		https://web.archive.org/web/19991002015258/http://www.users.uswest.net/~mimpchnk/
+		https://web.archive.org/web/20010114035500fw/http://www.users.qwest.net/~mimpchnk/bots1.htm
+		https://web.archive.org/web/20010129020100fw/http://www.users.qwest.net/~mimpchnk/bots4.htm
+	http://www.ionet.net/~mimpchnk/
+		https://web.archive.org/web/2017*/http://www.ionet.net/~mimpchnk/
+		not archived
 botepidemic / bot epidemic
 	http://www.botepidemic.com
 		https://web.archive.org/web/20001027075424/http://www.botepidemic.com/bots/quake.shtml
@@ -299,7 +320,8 @@ http://www.kinglink.com/qhq
 	http://www.kinglink.com/qhq/index.html
 	http://www.kinglink.com:80/qhq/reaper.html
 	http://www.kinglink.com/qhq/news.html
-
+quake bot reviews
+	http://www.insideqc.com/modindex/qreview/
 
 
 
