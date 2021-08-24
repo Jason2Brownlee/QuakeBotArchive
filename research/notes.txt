@@ -449,6 +449,7 @@ ReaperFX Bot
 	http://www.btinternet.com/~impaler/
 		https://web.archive.org/web/20030709093254/http://www.btinternet.com/~impaler/
 		https://web.archive.org/web/20060527122327fw_/http://www.btinternet.com/~impaler/files/reaperfx.zip
+		http://www.btinternet.com/~impaler/files/reaperfx.zip
 Gideon Bot
 	reaper clone
 	http://www.randars.com/bots/bots1.html

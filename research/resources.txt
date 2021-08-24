@@ -328,6 +328,18 @@ http://www.kinglink.com/qhq
 quake bot reviews
 	http://www.insideqc.com/modindex/qreview/
 http://games.s3n.com/quake/q_bots.htm
+Frikbot Resource Depot
+	http://qld.condemned.com/frd/
+	https://web.archive.org/web/*/qld.condemned.com/*
+	https://web.archive.org/web/20030714010352/http://qld.condemned.com/frd/index.shtml
+	https://web.archive.org/web/20030714003739/http://qld.condemned.com/frd/about.shtml
+	https://web.archive.org/web/20030714005053/http://qld.condemned.com/frd/frikbot.shtml
+	https://web.archive.org/web/20020610143520/http://qld.condemned.com:80/qld/downloads.shtml
+	https://web.archive.org/web/20010801232911/http://qld.condemned.com:80/downloads.shtml
+	https://web.archive.org/web/20010801233024/http://qld.condemned.com/index.shtml
+	https://web.archive.org/web/20040125072153/http://qld.condemned.com/frd/frik_history.shtml
+	https://web.archive.org/web/20030714010945/http://qld.condemned.com/frd/files/tools/frikway-1.1.zip
+	https://web.archive.org/web/20030714010945/http://qld.condemned.com/frd/files/tools/frikwaystudio12.zip
 
 
 
