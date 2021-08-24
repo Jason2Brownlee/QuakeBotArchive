@@ -61,7 +61,12 @@ botepidemic / bot epidemic
 		https://web.archive.org/web/20030626082844/http://www.cyd.liu.se/~bjoli035/botepidemic/fmods/index.htm
 		https://web.archive.org/web/20030818015901/http://www.cyd.liu.se/~bjoli035/botepidemic/frikbot/index.htm
 quake terminus
+	https://www.quaketerminus.com/
+		https://web.archive.org/web/20031213020802/http://www.quaketerminus.com/
+		https://web.archive.org/web/*/www.quaketerminus.com/*
+		https://web.archive.org/web/20030707081447/http://www.quaketerminus.com/bots.htm
 	https://www.quaketerminus.com/bots.shtml
+
 botarea51 / bot area 51
 	http://www.rmbwenw.nl/botarea51/
 		https://web.archive.org/web/20020207004923/http://www.rmbwenw.nl/botarea51/
@@ -322,6 +327,7 @@ http://www.kinglink.com/qhq
 	http://www.kinglink.com/qhq/news.html
 quake bot reviews
 	http://www.insideqc.com/modindex/qreview/
+http://games.s3n.com/quake/q_bots.htm
 
 
 

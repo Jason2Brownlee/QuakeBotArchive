@@ -445,7 +445,10 @@ ReaperFX Bot
 	https://www.gamers.org/pub/idgames2/quakec/bots/reaper/reaperfx.txt
 	https://www.gamers.org/pub/idgames2/quakec/bots/reaper/reaperfx.zip
 	http://www.rmbwenw.nl/botarea51/
-	https://web.archive.org/web/20011215073721/http://www.rmbwenw.nl/botarea51/
+		https://web.archive.org/web/20011215073721/http://www.rmbwenw.nl/botarea51/
+	http://www.btinternet.com/~impaler/
+		https://web.archive.org/web/20030709093254/http://www.btinternet.com/~impaler/
+		https://web.archive.org/web/20060527122327fw_/http://www.btinternet.com/~impaler/files/reaperfx.zip
 Gideon Bot
 	reaper clone
 	http://www.randars.com/bots/bots1.html
@@ -585,9 +588,17 @@ GuardBot
 	Peter van Wingerden
 	https://www.quaddicted.com/files/idgames2/quakec/bots/grdbot23.txt
 	https://www.quaddicted.com/files/idgames2/quakec/bots/grdbot23.zip
-	https://web.archive.org/web/20001025114653/http://petervw.club.tip.nl/quake.htm
-	http://home-4.worldonline.nl/~t625343/guardbot.zip
-	guardbot.zip
+	http://www.geocities.com/SiliconValley/Sector/7514/quake.htm
+		https://web.archive.org/web/20000305114833/http://www.geocities.com/SiliconValley/Sector/7514/quake.htm
+	http://petervw.club.tip.nl/quake.htm
+		https://web.archive.org/web/20001025114653/http://petervw.club.tip.nl/quake.htm
+		https://web.archive.org/web/20000930134312/http://zap.to/guardbot
+	http://home-4.worldonline.nl/~t625343
+		https://web.archive.org/web/20010105134200/http://home-4.worldonline.nl/~t625343/
+		https://web.archive.org/web/20001211032400/http://home-4.worldonline.nl/~t625343/quake.htm
+		https://web.archive.org/web/20001025211154/http://home-4.worldonline.nl/~t625343/guardbot.htm
+		https://web.archive.org/web/20001025211154fw_/http://home-4.worldonline.nl/~t625343/guardbot.htm
+		https://web.archive.org/web/20001025211154fw_/http://home-4.worldonline.nl/~t625343/guardbot.zip
 Navy SEALs sQuad bots
 	William van der Sterren
 		https://web.archive.org/web/20000831165233/http://planetquake.com/botshop/quake.html
