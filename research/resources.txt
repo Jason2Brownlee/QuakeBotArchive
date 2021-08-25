@@ -66,7 +66,8 @@ quake terminus
 		https://web.archive.org/web/*/www.quaketerminus.com/*
 		https://web.archive.org/web/20030707081447/http://www.quaketerminus.com/bots.htm
 	https://www.quaketerminus.com/bots.shtml
-
+	https://www.quaketerminus.com/archive.shtml
+	http://www.quaketerminus.com/nqexes/ctfbotp032399.zip
 botarea51 / bot area 51
 	http://www.rmbwenw.nl/botarea51/
 		https://web.archive.org/web/20020207004923/http://www.rmbwenw.nl/botarea51/

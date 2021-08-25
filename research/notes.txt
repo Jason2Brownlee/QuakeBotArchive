@@ -387,18 +387,71 @@ Trevor McDoanld Bot (TrevBot)
 	https://www.quaddicted.com/files/idgames2/quakec/bots/trevbot.txt
 	https://www.quaddicted.com/files/idgames2/quakec/bots/trevbot.zip
 	Kris O'Shea
-QuakeBot / WarBot / QBot
-	https://www.quakewiki.net/archives/botarea51/main/qbot9c8a.html?id=23
-	https://www.quaddicted.com/files/idgames2/quakec/bots/qbot11.zip
-	https://www.quaddicted.com/files/idgames2/quakec/bots/qbot11.txt
-	who created this??? Timm Stokke?
-	Grinder
-	https://www.quakewiki.net/archives/botshop/news/quake-2.html
+WarBot / QuakeBot / QBot
+	Muhammad Hidayat Bin Sman aka "Grinder"
+	WarBot -> QBot
+	http://web.singnet.com.sg/~mhidayat/WarBot/warbot.htm
+	http://web.singnet.com.sg/~mhidayat/WarBot/botmania.htm
+		https://web.archive.org/web/20000520094056/http://web.singnet.com.sg/~mhidayat/WarBot/warbot.htm
+		https://web.archive.org/web/20010520040437/http://web.singnet.com.sg/~mhidayat/
+		https://web.archive.org/web/*/web.singnet.com.sg/*
+		not archived
 	http://homer.pacific.net.sg/~grinder/warbot.htm
-	https://web.archive.org/web/20001207140300/http://homer.pacific.net.sg/~grinder/warbot.htm
-	https://web.archive.org/web/19980614160719/http://www.inside3d.com/dec18-dec19.shtml
-	warbot then quake bot extended it
-	https://www.iconbar.com/downloads/quake/warbot.zip
+		https://web.archive.org/web/20001022191246/http://homer.pacific.net.sg/~grinder/warbot.htm
+		https://web.archive.org/web/19981206075751/http://homer.pacific.net.sg/~grinder/
+		https://web.archive.org/web/*/http://homer.pacific.net.sg:80/~grinder/qbot11.zip
+		https://web.archive.org/web/*/homer.pacific.net.sg/*
+		not archived
+	v1.3
+		https://groups.google.com/g/rec.games.computer.quake.playing/c/ggQQDWM6Or8/m/Jm7YatYR_4MJ
+		13 Oct 1997
+		WarBot v1.3a
+		warbt13a.zip
+		warbotpk.zip
+	v1.4
+		https://www.iconbar.com/articles/Arcquake_and_QuakeC_patches/index1010.html
+		https://www.iconbar.com/downloads/quake/warbot.zip
+		warbot14_dat.zip
+		warbot14_pak.zip
+	v2.0
+		https://groups.google.com/g/rec.games.computer.quake.misc/c/KPk8rgz9VzQ/m/Kfd1s4jgOWMJ
+		https://groups.google.com/g/rec.games.computer.quake.playing/c/3vT56IWT6JI/m/3pgH0X7gqQ0J
+		24 Nov 1997
+		most likely:
+			warbot2.zip
+			https://groups.google.com/g/alt.games.quake/c/Bf8A9OR-tNQ/m/cX2RwBydGccJ
+	qbot v1.1
+		Dec 8 1997
+		http://homer.pacific.net.sg/~grinder/qbot11.zip
+		https://web.archive.org/web/20010713110110fw_/http://www.users.qwest.net/~mimpchnk/files.htm
+		http://www.ionet.net/~mimpchnk/qbot11.zip
+		http://home.earthlink.net/~gbppap/qbot11.zip
+		http://www.users.qwest.net/~mimpchnk/qbot11.zip
+		ftp://ftp.cdrom.com/pub/quake/quakec/bots/qbot11.zip
+		ftp://ftp.cdrom.com/pub/quake/quakec/bots/qbot11.txt
+		ftp://sunsite.doc.ic.ac.uk/packages/idgames2/quakec/bots/qbot11.zip
+		https://www.quaddicted.com/files/idgames2/quakec/bots/qbot11.zip
+		https://www.quaddicted.com/files/idgames2/quakec/bots/qbot11.txt
+		https://dukeworld.com/idgames2/quakec/bots/qbot11.zip
+		https://dukeworld.com/idgames2/quakec/bots/qbot11.txt
+		http://www.fileplanet.com/dl.aspx?/planetquake/botarea51/bot/qbot11.zip
+		http://botarea51.impulse9.net/mirror/bot/qbot11.zip
+	general
+		http://www.randars.com/bots/news4.html
+		http://www.randars.com/bots/review.html
+		http://www.gweb.me.uk/gweb/quake.htm
+		https://www.quakewiki.net/archives/eoc/articles/cheating/index.shtml
+		http://games.s3n.com/quake/q_bots.htm
+		https://www.quakewiki.net/archives/botshop/quake.html
+		https://www.quakewiki.net/archives/botshop/news/quake-2.html
+		http://orca.ucd.ie/~gilligan/bots.html
+			https://web.archive.org/web/19970708154938/http://orca.ucd.ie/~gilligan/
+			http://orca.ucd.ie/~gilligan/warbot.zip
+			https://web.archive.org/web/19970708182911/http://orca.ucd.ie/~gilligan/quake.html
+			https://web.archive.org/web/19970709001141/http://orca.ucd.ie/~gilligan/qpatches.html
+			https://web.archive.org/web/*/orca.ucd.ie/*
+		https://www.quakewiki.net/archives/botarea51/main/qbot9c8a.html?id=23
+		https://web.archive.org/web/19980614160719/http://www.inside3d.com/dec18-dec19.shtml
 Xreaper (reaper bot)
 	http://www.rmbwenw.nl/botarea51/
 		https://web.archive.org/web/20010504230805/http://www.rmbwenw.nl/botarea51/

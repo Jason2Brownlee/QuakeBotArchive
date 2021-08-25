@@ -1,0 +1,50 @@
+Title : WarBot v1.3a
+Filenames: warbt13a.zip
+warbotpk.zip
+
+Version : 1.3a
+Date : September 23, 1997
+Author : Muhammad Hidayat Bin Sman
+
+Email : spamspamspamspam
+
+Credits : ID for making Quake and DOOM.
+
+Steven Polge of Reaperbot v0.81 (of course)
+
+Roscoe A. Sincero of the ReaperBot Improvement Protocols
+without which all this would not be possible.
+
+Dark_Skye of the 'Reapa' tutorials for helping with the
+bot color assignments on the ranking screen.
+
+Jonathan E. Wright of Cujobot v1.4 and Zeus v2.05. Code
+or ideas from Zeus were used in movement code.
+
+Alan Kivlin of QCBot for his detailed instructions on how
+to get the bots on the rankings and his accompanying source
+code to add bots to rankings.
+
+Harvey Lee of YCam (code used in WarBot was taken from Wes
+Morrison's patch)
+
+Mark Wheeler of Drastic-Reaper for pointing me in the right
+direction while I was trying to fix the YCam bug.
+
+Gyro Gearloose of Gyrobot v1.04 for identifying one of the
+causes for edict losses.
+
+=================================
+Improvements over ReaperBot v0.81
+=================================
+
+1) Bots appear on the ranking screen.
+2) Bots have different colored shirts and pants.
+3) Bots ranking screen color assignments work properly in GLQuake.
+4) Impulse command messages are now printed onscreen in GLQuake.
+5) Bots now have more "human-like" names.
+6) Ycam feature implemented.
+7) Deathmatch 3 mode implemented.
+8) The old ReaperBot thumping sound bug eliminated.
+9) The old ReaperBot weapon dissappearing bug/cheat fixed.
+

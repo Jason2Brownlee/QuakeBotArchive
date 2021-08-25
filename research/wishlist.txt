@@ -199,6 +199,9 @@ var19.zip
 vicinitymodels.zip
 vicinityqwprogs.zip
 vicinitysource.zip
+warbot14_dat.zip
+warbot14_pak.zip
+warbotpk.zip
 warbt13a.zip
 waypack1.zip
 waypoints_maker.rar
@@ -210,5 +213,4 @@ zeus20.zip
 zeus201.zip
 zeus202b.zip
 zeus2041.zip
-
-
+warbot2.zip
