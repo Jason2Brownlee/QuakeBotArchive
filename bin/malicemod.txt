@@ -1,0 +1,113 @@
+Short:        Malice (Quake TC) bot-mod & fpsbooster
+Author:       v2615@groenjord.dk (quake-nick "surgeon")
+Uploader:     v2615 groenjord dk
+Type:         game/patch
+Version:      0.52
+Architecture: m68k-amigaos
+
+New in v0.52: (27-12-99) 
+-----------------------------------------------------------------------------
+- Distribution changed to patch file.
+  Now requires the original PAK1.PAK from malice 
+  Please read the "how to patch" notes.
+
+
+New in v0.51: (07-11-99) 
+-----------------------------------------------------------------------------
+Bugfix release. 
+- Launching torpedos from the submarine doesn't make quake crash anymore. 
+
+
+04-10-99   
+-----------------------------------------------------------------------------
+This is a speedup modification for malice with the addition of a dm-bot. 
+I have adapted the tutorbot from AI Cafe to malice.  
+It plays ok, and shows in the rankings like players.  
+New in this version is waypoint navigation (less cpu demanding),  
+improved aiming routines and added skill levels(Skill can be set at any time). 
+The bot also picks up weapons and items, can use lifts and teleporters.  
+However it still can't use hoverboard, parachute and such... 
+Waypoint support is currently limited to ddm4 and ztndm3 
+(custom quake deathmatch level -works fine with malice)  
+
+  
+Installation:   
+-----------------------------------------------------------------------------
+How to patch:
+The supplied script "PatchMalice" asks you to pick the PAK1.PAK in your
+malicedir,
+select the patch (pak1.pch) and choose the output filename (example:pak1.new)
+
+When the patcher is done (this may take a while), store your old pak1.pak
+somewhere else, in case you want to use it again.
+Now rename the newly generated pakfile (pak1.new or whatever you called it)
+to pak1.pak.
+
+After patching and renaming, copy the supplied autoexec.cfg to your malice
+dir, and start malice as usual.
+   
+
+Usage:   
+New console commands:   
+-----------------------------------------------------------------------------
+Type "boostfps" in the console, and flashes from your guns will be disabled,   
+shell ejecting will be shut off, dead bodies will be filtered out,   
+pickup and damage flashes will be disabled and explosions will be replaced   
+with teleport fx (like TheMod and Qboost4).   
+   
+"maxfps" will additionally disable light from enemy guns, gibs   
+and dynamic light-tables.  
+   
+"kickroll" will (has to be typed after starting every level), will disable   
+weaponkick and view-tilting as well as the walk bobcycle.   
+   
+"autovars" toggles the fov and viewsize autoset on/off, so that you can play   
+with fov 100, viewsize 80, r_drawviewmodel 0 if you want.   
+(Malice normally sets these vars automatically, so that you have to alter 
+them constantly, which is very annoying. 
+  
+Spawning bots:  
+Before a bot is spawned, skill should be set (0-3)   
+If temp1 is 0 (default) bot will use roaming AI.  
+If temp1 is > 0, waypoint navigation is enabled  
+(waypoint navigation currently supports the maps ddm4 and ztndm3)  
+  
+"addbot" will spawn a deathmatch opponent.   
+   
+"addbot2" will spawn a helper bot.   
+   
+"deathsquad" or "impulse 66" will spawn the vasquez bots.   
+   
+   
+If you want to have the fps-booster vars enabled by default,   
+use the samelevel cvar:   
+   
+- You should edit the supplied autoexec.cfg:   
+   
+samelevel 0; nothing altered   
+or   
+samelevel 1; boostfps enabled   
+or   
+samelevel 2; autovars disabled (default is enabled)   
+or   
+samelevel 3; boostfps & autovars   
+or   
+samelevel 5; maxfps enabled   
+or   
+samelevel 7; autovars & maxfps   
+   
+(kickroll can't be set with samelevel - it has to be typed in the console)    
+   
+It you want to play against the bot(s) remember to add the -listen   
+parameter to your startup:   
+   
+Quake -particles 1 -listen -game malice   .... (or something like that)   
+   
+Then, type "deathmatch 1" in the console and "map ddm1".   
+When the level has started, type "addbot".   
+(the bots plays all maps, prefers maps without too many lifts and triggers) 
+   
+Thats it. - enjoy!   
+   
+- surgeon   
+   

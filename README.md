@@ -135,6 +135,7 @@ Lightning Gun Competition (LGC) | Phil Romov aka "peheyele" | [lgc3.zip](bin/lgc
 Lithium CTF Bot | Juan Ignacio Rava aka "Johnny" | [lith091c.zip](bin/lith091c.zip)
 LoydBot | Loyd aka "Juninho" | [lbotv10.zip](bin/lbotv10.zip)
 Lurkerz | Ron Goff and Jon Little | [lrkrz_01.zip](bin/lrkrz_01.zip) ([txt](bin/lrkrz_01.txt))
+Malice bot-mod | Christian Michael aka "surgeon" | [malicemod.lha](bin/malicemod.lha) ([txt](bin/malicemod.txt))
 MaNiAc's FrogBot MOD (lag simulation) | Michael Turitzin aka "MaNiAc" | [lagmod.zip](bin/lagmod.zip)
 MaNiAcBot | Michael Turitzin aka "MaNiAc" | [maniacbt.zip](bin/maniacbt.zip) ([txt](bin/maniacbt.txt))<br>maniacbt12.zip<br>fbmod.zip
 Mathfrag | Khin Mannering aka "Dr. Shadowborg" | [mlx20b.zip](bin/mlx20.zip)

@@ -1985,6 +1985,12 @@ coopbot / teambot / TeambotX
 			translated from russian: "There are also TeamBots made on the basis of v012 frogs (these are for teamplay), too."
 	received a version from author
 		coopbot3.zip
+Malice bot-mod
+	http://aminet.net/package/game/patch/malicemod
+	http://aminet.net/game/patch/malicemod.lha
+	http://aminet.net/game/patch/malicemod.readme
+	https://en.wikipedia.org/wiki/Malice_(1997_video_game)
+		bot for the malice TC
 
 
 
@@ -2233,6 +2239,8 @@ oriontf
 	https://www.quaketastic.com/files/multiplayer/mods/oriontf_beta2.zip
 	https://www.quaketastic.com/files/multiplayer/mods/oriontf_beta3.zip
 	https://www.quaketastic.com/files/multiplayer/mods/oriontf_beta4.zip
+
+
 
 
 
