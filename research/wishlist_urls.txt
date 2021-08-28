@@ -13,6 +13,7 @@ ftp://ftp.cdrom.com/pub/idgames2/telefragged/metro/frogbot007.zip
 ftp://ftp.cdrom.com/pub/quake/quakec/bots/btsk22.zip
 ftp://ftp.cdrom.com/pub/quake/quakec/bots/dmbt21b1.zip
 ftp://ftp.cdrom.com/pub/quake/quakec/bots/doombot.zip
+ftp://ftp.cdrom.com/pub/quake/quakec/misc/req106a.zip
 ftp://ftp.cdrom.com:21/pub/planetquake/holywars/hw_frogbot.zip
 ftp://ftp.elogica.com.br/pub/warlock/brbot.exe
 ftp://ftp.grayphics.com/pub/frigid/botblast/obots101.hqx
@@ -137,6 +138,7 @@ http://www.3ddownloads.com/showfile.php3?filename=vicinity/vicinitymodels.zip
 http://www.3ddownloads.com/showfile.php3?filename=vicinity/vicinityqwprogs.zip
 http://www.3ddownloads.com/showfile.php3?filename=vicinity/vicinitysource.zip
 http://www.angelfire.com/co2/kooliobot/images/koolio.zip
+http://www.angelfire.com/pe/pent3/images/frogbot011.zip
 http://www.bluesnews.com/files/patches/obots100.zip
 http://www.botepidemic.com/fmods/bm116se.zip
 http://www.botepidemic.com/fmods/demos/squaretst.zip
@@ -202,4 +204,3 @@ http://www.users.bigpond.com/clanslug/ClanV0.7HMan.zip
 http://xmark.ausgamers.com/xkteams/xkteams1705.zip
 http://xmark.ausgamers.com/xkteams/xkteams1705s.zip
 http://xmark.ausgamers.com/xkteams/xkteams2.zip
-https://www.angelfire.com/pe/pent3/images/frogbot011.zip

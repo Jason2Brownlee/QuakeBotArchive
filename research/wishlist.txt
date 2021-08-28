@@ -173,6 +173,7 @@ rbot.zip
 reaper.zip
 reaper08.sit.hqx
 reaprb75.zip
+req106a.zip
 req107d.zip
 reqqw20i.zip
 reqqw23.zip
@@ -201,6 +202,7 @@ vicinityqwprogs.zip
 vicinitysource.zip
 warbot14_dat.zip
 warbot14_pak.zip
+warbot2.zip
 warbotpk.zip
 warbt13a.zip
 waypack1.zip
@@ -213,4 +215,3 @@ zeus20.zip
 zeus201.zip
 zeus202b.zip
 zeus2041.zip
-warbot2.zip

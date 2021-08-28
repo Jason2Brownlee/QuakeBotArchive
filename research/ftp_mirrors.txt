@@ -462,6 +462,8 @@ garfield.sch.bme.hu/pub/idstuff/quake/
 ftp://ftp.gamesnet.net/
 	ftp://ftp.gamesnet.net/pub/bluesnews/quake2/featuredmaps/ztn2dm3.txt
 	https://web.archive.org/web/19981212014110/ftp://ftp.gamesnet.net/
-
+ftp.zx.net.nz
+	https://ftp.zx.net.nz/pub/archive/ftp.gamers.org/pub/mirrors/ftp.planetquake.com/
+	https://ftp.zx.net.nz/pub/archive/ftp.gamers.org/pub/idgames2/quakec/bots/
 
 
