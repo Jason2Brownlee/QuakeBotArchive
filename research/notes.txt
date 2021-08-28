@@ -75,6 +75,11 @@ Reaper Bot
 		http://cd.textfiles.com/swextrav8/swextrav8-2/gamapog2/reaprb07.zip
 		https://webcache.googleusercontent.com/search?q=cache:a4Kobe0XdOUJ:https://archive.org/stream/PCGamer199701/PC%2520Gamer%2520%25281997-01%2529%2520032%2520%2528Imagine%2529_djvu.txt+&cd=1&hl=en&ct=clnk&gl=au
 		https://groups.google.com/g/spk.file/c/IMPklo6HC-s
+		https://web.archive.org/web/19970709060246/http://orca.ucd.ie/~gilligan/reaper.zip
+			v0.8
+		https://www.iconbar.com/downloads/quake/reapers.zip
+			https://www.iconbar.com/articles/Arcquake_and_QuakeC_patches/index1010.html
+			v0.8
 	never release code
 		https://www.bluesnews.com/archives/aug97-5.html
 		https://www.bluesnews.com/archives/sept97-1.html
