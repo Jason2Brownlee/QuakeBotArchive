@@ -43,6 +43,8 @@ https://www.gamers.org/docs/FAQ/quakefaq/qfaq.html#1-10
 
 https://web.archive.org/web/19970605031059/http://www.gameaholic.com:80/deicide/download.cgi?/quakec/bots/rbot.zip
 
+https://web.archive.org/web/19971210225706/http://www.warwick.ac.uk/~miapd/quake/quake.htm
+
 
 ftp mirrors
 (e.g. to see if they have html interfaces captured in archive.org)

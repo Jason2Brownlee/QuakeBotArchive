@@ -52,50 +52,165 @@ Omicron Bot
 			https://web.archive.org/web/*/blast.quakeintosh.com/*
 		https://web.archive.org/web/19980213185455/http://www2.arkansas.net/~bnapier/
 		https://web.archive.org/web/19980128215009/http://www.grayphics.com/~frigid/botblast/index.shtml
-Reaper Bot
-	https://quake.fandom.com/wiki/The_Reaper_Bot
-	https://www.quakewiki.net/archives/botarea51/main/qbot87f1.html?id=14
-	https://www.quaddicted.com/files/idgames2/planetquake/renegade/reaprb81.zip
-	https://web.archive.org/web/20021019163323/http://www.planetquake.com/qca/reviews/patch65.htm
-	reaprb81.zip
-	source code
-		https://web.archive.org/web/20170201010855/http://www.mindspring.com/~win32ch/Source.zip
-	https://mrelusive.com/oldprojects/obots/Comments/Acumen/Reapers.htm
-	decompile reaper
-		http://www.insideqc.com/qctut/rip1.shtml
+Reaper / ReaperBot / Reaper Bot
 	Steven Polge
-	https://www.bluesnews.com/archives/sept96-5.html
-	old versions?
-		ftp://ftp.pk.edu.pl/pub/games/id/quaketoys/mods/reaprb75.zip
+	v0.81
+		http://easttown.co.uk/quake/download.php?file=reaprb81.zip&size=167024
+		http://www.mindspring.com/~win32ch/reaprb81.zip
+		http://www.mindspring.com/~win32ch/Source.zip
+			https://web.archive.org/web/2017*/http://www.mindspring.com/~win32ch/Source.zip
+			unofficial source code
+		http://botarea51.impulse9.net/mirror/bot/reaprb81.zip
+		http://www.fileplanet.com/dl.aspx?/planetquake/botarea51/bot/reaprb81.zip
+		https://dukeworld.com/planetquake/renegade/reaprb81.zip
+		https://www.quaddicted.com/files/idgames2/planetquake/renegade/reaprb81.zip
+		https://www.quaddicted.com/files/idgames2/quakec/bots/reaper/reaprb81.zip
+		https://www.quaddicted.com/files/idgames2/quakec/bots/reaper/reaprb81.txt
+		https://www.gamers.org/pub/idgames2/quakec/bots/reaper/reaprb81.zip
+		ftp://ftp.cdrom.com/pub/idgames2/quakec/bots/reaper/reaprb81.zip
+		http://postmortem.www2.50megs.com/links/reaprb81.zip
+		http://www.joz3d.net/files/Games/Quake/1/reaprb81.zip
+		ftp://ftp.stomped.com/pub/redwood/bots/reaprb81.zip
+		https://ftp.zx.net.nz/pub/archive/ftp.gamers.org/pub/mirrors/ftp.planetquake.com/renegade/reaprb81.zip
+		http://www.gamers.org/pub/idgames2/quakec/bots/reaper/reaprb81.zip
+		ftp://ftp.cdrom.com/pub/quake/quakec/bots/reaper/reaprb81.zip
+		ftp://ftp.cdrom.com/pub/idgames2/quakec/bots/reaper/reaprb81.zip
+		http://www.cdrom.com/pub/idgames2/quakec/bots/reaper/reaprb81.txt
+		ftp://sunsite.doc.ic.ac.uk/packages/idgames2/quakec/bots/reaper/reaprb81.zip
+		ftp://sunsite.doc.ic.ac.uk/packages/idgames2/quakec/bots/reaper/reaprb81.txt
+		ftp://ftp.elogica.com.br/pub/warlock/ant/reaprb81.zip
+		ftp://ftp.pk.edu.pl/pub/games/id/quaketoys/mods/reaprb81.zip
+		http://first.quakegate.ru/bots/reaprb81.zip
+		http://mirror.its.dal.ca/freebsd/distfiles/reaprb81.zip
+		http://www.gnu-darwin.org/distfiles/reaprb81.zip
+		http://www.planetquake.com/skins/files/reaprb81.zip
+		ftp://ftp.planetquake.com/pub/academy/reaprb81.zip
+		http://ftp.cdrom.com/pub/quake/planetquake/qca/reaprb81.zip
+		http://www.planetquake.com/qca/reviews/patch65.txt
+		ftp://quake.mtu.ru/pub/quake/bots/reaper.zip
+		http://www-personal.engin.umich.edu/~stimpson/archives/mac/game/reaper-081.hqx
+		http://www.foobar.co.uk/users/macnet/rpbot/downloads/reaprb81.zip
+		https://groups.google.com/g/fido7.spb.files/c/AsDRP9l2s70/m/O0qPkTdH7V8J
+			REAPER.RAR
+		https://groups.google.com/g/lucky.freebsd.ports.bugs/c/QljC18AOsT0/m/xz5-zfFrTNMJ
+			quake-reaper.shar
+		http://bluesnews.com/files/reaprb81.zip
+	v0.80
+		http://www.cdrom.com/pub/quake/quakec/bots/reaprb80.zip
+		https://groups.google.com/g/rec.games.computer.quake.editing/c/G0n9wNw1F0I/m/xwwZ7LJTnw4J
+			reaprb80.zip
+		https://groups.google.com/g/fido7.game.design/c/_7D-NR4jNN4/m/QfSK_4bDRtEJ
+			reaprb80.zip
+		ftp://ftp.cdrom.com/quake/quakec/bots/reaper/reaprb80.zip
 		http://www.nlink.com.br/quake/reaper80.zip
 		ftp://bluesnews.com/pub/bots/reaprb80.zip
+		http://orca.ucd.ie/~gilligan/reaper.zip
+			https://web.archive.org/web/19970709060246/http://orca.ucd.ie/~gilligan/reaper.zip
+		https://www.iconbar.com/downloads/quake/reapers.zip
+		https://archive.org/download/PCZoneCompleteQuakeCD/PC%20Zone%20Complete%20Quake%20CD/PCZoneCompleteQuakeCD.iso/Tc%2FReaper%2FSETUP.EXE
+		https://lambert.jeanphilippe.free.fr/DownLoad/ReaperBot.zip
+		http://www.lavite.net/misc/q1/rpbot.zip
+		http://www.bluesnews.com/b08chg.txt
+	v0.75
+		ftp://ftp.pk.edu.pl/pub/games/id/quaketoys/mods/reaprb75.zip
 		ftp://bluesnews.com/pub/bots/reaprb75.zip
 		https://www.bluesnews.com/archives/nov96-1.html
-		https://www.bluesnews.com/archives/dec96-1.html
+			release info
+		https://groups.google.com/g/rec.games.computer.quake.misc/c/2-SabLnSA70/m/3hZnYijdOVQJ
+		http://quakemecca.simplenet.com/files/downloads/reaprb75.txt
+			http://aapo.iki.fi/aisuom.html
+			https://web.archive.org/web/19970530203249/http://quakemecca.simplenet.com/files/downloads/reaprb75.txt
+		https://groups.google.com/g/rec.games.computer.quake.playing/c/Ck1NbL0LWck/m/VtwKoqdrwjEJ
+			Reaprb75.txt
+	v0.70
 		http://cd.textfiles.com/swextrav8/swextrav8-2/gamapog2/reaprb07.zip
-		https://webcache.googleusercontent.com/search?q=cache:a4Kobe0XdOUJ:https://archive.org/stream/PCGamer199701/PC%2520Gamer%2520%25281997-01%2529%2520032%2520%2528Imagine%2529_djvu.txt+&cd=1&hl=en&ct=clnk&gl=au
-		https://groups.google.com/g/spk.file/c/IMPklo6HC-s
-		https://web.archive.org/web/19970709060246/http://orca.ucd.ie/~gilligan/reaper.zip
-			v0.8
-		https://www.iconbar.com/downloads/quake/reapers.zip
-			https://www.iconbar.com/articles/Arcquake_and_QuakeC_patches/index1010.html
-			v0.8
-	never release code
-		https://www.bluesnews.com/archives/aug97-5.html
-		https://www.bluesnews.com/archives/sept97-1.html
+		https://www.quaddicted.com/files/commercial/Toolkit%20For%20Quake%202nd%20Edition%20(QTool_0197).7z
+			has a copy of reaprb07.zip
+		http://cd.textfiles.com/pdsl/HELP/GAMERTK.TXT
+			reaprb07.zip
+		https://groups.google.com/g/rec.games.computer.quake.playing/c/bfg0Ttu5mpg/m/ISosuMPKsk8J
+			usenet announcement
+		ftp://bluesnews.com/pub/bots/reaprb07.zip
+		http://www.bluesnews.com/reaprb07.txt
+			https://web.archive.org/web/20010506061717/http://www.geocities.com/TimesSquare/6514/oct18.htm
+	v0.60
+		http://www.excalibur.net/~kinglink/king/quake/quakec/bots/reaprb06.zip
+			https://groups.google.com/g/rec.games.computer.quake.misc/c/WSHE5tUDvEs/m/9p--I5G6vJ4J
+		https://groups.google.com/g/rec.games.computer.quake.editing/c/VxLR6uaDg-Q/m/ICB1EcRZPOkJ
+			reaprb06.zip
+		https://groups.google.com/g/alt.retromod/c/IjqcE1Tr-3k/m/VPaYvam4D7UJ
+		https://groups.google.com/g/news.admin.net-abuse.announce/c/F1sVGhoMXZU/m/VPaYvam4D7UJ
+			reaprb06.zip
+		https://groups.google.com/g/rec.games.computer.quake.playing/c/3Zhx62Et-O4/m/mrf3h8CuKJAJ
+			usenet announcement
+		http://www.quakehole.com/files/quakec/reaprb06.zip
+			https://web.archive.org/web/19961221053200/http://www.quakehole.com/files/quakec/reaprb06.zip
+			https://web.archive.org/web/19961221053200/http://www.gamesmania.com/english/quake/quakec.htm
+		ftp://bluesnews.com/pub/quakec/bots/reaprb06.zip
+		http://www.bluesnews.com/reaprb06.txt
+			https://web.archive.org/web/20010505143115/http://www.geocities.com/TimesSquare/6514/oct3.htm
+	v0.50 (first version...)
+		ftp://ftp.cdrom.com/pub/idgames2/quakec/bots/reaprb05.zip
+		ftp://ftp.canvasnet.com/quake/qc/bots/reaprb05.zip
+			https://web.archive.org/web/19990223203945/http://www.canvasnet.com/quake/qc.htm
+		https://www.bluesnews.com/archives/sept96-5.html
+			release info
+		https://www.bluesnews.com/archives/reaper.txt
+			https://web.archive.org/web/19990825015752/https://www.bluesnews.com/archives/reaper.txt
+			(not archived)
+		http://cd.textfiles.com/swextrav8/swextrav8-2/disc2.bbs
+		MSKIN1.ZIP, MSKIN2.ZIP, MSKIN3.ZIP, MSKIN4.ZIP
+			http://cd.textfiles.com/swextrav8/swextrav8-2/gamapog2/mskin1.zip
+			http://cd.textfiles.com/swextrav8/swextrav8-2/gamapog2/mskin2.zip
+			http://cd.textfiles.com/swextrav8/swextrav8-2/gamapog2/mskin3.zip
+			http://cd.textfiles.com/swextrav8/swextrav8-2/gamapog2/mskin4.zip
+			Player-Bot (Very Intelligent)
+			has the bot, reaprb05.txt and progs.dat
+		https://groups.google.com/g/spk.file/c/IMPklo6HC-s/m/RmTFwJzM0owJ
+			REAPRB05.ZIP
+		https://www.teletec.it/software/software.php?q=2438
+			REAPRB05.ZIP
+		https://groups.google.com/g/alt.games.quake/c/TTGu2u6r-N0/m/OT4cdHSjA0gJ
+			v0.5 on stomped
 	decompiled src
-		http://www.insideqc.com/qctut/rip1.shtml
 		rec.games.computer.quake.quake-c
-		Ken Alverson
-		pqccreap.zip
+		pqccreap.zip, Ken Alverson
 		https://groups.google.com/g/rec.games.computer.quake.quake-c/c/pb_PTSRMLts/m/KFLhdrajAcUJ
 		https://groups.google.com/g/rec.games.computer.quake.editing/c/c_8W-xBCc0g/m/abTNOXhICkAJ
-	https://web.archive.org/web/19970530203249/http://quakemecca.simplenet.com/files/downloads/reaprb75.txt
-	lists an old version
-		https://web.archive.org/web/19990116234332/http://canvasnet.com/quake/qc.htm
-		ftp://ftp.canvasnet.com/quake/qc/bots/reaprb05.zip
-	https://web.archive.org/web/19990203053917/http://www.geocities.com/TimesSquare/Arcade/1975/quake.htm
-		ftp://ftp.cdrom.com/pub/idgames2/quakec/bots/reaprb05.zip
+	other
+		http://easttown.co.uk/quake/reaper.html
+		https://quake.fandom.com/wiki/The_Reaper_Bot
+		https://mrelusive.com/oldprojects/obots/Comments/Acumen/Reapers.html
+		http://www.mindspring.com/~win32ch/Reaper.htm
+			https://web.archive.org/web/20000117231057/http://www.mindspring.com/~win32ch/Reaper.htm
+		https://en.wikipedia.org/wiki/Steve_Polge
+		https://www.quakewiki.net/quake-1-bots/
+		https://www.quakewiki.net/archives/botarea51/main/qbot87f1.html?id=14
+		http://www.insideqc.com/modindex/qreview/patch2.shtml
+		https://riad.pk.edu.pl/~pmj/quake/news_old1.html
+		https://riad.pk.edu.pl/~pmj/quake/contest_rules1.html
+		http://www.planetquake.com/skins/Reaper.htm
+			https://web.archive.org/web/19970611194258/http://www.planetquake.com/skins/Reaper.htm
+		http://www.planetquake.com/qca/reviews/patch65.htm
+			https://web.archive.org/web/20021019163323/http://www.planetquake.com/qca/reviews/patch65.htm
+		https://www.bluesnews.com/archives/dec96-1.html
+		https://www.bluesnews.com/archives/sept97-1.html
+		https://www.bluesnews.com/archives/aug97-5.html
+			never release the source
+		https://www.iconbar.com/articles/Arcquake_and_QuakeC_patches/index1010.html
+		http://www.geocities.com/TimesSquare/Arcade/1975/quake.htm
+			https://web.archive.org/web/19990203053917/http://www.geocities.com/TimesSquare/Arcade/1975/quake.htm
+			v0.5 on Oct 3rd
+		http://canvasnet.com/quake/qc.htm
+			https://web.archive.org/web/19990116234332/http://canvasnet.com/quake/qc.htm
+		http://www.stomped.com/quakebot/
+			https://web.archive.org/web/19970626130200/http://www.stomped.com/quakebot/
+		http://www.kinglink.com/qhq/reaper.html
+			official?!
+		http://www.planetquake.com/ramshackle/reap.htm
+			https://web.archive.org/web/19990117055626/http://www.planetquake.com/ramshackle/reap.htm
+		http://www.planetquake.com/qng/bots.htm
+			https://web.archive.org/web/19970607135102/http://www.planetquake.com/qng/bots.htm
 ZeusBot / ZEUSbot
 	Jonathan E. Wright aka Nelno the Amoeba
 	https://www.quaddicted.com/files/idgames2/quakec/bots/zeus205.zip

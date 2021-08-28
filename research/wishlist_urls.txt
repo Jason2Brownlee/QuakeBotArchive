@@ -15,6 +15,7 @@ ftp://ftp.cdrom.com/pub/quake/quakec/bots/dmbt21b1.zip
 ftp://ftp.cdrom.com/pub/quake/quakec/bots/doombot.zip
 ftp://ftp.cdrom.com/pub/quake/quakec/misc/req106a.zip
 ftp://ftp.cdrom.com:21/pub/planetquake/holywars/hw_frogbot.zip
+ftp://ftp.dragonfire.net/users/kkembel/QuakeC/bots/elim13.zip
 ftp://ftp.elogica.com.br/pub/warlock/brbot.exe
 ftp://ftp.grayphics.com/pub/frigid/botblast/obots101.hqx
 ftp://ftp.grayphics.com/pub/frigid/botblast/reaper08.sit.hqx
