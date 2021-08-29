@@ -136,7 +136,6 @@ Lightning Gun Competition (LGC) | Phil Romov aka "peheyele" | [lgc3.zip](bin/lgc
 Lithium CTF Bot | Juan Ignacio Rava aka "Johnny" | [lith091c.zip](bin/lith091c.zip)
 LoydBot | Loyd aka "Juninho" | [lbotv10.zip](bin/lbotv10.zip)
 Lurkerz | Ron Goff and Jon Little | [lrkrz_01.zip](bin/lrkrz_01.zip) ([txt](bin/lrkrz_01.txt))
-Malice bot-mod | Christian Michael aka "surgeon" | [malicemod.lha](bin/malicemod.lha) ([txt](bin/malicemod.txt))
 MaNiAc's FrogBot MOD (lag simulation) | Michael Turitzin aka "MaNiAc" | [lagmod.zip](bin/lagmod.zip)
 MaNiAcBot | Michael Turitzin aka "MaNiAc" | [maniacbt.zip](bin/maniacbt.zip) ([txt](bin/maniacbt.txt))<br>maniacbt12.zip<br>fbmod.zip
 Mathfrag | Khin Mannering aka "Dr. Shadowborg" | [mlx20b.zip](bin/mlx20.zip)
@@ -195,6 +194,7 @@ TM Bot | Micheal Polucha and Tim Polucha | [tmbot11.zip](bin/tmbot11.zip) ([txt]
 Total Destruction Bot (TDBot) | Rodrigo Marx aka "Shooter" | [tdbot.zip](bin/tdbot.zip)
 TrevBot | Kris O'Shea | [trevbot.zip](bin/trevbot.zip) ([txt](bin/trevbot.txt))
 Tutor Bot + Holy Wars | Connor Caple aka "RiEvEr" | [holy_tb.zip](bin/holy_tb.zip)<br>[qhwbot105.zip](bin/qhwbot105.zip)
+Tutor Bot + Malice (Amiga) | Christian Michael aka "surgeon" | [malicemod.lha](bin/malicemod.lha) ([txt](bin/malicemod.txt))
 Tutor Bot + Rocket Arena | Connor Caple aka "RiEvEr" | [qrabot002.zip](bin/qrabot002.zip)<br>qrabot001.zip
 Tutor Bot | Darryl Atchison aka "coffee" | [tutor.zip](bin/tutor.zip)
 Ultimate Regular Quake Patch (URQP) | Matthias Buecher aka "Maddes" | [urqp106a.zip](bin/urqp106a.zip)<br>[urqp106.zip](bin/urqp106.zip)<br>[urqp105.zip](bin/urqp105.zip)<br>[urqp104a.zip](bin/urqp104a.zip)
