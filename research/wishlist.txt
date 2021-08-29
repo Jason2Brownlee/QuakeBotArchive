@@ -105,7 +105,6 @@ frikbt03.zip
 friktf-051901.zip
 friktf-092800-qw.zip
 friktf-092800.tar.gz
-frikwaystudio12.zip
 frkbt09a.zip
 frog_src.zip
 frogbot.rar
