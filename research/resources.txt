@@ -341,6 +341,31 @@ Frikbot Resource Depot
 	https://web.archive.org/web/20040125072153/http://qld.condemned.com/frd/frik_history.shtml
 	https://web.archive.org/web/20030714010945/http://qld.condemned.com/frd/files/tools/frikway-1.1.zip
 	https://web.archive.org/web/20030714010945/http://qld.condemned.com/frd/files/tools/frikwaystudio12.zip
+http://stone.splatterworld.de/
+	demos...
+	https://web.archive.org/web/19991128172043/http://stone.splatterworld.de/
+	https://web.archive.org/web/20000417230214/http://stone.splatterworld.de/index2.htm
+	https://web.archive.org/web/20000521025128/http://stone.splatterworld.de/news.htm
+	https://web.archive.org/web/20000902174026/http://stone.splatterworld.de/files.htm
+	https://web.archive.org/web/20000902174017/http://stone.splatterworld.de/files/misc/frogbot012.zip
+	https://web.archive.org/web/20000902174017/http://stone.splatterworld.de/files/misc/obots102.zip
+	https://web.archive.org/web/20000902174017/http://stone.splatterworld.de/files/misc/reaprb81.zip
+http://w1.511.telia.com/~u51103464
+	https://web.archive.org/web/19990204021617/http://w1.511.telia.com/~u51103464/
+	quake 2
+http://www.gocompupro.com/cqf
+	https://web.archive.org/web/19980218140834/http://gocompupro.com/cqf/
+	https://web.archive.org/web/19980218141331/http://gocompupro.com/cqf/bots.htm
+	https://web.archive.org/web/19980218141331/http://gocompupro.com/cqf/files/reapaddons.htm
+	https://web.archive.org/web/19980218141331/http://gocompupro.com/cqf/files/reaprb81.zip
+	https://web.archive.org/web/19980218141331/http://gocompupro.com/cqf/files/obots101.zip
+	https://web.archive.org/web/19980218141331/http://gocompupro.com/cqf/files/reap081h.zip
+	https://web.archive.org/web/19980218141331/http://www.btinternet.com/~impaler/files/reaperfx.zip
+http://www.geocities.com/TimesSquare/Ring/3150/spazbots.html
+	https://web.archive.org/web/19991001063342/http://www.geocities.com/TimesSquare/Ring/3150/spazbots.html
+
+
+
 
 
 

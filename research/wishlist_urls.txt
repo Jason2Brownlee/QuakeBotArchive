@@ -171,6 +171,7 @@ http://www.home.earthlink.net/~pentm450/rnbt3.4.zip
 http://www.home.earthlink.net/~pentm450/rnbt3.6.zip
 http://www.iinet.com.au/~cam/elim10.zip
 http://www.iinet.com.au/~cam/elim13.zip
+http://www.iinet.net.au/~den/sbotstuf.zip
 http://www.imaxx.net/~dakota/capture/FILES/ctfbot131.zip
 http://www.isleofmull56.freeserve.co.uk/paddybot.zip
 http://www.mindspring.com/~darkskye/files/darkbt09.zip
@@ -204,4 +205,3 @@ http://www.users.bigpond.com/clanslug/ClanV0.7HMan.zip
 http://xmark.ausgamers.com/xkteams/xkteams1705.zip
 http://xmark.ausgamers.com/xkteams/xkteams1705s.zip
 http://xmark.ausgamers.com/xkteams/xkteams2.zip
-

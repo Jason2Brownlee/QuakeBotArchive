@@ -184,6 +184,7 @@ reqqwsrc.zip
 reqsrc.zip
 rnbt3.4.zip
 rnbt3.6.zip
+sbotstuf.zip
 setup.exe
 sq12to13.zip
 sqdbt201.zip

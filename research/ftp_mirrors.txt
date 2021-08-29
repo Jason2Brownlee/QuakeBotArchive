@@ -467,5 +467,13 @@ ftp://ftp.gamesnet.net/
 ftp.zx.net.nz
 	https://ftp.zx.net.nz/pub/archive/ftp.gamers.org/pub/mirrors/ftp.planetquake.com/
 	https://ftp.zx.net.nz/pub/archive/ftp.gamers.org/pub/idgames2/quakec/bots/
-
+https://web.archive.org/web/20010513053515/http://freshmeat.netc.pt/pub/planetquake/
+	https://web.archive.org/web/20010513053515/http://freshmeat.netc.pt/pub/planetquake/botshop/
+	https://web.archive.org/web/20010513053515/http://freshmeat.netc.pt/pub/planetquake/cronos/
+	https://web.archive.org/web/20010513053515/http://freshmeat.netc.pt/pub/planetquake/holywars/
+	https://web.archive.org/web/20010513053515/http://freshmeat.netc.pt/pub/planetquake/minion/
+	https://web.archive.org/web/20010513053515/http://freshmeat.netc.pt/pub/planetquake/ramshackle/
+	https://web.archive.org/web/20010513053515/http://freshmeat.netc.pt/pub/planetquake/skorpion/
+	https://web.archive.org/web/20010513053515/http://freshmeat.netc.pt/pub/planetquake/tfbot/
+	https://web.archive.org/web/20030109151101/http://freshmeat.netc.pt/pub/idgames2/
 

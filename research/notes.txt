@@ -35,8 +35,31 @@ Omicron Bot
 		https://web.archive.org/web/19980614160658/http://planetquake.com/ramshackle/omidlf.htm
 		ftp://ftp.cdrom.com/pub/idgames2/planetquake/ramshackle/OBOTS101.ZIP
 		https://mrelusive.com/oldprojects/obots/Reviews/Metropolis/obots101.zip
+		https://usuaris.tinet.cat/dummies/files/obots101.zip
+		http://mamuka.narod.ru/files/bots/OBOTS101.ZIP
+		http://quakeintosh.com/files/Paks%20-%20Maps%20-%20Mods%20/Quake%20Bots/%20Omicron%20Bot/OBOTS101.sit
+		ftp://ftp.grayphics.com/pub/frigid/botblast/obots101.hqx
+		http://gocompupro.com/cqf/files/obots101.zip
+		http://www.cdrom.com/pub/idgames2/planetquake/ramshackle/OBOTS101.ZIP
 	v1.02 3/24/98 (march 24)
 		https://web.archive.org/web/19980614161915/http://www.inside3d.com/mar24-mar25.html
+		https://dukeworld.com/planetquake/jvox/obots102.zip
+		https://dukeworld.com/planetquake/jvox/obots102.sit
+		http://www.geocities.ws/pilxtc/mods/obots/Obots102.zip
+		https://www.quaddicted.com/webarchive/ftp.clan-rum.org/quake/bots/obots102.zip
+		https://mrelusive.com/oldprojects/obots/ftp/obots102.zip
+		https://mrelusive.com/oldprojects/obots/ftp/obots102.sit
+		http://www.planetquake.com/dl/dl.asp?skorpion/files/obots102.zip
+		ftp://ftp.cdrom.com/pub/planetquake/jvox/obots102.sit
+		http://www.planetquake.com/cdrom/ramshackle/obots102.zip
+		http://www.telefragged.com/mirrors/mirror.pl?be/gladiator/obots102.zip
+		https://dukeworld.duke4.net/planetquake/skorpion/files/obots102.zip
+		http://www.xs4all.nl/~elusive/projects/Obots/Obots102.zip
+		https://www.gamers.org/pub/idgames2/planetquake/jvox/obots102.zip
+		https://www.gamers.org/pub/idgames2/planetquake/jvox/obots102.sit
+		http://www.fileplanet.com/dl.aspx?ramshackle/Obots102.zip
+		ftp://sunsite.doc.ic.ac.uk/packages/idgames2/planetquake/ramshackle/Obots102.zip
+		https://cs08.spac.me/f/046006066143136197125049135109122007137232040151223033169236/1630273405/60155795/0/040b8b2710ddb93e442ce9abdced22d8/obots102-spaces.im.zip
 	http://www.demigod.demon.nl/
 		https://web.archive.org/web/19991111071544/http://www.demigod.demon.nl/
 		dead
@@ -96,6 +119,9 @@ Reaper / ReaperBot / Reaper Bot
 			quake-reaper.shar
 		http://bluesnews.com/files/reaprb81.zip
 		ftp://ftp.sunet.se/pub2/pc/games/idgames2/quakec/bots/reaper/reaprb81.zip
+		http://www.imaxx.net/~dakota/capture/FILES/reaprb81.zip
+		http://quakemecca.simplenet.com/files/downloads/reaprb81.zip
+		http://gocompupro.com/cqf/files/reaprb81.zip
 	v0.80
 		http://www.cdrom.com/pub/quake/quakec/bots/reaprb80.zip
 		https://groups.google.com/g/rec.games.computer.quake.editing/c/G0n9wNw1F0I/m/xwwZ7LJTnw4J
@@ -112,6 +138,8 @@ Reaper / ReaperBot / Reaper Bot
 		https://lambert.jeanphilippe.free.fr/DownLoad/ReaperBot.zip
 		http://www.lavite.net/misc/q1/rpbot.zip
 		http://www.bluesnews.com/b08chg.txt
+		https://web.archive.org/web/20050422011117/http://www.acornarcade.com/downloads/quake/reapers.zip
+		ftp://ftp.grayphics.com/pub/frigid/botblast/reaper08.sit.hqx
 	v0.75
 		ftp://ftp.pk.edu.pl/pub/games/id/quaketoys/mods/reaprb75.zip
 		ftp://bluesnews.com/pub/bots/reaprb75.zip
@@ -458,7 +486,6 @@ BPLAYER - Bot Player
 	http://www.pro-net.co.uk/home/wolfg_l
 	related to tfbot? oh yes!
 	There was a v1.0
-
 Swimming Bot
 	baloo the bear (Greg Fukui aka julias_child)
 	https://www.quaddicted.com/files/idgames2/quakec/bots/swbot104.txt
@@ -537,6 +564,7 @@ WarBot / QuakeBot / QBot
 		https://www.iconbar.com/downloads/quake/warbot.zip
 		warbot14_dat.zip
 		warbot14_pak.zip
+		https://web.archive.org/web/20050422011117/http://www.acornarcade.com/downloads/quake/warbot.zip
 	v2.0
 		https://groups.google.com/g/rec.games.computer.quake.misc/c/KPk8rgz9VzQ/m/Kfd1s4jgOWMJ
 		https://groups.google.com/g/rec.games.computer.quake.playing/c/3vT56IWT6JI/m/3pgH0X7gqQ0J
@@ -615,6 +643,13 @@ Estep Bot (EsTePBot)
 	https://www.gamers.org/pub/idgames2/quakec/bots/estepbot2eng.txt
 	https://www.gamers.org/pub/idgames2/quakec/bots/estepbot2eng.zip
 	Enrique Gonzalez Alonso
+	https://cs10.spac.me/f/046006066143136197125049135109122007137232040151223033169236/1630273999/42289501/0/f03c03c8fce7f01e99d4e70b76464aaa/estepbot_%28bot_quake1%29-spaces.im.zip
+	http://members.xoom.com/_XOOM/OrbScript/estbt/estepboti.htm
+		not archived
+	http://members.cox.net/randar/estepbot2eng.zip
+	https://demob.ru/content/files/42289501-estepbot-bot-quake1
+	http://usuarios.airastur.es/quaked/estbt/estepboti.htm
+		not archived
 ReaperFX Bot
 	http://www.randars.com/bots/bots1.html
 	http://www.gamers.org/pub/idgames2/quakec/bots/
@@ -1516,6 +1551,9 @@ Frogbot 2000 / Frogbot 2K
 	https://web.archive.org/web/20020614055730/http://www.moonlightarts.de/fb2000/
 	Dennis de Boer
 	http://www.moonlightarts.de/fb2000/fb2k_files.htm
+	https://quake_en_ru.academic.ru/264/FrogBot
+		http://c4denn.chat.ru/filezz/frog2k.rar
+
 Frogbot Special Edition / Erazor frogbot "Test Special Edition"
 	https://web.archive.org/web/20100123221300/http://tux.telefragged.com/file.pl?filename=fb013se.zip
 	what is this?
@@ -2353,10 +2391,10 @@ Nirvana Bot Mods
 	https://www.quaketerminus.com/index2.shtml
 	?
 Quakability
-		has bots?
-		https://web.archive.org/web/20191226211146fw_/http://users.skynet.be/bk236270/quakability.htm
-		https://www.quaketastic.com/files/multiplayer/mods/Quakability_2.1_-_NoMusicRepack.txt
-		https://www.quaketastic.com/files/multiplayer/mods/Quakability_2.1_-_NoMusicRepack.zip
+	has bots?
+	https://web.archive.org/web/20191226211146fw_/http://users.skynet.be/bk236270/quakability.htm
+	https://www.quaketastic.com/files/multiplayer/mods/Quakability_2.1_-_NoMusicRepack.txt
+	https://www.quaketastic.com/files/multiplayer/mods/Quakability_2.1_-_NoMusicRepack.zip
 oriontf
 	has bots
 	https://www.quaketastic.com/files/multiplayer/mods/oriontf.zip
