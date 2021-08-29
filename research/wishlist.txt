@@ -145,7 +145,6 @@ killer86b.zip
 killer87.zip
 koolio.zip
 kqcbotsource.zip
-lgc.zip
 maniacbt12.zip
 monsterfbxid1waysv2.zip
 motd.zip
