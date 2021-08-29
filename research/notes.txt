@@ -95,6 +95,7 @@ Reaper / ReaperBot / Reaper Bot
 		https://groups.google.com/g/lucky.freebsd.ports.bugs/c/QljC18AOsT0/m/xz5-zfFrTNMJ
 			quake-reaper.shar
 		http://bluesnews.com/files/reaprb81.zip
+		ftp://ftp.sunet.se/pub2/pc/games/idgames2/quakec/bots/reaper/reaprb81.zip
 	v0.80
 		http://www.cdrom.com/pub/quake/quakec/bots/reaprb80.zip
 		https://groups.google.com/g/rec.games.computer.quake.editing/c/G0n9wNw1F0I/m/xwwZ7LJTnw4J

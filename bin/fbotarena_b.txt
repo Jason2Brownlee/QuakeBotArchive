@@ -1,0 +1,242 @@
+
+Date  :    30-06-99
+Title :    FbotArena_B
+Author:    surgeon
+           http://members.xoom.com/surgeonsq1/index.htm
+
+
+Note: This is a small update for FbotArena
+      "bot" will add a bot of specified skill (skill 0-100),
+      as opposed to the other predefined bots
+
+      Erazor released a new version 29/6, so I hurried to implement the
+      parts relevant to arena. This includes fixed waitingromm spawning
+      and correct name-printing and spectator stats.
+
+
+      The files in this archive should replace the ones in the original:
+
+      progs.dat
+      frogbot.cfg
+      alias.cfg
+      bots/legioneer.bot (new)
+
+
+
+Introduction:
+-------------
+  OmicronbotV1.2 was until recently the only quakebot with support for
+  RocketArena.
+  It's wasn't possible to FPS-optimize this bot in the usual way,
+  since Mr. Elusive holds on to his source code.
+
+  Now, the best bot available (Frogbot by Robert Field) has gained
+  RocketArena support, thanks to the effort of EraZoR.
+
+  I was initially disappointed in the slow speeds on my 060/66,
+  which probably is due to the frogbots liking for shaft
+  (constant dynamic lightning isn't good for performance).
+  So, I did something about it and now it's a lot faster.
+
+  Only "problem" is that this bot's weapon choice and hitting
+  accuracy is a much better than the omicron :)
+
+
+Credits:
+--------
+  This is a modification of a modification of Robert Field's Frogbot...
+
+  FbotArena is based on the Frogbot 0.13 Test source with
+  RocketArena support added by EraZoR.
+
+
+
+Changes compared to "Frogbot 0.13 TEST With Rocket Arena suppport":
+-------------------------------------------------------------------
+  New commands:
+  -------------
+  "wkick"   togles weaponkick on/off
+  "blood"  toggles blood on/off
+  "filter" toggles sprite/teleport explosions and
+                   half/full visual shaft-updates (improves framerate)
+
+  internal stuff:
+  ---------------
+  NOFLASH option is enabled by default
+  Think Intervals increased by 30%
+  (don't know if this helps framerate, but bots does play equally good)
+  Dynamic light disabled.
+  Torches & fire removed.
+  Explosions remodeled.
+  Dead Bodies removed.
+  Reduced gibs.
+  Framerate printing remodeled
+  RocketArena map-rotation on 5 fast maps (in PAK0.PAK - no maps needed)
+  Missile exchanged for grenade
+
+  other:
+  ------
+  Added progs dir containing bolt2.mdl (shaft replacement)
+
+That's it : 50% faster than the original "fbarena013" during combat
+(according to the framerate printing)
+
+Enjoy...
+-surgeon
+
+-----------------------------------------------------------------------------
+
+NOTE:  This is a MODIFICATION of the FrogBot by Robert "Frog" Field!!! 
+       Go to http://www.telefragged.com/metro for the current version! 
+ 
+Title       : Frogbot 0.13 TEST With Rocket Arena suppport 
+Filename    : fbarena013.zip 
+Version     : 0.1 
+Last update : May 26, 1999 
+Author      : Brian 'EraZoR' Mathiasen 
+Email       : erazor@get2net.dk 
+              erazor@quad.dk 
+Webpage     : None yet 
+ 
+ 
+Type of QC Mod 
+-------------- 
+Bot             : Yes 
+Compilation     : Yes 
+Deathmatch      : Yes 
+Teamplay        : Yes 
+Monster         : Sort of 
+Sound           : Yes 
+Model           : No 
+Weapon          : No 
+Utilities       : No 
+Waypoints       : Yes 
+Maps            : No 
+Other           : I don't think so 
+ 
+ 
+Format of QuakeC 
+---------------- 
+unified diff  : No (And yes, I do know what this is) 
+context diff  : No (And yes, I do know what this is) 
+.qc files     : Yes 
+progs.dat     : Yes 
+qwprogs.dat   : Yes 
+ 
+ 
+Requirements 
+------------ 
+ * An IBM compatible computer, this could be an Intel Linux, WinNT, Win9x or whatever computer 
+ * Quake :-) 
+ * Supported rocket arena maps 
+ * Uhm... thats about it 
+ 
+Construction 
+---------------- 
+Base                  : FrogBot 0.13 TEST source 
+Build Time            : ~ 1 hour. 
+Program(s) used       : ms-dos edit, notepad, MeQcc. 
+Known Bugs in NQ      : When you die in rocket arena mode, you do not spawn in the 'spectators' place. 
+                        You spawn inside the arena, but it's kinda cool to see bots fight in close range. =) 
+Known Bugs in QW      : None yet 
+                         
+                         
+Whats New 
+--------- 
+News to version 0.10 : 
+ * First release 
+ * Rocket Arena added 
+ * Bots have ping 
+ * you can now select the teleport markers in manual mode ! :) 
+ * Changed the 'SelectSpawnPoint' function a bit. 
+ * Following maps for rocket arena: 
+   * arenax 
+   * arenazap 
+   * arenarg2 
+   * egyptra 
+   * rarena3 
+   * marena2 
+   * marena3 
+   * marena4 
+   * mayan1 
+   * uarena1 
+   * crandom 
+   * bbarena2 
+   * barena1 
+ * Lots of bots ! 
+ * Skills now range from 0 to 100. 
+ 
+Todo 
+---- 
+ * More maps 
+ * Maybe fix the spawn thing in Normal Quake Arena mode. 
+   The question is how ? I can't figure it out :( 
+   If you know it, please tell me ! 
+ * Anything else that come to my mind 
+ 
+ 
+Description of the Modification 
+------------------------------- 
+ This is a modification of the original FrogBot 0.13 TEST source. 
+All I added was support for Rocket Arena, yes, you heard right, Rocket Arena. 
+Works in both Real Quake AND Quake World 
+ 
+The bots have a realistic ping, and is affected by their ping. 
+ 
+ 
+How to Install the Modification 
+------------------------------- 
+1. Unzip fbarena013.zip with the parameter '-d' to restore subdirectories. 
+ 
+(For QW) 
+2. Start a QW server with the paremeter "+gamedir fbarena013" (without quotes) 
+3. Start priority 
+4. Start the QWclient and enter the server =) 
+ 
+(For NQ) 
+2. Start the Quake client with the parameter "-game fbarena013" (without quotes) 
+3. Start your favorite map. 
+4. Type "arena" in the console(without quotes), and restart the level. 
+5. Add a bot, and play some arena, ofcourse, you can also play a normal game :-) 
+ 
+ 
+Author Information 
+------------------ 
+ I'm a 16 year old boy who live in Denmark, and I love FrogBots and Quake-C. 
+ 
+ 
+Copyrights and permissions 
+-------------------------- 
+ 
+ The FrogBot is a copyright 1998, Robert Field. 
+The original QuakeC source is Copyright 1996, ID software. 
+The modifications of the FrogBot is a copyright 1999, Brian Mathiasen. 
+ 
+All rocket arena code is copyright PlanetQuake 1997. 
+Commercial rocket arena code licensing is available by contacting wrightd@stanford.edu 
+ 
+ You may distribute this Quake modification in any electronic format, BBS, ftp, etc, as 
+long as all the files in this archive remain intact and unmodified and 
+are distributed together. 
+ 
+ You may change the files in this archive, as long as you keep this 
+Copyright section intact and unmodified and they are distributed together. 
+ 
+ You are NOT allowed to charge any money of this modification. 
+It is freeware and is free of use. 
+ 
+ 
+Disclaimer 
+---------- 
+ The author is NOT responsible of any damage this modification might cause. 
+Use this software at your own risk. 
+ 
+ 
+Further Thanks goes to 
+---------------------- 
+. Robert 'Frog' Field for the FrogBot 
+. ID software for Quake ! 
+. Mr. Elusive for MeQcc 
+. David 'crt' Wright for Rocket Arena 
+. Authors of the supported Rocket Arena maps ! 
+. All the others I forgot to mention
