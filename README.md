@@ -146,6 +146,7 @@ Mod Pak 1 FMOD | "Neophyte" | mpak1v12.zip
 Motd FMOD | Algirdas Kepezinskas aka "ZeCybEr" | motd.zip
 MyBot | Stephen Vanterpool | [mybot16.zip](bin/mybot16.zip) ([txt](bin/mybot16.txt))<br>[mybot13a.zip](bin/mybot13a.zip) ([txt](bin/mybot13a.txt))<br>[mybot12.zip](bin/mybot12.zip) ([txt](bin/mybot12.txt))<br>[mybot11.zip](bin/mybot11.zip) ([txt](bin/mybot11.txt))<br>[mybot.zip](bin/mybot.zip) ([txt](bin/mybot.txt))
 Navy SEALs sQuad bots | William van der Sterren | [nseal201.zip](bin/nseal201.zip)<br>sqdbt201.zip
+ObotArena (Amiga) | Christian Michael aka "surgeon" | [obotarena.lha](bin/obotarena.lha)
 Ogre Bot | "Lava Man" | [ogrebot.zip](bin/ogrebot.zip) ([txt](bin/ogrebot.txt))
 Omicron Bot | Jan Paul van Waveren aka "Mr. Elusive" and Miklos de Rijk aka "H2SO4" | [obots102.zip](bin/obots102.zip)<br>[obots102.sit](bin/obots102.sit)<br>[obots101.zip](bin/obots101.zip)<br>obots101.sit<br>obots101.hqx<br>obots100.zip<br>obots100.sit
 Omicron Fixes | Joel Baxter aka "Johnny Law" | [obots102-fixed.zip](bin/obots102-fixed.zip)
