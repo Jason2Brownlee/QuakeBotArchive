@@ -473,6 +473,7 @@ community archives (new cdrom.com)
 		ftp://ftp.fu-berlin.de/pc/games/idgames2/
 		https://www.quaddicted.com/files/idgames2/
 		https://ftpmirror1.infania.net/pub/idgames2/
+		https://ftp.zx.net.nz/pub/archive/ftp.gamers.org/pub/idgames2/
 planetquake
 	search the archive
 	https://www.quaddicted.com/stuff/fileplanet/fileplanet.php?filename=bot

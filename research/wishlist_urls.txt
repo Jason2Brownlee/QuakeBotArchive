@@ -97,6 +97,7 @@ http://quakemecca.simplenet.com/files/downloads/oak084.zip
 http://railgun.macquakeinfinity.com/downloads/fbctf024.zip
 http://railgun.macquakeinfinity.com/downloads/fbctf026.zip
 http://railgun.macquakeinfinity.com/downloads/fbctf030.zip
+http://se.aminet.net/pub/aminet/game/patch/frogbot.lha
 http://shub-hub.quaddicted.com/files/mods_multiplayer/monsterFBXID1waysV2.zip
 http://ssj4death.condemned.com/gb/gbped10.zip
 http://sunsite.org.uk/packages/idgames2/planetquake/holywars/hw_frogbot.exe
@@ -185,7 +186,6 @@ http://www.parboil.mailru.com/parboil/fbca096b.zip
 http://www.parboil.mailru.com/parboil/fbca096kt.zip
 http://www.parboil.mailru.com/parboil/fbca86se.zip
 http://www.parboil.newmail.ru/parboil/fbca86se.zip
-http://www.parboil.quakeworld.ru/parboil/fbma102_src.zip
 http://www.parboil.quakeworld.ru/parboil/frogbotmaps.zip
 http://www.parboil.quakeworld.ru/tappak/fbca102kt-rc1.zip
 http://www.planetquake.com/requiem/files/bugfix1.zip
@@ -207,5 +207,4 @@ http://www.users.bigpond.com/clanslug/ClanV0.7HMan.zip
 http://xmark.ausgamers.com/xkteams/xkteams1705.zip
 http://xmark.ausgamers.com/xkteams/xkteams1705s.zip
 http://xmark.ausgamers.com/xkteams/xkteams2.zip
-
 

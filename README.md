@@ -87,7 +87,7 @@ FrikBot + Final Arena | Ryan Smith aka "Frika C" | [frikfa.zip](bin/frikfa.zip)
 FrikBot + Head Hunters | Chuck Parsons | hhbot.zip
 FrikBot + Holy Wars | Ryan Smith aka "Frika C" | [frikholy.zip](bin/frikholy.zip)
 FrikBot + Last Man Standing | Raymond Martineau | [frik-lms.zip](bin/frik-lms.zip)
-FrikBot + MidAir + Kombat Teams | Alexey Pakhomov aka "ParboiL" | [fbma102.zip](bin/fbma102.zip)<br>fbma102_src.zip
+FrikBot + MidAir | Alexey Pakhomov aka "ParboiL" | [fbma102.zip](bin/fbma102.zip)<br>[fbma102_src.zip](bin/fbma102_src.zip)
 FrikBot + PainKeep | Ryan Smith aka "Frika C" | fbxpk.zip<br>[frikpk.zip](bin/frikpk.zip)
 FrikBot + PerQuake | Ryan Smith aka "Frika C" | [frikper.zip](bin/frikper.zip)
 FrikBot + QuakeWorld | Ryan Smith aka "Frika C" | [frkqw01.zip](bin/frkqw01.zip)

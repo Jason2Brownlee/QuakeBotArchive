@@ -194,6 +194,9 @@ Reaper / ReaperBot / Reaper Bot
 			https://web.archive.org/web/19970611194258/http://www.planetquake.com/skins/Reaper.htm
 		http://www.planetquake.com/qca/reviews/patch65.htm
 			https://web.archive.org/web/20021019163323/http://www.planetquake.com/qca/reviews/patch65.htm
+		https://www.bluesnews.com/archives/sept96-5.html
+			https://www.bluesnews.com/archives/reaper.txt
+			release oct 3rd, likely v0.5.
 		https://www.bluesnews.com/archives/dec96-1.html
 		https://www.bluesnews.com/archives/sept97-1.html
 		https://www.bluesnews.com/archives/aug97-5.html
