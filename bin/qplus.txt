@@ -1,0 +1,218 @@
+Title    : QuakePlus
+Filename : q_plus.zip
+Version  : Beta 1.0
+Date     : 04.06.97
+Author   : Alexander Vinnikov (aka plus)
+Contact  : IRC: #doom2 , #quake , #quakeed , #russkichat ,talk to plus
+
+Credits  : * id software, for great games and for QuakeC
+           * Stiven Polge(polge@ix.netcom.com) for... YEAH! The Reaper Bot!
+           * James Lazarus(Tritian ,Email: alazarus@ix.netcom.com), for original Gatling Gun mdl
+           * Christopher Bolin(cbolin@teleport.com) for Gatling Gun skin
+           * Jonathan E. Wright(nelno@resurrection.com), for some CUJO ai
+           * Patrick Martin(cmarti39@icon.net), for qc code of ArchSham
+           * Perecli Manole (Bort) for Grappling Hook
+           * Fritz Schober (TheChosen), for english helping
+
+             For player skins:
+           * MEPS
+           * Alexey Ivashkevich
+           * Dave Stephenson
+           * Kenneth Scott
+
+
+ษอออออออออออออออป
+บ  Type of Mod  บ
+ศอออออออออออออออผ
+
+
+Quake C  : yes
+Sound    : yes
+MDL      : yes
+
+
+ษอออออออออออออออออออออป
+บ  Format of Quake C  บ
+ศอออออออออออออออออออออผ
+
+unified diff  : no
+context diff  : no
+.qc files     : not yet (will be released soon, but w/o sources of ReaperBot)
+progs.dat     : yes
+
+
+ษออออออออออออออออป
+บ  Whats in Mod  บ
+ศออออออออออออออออผ
+
+* ReaperBots v0.8 Beta (by Stiven Polge)
+* Quademon helper bot (used some parts of CUJO ai ,thanks to Jonathan E. Wright)
+* New Super Shotgun (mdl and qc by me)
+* New NailGun (original mdl by James Lazarus)
+* Grappling Hook (By Perecli Manole AKA Bort)
+* Missiles, grenades, spikes, backpacks - all now teleportable
+* Weapon drops when killed (you drop backpack, and your current weapon near)
+* Shells drop
+* New player.mdl (by me)
+* New ogre (by me)
+* New Soldier (by me)
+* New Vore (by me)
+* New Wizzard (check it!! by me)
+* New Shambler (by Patrick Martin)
+
+
+ษออออออออออออออออออป
+บ  How to Install  บ
+ศออออออออออออออออออผ
+
+First, create a subdirectory under \quake called QPLUS
+Ex(from dos): md c:\quake\QPLUS
+
+Next, unzip the q_plus.zip in this dir
+Ex(from dos): pkunzip q_plus.zip c:\quake\qplus
+
+Then, start your game with the command line parameter "-game qplus"
+ex: quake -game qplus
+
+
+!Note!: If you have a slow machine (p75 or slower) you can increase your
+       fps by adding "+temp1 8" cmd parameter
+ex: quake -game qplus +temp1 8
+       or before launching level type in console "temp1 8"
+       or add temp1 8 string to your autoexec.cfg
+This will remove all flame models and zombies on walls, but the game will
+run MUCH faster.
+
+
+                          ษอออออออออออออออป
+                          บ  DESCRIPTION  บ
+                          ศอออออออออออออออผ
+
+
+PLAYER.MDL:
+changed stupid frame ,when Quaker suck his own dick =:) Now it looks much
+better.
+added 9 skins:
+1) Duke Nukem
+2) Terminator
+3) Doomer
+4) RoboCop
+5) Russish Partizanen
+6) BatMan
+7) Psychobot
+8) Mike Mignola's Hellboy
+9) Predator
+
+                           *** WEAPONS ***
+
+*Shotgun:
+1.5x damage
+Ejecting shell after shot
+
+*Super Shotgun:
+2.5x damge ,new mdl with reloading frames , sound of reload from Doom2
+Ejecting 2 shells after shot
+
+*NailGun:
+Now the ChainGun is like the one in Doom.
+Original mdl by James Lazarus, little changed...
+
+*SuperNailgun:
+nails now ricoshet from walls , 1.5x damage
+
+*GrenadeLauncher:
+nail grenades
+
+*RocketLauncher:
+2x damage, slower than original
+
+*Hook:
+Little changed. Some new sounds
+Usage:
+   impulse 98      to throw, hook, and pull
+   impulse 97      to let go
+
+I recommend binding your keys like this. In your autoexec.cfg
+add these lines:
+
+   alias +hook "impulse 98"
+   alias -hook "impulse 97"
+   bind [Your desired key] +hook
+
+I use mouse3 for hook
+
+                           *** MONSTERS ***
+
+*Soldier:
+Can fire grenades, rockets, SSG, SG, have a new mdl with backpack
+
+*Ogre:
+Now has axe and Quaker gun , fires rockets
+
+*Vore (aka Shal-Rath):
+Now has RocketLauncher on his right arm (?!its arm!?) ,fires homing grenades
+
+*Wizzard (aka Scrag):
+Just check it! =:)
+Now his HeliWizzard =:))))
+
+*Shambler:
+Now has magic like the ArchVile from Doom2.
+Original qc code by Patrick Martin. I just add ArchVile sound from Doom2
+Some times cannot be damaged by SG or SGG.
+
+
+                           *** BOTS ***
+
+*QUADEMON - helper bot. Can be called in single player mode only.
+Looks like a fiend (im thinking about new skin for him)
+StatusBar: [health] [attack] [follow]
+Gibs: You can pick up gibs and then give them to Quademon.
+      Max. 10 gibs can be picked up.
+Talk: Quademon can talk with you...
+Ai: Some ai from CUJO bot.Thanks to Jonathan E. Wright
+Can be called only in Singleplayer mode.
+
+*REAPERBOT - deatmatch bot... Read the manual of ReaperBots! =:)
+Can be called only in Deathmatch/Teamplay mode.
+ftp.cdrom.com\pub\quake\quakec\bots - you can get original ReaperBot here.
+Txt of ReaperBot is included. Sorry Stiven for decompiling, but i like
+Reapers and i know that i CAN'T create smarter bot in all my life.
+
+
+
+ษออออออออออออป
+บ  Impulses  บ
+ศออออออออออออผ
+
+13 - Cheat Command
+20 - Call Quademon =>;)~ (Fritz calls him "James" :))
+21 - Teleport Quademon to your location
+22 - Quademon attack toggle
+23 - Quademon stay/follow toggle
+24 - Quademon external cam
+54 - Cheat for gibs. Gives you +50 gibs
+55 - Throw gib to feed Quademon =:)
+98 - Throw hook
+97 - Let hook go
+
+
+ษอออออออออออออออออออออออป
+บ  Future Enhancements  บ
+ศอออออออออออออออออออออออผ
+
+* BubbleGun (yeah! Reapers will use it too!)
+* Some changes in ReapersBot ai
+* Some changes in Quademon ai
+* New OldOne
+* New HellKnight
+* New fish
+* New zombie
+* BFG-9000
+* A new monster (still needs a skin)
+
+
+
+
+
+PS: Sorry for bugs =:)

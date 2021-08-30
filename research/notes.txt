@@ -2197,8 +2197,26 @@ Malice bot-mod
 	http://aminet.net/game/patch/malicemod.readme
 	https://en.wikipedia.org/wiki/Malice_(1997_video_game)
 		bot for the malice TC
-
-
+QuakePlus / QPlus
+	QuakePlus by Alexander Vinnikova (aka plus)
+	qplus.zip
+		http://ftp.cdrom.com/pub/quake/quakec/compilations/qplus.zip
+		ftp://ftp.cdrom.com/pub/quake/quakec/compilations/qplus.zip
+		http://www.cdrom.com/pub/quake/quakec/compilations/qplus.zip
+		https://www.gamers.org/pub/idgames2/quakec/compilations/qplus.zip
+		https://www.gamers.org/pub/idgames2/quakec/compilations/qplus.txt
+		https://www.quaddicted.com/files/idgames2/quakec/compilations/qplus.zip
+		https://www.quaddicted.com/files/idgames2/quakec/compilations/qplus.txt
+	other
+	https://web.archive.org/web/19980614160010/http://www.inside3d.com/nov08-nov09.shtml
+	https://www.quakewiki.net/archives/botshop/news/quake-2.html
+	http://www.insideqc.com/qctut/rip1.shtml
+	https://groups.google.com/g/fido7.ru.game.doom/c/egx_EOmK7kU/m/YMI0NukE66kJ
+		QPLUS.ZIP QuakePlus, Beta 1.0
+	https://groups.google.com/g/fido7.ru.game.doom/c/yhbFyQLEwxA/m/7hcvWYGvJzAJ
+		Alexander Vinnikov (aka plus) qplus.zip
+	http://www.quakecas.freeservers.com/quake1downloads.htm
+	http://www.randars.com/bots/bots2.html
 
 
 
@@ -2388,9 +2406,6 @@ XBots
 	https://web.archive.org/web/19980614160010/http://www.inside3d.com/nov08-nov09.shtml
 	Prodigy Server Engine by David Rodgers
 	https://web.archive.org/web/19980614160010/http://www.mindspring.com/~orionx/home1.htm
-QuakePlus
-	https://web.archive.org/web/19980614160010/http://www.inside3d.com/nov08-nov09.shtml
-	reaper
 Ultimate Quake Mod
 	https://web.archive.org/web/19980614160053/http://www.inside3d.com/nov12-nov13.shtml
 	zeusbot
