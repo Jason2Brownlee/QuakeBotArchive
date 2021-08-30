@@ -890,19 +890,60 @@ Eliminator v1 (elim14 -> elim141)
 	http://www.planetquake.com/eliminator/
 	https://web.archive.org/web/19990202102720/http://www.planetquake.com/eliminator/
 Eliminator v2
-	http://www.planetquake.com/eliminator/
-	https://web.archive.org/web/19990202102720/http://www.planetquake.com/eliminator/
-	http://www3.ns.sympatico.ca/jdown/Files/elim20b7.zip
-	http://users.andara.com/~jdown/elim20b7.zip
-	https://web.archive.org/web/20010305195701/http://users.andara.com/~jdown/beta7.txt
-	https://web.archive.org/web/19990203003835fw_/http://www.planetquake.com/eliminator/files.html
-	The Eliminator Bot V2.0 BETA 7
-	by Perged <S.T.K> and FuzzKatT <S.T.K>
+	Perged <S.T.K> and FuzzKatT <S.T.K>
+	elim20b6.zip
+		http://www.ccn.cs.dal.ca:80/~ae142/Elim20b6.zip
+		https://groups.google.com/g/fido7.ru.game.doom/c/hIPwTQWePuU/m/ApL-fFci1HEJ
+			Elim20b6.zip
+		https://groups.google.com/g/fido7.ru.game.doom/c/nPIibHJq5IQ/m/qCteR8LrfzIJ
+			Elim20b6.zip
+	elim20b7.zip
+		http://www3.ns.sympatico.ca/jdown/Files/elim20b7.zip
+		http://users.andara.com/~jdown/elim20b7.zip
+		http://users.andara.com/~jdown/beta7.txt
+		http://www.planetquake.com/eliminator/Files/elim20b7.zip
+		http://www.planetquake.com/eliminator/Files/beta7.txt
+		http://botarea51.impulse9.net/mirror/bot/elim20b7.zip
+		http://www.fileplanet.com/dl.aspx?/planetquake/botarea51/bot/elim20b7.zip
+		https://groups.google.com/g/fido7.ru.game.doom.uue/c/O8zBlHaGaOQ/m/XS05lD-IoqMJ
+			encoded_portion_removed
+		https://groups.google.com/g/fido7.odessa.fileecho/c/z3RIvRTEr38/m/Dh5TGeQeBt0J
+			BOTS.RAR 162,761 Eliminator Bots 2.0 for Quake
+		https://groups.google.com/g/fido7.odessa.fileecho/c/fLBrw4I54cU/m/t_p39Zt8F1UJ
+			ELIMBOT.RAR 163K 22-Mar-98 Eliminator Bot 2.0 for Quake
+	http://www.ccn.cs.dal.ca/~ae142/
+		https://web.archive.org/web/19990220160146/http://www.ccn.cs.dal.ca/~ae142/
+		https://web.archive.org/web/*/www.ccn.cs.dal.ca/*
+		https://web.archive.org/web/1999*/http://www.ccn.cs.dal.ca:80/~ae142/Elim20b6.zip
+	http://www.chebucto.ns.ca/~ae142/
+		https://web.archive.org/web/19990222141129/http://www.chebucto.ns.ca/~ae142/
+		https://web.archive.org/web/*/www.chebucto.ns.ca/*
+		not archived
+	http://users.andara.com/~jdown
+		https://web.archive.org/web/20010722222408/http://users.andara.com/~jdown/
+		https://web.archive.org/web/*/users.andara.com/*
+		https://web.archive.org/web/20010129113500/http://users.andara.com/~jdown/elim20b7.zip
+		https://web.archive.org/web/20010129113500/http://users.andara.com/~jdown/beta7.txt
+		https://web.archive.org/web/19981206061937/http://users.andara.com:80/~jdown/v106.txt
+	http://www3.ns.sympatico.ca/jdown/
+		http://www3.ns.sympatico.ca/jdown/Files/elim20b7.zip
+		not archived
 	http://www3.ns.sympatico.ca/ptcraig/
-	http://www.insideqc.com/modindex/qreview/patch7.shtml
-	https://web.archive.org/web/19980614160010/http://www.inside3d.com/nov08-nov09.shtml
-		evidence of a beta6 that has a large bug
-		elim20b6.zip
+		not archived
+	http://www.planetquake.com/eliminator/
+		https://web.archive.org/web/19990202102720/http://www.planetquake.com/eliminator/
+		https://web.archive.org/web/*/www.planetquake.com/*
+		https://web.archive.org/web/20010129113500fw_/http://www.planetquake.com/eliminator/files.html
+		https://web.archive.org/web/19990202223528/http://www.planetquake.com:80/eliminator/elim1.html
+		https://web.archive.org/web/20010305201443fw_/http://www.planetquake.com/eliminator/Files/elim20b7.zip
+		https://web.archive.org/web/20010305201443fw_/http://www.planetquake.com/eliminator/Files/beta7.txt
+	http://bounce.to/railbait
+		https://web.archive.org/web/20010512122516/http://bounce.to/railbait
+	other
+		http://www.insideqc.com/modindex/qreview/patch7.shtml
+			EliminatorBot 2.0 b6
+		https://web.archive.org/web/19980614160010/http://www.inside3d.com/nov08-nov09.shtml
+			beta 6 has a big bug, fixed in beta 7
 Doombot
 	Roscoe A. Sincero AKA Legion
 	https://www.quaddicted.com/files/idgames2/quakec/bots/dmbt21b3.txt

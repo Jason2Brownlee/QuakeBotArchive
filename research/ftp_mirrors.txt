@@ -11,6 +11,7 @@ planetquake directories
 	botshop
 	cronos
 	ctfbot
+	eliminator
 	holywars
 	minion
 	ramshackle
