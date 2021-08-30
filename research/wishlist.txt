@@ -44,6 +44,7 @@ drkbot04.zip
 drkbt013.zip
 elim10.zip
 elim13.zip
+elim20b6.zip
 elimpack.zip
 f2k001a.zip
 f2k005d.zip

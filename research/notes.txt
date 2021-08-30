@@ -900,6 +900,9 @@ Eliminator v2
 	by Perged <S.T.K> and FuzzKatT <S.T.K>
 	http://www3.ns.sympatico.ca/ptcraig/
 	http://www.insideqc.com/modindex/qreview/patch7.shtml
+	https://web.archive.org/web/19980614160010/http://www.inside3d.com/nov08-nov09.shtml
+		evidence of a beta6 that has a large bug
+		elim20b6.zip
 Doombot
 	Roscoe A. Sincero AKA Legion
 	https://www.quaddicted.com/files/idgames2/quakec/bots/dmbt21b3.txt

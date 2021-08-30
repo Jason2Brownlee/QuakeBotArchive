@@ -363,7 +363,36 @@ http://www.gocompupro.com/cqf
 	https://web.archive.org/web/19980218141331/http://www.btinternet.com/~impaler/files/reaperfx.zip
 http://www.geocities.com/TimesSquare/Ring/3150/spazbots.html
 	https://web.archive.org/web/19991001063342/http://www.geocities.com/TimesSquare/Ring/3150/spazbots.html
-
+http://www.iinet.net.au/~den/bots.html
+	Dennis Plester, Perth
+	quake den
+	https://web.archive.org/web/19990220223347/http://www.iinet.net.au/~den/
+	https://web.archive.org/web/19990117081448/http://www.iinet.net.au/~den/quakemain.html
+	https://web.archive.org/web/19990116225220/http://www.iinet.net.au/~den/bots.html
+	https://web.archive.org/web/19990221083248/http://www.iinet.net.au/~den/elimbot.html
+		https://web.archive.org/web/19990221083248/http://www.iinet.net.au/~den/elim14.zip
+		https://web.archive.org/web/19990221083248/ftp://ftp.cdrom.com/pub/quake/levels/eliminator
+	https://web.archive.org/web/19990222021001/http://www.iinet.net.au/~den/reaper.html
+		https://web.archive.org/web/19990222021001/http://www.iinet.net.au/~den/reaprb81.zip
+	https://web.archive.org/web/19990429081941/http://www.iinet.net.au/~den/bgbot.html
+		https://web.archive.org/web/19990429081941/http://www.iinet.net.au/~den/bgbot20a.zip
+	https://web.archive.org/web/19990223195820/http://www.iinet.net.au/~den/swimbot.html
+		https://web.archive.org/web/19990223195820/http://www.iinet.net.au/~den/swbot104.zip
+		https://web.archive.org/web/19990223195820/http://www.iinet.net.au/~den/sbotstuf.zip
+	https://web.archive.org/web/19990221154124/http://www.iinet.net.au/~den/oak.html
+		https://web.archive.org/web/19990221154124/http://web.ukonline.co.uk/neil.henderson/oak0405.zip#Download
+		https://web.archive.org/web/19990221154124/http://web.ukonline.co.uk/johnc/oak083.zip#Download
+	https://web.archive.org/web/19990117053536/http://www.iinet.net.au/~den/darkbot.html
+		https://web.archive.org/web/19990117053536/http://www.mindspring.com/~darkskye/files/darkbt09.zip
+		https://web.archive.org/web/19990117053536/http://www.mindspring.com/~darkskye/index.htm
+	https://web.archive.org/web/19990221093554/http://www.iinet.net.au/~den/gyrobot.html
+		https://web.archive.org/web/19990221093554/http://www.iinet.net.au/~den/gyrobot.zip
+	https://web.archive.org/web/19990223215045/http://www.iinet.net.au/~den/zeus.html
+		https://web.archive.org/web/19990223215045/http://www.iinet.net.au/~den/zeus2042.zip
+	http://members.iinet.net.au/~den/
+		The Gaming Den
+		https://web.archive.org/web/20010724063719/http://members.iinet.net.au/~den/
+		https://web.archive.org/web/20050208023321/http://members.iinet.net.au/~den/
 
 
 

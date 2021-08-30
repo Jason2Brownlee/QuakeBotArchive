@@ -1,0 +1,120 @@
+=====================================================================
+Title                 : The Eliminator Bot V2.0 BETA 7
+Filename              : Elim20b7
+Authors               : Perged <S.T.K>
+                      : FuzzKatT <S.T.K>
+Email Addresses       : jondown@atcon.com (Perged)
+                      : ptcraig@ns.sympatico.ca (FuzzKatT)
+
+Description           : The Eliminator Bot, its a Bot, it plays
+                        Quake, it will beat you in a deathmatch
+                        It was done in QuakeC, and it behaves, 
+                        and looks, like a human player, it even
+                        talks back!
+                         
+Additional Credits to : Id Software (for making Quake)
+                      : Lee Smith, (For Proqcc, having a fast 
+                        compiler really helps when you make
+                        hundreds of builds a day!)
+                      : Members of Clan STK, for Beta testing
+                        the hell out of it.
+                      : Stephen Polge (ReaperBot)
+  	 	      : Alan Kivlin (QCBot 003)
+=====================================================================
+
+* Play Information *
+
+Single Player         : No
+Cooperative           : No
+Deathmatch            : Yes
+Difficulty Settings   : Yes
+New Sounds            : No
+New Graphics          : No
+New Music             : No
+Demos Replaced        : No
+
+* Instalation *
+Unzip the file "progs.dat" in a directory called elim20 in your Quake
+directory.  There should be 5 files:
+        progs.dat (The program itself)
+        elim.txt (This file)
+        autoexec.cfg (Key bindings)
+        elim20.bat (batch file for playing)
+        file_id.diz (File identification for Sysops)
+move the file "elim20.bat" into you're quake directory.  And type elim20
+to play.
+
+* Controling Bots *
+Impulses:
+F1      impulse 101     Spawn 1 bot
+F2      impulse 102     Spawn 2 bots
+F3      impulse 103     Spawn 3 bots
+F4      impulse 104     Spawn 4 bots
+F5      impulse 105     Remove All Bots
+F6      impulse 106     Observer Mode (Toggle)
+F7      impulse 107     Display Bot Skills
+F8      impulse 108     Tell the bots to shutup (Toggle)
+F9      impulse 109     Set Limited Access (For Servers)
+F10	impulse 15	Ycam (Toggle)
+impulses 201 to 216 Set the maximum number of bots and players at a time
+if you type impulse 216, 15 bots plus the player will be allowed.  If you
+type impulse 208, 7 bots and the player will spawn.
+Skill:
+To change skill, press "~" to bring down the console, and type "skill"
+followed by a number between 0 and 3.  (Decimals too).  The next bots
+you spawn will have this skill.  Bots skill will change depending on the
+score.  But they get smarter faster than they get stupider.
+
+* Construction *
+
+Editor(s) used        : DOSEdit the worlds greatest text editor.
+
+Features              : -Uses the same frames as players
+                        -Fires Weapons the same as players
+                        -Jumps off ledges
+                        -Variable Skill levels 
+                        -Skill affects Aiming, pain, shooting rate, etc.
+                        -Dynamic Level Mapping
+                        -Talks to player (Whines, taunts, comments).
+                        -Appears on rankings screen
+                        -53 different names
+                        -Chooses a different color for each bot
+                        -Leads targets
+                        -Picks up items
+                        -Drowns, dies in lava, and slime
+                        -Can use triggers
+                        -Prioritizes items
+                        -Ycam (Harvey Lee, Wes Morrison)
+			-Changes skill based on scores
+                        -Will chase enemies
+                        -They Do not Cheat
+
+Future Enhancements   : Haha, you know the answer to this one.
+
+Known Bugs            : If they die in lava sometimes they still
+                        take damage, and emitt a pain sound after
+                        they die.  This happens to players with 
+                        fall damage, but it always has.
+                      : Guts (Gibs) have been seen to "Float" in
+                        the air.
+
+Build Time            : Far, Far to long...
+
+As you can see this is a decent readme, written by FuzzKatT. The last one
+was done by me (Perged) twenty minutes before I went away, I had to scream
+just to be allowed on the computer. Later,
+
+-Perged
+
+P.s. Keep going back to the site (http://www.ccn.cs.dal.ca/~ae142/) for info, and
+hopefully soon a download of my new bot!
+
+Official EliminatorBot Homepage:
+http://www.ccn.cs.dal.ca/~ae142/
+
+Clan <S.T.K> Homepage:
+http://www3.ns.sympatico.ca/ptcraig/
+
+The Clan page is mine, FuzzKatT's and other clan page. I used to keep it but I only
+have 500k of space on my server, and I ran out. Now upkeep is done by FuzzKatT, who has
+5 megs. Check there for all the other cool patches we've done.
