@@ -1393,27 +1393,47 @@ Lithium CTF
 	https://www.quaddicted.com/files/idgames2/quakec/teamplay/ctf/
 	bgbot based? no evidence other than impulse...
 Frik-TF / FrikTF
-	- team fortress bot based of FBX
-	https://web.archive.org/web/20100123221300/http://botepidemic.no-origin.net/quake.shtml.htm
-	http://groups.yahoo.com/group/friktf/files/friktf-051901.zip
-	https://doritoshp.tripod.com/Downloads/friktf-092800.zip
-	http://www.egroups.com/group/friktf/
+	Frikbot + Team Fortress / Team Fortress bots
+	Raymond Martineau
+	http://www.ncf.ca/~bk039/index.htm
 	http://www.ncf.ca/~bk039/
-	https://web.archive.org/web/20020207024220/http://www.ncf.ca/~bk039/bugs.htm
-	http://www.egroups.com/files/friktf/friktf-051800-qw.zip
-	http://www.mdqnet.net/friktf/
-	https://web.archive.org/web/20100123221300/http://www.ncf.ca/~bk039/frik-tf.zip
-	https://web.archive.org/web/20100123221300/http://www.ncf.ca/~bk039/friktfqw.zip
-	https://web.archive.org/web/20010609104604/http://groups.yahoo.com/group/friktf/files/
-		https://web.archive.org/web/20010609104604/http://groups.yahoo.com/group/friktf/files/friktf-051800-qw.zip
-		https://web.archive.org/web/20010609104604/http://groups.yahoo.com/group/friktf/files/friktf-051800-src.zip
-		https://web.archive.org/web/20010609104604/http://groups.yahoo.com/group/friktf/files/friktf-051800.zip
-		https://web.archive.org/web/20010609104604/http://groups.yahoo.com/group/friktf/files/friktf-051901.zip
+		https://web.archive.org/web/2017*/http://www.ncf.ca/~bk039/
+		https://web.archive.org/web/20020207024220/http://www.ncf.ca/~bk039/bugs.htm
+		https://web.archive.org/web/20000818043602/http://www.ncf.ca/~bk039/index.htm
+		https://web.archive.org/web/20100123221300/http://www.ncf.ca/~bk039/frik-tf.zip
+		https://web.archive.org/web/20100123221300/http://www.ncf.ca/~bk039/friktfqw.zip
+	http://www.mdqnet.net/friktf/index.shtml
+		http://www.mdqnet.net/friktf
+		https://web.archive.org/web/20000903084018/http://www.mdqnet.net/friktf/index.shtml
+		https://web.archive.org/web/20001009022207/http://www.mdqnet.net:80/ftp/friktf/
+	http://www.egroups.com/group/friktf/
+		http://www.egroups.com/files/friktf/friktf-051800-qw.zip
+		redirects to groups.yahoo.com
+	http://groups.yahoo.com/group/friktf
+		https://web.archive.org/web/20100123221300/http://groups.yahoo.com/group/friktf
+		https://web.archive.org/web/20010609104604/http://groups.yahoo.com/group/friktf/files/
+		https://web.archive.org/web/20100123221300/http://groups.yahoo.com/group/friktf/files/friktf-051901.zip
 		https://web.archive.org/web/20010609104604/http://groups.yahoo.com/group/friktf/files/friktf-092800-qw.zip
 		https://web.archive.org/web/20010609104604/http://groups.yahoo.com/group/friktf/files/friktf-092800-src.zip
 		https://web.archive.org/web/20010609104604/http://groups.yahoo.com/group/friktf/files/friktf-092800.tar.gz
 		https://web.archive.org/web/20010609104604/http://groups.yahoo.com/group/friktf/files/friktf-092800.zip
-
+		https://web.archive.org/web/20010609104604/http://groups.yahoo.com/group/friktf/files/friktf-051800-qw.zip
+		https://web.archive.org/web/20010609104604/http://groups.yahoo.com/group/friktf/files/friktf-051800-src.zip
+		https://web.archive.org/web/20010609104604/http://groups.yahoo.com/group/friktf/files/friktf-051800.zip
+	http://www.botepidemic.com/tfb/index.htm
+	http://www.botepidemic.com/tfb/
+		http://botepidemic.no-origin.net/tfb/index.htm
+		https://web.archive.org/web/20020208190238/http://www.botepidemic.com/tfb/
+		https://web.archive.org/web/20020220151424/http://www.botepidemic.com/tfb/download.shtml
+		https://web.archive.org/web/20020220150905/http://www.botepidemic.com/tfb/index.shtml
+		Plumb, took over, no releases
+	other
+		https://web.archive.org/web/20100123221300/http://botepidemic.no-origin.net/quake.shtml.htm
+		http://www.delorie.com/djgpp//mail-archives/browse.cgi?p=djgpp/2000/04/11/23:22:02
+		https://doritoshp.tripod.com/Downloads/friktf-092800.zip
+		https://dcemulation.org/phpBB/viewtopic.php?f=14&t=4221
+		https://groups.google.com/g/rec.games.computer.quake.quake-c/c/tWbOnNLUWBg/m/WxtJ9N6pfoEJ
+		https://groups.google.com/g/rec.games.computer.quake.quake-c/c/SB1HYMX_rBs/m/_hs3_BcOe_UJ
 TFBots (coffee)
 	https://web.archive.org/web/20041216170620/http://www.planetquake.com/minion/index2.html
 	http://www.fileplanet.com/dl.aspx?/planetquake/minion/tf_bots07.zip
