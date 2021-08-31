@@ -151,6 +151,7 @@ kfmod.zip
 killer86.zip
 killer86b.zip
 killer87.zip
+kok2.zip
 koolio.zip
 kqcbotsource.zip
 maniacbt12.zip

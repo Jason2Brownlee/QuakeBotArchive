@@ -2237,6 +2237,16 @@ QuakePlus / QPlus
 		Alexander Vinnikov (aka plus) qplus.zip
 	http://www.quakecas.freeservers.com/quake1downloads.htm
 	http://www.randars.com/bots/bots2.html
+Kommando Kwake
+	https://web.archive.org/web/19980614160010/http://www.inside3d.com/nov08-nov09.shtml
+		Kommando Kwake v2.10
+		reaper bots
+		also a 2.0
+	https://web.archive.org/web/19971016132653/http://quakemecca.simplenet.com/new.html
+	https://web.archive.org/web/19971016132653/http://quakemecca.simplenet.com/files/new/kok2.zip
+		KommandoKwake V2.00
+		kok2.zip
+	https://alphacentauri2.info/Alpha.owo/2/002868.html
 
 
 
@@ -2417,11 +2427,8 @@ frogbot + kt
 	https://www.quakeworld.nu/forum/topic/7068/new-frogbots
 	(server side) not released?
 Magenta's Reaper Bots Hack
+	https://web.archive.org/web/19980614160010/http://www.inside3d.com/nov08-nov09.shtml
 	https://web.archive.org/web/19980614160010/http://home.t-online.de/home/mag.enta/
-	https://web.archive.org/web/19980614160010/http://www.inside3d.com/nov08-nov09.shtml
-Kommando Kwake v2.10
-	https://web.archive.org/web/19980614160010/http://www.inside3d.com/nov08-nov09.shtml
-	reaperbots
 XBots
 	https://web.archive.org/web/19980614160010/http://www.inside3d.com/nov08-nov09.shtml
 	Prodigy Server Engine by David Rodgers
@@ -2480,6 +2487,8 @@ oriontf
 	https://www.quaketastic.com/files/multiplayer/mods/oriontf_beta2.zip
 	https://www.quaketastic.com/files/multiplayer/mods/oriontf_beta3.zip
 	https://www.quaketastic.com/files/multiplayer/mods/oriontf_beta4.zip
+
+
 
 
 

@@ -92,6 +92,7 @@ http://orca.ucd.ie/~gilligan/warbot.zip
 http://pelit.saunalahti.fi/telenation/telefragged/be/fmods/fb013se.zip
 http://quakeintosh.com/files/Paks%20-%20Maps%20-%20Mods%20/Quake%20Bots/%20Omicron%20Bot/OBOTS101.sit
 http://quakemecca.simplenet.com/files/downloads/oak084.zip
+http://quakemecca.simplenet.com/files/new/kok2.zip
 http://railgun.macquakeinfinity.com/downloads/fbctf024.zip
 http://railgun.macquakeinfinity.com/downloads/fbctf026.zip
 http://railgun.macquakeinfinity.com/downloads/fbctf030.zip
