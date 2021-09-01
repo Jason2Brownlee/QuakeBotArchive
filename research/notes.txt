@@ -2247,6 +2247,19 @@ Kommando Kwake
 		KommandoKwake V2.00
 		kok2.zip
 	https://alphacentauri2.info/Alpha.owo/2/002868.html
+	http://home.t-online.de/home/026051408/
+	https://web.archive.org/web/20010807211321/http://home.t-online.de/home/026051408/home.htm
+	https://web.archive.org/web/20010806184805/http://home.t-online.de/home/026051408/about.htm
+	https://web.archive.org/web/20010806193429/http://home.t-online.de/home/026051408/kokoma1.htm
+	https://web.archive.org/web/19981203025406/http://home.t-online.de/home/026051408/kokoma1.htm
+	https://web.archive.org/web/19990221123125/http://home.t-online.de:80/home/026051408/kokoma2.htm
+	https://web.archive.org/web/19981206014824/http://home.t-online.de/home/026051408/kokoma3.htm
+	https://web.archive.org/web/20010806193429/http://home.t-online.de/home/026051408/kok220.zip
+	https://web.archive.org/web/*/http://home.t-online.de/home/026051408/kok220.zip
+	https://web.archive.org/web/*/home.t-online.de/*
+		QUAKE 1  Kommando Kwake Conversion
+		Andreas M. and Stefan M.
+		V2.20
 
 
 
@@ -2369,7 +2382,28 @@ Elima-Reaper / Elima Reaper
 	Roscoe A. Sincero
 	Contacted author.
 	no release...
-
+Magenta's Reaper Bots Hack
+	https://web.archive.org/web/19980614160010/http://www.inside3d.com/nov08-nov09.shtml
+	http://home.t-online.de/home/mag.enta/
+	http://home.t-online.de/home/mag.enta/dl.htm
+		https://web.archive.org/web/19990427185926/http://home.t-online.de/home/mag.enta/
+		https://web.archive.org/web/19980614160010/http://home.t-online.de/home/mag.enta/
+		https://web.archive.org/web/*/home.t-online.de/*
+	https://groups.google.com/g/rec.games.computer.quake.editing/c/OdnwRd7EnWg/m/Z95tl097AxYJ
+	https://groups.google.com/g/rec.games.computer.quake.misc/c/Kvo_uuP3FAI/m/5d5IXXrSA-wJ
+	https://groups.google.com/g/rec.games.computer.quake.playing/c/6IiZZKP5Uq8/m/XbR8BEDW2zoJ
+	https://groups.google.com/g/rec.games.computer.quake.editing/c/BmLzjeyvLR0/m/kL0OUoogjP8J
+		Andreas Böhm aka "Magenta" ?
+		reaper bots using scoreboard
+	https://groups.google.com/g/rec.games.computer.quake.editing/c/XNobachKDBE/m/vXZAeCEIqrMJ
+	https://groups.google.com/g/rec.games.computer.quake.editing/c/vM9uBlFWOx0/m/x1LEHvDBjD8J
+	https://groups.google.com/g/rec.games.computer.quake.misc/c/i5uOJm6OBlQ/m/Tr0B4wx6L7cJ
+	https://groups.google.com/g/rec.games.computer.quake.misc/c/z7nXenzV8RI/m/u2xepKlxUnMJ
+		Marietta Otten aka "Magenta" ?
+	http://www.boehm.de/andreas/
+		https://web.archive.org/web/19981201063801/http://www.boehm.de/andreas/
+	release???
+	need a filename...
 
 
 
@@ -2426,9 +2460,6 @@ imbot
 frogbot + kt
 	https://www.quakeworld.nu/forum/topic/7068/new-frogbots
 	(server side) not released?
-Magenta's Reaper Bots Hack
-	https://web.archive.org/web/19980614160010/http://www.inside3d.com/nov08-nov09.shtml
-	https://web.archive.org/web/19980614160010/http://home.t-online.de/home/mag.enta/
 XBots
 	https://web.archive.org/web/19980614160010/http://www.inside3d.com/nov08-nov09.shtml
 	Prodigy Server Engine by David Rodgers
@@ -2487,6 +2518,10 @@ oriontf
 	https://www.quaketastic.com/files/multiplayer/mods/oriontf_beta2.zip
 	https://www.quaketastic.com/files/multiplayer/mods/oriontf_beta3.zip
 	https://www.quaketastic.com/files/multiplayer/mods/oriontf_beta4.zip
+KALQuake
+	adds wisp
+	https://www.quaddicted.com/files/idgames2/quakec/compilations/kal_qk-p.txt
+	https://www.quaddicted.com/files/idgames2/quakec/compilations/kal_qk-s.txt
 
 
 
