@@ -20,7 +20,8 @@ List: quake dos games
 List
 	https://web.archive.org/web/20160410114645/http://www.addoncollector.spielepedia.de/quakede.html
 	https://web.archive.org/web/20160410114855/http://www.addoncollector.spielepedia.de/multide.html
-
+List
+	https://www.quaddicted.com/library/physical_releases
 
 
 BOTS (addons that have bots)
@@ -42,6 +43,7 @@ Level Master V for Quake
 	https://archive.org/details/cdrom-quake-level-master-5
 	https://archive.org/details/msdos_Quake_Level_Master_V_1997
 	https://legendsworld.net/shooter/game/1839
+	https://www.quaddicted.com/library/level_master_v_unofficial_add-ons_for_quake
 	some patches...
 		zeus bot 2.042
 Eternal Darkness
@@ -177,6 +179,7 @@ Spiele Hits Vol. 1
 	tons of maps, few mods, all .exe compressed
 Superdead
 	https://archive.org/details/MicrobossSUPERDEAD
+	https://www.quaddicted.com/library/superdead
 	https://legendsworld.net/shooter/game/7413
 	all maps i think
 Earth Quake

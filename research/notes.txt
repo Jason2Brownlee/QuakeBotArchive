@@ -2260,7 +2260,23 @@ Kommando Kwake
 		QUAKE 1  Kommando Kwake Conversion
 		Andreas M. and Stefan M.
 		V2.20
-
+XBots / Prodigy Server Engine
+	https://web.archive.org/web/19980614160010/http://www.inside3d.com/nov08-nov09.shtml
+	Prodigy Server Engine by David Rodgers
+	http://www.mindspring.com/~orionx/
+		https://web.archive.org/web/20010802035633/http://www.mindspring.com/~orionx/
+		https://web.archive.org/web/2002*/http://www.mindspring.com/~orionx/
+		https://web.archive.org/web/19980614160010/http://www.mindspring.com/~orionx/home1.htm
+		https://web.archive.org/web/*/www.mindspring.com/*
+	http://www.pixelshower.com/projects.htm
+		https://web.archive.org/web/*/www.pixelshower.com/*
+		Orion Interactive
+		https://web.archive.org/web/20011019111753/http://www.pixelshower.com/projects.htm
+			Prodigy Server Engine v3.5B1 - Quake I LAN mod
+			https://web.archive.org/web/20011019111753/http://www.pixelshower.com/Vault/game/prodigy35b1.zip
+			prodigy35b1.zip
+			David "ReDDeaTH" Rodgers
+	Prodigy Server Engine (XBots)
 
 
 RESEARCHING...
@@ -2460,10 +2476,6 @@ imbot
 frogbot + kt
 	https://www.quakeworld.nu/forum/topic/7068/new-frogbots
 	(server side) not released?
-XBots
-	https://web.archive.org/web/19980614160010/http://www.inside3d.com/nov08-nov09.shtml
-	Prodigy Server Engine by David Rodgers
-	https://web.archive.org/web/19980614160010/http://www.mindspring.com/~orionx/home1.htm
 Ultimate Quake Mod
 	https://web.archive.org/web/19980614160053/http://www.inside3d.com/nov12-nov13.shtml
 	zeusbot

@@ -172,6 +172,7 @@ omega.zip
 paddybot.zip
 paddybot02.zip
 pak2pak.zip
+prodigy35b1.zip
 qcbot001.zip
 qcbot002.zip
 rbot.zip
