@@ -1,0 +1,81 @@
+KALQuake (v0.8beta) Patch and Progs.dat
+
+(October 25, 1996) - 5:53 PM
+
+To all whom this may concern:
+
+To install this patch, there are two ways:
+
+  1) Get the file Howpatch.txt to find out how to use the .pat file included.
+
+  2) Place the file progs.dat in a new directory in your Quake directory and
+     run QUake like so - 
+
+		quake -game <dir>
+
+     where <dir> is the name of the directory you placed the file progs.dat
+     in.
+
+This is a work-in-progress server patch.  I am compiling all of my favorite
+mods (that can be combined) into one patch for servers to use.  So far,
+patches used include the following:
+
+bombs8.zip - contains modified grenade launcher and rocket launcher!
+
+tele.zip - allows for placing a personal teleport destination to return
+           to at any time from anywhere (except another level).  Also,
+           has a teleport bomb which detonates then moves the user to
+           its former location.
+
+grap109b.zip - Grappling Hook...no further explanation needed!
+	(NOTE: No longer uses the new graphics, instead it uses
+	graphics which come with Quake!)
+
+rdi.zip - Random Deathmatch Items (!)
+
+feign_v9.zip - Allows players to 'feign death'...
+
+tracbeam.zip - Allows players to use the ThunderBolt as a Tractor Beam
+	as well as the Lightning Gun!
+
+wisp.zip - Your own personal Quake Bot!  The wisp is a special friend...treat
+it kindly.  Learn it...read wisp.txt for more info!
+
+Read the read me files included in this ZIP file for each one to learn more
+about these great patches!  :)
+
+Additional modifications which do not have an associated .ZIP file:
+
+	Grenades, nails, rockets, etc. now travel through teleporters.
+
+Additions in the near future:
+
+ I will modify the 'gibgun' in bombs8.zip to allow it to 'home in' on
+ its targets!  I will also modify Proximity Mine to do less damage.
+
+ I will add the ability for proectiles, gibs, etc. to travel through
+ teleporters.  (Done!)
+
+
+At the moment, this is a very stable patch, but if I add something (or
+*you* add something) it might become unstable and not work properly.  For
+this matter, I take no responsibility for anything going wrong while you
+use this patch (modified or not).  I also will not take responsibility for
+you misusing this patch on your server (ie. not telling people about the
+teleport patch).
+
+One last word...I do not know who made these patches (I am sure their names
+are in the respective read me files from each patch and possibly in the code
+too, but I copied all code over verbatim, so names in the code are intact),
+but they are great patches and I look forward to more good ones.  The source
+code is in the .ZIP file in the \src directory.  I recommend getting WinZip
+to view and edit the contents of the .ZIP file...
+
+-=CT=-KALWeb  (underhill@netpass.com)
+
+Authorized by: -=CT=-UsaDan  (dan@wsnet.com)
+
+
+I plan on combining this code (in some way) with the 3wave 'Capture the Flag'
+code sometime in the future.  If you feel like you can handle this task, please
+do so and send me the new source as I would be happy to test it out!

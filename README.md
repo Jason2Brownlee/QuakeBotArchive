@@ -127,6 +127,7 @@ Indecisive Bot (Gyrobot) | Aaron Logue aka "Gyro Gearloose" | [gyrobot.zip](bin/
 IronWulvt's Deathmatch Bot | Ben Garrod aka "IronWulvt" | [iwbot21.zip](bin/iwbot21.zip) ([txt](bin/iwbot21.txt))<br>iwbot20.zip<br>[iwbot16.zip](bin/iwbot16.zip)<br>iwbot15.zip<br>[iwbot1.zip](bin/iwbot1.zip) ([txt](bin/iwbot1.txt))
 JBot | Jeffrey Lee | [jbot.zip](bin/jbot.zip)
 Kagero Bot | "The Kwanster" | [kagero.zip](bin/kagero.zip)
+KALQuake | Kenneth Livingston aka "-=CT=-KALWeb " | [kal_qk-p.zip](bin/kal_qk-p.zip) ([txt](bin/kal_qk-p.txt))<br>[kal_qk-s.zip](bin/kal_qk-s.zip) ([txt](bin/kal_qk-s.txt))
 KarNag Bot | Ken Madlener | [knbot45.zip](bin/knbot45.zip) ([txt](bin/knbot45.txt))<br>[knbot03.zip](bin/knbot03.zip)
 Khol's FMODS | "Khol" | kfmod.zip
 Killer Qcbot | William  Ravaine aka "Killer-Sub" | [kqcbots095b.zip](bin/kqcbots095b.zip) ([txt](bin/kqcbots095b.txt))<br>kqcbotsource.zip

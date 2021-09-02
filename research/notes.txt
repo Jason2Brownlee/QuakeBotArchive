@@ -2277,6 +2277,28 @@ XBots / Prodigy Server Engine
 			prodigy35b1.zip
 			David "ReDDeaTH" Rodgers
 	Prodigy Server Engine (XBots)
+KALQuake
+	adds wisp
+	https://www.quaddicted.com/files/idgames2/quakec/compilations/kal_qk-p.txt
+	https://www.quaddicted.com/files/idgames2/quakec/compilations/kal_qk-p.zip
+	https://www.quaddicted.com/files/idgames2/quakec/compilations/kal_qk-s.txt
+	https://www.quaddicted.com/files/idgames2/quakec/compilations/kal_qk-s.zip
+	https://www.gamers.org/pub/idgames2/quakec/compilations/kal_qk-p.zip
+	https://www.gamers.org/pub/idgames2/quakec/compilations/kal_qk-s.zip
+	"-=CT=-KALWeb"
+	https://groups.google.com/g/rec.games.computer.quake.misc/c/zt8yLAUEqzs/m/kbvKUHreAMoJ
+		Kenneth Livingston
+	http://wsnet.com/~dan/crimsontide/
+		https://web.archive.org/web/19970606084813/http://wsnet.com/~dan/crimsontide/
+	http://www.wsnet.com/~dan/kaltech/index.html
+		https://web.archive.org/web/19970615211441/http://www.wsnet.com/~dan/kaltech/index.html
+		https://web.archive.org/web/19970617133944fw_/http://www.wsnet.com/~dan/kaltech/GURPS/
+			Ken Livingston
+	http://www.geocities.com/SiliconValley/Heights/7812/
+		https://web.archive.org/web/19990223222922/http://www.geocities.com/SiliconValley/Heights/7812/
+		???
+
+
 
 
 RESEARCHING...
@@ -2530,11 +2552,6 @@ oriontf
 	https://www.quaketastic.com/files/multiplayer/mods/oriontf_beta2.zip
 	https://www.quaketastic.com/files/multiplayer/mods/oriontf_beta3.zip
 	https://www.quaketastic.com/files/multiplayer/mods/oriontf_beta4.zip
-KALQuake
-	adds wisp
-	https://www.quaddicted.com/files/idgames2/quakec/compilations/kal_qk-p.txt
-	https://www.quaddicted.com/files/idgames2/quakec/compilations/kal_qk-s.txt
-
 
 
 
