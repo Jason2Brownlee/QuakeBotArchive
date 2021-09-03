@@ -78,7 +78,7 @@ Eliminator Bot v1 | Jonathan Down aka "Perged" | [elim141.zip](bin/elim141.zip)
 Eliminator Bot v2 | Jonathan Down aka "Perged" and P. T. Craig aka "FuzzKatT" | [elim20b7.zip](bin/elim20b7.zip) ([txt](bin/elim20b7.txt))<br>elim20b6.zip
 Estep Bot (EsTePBot) | Enrique Gonzalez Alonso aka "EsTePaRiO" | [estepbot2eng.zip](bin/estepbot2eng.zip) ([txt](bin/estepbot2eng.txt))<br>[estepbot2.zip](bin/estepbot2.zip)
 Frag Bot | Richard Peacock aka "The Goat" | [fragbot.zip](bin/fragbot.zip) ([txt](bin/fragbot.txt))
-Frik-TF | Raymond Martineau | friktf-051901.zip<br>[friktf-092800.zip](bin/friktf-092800.zip)<br>[friktf-092800-src.zip](bin/friktf-092800-src.zip)<br>friktf-092800-qw.zip<br>friktf-092800.tar.gz<br>[friktf-051800.zip](bin/friktf-051800.zip)<br>[friktf-051800-qw.zip](bin/friktf-051800-qw.zip)<br>[friktf-051800-src.zip](bin/friktf-051800-src.zip)<br>frik-tf.zip<br>[friktfqw.zip](bin/friktfqw.zip)
+Frik-TeamFortress (Frik-TF) | Raymond Martineau | friktf-051901.zip<br>[friktf-092800.zip](bin/friktf-092800.zip)<br>[friktf-092800-src.zip](bin/friktf-092800-src.zip)<br>friktf-092800-qw.zip<br>friktf-092800.tar.gz<br>[friktf-051800.zip](bin/friktf-051800.zip)<br>[friktf-051800-qw.zip](bin/friktf-051800-qw.zip)<br>[friktf-051800-src.zip](bin/friktf-051800-src.zip)<br>frik-tf.zip<br>[friktfqw.zip](bin/friktfqw.zip)
 FrikBot + Artifact Quake (Runebot) | Chuck Parsons | [rnbt9.zip](bin/rnbt9.zip)<br>[rnbt4.2.zip](bin/rnbt4.2.zip) <br>rnbt3.6.zip<br>rnbt3.4.zip
 Frikbot + CTF | Benjamin Darling aka "Electro" | [frikbotctf_01.zip](bin/frikbotctf_01.zip)
 FrikBot + Deathmatch Essentials | Ryan Smith aka "Frika C" | [frikdme.zip](bin/frikdme.zip)
@@ -185,12 +185,12 @@ Tballman | "Mother" | [tballman.zip](bin/tballman.zip) ([txt](bin/tballman.txt))
 TD-BOT | ? | tdbot1_0.zip
 TD2 Mech Bot | ? | [mech.zip](bin/mech.zip)
 Team FMOD | "Shelob" | stfm10.zip
+Team Fortress  | Valery Schedrin aka "Forthpick" | [teamfbot.zip](bin/teamfbot.zip)
+Team Fortress (TFBot) | Jeff aka "wattsup" | [tfbot077.zip](bin/tfbot077.zip)<br>[tfbot076.zip](bin/tfbot076.zip)
+Team Fortress (TFBot) | Joern Strombach aka "Nexus" | [tfbot080.zip](bin/tfbot080.zip)
+Team Fortress (TFBot) | Wolfgang Lehrach aka "RainKing" | tfb-v07.zip
 Team Fortress Bots | Darryl Atchison aka "coffee" | [tf_bots07.zip](bin/tf_bots07.zip)
-TeamFortress Bot | Valery Schedrin aka "Forthpick" | [teamfbot.zip](bin/teamfbot.zip)
 TeamTalk+ (FMOD) | Algirdas Kepezinskas aka "ZeCybEr" | [ttalk.zip](bin/ttalk.zip)
-TFBots | Jeff aka "wattsup" | [tfbot077.zip](bin/tfbot077.zip)<br>[tfbot076.zip](bin/tfbot076.zip)
-TFBots | Joern Strombach aka "Nexus" | [tfbot080.zip](bin/tfbot080.zip)
-TFBots | Wolfgang Lehrach aka "RainKing" | tfb-v07.zip
 The Alf | Bjorn-Erik Solli aka "Jack O. Trade" | nnctf.zip<br>nnsource.zip
 The Lone Gunmen QuakeBOT (Larva) | James Cullen aka "Jaymz" and Chris Cullen aka "Incubus" | [tlgbot.zip](bin/tlgbot.zip) ([txt](bin/tlgbot.txt))
 The Moron Bot | Rich Whitehouse aka "thefatal" | [mbr1.zip](bin/mbr1.zip)<br>[mbr1_src.zip](bin/mbr1_src.zip)
