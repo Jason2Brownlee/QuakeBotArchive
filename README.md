@@ -185,10 +185,10 @@ Tballman | "Mother" | [tballman.zip](bin/tballman.zip) ([txt](bin/tballman.txt))
 TD-BOT | ? | tdbot1_0.zip
 TD2 Mech Bot | ? | [mech.zip](bin/mech.zip)
 Team FMOD | "Shelob" | stfm10.zip
-Team Fortress  | Valery Schedrin aka "Forthpick" | [teamfbot.zip](bin/teamfbot.zip)
 Team Fortress (TFBot) | Jeff aka "wattsup" | [tfbot077.zip](bin/tfbot077.zip)<br>[tfbot076.zip](bin/tfbot076.zip)
 Team Fortress (TFBot) | Joern Strombach aka "Nexus" | [tfbot080.zip](bin/tfbot080.zip)
 Team Fortress (TFBot) | Wolfgang Lehrach aka "RainKing" | tfb-v07.zip
+Team Fortress Bot  | Valery Schedrin aka "Forthpick" | [teamfbot.zip](bin/teamfbot.zip)
 Team Fortress Bots | Darryl Atchison aka "coffee" | [tf_bots07.zip](bin/tf_bots07.zip)
 TeamTalk+ (FMOD) | Algirdas Kepezinskas aka "ZeCybEr" | [ttalk.zip](bin/ttalk.zip)
 The Alf | Bjorn-Erik Solli aka "Jack O. Trade" | nnctf.zip<br>nnsource.zip
