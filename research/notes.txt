@@ -2297,7 +2297,18 @@ KALQuake
 	http://www.geocities.com/SiliconValley/Heights/7812/
 		https://web.archive.org/web/19990223222922/http://www.geocities.com/SiliconValley/Heights/7812/
 		???
-
+Orion TeamFortress / OrionTF / oriontf
+	Orion
+	has bots
+	https://www.quaketastic.com/files/multiplayer/mods/
+	https://www.quaketastic.com/?dir=files/multiplayer/mods
+	https://www.quaketastic.com/?m&dir=files/multiplayer/mods
+	https://www.quaketastic.com/files/multiplayer/mods/oriontf.zip
+	https://www.quaketastic.com/files/multiplayer/mods/oriontf_beta2.zip
+	https://www.quaketastic.com/files/multiplayer/mods/oriontf_beta3.zip
+	https://www.quaketastic.com/files/multiplayer/mods/oriontf_beta4.zip
+	might be based on tutor bot...
+	related to orion bots and dogeball?
 
 
 
@@ -2495,6 +2506,9 @@ imbot
 	is this real?
 	(could be iwbot with a typo?)
 	???
+quaketastic multiplayer
+	https://www.quaketastic.com/files/multiplayer/mods/
+	process all these files...
 frogbot + kt
 	https://www.quakeworld.nu/forum/topic/7068/new-frogbots
 	(server side) not released?
@@ -2546,12 +2560,7 @@ Quakability
 	https://web.archive.org/web/20191226211146fw_/http://users.skynet.be/bk236270/quakability.htm
 	https://www.quaketastic.com/files/multiplayer/mods/Quakability_2.1_-_NoMusicRepack.txt
 	https://www.quaketastic.com/files/multiplayer/mods/Quakability_2.1_-_NoMusicRepack.zip
-oriontf
-	has bots
-	https://www.quaketastic.com/files/multiplayer/mods/oriontf.zip
-	https://www.quaketastic.com/files/multiplayer/mods/oriontf_beta2.zip
-	https://www.quaketastic.com/files/multiplayer/mods/oriontf_beta3.zip
-	https://www.quaketastic.com/files/multiplayer/mods/oriontf_beta4.zip
+
 
 
 
