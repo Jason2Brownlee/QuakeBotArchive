@@ -2309,6 +2309,14 @@ Orion TeamFortress / OrionTF / oriontf
 	https://www.quaketastic.com/files/multiplayer/mods/oriontf_beta4.zip
 	might be based on tutor bot...
 	related to orion bots and dogeball?
+Awesome (Warbot)
+	https://www.quakewiki.net/quake-1/mods/awesome/
+	https://www.quakewiki.net/download/2677/
+	based on warbots v2.0
+		has a copy of warbots2.txt
+	Brett King
+	13 september 1998
+
 
 
 
