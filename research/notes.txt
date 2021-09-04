@@ -2316,6 +2316,11 @@ Awesome (Warbot)
 		has a copy of warbots2.txt
 	Brett King
 	13 september 1998
+	not related
+		https://www.quakewiki.net/archives/qca/reviews/patch25.htm
+		http://cd.textfiles.com/pdsl/HELP/GAMERTK.TXT
+		https://www.doomworld.com/idgames/utils/exe_edit/patches/
+		https://dukeworld.duke4.net/2001-current/unsorted/other/Duke%20Nukem%203D/Maps/Duke%20Match/1996/Maps/
 
 
 
@@ -2492,6 +2497,8 @@ Ultimate Deathmatch
 	2004
 	quake world?
 	???
+	has frikbots i think
+		https://www.quakewiki.net/archives/botarea51/main/favouritebots.html
 quake mods here that have a bot added
 	http://www.randars.com/bots/bots2.html
 frikbot mods
