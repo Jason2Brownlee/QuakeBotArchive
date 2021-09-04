@@ -1,0 +1,130 @@
+Title    : WarBot v2.0
+Filenames: warbot2.zip
+
+Version  : 2.0
+Date     : November 23, 1997
+Author   : Muhammad Hidayat Bin Sman
+
+Email    : grinder@pacific.net.sg
+
+Credits  : ID for making Quake and DOOM.
+
+           Steven Polge of Reaperbot v0.81 (of course)
+
+           Roscoe A. Sincero of the ReaperBot Improvement Protocols
+           without whom all this would not be possible.
+           
+           Dark_Skye of the 'Reapa' tutorials for helping with the
+           bot color assignments on the ranking screen.
+           
+           Jonathan E. Wright of Cujobot v1.4 and Zeus v2.05. Code
+           or ideas from Zeus were used in movement code.
+
+           Alan Kivlin of QCBot for his detailed instructions on how
+           to get the bots on the rankings and his accompanying source
+           code to add bots to rankings.
+
+           Harvey Lee of YCam (code used in WarBot was taken from Wes
+           Morrison's patch)
+
+           Mark Wheeler of Drastic-Reaper for pointing me in the right
+           direction while I was trying to fix the YCam bug.
+
+           Gyro Gearloose of Gyrobot v1.04 for identifying one of the
+           causes for edict losses.
+
+           Kenneth Yeung for Deathmatch Extras.
+
+           Negatory of Clan Trifixion and Frostbite of Clan CyberJunkies
+           for helping with the WarBot skins.
+
+
+
+============
+Type of Mod
+============
+
+Quake C  : yes, of course.
+Sound    : no
+MDL      : yes
+
+
+==================
+Format of Quake C
+==================
+
+unified diff  : no
+context diff  : no
+.qc files     : no
+progs.dat     : yes
+
+
+================
+Impulse commands
+================
+
+impulse 200     Increment skin (if skins support is set)
+impulse 201     Decrement skin (if skins support is set)
+impulse 202     Toggle skins support - three settings
+                (off, normal, skill skins)
+                With skill skins mode, bot skin
+                depends on its skill level
+impulse 205     add a bot (can do it repeatedly)
+impulse 208     add four bots
+impulse 211     remove all bots
+impulse 212     Toggle limited observer mode
+		   (you are invisible to bots unless you 
+		   attack them, but move normally)
+impulse 214     update bots. Use when the 
+		   SV_GRAVITY or SV_MAXSPEED 
+		   server cvars are changed.
+impulse 220     normal scores (frag count)
+impulse 221     update team colors (used to tell
+		   the bots on your team if you change
+		   colors)
+impulse 1XX     Bounds the total number of bots
+		   + players to XX (XX must no
+		   greater than 15)  Enough bots to
+		   meet this bound are spawned, and
+		   they leave and come back as players
+		   enter and leave the server.
+Skill N         Change skill level (N = 0 to 3, default
+		   is 1)
+impulse 15      YCam
+
+For a list of other impulse commands or instructions on using and/or
+installing the bot, download the reaperbot patch. Visit QuakeC Archives
+(http://www.planetquake.com/qca) for the instructions on how to install
+patches.
+
+Please read all accompanying text files included in the WarBot package.
+To start a game, use the following command line:
+
+quake -winmem 16 -game warbot -listen 16
+
+I suggest you play the Warbot with custom deathmatch maps. You don't have
+to but I find I get the most fun out of the WarBot this way. A good place
+to find some cool custom deathmatch maps would be Ramshackle at:
+http://www.planetquake.com/ramshackle .
+
+=================================
+Improvements over ReaperBot v0.81
+=================================
+
+1)  Bots appear on the ranking screen.
+2)  Bots have different colored shirts and pants.
+3)  Bots ranking screen color assignments work properly in GLQuake.
+4)  Impulse command messages are now printed onscreen in GLQuake.
+5)  Bots now have more "human-like" names.
+6)  Ycam feature implemented.
+7)  Deathmatch 3 mode implemented.
+8)  The old ReaperBot thumping sound bug eliminated.
+9)  The old ReaperBot weapon dissappearing bug/cheat fixed.
+10) Additional gibs, sound effects and alot of other cool stuff. :-)
+
+=========================
+Copyright and Permissions
+=========================
+
+Various portions of the code are copyrighted by various authors.  Please see
+credits above for list of authors. iD Software does not support this patch.
