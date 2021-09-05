@@ -2316,11 +2316,17 @@ Awesome (Warbot)
 		has a copy of warbots2.txt
 	Brett King
 	13 september 1998
+	https://www.quaddicted.com/files/maps/multiplayer/bulka.zip
+		bulka.zip
+		Brett. (BulkA)
 	not related
 		https://www.quakewiki.net/archives/qca/reviews/patch25.htm
 		http://cd.textfiles.com/pdsl/HELP/GAMERTK.TXT
 		https://www.doomworld.com/idgames/utils/exe_edit/patches/
 		https://dukeworld.duke4.net/2001-current/unsorted/other/Duke%20Nukem%203D/Maps/Duke%20Match/1996/Maps/
+		https://www.quaddicted.com/files/idgames2/quakec/compilations/awesome.txt
+	I think the name is wrong...
+
 
 
 
@@ -2579,7 +2585,9 @@ quake soccer
 	has bots?
 	http://forums.insideqc.com/viewtopic.php?f=1&t=1538
 	Orion
-
+Bot 'N Bits
+	https://www.quaddicted.com/files/idgames2/quakec/compilations/botnbits.txt
+	bgbot
 
 
 

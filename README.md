@@ -44,7 +44,7 @@ Accuracy FMOD | Algirdas Kepezinskas aka "ZeCybEr" | accuracy.zip
 Ache | Athos Konkoran Kryn | [ache.zip](bin/ache.zip)
 Asdf's FMOD | Matt McChesney aka "asdf" | [asdfmod100.zip](bin/asdfmod100.zip)
 Attacker | Jonathan Geary | [attacker.zip](bin/attacker.zip) ([txt](bin/attacker.txt))
-Awesome (Warbot) | Brett King | [awesome.7z](bin/awesome.7z)
+Awesome (Warbot) | Brett King aka "BulkA" | [awesome.7z](bin/awesome.7z)
 BGADM Bot | George Leithner aka "Detour" | [bgadm101.zip](bin/bgadm101.zip) ([txt](bin/bgadm101.txt))<br>bgadmbot.zip
 BGBot | Robert DeFilippo III aka "Punisher" | [bgbot20a.zip](bin/bgbot20a.zip) ([txt](bin/bgbot20a.txt))<br>[bgbot16.zip](bin/bgbot16.zip) ([txt](bin/bgbot16.txt))<br>[bgbot16_src.zip](bin/bgbot16_src.zip)<br>[bgbot15.zip](bin/bgbot15.zip) ([txt](bin/bgbot15.txt))<br>[bgbot13.zip](bin/bgbot13.zip) ([txt](bin/bgbot13.txt))<br>[bgbot125.zip](bin/bgbot125.zip) ([txt](bin/bgbot125.txt))<br>[bgbot12.zip](bin/bgbot12.zip) ([txt](bin/bgbot12.txt))<br>[bgbot11.zip](bin/bgbot11.zip) ([txt](bin/bgbot11.txt))<br>[bgbot1.zip](bin/bgbot1.zip) ([txt](bin/bgbot1.txt))
 Borg Bot | Calvin Rien | [borg12.zip](bin/borg12.zip) ([txt](bin/borg12.txt))

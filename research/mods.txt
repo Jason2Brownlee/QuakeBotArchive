@@ -1,0 +1,335 @@
+Candidate bot mods
+
+automatic searching of mod  txt files in idgames2/quakec/... for mentions of bots
+need to investigate each in turn to see if they use bots, then add to the archive
+
+this is required because google does not index the content of .txt files on
+FTP HTML webpages.
+
+--------------------------------------------------------------------------------
+
+https://www.quaddicted.com/files/idgames2/quakec/compilations/
+.237 files
+.118 txt files
+https://www.quaddicted.com/files/idgames2/quakec/compilations/abandon2.txt
+	Contains "cujo": other mods: cujo 1.4
+https://www.quaddicted.com/files/idgames2/quakec/compilations/abnd2a.txt
+	Contains "cujo": other mods: cujo 1.4
+https://www.quaddicted.com/files/idgames2/quakec/compilations/axxwars10.txt
+	Contains "cujo": 	airfist, runes, morphing, harpoons, proxmines, throwing axes, blazegun, camperkiller, random item respawn,   	  	restricted weapons, cujo, flares, sniperscope, feign death, fragreports, haste, jumping, gravity changes.
+	Contains "bots[,. ]": 	bots, seekers, guided missiles, snipers, realistic weapons, holos, pipebombs, cameras, remote admin, observer
+https://www.quaddicted.com/files/idgames2/quakec/compilations/baron.txt
+	Contains "cujo":            cujo11: jonathan e. wright-nelno@interpath.com
+	Contains "bot[,. ]": missles, and grenades teleport too; bodies are gibbable.  the demon bot,
+https://www.quaddicted.com/files/idgames2/quakec/compilations/botnbits.txt
+	Contains "reaper": +a nice short demo with a lotta gore in it (using reaper bots).
+	Contains "bgbot": credits  : the punisher (big thanx) - for bgbot code.
+	Contains "bot[,. ]": title    : bot 'n bits
+	Contains "bots[,. ]":  get rid of the bots unless you kill it. they also
+https://www.quaddicted.com/files/idgames2/quakec/compilations/cujgrap.txt
+	Contains "cujo": title    : me and my dog cujo
+	Contains "bot[,. ]": this bot is based on original dog code and some code from
+	Contains "bots[,. ]": like those bots do.  he's all auto or he's dead.
+https://www.quaddicted.com/files/idgames2/quakec/compilations/dkmjk20.txt
+	Contains "reaper":                 nick "the reaper" hay            /// wendyh@ihug.co.nz icq#5552987
+	Contains "zeus":  see wraith.txt for info. it's still not even half as good the zeusbot or
+	Contains "bot[,. ]":  see wraith.txt for info. it's still not even half as good the zeusbot or
+https://www.quaddicted.com/files/idgames2/quakec/compilations/dope_dm.txt
+	Contains "bots[,. ]": please note: this mod has no monsters or bots... deathmatch only.
+https://www.quaddicted.com/files/idgames2/quakec/compilations/fear.txt
+	Contains "reaper":  hmm...i definatly want to addon a deathmatch bot, like reaper bot or
+	Contains "cujo":         cujo - your very own attack dog
+	Contains "bot[,. ]":  hmm...i definatly want to addon a deathmatch bot, like reaper bot or
+https://www.quaddicted.com/files/idgames2/quakec/compilations/fear13.txt
+	Contains "cujo": ==>#cujo (jonathan wright nelno@interpath.com) - your very own personal attack
+https://www.quaddicted.com/files/idgames2/quakec/compilations/fear20.txt
+	Contains "cujo": ==> cujo (jonathan wright nelno@interpath.com) - yr very own personal attack
+https://www.quaddicted.com/files/idgames2/quakec/compilations/insane.txt
+	Contains "cujo": 		jonathan e. wright (for the making of cujo)
+https://www.quaddicted.com/files/idgames2/quakec/compilations/kal_qk-p.txt
+	Contains "wisp": wisp.zip - your own personal quake bot!  the wisp is a special friend...treat
+https://www.quaddicted.com/files/idgames2/quakec/compilations/kal_qk-s.txt
+	Contains "wisp": wisp.zip - your own personal quake bot!  the wisp is a special friend...treat
+https://www.quaddicted.com/files/idgames2/quakec/compilations/killer90.txt
+	Contains "cujo": credits  : cujo 1.x, blaze gun and bfg by jonathan e. wright (nelno@interpath.com)
+https://www.quaddicted.com/files/idgames2/quakec/compilations/kqp220z.txt
+	Contains "zeus":            zeus 2.x, cujo 1.x, blaze gun and bfg by jonathan e. wright (nelno@interpath.com)
+	Contains "cujo":            zeus 2.x, cujo 1.x, blaze gun and bfg by jonathan e. wright (nelno@interpath.com)
+	Contains "bot[,. ]":            zeusbot scoring list by alan kivlin (aka virtuoso)
+	Contains "bots[,. ]": temp1 16        - limit maximum number of helper bots to each player to 2.
+https://www.quaddicted.com/files/idgames2/quakec/compilations/lrkrz_01.txt
+	Contains "bot[,. ]":  dmbot - death match bot
+https://www.quaddicted.com/files/idgames2/quakec/compilations/madness.txt
+	Contains "reaper": 	grim reaper
+	Contains "bot[,. ]": then after a while everyone noticed a bot that was camping in a spot near
+https://www.quaddicted.com/files/idgames2/quakec/compilations/mixx97d.txt
+	Contains "reaper":         one thing i really really wanted to do is to put the reaper bot
+https://www.quaddicted.com/files/idgames2/quakec/compilations/oqcc092b.txt
+	Contains "wisp": 	   wisp version 1.0 by iikka paavolainen (ipaavola@cc.hut.fi)
+https://www.quaddicted.com/files/idgames2/quakec/compilations/painx166.txt
+	Contains "reaper": produce patches ranging from weapon mods to reaperbots which in effect create
+	Contains "bots[,. ]": produce patches ranging from weapon mods to reaperbots which in effect create
+https://www.quaddicted.com/files/idgames2/quakec/compilations/painx200.txt
+	Contains "reaper": produce patches ranging from weapon mods to reaperbots which in effect create
+	Contains "bots[,. ]": produce patches ranging from weapon mods to reaperbots which in effect create
+https://www.quaddicted.com/files/idgames2/quakec/compilations/qcap2.txt
+	Contains "reaper": might've even been able to make another reaper. :) but, quake is old now...
+	Contains "bot[,. ]": of how i made the co-op bot. if i forgot anyone, sorry. if you know of
+	Contains "bots[,. ]":               with "arse" and such. bots also have individual personalities
+https://www.quaddicted.com/files/idgames2/quakec/compilations/qplus.txt
+	Contains "reaper":            * stiven polge(polge@ix.netcom.com) for... yeah! the reaper bot!
+	Contains "cujo":            * jonathan e. wright(nelno@resurrection.com), for some cujo ai
+	Contains "bot[,. ]": * quademon helper bot (used some parts of cujo ai ,thanks to jonathan e. wright)
+	Contains "bots[,. ]": * reaperbots v0.8 beta (by stiven polge)
+https://www.quaddicted.com/files/idgames2/quakec/compilations/quakex12.txt
+	Contains "reaper": author info     : thomas hansen. aka reaper
+https://www.quaddicted.com/files/idgames2/quakec/compilations/sam-fragv001a.txt
+	Contains "bot[,. ]": 	the slow @ss modem frag multi-patch (for lack of a beter name) is a compilation of various other sources, including, but not limmited to, already existing patches (ie. bg bot 1.6), tutorial information, custom .cfg files, personal touches and (believe it or not) minor bug fixes. :-(there is a prob with the chase cam: can see through floors/walls/ect if too close)-:
+https://www.quaddicted.com/files/idgames2/quakec/compilations/turric03.txt
+	Contains "cujo": - play with cujo the super pooch.
+https://www.quaddicted.com/files/idgames2/quakec/compilations/ultimate.txt
+	Contains "zeus": -added a bot based on the zeus bot
+	Contains "bot[,. ]": -occasionally, a bot will freeze.  i haven't been able to pinpoint the problem, but it
+https://www.quaddicted.com/files/idgames2/quakec/compilations/ultra.txt
+	Contains "zeus": thanks go to: shadow stalker and mr? for inside.qc, nelno for the zeus and cujo skin's, armin rigo for quark, id software.
+	Contains "cujo": thanks go to: shadow stalker and mr? for inside.qc, nelno for the zeus and cujo skin's, armin rigo for quark, id software.
+https://www.quaddicted.com/files/idgames2/quakec/compilations/urqp104a.txt
+	Contains "eliminator":   http://www.planetquake.com/eliminator/
+https://www.quaddicted.com/files/idgames2/quakec/compilations/wqmodv.8.txt
+	Contains "reaper": and run quake! to run with reaperbot for example just type quake -game
+	Contains "bot[,. ]": can have rpbot or most other bots running with thish patch too. except
+	Contains "bots[,. ]": can have rpbot or most other bots running with thish patch too. except
+Done.
+[Finished in 121.9s]
+
+
+--------------------------------------------------------------------------------
+
+
+https://www.quaddicted.com/files/idgames2/quakec/deathmatch/
+.90 files
+.45 txt files
+https://www.quaddicted.com/files/idgames2/quakec/deathmatch/manhunt.txt
+	Contains "cujo": -a dog!!! cujo, heh heh heh
+https://www.quaddicted.com/files/idgames2/quakec/deathmatch/money21.txt
+	Contains "cujo": 	   the person who made the cujo skin for my elite dog.
+https://www.quaddicted.com/files/idgames2/quakec/deathmatch/money23.txt
+	Contains "cujo": 	   the person who made the cujo skin for my elite dog.
+https://www.quaddicted.com/files/idgames2/quakec/deathmatch/player.txt
+	Contains "bot[,. ]": author of the placebot patch for quake
+https://www.quaddicted.com/files/idgames2/quakec/deathmatch/playsrc.txt
+	Contains "bot[,. ]": author of the placebot patch for quake
+https://www.quaddicted.com/files/idgames2/quakec/deathmatch/qwplayer.txt
+	Contains "bot[,. ]": author of the placebot patch for quake
+https://www.quaddicted.com/files/idgames2/quakec/deathmatch/resume.txt
+	Contains "reaper":    a patch along the lines of 'reaperbots as monsters', which
+	Contains "bots[,. ]":    a patch along the lines of 'reaperbots as monsters', which
+https://www.quaddicted.com/files/idgames2/quakec/deathmatch/td2063en.txt
+	Contains "bots[,. ]": oh yeah... it has no bots. sorry. "quake1 human dm" only..
+https://www.quaddicted.com/files/idgames2/quakec/deathmatch/td263eqw.txt
+	Contains "bots[,. ]": oh yeah... it has no bots. sorry. "quake1 human dm" only..
+https://www.quaddicted.com/files/idgames2/quakec/deathmatch/visweap.txt
+	Contains "reaper":  because of the reaper copyright.
+Done.
+[Finished in 45.9s]
+
+
+--------------------------------------------------------------------------------
+
+
+https://www.quaddicted.com/files/idgames2/quakec/misc/
+.333 files
+.170 txt files
+https://www.quaddicted.com/files/idgames2/quakec/misc/coolgib1.txt
+	Contains "reaper": author info     : thomas hansen. aka grim reaper
+https://www.quaddicted.com/files/idgames2/quakec/misc/cqmp1v03.txt
+	Contains "reaper": author info     : thomas hansen. aka: grim reaper, lord of tki.
+https://www.quaddicted.com/files/idgames2/quakec/misc/cqmp2v04.txt
+	Contains "reaper": author info     : thomas hansen. aka: grim reaper, lord of tki.
+	Contains "bots[,. ]":                   leader of the game. (i heard q3 has bots by id ???)
+https://www.quaddicted.com/files/idgames2/quakec/misc/creepc17.txt
+	Contains "frogbot":   robert field. (author of the frogbot)
+	Contains "bot[,. ]":   the recently released omicron bot is very similar. (i had already written and tested this
+https://www.quaddicted.com/files/idgames2/quakec/misc/flames.txt
+	Contains "bot[,. ]": thanks to the author of dmbot for the template to this file.
+https://www.quaddicted.com/files/idgames2/quakec/misc/qfltr002.txt
+	Contains "zeus": oh yeah speaking of bots - i got a copy of the latest zeusbot - this bot
+	Contains "bot[,. ]": i am currently working on a quakec bot which currently goes by the name of
+	Contains "bots[,. ]": oh yeah speaking of bots - i got a copy of the latest zeusbot - this bot
+https://www.quaddicted.com/files/idgames2/quakec/misc/req_se.txt
+	Contains "bot[,. ]":   both nailguns or bot grenade and rocket launcher. this will give you
+	Contains "bots[,. ]": controlled robots, or regular single-player mode against the usual
+https://www.quaddicted.com/files/idgames2/quakec/misc/scramble.txt
+	Contains "bot[,. ]": bot  		: no
+https://www.quaddicted.com/files/idgames2/quakec/misc/sigil05b.txt
+	Contains "bot[,. ]": bot         :   no
+Done.
+[Finished in 167.2s]
+
+--------------------------------------------------------------------------------
+
+https://www.quaddicted.com/files/idgames2/quakec/teamplay/
+.50 files
+.24 txt files
+Done.
+[Finished in 26.0s]
+
+
+--------------------------------------------------------------------------------
+
+https://www.quaddicted.com/files/idgames2/quakec/weapons/
+.654 files
+.327 txt files
+https://www.quaddicted.com/files/idgames2/quakec/weapons/axe_love.txt
+	Contains "reaper": reaper bot or so), while the opponent dies and respawns (or keeps looking;
+	Contains "bot[,. ]": reaper bot or so), while the opponent dies and respawns (or keeps looking;
+https://www.quaddicted.com/files/idgames2/quakec/weapons/bfg11.txt
+	Contains "cujo":            check here for the latest updates to cujo, bfg, the
+https://www.quaddicted.com/files/idgames2/quakec/weapons/biggun40.txt
+	Contains "reaper": given to you by: thomas hansen. aka: grim reaper.
+https://www.quaddicted.com/files/idgames2/quakec/weapons/blaze10.txt
+	Contains "cujo": other mods: cujo (cujo12c.zip)
+https://www.quaddicted.com/files/idgames2/quakec/weapons/blaze11.txt
+	Contains "cujo": other mods: cujo (cujo12c.zip), bfg-9500 (bfg10.zip)
+https://www.quaddicted.com/files/idgames2/quakec/weapons/bouncer.txt
+	Contains "reaper": reaperman on the quakeservers
+https://www.quaddicted.com/files/idgames2/quakec/weapons/dm_mod.txt
+	Contains "bots[,. ]": enforcers are wanna be dm-bots w/ plasma launcher
+https://www.quaddicted.com/files/idgames2/quakec/weapons/dogfun13.txt
+	Contains "bgbot": made     :bgbot v1.5
+	Contains "cujo": cujo v1.0
+	Contains "bot[,. ]": bg_bot v1.5
+https://www.quaddicted.com/files/idgames2/quakec/weapons/firework.txt
+	Contains "reaper": sewers.bsp is excellent with reaper bots and good for tournaments and such
+	Contains "bots[,. ]": sewers.bsp is excellent with reaper bots and good for tournaments and such
+https://www.quaddicted.com/files/idgames2/quakec/weapons/fragrock.txt
+	Contains "reaper": reaperman on the quakeservers
+https://www.quaddicted.com/files/idgames2/quakec/weapons/freakn13.txt
+	Contains "reaper": author info     : thomas hansen. aka reaper
+https://www.quaddicted.com/files/idgames2/quakec/weapons/gatlas11.txt
+	Contains "reaper": given to you by: thomas hansen. aka: grimm reaper.
+https://www.quaddicted.com/files/idgames2/quakec/weapons/hitechwp11.txt
+	Contains "reaper": plasma reaper		   4		2 plasma cells
+https://www.quaddicted.com/files/idgames2/quakec/weapons/invmines.txt
+	Contains "reaper":  to steven polge for the reaper bots.
+	Contains "bots[,. ]":  to steven polge for the reaper bots.
+https://www.quaddicted.com/files/idgames2/quakec/weapons/madness.txt
+	Contains "reaper": 	grim reaper
+	Contains "bot[,. ]":            tim polucha (co-designer, playtester)    |- for the dmbot (snot)
+https://www.quaddicted.com/files/idgames2/quakec/weapons/maniac57.txt
+	Contains "reaper": author info     : thomas hansen. aka grim reaper
+	Contains "bgbot": 3:make cujo cooperate with bgbot, in single player game
+	Contains "cujo": 3:make cujo cooperate with bgbot, in single player game
+	Contains "bot[,. ]": 3:make cujo cooperate with bgbot, in single player game
+https://www.quaddicted.com/files/idgames2/quakec/weapons/mmrckt10.txt
+	Contains "cujo": credits  : jonathon wright(cujo v1.4 spawn code)
+	Contains "bot[,. ]": i liked jonathon wright's cujo bot distribution policy so i
+https://www.quaddicted.com/files/idgames2/quakec/weapons/pistol13.txt
+	Contains "bot[,. ]": author info             : made bot hunt 1.0, ate a lot of food, likes
+https://www.quaddicted.com/files/idgames2/quakec/weapons/plasma10.txt
+	Contains "cujo":            check here for the latest updates to cujo, bfg, the
+https://www.quaddicted.com/files/idgames2/quakec/weapons/pnc1_02b.txt
+	Contains "reaper":                           against 3 skill-3 reaper's and pancy...
+https://www.quaddicted.com/files/idgames2/quakec/weapons/punchgun.txt
+	Contains "reaper": contact me. mail also for updates, i plan to add the reaper-bot.
+	Contains "bot[,. ]": contact me. mail also for updates, i plan to add the reaper-bot.
+https://www.quaddicted.com/files/idgames2/quakec/weapons/qbomb10i.txt
+	Contains "reaper": author info     : thomas s hansen. aka: grim reaper   corp:tki
+https://www.quaddicted.com/files/idgames2/quakec/weapons/qcannon1.txt
+	Contains "bgbot":                (i look at his bgbot code _all_ the time (and i mean
+	Contains "bot[,. ]":                (i look at his bgbot code _all_ the time (and i mean
+https://www.quaddicted.com/files/idgames2/quakec/weapons/qdme11.txt
+	Contains "bot[,. ]":            to the author of qbot v1.1 (the best quake computer opponent out
+https://www.quaddicted.com/files/idgames2/quakec/weapons/ultimate.txt
+	Contains "bot[,. ]": -a bot for deathmatch
+https://www.quaddicted.com/files/idgames2/quakec/weapons/xtrawp19.txt
+	Contains "reaper": reaperman on the quakeservers
+https://www.quaddicted.com/files/idgames2/quakec/weapons/zapdart1.txt
+	Contains "bots[,. ]":   quakec to all the advanced bots you've ever fought will.  well, screw you.
+Done.
+[Finished in 318.1s]
+
+
+--------------------------------------------------------------------------------
+
+
+https://www.quaddicted.com/files/idgames2/quakec/monsters/
+.192 files
+.96 txt files
+https://www.quaddicted.com/files/idgames2/quakec/monsters/chthon10.txt
+	Contains "reaper": 	   steve polge - polge@ix.netcom.com - reaper bot - centerprinted
+	Contains "bot[,. ]": 	   adapted from bot player)
+https://www.quaddicted.com/files/idgames2/quakec/monsters/dogfun16.txt
+	Contains "reaper": given to you by: thomas hansen. aka: reaper, creator of total kill inc.(tki)
+	Contains "bgbot": made     :bgbot v1.5
+	Contains "cujo": created a cujo model with 2 textures....
+	Contains "bot[,. ]": bg_bot v1.5
+https://www.quaddicted.com/files/idgames2/quakec/monsters/dogfun20.txt
+	Contains "reaper": given to you by: thomas hansen. aka: grim reaper
+	Contains "bgbot": made     :bgbot v1.5
+	Contains "cujo": -created a cujo model with 2 textures....
+	Contains "bot[,. ]": -bg_bot v1.5
+https://www.quaddicted.com/files/idgames2/quakec/monsters/dogplay.txt
+	Contains "reaper": a new player.mdl for use in deathmatch. it is a re-assembled animation of id softwares dog.mdl. the thing about this is, it uses no quakec so you can use them with bots or deathmatch mods (like ctf, team fortress, etc.). in some area's the running animation is "choppy" because i had to go along with the player's animation. i just tried it with a reaper bot, and i must say..you haven't seen anything until you've seen a dog puke out a rocket in your face.....every quake monster is being converted to the player.mdl as we speak...expect more soon...
+	Contains "bot[,. ]": a new player.mdl for use in deathmatch. it is a re-assembled animation of id softwares dog.mdl. the thing about this is, it uses no quakec so you can use them with bots or deathmatch mods (like ctf, team fortress, etc.). in some area's the running animation is "choppy" because i had to go along with the player's animation. i just tried it with a reaper bot, and i must say..you haven't seen anything until you've seen a dog puke out a rocket in your face.....every quake monster is being converted to the player.mdl as we speak...expect more soon...
+	Contains "bots[,. ]": a new player.mdl for use in deathmatch. it is a re-assembled animation of id softwares dog.mdl. the thing about this is, it uses no quakec so you can use them with bots or deathmatch mods (like ctf, team fortress, etc.). in some area's the running animation is "choppy" because i had to go along with the player's animation. i just tried it with a reaper bot, and i must say..you haven't seen anything until you've seen a dog puke out a rocket in your face.....every quake monster is being converted to the player.mdl as we speak...expect more soon...
+https://www.quaddicted.com/files/idgames2/quakec/monsters/dragons.txt
+	Contains "bot[,. ]": quake c  : yes (type:  monster/bot hybrid)
+https://www.quaddicted.com/files/idgames2/quakec/monsters/duke33.txt
+	Contains "reaper": given to you by: thomas hansen. aka: grim reaper.
+https://www.quaddicted.com/files/idgames2/quakec/monsters/maniac55.txt
+	Contains "reaper": author info     : thomas hansen. aka grimm reaper
+	Contains "bgbot": cujo hate bgbot's even in single player game
+	Contains "cujo": cujo hate bgbot's even in single player game
+	Contains "bot[,. ]": this is now possible. (bg bot v 1.5)
+	Contains "bots[,. ]": in deathmatch (at any time) 5 bots will be created.
+https://www.quaddicted.com/files/idgames2/quakec/monsters/models16.txt
+	Contains "reaper": author info     : thomas hansen. aka grim reaper,   lord of tki.
+https://www.quaddicted.com/files/idgames2/quakec/monsters/monqp11.txt
+	Contains "bot[,. ]":     -- a cyborg type robot replaces the enforcer
+https://www.quaddicted.com/files/idgames2/quakec/monsters/ogrehunt98.txt
+	Contains "zeus": -arrrrrgh! i forgot to remove this section....oh well. the bots didn't do too well anyway against smart monsters. jeez....what a slaugter. you see your favorite zeus bot running down the hall to get the rl and wham! 5 monsters jump the sucker and shread him like paper....pitiful....jonathan would cry like a baby if he heard this.
+	Contains "bot[,. ]": -any bot i can sneak into the final product.
+	Contains "bots[,. ]": -arrrrrgh! i forgot to remove this section....oh well. the bots didn't do too well anyway against smart monsters. jeez....what a slaugter. you see your favorite zeus bot running down the hall to get the rl and wham! 5 monsters jump the sucker and shread him like paper....pitiful....jonathan would cry like a baby if he heard this.
+https://www.quaddicted.com/files/idgames2/quakec/monsters/qdragon.txt
+	Contains "bot[,. ]": quake c  : yes (type:  monster/bot hybrid)
+https://www.quaddicted.com/files/idgames2/quakec/monsters/revenge1.txt
+	Contains "bot[,. ]":        a good dm bot.
+https://www.quaddicted.com/files/idgames2/quakec/monsters/rumble.txt
+	Contains "zeus": thehunt '98 single player mod    version 5.1z:zeus hunt
+	Contains "bot[,. ]": -any bot i can sneak into the final product.
+	Contains "bots[,. ]": -arrrrrgh! i forgot to remove this section....oh well. the bots didn't do too well anyway against smart monsters. jeez....what a slaugter. you see your favorite zeus bot running down the hall to get the rl and wham! 5 monsters jump the sucker and shread him like paper....pitiful....jonathan would cry like a baby if he heard this.
+https://www.quaddicted.com/files/idgames2/quakec/monsters/rumble1.txt
+	Contains "zeus": thehunt '98 coop mod    version 5.1z:zeus hunt
+	Contains "bot[,. ]": d-spawn monster bot(zeusbot challenge)
+	Contains "bots[,. ]": 5.2z: added in a final touch to the monster ai to give zeus bots a whup-whup ass they'll never forget.
+https://www.quaddicted.com/files/idgames2/quakec/monsters/rumble2.txt
+	Contains "zeus": 	     jonathan e. wright (nelno@interpath.com) (code from "zeus").
+	Contains "bot[,. ]": 	     the new bot movement code !
+	Contains "bots[,. ]": 200 nowadays <g>) there is a built-in limit of three guard bots for any level.
+https://www.quaddicted.com/files/idgames2/quakec/monsters/scorp11.txt
+	Contains "reaper": given to you by: thomas hansen. aka: grimm reaper.
+https://www.quaddicted.com/files/idgames2/quakec/monsters/scraghunt.txt
+	Contains "bot[,. ]": -any bot i can sneak into the final product.
+https://www.quaddicted.com/files/idgames2/quakec/monsters/scraghunt98.txt
+	Contains "zeus": -arrrrrgh! i forgot to remove this section....oh well. the bots didn't do too well anyway against smart monsters. jeez....what a slaugter. you see your favorite zeus bot running down the hall to get the rl and wham! 5 monsters jump the sucker and shread him like paper....pitiful....jonathan would cry like a baby if he heard this.
+	Contains "bot[,. ]": -any bot i can sneak into the final product.
+	Contains "bots[,. ]": -arrrrrgh! i forgot to remove this section....oh well. the bots didn't do too well anyway against smart monsters. jeez....what a slaugter. you see your favorite zeus bot running down the hall to get the rl and wham! 5 monsters jump the sucker and shread him like paper....pitiful....jonathan would cry like a baby if he heard this.
+https://www.quaddicted.com/files/idgames2/quakec/monsters/senf201.txt
+	Contains "cujo": thanks   : id and peoples who helped make quake, also the people who made cujo bot for their great dog skin!
+	Contains "bot[,. ]": thanks   : id and peoples who helped make quake, also the people who made cujo bot for their great dog skin!
+https://www.quaddicted.com/files/idgames2/quakec/monsters/thehunt98.txt
+	Contains "zeus": -arrrrrgh! i forgot to remove this section....oh well. the bots didn't do too well anyway against smart monsters. jeez....what a slaugter. you see your favorite zeus bot running down the hall to get the rl and wham! 5 monsters jump the sucker and shread him like paper....pitiful....jonathan would cry like a baby if he heard this.
+	Contains "bot[,. ]": -any bot i can sneak into the final product.
+	Contains "bots[,. ]": -arrrrrgh! i forgot to remove this section....oh well. the bots didn't do too well anyway against smart monsters. jeez....what a slaugter. you see your favorite zeus bot running down the hall to get the rl and wham! 5 monsters jump the sucker and shread him like paper....pitiful....jonathan would cry like a baby if he heard this.
+https://www.quaddicted.com/files/idgames2/quakec/monsters/thehuntse.txt
+	Contains "zeus": -arrrrrgh! i forgot to remove this section....oh well. the bots didn't do too well anyway against smart monsters. jeez....what a slaugter. you see your favorite zeus bot running down the hall to get the rl and wham! 5 monsters jump the sucker and shread him like paper....pitiful....jonathan would cry like a baby if he heard this.
+	Contains "bot[,. ]": -any bot i can sneak into the final product.
+	Contains "bots[,. ]": -arrrrrgh! i forgot to remove this section....oh well. the bots didn't do too well anyway against smart monsters. jeez....what a slaugter. you see your favorite zeus bot running down the hall to get the rl and wham! 5 monsters jump the sucker and shread him like paper....pitiful....jonathan would cry like a baby if he heard this.
+https://www.quaddicted.com/files/idgames2/quakec/monsters/zombie11.txt
+	Contains "reaper": author info     : thomas hansen. aka reaper
+Done.
+[Finished in 94.5s]
+
+
+
