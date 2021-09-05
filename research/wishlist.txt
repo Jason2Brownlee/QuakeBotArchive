@@ -5,6 +5,7 @@ A wishlist of lowercase bot filenames sorted alphabetically.
 --------------------------------------------------------------------------------
 
 2000.zip
+abandon1.zip
 accuracy.zip
 bgadmbot.zip
 bm116se.zip

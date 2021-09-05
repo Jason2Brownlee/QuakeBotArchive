@@ -40,6 +40,7 @@ Alphabetical list of Quake bot names, authors, and local download links for all 
 
 Bot Name | Bot Author(s) | File
 --- | --- | ---
+Abandon All Hope | John McClure | [abandon2.zip](bin/abandon2.zip) ([txt](bin/abandon2.txt))<br>abandon1.zip
 Accuracy FMOD | Algirdas Kepezinskas aka "ZeCybEr" | accuracy.zip
 Ache | Athos Konkoran Kryn | [ache.zip](bin/ache.zip)
 Asdf's FMOD | Matt McChesney aka "asdf" | [asdfmod100.zip](bin/asdfmod100.zip)

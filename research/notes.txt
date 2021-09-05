@@ -2326,7 +2326,15 @@ Awesome (Warbot)
 		https://dukeworld.duke4.net/2001-current/unsorted/other/Duke%20Nukem%203D/Maps/Duke%20Match/1996/Maps/
 		https://www.quaddicted.com/files/idgames2/quakec/compilations/awesome.txt
 	I think the name is wrong...
-
+Abandon All Hope
+	https://www.quaddicted.com/files/idgames2/quakec/compilations/abandon2.txt
+	https://www.quaddicted.com/files/idgames2/quakec/compilations/abandon2.zip
+	uses cujo v1.4
+	http://www.miteksys.com/death
+		https://web.archive.org/web/20000411060051/http://www.miteksys.com/death
+		https://web.archive.org/web/*/www.miteksys.com/*
+	http://www.miteksys.com/death/abandon1.zip
+		old version?
 
 
 
