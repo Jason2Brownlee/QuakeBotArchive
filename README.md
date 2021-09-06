@@ -41,9 +41,9 @@ Alphabetical list of Quake bot names, authors, and local download links for all 
 Bot Name | Bot Author(s) | File
 --- | --- | ---
 Abandon All Hope (Cujo) | John McClure | [abnd2a.zip](bin/abnd2a.zip) ([txt](bin/abnd2a.txt))<br>[abandon2.zip](bin/abandon2.zip) ([txt](bin/abandon2.txt))<br>abandon1.zip
-Accuracy FMOD | Algirdas Kepezinskas aka "ZeCybEr" | accuracy.zip
-Ache | Athos Konkoran Kryn | [ache.zip](bin/ache.zip)
-Asdf's FMOD | Matt McChesney aka "asdf" | [asdfmod100.zip](bin/asdfmod100.zip)
+Accuracy FMOD (Frogbot) | Algirdas Kepezinskas aka "ZeCybEr" | accuracy.zip
+Ache (Frikbot) | Athos Konkoran Kryn | [ache.zip](bin/ache.zip)
+Asdf's FMOD (Frogbot) | Matt McChesney aka "asdf" | [asdfmod100.zip](bin/asdfmod100.zip)
 Attacker | Jonathan Geary | [attacker.zip](bin/attacker.zip) ([txt](bin/attacker.txt))
 Awesome (Warbot) | Brett King aka "BulkA" | [awesome.7z](bin/awesome.7z)
 AxxWars (Cujo, Eliminator) | Akke Monasso | [axxwars10.zip](bin/axxwars10.zip) ([txt](bin/axxwars10.txt))
@@ -52,7 +52,7 @@ BGBot | Robert DeFilippo III aka "Punisher" | [bgbot20a.zip](bin/bgbot20a.zip) (
 Borg Bot | Calvin Rien | [borg12.zip](bin/borg12.zip) ([txt](bin/borg12.txt))
 Bot Hunt | Douglas H. King aka "Sea4" | [bthnt10.zip](bin/bthnt10.zip) ([txt](bin/bthnt10.txt))
 Bot Player (BPlayer) | Wolfgang Lehrach aka "Wolf" | [bplayer2.zip](bin/bplayer2.zip)<br>bplayer1.zip ([txt](bin/bplayer1.txt))
-BotArena | Fabiano D. Amorim aka "Vegetous" | [botarena.zip](bin/botarena.zip)<br>[bt_scr.zip](bin/bt_scr.zip)
+BotArena (FrikBot) | Fabiano D. Amorim aka "Vegetous" | [botarena.zip](bin/botarena.zip)<br>[bt_scr.zip](bin/bt_scr.zip)
 BotSkin | Warren Cheung aka "WACko" | [btskn22.zip](bin/btskn22.zip) ([txt](bin/btskn22.txt))<br>botskn21.zip<br>[botskn20.zip](bin/botskn20.zip) ([txt](bin/botskn20.txt))<br>botskn19.zip<br>[botskn18.zip](bin/botskn18.zip) ([txt](bin/botskn18.txt))<br>botskn17.zip<br>botskn14.zip<br>botskn13.zip<br>botskn12.zip<br>[botskn10.zip](bin/botskn10.zip)
 BrBot | "DRaKuLL" | [brbot.7z](bin/brbot.7z) <br>[brbotqc.zip](bin/brbotqc.zip)<br>brbot.exe
 BuddyBot | "Parsec" | [bbot_b1.zip](bin/bbot_b1.zip) <br>[bbot_b11.zip](bin/bbot_b11.zip)
@@ -73,7 +73,7 @@ DM Bot | Nathaniel Gorham | [dmbot1.zip](bin/dmbot1.zip) ([txt](bin/dmbot1.txt))
 DOBBSBot | Stephen Dobbs | [dobbsbot15bwp.zip](bin/dobbsbot15bwp.zip)<br>dobbsbot15b.zip<br>[dobbsbot15a.zip](bin/dobbsbot15a.zip)
 Doombot | Roscoe A. Sincero aka "Legion" | [dmbt21b3.zip](bin/dmbt21b3.zip) ([txt](bin/dmbt21b3.txt))<br>dmbt21b1.zip<br>dmbt20b3.zip<br>dmbt20b2.zip<br>doombot.zip
 Drastic Reaper Bot | Mark Wheeler | [dreaper.zip](bin/dreaper.zip) ([txt](bin/dreaper.txt))<br>[dreaper1e.zip](bin/dreaper1e.zip)
-Drop Quad/Ring (FMOD) | Brian Mathiasen aka "EraZoR" | [quadring.zip](bin/quadring.zip)
+Drop Quad/Ring (Frogbot) | Brian Mathiasen aka "EraZoR" | [quadring.zip](bin/quadring.zip)
 EdBot | Edward Dawson aka "HotCakes" | [edbot0-04.zip](bin/edbot0-04.zip) <br>[edbotsrc0-04.zip](bin/edbotsrc0-04.zip)
 ELFBOt | "SkinSki" aka "MauveBib" | [elfbot.zip](bin/elfbot.zip)
 Eliminator Bot (CBot) | Cameron B. Newham | [elim14.zip](bin/elim14.zip) ([txt](bin/elim14.txt))<br>[elimsrc.zip](bin/elimsrc.zip)<br>elim13.zip<br>[elim12.zip](bin/elim12.zip) ([txt](bin/elim12.txt))<br>[elimtst1.zip](bin/elimtst1.zip) <br>[elim11.zip](bin/elim11.zip) ([txt](bin/elim11.txt))<br>elim10.zip ([txt](bin/elim10.txt))
@@ -123,44 +123,44 @@ GlacierBot | Rainier Rapera aka "IceDagger" | [gb027b.zip](bin/gb027b.zip)<br>gb
 GuardBot | Peter van Wingerden | [grdbot23.zip](bin/grdbot23.zip) ([txt](bin/grdbot23.txt))<br>grdbot13.zip<br>guardbot.zip
 GYPObot | Stephen Dobbs | [gypobot.zip](bin/gypobot.zip)
 Hellsmash | Khin Mannering aka "Dr. Shadowborg" | [qsr04apatch1.7z](bin/qsr04apatch1.7z)<br>[qsr04a.7z](bin/qsr04a.7z)<br>[qsrbeta3a.zip](bin/qsrbeta3a.zip)<br>[qsrbeta3a_src.zip](bin/qsrbeta3a_src.zip)<br>[qsrbeta3x.zip](bin/qsrbeta3x.zip)<br>[qsrbeta3.zip](bin/qsrbeta3.zip)<br>qsrbeta1b.zip<br>qsrbeta1.zip
-Holo Soldier FMOD | Algirdas Kepezinskas aka "ZeCybEr" | holomod.zip
+Holo Soldier FMOD (Frogbot) | Algirdas Kepezinskas aka "ZeCybEr" | holomod.zip
 Human Bot (Hbot) | Jeffrey Lee | [hbot.zip](bin/hbot.zip)
 Indecisive Bot (Gyrobot) | Aaron Logue aka "Gyro Gearloose" | [gyrobot.zip](bin/gyrobot.zip) ([txt](bin/gyrobot.txt))<br>[gbotsrc.zip](bin/gbotsrc.zip)
 IronWulvt's Deathmatch Bot | Ben Garrod aka "IronWulvt" | [iwbot21.zip](bin/iwbot21.zip) ([txt](bin/iwbot21.txt))<br>iwbot20.zip<br>[iwbot16.zip](bin/iwbot16.zip)<br>iwbot15.zip<br>[iwbot1.zip](bin/iwbot1.zip) ([txt](bin/iwbot1.txt))
 JBot | Jeffrey Lee | [jbot.zip](bin/jbot.zip)
 Kagero Bot | "The Kwanster" | [kagero.zip](bin/kagero.zip)
-KALQuake | Kenneth Livingston aka "-=CT=-KALWeb " | [kal_qk-p.zip](bin/kal_qk-p.zip) ([txt](bin/kal_qk-p.txt))<br>[kal_qk-s.zip](bin/kal_qk-s.zip) ([txt](bin/kal_qk-s.txt))
+KALQuake (Wisp) | Kenneth Livingston aka "-=CT=-KALWeb " | [kal_qk-p.zip](bin/kal_qk-p.zip) ([txt](bin/kal_qk-p.txt))<br>[kal_qk-s.zip](bin/kal_qk-s.zip) ([txt](bin/kal_qk-s.txt))
 KarNag Bot | Ken Madlener | [knbot45.zip](bin/knbot45.zip) ([txt](bin/knbot45.txt))<br>[knbot03.zip](bin/knbot03.zip)
-Khol's FMODS | "Khol" | kfmod.zip
+Khol's FMODS (Frogbot) | "Khol" | kfmod.zip
 Killer Qcbot | William  Ravaine aka "Killer-Sub" | [kqcbots095b.zip](bin/kqcbots095b.zip) ([txt](bin/kqcbots095b.txt))<br>kqcbotsource.zip
-Killer Quake Pack (KQP) | Howard Roy aka "Solo" | [kqp220z.zip](bin/kqp220z.zip) ([txt](bin/kqp220z.txt))<br>[kqp210z.zip](bin/kqp210z.zip)<br>[kqp200z.zip](bin/kqp200z.zip) ([txt](bin/kqp200z.txt))<br>[kqp100.zip](bin/kqp100.zip)<br>[killer90.zip](bin/killer90.zip) ([txt](bin/killer90.txt))<br>killer87.zip<br>killer86b.zip<br>killer86.zip<br>[killer85.zip](bin/killer85.zip)<br>killer80.zip
-Kommando Kwake | Andreas M. and Stefan M. | kok220.zip<br>kok210.zip<br>kok2.zip
+Killer Quake Pack (KQP) (Zeus, Cujo) | Howard Roy aka "Solo" | [kqp220z.zip](bin/kqp220z.zip) ([txt](bin/kqp220z.txt))<br>[kqp210z.zip](bin/kqp210z.zip)<br>[kqp200z.zip](bin/kqp200z.zip) ([txt](bin/kqp200z.txt))<br>[kqp100.zip](bin/kqp100.zip)<br>[killer90.zip](bin/killer90.zip) ([txt](bin/killer90.txt))<br>killer87.zip<br>killer86b.zip<br>killer86.zip<br>[killer85.zip](bin/killer85.zip)<br>killer80.zip
+Kommando Kwake (Reaper) | Andreas M. and Stefan M. | kok220.zip<br>kok210.zip<br>kok2.zip
 Kooliobot | Robert de Heus aka "Koolio" | [kooliobot.zip](bin/kooliobot.zip)<br>koolio.zip
-Lightning Gun Competition (LGC) | Phil Romov aka "peheyele" | [lgc3.zip](bin/lgc3.zip)<br>[lgc2c.zip](bin/lgc2c.zip)<br>[lgc2.zip](bin/lgc2.zip)<br>[lgc.zip](bin/lgc.zip)
+Lightning Gun Competition (LGC) (Frogbot) | Phil Romov aka "peheyele" | [lgc3.zip](bin/lgc3.zip)<br>[lgc2c.zip](bin/lgc2c.zip)<br>[lgc2.zip](bin/lgc2.zip)<br>[lgc.zip](bin/lgc.zip)
 Lithium CTF Bot | Juan Ignacio Rava aka "Johnny" | [lith091c.zip](bin/lith091c.zip)
 LoydBot | Loyd aka "Juninho" | [lbotv10.zip](bin/lbotv10.zip)
 Lurkerz | Ron Goff and Jon Little | [lrkrz_01.zip](bin/lrkrz_01.zip) ([txt](bin/lrkrz_01.txt))
 MaNiAc's FrogBot MOD (lag simulation) | Michael Turitzin aka "MaNiAc" | [lagmod.zip](bin/lagmod.zip)
 MaNiAcBot | Michael Turitzin aka "MaNiAc" | [maniacbt.zip](bin/maniacbt.zip) ([txt](bin/maniacbt.txt))<br>maniacbt12.zip<br>fbmod.zip
-Mathfrag | Khin Mannering aka "Dr. Shadowborg" | [mlx20b.zip](bin/mlx20.zip)
+Mathfrag (Frikbot) | Khin Mannering aka "Dr. Shadowborg" | [mlx20b.zip](bin/mlx20.zip)
 MegaBot | "Vic" | [megabot.zip](bin/megabot.zip)
 Midair Bots | Benjamin Darling aka "Electro" and "Vomit" | [midair_qwbot.rar](bin/midair_qwbot.rar)<br>[midairbots_all.zip](bin/midairbots_all.zip)<br>[midairbots.zip](bin/midairbots.zip)
-Mod Pak 1 FMOD | "Neophyte" | mpak1v12.zip
-Motd FMOD | Algirdas Kepezinskas aka "ZeCybEr" | motd.zip
+Mod Pak 1 FMOD (Frogbot) | "Neophyte" | mpak1v12.zip
+Motd FMOD (Frogbot) | Algirdas Kepezinskas aka "ZeCybEr" | motd.zip
 MyBot | Stephen Vanterpool | [mybot16.zip](bin/mybot16.zip) ([txt](bin/mybot16.txt))<br>[mybot13a.zip](bin/mybot13a.zip) ([txt](bin/mybot13a.txt))<br>[mybot12.zip](bin/mybot12.zip) ([txt](bin/mybot12.txt))<br>[mybot11.zip](bin/mybot11.zip) ([txt](bin/mybot11.txt))<br>[mybot.zip](bin/mybot.zip) ([txt](bin/mybot.txt))
-Navy SEALs sQuad bots | William van der Sterren | [nseal201.zip](bin/nseal201.zip)<br>sqdbt201.zip
-ObotArena (Amiga) | Christian Michael aka "surgeon" | [obotarena.lha](bin/obotarena.lha)
+Navy SEALs (Squad Bots) | William van der Sterren | [nseal201.zip](bin/nseal201.zip)<br>sqdbt201.zip
+ObotArena (Amiga) (Omicron) | Christian Michael aka "surgeon" | [obotarena.lha](bin/obotarena.lha)
 Ogre Bot | "Lava Man" | [ogrebot.zip](bin/ogrebot.zip) ([txt](bin/ogrebot.txt))
 Omicron Bot | Jan Paul van Waveren aka "Mr. Elusive" and Miklos de Rijk aka "H2SO4" | [obots102.zip](bin/obots102.zip)<br>[obots102.sit](bin/obots102.sit)<br>[obots101.zip](bin/obots101.zip)<br>obots101.sit<br>obots101.hqx<br>obots100.zip<br>obots100.sit
 Omicron Fixes | Joel Baxter aka "Johnny Law" | [obots102-fixed.zip](bin/obots102-fixed.zip)
-Optimized Frogbot qboost3 (Amiga) | Christian Michael aka "surgeon" | [frogbot.lha](bin/frogbot.lha) ([txt](bin/frogbot.txt))
-Orion Team Fortress (OrionTF) | "Orion" | [oriontf_beta4.zip](bin/oriontf_beta4.zip)<br>[oriontf_beta3.zip](bin/oriontf_beta3.zip)<br>[oriontf_beta2.zip](bin/oriontf_beta2.zip)<br>[oriontf.zip](bin/oriontf.zip)
+Optimized Frogbot (Amiga) | Christian Michael aka "surgeon" | [frogbot.lha](bin/frogbot.lha) ([txt](bin/frogbot.txt))
+Orion Team Fortress (OrionTF) (OrionBots) | "Orion" | [oriontf_beta4.zip](bin/oriontf_beta4.zip)<br>[oriontf_beta3.zip](bin/oriontf_beta3.zip)<br>[oriontf_beta2.zip](bin/oriontf_beta2.zip)<br>[oriontf.zip](bin/oriontf.zip)
 OrionBots | "Orion" | [orionbots4rel.zip](bin/orionbots4rel.zip)<br>[orionbots_v2.zip](bin/orionbots_v2.zip)<br>[orionbots_qc_beta5.zip](bin/orionbots_qc_beta5.zip)
 Paddybot | Patrick Stimson aka "sniper" | paddybot02.zip<br>paddybot.zip
-Paroxysm (POXbot) | Frank Condello aka "pOx" | [paroxysm.zip](bin/paroxysm.zip)<br>[pox120b.zip](bin/pox120b.zip)<br>[pxsrc120.zip](bin/pxsrc120.zip)<br>[pox111b2.zip](bin/pox111b2.zip)<br>[pox111b.zip](bin/pox111b.zip)<br>[pox102b.zip](bin/pox102b.zip)<br>[pxqc102b.zip](bin/pxqc102b.zip)<br>[pox101bu.zip](bin/pox101bu.zip)<br>[pox_100.zip](bin/pox_100.zip)<br>[poxqc100.zip](bin/poxqc100.zip)<br>[pox_04b2.zip](bin/pox_04b2.zip)
-Prodigy Server Engine (XBots) | David Rodgers | prodigy35b1.zip
+Paroxysm (POXbot) (Tutorbot) | Frank Condello aka "pOx" | [paroxysm.zip](bin/paroxysm.zip)<br>[pox120b.zip](bin/pox120b.zip)<br>[pxsrc120.zip](bin/pxsrc120.zip)<br>[pox111b2.zip](bin/pox111b2.zip)<br>[pox111b.zip](bin/pox111b.zip)<br>[pox102b.zip](bin/pox102b.zip)<br>[pxqc102b.zip](bin/pxqc102b.zip)<br>[pox101bu.zip](bin/pox101bu.zip)<br>[pox_100.zip](bin/pox_100.zip)<br>[poxqc100.zip](bin/poxqc100.zip)<br>[pox_04b2.zip](bin/pox_04b2.zip)
+Prodigy Server Engine (XBots) (Reaper) | David Rodgers | prodigy35b1.zip
 Quake Bot (QBot) | Muhammad Hidayat Bin Sman aka "Grinder" | [qbot11.zip](bin/qbot11.zip) ([txt](bin/qbot11.txt))
-Quake Dodgeball | Brendan aka "Trickle" and "Orion" | [quake_dodgeball_v1.2.6.zip](bin/quake_dodgeball_v1.2.6.zip)<br>[db_src_2016.zip](bin/db_src_2016.zip)<br>[quake_dodgeball_1.1.zip](bin/quake_dodgeball_1.1.zip)
+Quake Dodgeball (OrionBots) | Brendan aka "Trickle" and "Orion" | [quake_dodgeball_v1.2.6.zip](bin/quake_dodgeball_v1.2.6.zip)<br>[db_src_2016.zip](bin/db_src_2016.zip)<br>[quake_dodgeball_1.1.zip](bin/quake_dodgeball_1.1.zip)
 QuakePlus | Alexander Vinnikova aka "plus" | [qplus.zip](bin/qplus.zip) ([txt](bin/qplus.txt))
 R Bot | Ross Johnson aka "ColdKill" | [rbot70.zip](bin/rbot70.zip) ([txt](bin/rbot70.txt))<br>[rbot20.zip](bin/rbot20.zip) ([txt](bin/rbot20.txt))<br>rbot.zip
 RABot | Rodrigo Marx aka "Shooter" | [mwrrabot222cl.zip](bin/mwrrabot222cl.zip)<br>[rabot.zip](bin/rabot.zip)
@@ -186,14 +186,14 @@ Target Player Place (Place Bot) | "Vengence" | [place2.zip](bin/place2.zip) ([tx
 Tballman | "Mother" | [tballman.zip](bin/tballman.zip) ([txt](bin/tballman.txt))
 TD-BOT | ? | tdbot1_0.zip
 TD2 Mech Bot | ? | [mech.zip](bin/mech.zip)
-Team FMOD | "Shelob" | stfm10.zip
+Team FMOD (Frogbot) | "Shelob" | stfm10.zip
 Team Fortress (TFBot) | Jeff aka "wattsup" | [tfbot077.zip](bin/tfbot077.zip)<br>[tfbot076.zip](bin/tfbot076.zip)
 Team Fortress (TFBot) | Joern Strombach aka "Nexus" | [tfbot080.zip](bin/tfbot080.zip)
 Team Fortress (TFBot) | Wolfgang Lehrach aka "RainKing" | tfb-v07.zip
 Team Fortress + Frikbot (Frik-TF) | Raymond Martineau | friktf-051901.zip<br>[friktf-092800.zip](bin/friktf-092800.zip)<br>[friktf-092800-src.zip](bin/friktf-092800-src.zip)<br>friktf-092800-qw.zip<br>friktf-092800.tar.gz<br>[friktf-051800.zip](bin/friktf-051800.zip)<br>[friktf-051800-qw.zip](bin/friktf-051800-qw.zip)<br>[friktf-051800-src.zip](bin/friktf-051800-src.zip)<br>frik-tf.zip<br>[friktfqw.zip](bin/friktfqw.zip)
 Team Fortress + Tutor | Darryl Atchison aka "coffee" | [tf_bots07.zip](bin/tf_bots07.zip)
 Team Fortress Bot  | Valery Schedrin aka "Forthpick" | [teamfbot.zip](bin/teamfbot.zip)
-TeamTalk+ (FMOD) | Algirdas Kepezinskas aka "ZeCybEr" | [ttalk.zip](bin/ttalk.zip)
+TeamTalk+ FMOD (Frogbot) | Algirdas Kepezinskas aka "ZeCybEr" | [ttalk.zip](bin/ttalk.zip)
 The Alf | Bjorn-Erik Solli aka "Jack O. Trade" | nnctf.zip<br>nnsource.zip
 The Lone Gunmen QuakeBOT (Larva) | James Cullen aka "Jaymz" and Chris Cullen aka "Incubus" | [tlgbot.zip](bin/tlgbot.zip) ([txt](bin/tlgbot.txt))
 The Moron Bot | Rich Whitehouse aka "thefatal" | [mbr1.zip](bin/mbr1.zip)<br>[mbr1_src.zip](bin/mbr1_src.zip)
@@ -205,17 +205,17 @@ Tutor Bot + Holy Wars | Connor Caple aka "RiEvEr" | [holy_tb.zip](bin/holy_tb.zi
 Tutor Bot + Malice (Amiga) | Christian Michael aka "surgeon" | [malicemod.lha](bin/malicemod.lha) ([txt](bin/malicemod.txt))
 Tutor Bot + Rocket Arena | Connor Caple aka "RiEvEr" | [qrabot002.zip](bin/qrabot002.zip)<br>qrabot001.zip
 Tutor Bot | Darryl Atchison aka "coffee" | [tutor.zip](bin/tutor.zip)
-Ultimate Regular Quake Patch (URQP) | Matthias Buecher aka "Maddes" | [urqp106a.zip](bin/urqp106a.zip)<br>[urqp106.zip](bin/urqp106.zip)<br>[urqp105.zip](bin/urqp105.zip)<br>[urqp104a.zip](bin/urqp104a.zip)
+Ultimate Regular Quake Patch (URQP) (Frikbot) | Matthias Buecher aka "Maddes" | [urqp106a.zip](bin/urqp106a.zip)<br>[urqp106.zip](bin/urqp106.zip)<br>[urqp105.zip](bin/urqp105.zip)<br>[urqp104a.zip](bin/urqp104a.zip)
 UnknownBot | Brian L. | [ubot14.zip](bin/ubot14.zip)
 UrreBot | Marko Permanto aka "Urre" | [urrebot20050820.zip](bin/urrebot20050820.zip)<br>[urrebot20050813.zip](bin/urrebot20050813.zip)<br>[wayboxedit20050813.zip](bin/wayboxedit20050813.zip)
-Vari-Patch | Chris Millward | var19.zip ([txt](bin/var19.txt))<br>var18.zip ([txt](bin/var18.txt))<br>var17.zip<br>var14.zip ([txt](bin/var14.txt))
+Vari-Patch (DMBot) | Chris Millward | var19.zip ([txt](bin/var19.txt))<br>var18.zip ([txt](bin/var18.txt))<br>var17.zip<br>var14.zip ([txt](bin/var14.txt))
 VeNgAb0T | "WuPP" | [venga.zip](bin/venga.zip)
 Vicinity Bot | "Black" | vicinityqwprogs.zip<br>vicinitymodels.zip<br>vicinitysource.zip
 Victim Bot | Tony Tang aka "The TangMaster" | [vbot11.zip](bin/vbot11.zip) ([txt](bin/vbot11.txt))<br>[vbot1.zip](bin/vbot1.zip)
 WarBot | Muhammad Hidayat Bin Sman aka "Grinder" | warbot2.zip ([txt](bin/warbot2.txt))<br>[warbot14.zip](bin/warbot14.zip)<br>warbot14_dat.zip<br>warbot14_pak.zip<br>warbt13a.zip ([txt](bin/warbt13a.txt))<br>warbotpk.zip
 Wisp | Iikka Paavolainen | [wisp.zip](bin/wisp.zip) ([txt](bin/wisp.txt))
 WLBot | Kualker Koisa aka "Matador" | [wlbot21.7z](bin/wlbot21.7z)<br>wlbot1.9.zip
-XKteams | Mark | xkteams2.zip<br>xkteams1705.zip<br>xkteams1705s.zip
+XKteams (Frikbot) | Mark | xkteams2.zip<br>xkteams1705.zip<br>xkteams1705s.zip
 Xreaper | Ruud Heemskerk aka "Mephisto" | [xreaperb130.zip](bin/xreaperb130.zip)<br>[xreaperb130_unoff.zip](bin/xreaperb130_unoff.zip)
 Zeus Bot | Jonathan E. Wright aka "Nelno the Amoeba" | [zeus205s.zip](bin/zeus205s.zip) ([txt](bin/zeus205s.txt))<br>[zeus205.zip](bin/zeus205.zip) ([txt](bin/zeus205.txt))<br>[zeus_src.zip](bin/zeus_src.zip) ([txt](bin/zeus_src.txt))<br>[zeus2042.zip](bin/zeus2042.zip)<br>zeus2041.zip<br>[zeus204.zip](bin/zeus204.zip)<br>[zeus203b.zip](bin/zeus203b.zip) ([txt](bin/zeus203b.txt))<br>zeus202b.zip ([txt](bin/zeus202b.txt))<br>zeus201.zip<br>zeus20.zip<br>[zeus10.zip](bin/zeus10.zip) ([txt](bin/zeus10.txt))
 
