@@ -22,6 +22,7 @@ btsk22.zip
 bugfix1.zip
 bugfix2.zip
 bugfix3.zip
+clanbotv0.9b.zip
 clanv0.5auto.zip
 clanv0.6auto.zip
 clanv0.7hman.zip
