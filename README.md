@@ -122,7 +122,7 @@ Gideon Bot | Matthew Turvey | [gidbot.zip](bin/gidbot.zip) ([txt](bin/gidbot.txt
 GlacierBot | Rainier Rapera aka "IceDagger" | [gb027b.zip](bin/gb027b.zip)<br>gbped10.zip
 GuardBot | Peter van Wingerden | [grdbot23.zip](bin/grdbot23.zip) ([txt](bin/grdbot23.txt))<br>grdbot13.zip<br>guardbot.zip
 GYPObot | Stephen Dobbs | [gypobot.zip](bin/gypobot.zip)
-Hellsmash | Khin Mannering aka "Dr. Shadowborg" | [qsr04apatch1.7z](bin/qsr04apatch1.7z)<br>[qsr04a.7z](bin/qsr04a.7z)<br>[qsrbeta3a.zip](bin/qsrbeta3a.zip)<br>[qsrbeta3a_src.zip](bin/qsrbeta3a_src.zip)<br>[qsrbeta3x.zip](bin/qsrbeta3x.zip)<br>[qsrbeta3.zip](bin/qsrbeta3.zip)<br>qsrbeta1b.zip<br>qsrbeta1.zip
+Hellsmash (Frikbot) | Khin Mannering aka "Dr. Shadowborg" | [qsr04apatch1.7z](bin/qsr04apatch1.7z)<br>[qsr04a.7z](bin/qsr04a.7z)<br>[qsrbeta3a.zip](bin/qsrbeta3a.zip)<br>[qsrbeta3a_src.zip](bin/qsrbeta3a_src.zip)<br>[qsrbeta3x.zip](bin/qsrbeta3x.zip)<br>[qsrbeta3.zip](bin/qsrbeta3.zip)<br>qsrbeta1b.zip<br>qsrbeta1.zip
 Holo Soldier FMOD (Frogbot) | Algirdas Kepezinskas aka "ZeCybEr" | holomod.zip
 Human Bot (Hbot) | Jeffrey Lee | [hbot.zip](bin/hbot.zip)
 Indecisive Bot (Gyrobot) | Aaron Logue aka "Gyro Gearloose" | [gyrobot.zip](bin/gyrobot.zip) ([txt](bin/gyrobot.txt))<br>[gbotsrc.zip](bin/gbotsrc.zip)
@@ -140,7 +140,7 @@ Lightning Gun Competition (LGC) (Frogbot) | Phil Romov aka "peheyele" | [lgc3.zi
 Lithium CTF Bot | Juan Ignacio Rava aka "Johnny" | [lith091c.zip](bin/lith091c.zip)
 LoydBot | Loyd aka "Juninho" | [lbotv10.zip](bin/lbotv10.zip)
 Lurkerz | Ron Goff and Jon Little | [lrkrz_01.zip](bin/lrkrz_01.zip) ([txt](bin/lrkrz_01.txt))
-MaNiAc's FrogBot MOD (lag simulation) | Michael Turitzin aka "MaNiAc" | [lagmod.zip](bin/lagmod.zip)
+MaNiAc's FMOD (Frogbot) | Michael Turitzin aka "MaNiAc" | [lagmod.zip](bin/lagmod.zip)
 MaNiAcBot | Michael Turitzin aka "MaNiAc" | [maniacbt.zip](bin/maniacbt.zip) ([txt](bin/maniacbt.txt))<br>maniacbt12.zip<br>fbmod.zip
 Mathfrag (Frikbot) | Khin Mannering aka "Dr. Shadowborg" | [mlx20b.zip](bin/mlx20.zip)
 MegaBot | "Vic" | [megabot.zip](bin/megabot.zip)
@@ -174,6 +174,7 @@ Reformed Reaper Bot | "win32ch" | [rrbotprogs.zip](bin/rrbotprogs.zip) <br>[rrbo
 Requiem + QW | Alexander Fiedler aka "Requiem" | [qwreq24.zip](bin/qwreq24.zip)<br>[reqpak2.zip](bin/reqpak2.zip)<br>reqqwsrc.zip<br>reqqw23.zip<br>reqqw20i.zip
 Requiem | Alexander Fiedler aka "Requiem" | [req2_pe.zip](bin/req2_pe.zip) ([txt](bin/req2_pe.txt))<br>[req2fb.zip](bin/req2fb.zip)<br>[reqpak2.zip](bin/reqpak2.zip)<br>reqsrc.zip<br>bugfix3.zip<br>req_se103.zip ([txt](bin/req_se103.txt))<br>bugfix2.zip<br>bugfix1.zip<br>[req_se102.zip](bin/req_se102.zip) ([txt](bin/req_se102.txt))<br>req107d.zip<br>req106a.zip<br>[req105.zip](bin/req105.zip)
 Ric's Reaper Bots | "Ric" | [reap081h.zip](bin/reap081h.zip)
+Rise of the Baron (Cujo) | Jason Avery | [baron.zip](bin/baron.zip) ([txt](bin/baron.txt))
 Roam Bot | Carson Sutton aka "Crimson" | [roambot1.zip](bin/roambot1.zip) ([txt](bin/roambot1.txt))
 Rogue Bot | Benjamin Darling aka "Electro" | [rbot.zip](bin/rbot.zip)
 SamBot | Sam Stephens aka "Spam-man" | [sambot.zip](bin/sambot.zip) ([txt](bin/sambot.txt))

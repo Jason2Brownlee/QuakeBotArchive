@@ -2345,7 +2345,14 @@ AxxWars
 	bots: Cujo, Eliminator
 	https://archives.fidobbs.net/pub/bbs/181/AXXWAR_1.ZIP
 	http://leileilol.mancubus.net/leiware/download.php?view.47
-
+Rise of the Baron
+	https://www.quaddicted.com/files/idgames2/quakec/compilations/baron.txt
+	https://www.quaddicted.com/files/idgames2/quakec/compilations/baron.zip
+	https://dukeworld.com/idgames2/quakec/weapons/baron.txt
+	http://www.why.net/users/breech
+		not archived
+	Jason Avery
+	cujo based bot, CUJO11
 
 
 RESEARCHING...

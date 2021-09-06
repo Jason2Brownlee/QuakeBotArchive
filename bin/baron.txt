@@ -1,0 +1,129 @@
+ษออออออออออออออออออออออออออออออออป
+บ  Title    : Rise of the Baron  บ
+ศออออออออออออออออออออออออออออออออผ
+
+Filename : Baron.zip
+Version  : 1.0
+
+Date     : 1/22/97
+
+Author(s): Jason Avery
+
+Email    : breech@why.net
+
+Home Page: http://www.why.net/users/breech
+           Check here first for the latest updates to Baron.pak!
+
+Credits :  GIBBIN3: Jason Carter-killer3d@mindspring.com
+           CUJO11: Jonathan E. Wright-nelno@interpath.com
+           SPIKES: Hellblazr
+           CAMERA: Nezu the Unworthy-100625.2622@compuserve.com
+           TESTING: Sniper.KKK-6sni6per6@geocities.com
+           EDITORS: MeDDle, QPU 2.0, QCCDOS, 3D Studio 4, Adobe Photoshop 4
+           My neegros at Octagon DWN:  CyberHelix, S0ulCrusher, Creeping Death,
+           Blazer, SNiPER, Mustang, Lynx, Ard, and everyone else I forgot about!
+                                 (8i7)-485-9945
+
+ษอออออออออออออออป
+บ  Type of Mod  บ
+ศอออออออออออออออผ
+
+Quake C  : yes
+Sound    : yes
+MDL      : yes
+
+
+ษอออออออออออออออออออออป
+บ  Format of Quake C  บ
+ศอออออออออออออออออออออผ
+
+unified diff  : no
+context diff  : no
+.qc files     : yes
+progs.dat     : yes
+
+See the included file PROGS.SRC for a list of which files have been
+modified and which were added.
+
+
+ษอออออออออออออออออออออออออออออออออออป
+บ  Description of the Modification  บ
+ศอออออออออออออออออออออออออออออออออออผ
+
+Ever since my baron.wad was released for Doom ][, I got so much
+positive feedback from it I thought I would take it to a new level.
+Now that there is Quake C, the Baron of Hell can do much much more.
+
+Like the baron.wad, this is a compilation of many other stuff I like,
+but this mod isnt just for what I like from the Quake Cs I've seen, but
+the mods added in give Quake more realism to it and its how it SHOULD have
+been to begin with.  Spikes bounce off walls and stick into them;spikes,
+missles, and grenades teleport too; bodies are gibbable.  The Demon Bot,
+the new mdls, new sounds, new gfx, the fireballs, and the help messages
+were all my doing.  
+
+
+ษอออออออออออออออออออออออออออป
+บ  How to use Modification  บ
+ศอออออออออออออออออออออออออออผ
+
+Place pak0.pak in \quake\baron directory and type: Quake -game baron.
+
+Impulse  25  Online Impulse command help.
+
+Impulse  30  Activate External Camera
+
+Impulse  31  Activate Blue Lazer Dot
+
+Impulse 32-35 Change camera position
+
+Impulse 100  Activates and Deactivates the pet demon
+
+Impulse 104  Teleport the demon to your location.
+
+Impulse 105  Turns on demon's light.
+
+Impulse 107  Toggles the demon between attack and non-attack modes.
+
+ษออออออออออออออป
+บ  Known bugs  บ
+ศออออออออออออออผ
+
+
+1)  When you enter E2M1 or E2M2, i get an ED_ALLOC error.  Dunno why.
+
+2)  The Demon Bot loves to desecrate bodies too much, so when if you
+get into trouble, hit impulse 104 and he'll reset his targets.
+
+3)  The Demon Bot loves to desecrate Scrag bodies even if they are no longer
+or were never his target.  Wierd.
+
+4)  If the Demon Bot goes after someone on a higher or lower ledge, and you
+kill him before the Demon can get to him, the Demon will still go after his
+body, so either use the fireballs to gib the body or hit impulse 104.
+Impulse 104 seems to wake the Demon Bot up enough to stop trying to gib
+bodies.  He's a crazy motherfucker.  Kinda like me.  =)
+
+ษอออออออออออออออออออออออออออออออออป
+บ  Sources for this Modification  บ
+ศอออออออออออออออออออออออออออออออออผ
+
+
+If you are interested in seeing how this was done, you can manually
+unzip the file SOURCE.ZIP which was contained inside Baron.ZIP
+and look at the modified source.  If you would like to make your
+own Quake C mods, get QCC.ZIP and read the instructions contained
+within it.  Also, find one of the many web pages with info about
+Quake modifications to learn more.
+
+ษออออออออออออออออออออออออออออออออออออออออออป
+บ  Copyright and Distribution Permissions  บ
+ศออออออออออออออออออออออออออออออออออออออออออผ
+
+Authors MAY use these modifications as a basis for other
+publically available work.  Please send me any modifications
+you make!
+
+You may distribute this Quake modification in any electronic
+format as long as this description file remains intact and unmodified
+and is retained along with all of the files in the archive.
