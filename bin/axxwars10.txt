@@ -1,0 +1,38 @@
+Title    : AxxWars 
+Filename : AxxWars10.zip
+Version  : 1.0
+Date     : 15 March 1997
+Author   : Multiple
+Compiler : Akke Monasso
+Email    : axx@pi.net
+Credits  : Lots
+
+Type of Mod
+--------------
+Quake C  : yes
+Sound    : yes
+MDL      : yes  
+
+
+Format of QuakeC
+-------------------
+unified diff  : no
+context diff  : no
+.qc files     : yes
+progs.dat     : no
+
+
+Description of the Modification
+-------------------------------
+
+Short: Another Quake Combo patch. I presume you know how to compile Qcc. If not, mail me. 
+
+Feat:	Deathmatch, Single Player, Teamgames, It, Capture the flag, King of the Hill, Headhunt, Monstermash, Axxfest.
+	Bots, Seekers, Guided missiles, Snipers, Realistic weapons, Holos, Pipebombs, Cameras, Remote Admin, Observer
+	Airfist, Runes, Morphing, Harpoons, Proxmines, Throwing Axes, Blazegun, Camperkiller, Random Item respawn,   	  	Restricted weapons, Cujo, Flares, Sniperscope, Feign Death, Fragreports, Haste, Jumping, Gravity Changes.
+	And lots more.
+
+Need: 	To use this patch you'll need a player.mdl with 16 skin, in which skin 14 is reserved for the It! player, and skin 15 and 16 are for team 1 and team 2 respectively. I didn't add this to decrease the size of the archive and because every player has his own favourite skins anyway. 
+ 	  	   	 		
+
+ 		

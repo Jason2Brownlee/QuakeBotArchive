@@ -2337,7 +2337,14 @@ Abandon All Hope
 		old version?
 	https://www.quaddicted.com/files/idgames2/quakec/compilations/abnd2a.txt
 	https://www.quaddicted.com/files/idgames2/quakec/compilations/abnd2a.zip
-
+AxxWars
+	https://www.quaddicted.com/files/idgames2/quakec/compilations/axxwars10.txt
+	https://www.quaddicted.com/files/idgames2/quakec/compilations/axxwars10.zip
+	Akke Monasso
+	axx@pi.net
+	bots: Cujo, Eliminator
+	https://archives.fidobbs.net/pub/bbs/181/AXXWAR_1.ZIP
+	http://leileilol.mancubus.net/leiware/download.php?view.47
 
 
 
