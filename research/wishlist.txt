@@ -3,7 +3,6 @@ Quake Bot Filename Wishlist
 A wishlist of lowercase bot filenames sorted alphabetically.
 
 --------------------------------------------------------------------------------
-
 2000.zip
 abandon1.zip
 accuracy.zip
@@ -184,6 +183,8 @@ reaper08.sit.hqx
 reaprb75.zip
 req106a.zip
 req107d.zip
+req_qw.zip
+reqqw104.zip
 reqqw20i.zip
 reqqw23.zip
 reqqwsrc.zip

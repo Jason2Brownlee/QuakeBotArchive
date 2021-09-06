@@ -195,6 +195,8 @@ http://www.pixelshower.com/Vault/game/prodigy35b1.zip
 http://www.planetquake.com/requiem/files/bugfix1.zip
 http://www.planetquake.com/requiem/files/bugfix2.zip
 http://www.planetquake.com/requiem/files/req107d.zip
+http://www.planetquake.com/requiem/files/req_qw.zip
+http://www.planetquake.com/requiem/files/reqqw104.zip
 http://www.planetquake.com/requiem/files/reqqw20i.zip
 http://www.planetquake.com/requiem/files/reqqw23.zip
 http://www.ritual.com/shack_files/quakec/obots100.zip
