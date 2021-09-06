@@ -1,0 +1,194 @@
+ษอออออออออออออออออออออออออออออออออออป
+บ  Title : Abandon All Hope 2.0a    บ
+ศอออออออออออออออออออออออออออออออออออผ
+
+Filename : ABNDN2A.ZIP
+Version  : 2.0A, QUAKEWORLD 2.01 ONLY
+URL      : http://www.miteksys.com/death/abndn2a.zip
+
+Date     : 8/13/97
+
+Author(s): John McClure
+
+Other mods: Cujo 1.4
+            parts of CTF 4.1
+		
+
+Email    : death@miteksys.com
+URL      : http://www.miteksys.com/death
+
+Credits  : CUJO code via Johnathan E. Wright (nelno@resurrection.com)
+           Threewave Team for Runes & Grapple (Dave 'Zoid' Kirsch, zoid@threewave.com)
+           
+
+           ProQCC by Lee Smith (lees@infoave.net)
+           
+           ID Software for the OBVIOUS! :)
+
+ษอออออออออออออออป
+บ  Type of Mod  บ
+ศอออออออออออออออผ
+
+Quake C  : yes
+Sound    : yes
+MDL      : yes
+
+ษอออออออออออออออออออออป
+บ  Format of Quake C  บ
+ศอออออออออออออออออออออผ
+
+.qc files     : yes
+progs.dat     : no
+qwprogs.dat   : yes
+
+ษอออออออออออออออออออออออออออออออออออป
+บ  Description of the Modification  บ
+ศอออออออออออออออออออออออออออออออออออผ
+
+This is a combo patch that our clan had come up with to facilitate enjoyable play.
+
+We really really wanted to call each other names, but due to distance constraints,
+none of us could yell loud enough.  Enter the TAUNTS.  Bind any key to any of the 11
+available taunts, and you have instant gratification ("I DO THE ASS KICKING AROUND HERE!")
+
+We also enjoyed the Grapple / Rune combination from CTF, so we implemented that as well.
+It now includes three additional runes:
+
+	Rambo Rune:  Ammunition regeneration.  If you've got at least one of any particular
+                    type of ammo, it will regenerate that ammo.  It also increases the
+                    maximum amount of the ammo you can carry (Shells = 150, Nailz = 200,
+                    Rockets = 150, Cells = 200).
+
+	Mauser Rune: Also known as the "Rune Thief".  When you have this rune you can steal
+                    someone's rune by simply attacking them and getting their health to
+                    75 or below.  The target is notified, and (frequently) you can get the
+                    upper hand (quickly if you steal strength).
+
+	Dread Rune:  Pestilence.  Causes a "rotting" effect on any targets you hit.  After
+                    striking a target when using this rune, the target will receive half
+                    of the initial damage one second later, then half of that again another
+                    second later.  This will continue until the damage is minimized below
+                    one point or the target dies.  Also leaves a nice gib trail (good for
+                    doggies to eat)
+
+You must be extra careful of heights, however, as a long fall will cause you to drop your
+rune (and it flies far).
+
+Lastly, it was lonely on the many many levels we have fragged each other on, so we needed
+some companionship.  Enter CUJO.  Faithful St. Bernard.  Get the WORST armor available on
+the map, and you get a dog!  He will follow you to the ends of the level and attack
+anyone who might possibly be good "gib" material.  Your dog will get additional health from
+any "gibs" laying around, so gib quickly and gib often.
+
+
+ษอออออออออออออออออออออออออออออออออออป
+บ  How to Install the Modification  บ
+ศอออออออออออออออออออออออออออออออออออผ
+
+Create a subdirectory under your QUAKE directory called ABANDON.
+
+Extract files with the "-d" option to include directories.
+
+To start at server, run QWSV +gamedir ABANDON
+
+If you would like clients to be able to download the mods at connect time, you will need
+to use a utility like WINPACK to extract the PAK file into it's subdirectories.
+
+ษออออออออออออออออออออป
+บ  IMPULSE Commands  บ
+ศออออออออออออออออออออผ
+
+Brief IMPULSE commands summary :
+
+Impulse 1    Switch between Axe and Grappling hook
+
+Impulse 22   Switch to the Grappling Hook
+
+
+Impulse 100  Activates and Deactivates Cujo the dog
+Impulse 102  Tell Cujo to stay or follow.
+Impulse 104  Teleport the dog to your location.
+Impulse 105  Make Cujo GLOW (only to your eyes)
+Impulse 106  Reports on Cujo's status.
+Impulse 107  Toggles Cujo between attack and non-attack modes.
+
+Impulse 150  Say "COME BACK YOU FAT BEARDED BITCH!" (SpaceBalls)
+Impulse 151  Say "This game... SUCKS." (The Critic)
+Impulse 152  Say "I don't wanna die I don't wanna die I  DON'T WANNA DIE!" (The Critic)
+Impulse 153  Say "Who's the slimy little communist shit twinkle-toed cock sucker
+                  down here who just signed his own death warrant!?" (DI in Full
+                  Metal Jacket)
+Impulse 154  Say "Who da fuck said that!?" (same DI in Full Metal Jacket)
+Impulse 155  Say "YOU SONOFABITCH I'LL KILL YOU!!"
+Impulse 156  Say "I DO THE ASSKICKING AROUND HERE!" (Coach in B&B)
+Impulse 157  Say "You missed, Fuckface!" (Parrot in Johnny Dangerously)
+Impulse 158  Say "Peekaboo!" (Beavis)
+Impulse 159  Say "Iiii ffart in your general direction!" (Frenchman, MPHG)
+Impulse 160  Say "HA HA" (Nelson, from the Simpsons)
+Impulse 161  Say "Now go away, or I shall taunt you a second time-ah!" (Frenchman, MPHG)
+Impulse 162  Say "You fucking wanker!" (Tango & Cash)
+Impulse 163  Say "This is startin' ta irritate me."
+Impulse 164  Say "Ooooh shit!" (Richard Pryor, Stir Crazy)
+Impulse 165  Say "D'OH!" (Homer Simpson)
+
+<-- End of impulse commands list -->
+
+** Use the BIND command to make your life easier, example :
+
+BIND F1 "impulse 150"
+
+ษอออออออออออออออออออออป
+บ  Technical Details  บ
+ศอออออออออออออออออออออผ
+
+Updates / Changes:
+
+þ 97-08-13:  Changed all code to work with QuakeWorld 2.01 (jeez!  One day of release as 2.0, and then POW!)
+             Added 5 taunts
+             Added Pestilence Rune
+             Fixed CUJO hanging around after owner long since dead
+
+
+Bugs:
+
+þ None known of... Fixed the CUJO thing...
+
+
+ษอออออออออออออออออออออออป
+บ  Future Enhancements  บ
+ศอออออออออออออออออออออออผ
+
+þ Add a "Flight" Rune.  Still playing with the code to make it work.
+þ More to come (maybe allow other "pets" other than Cujo)
+
+
+ษอออออออออออออออออออออป
+บ  Contacting Author  บ
+ศอออออออออออออออออออออผ
+
+As mentioned above, my email address is :
+
+jmc@miteksys.com
+
+I also have a personal web site located at :
+
+http://www.miteksys.com/death
+
+ษออออออออออออออออออออออออออออออออออออออออออป
+บ  Copyright and Distribution Permissions  บ
+ศออออออออออออออออออออออออออออออออออออออออออผ
+
+þ Authors MAY use these modifications as a basis for other
+publically available work.  Please send me any modifications
+you make!
+
+þ If you have used part of this patch (code, model or sound) in
+your own patch, please give credits to the authors who have made
+them - including myself. Thank you.
+
+þ You may distribute this Quake modification in any electronic
+format as long as this description file remains intact and unmodified
+and is retained along with all of the files in the archive.
+
+þ This patch can NOT be distribute on ANY product PRODUCED or even
+RELATED to a lame company called Actura. 

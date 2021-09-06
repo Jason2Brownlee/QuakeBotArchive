@@ -2335,6 +2335,8 @@ Abandon All Hope
 		https://web.archive.org/web/*/www.miteksys.com/*
 	http://www.miteksys.com/death/abandon1.zip
 		old version?
+	https://www.quaddicted.com/files/idgames2/quakec/compilations/abnd2a.txt
+	https://www.quaddicted.com/files/idgames2/quakec/compilations/abnd2a.zip
 
 
 
