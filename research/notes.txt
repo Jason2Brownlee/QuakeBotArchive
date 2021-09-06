@@ -2353,6 +2353,11 @@ Rise of the Baron
 		not archived
 	Jason Avery
 	cujo based bot, CUJO11
+Arena Kooliobot
+	https://web.archive.org/web/20020411182058/http://www.angelfire.com/co2/kooliobot/newmods.html
+	https://web.archive.org/web/20020411182058/http://www.angelfire.com/co2/kooliobot/arena.html
+	https://web.archive.org/web/20020411182058/http://www.angelfire.com/co2/kooliobot/images/rakoolio.zip
+
 
 
 RESEARCHING...

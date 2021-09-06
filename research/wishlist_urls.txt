@@ -68,12 +68,12 @@ http://aswp.tzo.net/maleficus/setup.zip
 http://botarea51.impulse9.net/mirror/bot/elimpack.zip
 http://first.quakegate.ru/bots/frogbot.rar
 http://freespace.virgin.net/w.james/DJbot1.zip
+http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/holywars/hw_frogbot.exe
+http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/holywars/hw_frogbot.sit.bin
+http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/holywars/hw_frogbot.zip
 http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/holywars/hwqwbot.exe
 http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/holywars/hwqwbot.sit
 http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/holywars/hwqwbot.zip
-http://ftp.sunet.se:80/pub/pc/games/idgames2/planetquake/holywars/hw_frogbot.exe
-http://ftp.sunet.se:80/pub/pc/games/idgames2/planetquake/holywars/hw_frogbot.sit.bin
-http://ftp.sunet.se:80/pub/pc/games/idgames2/planetquake/holywars/hw_frogbot.zip
 http://geocities.com/timessquare/hangar/8961/sq12to13.zip
 http://geocities.com/timessquare/hangar/8961/squirt12b.zip
 http://groups.yahoo.com/group/friktf/files/friktf-051901.zip
@@ -92,7 +92,6 @@ http://membro.intermega.com.br/gqc/tdbot1_0.zip
 http://orca.ucd.ie/~gilligan/warbot.zip
 http://pelit.saunalahti.fi/telenation/telefragged/be/fmods/fb013se.zip
 http://quakeintosh.com/files/Paks%20-%20Maps%20-%20Mods%20/Quake%20Bots/%20Omicron%20Bot/OBOTS101.sit
-http://quakemecca.simplenet.com/files/downloads/oak084.zip
 http://quakemecca.simplenet.com/files/new/kok2.zip
 http://railgun.macquakeinfinity.com/downloads/fbctf024.zip
 http://railgun.macquakeinfinity.com/downloads/fbctf026.zip
@@ -103,6 +102,7 @@ http://ssj4death.condemned.com/gb/gbped10.zip
 http://sunsite.org.uk/packages/idgames2/planetquake/holywars/hw_frogbot.exe
 http://sunsite.org.uk/packages/idgames2/planetquake/holywars/hw_frogbot.sit.bin
 http://sunsite.org.uk/packages/idgames2/planetquake/holywars/hw_frogbot.zip
+http://sunsite.org.uk/packages/idgames2/planetquake/ramshackle/OBOTS100.ZIP
 http://tlb.quakedev.com/files/fbxways/omega.zip
 http://tlb.quakedev.com/files/fbxways/variants/fbxdoom.rar
 http://tlb.quakedev.com/files/fbxways/variants/fbxpk.zip
@@ -140,6 +140,7 @@ http://www.3ddownloads.com/showfile.php3?filename=vicinity/vicinitymodels.zip
 http://www.3ddownloads.com/showfile.php3?filename=vicinity/vicinityqwprogs.zip
 http://www.3ddownloads.com/showfile.php3?filename=vicinity/vicinitysource.zip
 http://www.angelfire.com/co2/kooliobot/images/koolio.zip
+http://www.angelfire.com/co2/kooliobot/images/rakoolio.zip
 http://www.angelfire.com/pe/pent3/images/frogbot011.zip
 http://www.bluesnews.com/archives/reaper.txt
 http://www.bluesnews.com/files/patches/obots100.zip
@@ -149,7 +150,7 @@ http://www.botepidemic.com/fmods/demos/squaretst.zip
 http://www.botepidemic.com/fmods/fbca088se.zip
 http://www.botepidemic.com/fmods/fbctf052.zip
 http://www.botepidemic.com/fmods/hw_frogbot14h.zip
-http://www.ccn.cs.dal.ca:80/~ae142/Elim20b6.zip
+http://www.ccn.cs.dal.ca/~ae142/Elim20b6.zip
 http://www.cdrom.com/pub/idgames2/newstuff/doombot.zip
 http://www.cdrom.com/pub/idgames2/newstuff/zeus202b.zip
 http://www.cdrom.com/pub/idgames2/quakec/bots/darkbt09.zip

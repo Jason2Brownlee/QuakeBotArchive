@@ -177,6 +177,7 @@ pak2pak.zip
 prodigy35b1.zip
 qcbot001.zip
 qcbot002.zip
+rakoolio.zip
 rbot.zip
 reaper.zip
 reaper08.sit.hqx

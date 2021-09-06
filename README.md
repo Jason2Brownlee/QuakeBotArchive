@@ -43,6 +43,7 @@ Bot Name | Bot Author(s) | File
 Abandon All Hope (Cujo) | John McClure | [abnd2a.zip](bin/abnd2a.zip) ([txt](bin/abnd2a.txt))<br>[abandon2.zip](bin/abandon2.zip) ([txt](bin/abandon2.txt))<br>abandon1.zip
 Accuracy FMOD (Frogbot) | Algirdas Kepezinskas aka "ZeCybEr" | accuracy.zip
 Ache (Frikbot) | Athos Konkoran Kryn | [ache.zip](bin/ache.zip)
+Arena Kooliobot | Robert de Heus aka "Koolio" | rakoolio.zip
 Asdf's FMOD (Frogbot) | Matt McChesney aka "asdf" | [asdfmod100.zip](bin/asdfmod100.zip)
 Attacker | Jonathan Geary | [attacker.zip](bin/attacker.zip) ([txt](bin/attacker.txt))
 Awesome (Warbot) | Brett King aka "BulkA" | [awesome.7z](bin/awesome.7z)
