@@ -646,6 +646,7 @@ Estep Bot (EsTePBot)
 	https://cs10.spac.me/f/046006066143136197125049135109122007137232040151223033169236/1630273999/42289501/0/f03c03c8fce7f01e99d4e70b76464aaa/estepbot_%28bot_quake1%29-spaces.im.zip
 	http://members.xoom.com/_XOOM/OrbScript/estbt/estepboti.htm
 		not archived
+		https://web.archive.org/web/19991115222222/http://members.xoom.com/OrbScript/estbt/estepbot.htm
 	http://members.cox.net/randar/estepbot2eng.zip
 	https://demob.ru/content/files/42289501-estepbot-bot-quake1
 	http://usuarios.airastur.es/quaked/estbt/estepboti.htm
@@ -972,7 +973,6 @@ Killer QCBot
 	http://heart.engr.csulb.edu/~thomason/bot/
 	https://web.archive.org/web/19980614160053/http://www.inside3d.com/nov12-nov13.shtml
 QCBot
-	https://web.archive.org/web/19990221085355/http://users.andara.com/~jdown/beta7.txt
 	Alan Kivlin
 	http://gue-tech.asee.org/quake/qkrmods/
 	https://web.archive.org/web/19980220162256/http://gue-tech.asee.org/quake/qkrmods/
@@ -1210,7 +1210,7 @@ Omicron version 1.02 (with fixes)
 	https://s3.amazonaws.com/neogeographica-downloads/guides/deathmatch_with_bots/obots102-fixed.zip
 The Lone Gunmen QuakeBOT / TLGBot
 	https://www.quakewiki.net/archives/botarea51/main/history.html
-	http:/www2.eis.net.au/~lcullen/tlg/
+	http://www2.eis.net.au/~lcullen/tlg/
 	https://web.archive.org/web/19990125075903/http://203.32.12.18/
 	TLGBot
 	https://www.quaddicted.com/files/idgames2/quakec/monsters/dragon.txt

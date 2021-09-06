@@ -74,6 +74,12 @@ http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/holywars/hw_frogbot.zip
 http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/holywars/hwqwbot.exe
 http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/holywars/hwqwbot.sit
 http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/holywars/hwqwbot.zip
+http://ftp.telepac.pt/pub/idgames2/telefragged/metro/frogbot000.zip
+http://ftp.telepac.pt/pub/idgames2/telefragged/metro/frogbot003.zip
+http://ftp.telepac.pt/pub/idgames2/telefragged/metro/frogbot005.zip
+http://ftp.telepac.pt/pub/idgames2/telefragged/metro/frogbot007.zip
+http://ftp.telepac.pt/pub/idgames2/telefragged/metro/frogbot009.zip
+http://ftp.telepac.pt/pub/idgames2/telefragged/metro/frogbot011b.zip
 http://geocities.com/timessquare/hangar/8961/sq12to13.zip
 http://geocities.com/timessquare/hangar/8961/squirt12b.zip
 http://groups.yahoo.com/group/friktf/files/friktf-051901.zip
@@ -207,10 +213,11 @@ http://www.telefragged.com/mirrors/mirror.pl?epidemic/frogbot012b.zip
 http://www.telefragged.com/mirrors/mirror.pl?epidemic/frogbot012b.zip
 http://www.telefragged.com/mirrors/mirror.pl?qnm/fbedit15.zip
 http://www.ugrad.cs.ubc.ca/spider/u6m1/QC/killer.zip
+http://www.users.bigpond.com/clanslug/ClanbotV0.9b.zip
 http://www.users.bigpond.com/clanslug/ClanV0.5Auto.zip
 http://www.users.bigpond.com/clanslug/ClanV0.6Auto.zip
 http://www.users.bigpond.com/clanslug/ClanV0.7HMan.zip
-http://www.users.bigpond.com/clanslug/ClanbotV0.9b.zip
 http://xmark.ausgamers.com/xkteams/xkteams1705.zip
 http://xmark.ausgamers.com/xkteams/xkteams1705s.zip
 http://xmark.ausgamers.com/xkteams/xkteams2.zip
+
