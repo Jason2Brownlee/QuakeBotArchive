@@ -1,0 +1,7 @@
+Name: darKMajick Deathmatch Enhancements
+OS: DOS registered Quake
+Author: Nightbringer (Brendan McArdle)
+Email: brendan.mcardle@clear.net.nz
+Descript: 20 new weapons - flamethrower, sniper rifle, nuke, and loads more!
+	  Many new features like Fiend's Pentagram, solid player bodies...
+	  Specially designed for deathmatch.

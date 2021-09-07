@@ -1,0 +1,390 @@
+/////-----------------------------------------------------------/////
+
+        ////////
+        // darKMajick Deathmatch Enhancements //
+                                        ////////
+
+<< Version: >>  << 2.0 Updated Release >>
+Author:         Nightbringer                     /// Brendan McArdle
+Email/contact:  brendan.mcardle@clear.net.nz     /// ICQ#5030858
+Website:        /// Shadowgate ///
+                http://www.geocities.com/TimesSquare/Battlefield/2313
+Graphics:       Nightbringer
+                Daniel "ACE" Rivers
+Ideas/Testing:  Tom "Mephistopheles" Hallet-Hook /// hllthook@ihug.co.nz ICQ#5590662
+                Thomas "Asylem Escapee" Leys     /// thomas@technman.co.nz ICQ#2022327
+                Nick "The Reaper" Hay            /// wendyh@ihug.co.nz ICQ#5552987
+                Daniel "ACE" Rivers              /// d-av@iname.com ICQ#1095787
+Distri. Date:   30 Dec '97
+Distri. File:   dkmjk20.zip OR darkmajk.zip
+
+Type: QuakeC:   yes (with source)
+      Graphics  yes (mdls and a new console bg)
+      Levels:   no  (not yet, anyway)
+      Sound:    yes
+Use:  1Player:  yes (overkill! overkill!)
+      DM:       of course
+      Co-op:    yes, but hard on the monsters
+OS:   DOS:      of course (designed in DOS)
+      WinQuake: yes
+      GLQuake:  yes, check the descripts for things to watch for in GL!
+
+Other Mods:     QWar Alpha 0.014, Pyromania, the Mass Driver
+
+// Acknowledgement //
+This entire mod was based on the Fiend's Pentagram by Josh Spickes, John 
+Spickes and Allan Seger.
+
+/////-----------------------------------------------------------/////
+
+        // NEW STUFF //
+-WrAIth AI is _MUCH IMPROVED_! Includes roampathing and combatpathing,
+ better combat AI and better weapons usage - they will kill you baaad...
+ See WRAITH.TXT for info. It's still not even half as good the ZeusBot or
+ the Reaper, but it's actually playable! Whee!
+-Check out the Cataclysm - now upgraded to the best mininuke ever!
+-Upgraded the vortex to have cool gfx and slightly more powerful. Gib-i-licious!
+-Added the Monofilament Wire - string this over a corridor to razor any
+ unfortunate that passes through it into chunky little gobbets >:)
+-The AutoCannon has been replaced with the Explosive Shell option for
+ the double shotgun (heh, heh...) - try it with command line option
+ -particles 10000 for best results.
+-Added the Railgun - not really much variance in playability, but it's fun
+ the way people's flesh gets ripped off their bones with it!
+-Instant sniper rifle like in TeamFortress.
+-Sniper rifle aiming - shoot peoples heads off, hit 'em in the legs and
+ slow 'em down or just blow them into little bloody kibbles.
+-Added temp1 server variable - in use now are Night Mode (no lights, use
+ spotlight, headlight and lolight_on), wrAIth spawning, jetpack and The Hook
+ toggles.
+-Upgraded the LasCannon's graphics and tweaked it's params.
+-Lotsa vmodels have been upgraded and now look passably cool.
+-Almost all weapons have been improved in some way, and tweaked for best
+ playability.
+-Shellcases now make a neat little 'tink-tink-tink' noise as they bounce
+ around.
+-Bouncy dead bodies work for monsters too.
+-Fixed loadsa little bugs - too many to list here.
+-Added DARKMAJK.CFG to init aliases and do startup splash screen.
+-Tweaked weapons params.
+-Redid the txtfiles (duhh...)
+
+        // INSTALLATION //
+If you have a previous version of darKMajick, please install OVER it, and
+dont worry about redundant files - all important stuff is in the pakfile.
+Make a dir under your quake directory called dark or something, e.g
+C:\QUAKE\DARK
+Unzip the zipfile into here - dont worry about directories and stuff, theyre
+all in the pakfile. SRC.ZIP is the sourcecode - put this anywhere you like,
+or del it if you don't want it.
+Now, go back to the quake directory and run quake, e.g
+QUAKE -GAME DARK
+And it should work - you should be presented with the (new) darKMajick console
+background, and quake should load and run as per usual.
+
+To access these weapons, merely press the appropriate weapon select key
+more than once. Check out the end of this txtfile if youre the kind of person 
+who likes reading about stuff more than using it - but its worth looking at 
+for tips on using the new weapons and features. Look at WRAITH.TXT for info 
+on the wrAIth DM bot. If you want to setup a net server, or control a LAN
+game, look at SERVER.TXT for temp1 server variable info.
+
+        // DEATHMATCH INFO //
+Only real problems are that everyone who plays needs the mod (not just server)
+and (sometimes) the cataclysm and flamewall give 'packet overflow' msgs.
+Most things have been pretty well playtested, so nothings too psychotically
+lethal - though dms with this are on the whole faster and nastier than with
+the standard weps (hehehe).
+
+        // KNOWN BUGS //
+-wrAIths suck quite a bit, although not as much as they used to.
+-Dont stand with your left side up against a wall while using the missile pod :)
+-Some death messages are a little weird if you do things like flame someone,
+ die, and then they burn to death.
+-Some stuff _has_ been known to crash servers with 'No free edicts', but we 
+ play 3player heaps and it has never crashed once. Allow shitloads of players
+ at your own risk :)
+
+        // QUAKEC INFO //
+Editors used: dos edit.com, neopaint, quakeME, worldcraft 1.5b shareware,
+              qME demo version, corel photo-paint, win95 media player(!),
+              qART shareware, pakexplorer, grep, SB16 wave editor, QuArK
+Compilers used: qccdos, proqcc and later fastqcc (this rocks! get it now!)
+Build time: ??? + ??? :)
+Does anyone read this stuff anyway? This is the second revision of darKMajick,
+and I have cleaned up alot of useless and/or crap code, and replaced other 
+people's code with my own. I am now proud to say that, apart from the most 
+excellent Fiend's Pentagram mod, all code in darKMajick has been written by 
+me - not bad for a 14 year old, ne? Any suggestions or comments on darKMajick? 
+Email me at the above address and I will try to answer soon afterwards if 
+my !damned! modem isnt dead again. Use any of this stuff in compilations or 
+TCs if you want - as per the Copyrights/Permissions at the end of this
+txtfile.  I haven't polished up this code much, but some of the newer stuff 
+is the introduction of deathtypes (took me this long to get around to doing 
+it, and QW has them already! Duhh...) and the use of classname "timer"s - 
+like flames etc... .netname is used to distinguish between different types of
+timers, cause they are all .classnamed as "timers" so I can use find() to
+check on them. If I get bored I might re-release this again, this time with
+_full_ code optimisation and _all_ the little tiny bugs fixed, but thats only 
+if Quake II editing needs a real computer (ie something bigger than a 120 with
+16mb) - check out Shadowgate for more info on my upcoming Quake II project...
+
+        //////
+        // Descriptions //
+                   ///////
+
+    //-- Weapons --//
+/ Axe /
+Chainsaw:       The reason why the axe is so crap is that its got too long a 
+                swing time. Heres a nasty close combat weapon that remedies 
+                this, and lets you keep deathmatches up close and personal...
+/ Shotgun /
+Boltgun:        A big meaty machine gun that swallows lotsa shells but rips
+UPGRADED!       people into little tiny bloody pieces. Useful when there
+                arent enough weapons to go around. Speaking as a HWGuy from
+                TeamFortress, it's good to have an assault cannon that you
+                don't have to stand still to use :)
+/ Super Shotgun /
+Explosive Shells:A new version of the super shotgun that fires bursts of high
+NEW WEAPON!     explosive pellets. Like a sawn-off with attitude.
+                // GLQUAKE COOL FX! //
+/ Nailgun /
+BlenderGun:     Fun one this. It fires nails, except when they hit people they
+                stick inside 'em and rotate, turning their insides into thin
+                reddish soup and spewing blood everywhere. If they die, they will
+                explode into lots of chunky kibble instead of just falling over.
+/ Super Nailgun /
+Flamer:         This spews forth a huge conical blast of flame, using up nails
+UPGRADED!       in the process. The flames will stick to people and burn,
+                doing damage before burning out. Doesnt work underwater,
+                though (duhh). Now has new cool model and sounds.
+                // GLQUAKE COOL FX! //
+Railgun:        Fires a pulse of electromagnetic plasma (yeah, it uses nails -
+NEW WEAPON!     it's got a little matter-energy converter inside :) that will
+                flay any living thing to the bone, ignoring armour. Nice GFX.
+                Uses five nails per shot.
+/ Grenade Launcher /
+Napalm:         A pyromaniacs delight! Throws a big fireball that trails flame
+                behind it - even a near miss can be enough to make your target
+                burst into flames! Takes two grenades.
+Laser Mine:     A cool idea from Duke3d - you can only use this when youre
+UPGRADED!       facing a wall - when you fire you attach a laser mine to the
+                wall which activates after two seconds and sends out a red
+                laser beam. If anyone breaks this beam, the laser mine explodes!
+                Takes 5 grenades and times out after awhile.
+ProxMine:       Drops a mine on the ground behind you that arms after two
+                seconds, rises into the air and starts to spin. After that, it
+                will explode if anyone comes close (quite often gibbing them),
+                if someone shoots it with an explosive weapon, or by timing
+                out after about two minutes. A favourite tactic of an unnamed 
+                quaker was to put these things _inside_ health packs, ammo etc.
+                Dont try this, because if a ProxMine touches an item, it will
+                EXPLODE!
+BouncyMines:    Takes 5 grenades and explodes into five grenades that, after a
+UPGRADED!       time, start to bounce and ricochet wildly off walls, floor,
+                ceiling etc. and explode randomly, or when they hit someone.
+RC Grenade:     Like the pipebombs in Duke3D - these simply bounce off people,
+                and dont explode by timer. Instead, impulse 52 detonates all
+                your pipebombs - perfect for ambushes! These can be detonated
+                in midair and so are much more versatile than normal grenades.
+Vortex Grenade: After timeout, this nasty device pops up into the air then
+NEW UPGRADED    implodes and turns into a crackling warp-corridor into a dark
+  VERSION!      nightmare dimension, sucking all within its grasp ever
+                closer... Anyway, if anyone touches it, they will suffer the
+                effects of a human being sucked through a molecule-sized hole
+                all at once - messy. Takes 5 grenades. 
+Point Defence
+System:         Takes five grenades, then pops up after timeout and fires
+UPGRADED!       nails at nasty people nearby. Explodes after a bit, or if
+                someone shoots it enough.
+Cataclysm
+Device:         The worlds smallest nuke!!! Throws a contained energy packet
+NEW UPGRADED    (ie lavaball) that costs 10 grenades, and explodes into a
+  VERSION!      _really_ big circular shockwave. Run away quickly...
+                A note on usage: like a real explosive, its shockwave
+                is more lethal when compressed into a small corridor than
+                in a large open area. This is really cool - check it out!
+                // GLQUAKE COOL FX! //
+/ Rocket Launcher /
+TwinFire Rocket:This throws minimissiles at a ludicrously high rate of fire.
+UPGRADED!       Dont get caught on the wrong end of this. Chews up
+                ammo, though, and has ammo clips - one clip holds 8 rockets,
+                and you will have to pause between clips to reload.
+Sniper Rifle:   Ever wanted to sit on one side of a cavern, zoom in on your
+NEW UPGRADED    unsuspecting target, squeeze the trigger and laugh your head
+  VERSION!      off as he loses his? Well, now you can! The Sniper Rifle fires
+                one shot that does a huge amount of damage if it hits someone.
+                Also, it makes no noise because of its silencer. Note, though,
+                that it takes rockets (one per shot) and it takes ages to
+                reload. Use the "S" key to zoom in - a lot more useable than
+                F11. A new feature is the ability to shoot people's heads off,
+                hit them in the legs and slow them down, or just kill them dead!
+FlameWall:      Barbeque, anyone? This nasty little device (in the form of a
+UPGRADED!       rocket) is number 2 mass destruction weapon today. When the 
+                rocket is fired, it creates a 'wall of flame' effect in front 
+                of you - and all the fires are explosions! Step well back when
+                chucking one of these, and dont use in confined spaces! Takes
+                10 rockets. If it impacts something without using up all its
+                warheads, it will scatter them over the impact area like napalm.
+AutoHoming
+Missile:        Fires a missile (using 3) that will home in on the nearest
+                enemy in its 180degree front arc of sight. Goes slower than
+                a standard rocket but packs the same punch. NOTE: players can
+                actually run slightly faster than these, so if you see 
+                somebody fire one at you RUN AWAY VERY QUICKLY.
+Missile Pod:    A shoulder-mounted missile battery that saturates the target 
+UPGRADED!       area with your choice of high explosive or plasma missiles! 
+                Switch ammo types using impulse 50. Unfortunately, the 
+                minimissiles have slightly temperamental guidance systems, 
+                making this a bad choice of weapon to use at long range. Uses
+                up eight missiles when fired. 
+/ Thunderbolt /
+Jetpack:        When used, takes cells but propels you into the air on a huge 
+UPGRADED!       pillar of flame. Not very useful, really, but good for quick
+                escapes. Better is the 'jump pack', accessable by using
+                impulse 50. This pushes you forward as well as up - great for
+                leaping over barriers, whipping out your flamer and 
+                slaughtering everybody. NOTE: You cant use this in coop or 
+                single player - it really ruins the levels.
+Lascannon:      Fires a huge bolt of pure energy, using six cells, but 
+UPGRADED!       guaranteed to blast anything it touches into randomized plasma.
+                High reload, but still worth using when youve got a 
+                megahealthed, 200-armoured player in your sights...
+Monofilament
+Wire Generator: This will fire two tiny generators into walls and sets up a
+NEW WEAPON!     monomolecular-thick 'wire' field between them - anyone running
+                through it will then be neatly divided in two >:) However, if
+                they spot the generators, targetting either one with an
+                explosive weapon will destroy the field and the other generator.
+                To use, fire one generator at an object, then fire the other to
+                a wall in DIRECT LINE OF SIGHT with the first. When the field is
+                in place, the generators will activate and you will lose twelve
+                cells. The generators timeout after two minutes and the wire
+                will break if enough people walk through it.
+
+    //-- Impulses/Aliases --//
+wepvar1:  Weapon Variable 1 - alters weapon behaviour (use for Missile Pod,
+           Jetpack).
+detrc:  Detonate all your RC Grenades.
+sight:  Toggle laser sight between off, dot and targetter.
+headlight:  Toggle headlamp on/off.
+spotlight:  Toggle spotlight on/off.
++jetpack: Bind a key to this to use the jetpack.
+lolight_on: Activate Low Light amplification.
+lolight_off: Deactivate Low Light amplification.
+200: Go forward through the player skin list. <--\   These only work if you
+201: Go back through the player skin list.    <--+-- have a multiskin PLAYER.MDL
+202: Return your skin to the default (0).     <--/   in the DARK/PROGS directory
+
+    //-- General --//
+You fiend!:     The Pentagram of Protection, when grabbed, now turns you into
+                a fiend! Your weapons are fiend slash (CTRL/fire) and fiend 
+                jump (SPACE/whatever jump is). Jumping is probably the best 
+                way of getting around - looking up and jumping (pressing fire 
+                as well helps) can get you into places that annoying humans 
+                cant follow. Watch out for Quad-Fiends. Not nice. This is one 
+                piece of excellent coding I cant claim credit for - see above.
+Necromania:     Dead player bodies in deathmatches are solid - you can chop 
+                them up with the axe, rip into them with the Perforator, or 
+                hit them with a rocket and watch the kibbles fly! In relation
+                to this, bouncy bodies have been implemented so when you kill
+                someone with a rocket, they go flying to land in a crumpled
+                heap near the opposite wall. Fun!
+I C U...:       The alias "sight" will toggle the new, accuracy-increasing 
+                laser sight. Great with the sniper rifle! It comes in two 
+                types - laser dot (just like a normal laser sight) and holo-
+                targetter, which changes colour when its over a target. 
+                However, it tends to be pretty visible and people will notice 
+                you more if you use it (heh, heh...).
+Let there be
+light...:       Use alias "headlight" to toggle your headlamp on and off -
+                this lights up your surroundings, but makes you more
+                visible to other players.
+And let there 
+be more light:  Use alias "spotlight" to toggle your spotlight on and off - this
+                only works with the laser sight active.
+Drip, drip:     Now, when youre low on health, youll start to bleed. This
+                intensifies as your health level drops, and youll eventually
+                start trailing gibs. Good for picking up easy kills.                
+Multiskin:      A rudimentary multiskin function is in place, allowing you to
+                go forwards and backwards through the skin list, and return to
+                the standard skin 0 (impulses 200, 201, and 202).
+Heh, heh, heh..:There are some other extra features here, but you can find
+                out about 'em for yourself :)
+
+
+        // THANKS TO //
+id software, for the most flexible and cool game Ive ever seen.
+Alpha the wrAIth, for being a patient target while I tested the sniper rifle.
+
+        // VERSION HISTORY //
+v1.00: First public release.
+v1.20: << Not released >> Fixed bouncing monster bodies, tweaked lascannon
+       reload & power. Tweaked flamer stick chance & dmg. Added flamer vmodel
+       from Pyromania. Killed off some bugs.
+v1.30 - 
+v1.99: Uncounted little tweaks, not released to public but playtested on
+       Asylem Escapee's network.
+v2.00: Added shooting-off-bits for sniper rifle. Upgraded wrAIth AI heaps.
+       Upgraded lotsa vmodels. Added instant sniper rifle a la TeamFortress.
+       Made Cataclysm much more usable >:). All weapons autochanging bugs
+       should now be squished for good. Lots more additions/alterations -
+       too many to list here. Might actually be playable now.
+
+        // AUTHOR //
+You really want to know?!? Whatever. Anyway, Brendan "Nightbringer" McArdle
+(thats me) is a 14-year-old student, lives in Auckland, New Zealand, has tried
+possibly every facet of Quake modification there is, and plays lots of network
+games on Thomass _three_ pentiums. Is addicted to Quake, TeamFortress, Diablo
+and Total Annihilation. Occasionaly wanders around the Clear NET QW and TF
+servers, with a ping of 300 or so. Hates LPBs. Has no current clan affiliation.
+As well as darKMajick, he has written QWar (quote:"it's too unstable to be 
+playable!"), the Mass Driver (quote:"melted nails - yummy"), Pyromania 
+(quote:"quote:"Burn motherf*cker, burn!" :)"), and several unpublished levels. 
+Is currently thinking towards a QuakeWorld-only TC, or one of several Quake II 
+ideas. Develops webpages and webpage art as well as QuakeC, models and levels. 
+Has submitted stuff to Quake, the Universe and Everything, and lotsa other
+Quake pages.
+
+// Some Quotes //
+"I Have Seen The Omens And They Are Dire; I Have Seen The Future - And It Is Death"
+"!DAMN!"
+"have a nice burn"
+"i would have hit you except i didnt"
+"scream if you get disconnected"
+"can you find 'satanists' in the yellow pages?"
+"being dead is bad for your health, but being alive is even worse ;)"
+"hehehe..."
+"arg! my wraith is hydrophobic!"
+"hehehe many vortexes make people dead"
+"aaarrgggg detpaack!!!!!"
+"no, there _is_ a difference between sniping and camping - you kill people
+ when youre a sniper"
+"if you shoot my head off i will be forced to die!"
+"the name 'crosshairs' doesnt really apply to an inaccurate demo man, ne?"
+"if you hear a 'tink' nearby, it means someone is sniping at you. if your
+ head falls off, it means a _wraith_ is sniping at you :)"
+"!i hate !damn! spies who pretend to be you!"
+
+        // COPYRIGHT/PERMISSIONS //
+The Quake modifications included in this archive are copyright (c) 1997 
+Brendan McArdle. QuakeC is copyright (c) 1996 id Software.
+1) You MAY use SEGMENTS of this code in your own publically available mods,
+   provided that you quote my name, email address and the version of
+   darKMajick that you used, and provided that you do not receive any
+   profit for this use.
+2) You MAY NOT use darKMajick as a BASE for any further quake mods without
+   my written permission.
+3) You may not distrubute this Quake modification and claim it is your own.
+4) Whenever you distribute this mod, you must distribute the UNALTERED
+   darkmajk.zip OR dkmjk20.zip file containing this UNALTERED textfile.
+5) If you wish to include this mod on a CD compilation or any other media
+   where you are distributing this mod for profit, you must notify me and 
+   obtain my written permission.
+6) I am not responsible to anything that happens to your computer, you, or
+   anyone or anything else during the use (or abuse) of this mod.
+7) I, Brendan McArdle, reserve all rights to this mod and reserve the right to
+   invoke them at any time.
+8) Actura Software MAY NOT distribute this mod in ANY WAY, SHAPE OR FORM!
+
+By using this mod you agree to ALL the above condidions.

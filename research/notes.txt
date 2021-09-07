@@ -2371,7 +2371,28 @@ Bot 'N Bits
 		same guy
 	https://www.gamers.org/pub/idgames2/utils/quakec/pmaster.txt
 		same guy
-
+darKMajick (Wraith Bot)
+	https://www.quaddicted.com/files/idgames2/quakec/compilations/dkmjk20.txt
+	https://www.quaddicted.com/files/idgames2/quakec/compilations/dkmjk20.zip
+	https://www.quaddicted.com/files/idgames2/quakec/compilations/darkmajk.txt
+	https://www.quaddicted.com/files/idgames2/quakec/compilations/darkmajk.zip
+	v2.0, prior versions?
+		dkmjk20.zip OR darkmajk.zip
+		only two public releases
+	Brendan McArdle aka "Nightbringer"
+	based on bgbot
+	http://www.geocities.com/TimesSquare/Battlefield/2313
+		https://web.archive.org/web/2009*/http://www.geocities.com/TimesSquare/Battlefield/2313
+		https://web.archive.org/web/19991003084359/http://geocities.com/TimesSquare/Battlefield/2313/
+		https://web.archive.org/web/20000522110747/http://www.geocities.com/TimesSquare/Battlefield/2313/downloads.htm
+		quake 2 mods...
+		https://web.archive.org/web/20000522110747/http://www.geocities.com/TimesSquare/Battlefield/2313/dkmjk200.zip
+		https://web.archive.org/web/20000522110747/http://www.geocities.com/TimesSquare/Battlefield/2313/darkmajk.txt
+		https://web.archive.org/web/20000522110747/http://www.geocities.com/TimesSquare/Battlefield/2313/descript.txt
+	http://www.planetquake.com/shadowgate/
+		https://web.archive.org/web/19991009085711/http://www.planetquake.com/shadowgate/
+		https://web.archive.org/web/19991010014245/http://www.planetquake.com/shadowgate/index2.htm
+		quake 2...
 
 
 
