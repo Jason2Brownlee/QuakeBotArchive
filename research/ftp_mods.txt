@@ -36,6 +36,7 @@ https://www.quaddicted.com/files/idgames2/quakec/compilations/dkmjk20.txt
 	Contains "bot[,. ]":  see wraith.txt for info. it's still not even half as good the zeusbot or
 https://www.quaddicted.com/files/idgames2/quakec/compilations/dope_dm.txt
 	Contains "bots[,. ]": please note: this mod has no monsters or bots... deathmatch only.
+
 https://www.quaddicted.com/files/idgames2/quakec/compilations/fear.txt
 	Contains "reaper":  hmm...i definatly want to addon a deathmatch bot, like reaper bot or
 	Contains "cujo":         cujo - your very own attack dog

@@ -3,7 +3,7 @@ Research Tips
 
 Tips, in case I forget how to find things over the years.
 
-- There are many mirrors of cdrom over the years and many are in archive.org.
+- There are many mirrors of cdrom over the years and many are on archive.org.
 - Many ftp sites have HTML interfaces that were captured on archive.org. Provides a great way to see what files existed at specific times and to get some .txt files.
 - On HTML pages for ftp pages captured in the archive, check the incoming/ and newstuff/ directories to see any additional files that have been uploaded but not yet put into the bots/ directory.
 - Many warez packs for quake also include mods/bots/levels.
