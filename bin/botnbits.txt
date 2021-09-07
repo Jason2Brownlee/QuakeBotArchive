@@ -1,0 +1,210 @@
+Title    : Bot 'N Bits
+Filename : botnbits.zip
+Version  : 2.2
+Date     : 22/2/96
+Author   : Flux (Sam Marshallsay),14
+Email    : home.marshallsay@mcmail.com
+Credits  : The Punisher (Big thanx) - For BGbot code.
+           Ken "Page Fault" Alverson - For Guided missile code.
+	   AsmodeusB (Shawn Colesmith) - For object kicking.
+	   Shyft (Bill Turner) - For Guardian Minion code.
+           KTGOW - For the tele-bombs code.
+           Whoever did the SGQCMODS patch - I took some of the pipebomb code.
+	   PVP - For most of the proximity mine and firewall code.	
+           Bort - (lotsa thanx) For the hook, hologram code and shell ejection
+           (this was by far the easiest code to incorporate, thanks Bort.
+	   VHold - For the homing missile code
+
+Type of Mod
+-----------
+Quake C  : yes
+Sound    : yes
+MDL      : yes
+
+
+Format of QuakeC
+----------------
+unified diff  : no <<What is this anyway
+context diff  : no <<See above
+.qc files     : no <<Code is too messy at the moment, working on it...
+progs.dat     : yes <<Pretty essential
++A nice short demo with a lotta gore in it (using reaper bots).
+^Stupid :)^
+
+Description of the Modification
+-------------------------------
+This mod is a lot of other peoples work that has been put together and mixed
+around and some new code has been added by me to make it work.
+
+ Impulse 100 creates a bot. There is no way to
+ get rid of the bots unless you kill it. They also
+ have control of themselves. These guys are pretty good if you have a
+ teamplay deathmatch team as they will attack an opposing player and his
+ bots.
+
+ Guided missiles are always available as long as you have some
+ rockets. They are controlled using left+right and the look up and
+ down keys or by holding your look button and using the mouse or cursor
+ keys. To access guided missiles simply press 7 and a prompt will say
+ "Regular missiles" or "Guided missiles", select the latter and fire
+ as normal. This uses rockets as normal. Guided missiles arent as fast or
+ as powerful as normal missiles (gotta make it fair). A glow surrounds a
+ player currently flying a missile, so no going to hide in the dark.
+ Guided missiles can use portals but not slipgates and can go through
+ lava, water and acid. And can still hit shootable buttons.
+
+ To kick a player or monster bind a key to "impulse 120".
+
+ The guardian minion is created with "impulse 15" and is a quad damage
+ symbol with noclip which follows you around and zaps any monsters (or other
+ players) that it sees. You need at least 40 cells to activate it and it then
+ depletes those 40 cells. It creates its own little cellammo pocket of 100
+ cells which it uses. When these cells are depleted the minion dissapears
+
+ To drop a pipe bomb use impulse 61 and to detonate them use impulse 62.
+ This uses rockets. There is also a range limit to the detonator so that you
+ can blow up various batches of pipe bombs. Your pipe bombs are detonated when
+ you die
+
+ To throw a tele-bomb use impulse 42, typing this again teleports you to the
+ location where the bomb landed and blowing the bomb up at the same time for
+ effect which isnt harmful to you unless you were standing very close by to
+ where the bomb landed but is harmful to anyone else nearby. All players and
+ monsters can be telefragged in this way. There is no range limit and no ammo
+ is used. Tele return spots can also be dropped using impulse 41, only one can
+ exist at a time, so making a new one deletes your old one, however these can
+ be used as often as you wish through typing impulse 43. No ammo is used and
+ there is no range limit.
+
+ To fire a firewall simply obtain a grenade launcher and select firewall mode
+ the missile will work like a normal grenade but before exploding will rise
+ up into the air then explode releasing a shower of grenades which blow up
+ close to the ground. This uses 5 rockets.
+
+ To lay a proximity mine simply obtain a grenade launcher and select proximity
+ mine mode then press fire a mine will be layed directly under you so keep
+ moving! The mines have 1.5 second arming delays, when they are armed they
+ will rise up into the air slightly then spin round. Anything coming close
+ will be blown apart with the power of 5 grenades!
+ Proximity mines can be disposed of by creating another explosion nearby,
+ therefore chain reactions can be achieved quite easily and diffusing them
+ is not a problem... If you se them in time!
+ This uses 5 grenades.
+
+ Shells are now ejected from the single and double barrel shotguns and very
+ effective they look too thanks to Bort, they also glow in the dark.
+
+ A hologram is available through impulse 99 it lasts 30 seconds and uses 30
+ cells.
+
+ Homing missiles are fired through selecting the rocket launcher and pressing
+ a key that has been assigned to impulse 22. These rockets dont travel as fast
+ as normal rockets, in fact they are not much faster than a players maximum
+ running speed. They take 5 rockets each, and whatta kick!
+
+ The grappling hook can be thrown through impulse 98 and withdrawn through
+ impulse 97, it is bound by default to the SPACE bar, to change this edit
+ flux.cfg and change the line 'bind SPACE "+hook"' to 'bind (yourkey) "+hook"' 
+
+ To self destruct you must have 10% health or less and some rockets, the more
+ rockets you have, the bigger the explosion.Impulse 69 for kamikaze.
+
+ To use the ID-Globe bind a key to impulse 70, it shows the monster/player
+ name and weapon when the crosshair passes over them.
+
+How to Install the Modification
+-------------------------------
+Make a new dir in your quake directory. (ie c:\quake\botnbits)
+then copy my zip file into that directory and copy your .cfg's from
+c:\quake\id1 into the same directory, pkunzip the file with the -d option
+(this unzips all subdirectories as well, if you forget the -d option you will
+have to make directories yourself and copy files by hand) i.e. 
+"pkunzip botnbits.zip -d".
+Then run quake as follows:
+         quake -game botnbits (or whatever you called the directory)
+
+Then bind keys to :-
+--------------------
+Impulse 100 - Spawn BGbot
+Impulse 15 - Spawn Minion
+Impulse 61 - Throw Pipe-Bomb
+Impulse 62 - Detonate pipe bomb
+Impulse 69 - Self destruct
+Impulse 41 - Mark tele-return
+Impulse 43 - Use tele-return
+Impulse 42 - Throw/use Tele-Bomb
+Impulse 70 - IDglobe toggle
+Impulse 120 - Kick
+Impulse 99 - Holograph
+Guided missiles are accessed by pressing 7 twice.
+Firewalls and Proximity mines are layed through using the grenade launcher.
+Impulse 22 - Homing missile
+Impulse 98 - Throw Grap hook
+Impulse 97 - Withdraw Grap hook
+Grappling hook is bound to SPACE by default
+
+Qwirks/Bugs:-
+-------------
+Note:-There arent as many bugs as it looks.
+
+Guided missiles come out of portals facing the way they went in, ignoring
+turnarounds. This resullts in missiles sometimes crashing straight into walls.
+
+Using guided missiles results in you becoming the missile temporarily, therefore 
+if you have a minion activated the minion will kill the real you because it now 
+thinks that you are the enemy. This does have its advantages though as the 
+minion now follows your missile around. If you collect a pentagram then create a 
+minion and fire a guided missile the minion will not be able to kill you and 
+will follow your missile. Circle your missile near other monsters or players and
+the minion will dispose of them. (Phew!)
+
+Power-ups such as the PoP and the quad damage do not end if you are in guided
+missile mode.
+
+Sometimes a telebomb will land in a small space or close to a wall, if you
+teleport you will become stuck, but quake will unstick you by teleporting you
+back to whence you came from.
+
+If a telebomb lands in lava or acid, you may not want to teleport...
+
+Any kills that the minion makes arent added to your score, this isnt really a
+bug, I just didn't incorporate this because the minion is more of a security
+device than anything and if it did add to your score the player(s) with minions
+activated would have an unfair advantage.
+
+If you are playing one player or coop, teamplay needs to be set if you intend
+on using the minion and bgbot together, otherwise the minion gets jealous and
+eliminates the innocent bgbot.
+
+Copyright and Distribution Permissions
+--------------------------------------
+
+Authors MAY use these modifications as a basis for other
+publically available work.
+
+You may do whatever you please with the contents of this archive.
+
+I know where your mother lives, and I have a Super Nailgun. >:->
+
+Future attractions
+------------------
+Multiskin... Coming soon!
+Reaper Bots!
+Any other suggestions?
+
+Sam Marshallsay AKA...
+=======================
+=FFFF F    F  F F   F =
+=F    F    F  F  F F  =		(Ministry of Death)
+=FFF  F    F  F  F F  =  (FLUX)     MEMBER OF MoD 
+=F    FFFF FFFF F   F =			CLAN
+======================= 	Visit our homepage at 
+			'http://easyweb.easynet.co.uk/~craigmcd/mod.htm'
+
+We help the grim reaper do his job, we clean up all the scum. And were pretty
+good at it too, if you think you're hard enough to challenge us, mail me and
+say so, include name, address, clan name, no. of people in clan, and what type
+of game you would like to challenge us at (Normal Quake, CTF, TeamFortress,
+Severed, Future Vs Fantasy... etc) whatever type it is, we should be able to 
+play.		We're UK based, just so ya know but we do have a member from
+	(we also have a UK server)     Philadelphia...

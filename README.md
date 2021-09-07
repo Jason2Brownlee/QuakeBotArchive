@@ -51,6 +51,7 @@ AxxWars (Cujo, Eliminator) | Akke Monasso | [axxwars10.zip](bin/axxwars10.zip) (
 BGADM Bot | George Leithner aka "Detour" | [bgadm101.zip](bin/bgadm101.zip) ([txt](bin/bgadm101.txt))<br>bgadmbot.zip
 BGBot | Robert DeFilippo III aka "Punisher" | [bgbot20a.zip](bin/bgbot20a.zip) ([txt](bin/bgbot20a.txt))<br>[bgbot16.zip](bin/bgbot16.zip) ([txt](bin/bgbot16.txt))<br>[bgbot16_src.zip](bin/bgbot16_src.zip)<br>[bgbot15.zip](bin/bgbot15.zip) ([txt](bin/bgbot15.txt))<br>[bgbot13.zip](bin/bgbot13.zip) ([txt](bin/bgbot13.txt))<br>[bgbot125.zip](bin/bgbot125.zip) ([txt](bin/bgbot125.txt))<br>[bgbot12.zip](bin/bgbot12.zip) ([txt](bin/bgbot12.txt))<br>[bgbot11.zip](bin/bgbot11.zip) ([txt](bin/bgbot11.txt))<br>[bgbot1.zip](bin/bgbot1.zip) ([txt](bin/bgbot1.txt))
 Borg Bot | Calvin Rien | [borg12.zip](bin/borg12.zip) ([txt](bin/borg12.txt))
+Bot 'N Bits (BGBot) | Sam Marshallsay aka "Flux" | [botnbits.zip](bin/botnbits.zip) ([txt](bin/botnbits.txt))
 Bot Hunt | Douglas H. King aka "Sea4" | [bthnt10.zip](bin/bthnt10.zip) ([txt](bin/bthnt10.txt))
 Bot Player (BPlayer) | Wolfgang Lehrach aka "Wolf" | [bplayer2.zip](bin/bplayer2.zip)<br>bplayer1.zip ([txt](bin/bplayer1.txt))
 BotArena (FrikBot) | Fabiano D. Amorim aka "Vegetous" | [botarena.zip](bin/botarena.zip)<br>[bt_scr.zip](bin/bt_scr.zip)
