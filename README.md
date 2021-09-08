@@ -63,7 +63,7 @@ CoopBot | Michael Messina | coopbotx.zip<br>[coopbot3.zip](bin/coopbot3.zip)
 Cronos Bot | "Cronos" | [hd_cbots_hd.zip](bin/hd_cbots_hd.zip)<br>[hd_cbots.zip](bin/hd_cbots.zip)<br>[hd_pak0.zip](bin/hd_pak0.zip)<br>[hd_progs.zip](bin/hd_progs.zip)<br>[cronobot107a.zip](bin/cronobot107a.zip)<br>[cbotpak106.zip](bin/cbotpak106.zip)<br>[cronobot101.zip](bin/cronobot101.zip) ([txt](bin/cronobot.txt))
 CTF Bot | Drew Davidson aka "BZ" | [ctfbot13b1.zip](bin/ctfbot13b1.zip)<br>[newctf12.zip](bin/newctf12.zip) ([txt](bin/newctf12.txt))<br>[ctfbot12.zip](bin/ctfbot12.zip) ([txt](bin/ctfbot12.txt))<br>[ctfbot11.zip](bin/ctfbot11.zip)
 CTFBot+ | Anthony Distler aka "*this" | [ctfbotp032399.zip](bin/ctfbotp032399.zip) <br>[ctfbotmw21.zip](bin/ctfbotmw21.zip)<br>[ctfbotp071498-upgrade.zip](bin/ctfbotp071498-upgrade.zip)<br>[ctfbotp071498u.zip](bin/ctfbotp071498u.zip)<br>[ctfbotp070498.zip](bin/ctfbotp070498.zip)<br>[ctfbot_060298.zip](bin/ctfbot_060298.zip)
-Cujo and Grapple | Xavier Javornicki | [cujgrap.zip](bin/cujgrap.zip) ([txt](bin/cujgrap.txt))
+Cujo and Grapple (Cujgrap) | Xavier Javornicki | [cujgrap.zip](bin/cujgrap.zip) ([txt](bin/cujgrap.txt))
 Cujo | Jonathan E. Wright | [cujo14.zip](bin/cujo14.zip) ([txt](bin/cujo14.txt))<br>[cujo13.zip](bin/cujo13.zip) ([txt](bin/cujo13.txt))<br>cujo12c.zip<br>cujo12b.zip<br>cujo12a.zip ([txt](bin/cujo12a.txt))<br>cujo12.zip ([txt](bin/cujo12.txt))<br>cujo11.zip<br>[cujo10.zip](bin/cujo10.zip) ([txt](bin/cujo10.txt))
 Dark Frogbot | "Pinsolle" | darkfrog.zip
 Darkbot | Terry Hendrix aka "Dark_Skye" | [darkbot-fnl-q2.tar.gz](bin/darkbot-fnl-q2.tar.gz)<br>[darkbot_0.13.9-pak.zip](bin/darkbot_0.13.9-pak.zip)<br>[darkbot_0.13.9-src.zip](bin/darkbot_0.13.9-src.zip)<br>drkbt013.zip<br>[drkbt11b.zip](bin/drkbt11b.zip) ([txt](bin/drkbt11b.txt))<br>darkbt10.zip<br>darkbt09.zip<br>[darkbt07.zip](bin/darkbt07.zip)<br>drkbot04.zip ([txt](bin/drkbot04.txt))<br>[drkbot03.zip](bin/drkbot03.zip) ([txt](bin/drkbot03.txt))<br>[darkbt01.zip](bin/darkbt01.zip)<br>[darkbotx.zip](bin/darkbotx.zip)
@@ -130,6 +130,7 @@ Hellsmash (Frikbot) | Khin Mannering aka "Dr. Shadowborg" | [qsr04apatch1.7z](bi
 Holo Soldier FMOD (Frogbot) | Algirdas Kepezinskas aka "ZeCybEr" | holomod.zip
 Human Bot (Hbot) | Jeffrey Lee | [hbot.zip](bin/hbot.zip)
 Indecisive Bot (Gyrobot) | Aaron Logue aka "Gyro Gearloose" | [gyrobot.zip](bin/gyrobot.zip) ([txt](bin/gyrobot.txt))<br>[gbotsrc.zip](bin/gbotsrc.zip)
+Insane (Cujo) | "RedChipolata" | [insane.zip](bin/insane.zip) ([txt](bin/insane.txt))
 IronWulvt's Deathmatch Bot | Ben Garrod aka "IronWulvt" | [iwbot21.zip](bin/iwbot21.zip) ([txt](bin/iwbot21.txt))<br>iwbot20.zip<br>[iwbot16.zip](bin/iwbot16.zip)<br>iwbot15.zip<br>[iwbot1.zip](bin/iwbot1.zip) ([txt](bin/iwbot1.txt))
 JBot | Jeffrey Lee | [jbot.zip](bin/jbot.zip)
 Kagero Bot | "The Kwanster" | [kagero.zip](bin/kagero.zip)

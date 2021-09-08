@@ -44,7 +44,6 @@ https://www.quaddicted.com/files/idgames2/quakec/compilations/fear13.txt
 	Contains "cujo": ==>#cujo (jonathan wright nelno@interpath.com) - your very own personal attack
 https://www.quaddicted.com/files/idgames2/quakec/compilations/fear20.txt
 	Contains "cujo": ==> cujo (jonathan wright nelno@interpath.com) - yr very own personal attack
-
 https://www.quaddicted.com/files/idgames2/quakec/compilations/insane.txt
 	Contains "cujo": 		jonathan e. wright (for the making of cujo)
 https://www.quaddicted.com/files/idgames2/quakec/compilations/kal_qk-p.txt
@@ -58,6 +57,7 @@ https://www.quaddicted.com/files/idgames2/quakec/compilations/kqp220z.txt
 	Contains "cujo":            zeus 2.x, cujo 1.x, blaze gun and bfg by jonathan e. wright (nelno@interpath.com)
 	Contains "bot[,. ]":            zeusbot scoring list by alan kivlin (aka virtuoso)
 	Contains "bots[,. ]": temp1 16        - limit maximum number of helper bots to each player to 2.
+
 https://www.quaddicted.com/files/idgames2/quakec/compilations/lrkrz_01.txt
 	Contains "bot[,. ]":  dmbot - death match bot
 https://www.quaddicted.com/files/idgames2/quakec/compilations/madness.txt

@@ -1,0 +1,481 @@
+Title    : Insane
+Filename : insane.zip
+Version  : 1.0
+Date     : 22/12/1998
+Author   : RedChipolata
+Email    : redchip@cole5.freeserve.co.uk
+Credits  : Rob Albin for ChaseCam code
+	   Ray Li for the FragReport code
+	   Xavier Javornicki for Cujgrap
+		His credits are:
+		Jonathan E. Wright (for the making of Cujo) 
+		"Mike" (for the making of the Morning Star)
+Type of Mod
+-----------
+Quake C  : YES
+Sound    : YES
+MDL      : YES
+
+About this Mod
+--------------
+This Quake mod is mostly my own work, except for the ChaseCam and the
+FragReport (see above for credits). It is also my first mod.
+
+/===========\
+|INSANE v1.0|
+\===========/
+
+=======
+WEAPONS
+=======
+AXE
+* Grappling Hook, also known as the Morning Star, added to Axe (press 1
+twice or use IMPULSE 99) Uses no ammo, and it can be used to kill enemies and
+get to hard-to-reach places. You can also cover distances quickly!
+* Axe hits now take 60 health off, instead of 20. This encourages more
+close combat in deathmatch. It also means you can gib Zombies with the Axe.
+
+SHOTGUN
+* Sniper Rifle added to Shotgun (Press 2 twice). Sniper Rifle takes 10 nails
+per shot, is silent, and does a lot of damage.
+
+DOUBLE-BARRELLED SHOTGUN
+* Machine Gun added to Shotgun (press 3 twice). Machine gun uses 2 shells per
+shot, and you can fire almost 20 shells per second.
+* Six bullets come with the Double-barrelled Shotgun instead of five.
+
+NAILGUN
+* The Nailgun is more powerful (One shot takes off 16 health, not 9).
+* Nailmines added to Nailgun (Press 4 twice). Nailmines take 5 nails per
+shot, and leave nails dangling in mid-air. If anyone touches them, it will be
+as if they were shot by them. TIP: Don't just fire one nail mine, fire
+several, so anyone who touches them will be killed! One nail mine will only
+take off 16 health. 9 shots (45 nails) will kill a player with 100 health and
+no armour.
+
+SUPER NAILGUN
+* The Super Nailgun is more powerful (One shot takes off 24 health, not 18).
+* Perforator Mines added to Super Nailgun (press 5 twice). Perforator mines
+take 8 nails per shot, and one shot takes off 24 health. This means 5 shots
+(40 nails) will kill a player with 100 health and no armour.
+
+GRENADE LAUNCHER
+* Normal Grenades go faster, and cause a bit more damage.
+* Grenades can be fired more rapidly.
+* Time Bombs added to grenades (press 6 twice). Time bombs cause a *LOT* of
+damage, look like fish, and take 10 seconds to explode. However, the timing
+equipment is carried by you, and if you fire a time bomb when another hasn't
+exploded, the first time bomb won't cause as much damage, due to a muck-up in
+the timing equipment (ie programming incompetence on my part, see KNOWN BUGS)
+Takes 3 grenades.
+* Mines added to grenades (press 6 three times). These cause the same amount
+of damage as a grenade, and hover in mid-air until someone touches them. They
+automatically explode after 60 seconds. Takes 3 grenades. They are also fish.
+
+ROCKET LAUNCHER
+* Slow missiles added to Rocket Launcher (press 7 twice) These cause lots of
+damage if a direct hit, not so much if not a direct hit. Oh, and they go very
+slowly. Takes 1 rocket.
+* Fast Missiles added to Rocket Launcher (press 7 three times). These cause
+less damage than normal rockets, but go about three times as fast. Takes 2
+rockets.
+* Power Missiles added to Rocket Launcher (press 7 four times). These go
+slower than normal rockets, but are very powerful, as the name implies. Takes
+4 rockets.
+* Shamblers now take double damage from explosives instead of half damage.
+Serves them right for being fat furry gits.
+
+THUNDERBOLT
+* Kill-O-Zap added to Thunderbolt (press 8 twice). These take 10 shells, 20
+nails, 10 rockets and 10 cells, but one shot takes off 200 health. USE
+SPARINGLY. One or two taps on the trigger will kill most monsters.
+
+=============
+MISCELLANEOUS
+=============
+* New insane sounds introduced.
+* Dead people's backpacks stay visible for 3 minutes.
+* New obituaries.
+* Easier to gib player (originally -40 health would gib, now -25 will do it).
+* When you collect an item, it tells you how much you've collected (eg "You
+get 20 shells" instead of "You got the shells".
+* Armour now spelt properly (the English way!)
+* Rotten health now gives a random amount of health between 0 and 40, instead
+of 15.
+* You start the level with 40 yellow armour.
+* Megahealth rots 3 points every 5 seconds instead of one every second.
+* Changes to the names of the runes when you complete an episode.
+* Maximum possible health is now 999, not 250.
+* ChaseCam included, with thanks to Rob Albin.
+* You cannot be hit directly from your own rockets or grenades, but if one
+explodes near you, you may take damage from the blast. This means that if you
+touch one of your own mines, it will not explode. However, if it is untouched
+for 60 seconds it WILL explode, and you WILL take damage if you're too near.
+This also applies to other grenades, rockets and nail mines.
+* Mines look like fish...
+* ... as do Time Bombs. So look out for exploding fish!
+* Lots more blood drawn when using the axe or shotguns.
+* Zombies, instead of throwing those red chunks, now throw Grunts, Fish,
+Rottweilers, Knights, Death Knights, Shamblers, Vores, Orges, Scrags or
+Fiends.
+* Vores can now throw Grunts, Rottweilers, Fish, Zombies, Enforcers, Health,
+Shamblers, Vores, Knights, Death Knights or Spawns.
+* Ogres now throw Fish instead of grenades.
+* The sub-weapons are included in the forward switch command, but not in the
+backward switch command. The backward switch command can then be used to get
+the desired weapon quickly.
+
+* There's probably a load of other things I've changed that I've forgot to 
+put in here. 
+
+I originally intended this add-on to just have new sounds and nothing more.
+But then I added more stuff, usually involving changing the velocities of
+missiles etc. I will think of more ways to rid Quake of its remaining sanity.
+
+==============================
+FUNNY THINGS TO DO WITH INSANE
+==============================
+=====IMPORTANT===============================================================
+BEFORE trying any of these, switch on GODMODE and NOTARGET. If you don't know
+how to do this, just go to the console, type GOD, press enter, type NOTARGET,
+press enter and exit the console. You may also have to type IMPULSE 9 which
+will give you all the weapons and ammo.
+=============================================================================
+
+1: Switch to slow missiles (press 7 twice) and stand facing an enemy
+(preferably a weak one like a grunt or a dog) about 10 yards away. Aim at the
+enemy's groin and fire. As soon as you have fired, run towards the enemy and
+get alongside it, then turn to face it, so you are looking at it from the
+side. The rocket will slowly come into view and hit the enemy where it hurts!
+Weak enemies will be gibbed. I like doing this on grunts.
+
+2: Stand about a yard in front of a stationary shambler, so he's facing you.
+Select Mines (press 6 three times) and fire about 6 mines directly in front
+of him. Step 10 yards back, and you should see 6 fish dangling around the
+shambler's joy department. Go to the console and switch NOTARGET off (ie type
+NOTARGET and press enter). When you exit the console, the shambler will ask
+you to buy some tyres, charge at you, run straight into the mines and kill
+himself.
+
+3: Same as (2), but using Perforator Mines or Nail Mines instead. (Remember
+to drop a lot of nails for shamblers!!!)
+
+I made the slow rockets primarily for comical purposes as shown above. Of
+course, they could also be fired around a room, effectively sealing off that
+room from other players or enemies until the rockets have crashed. You can
+also create a minefield by running the width of a passageway or small room
+dropping fish everywhere. To stop one person hogging the level in deathmatch,
+and to prevent packet overflows, all mines explode after 60 seconds if
+untouched.
+
+================
+IMPULSE COMMANDS
+================
+Thanks to Rob Albin for the ChaseCam code.
+Thanks also to Ray Li for the Frag Report code.
+Key bindings are in autoexec.cfg. Change the bindings if you don't like them.
+
+COMMAND		KEY	ACTION
+
+IMPULSE 20	h	Toggle ChaseCam on/off
+IMPULSE 21	k	Cycle between Distance, Tracking Speed and Z Offset
+IMPULSE 22	j	Alter option Up
+IMPULSE 23	m	Alter option Down
+IMPULSE 24	n	Laser sight on/off
+
+IMPULSE 42	f	Frag report
+
+IMPULSE 99   	INSERT	Change to the grappling hook. You can also press 1 to
+			change to the axe, and pressing again will change to
+			the grappling hook.
+IMPULSE 100  	PGUP	Activates and deactivates Cujo
+IMPULSE 102  	o	Tell Cujo to stay or follow.  When staying, Cujo will
+			stand where he is until he sights an enemy or he is
+			told to follow. If Cujo sights an enemy, he will
+			automatically leave stay mode and return to the
+			player after killing all targets (if he can).
+IMPULSE 103  	'	Toggle between Cujo's view and Player's view.
+			REMEMBER While you are looking through Cujo's eyes
+			you are still vulnerable.
+IMPULSE 104  	HOME	Teleport Cujo to your location
+IMPULSE 105  	l	Turns on Cujo's collar lamp
+IMPULSE 106  	i	Reports on Cujo's status.  If Cujo is not visible to
+			the player then his status cannot be determined.
+IMPULSE 107  	0	Toggles Cujo between attack and non-attack modes
+
+============
+THE CHASECAM
+============
+The impulse commands are as described above. The ChaseCam is turned off when
+in the water otherwise you get a flickery picture.
+
+Um, that's it really.
+
+===========
+FRAG REPORT
+===========
+IMPULSE 42 will give you a list (in deathmatch only) of who has fragged you,
+who you have fragged and how many times. It also shows the number of suicides
+(ie drowning, getting crushed, blown up by own grenade etc).
+
+Typical layout:
+
+GotHim|GotYou|Name
+   42 |    0 |GROWLER
+    3 |	   18|NOODLE
+   12 |	   16|MARCO
+    2 |    2 |LEFT AT  123.4
+==========================
+   59 |   36 |Suicides:  5
+
+From this, I can see I have killed Growler 42 times, and he has not killed
+me. I have killed Noodle 3 times and he killed me 18 times, I fragged Marco
+12 times and he returned the favour 16 times. Someone who left after 123.4
+seconds killed me twice, and I killed him twice. There have been 5 suicides.
+I have made a total of 59 kills and I have been killed 36 times, not
+including suicides. *NOTE* The suicides counter shows the number of suicides
+that have taken place in the *whole game* and not just my own suicides.
+
+====
+CUJO
+====
+Thanks to Xavier Javornicki for the Cujo code. Impulses 100-107 control what
+Cujo does, as described above.
+
+This is ripped straight out of Xavier Javornicki's Cujo text file.
+* Cujo can draw enemy fire, lessening the amount of damage the player takes.
+* Seeks out monsters or other players and attacks them.
+* Will continue to attack as long as an enemy target is visible.
+* Will not attack teammates under Teamplay rules.
+* Cujo can follow the player through teleports.
+* Cujo will not activate trigger fields (such as light triggers and traps)
+* Cujo is trained *not* to attack zombies, allowing you to toss a grenade
+  in there without blowing up your dog in the process.  (But he will
+  sometimes lick their gibs when your done - hey, dogs will be dogs!)
+* Cujo is a special, genetically enhanced breed of Rottweiler with 8 times
+  the endurance of other dogs his size.  He can cause up to twice as much
+  damage per attack as his piddly cousins, too.  And to top it all off,
+  Cujo is wearing a special suit of armor designed specifically with him
+  in mind. Cujo is one *bad* dog.
+* Cujo cannot be injured by your shotgun blasts, axe, or thunderbolts, but
+  you can hurt him with nailguns and rockets, so keep this in mind when
+  firing at an enemy your faithful companion is already tearing to pieces.
+* Cujo is equipped with a special device based on slipgate technology.
+  Should he become separated from you, you can teleport him to your own
+  location instantly.  Cujo is even smart enough to activate this device
+  on his own when the distance becomes very great.
+* Cujo does not need to be fed.  He takes care of this himself.
+* Cujo just loves to tackle big Shamblers while you put the nails to 'em!
+* This is not Sea Quest, so no amount of technology will allow you to talk
+  to an animal.  He just growls and barks like animals do.
+
+============
+MORNING STAR
+============
+This is a grappling hook that can be used to hurt enemies or get to hard to
+reach places. If you hit an enemy or wall, you will be pulled towards it. The
+Morning Star can be selected by using IMPULSE 99 (bound to the INSERT key) or
+by pressing 1 twice. You can even grapple yourself onto the ceiling and while
+still holding down the fire button, select a different weapon. The hook will
+stay affixed to the ceiling, and you can fire at your enemies down below.
+Select the hook again to unhook.
+
+==========
+TO INSTALL
+==========
+STEP 1
+Make a subdirectory in your QUAKE folder called "insane" (without the quotes)
+
+STEP 2
+Extract the insane.zip file into the insane directory. If you have PKUNZIP,
+you MUST use the -d switch. If you use WinZip, you MUST tick the "Use Folder
+Names" box.
+
+STEP 3
+Run Quake with the following command line parameters:
+ - game insane
+
+==========
+KNOWN BUGS
+==========
+1> If a time bomb is laid, any grenades or mines laid by the same person
+which explode at the same time as the time bomb will explode like a time
+bomb, ie with lots of damage. This is because Insane checks the time the
+grenade/time bomb/mine was laid to determine how much damage it causes. Since
+time bombs explode 10 seconds after they are laid, any mine that happens to
+explode 10 seconds after it is laid will be considered a time bomb by Insane,
+and so it will cause lots of damage.
+
+2> If a time bomb is fired, then another is fired before the first one has
+exploded, the first one will only have the power of a normal grenade due to
+the time checking procedure as described above. The time the time bomb was
+laid is stored in a variable called remember. If a grenade/time bomb/mine
+explodes when remember = time - 10, (time being the number of seconds past
+midnight, I think) the grenade/time bomb/mine will explode with the power of
+a time bomb, as described above. Therefore, if two time bombs are fired, only
+the time the second one was laid is stored in remember, which mucks up the
+timing for the first time bomb.
+
+3> When a rocket hits something and explodes, Insane checks the type of
+rocket being used *at the time* of the explosion, not at the time of firing.
+This means that you can fire a Regular Rocket, quickly switch to Power
+Rockets, and then when the rocket hits something it will explode with the
+force of a Power Rocket.
+
+4> The Morning Star is not included in the weapon cycle command, cos for some
+reason it won't work.
+
+Any solutions or workarounds for the above bugs, please mail them to me at
+redchip@cole5.freeserve.co.uk
+
+==========
+THE SOUNDS
+==========
+These are just some of the sounds, and some info about them.
+
+Enforcer, idle sound:
+"Salad cream goes in the fridge and not in the cupboard."
+I chose this because Enforcers look a bit like Kryten from Red Dwarf, who
+says the above line in Series 7.
+
+Shambler, sight sound:
+"YOU BUY MY TYRES!"
+and idle sound:
+"Can I interest you in some tyres?"
+I used these because Shamblers look like the Michelin Man, who is associated
+with tyres.
+
+Ogre, chainsaw sound:
+Sounds familiar? It's a recording of a hairdryer.
+
+Monster death sounds:
+These were created by speeding up and/or slowing down recordings of me making
+silly noises.
+
+Scrags, attack sound:
+"Atchoo!"
+and sight sound:
+"Gum bag ere."
+These work on the assumption that Scrags have a blocked nose, and they are
+forever sneezing their green stuff at you.
+
+Vore, idle sound:
+"Baaa!"
+For this I just recorded any old sound, as insane was nearing completion, and
+virtually every monster had a sound except for the Vore.
+
+==========================
+WANT TO CHANGE THE SOUNDS?
+==========================
+If you want to record different sounds to use in insane, go to the
+insane\sound directory, open the sound you want to change, and, well, change
+it. Simple as that. Here are all the sounds and their filenames:
+
+Rottweiler
+Sight: yow.wav
+Attack: yap.wav
+Idle: pant.wav
+
+Grunt
+Sight: aha.wav
+Attack: spudgun.wav
+Idle: lr.wav
+Pain: ooh.wav
+Death: death1.wav
+
+Ogre
+Sight: papple.wav
+Attack (chainsaw): hdryer.wav
+Idle: chew.wav
+Pain: aah.wav
+Death: death2.wav
+
+Knight
+Sight: there.wav
+Attack: fart.wav
+Idle: clink.wav
+Pain: clang.wav
+Death: expire.wav
+
+Fiend
+Sight: yow.wav
+Attack (jump): wahey.wav
+Idle: pant2.wav
+Pain: fpain.wav
+Death: death4.wav
+
+Scrag
+Sight: comeback.wav
+Attack: sneeze.wav
+
+Shambler
+Sight: youbuy.wav
+Idle: tyres.wav
+Pain: splat.wav
+Death: deflate.wav
+
+Zombie
+Unchanged as yet
+
+Enforcer
+Attack: spudgun.wav
+Idle: salcream.wav
+Pain: clang.wav
+
+Death Knight
+Attack (sword): fart.wav
+Pain: clang.wav
+Death: death5.wav
+
+Rotfish
+Unchanged as yet
+
+Spawn
+Attack: boing.wav
+Pain: splat.wav
+Death: spbang.wav
+
+Vore:
+Idle: baa.wav
+Death: death3.wav
+
+All other sounds remain as their defaults for now.
+
+N.B. Some monsters share sounds with other monsters. It should be observed
+that changing one of these sounds will affect all the monsters it applies to.
+
+=========================
+COPYRIGHT AND LEGAL STUFF
+=========================
+You MAY distribute this patch (please do!) as long as this text file is
+included in its original form.
+
+Authors MAY use this software as a basis for other publicly available work,
+as long as I'm credited for it! The source is included, but when you compile
+it make sure the sounds are where they should be. :)
+
+*** USEFUL TIP WHEN EDITING .QC FILES ***************************************
+If you find that Notepad keeps running out of memory for certain .qc files
+(Client and Weapons are the worst culprits, huge fat gits), then open any
+folder, go to View|Folder Options (or Options), click File Types, then find
+"QC File" and click it. Click the Edit button, then click "open" in the
+Actions box. Click Edit, and in the "Application to Perform Action" box, type
+
+C:\WINDOWS\Write.exe (or wherever WordPad is located)
+
+Then click OK, and click OK for all the other windows you've opened. This
+should make all .qc files open with WordPad instead of Notepad, and your
+memory problems are over! One point, though: when saving .qc files in WordPad
+*ALWAYS* save it as a Text Document. You don't want the formatting, trust me!
+*****************************************************************************
+
+==================
+FUTURE DEVELOPMENT
+==================
+I intend to give the Zombies and Rotfish sounds too.
+Mail me at redchip@cole5.freeserve.co.uk with any ideas, or just to say
+whether you prefer normal or silly sounds!
+
+RedChipolata
+
+email: redchip@cole5.freeserve.co.uk

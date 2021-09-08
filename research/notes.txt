@@ -2393,8 +2393,21 @@ darKMajick (Wraith Bot)
 		https://web.archive.org/web/19991009085711/http://www.planetquake.com/shadowgate/
 		https://web.archive.org/web/19991010014245/http://www.planetquake.com/shadowgate/index2.htm
 		quake 2...
-
-
+FEAR
+	has cujo
+	Jon
+	https://www.quaddicted.com/files/idgames2/quakec/compilations/fear.txt
+	https://www.quaddicted.com/files/idgames2/quakec/compilations/fear.zip
+	https://www.quaddicted.com/files/idgames2/quakec/compilations/fear13.txt
+	https://www.quaddicted.com/files/idgames2/quakec/compilations/fear13.zip
+	https://www.quaddicted.com/files/idgames2/quakec/compilations/fear20.txt
+	https://www.quaddicted.com/files/idgames2/quakec/compilations/fear20.zip
+Insane
+	cujo
+	extends Cujgrap
+	"RedChipolata"
+	https://www.quaddicted.com/files/idgames2/quakec/compilations/insane.txt
+	https://www.quaddicted.com/files/idgames2/quakec/compilations/insane.zip
 
 
 
