@@ -1,0 +1,95 @@
+=------------------------------------------------------=
+           TFBOTS v0.7 for TeamFortress v2.5
+=------------------------------------------------------=
+Important Information
+---------------------
+
+    Please note this is a early beta.  The features are not all done, there
+are still lots of bugs.  Sometimes it crashes for a multiple of different
+reasons.  Currently it isn't GLQuake or QuakeWorld friendly.  There will
+probably be almost constant revisions.  If you want a version with text
+files and support for almost all the levels, check back in a few weeks.
+The bots are still quite unoptimized.  Currently compiled for a roughly
+P120/P133, they can be optimized to run better on slower computers by re-
+compiling (see source code section) against the trade off they take longer
+to find their way around levels.
+
+There is little point e-mail me with a message like "its shit".  If you
+think you can help, then help me with the bots.  If not, wait for
+someone else to code a bot.  I'm not forcing you to download this!
+
+To the TF Communitee
+--------------------
+
+I'm depending on the TF communitee to help me with this bot.  For
+instance to get the waypoints for the other maps done, and to help
+me get working GLQuake and QW versions.
+
+Source Code
+-----------
+
+I have included the source code with the bot and all utils needed to compile
+it.  I've done this because many of the bots features can and have to be set
+at compile time.  For fast computers, the bots can be optimized to run better.
+The settings can also be fiddled with played with(ie how long the bots keep
+their order etc etc).  If you do find any better settings than the default,
+please e-mail then to me.  Simply edit the options.qc file(bot options
+are at the end) and re-compile using make.bat.
+    I don't want people releasing alternate version of this.  If you do have
+any contribution/fixes please send them to me.  You are of course free to
+release a new version of the bots under a totally different
+name as long as you give me the credit for the old version.<br>
+At least ask my permission before you use a large amount of my source code
+for anything else(ie the shortest route code).  Please remember you also
+have the TF source code permissions to think about.
+
+Phew.  Now play against the bots!  8-)
+
+
+Installation
+------------
+
+Simply copy the progs.dat to the team-fortress directory
+(Remember to make a copy of the progs.dat first)
+
+Run like this:
+    quake -game fortress -listen 16 bla bla bla...
+
+Bots count as clients so remember to leave space for them in
+the listen parm.  Also, everyone should connect before the bots are spawned.
+Ignore all mentions of "Tried to sprint to non-client".  Its a bug which
+I haven't be able to remove, but doesn't affect gameplay too bad.
+
+Please bug me with any beta reports or suggestions(sensible please!)
+at wolfg_l@pro-net.co.uk
+
+Remember bots can do their own order(default).
+
+Impulses:
+    Rec key Command         Does
+    enter   "impulse 186"   Brings up a menu to select what class bot
+                            to spawn.  See below
+    '       "impulse 187"   Cycles between teams.  Next spawned bot will
+                            be on whatever team it is on.
+    n       "impulse 190"   Tell local bot to roam + think for itself
+    m       "impulse 191"   Tell local bot to escort you
+    ,       "impulse 192"   Tell local bot to camp at your location
+    .       "impulse 193"   Tell local bot to attack
+    /       "impulse 194"   Tell local bot to defend
+            "impulse 195"   Tell local bot to snipe - Hmmmmm(only self-order)
+
+These are set in the included bot.cfg
+
+Credits
+
+CTF Bot authors     The Hook code was adapted to my bot.
+                    Also prediciton
+Alan Kivlin         The code for making the scores show up.  Avaible as
+                    QCBOT003.zip on ftp.cdrom.com
+Roscoe A. Sincero   New Movement code(currently in testing)
+                    btsk23.zip on ftp.cdrom.com.  See btsk23.txt in this zip.
+Gyro Gearlose       DeathBubblesSpawn fix.
+
+All rights reserved expect for the ones given out with TeamFortress and id.
+Source code will be released when it is out of beta.  Don't de-compile this
+No sort of warranty.
