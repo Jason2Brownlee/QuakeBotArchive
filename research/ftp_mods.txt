@@ -57,7 +57,6 @@ https://www.quaddicted.com/files/idgames2/quakec/compilations/kqp220z.txt
 	Contains "cujo":            zeus 2.x, cujo 1.x, blaze gun and bfg by jonathan e. wright (nelno@interpath.com)
 	Contains "bot[,. ]":            zeusbot scoring list by alan kivlin (aka virtuoso)
 	Contains "bots[,. ]": temp1 16        - limit maximum number of helper bots to each player to 2.
-
 https://www.quaddicted.com/files/idgames2/quakec/compilations/lrkrz_01.txt
 	Contains "bot[,. ]":  dmbot - death match bot
 https://www.quaddicted.com/files/idgames2/quakec/compilations/madness.txt
@@ -65,6 +64,7 @@ https://www.quaddicted.com/files/idgames2/quakec/compilations/madness.txt
 	Contains "bot[,. ]": then after a while everyone noticed a bot that was camping in a spot near
 https://www.quaddicted.com/files/idgames2/quakec/compilations/mixx97d.txt
 	Contains "reaper":         one thing i really really wanted to do is to put the reaper bot
+
 https://www.quaddicted.com/files/idgames2/quakec/compilations/oqcc092b.txt
 	Contains "wisp": 	   wisp version 1.0 by iikka paavolainen (ipaavola@cc.hut.fi)
 https://www.quaddicted.com/files/idgames2/quakec/compilations/painx166.txt
