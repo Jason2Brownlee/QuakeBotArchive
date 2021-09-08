@@ -1,0 +1,594 @@
+FEAR v1.3 (aka Memory Eater)
+Put together by: Jon (its132@aol.com)
+
+    *To whom it may concern, please file this under quake c compilations*
+
+  *Also, I'm looking for people to help out with making models and coding,*
+                   *so if you're interested, please write*
+
+READ THIS ENTIRE FILE BEFORE YOU START WRITING ME!
+
+*-------*
+|Updates|
+*-------*
+IN NO PARTICULAR AND CERTIANLY UNORGANIZED ORDER
+
+ - Four new skins. Wow.
+ - Added a crawl function that replaces the dive thing and is so fucking
+   cool I almost wet myself when I was done.
+ - Drop backpack function that was SUPPOSED to be in the last version. Shut
+   up, no one's perfect.
+ - My very first weapon creation, the anarcho punk classic...the MOLOTOV
+   COCKTAIL!!
+ - Added my SECOND weapon creation the hovering nail bomb.
+ - Removed all of the "Nuke" weapons 'cause they were kinda lame anyway.
+ - Added a remote camera that I kinda made.
+ - Changed color of decoy grenade to distinguish from other grenades.
+ - Grunts now have a choice of 5 random skins. Dope.
+ - Fixed bug that would give you full rockets if you had none and used the
+   flare or proximity mine.
+ - Added the XSOLDIER patch which gives the grunts different weapons and makes
+   single player or deathmatch w/ monsters MUCH more interesting.
+ - Added flashlight.
+ - New animations. Ogre now has to restart his chainsaw if he tries to smash
+   you with it. Grunts with nailguns stop and reload in between rounds. Looks
+   cool.
+ - Added a crossbow.
+ - Added trip wires.
+ - Jetpack now randomly replaces the yellow armor at a 1:4 ratio instead of
+   replacing biosuits at a 1:1.
+ - New throwing axe. More realistic and does not make the game crash.
+ - Added realistic "kickback" to the grenade launchers and rocket launchers.
+ - Added realistic falling damage.
+ - Reduced the time that the light bomb would leave you blind for.
+ - Added a time bomb.
+ - Added footstep sounds.
+ - New laser sight that changes color when weapon is aimed at an enemy
+ - Added a bow and arrow.
+ - Added exploding arrows.
+ - New model for the rocket launcher stolen from the stinger missile in some
+   other patch. This is so fucking cool. 
+ - Removed the compass because it was dumb idea in the first place.
+ - Changed how much ammo some of the weapons use (see the "Features" section
+   for the updates) for more fair gameplay.
+ - Player now has to set their own key bindings.
+
+*-----*
+|Intro|
+*-----*
+Not this time.
+
+*--------*
+|Features|
+*--------*
+Things in FEAR v1.3 and what they do. The name of creator is listed after the
+feature's name. If I created it there is nothing after it. For some of the
+features I lost, forgot, or never knew the creator's name so I just wrote
+something to the affect of "I didn't do it". If you did create it just e-mail
+me and I'll give you credit.
+
+* = New addition to v1.3
+# = Changes made since v1.0
+
+==>#THROWING AXE (Steve Bond wedge@nuc.net) - Well ya see, it's kinda like
+    this. It's an axe, and well, you throw it...but this one works.
+
+==> THROWING FLAMING AXE (Howard Roy howard@mortimer.com) - Well ya see, it's
+    kinda like this. It's an axe, and well, you throw it, but this time it's
+    on FIRE!! You only get one and you must retrieve it use it again, although
+    if you don't retrieve it after ten seconds it'll come back to you. Yea, a
+    smart axe, I'm supposed to believe that? It'll set whatever it hits on
+    fire and then fall to the ground. If something walks over it while it is
+    on the ground it'll catch on fire.
+
+==> MORNING STAR (Mike amichael@asu.alasu.edu) - Whatta dumb name, but what
+    a great weapon. Tap the fire button and it'll release a morning star at
+    an opponent. Push and hold the fire button and it'll pull you to whatever
+    it hooked itself onto. Great for getting to out of reach places. It's
+    pretty rad when you hook it onto and opponent and pull yrself towards it
+    because you can see the pain on their face as the star digs into their
+    chest (hard to believe I'm a vegetarian, ain't it?).
+
+==> SNIPER RIFLE (Stalin ???) - This weapon is great for multiple player
+    deathmatch games. It uses ten nails per shot but it is definatly worth it.
+    I also removed the sound from it because what good sniper uses a rifle
+    without a silencer. This way you can sit up in yr sniper's perch and pick
+    off enemies without giving away yr position to others by the sound of yr
+    weapon.
+
+==> MAGNUM (Don't blame me)- Excessive, but if that's yr thing, whatever.
+    Uses 25 shells and blows the fuck out of yr enemies.
+
+==>*CROSSBOW (I made the code but the model was made by ?) - This thing is
+    pretty cool. It's got pretty good strength. It'll kill a grunt with one
+    shot. The thing I like best was how I made it so that the arrow stick in
+    the walls and stay there. Uses 2 shells.
+
+==>*BOW AND ARROW (Once again I made the code but the models were made by ?)
+    See above but with better strength. It's also harder to aim and uses 4
+    shells.
+
+==>*EXPLODING ARROWS (See above) - Uses the bow and arrow but it now shoots
+    gee...exploding arrows? They have a little less power than a missile but
+    are cheaper and Rambo uses them so why shouldn't you. 10 shells, biatch.
+
+==> BLAZE GUN (Jonathan Wright nelno@interpath.com) - Shoots balls of fire
+    out while pushing you back. Definatly a cool effect. Hard to say how much
+    each shot uses, because you never really just shoot one shot. Uses rockets
+    for ammo.
+
+==> RAPID FIREBALL LAUNCHER (Howard Roy howard@mortimer.com)- Shoots fireballs
+    rapidly?? Sounds good. Uses two rockets for every shot.
+
+==> LASER (Howard Roy howard@mortimer.com) - This weapon is dope. Shoots out
+    laser beams in a speedy manner killing well, ummm, everything. Uses two
+    cells.
+
+==> RADIO TAG BOMBS (Klaus Breuer sz0759@rzmail.uni-erlangen.de) - The house
+    favorite. You can use this weapon in a variety of different ways. Fire a
+    bomb and it'll attach itself to whatever it is shot at. Then you have the
+    choice to detonate or disarm the bomb. In a Deathmatch match game, tag
+    like ten of 'em onto yr opponent and then tell him to give you his
+    backpack or you'll blow him up. After he drops his pack and you pick it
+    up, blow him up anyway. Oh yea, I colored the stripes on the tag bombs
+    yellow so you could tell 'em apart from the grenades.
+
+==> FLAME THROWER (Steve Bond wedge@nuc.net) - This uses rockets and will set
+    yr enemies on fire. They can put themselves out by jumping in the water.
+    So when they do, throw a stinger in after 'em. Ooops.
+
+==> BLAZE THROWER (Howard Roy howard@mortimer.com)- This is the weapon for
+    that pyromaniac that all of us were when we were eight. This just sets
+    everything on fire. Enemies, the walls, the floor...you. Be careful, if
+    you play with fire, you're gonna get burned.
+
+==> FREEZE THROWER (Howard Roy howard@mortimer.com)- I still haven't found a
+    practical use for this except for humilating yr deathmatch opponent, by
+    rendering him paralyzed for 15 seconds. Hold down the fire button to
+    charge it and then release to fire (or is it freeze?). The longer you
+    charge the longer the paralasis (Did I spell that right? Do you care?).
+    Uses rockets and the longer it's charged the more rockets it uses. Uses a
+    max. of 20.
+
+==> HOMING MISSILE (Iikka Paavolainen ipaavola@cc.hut.fi) - The original patch
+    called these "genius" missiles and that's exactly what they are. The best
+    homing missile patch around. It'll find something to home in on even if
+    the board is all cleared. It goes crazy trying to find something to kill.
+    I love it. If by some freak chance it can't find anything after twenty
+    seconds it'll self destruct with no damage. Also, if it homes in on
+    something and then can't destroy it because it moved behind an obstacle
+    it'll send you a message saying "Missile in trouble". Not like it matters
+    like you're gonna go rescue it or something. If I could marry a weapon
+    this would be it. Uses 2 rockets per shot.
+
+==> GUIDED MISSILE (Ken Alverson kena@tso.cin.ix.net) - These are fun. When
+    shot it changes to the view of the actual missile and you get to fly it
+    like a plane. I mean, you can use the homing missiles to get around
+    corners but you can play games with this. I've sat around just shooting
+    these things and seeing how far I can fly them without letting them
+    explode. Uses 3 rocket but the strength is not as great.
+
+==> LIGHTNING BALL GUN (Jonathan Wright nelno@interpath.com) - This was
+    originally called a BFG 9000 (of Doom fame) but I felt that this was
+    inappropriate because the REAL BFG 9000 looked like a toaster oven and
+    turned the entire screen green when shot at close range. This looks like
+    the lightning gun and shoots a blue ball, certainly not a B(ig)F(uckin')
+    G(un). Anyway, when you hit players with this they look like a big giant
+    put his hands around them and squeezed until they popped. Uses 40 cells.
+    Fucks a whole lotta shit up.
+
+==> TRACTOR BEAM (Jonathan Avraham procedure@hotmail.com) - Say you're on a
+    ledge overlooking a sea of lava staring face to face with an opponent. Hit
+    and hold fire to get him in the tractor beam, lift him into the air, drag
+    him over the ledge, make him cry for his life...and then drop him.
+    It gussles ammo though. Once you hit the fire button the counter on the
+    number of cells goes down faster than the number of Grateful Dead fans.
+    Doh.
+
+==> STINGER (Pangloss weblok@mmv.se) - Did any of you see the episode of Mr.
+    Belvedere, when George dropped the radio into the bathtub and almost died?
+    Well, that's what this weapon reminds me of, except there's no fat, yet
+    arogant housemaid and whoever's in the water is guaranteed to fry. Whether
+    the person in it has 2% or 666% health, if they are in that water, they're
+    gonna die. Each stinger uses 25 cells and send electic currents throughout
+    the liquid. On this one I colored the stripes blue so they can be
+    distinguished from the grenades or tag bombs.
+
+==> TRACER (Jonathan Avraham procedure@hotmail.com) - Shoots out a spiked ball
+    that sticks to your opponent and lets you know when he/she is coming. The
+    beeps get louder as it gets closer, but the problem is that it has a
+    problem recognizing different levels. You could be in the same place as
+    the tracer but three levels up or two levels down and you'll think it's
+    right next to you. Still cool, though. Uses 1 rocket and 1 cell.
+
+==> MOTION DETECTOR (Ktgow ktgow@cory.eecs.berkeley.edu) - I love this thing.
+    Ok, place one of these on the ground, then run because within 10 seconds
+    this thing is gonna be armed. Once it's armed it will shoot nails at
+    anything that moves, including it's owner. It'll follow your motion and
+    just keep pumping nails into you. Once out of ammo it can be reloaded,
+    but it usually gets the job done the first time. You need 96% health,
+    50 nails, and 1 rocket to use it though.
+    
+==>#DECOYS (Sam Shockey shockesj@concentric.net) - Great for deathmatch.
+    This is the most advanced decoy patch that is out there. First fire the
+    decoy, it looks like a grenade. Then hit the decoy activator to well,
+    activate the decoy. It creates a clone of the player that runs in place
+    and when sights an enemy pretends to shoot at it, doing no damage.
+    If the enemy does enough damage to or touches the decoy it detonates
+    this time doing damage. The decoys can also be remotly detonated by the
+    owner, who can also turn them off if close enough. Makes opponents feel
+    real stupid when they are shooting at a fake. As long as you have 1 rocket
+    and 1 cell you can make as many decoys as you want. Yea.
+    P.S. The decoy grenades now have a GREEN stripe so you know what grenade
+    is what. You're welcome.
+
+==> PORTABLE TELEPORTER (W. Harris willh@demonic.demon.co.uk) - I like to use
+    this to check up on decoys or traps placed. Once you tell it to memorize
+    a location you can teleport back to it at any moment. Memorizing a
+    location is free but teleporting there will cost you ten cells.
+
+==> FLARES (Steve Bond wedge@nuc.net) - For those afraid of the dark or for
+    those who are pissed off by the dark like yours truly. Once shot, it
+    sticks in the wall and lights up the immediate area. It only does 1%
+    damage to enemies so it's not worth using as a weapon. Doesn't use any
+    ammo, because rockets are a little more powerful than a flare, and that
+    just wouldn't be realistic (but then again, is a "scrag" or a "shambler"
+    that realistic either?).
+
+==> BACKPACK BOMB (???) - Ok, you know before, when I said that you should put
+    alot of tag bombs on yr opponent and then demand their pack in exchange
+    for disarming the bombs and then you blow 'em up anyway? Great, well, yr
+    opponent read that also, so be prepared. Remember, he's gonna blow you up
+    anyway, so blow him up too. Throw a backpack bomb and you both die but
+    so what, it's a game, play again. Uses 10 rockets.
+
+==>#LIGHT BOMB (Pangloss weblook@mmv.se) - Most players don't like it when
+    they can't see, but do you really care about their needs? Drop this and
+    in 5 seconds it explodes leaving everything in its radius, rendered blind.
+    Now only lasts for 5 seconds because for fairness. Make sure you run
+    after you throw it 'cause it'll blind you too.
+
+==>*DROP BACKPACK (I don't know) - In this section, in the last version, I
+    was rambling on and on about how you could use the tag bombs to make a
+    player drop his backpack. Then after I released it I realized that I
+    forgot to add the drop backpack function. Oh well, you got the damn thing
+    for free so why are you complaining? Anyway, this drops your pack with
+    all of yr ammo, read the description of the radio tag bombs to find out
+    why this useful, I hate typing.
+
+==> PROXIMITY MINES (Ntropy ntropy@voicenet.com) - Attach these to anything...
+    floors, walls, ceilings, exploding boxes...anything. After a few seconds
+    the mine is armed and when anything comes in the...what?...do you know?..
+    yes, that's right, the 'proximity' of the mine, Boom! You can also disarm
+    them incase you put 'em on the bathroom door and decided that now you
+    really have to go. Uses 4 rockets.
+
+==>*TRIP WIRES (W. Harris willh@demonic.demon.co.uk) - Attach one to a wall
+    and in two seconds it is activated sending a beam across to the parallel
+    wall. If anyone crosses the beam the originating end blows up with the
+    impact of a few rockets. Uses 5 rockets and 5 cells and finally makes
+    Quake better then Duke Nukem. Make sure you're pressed right up against a
+    wall when you place a trip wire or it won't work. 
+
+==>*HOVERING NAILBOMB - Shoots out a VERY slow moving spiked ball that HOVERS
+    over the ground for about three seconds and then it explodes, shooting
+    nails in every direction. It pays to use the dive function after releasing
+    one of these so ya don't get a nail in yr eye. Uses 20 nails, biaatch.
+
+==>*MOLOTOV COCKTAIL - Hehehehe. KABOOM!! "Help I'm burning, HELP!!". Best 10
+    rockets you ever spent.
+
+==>*REMOTE CAMERA - Ohhhhh, this was such a rip off. I just took the guided
+    missile patch and changed insignificant things to come up with this.
+    Anyway, this fires a small remote controled camera. You control it just
+    like you would a guided missile but it is much easier to fly because it
+    moves alot slower. Use this to spy on your opponent, it's very small so
+    he probably won't notice it, but be warned that this thing is a piece of
+    shit and will fall apart if it touches a player or wall. 
+
+==> FEIGN DEATH (Issaac Lauer gwydion@psu.edu) - Fake death, fake death,
+    fake death, ok? I like this for a number of reasons. The first is the
+    shock opponents get when they think yr dead and then you stand up and
+    set them on fire. Second, because if you have no weapons except for the
+    axe, and yr opponent is coming and you really don't feel like dying you
+    can feign and pray for the best. It also throws a fake backpack to make
+    it look more realistic.
+
+==>*CRAWL (This is all original code but I ripped the idea off from Michael
+    Gummelt's ducking feature) - Ok, everyone's gotta do me a favor when they
+    get this. Turn on the chase cam, run towards a pool of water, jump in the
+    air and then hit the crawl button. Now, tell me that is not the fucking
+    coolest motherfucking thing you have ever motherfucking saw. Anyway, hit
+    the crawl button and you're view is placed to the ground and your
+    animations look as if you're crawling. You'll be much harder to hit
+    (grunts and enforcers can't even hit you) but you move noticably slower.
+    I made it so you can't do anything except fire the weapon you selected
+    while standing (and moving around of course). If I hadn't done this, there
+    would be no reason for you to stand and everone would crawl around the
+    entire game, so thank me. You won't be able to fit into small places
+    because of the binding box (if I set it so you could fit, you would be
+    technically non-existant and no one could kill you). You can crawl under
+    a trip wire though. Also, you can't use any of the axe weapons (except the
+    morning star [which makes you stand up upon use]) or the bow and arrow
+    because it looked really weird to see someone planted face down on the
+    ground shooting a bow or heaving a axe. I don't know. I don't care.
+
+==>#JETPACK (Harlequin dtebben@alumni.caltech.edu) - Adds variety. Jetpacks
+    now replace the yellow armor at a 1:4 ratio instead of the biosuits at a
+    ratio of 1:1, because, umm, you NEED the biosuits. After getting a
+    jetpack, double jump and hold it to release the throttle then use the
+    lookup/lookdown/left/right keys to fly. It's rad in deathmatch when you
+    and yr opponent both have jetpacks and you take the battle to the skies.
+    Homing missiles ruin the fun but, you still got a frag, he he. The jetpack
+    uses it's own fuel, when you get one it has enough fuel for approx. 15
+    seconds of constant burn (You'll get a message when fuel is low). If you
+    kill someone who had a jetpack pick up their pack and you get their fuel.
+
+==>#CUJO (Jonathan Wright nelno@interpath.com) - Your very own personal attack
+    dog. Command Cujo to stay, follow, attack, or heal. The embarrasing thing
+    is that he can kill grunts faster than you can. Let him roam and you'll
+    probably find a trail of dead bodies in front of you. You can also switch
+    to his point of view or teleport him to your location. I updated it so
+    you have to give up 90 health and 20 rockets to use Cujo because he was
+    too common otherwise.
+
+==>*FLASHLIGHT (??? Not me though)- I'm not typing an explanation.
+
+==>#LASER SIGHT (Scott Ramsey sramsay@smart.net) - For the sniper in you.
+    Places a red dot wherever your weapon is aimed. But, now if your weapon is
+    aimed at an enemy, secret door, or trigger the dot turns blue. Also, you
+    don't get the spotlight with this laser sight. Use the new flashlight
+    function for that. Fun, fun, fun.
+
+==> CHASE CAM (Rob Albin albinatr@apci.net) - I don't know what the author
+    created this for, I mean I just use it to check out my skins during single
+    player games. I'm not saying it's not cool though. It's kinda fun to try
+    to play the game outside of the first person perspective, it's kinda like
+    a twisted Super Mario Bros. You can select the distance the camera is
+    behind you, also.
+
+==> SELF DESTRUCT (I didn't do it)- Once someone makes a rock star skin this
+    function will be perfect (huh?). When you don't feel like living anymore
+    and want to take everyone with you (and yr health is under 20) hit this
+    and everyone in the room dies. Gives you a -5 frag though.
+
+==>*FALLING DAMAGE (I'll tell you later) - It was kinda ridiculous how
+    originally you could be three floors up and jump off and lose only a
+    point or two of health. Now it calculates the height you jumped from and
+    realistically determines how much health you should loose from a drop like
+    that. For those of you who don't like this idea, try this, DON'T JUMP. If
+    you have no choice, use the morning star and grapple down. This feature
+    makes the tractor beam alot of fun.
+
+==>*KICKBACK - Nothing much, just adds realistic "kickback" to the grenade and
+    rocket launchers. Oh, boy!
+
+==> EJECTING SHELLS (Steve Bond wedge@nuc.net) - Cool patch that fixes the
+    first thing I noticed when I played Quake, that the shotgun didn't expell
+    shells like in Doom. This patch added excellent sounds and graphics to
+    give you the warm sensation of seeing the yellow and orange cyclinder
+    shoot out of the stock of the gun. An update from the KQP gives you
+    casings from the nailguns too. You go.
+
+==>*XSOLDIER (Bill Turner shyft@fwb,gulf.net) - Gives grunts random weapons.
+    Some grunts now shoot super shotguns. Grunts using the regular shotgun
+    have a single grenade. Some grunts use a nailgun. Some grunts use the
+    flamethrower and grunt backpacks now give more realistic ammo. This patch
+    makes single player or DM with monsters MUCH harder, but I updated your
+    weapons why shouldn't I update theirs. It's all about equality. Also,
+    whoever decided to call them "grunts" is a sad fucker indeed.
+
+==>*NEW ANIMATIONS - Well, they're not exactly new. Ya see, iD had a few
+    animations that they created but never implemented into the game, so I
+    did. Now ogres restart their chainsaws after they smash you with it and
+    grunts with nailguns stop and reload their guns in between rounds. Aside
+    from the asthetic value, this has another purpose. The nailguns were just
+    too unfair. If you didn't shoot them before they saw you, you were as good
+    as dead. Now they have to stop and reload. La, la, la.
+
+==> GIBBABLE CORPSES (?) - Now you can fuck people up after they're already
+    dead. Tag bombs on the corpse or wack 'em with the axe and just watch the 
+    meat go flying. I also fixed it so in deathmatch if you're killed and
+    then gibbed and your opponent then picks up yr head, it's like he's
+    carrying it around and you can still see. Nothing productive, just
+    amusing. Respawn to get yr head back.
+
+==>*FOOTSTEP SOUNDS (Brett Wagner ??)- Yup, they're footsteps alright.
+
+==> LIVING WALL ZOMBIES (I don't know) - Zombies that once were just flopping
+    around on the wall can now jump off the wall and can be gibbed. I hate
+    that noise when they rip off their skin and throw it at you...Ewww....
+
+==> GIBBABLE BACKPACKS (I don't care) - Backpacks explode when shot at. If
+    there were grenades in the backpack...Boom!
+
+==> RICOCHET NAILS (Do you care?) - Nails randomly ricochet off walls. Wow.
+
+==> MULTIPLAYER VARIATIONS (Walter Lord lord@brodart.com) - Teamplay -1 is a
+    game of tag and Deathmatch 3 is a game of deathmatch with monsters. Key
+    binded to makes it easy to run this patch on a server with up to four
+    teams of four. Then again, since I don't have a network I don't even know
+    if this works. Could be fucked for all I know, but I don't think so
+    'cause the other non-multiplay functions work.
+
+==>*GRUNT MULTISKINS (Bill Turner http://www.fwb.gulf.net/~shyft/) - I was
+    really getting sick of play testing this fucking mod over and over and
+    over and seeing those same grunts over and over and over again. So now
+    they have different skins. Five in all. All just as ugly as the original.
+
+==> MULTISKINS (I didn't make any of 'em)- Choose from these fine selections...
+
+         -->PLAYERS
+            Female player - When I first saw the name for this I thought it
+                           was cool that someone made a female skin. Then I
+                           saw it and it was this half naked amazon woman.
+                           Fuck that. I came here to play a game not to jerk
+                           off. I guess that's what happens when middle aged
+                           men whose wives don't want to fuck 'em anymore,
+                           play video games. I took her head and put it on
+                           the regular quake guy's body. If you made this
+                           skin, fuck you. And if your pissed that I changed
+                           it, fuck you.
+
+         -->OTHER
+            Camoflauged player - Good for those spirited deathmatch games
+                                  when you're trying to hide from your
+                                  opponent.
+            Insane player - The Quake guy with blood all over him. Gee.
+            Red Devil - I don't know if this is supposed to be anyone in
+                        particular but it's dope anyway. Like the Quake guy,
+                        but with a black and red color scheme and a skull and
+                        cross bones on his chest. I like it!
+            Toad - Some weird character, whose skin has the texture of a frog
+                   or something like that.
+            Skeleton - Guess.
+            ??? - Don't know the name, but it's cool just the same.
+            Cowboy - Not one of those hat wearing, line dancing, white trash,
+                     new wave cowboys, but the real deal from the old west.
+                     Like from a Clint Eastwood movie. Really well drawn. 
+            Ninja - Most ninjas fight with marshal arts...This one fights with
+                    a grenade launcher. Why?
+
+         -->MOVIES
+            Terminator - Umm...the Terminator.
+            Judge Dread - Umm...Judge Dread.                     
+            The Punisher - Great fun and all but that big skull on yr shirt
+                           makes for a great target. 
+            Predator - Ooooo...scary. Jesse "The Body" Ventura would've been
+                       scarier.
+            Jason - Well, it looks like him, especially when he's running with
+                    the axe.
+            The Crow - I fucking hated this movie...But the skin looks cool.
+
+         -->BATMAN THE ANIMATED SERIES
+           *Batman - It's 1996, if you don't know who Batman is...
+           *Robin - It's 1996, if you don't know...
+           *Joker - The joke's old already. Doh.
+
+         -->STAR WARS
+            Han Solo - You know, that guy from Star Wars.
+            C3PO - You know, that droid from Star Wars.
+            Boba Fett - Your mother's favorite bounty hunter.
+           *4 LOM - Yay! ANOTHER GODDAM STAR WARS SKIN!!
+            Storm Trooper - You know, those guys from Star Wars.
+            Teamplay Stormtrooper - Stormtrooper but with a sholder patch that
+                                    matches yr team's color, and he's even
+                                    wearing a backpack.
+       
+*-----------------------------------------*
+|Weapon keys, impulses, and other commands|
+*-----------------------------------------*
+Ok, here's the deal, I RAN OUT OF FUCKING KEYS. I added so many functions to
+Fear that I don't have anymore keys to bind them to. I do have a solution to
+this but I wanted to get this out ASAP and still haven't fully finished this
+solution. Until then, you gotta choose what you think is most important and
+bind them to whatever keys you want. You do this by entering the console and
+typing: Bind x "Impulse X" where x is the key you want to use and X is the
+impulse number of the feature you want to bind to that key, for example: If
+you wanted to use to Z button to fire the Stinger you would type at the
+console, Bind Z "Impulse 72". Got it? I don't care. Also, those that aren't
+binded to a key can still be used by typing: Impulse X at the console where X
+is the number of the impulse you want to activate. Anyway, here's a list of
+the weapons and the impulse numbers:
+
+WEAPON 1 - Axe/Throwing Axe/Throwing Flaming Axe/Morning Star
+WEAPON 2 - Shotgun/Sniper Rifle/Magnum
+WEAPON 3 - Super Shotgun/Crossbow/Bow and Arrow/Exploding Arrows
+WEAPON 4 - Nailgun/Blaze Gun
+WEAPON 5 - Super Nailgun/Rapid Fireball Launcher/Laser
+WEAPON 6 - Grenade Launcher/Radio Tag Bombs/Flamethrower/Blaze Thrower/Freeze
+           Thrower
+WEAPON 7 - Missile/Homing Missile/Guided Missile
+WEAPON 8 - Lightning Gun (Tractor Beam)/Lightning Ball Gun
+
+IMPULSES:
+
+13 - Drop Backpack Bomb
+15 - Drop Motion Detector
+16 - Reload Motion Detector
+20 - Turn On/Off Chasecam
+22 - Turn On/Off Laser Sight
+23 - Increase Chasecam distance
+24 - Decrease Chasecam distance
+27 - Crawl
+33 - Throw Nailbomb
+40 - Throw Molotov Cocktail
+41 - Fire Remote Camera
+45 - Toggle between Lightning and Tractor Beam mode
+63 - Fire Flare
+71 - Fire Tracer
+72 - Launch Stinger
+77 - Place Trip Wire
+78 - Turn On/Off Flashlight
+81 - Fire Decoy Activator
+82 - Activate Decoy
+83 - Detonte Decoy
+84 - Turn Off Decoy
+95 - Drop Time Bomb
+100 - Turn On/Off Cujo
+102 - Toggle Cujo between Stay/Follow modes
+103 - Change to Cujo's view
+104 - Teleport Cujo to your location
+105 - Turn on Cujo's Collar Lamp
+106 - Give report on Cujo's status
+107 - Toggle Cujo between Attack/Non Attack modes
+110 - Throw Light Bomb
+120 - Detonate Radio Tag Bomb
+121 - Disarm Radio Tag Bomb
+123 - Disarm Proximity Mine
+131 - Fire Proximity Mine
+133 - Throw Backpack
+140 - Memorize Location
+141 - Teleport to Memorized Location
+150 - Feign Death
+200 - Scroll to next skin
+201 - Scroll to previous skin
+202 - Add to a team
+230 - Self Destruct
+
+MULTIPLAY COMMANDS (type these at the console):
+Teamplay -1
+Deathmatch 3
+
+*------------*
+|Installation|
+*------------*
+ First make a directory off of yr QUAKE directory called FEAR. Then take the
+FEAR13.ZIP file or whatever file name you have (once this is released the
+file name is out of my hands and some greasy shareware dealer at some
+computer geek convention may decide that DILDO.ZIP is a much better name)
+and copy it into the new FEAR directory. Unzip it using the -d command.
+
+ i.e.
+     PKUNZIP FEAR11.ZIP -d
+
+Then return to the QUAKE directory and type:
+
+     QUAKE -GAME FEAR
+
+*----------*
+|Known Bugs|
+*----------*
+-Crabs, lice, scabies and "PACKET OVERLOADS" are frequent in Fear. This is
+ no big deal and you should pretty much just ignore it. 
+-Sometimes the light bomb leaves the screen white if you quit or respawn while
+ you're still blinded. If this happens go to the last line in the CONFIG.CFG
+ file and change the gamma to "1".
+-When using the crossbow or the bow and arrow, the ammo count in the lower
+ right corner of the screen does not update. The ammo count in the shells
+ box does though, so go by that until I fix this.
+-Once in awhile a grunt's corpse won't be gibbale. This happened after I added
+ the XSOLDIER patch, but I'm stumped on why because 99 times out of a 100 the
+ corpse will be gibbable but there's that one time that it won't, oh fuck it.
+
+*-----------*
+|Legal stuff|
+*-----------*
+"its132@aol.com", "Known Bugs", "Installation" and "*" are all property of
+Major League Baseball and authorized duplication is looked down on with shame
+and pity.
+
+Oh yea, one more thing. This is being release as freeware so............
+If you paid for this yr a sucker. If you charged money for this yr a dick.
+
+

@@ -86,6 +86,8 @@ Shareware Extravaganza 8 (Disk 8)
 	http://cd.textfiles.com/swextrav8/swextrav8-1/disc1.bbs
 	mods
 	http://cd.textfiles.com/swextrav8/swextrav8-2/disc2.bbs
+		http://cd.textfiles.com/swextrav8/swextrav8-2/gamapog1/
+		http://cd.textfiles.com/swextrav8/swextrav8-2/gamapog2/
 		also: https://archive.org/download/Shareware_Extravaganza_8_Most_Significant_Bits
 	tons of mods
 		BGBOT16.ZIP
