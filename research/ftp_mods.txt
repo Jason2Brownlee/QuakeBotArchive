@@ -64,7 +64,6 @@ https://www.quaddicted.com/files/idgames2/quakec/compilations/madness.txt
 	Contains "bot[,. ]": then after a while everyone noticed a bot that was camping in a spot near
 https://www.quaddicted.com/files/idgames2/quakec/compilations/mixx97d.txt
 	Contains "reaper":         one thing i really really wanted to do is to put the reaper bot
-
 https://www.quaddicted.com/files/idgames2/quakec/compilations/oqcc092b.txt
 	Contains "wisp": 	   wisp version 1.0 by iikka paavolainen (ipaavola@cc.hut.fi)
 https://www.quaddicted.com/files/idgames2/quakec/compilations/painx166.txt
@@ -77,6 +76,7 @@ https://www.quaddicted.com/files/idgames2/quakec/compilations/qcap2.txt
 	Contains "reaper": might've even been able to make another reaper. :) but, quake is old now...
 	Contains "bot[,. ]": of how i made the co-op bot. if i forgot anyone, sorry. if you know of
 	Contains "bots[,. ]":               with "arse" and such. bots also have individual personalities
+
 https://www.quaddicted.com/files/idgames2/quakec/compilations/qplus.txt
 	Contains "reaper":            * stiven polge(polge@ix.netcom.com) for... yeah! the reaper bot!
 	Contains "cujo":            * jonathan e. wright(nelno@resurrection.com), for some cujo ai

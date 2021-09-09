@@ -1,0 +1,256 @@
+Name of Mod : QuakeC Add-On Pack
+File Name   : qcap2.zip
+Version     : This is the second public release and probably the last.
+              Although it's pretty much nothing like the first version,
+              as I redid almost everything. For the better, of course... :)
+	      I also took the vulgar language out. :) "A**" is replaced
+              with "Arse" and such. Bots also have individual personalities
+              and phrases now...go to the home page for more info, or just
+              read everything under "ALL THE IMPORTANT STUFF". :) Although
+              the home page contains more updated information.
+Date        : November 19, 1997
+E-mail      : thefatal@concentric.net
+Web Site    : http://www.concentric.net/~thefatal/quake.html (The QCAP Home
+              Page, dedicated to nothing but this patch :)
+
+AUTHOR INFO
+-----------
+My name is Rich, Rich Whitehouse. Mama always said, stupid is as stupid
+does. Would you like a choc--::SMACK BASH BASH:: ::2 men in white clothing
+walk up:: "Mr. Whitehouse is author of this patch. He has a small mental
+condition that must be supervised at all times, so don't mind us." Help...
+me...they're...going...to...kill...m--::PROD PROD ZAP SIZZLE:: "QUIET, BOY!"
+Y...yes...sir.
+
+TYPE OF MOD 
+-----------
+QuakeC   : No, it's only called QuakeC Add-On Pack because it DOESN'T
+	   have any QC.
+Sound    : Yep
+MDL      : Uh huh
+Maps     : Nope. Why? Because I suck at level editing.
+Graphics : Yup
+
+FORMAT OF QUAKEC
+----------------
+unified diff  : What's that?
+context diff  : Uhhhh...
+.qc files     : Nope, see "ALL THE IMPORTANT STUFF" for details.
+progs.dat     : No, you have to compile the non-existant QC files on your
+                own.
+
+INSTALLATION
+------------
+Just run the install.bat file and follow the on-screen instructions. When
+running Quake with the patch in Windows, you must use -winmem 12 or higher.
+I recommend 28 if you want it to go nice and fast. Here's an example of how
+you would start Quake with the patch under Windows:
+
+quake.exe -game qcap -winmem 28
+
+That should do it. Contact me if you have any problems. Also, if you do
+something really stupid with the install program and make it do something
+bad, I'm not responsible. :)
+
+ALL THE IMPORTANT STUFF
+-----------------------
+Alrighty then...first I need to thank the people I sto--err, borrowed
+source code from... ;) Rob Albin is 1 person who definitely deserves
+TONS of credit for supplying the source code for the grappling hook and
+his very own chasecam. Credit for the multiskin and lasertarget things
+also go to him for supplying the source code. I wrote all the other
+stuff from scratch. So, enjoy! Here's the list of impulse commands and
+such...Uhhh, oh yeah...I have another person to thank. :) Maniac for
+giving me an example of code to use to pull the player towards an entity
+(I used it for the magnet, but then I tweaked it a bit to make it pull in
+EVERYTHING within the radius). I also learned a TON from that, it's part
+of how I made the co-op bot. If I forgot anyone, sorry. If you know of
+anyone I should've but didn't thank, please let me know about it and I'll
+thank them in the next version. Ummm, oh, also got thank Inside.QC (which
+is now Inside 3D and located at http://www.inside3d.com) for providing so
+many good tutorials which I learned a lot from. The one I used in this
+patch was the sticky bomb one, although I pretty much rewrote the sticky
+bombs anyway. :) Since I've made it so you can't decompile the progs.dat
+file from this patch, if you see something you would honestly like to learn
+from and not just use in your own patch and take credit for, let me know.
+I might write a tutorial or something for some of the new weapons if I get
+enough requests. Oh, another thing...if you want to port this patch to
+QuakeWorld, let me know. I'd like to get it running on a server. Also, if
+you have this patch running on a server, let me know. I'll add a server
+list to the web site and put your server on it. Make sure you stop by the
+web site to see if there are any servers... I would've done a lot more on
+this patch had I had more time to work on it and started it earlier. I
+might've even been able to make another Reaper. :) But, Quake is old now...
+Maybe I'll do something for Quake II. LOOK FOR IT! :)
+
+impulse 20 - Drop a pipebomb.
+impulse 21 - Detonate all of your pipebombs.
+impulse 22 - Fire a flare.
+impulse 50 - Displays status.
+impulse 40-45 - Hotkey weapon modification keys.
+impulse 30 - Toggle external/internal view.
+impulse 31 - Laser target toggle.
+impulse 32 - Move down ext. view.
+impulse 33 - Move up ext. view.
+impulse 34 - Zoom in ext. view.
+impulse 35 - Zoom out ext. view.
+impulse 200 - Down 1 skin.
+impulse 201 - Up 1 skin.
+impulse 98 - Throw hook/Release hook.
+impulse 96 - Pull in after hooking an object.
+impulse 97 - Give the hook some slack.
+impulse 150 - Big jump (quite useful in rocket fights :), but requires at
+least 25 cells).
+impulse 13 OR select the shotgun twice - Select the Laser Rifle.
+impulse 14 OR select the rocket launcher twice - Select the NUKE.
+impulse 15 OR select the super nailgun twice - Select the Ripple Cannon.
+impulse 16 OR select the Grenade Launcher twice - Sticky Bombs.
+impulse 17 OR select the Lightning Gun twice - Blow Gun. Shoots an orb
+which pushes everything in its path away from it, and causes an explosion
+on impact.
+impulse 18 OR select the DBSG twice - Harpoon Gun. Shoots a harpoon which
+sticks into the wall or an entity and leaves a blood trail if it's stuck in
+an entity.
+impulse 19 OR select the axe twice - Spear. If a spear hits an entity it
+will stick into it and pull it over to you. This weapon is still under
+construction, so there is no rope linking the spear tip and you, and it
+looks kind of strange...hopefully I'll have that fixed soon.
+impulse 23 - Spawn a DeathMatch Bot. DM Bots use whatever skin you're
+             using when they're created. Before using a DM or Teamplay
+             DM Bot, you should type "deathmatch 1" at the console
+             (without the quotation marks) and load the level again.
+impulse 25 - Spawn a Co-op Bot. I stayed up all night and drove myself
+             insane trying to figure out how to make a co-op bot...
+             and I FINALLY DID! :) Of course, that was back when I wasn't
+             quite as good with QC. :) I might redo the co-op bots to be
+             more like real players, but I think they're ok the way they
+             are now...plus I don't feel like redoing them. ;)
+impulse 129 - Spawn a Teamplay DeathMatch bot. Well, I've finally done
+              it. Now you can play DM, Co-op, AND Teamplay. Isn't that
+              special? :) To use Teamplay DM Bots, you must set teamplay
+              to 2. Do so by typing "teamplay 2" at the console (without
+              quotation marks). Now add Teamplay DM Bots for your side
+              and DeathMatch Bots for the other side (they're programmed
+              not to kill eachother in teamplay, and if they do, they're
+              penalized just like you are if you kill a bot on your team,
+              or if a bot is on your team and he kills you or another bot
+              on your team).
+impulse 123 - Throw a magnet.
+impulse 124 - Toggle being drawn to magnet.
+impulse 125 - Teleport magnet back to self.
+impulse 126 - Gets rid of any magnet within a 500 radius to you. Mainly for
+              multiplayer in case someone gets you on their magnet and won't
+              let you go...but use it only as a last resort, as it takes
+              you down to 50 health, to 25 if you have less than 50 and to 1
+              if you have less than 25.
+impulse 127 - Toggle weapon kickback on/off. It makes it more realistic in
+              my opinion, but it can be quite annoying. :)
+impulse 128 - Crouch. Can be used as toggle crouch or button-hold crouch.
+              Just type impulse 128 to toggle, or if you want to be able
+              to hold a button and crouch then release it and stand up,
+              type the following at the console:
+
+              alias +crouch "impulse 128"
+              alias -crouch "impulse 128"
+              bind ] "+crouch"
+
+              This will make it so that pushing the ] key crouches, and
+              releasing it makes you stand up. I'm still working on
+              improving this, since there are lots of things wrong with it.
+impulse 252 - Find any Teamplay DM Bot within a 250 radius of where you are
+              currently standing and make it solid or not solid to you (to
+              you ONLY, to every other entity it's still solid). If it's
+              already not solid, it will become solid. If it is solid, it
+              will become not solid. This is for when the Teamplay DM Bots
+              get in your way and won't move. It's pretty annoying, so if
+              it happens, just use this.
+impulse 253 - This will teleport your most recently created Co-op Bot to
+              your current location in the level no matter where you or
+              the bot are.
+impulse 254 - This sets your viewpoint to your most recently created Co-op
+              Bot or Teamplay DM Bot. Use again to set the viewpoint back
+              to you.
+impulse 250 - This tells Teamplay DM Bots to follow you or leave you alone.
+              They follow you by default.
+impulse 251 - This takes the message off the screen immediately that comes
+              up when you begin (the "Welcome. Please blahblahblah" one :).
+impulse 130 - This makes it so that bots don't start out with the DBSG on
+	      skill 3. Nifty for if you want a good fair DM against a
+              skilled opponent... :)
+impulse 249 - Give the last bot you created every weapon and full ammo. This
+              is pretty much just for fun. :)
+impulse 248 - Show each bot's frags.
+
+New stuff in this version:
+Improved hugely on the Co-op Bot's AI, he can now follow you up stairs
+and such even when he does not have a target, he also faces you when he
+doesn't have a target, rather than constantly staying at an ackward
+angle like in the previous version. I also completely rewrote the DM
+Bots. They still use the default AI, but they now show a larger difference
+with skill level settings (type skill 0 through skill 3 at console to
+set skill level, any other skill value will default to skill 1). They also
+have a more realistic weapons system (they don't start out with the Rocket
+Launcher, DBSG, etc., although they DO start out with the DBSG on skill 3,
+just to make it a bit more difficult :). There are also better death
+messages (TheFatal1 chews on player's boomstick, player rides TheFatal1's
+rocket, etc.), including different messages for all the new weapons. I
+added special support for the nailguns and lightning gun. When using them
+the DM Bot runs at you at the speed of a normal player (although exact
+speed and accuracy depend on what skill level you're playing on). I also
+stuck some modifications in the ai.qc file that only have an effect on
+the DM Bots. Aside from the improvment on the bots, I've also made it so
+the magnet works fine in multiplayer. At least it SHOULD, I haven't tested
+it yet myself. I also added the ability to crouch. Wrote all the stuff for
+it myself, but I got the idea from the Navy Seals Weapons Patch. I've also
+added a "DeathCam"...a bit of a modification on the ChaseCam. Now, when you
+die, you get an external view of your body/head. Surprisingly, it took quite
+a bit of work to get it to work in multiplayer, but I finally got it working
+well. There's also a new weapon, the Blow Gun, and I added the ability to
+select all the new weapons via weapon cycling. You can now only use the new
+weapons if you have the original weapon which uses the same number (e.g.
+to use the Tesla Cannon you must have the Super Nailgun, to use the
+Sticky Bombs you must have the Grenade Launcher). I also made it so that
+if you select a weapon and only one of the weapons for that number is
+out of ammo, it will automatically select the other weapon for that number
+(e.g. if you're out of nails and have 25 cells, selecting the Super Nailgun
+will automatically select the Tesla Cannon). I also remembered I'd created
+the Sticky Bombs with a tutorial a while ago. I couldn't remember who to
+thank, and the Sticky Bombs had some bugs in them anyway, so I pretty
+much rewrote them. They're better now though, I got rid of the bug which
+would cause the sticky bomb to just float in the air if the victim it was
+attached to was killed before it went off. Oh, and, of course, I can't
+forget the new Teamplay ability of the DM bots. :) Also, I re-did the
+shotgun shell MDL (skin and all) since I now have QuakeME 3.0 and because
+I felt kind of guilty for taking it from the Alien TC guys. ;) I also added
+strafing to the bots and will soon be (hopefully) adding the ability to the
+bots to be attracted to items. The bots also go up stairs now with no
+problem, and they don't fly anymore (that was HORRIBLY annoying :). Also
+added MORE new weapons. :) See the impulse list for what they are. I'm
+sure there's stuff I forgot to put on this list of new things, but it's
+already long enough. :)
+
+Possible improvements/enhancements in future versions:
+This'll probably be the last version, seeing as Quake is getting old and
+people are starting to hate it/not like it.
+
+If you have any questions or anything like that, then e-mail me. My
+e-mail address is...thefatal@concentric.net. I'm also TheFatal1 on
+IRC (if you can catch me, I'm not on IRC often) and my Quake DeathMatch
+name is also TheFatal1. I play mostly on quake.one.net and quake.drow.org
+(QuakeWorld mostly, although once in a while I play on non-QW one.net). If
+you have ICQ, my UIN is 1789449. You can visit my Quake home page at
+http://members.aol.com/thefatal1/quake.html to get the latest version of
+this patch.
+
+By the way...YOU MAY NOT USE ANYTHING IN THIS ADD-ON IN ANY WAY EXCEPT
+TO PLAY IT ON YOUR OWN COMPUTER. YOU MAY NOT MODIFY IT IN ANY WAY, TAKE
+CREDIT FOR IT IN ANY WAY OR USE IT AS A BASE FOR YOUR OWN PROJECT OR FOR
+ANYTHING ELSE! <grin> Well, except parts of the ChaseCam, hook, etc...you
+can use those, because I didn't write them. Although I did make some
+modifications to the ChaseCam myself, such as the after death view...so,
+uhhh, just be safe and don't use anything from this patch. :) If you DO, and
+I find out about it...THEN I'LL MAKE SURE YOU DON'T GET ANY CANDY FOR A
+WHOLE MONTH! THAT'S RIGHT MISTER! WHAT DO YOU THINK YOUR MOM WOULD SAY ABOUT
+THAT? SHE'D GROUND YOU FOR 2 WEEKS! THAT'S RIGHT! FURTHERMORE, I--::2 men in
+white clothing walk up again, gets bashed unconcious, men drag unconcious
+body away::

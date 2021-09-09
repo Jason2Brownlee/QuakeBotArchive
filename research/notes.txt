@@ -2407,6 +2407,16 @@ Olofs QC Collection
 	https://www.quaddicted.com/files/idgames2/quakec/compilations/oqcc092b.zip
 	http://www.geocities.com/timessqare/arcade/6028/
 		not archived
+QuakeC Add-On Pack (QCAP)
+	Rich Whitehouse aka "thefatal"
+	https://www.quaddicted.com/files/idgames2/quakec/compilations/qcap2.txt
+	https://www.quaddicted.com/files/idgames2/quakec/compilations/qcap2.zip
+	two versions
+	http://www.concentric.net/~thefatal/quake.html
+		not much archived
+	http://members.aol.com/thefatal1/quake.html
+		not archived
+
 
 
 
