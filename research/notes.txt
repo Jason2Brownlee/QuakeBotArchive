@@ -30,6 +30,7 @@ Omicron Bot
 		ftp://ftp.cdrom.com/pub/idgames2/planetquake/ramshackle/OBOTS100.ZIP
 		ftp://ftp.telefragged.com/pub/swtc/obots100.zip
 		https://web.archive.org/web/19990829162357/http://sunsite.org.uk/packages/idgames2/planetquake/ramshackle/
+		http://www.hipnotic.com/shack_files/quakec/obots100.zip
 	v1.01 Monday, December 15, 1997
 		https://www.bluesnews.com/archives/dec97-2.html
 		https://web.archive.org/web/19980614160658/http://planetquake.com/ramshackle/omidlf.htm
@@ -872,6 +873,7 @@ Eliminator Bot (cbot engine)
 		https://www.bluesnews.com/archives/dec96-3.html
 		https://web.archive.org/web/20020108164713/http://www.geocities.com/timessquare/dungeon/1271/files.html
 		elimsrc.zip
+		http://redwood.gatsbyhouse.com/files/bots/elimsrc.zip
 	more
 		https://www.quaddicted.com/magazines/cd_zone_issue_48_march_1997
 		http://botarea51.impulse9.net/mirror/bot/elim14.zip

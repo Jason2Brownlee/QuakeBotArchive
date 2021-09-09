@@ -7,6 +7,7 @@ ftp://bluesnews.com/pub/bots/reaprb75.zip
 ftp://ftp.cdrom.com/pub/idgames2/planetquake/ramshackle/obots100.zip
 ftp://ftp.cdrom.com/pub/idgames2/planetquake/ramshackle/OBOTS100.ZIP
 ftp://ftp.cdrom.com/pub/idgames2/planetquake/tfbot/tfb-v07.zip
+ftp://ftp.cdrom.com/pub/idgames2/quakec/bots/darkbt4.zip
 ftp://ftp.cdrom.com/pub/idgames2/quakec/bots/rbot.zip
 ftp://ftp.cdrom.com/pub/idgames2/telefragged/epidemic/frogbot012a.zip
 ftp://ftp.cdrom.com/pub/idgames2/telefragged/metro/frogbot007.zip
@@ -177,6 +178,7 @@ http://www.gameaholic.com/deicide/download.cgi?/quakec/bots/rbot.zip
 http://www.geocities.com/TimesSquare/Fortress/7565/superman11.zip
 http://www.geocities.com/TimesSquare/Hangar/8961/sq12to13.zip
 http://www.geocities.com/TimesSquare/Hangar/8961/squirt12b.zip
+http://www.hipnotic.com/shack_files/quakec/obots100.zip
 http://www.hipnotic.com/shack_files/quakec/obots100.zip
 http://www.home.earthlink.net/~pentm450/hhbot.zip
 http://www.home.earthlink.net/~pentm450/rnbt3.4.zip
