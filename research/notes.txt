@@ -1710,13 +1710,11 @@ FrikBot + Zerstorer
 	frikzer.zip
 	Ryan Smith aka "Frika C"
 	https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/inside3d/frikbot/frikzer.zip
-FrikBot + QuakeWorld
-	frkqw01.zip
-	rs/ftp.telefragged.com/inside3d/frikbot/frikqw01.zip
 FrikBot + QW Vwep
 	Ryan Smith aka "Frika C"
 	frikqw03.zip
 	https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/inside3d/frikbot/frikqw03.zip
+	https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/inside3d/frikbot/frikqw01.zip
 	frikvwep.zip
 	https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/inside3d/frikbot/frikvwep.zip
 Ache
