@@ -2412,11 +2412,19 @@ QuakeC Add-On Pack (QCAP)
 	https://www.quaddicted.com/files/idgames2/quakec/compilations/qcap2.txt
 	https://www.quaddicted.com/files/idgames2/quakec/compilations/qcap2.zip
 	two versions
+		qcap.zip ???
 	http://www.concentric.net/~thefatal/quake.html
 		not much archived
 	http://members.aol.com/thefatal1/quake.html
 		not archived
-
+S(low)A(ss)M(odem)-FraG Multi-Patch v0.01a
+	SAM-FraG
+	"SpiderMonkie"
+	has bgbot
+	https://www.quaddicted.com/files/idgames2/quakec/compilations/sam-fragv001a.txt
+	https://www.quaddicted.com/files/idgames2/quakec/compilations/sam-fragv001a.zip
+	http://welcome.to/deadworld
+		not archived
 
 
 

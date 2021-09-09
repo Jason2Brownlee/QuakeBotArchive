@@ -76,7 +76,6 @@ https://www.quaddicted.com/files/idgames2/quakec/compilations/qcap2.txt
 	Contains "reaper": might've even been able to make another reaper. :) but, quake is old now...
 	Contains "bot[,. ]": of how i made the co-op bot. if i forgot anyone, sorry. if you know of
 	Contains "bots[,. ]":               with "arse" and such. bots also have individual personalities
-
 https://www.quaddicted.com/files/idgames2/quakec/compilations/qplus.txt
 	Contains "reaper":            * stiven polge(polge@ix.netcom.com) for... yeah! the reaper bot!
 	Contains "cujo":            * jonathan e. wright(nelno@resurrection.com), for some cujo ai
@@ -86,6 +85,7 @@ https://www.quaddicted.com/files/idgames2/quakec/compilations/quakex12.txt
 	Contains "reaper": author info     : thomas hansen. aka reaper
 https://www.quaddicted.com/files/idgames2/quakec/compilations/sam-fragv001a.txt
 	Contains "bot[,. ]": 	the slow @ss modem frag multi-patch (for lack of a beter name) is a compilation of various other sources, including, but not limmited to, already existing patches (ie. bg bot 1.6), tutorial information, custom .cfg files, personal touches and (believe it or not) minor bug fixes. :-(there is a prob with the chase cam: can see through floors/walls/ect if too close)-:
+
 https://www.quaddicted.com/files/idgames2/quakec/compilations/turric03.txt
 	Contains "cujo": - play with cujo the super pooch.
 https://www.quaddicted.com/files/idgames2/quakec/compilations/ultimate.txt

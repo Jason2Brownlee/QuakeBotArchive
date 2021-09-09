@@ -1,0 +1,126 @@
+((TURN WORDWRAP ON!!!))
+
+		S(low)A(ss)M(odem)-FraG Multi-Patch v0.01a
+	          
+
+	(Compilation by SpiderMonkie,
+		a.k.a. MaxxHactor,
+			a.k.a. hALO fIVE,
+				a.k.a. FreaK,								a.k.a. ect, ect, ect ;)	
+
+	Title		:SAM-FraG Multi-Patch
+	Filename	:SAM-FraGv001a.zip
+	Version		:0.01a
+	Date		:11/??/98
+	Author		:See a.k.a.s above and Credits below :-P
+	Compiled by	:See above
+	Email		:a.h.a.halofive@usa.net
+	Homepage	:http://welcome.to/deadworld
+	Credits		:Working on it (See Bottom)
+
+	THIS IS MY FIRST ATTEMPT AT A MOD/PATCH/THINGy/WHATEVER
+		I welcome any CONSTRUCTIVE critisizem
+			    Thank you :-)
+----
+Info
+----
+	The Slow @ss Modem FraG Multi-Patch (for lack of a beter name) is a compilation of various other sources, including, but not limmited to, already existing patches (ie. BG bot 1.6), tutorial information, custom .cfg files, personal touches and (believe it or not) minor bug fixes. :-(There is a prob with the chase cam: Can see through floors/walls/ect if too close)-: 
+
+			Format : Progs.dat
+		     *!Source Code Included!*
+          
+			        :-D           
+
+------------
+In the works
+------------
+	Future compilations will (hopefuly) include additional models, sounds, skins, other (prob in .PAK file)	
+
+-----------------
+Patch Description
+-----------------
+	I used the BG Bot v1.6 as a base and added things I'm learning from tutorials. Included are increased jump, ajustable chase cam, flashlight/laser target, vision enhancement (x-ray, night vision, zoom, fishlense), [Vampire]Axe Attack Hot Key, Fly Mode (works in deathmatch), Teleport.... (I think that's it for now). Below are the (already bound) impulse commands.
+
+--------
+Features
+--------
+	In addition to the Patch itself (Progs.dat), I have included the uncompiled source (.qc files), custom .cfg (config) files, ProQcc.exe (for compiling/decompiling, see Other), SAM-FraG.Bat (quick start) and this text file (obviously).
+
+-------------
+Keys/Impulses (Optimized for keyboard/mouse control;
+-------------  "The only way to FraG!")
+
+
+w - Chase Cam
+i - CCam In
+o - CCam Out
+u - CCam Up
+l - CCam Down
+j - CCam Left
+k - CCam Right
+s - X-Ray Vision
+d - Axe Attack
+f - Fishlense
+g - Fly
+e - Flashlight/Laser Target
+q - Remember Location
+a - Teleport to Location
+b - Spawn Bot(s)
+z - Zoom
+v - Night Vision
+x - Center View
+c - Move Down (swiming)
+Middle Mouse Button - Mouse Look
+Left Mouse Button/CTRL - Attach
+Right Mouse Button - Walk 
+SHIFT - Run
+Space Jump
+--------------
+How to install
+--------------
+	(1)Extract contents to a subdirectory of quake named sam
+		(ie.	C:\quake\sam\)
+	(2)Run SAM-FraG.Bat OR use the -game paramiter (quake -game 	directory; ie. quake -game frag)
+
+Optional Paramiters:
++Deathmatch (1-3=on 0=off; +deathmatch 3 recomended)
++map e#m# (Episode # and Mission # OR dm 1-6)
+-nocdaudio (No Cd)
+-joy (No Joystick)
+-----------------------------
+How to create your own patch (YEAH! RIGHT!)
+-----------------------------
+	If you are interested in learning QuakeC and adding your own personal touch to the game, just visit these fine sites:
+
+	www.inside3d.com (Tutorials)
+	www.planetquake.com/minion (Bot AI)
+	www.planetquake.com/chopshop/editing/quake/quakec.html (QC)
+
+You can also contact me by any of the methods found below. (However, I am a beginner myself)
+--------------
+Uncle Sam-Sham (a.k.a. legal BS)
+--------------
+You may do whatever your little heart desires with this compilation. If you make any modifications, fix any bugs, or anything else to drasticly improve gameplay, please let me know so I can thank you. (And play with the new code :-)
+-------------
+Credits/Thanx
+-------------
+I'd like to thank Punisher for putting the BG Bot together and supplying the code, Coffee and all the ppl at Planet Quake for such an informational site, the ppl at inside3d for their tutorial info and ID (of course) for making Quake!!!
+-----
+Other
+-----
+Proqcc - Since I only (know how to) use the compile/decompile funtions of this Prog, that's what I'm gonna show you :-)
+
+	(1) To compile, simply place the Proqcc.exe in the same directory as the .qc files. The directory structure should look somewhat like this: C:\quake\mymod\src - Proqcc and the .qc files being in the \src subdirectory. Now, open Progs.src, preferably with WordPad, and make shure the very first line looks like this: ..\Progs.dat - This it the output file which will be made in the C:\quake\mymod directory (don't worry if it's not there yet.... that's what we're doing now :-)
+	Now just run Proqcc.exe. A dos box should pop up and you will see some dos stuff going on (for thoes of you who know nothing about DOS). What is happaning is: Proqcc is taking all of the .qc files in the \src subdirectory and putting them together in a file which will be called Progs.dat in the \mymod subdirectory (mymod and src both being subdirectories of c:\quake). When it is finished, you will see a summery of what just happned at the right side of the Proqcc DOS box. Now, I have no idea what this stuff means so I'm not gonna try to explain any of it :-) If all went well, you will now find Progs.dat in the c:\quake\mymod directory.
+	
+	(2) To UnCompile. You must first place the said Progs.dat file in a subdirectoy of a subdirectoy of c:\quake. (lost yet? I know I shure am :-) With Proqcc.exe and Progs.dat in the same directoy, open a new (windowed) DOS box. Goto the directoy that both Proqcc AND Progs.dat are in and type the following: 
+"proqcc -dec Progs.dat" without the quotes ......Now! (whew) proqcc SHOULD now be decompiling Progs.dat into usable code. 
+	
+	NOTES!!! (A) Decompiled code is much messier than the uncompiled stuff you can get at various web/ftp sites. (I suggest getting the file qc106pac.zip, it has all the standard code plus a copy of the QccDos compiler AND a QC manual). If you can't find it, try going to www.ftpsearch.com and searching for it.
+		(B) The method above, if understood/followed correctly wil not always work. There are many factors determaning the usability of QC. As with HTML (Which I AM firmiliar with) and (I'm assuming) most other programming languages, QC is VERY susceptible to human err. One mistype or ill placed punctuation will throw a munkiewrench into the whole works.
+
+***I hope I have in some small way helped you in your quest for QC***
+-------
+Contact
+-------
+If you want to contact me you can do so by email (a.k.a.halofive@usa.net) OR ICQ... (icq#15175322 - Nickname MaxxHactor - email maxxg@usa.net; please do not use maxxg@usa.net for email. If you wish to send me an email, send it to a.h.a.halofive@usa.net)
