@@ -1,0 +1,165 @@
+  Title : OLOFS QC COLLECTION v0.92b 
+
+
+Filename : OQCC092b.ZIP
+Version  : 0.92b
+URL      : http://www.geocities.com/timessqare/arcade/6028/
+
+Date     : 20/07/97
+
+Author(s): Olof Svensson
+
+Email    : Dukenuker@Geocities.com
+
+Credits  : * QC Code *
+           ===========
+           Eatable gibs by Sean Leonard leonard@ap.net
+           Eject Shell by Steve Bond (wedge@nuc.net).
+           Proximity Mine, dropbackpack and homing missiles by Lynx (briggsj@lurch.ball.com)
+           and Dumont (pjsmith@ix.netcom.com)       
+           Portable Teleporter and telebomb by KTGOW ktgow@cory.eecs.berkeley.edu
+	   Pipebombs by AsmodeusB tazq@sos.on.ca
+	   Friend moster and solid monsters by Jeff Epler (jepler@inetnebr.com
+	   Wisp version 1.0 by Iikka Paavolainen (ipaavola@cc.hut.fi)
+	   Nailbomb by "Nick" (nick-man@indra.com)
+	   Gasbomb by Patrick Martin (cmarti39@icon.net)
+	   Hbomb is a mix between a bomb by Patrick Martin (cmarti39@icon.net) and homing missiles (see above)           
+	   Lightbomb by "Pangloss" weblook@mmv.se
+
+	   * Compiler *
+           ============
+           qccwin32.exe
+
+           * Others *
+           ==========
+           You! <- For downloading this patch.
+           ID Software <- For creating quake in the first place.
+
+
+  Type of Mod  
+
+
+Quake C  : yes
+Sound    : yes
+MDL      : yes
+
+
+       Format of Quake C  
+
+
+.qc files     : no  (Too messy to publish)
+progs.dat     : yes
+
+
+	NEWS in Oqcc092b
+
+Some bugs fixed
+Gasbomb,homebomb and lightbomb added
+Some other fixes
+
+
+
+Description:             
+
+
+This is a combination patch of the various patches which I've listed
+in the above credit list, and some that i created myself.
+
+If you find any bug (This is the beta version) please let me kmow
+mail me at Dukenuker@Geocities.com
+
+If one of you on the credits list are reading this now and don´t want me to use
+the code you created, Fine i can remove it if thats what you want.
+just let me know ok.
+
+    How to Install the Patch      
+
+
+goto Quake dir
+make a sub dir named "xxxxx"
+"xxxxx" can be anything you want
+unzip the zip file with -d into the "xxxxx" dir
+run quake with the -game "xxxxx" option
+
+Example:
+
+C:\>cd games
+
+C:\games>cd quake
+
+C:\games\Quake>md "xxxxx"
+
+C:\games\Quake>cd "xxxxx"
+
+C:\games\Quake\"xxxxx">pkunzip -d oqcc092b.zip
+
+C:\games\Quake\"xxxxx">cd ..
+
+C:\games\Quake>Quake -game "xxxxx" *
+
+* If you want to you can create a batch file
+then this will be alot more easy to do
+
+If you're running Oqcc under Windows 95, and have more than 8 MB of ram,
+try to run Quake with this command :
+
+C:\games\Quake>Quake -game "xxxxx" -winmem "xx"
+
+(If you have more than 16 MB of ram, replace "xx" with something bigger)
+
+I am sorry to say this, but if you dont have a least 10 MB ram
+I cant recomend you to use this patch.
+
+
+       Controls            
+
+
+W -Wisp ON/OFF
+F -Freeze wisp
+J -Ride on wisp
+R -Recall wisp
+P -Pipebomb
+I -Detonate all pipebombs
+E -Launch telebomb
+H -Launch Mines/Homing missiles *
+G -Detonate grenades (Not mines)
+O -Crosshair on
+K -Crosshair off
+F7 -Store location
+F8 -Teleport to stored location
+B -Backpack
+M -Get a monster frend (will take some of your health)
+N -Nailbomb
+L -Homebomb (Watch out)
+V -Gasbomb
+U -Light bomb (wow)
+Q -Click this sometime
+
+If you dont want to use these controls
+modify autoexec.cfg
+
+        Bugs        
+
+
+Im Aware of that this beta version is a little buggy.
+Please let me know if you find any rare
+"Host Error, Program Error" Bugs
+Im aware of the others.
+
+
+             And so on                    
+
+
+Authors MAY use these modifications as a basis for other
+publicly available work.  Please send me any modifications
+you make!
+
+If you have used part of this patch (code, model or sound) in
+your own patch, please give credits to the authors who have made
+them.
+
+You may distribute this Quake modification in any electronic
+format as long as this description file remains intact and unmodified
+and is retained along with all of the files in the archive.
+
+Thanks!

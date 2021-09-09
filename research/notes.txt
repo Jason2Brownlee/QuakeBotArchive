@@ -2038,6 +2038,7 @@ Vari-Patch
 		Contains 2 different bots and many, many weapon patches
 	www.btinternet.com/~chris.r.millward
 		https://web.archive.org/web/20010516012952/http://www.btinternet.com/~chris.r.millward/
+		https://web.archive.org/web/19981205215224/http://www.btinternet.com/~chris.r.millward/chris/quake.htm
 cujgrap / Cujo and Grapple
 	extends cujo
 	https://www.dukeworld.com/idgames2/quakec/compilations/cujgrap.txt
@@ -2397,6 +2398,15 @@ Insane
 	"RedChipolata"
 	https://www.quaddicted.com/files/idgames2/quakec/compilations/insane.txt
 	https://www.quaddicted.com/files/idgames2/quakec/compilations/insane.zip
+Olofs QC Collection
+	OLOFS QC COLLECTION v0.92b
+	prior versions?
+	Olof Svensson
+	uses wisp
+	https://www.quaddicted.com/files/idgames2/quakec/compilations/oqcc092b.txt
+	https://www.quaddicted.com/files/idgames2/quakec/compilations/oqcc092b.zip
+	http://www.geocities.com/timessqare/arcade/6028/
+		not archived
 
 
 
