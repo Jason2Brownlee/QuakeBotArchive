@@ -1012,11 +1012,25 @@ Victim Bot
 		https://web.archive.org/web/20020725062119/http://www.sfu.ca/~tonyt/
 		https://web.archive.org/web/20020907152520/http://www.sfu.ca/~tonyt/projects/vb.html
 Tballman
-	https://www.quakewiki.net/archives/botarea51/main/qbotf62c.html?id=36
-	Mother
-	tballman.zip
-	https://www.quaddicted.com/files/idgames2/quakec/bots/tballman.zip
+	Jeff Curley aka "Mother"
+	tballman.zip (v0.91)
+		https://www.quaddicted.com/files/idgames2/quakec/bots/tballman.zip
+		https://www.quaddicted.com/files/idgames2/quakec/bots/tballman.txt
+	tballman097.zip
+		http://fubar.cstp.umkc.edu:80/quake/files/tballman097.zip
 	http://fubar.cstp.umkc.edu/quake
+		https://web.archive.org/web/19981202132321/http://fubar.cstp.umkc.edu/quake
+		https://web.archive.org/web/20010421191011/http://fubar.cstp.umkc.edu:80/quake/files.html
+		https://web.archive.org/web/20001010203546/http://fubar.cstp.umkc.edu/quake/howto.html
+		https://web.archive.org/web/20010421191011/http://fubar.cstp.umkc.edu:80/quake/files/tballman097.zip
+		https://web.archive.org/web/19990209150109/http://fubar.cstp.umkc.edu/jcurley/quake/
+		https://web.archive.org/web/20010809130416/http://fubar.cstp.umkc.edu/jcurley/quake/files.html
+		https://web.archive.org/web/20001010142549/http://fubar.cstp.umkc.edu/jcurley/441/441hw3.htm
+		https://www.bluesnews.com/archives/dec97-2.html
+			"Mother"
+			http://fubar.cstp.umkc.edu/jcurley/quake/
+	other
+		https://www.quakewiki.net/archives/botarea51/main/qbotf62c.html?id=36
 Karnag-Bot / Karnagbot / Karnag Bot / KNBot
 	https://www.quakewiki.net/archives/botarea51/main/qbot4411.html?id=37
 	Ken Madlener aka "Kenzer"

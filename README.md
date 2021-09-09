@@ -191,7 +191,7 @@ Squirt Bot | Michael Buettner aka "Squirt" | [squirt13.zip](bin/squirt13.zip)<br
 SuPeRMan Bot | "(KSA)Tekken" | superman11.zip
 Swimming Bot (Swimbot) | Greg Fukui aka "baloo the bear" | [swbot104.zip](bin/swbot104.zip) ([txt](bin/swbot104.txt))<br>sbotstuf.zip<br>[swbot103.zip](bin/swbot103.zip)<br>swbot102.zip<br>swbot101.zip<br>swbot1.zip
 Target Player Place (Place Bot) | "Vengence" | [place2.zip](bin/place2.zip) ([txt](bin/place2.txt))<br>[pbot_src.zip](bin/pbot_src.zip) ([txt](bin/pbot_src.txt))
-Tballman | "Mother" | [tballman.zip](bin/tballman.zip) ([txt](bin/tballman.txt))
+Tballman | Jeff Curley aka "Mother" | tballman097.zip<br>[tballman.zip](bin/tballman.zip) ([txt](bin/tballman.txt))
 TD-BOT | ? | tdbot1_0.zip
 TD2 Mech Bot | ? | [mech.zip](bin/mech.zip)
 Team FMOD (Frogbot) | "Shelob" | stfm10.zip
