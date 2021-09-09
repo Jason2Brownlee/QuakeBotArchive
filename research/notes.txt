@@ -1017,11 +1017,33 @@ Tballman
 	tballman.zip
 	https://www.quaddicted.com/files/idgames2/quakec/bots/tballman.zip
 	http://fubar.cstp.umkc.edu/quake
-Karnag-Bot / Karnagbot
+Karnag-Bot / Karnagbot / Karnag Bot / KNBot
 	https://www.quakewiki.net/archives/botarea51/main/qbot4411.html?id=37
-	Ken Madlener
+	Ken Madlener aka "Kenzer"
 	knbot45.zip
-	https://www.quaddicted.com/files/idgames2/quakec/bots/knbot45.zip
+		https://www.quaddicted.com/files/idgames2/quakec/bots/knbot45.zip
+		https://www.quaddicted.com/files/idgames2/quakec/bots/knbot45.txt
+		https://dukeworld.com/idgames2/quakec/bots/knbot45.zip
+		https://dukeworld.com/idgames2/quakec/bots/knbot45.txt
+		https://www.gamers.org/pub/idgames2/quakec/bots/knbot45.zip
+		https://www.gamers.org/pub/idgames2/quakec/bots/knbot45.txt
+	http://d219-2.ibk.fnt.hvu.nl
+		https://web.archive.org/web/19970417081427/http://d219-2.ibk.fnt.hvu.nl/
+	quake.xs4all.nl
+		not archived
+	KNBOT03.ZIP
+		https://archives.fidobbs.net/pub/bbs/853/KNBOT03.ZIP
+		http://cd.textfiles.com/cream/cream25/cream.txt
+		http://cd.textfiles.com/cream/cream25/doom/knbot03.zip
+		https://groups.google.com/g/fido7.ru.game.doom/c/QpnV4NW4zDs/m/IHuhZpLiYu4J
+			knbot03.zip
+		https://groups.google.com/g/t-netz.fileserver/c/Xu0AEoA302k/m/_lrJT9kL3O0J
+			KNBOT03.ARJ
+	versions 1, 2 not made public
+	is there a version 4 or 5?
+		nope...
+	other
+		https://www.quakewiki.net/archives/botarea51/main/qbot4411.html?id=37
 SamBot
 	https://www.quakewiki.net/archives/botarea51/main/history.html
 	sambot.zip
