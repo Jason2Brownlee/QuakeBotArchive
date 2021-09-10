@@ -104,8 +104,6 @@ Done.
 
 
 --------------------------------------------------------------------------------
-
-
 https://www.quaddicted.com/files/idgames2/quakec/deathmatch/
 .90 files
 .45 txt files
@@ -116,73 +114,68 @@ https://www.quaddicted.com/files/idgames2/quakec/deathmatch/money21.txt
 https://www.quaddicted.com/files/idgames2/quakec/deathmatch/money23.txt
 	Contains "cujo": 	   the person who made the cujo skin for my elite dog.
 https://www.quaddicted.com/files/idgames2/quakec/deathmatch/player.txt
-	Contains "bot[,. ]": author of the placebot patch for quake
+	Contains "bot[s,\.\s]": author of the placebot patch for quake
 https://www.quaddicted.com/files/idgames2/quakec/deathmatch/playsrc.txt
-	Contains "bot[,. ]": author of the placebot patch for quake
+	Contains "bot[s,\.\s]": author of the placebot patch for quake
 https://www.quaddicted.com/files/idgames2/quakec/deathmatch/qwplayer.txt
-	Contains "bot[,. ]": author of the placebot patch for quake
+	Contains "bot[s,\.\s]": author of the placebot patch for quake
 https://www.quaddicted.com/files/idgames2/quakec/deathmatch/resume.txt
 	Contains "reaper":    a patch along the lines of 'reaperbots as monsters', which
-	Contains "bots[,. ]":    a patch along the lines of 'reaperbots as monsters', which
+	Contains "bot[s,\.\s]":    a patch along the lines of 'reaperbots as monsters', which
 https://www.quaddicted.com/files/idgames2/quakec/deathmatch/td2063en.txt
-	Contains "bots[,. ]": oh yeah... it has no bots. sorry. "quake1 human dm" only..
+	Contains "bot[s,\.\s]": oh yeah... it has no bots. sorry. "quake1 human dm" only..
 https://www.quaddicted.com/files/idgames2/quakec/deathmatch/td263eqw.txt
-	Contains "bots[,. ]": oh yeah... it has no bots. sorry. "quake1 human dm" only..
+	Contains "bot[s,\.\s]": oh yeah... it has no bots. sorry. "quake1 human dm" only..
 https://www.quaddicted.com/files/idgames2/quakec/deathmatch/visweap.txt
 	Contains "reaper":  because of the reaper copyright.
-Done.
-[Finished in 45.9s]
 
 
 --------------------------------------------------------------------------------
-
-
 https://www.quaddicted.com/files/idgames2/quakec/misc/
 .333 files
 .170 txt files
+https://www.quaddicted.com/files/idgames2/quakec/misc/camper10.txt
+	Contains "omicron": title:      omicron camper exterminator
 https://www.quaddicted.com/files/idgames2/quakec/misc/coolgib1.txt
 	Contains "reaper": author info     : thomas hansen. aka grim reaper
 https://www.quaddicted.com/files/idgames2/quakec/misc/cqmp1v03.txt
 	Contains "reaper": author info     : thomas hansen. aka: grim reaper, lord of tki.
 https://www.quaddicted.com/files/idgames2/quakec/misc/cqmp2v04.txt
 	Contains "reaper": author info     : thomas hansen. aka: grim reaper, lord of tki.
-	Contains "bots[,. ]":                   leader of the game. (i heard q3 has bots by id ???)
+	Contains "bot[s,\.\s]":                   leader of the game. (i heard q3 has bots by id ???)
 https://www.quaddicted.com/files/idgames2/quakec/misc/creepc17.txt
 	Contains "frogbot":   robert field. (author of the frogbot)
-	Contains "bot[,. ]":   the recently released omicron bot is very similar. (i had already written and tested this
+	Contains "omicron":   the recently released omicron bot is very similar. (i had already written and tested this
+	Contains "bot[s,\.\s]":   the recently released omicron bot is very similar. (i had already written and tested this
 https://www.quaddicted.com/files/idgames2/quakec/misc/flames.txt
-	Contains "bot[,. ]": thanks to the author of dmbot for the template to this file.
+	Contains "bot[s,\.\s]": thanks to the author of dmbot for the template to this file.
+https://www.quaddicted.com/files/idgames2/quakec/misc/qbreak.txt
+	Contains "robot": www.roboto.com/cannibals/
 https://www.quaddicted.com/files/idgames2/quakec/misc/qfltr002.txt
 	Contains "zeus": oh yeah speaking of bots - i got a copy of the latest zeusbot - this bot
-	Contains "bot[,. ]": i am currently working on a quakec bot which currently goes by the name of
-	Contains "bots[,. ]": oh yeah speaking of bots - i got a copy of the latest zeusbot - this bot
+	Contains "bot[s,\.\s]": i am currently working on a quakec bot which currently goes by the name of
 https://www.quaddicted.com/files/idgames2/quakec/misc/req_se.txt
-	Contains "bot[,. ]":   both nailguns or bot grenade and rocket launcher. this will give you
-	Contains "bots[,. ]": controlled robots, or regular single-player mode against the usual
+	Contains "robot": controlled robots, or regular single-player mode against the usual
+	Contains "bot[s,\.\s]": controlled robots, or regular single-player mode against the usual
 https://www.quaddicted.com/files/idgames2/quakec/misc/scramble.txt
-	Contains "bot[,. ]": bot  		: no
+	Contains "bot[s,\.\s]": bot  		: no
 https://www.quaddicted.com/files/idgames2/quakec/misc/sigil05b.txt
-	Contains "bot[,. ]": bot         :   no
-Done.
-[Finished in 167.2s]
+	Contains "bot[s,\.\s]": bot         :   no
+
 
 --------------------------------------------------------------------------------
-
 https://www.quaddicted.com/files/idgames2/quakec/teamplay/
 .50 files
 .24 txt files
-Done.
-[Finished in 26.0s]
 
 
 --------------------------------------------------------------------------------
-
 https://www.quaddicted.com/files/idgames2/quakec/weapons/
 .654 files
 .327 txt files
 https://www.quaddicted.com/files/idgames2/quakec/weapons/axe_love.txt
 	Contains "reaper": reaper bot or so), while the opponent dies and respawns (or keeps looking;
-	Contains "bot[,. ]": reaper bot or so), while the opponent dies and respawns (or keeps looking;
+	Contains "bot[s,\.\s]": reaper bot or so), while the opponent dies and respawns (or keeps looking;
 https://www.quaddicted.com/files/idgames2/quakec/weapons/bfg11.txt
 	Contains "cujo":            check here for the latest updates to cujo, bfg, the
 https://www.quaddicted.com/files/idgames2/quakec/weapons/biggun40.txt
@@ -194,14 +187,14 @@ https://www.quaddicted.com/files/idgames2/quakec/weapons/blaze11.txt
 https://www.quaddicted.com/files/idgames2/quakec/weapons/bouncer.txt
 	Contains "reaper": reaperman on the quakeservers
 https://www.quaddicted.com/files/idgames2/quakec/weapons/dm_mod.txt
-	Contains "bots[,. ]": enforcers are wanna be dm-bots w/ plasma launcher
+	Contains "bot[s,\.\s]": enforcers are wanna be dm-bots w/ plasma launcher
 https://www.quaddicted.com/files/idgames2/quakec/weapons/dogfun13.txt
 	Contains "bgbot": made     :bgbot v1.5
 	Contains "cujo": cujo v1.0
-	Contains "bot[,. ]": bg_bot v1.5
+	Contains "bot[s,\.\s]": bg_bot v1.5
 https://www.quaddicted.com/files/idgames2/quakec/weapons/firework.txt
 	Contains "reaper": sewers.bsp is excellent with reaper bots and good for tournaments and such
-	Contains "bots[,. ]": sewers.bsp is excellent with reaper bots and good for tournaments and such
+	Contains "bot[s,\.\s]": sewers.bsp is excellent with reaper bots and good for tournaments and such
 https://www.quaddicted.com/files/idgames2/quakec/weapons/fragrock.txt
 	Contains "reaper": reaperman on the quakeservers
 https://www.quaddicted.com/files/idgames2/quakec/weapons/freakn13.txt
@@ -212,124 +205,116 @@ https://www.quaddicted.com/files/idgames2/quakec/weapons/hitechwp11.txt
 	Contains "reaper": plasma reaper		   4		2 plasma cells
 https://www.quaddicted.com/files/idgames2/quakec/weapons/invmines.txt
 	Contains "reaper":  to steven polge for the reaper bots.
-	Contains "bots[,. ]":  to steven polge for the reaper bots.
+	Contains "bot[s,\.\s]":  to steven polge for the reaper bots.
 https://www.quaddicted.com/files/idgames2/quakec/weapons/madness.txt
 	Contains "reaper": 	grim reaper
-	Contains "bot[,. ]":            tim polucha (co-designer, playtester)    |- for the dmbot (snot)
+	Contains "bot[s,\.\s]":            tim polucha (co-designer, playtester)    |- for the dmbot (snot)
 https://www.quaddicted.com/files/idgames2/quakec/weapons/maniac57.txt
 	Contains "reaper": author info     : thomas hansen. aka grim reaper
 	Contains "bgbot": 3:make cujo cooperate with bgbot, in single player game
 	Contains "cujo": 3:make cujo cooperate with bgbot, in single player game
-	Contains "bot[,. ]": 3:make cujo cooperate with bgbot, in single player game
+	Contains "bot[s,\.\s]": 3:make cujo cooperate with bgbot, in single player game
 https://www.quaddicted.com/files/idgames2/quakec/weapons/mmrckt10.txt
 	Contains "cujo": credits  : jonathon wright(cujo v1.4 spawn code)
-	Contains "bot[,. ]": i liked jonathon wright's cujo bot distribution policy so i
+	Contains "bot[s,\.\s]": i liked jonathon wright's cujo bot distribution policy so i
 https://www.quaddicted.com/files/idgames2/quakec/weapons/pistol13.txt
-	Contains "bot[,. ]": author info             : made bot hunt 1.0, ate a lot of food, likes
+	Contains "bot[s,\.\s]": author info             : made bot hunt 1.0, ate a lot of food, likes
 https://www.quaddicted.com/files/idgames2/quakec/weapons/plasma10.txt
 	Contains "cujo":            check here for the latest updates to cujo, bfg, the
 https://www.quaddicted.com/files/idgames2/quakec/weapons/pnc1_02b.txt
 	Contains "reaper":                           against 3 skill-3 reaper's and pancy...
 https://www.quaddicted.com/files/idgames2/quakec/weapons/punchgun.txt
 	Contains "reaper": contact me. mail also for updates, i plan to add the reaper-bot.
-	Contains "bot[,. ]": contact me. mail also for updates, i plan to add the reaper-bot.
+	Contains "bot[s,\.\s]": contact me. mail also for updates, i plan to add the reaper-bot.
 https://www.quaddicted.com/files/idgames2/quakec/weapons/qbomb10i.txt
 	Contains "reaper": author info     : thomas s hansen. aka: grim reaper   corp:tki
 https://www.quaddicted.com/files/idgames2/quakec/weapons/qcannon1.txt
 	Contains "bgbot":                (i look at his bgbot code _all_ the time (and i mean
-	Contains "bot[,. ]":                (i look at his bgbot code _all_ the time (and i mean
+	Contains "bot[s,\.\s]":                (i look at his bgbot code _all_ the time (and i mean
 https://www.quaddicted.com/files/idgames2/quakec/weapons/qdme11.txt
-	Contains "bot[,. ]":            to the author of qbot v1.1 (the best quake computer opponent out
+	Contains "bot[s,\.\s]":            to the author of qbot v1.1 (the best quake computer opponent out
+https://www.quaddicted.com/files/idgames2/quakec/weapons/sfalc11.txt
+	Contains "robot":     you have your own little robotic falcon helper. send him off and watch
 https://www.quaddicted.com/files/idgames2/quakec/weapons/ultimate.txt
-	Contains "bot[,. ]": -a bot for deathmatch
+	Contains "bot[s,\.\s]": -a bot for deathmatch
 https://www.quaddicted.com/files/idgames2/quakec/weapons/xtrawp19.txt
 	Contains "reaper": reaperman on the quakeservers
 https://www.quaddicted.com/files/idgames2/quakec/weapons/zapdart1.txt
-	Contains "bots[,. ]":   quakec to all the advanced bots you've ever fought will.  well, screw you.
-Done.
-[Finished in 318.1s]
+	Contains "bot[s,\.\s]":   quakec to all the advanced bots you've ever fought will.  well, screw you.
 
 
 --------------------------------------------------------------------------------
-
-
 https://www.quaddicted.com/files/idgames2/quakec/monsters/
 .192 files
 .96 txt files
 https://www.quaddicted.com/files/idgames2/quakec/monsters/chthon10.txt
 	Contains "reaper": 	   steve polge - polge@ix.netcom.com - reaper bot - centerprinted
-	Contains "bot[,. ]": 	   adapted from bot player)
+	Contains "bot[s,\.\s]": 	   adapted from bot player)
 https://www.quaddicted.com/files/idgames2/quakec/monsters/dogfun16.txt
 	Contains "reaper": given to you by: thomas hansen. aka: reaper, creator of total kill inc.(tki)
 	Contains "bgbot": made     :bgbot v1.5
 	Contains "cujo": created a cujo model with 2 textures....
-	Contains "bot[,. ]": bg_bot v1.5
+	Contains "bot[s,\.\s]": bg_bot v1.5
 https://www.quaddicted.com/files/idgames2/quakec/monsters/dogfun20.txt
 	Contains "reaper": given to you by: thomas hansen. aka: grim reaper
 	Contains "bgbot": made     :bgbot v1.5
 	Contains "cujo": -created a cujo model with 2 textures....
-	Contains "bot[,. ]": -bg_bot v1.5
+	Contains "bot[s,\.\s]": -bg_bot v1.5
 https://www.quaddicted.com/files/idgames2/quakec/monsters/dogplay.txt
 	Contains "reaper": a new player.mdl for use in deathmatch. it is a re-assembled animation of id softwares dog.mdl. the thing about this is, it uses no quakec so you can use them with bots or deathmatch mods (like ctf, team fortress, etc.). in some area's the running animation is "choppy" because i had to go along with the player's animation. i just tried it with a reaper bot, and i must say..you haven't seen anything until you've seen a dog puke out a rocket in your face.....every quake monster is being converted to the player.mdl as we speak...expect more soon...
-	Contains "bot[,. ]": a new player.mdl for use in deathmatch. it is a re-assembled animation of id softwares dog.mdl. the thing about this is, it uses no quakec so you can use them with bots or deathmatch mods (like ctf, team fortress, etc.). in some area's the running animation is "choppy" because i had to go along with the player's animation. i just tried it with a reaper bot, and i must say..you haven't seen anything until you've seen a dog puke out a rocket in your face.....every quake monster is being converted to the player.mdl as we speak...expect more soon...
-	Contains "bots[,. ]": a new player.mdl for use in deathmatch. it is a re-assembled animation of id softwares dog.mdl. the thing about this is, it uses no quakec so you can use them with bots or deathmatch mods (like ctf, team fortress, etc.). in some area's the running animation is "choppy" because i had to go along with the player's animation. i just tried it with a reaper bot, and i must say..you haven't seen anything until you've seen a dog puke out a rocket in your face.....every quake monster is being converted to the player.mdl as we speak...expect more soon...
+	Contains "bot[s,\.\s]": a new player.mdl for use in deathmatch. it is a re-assembled animation of id softwares dog.mdl. the thing about this is, it uses no quakec so you can use them with bots or deathmatch mods (like ctf, team fortress, etc.). in some area's the running animation is "choppy" because i had to go along with the player's animation. i just tried it with a reaper bot, and i must say..you haven't seen anything until you've seen a dog puke out a rocket in your face.....every quake monster is being converted to the player.mdl as we speak...expect more soon...
+https://www.quaddicted.com/files/idgames2/quakec/monsters/dragon.txt
+	Contains "bot[s,\.\s]":
 https://www.quaddicted.com/files/idgames2/quakec/monsters/dragons.txt
-	Contains "bot[,. ]": quake c  : yes (type:  monster/bot hybrid)
+	Contains "bot[s,\.\s]": quake c  : yes (type:  monster/bot hybrid)
 https://www.quaddicted.com/files/idgames2/quakec/monsters/duke33.txt
 	Contains "reaper": given to you by: thomas hansen. aka: grim reaper.
 https://www.quaddicted.com/files/idgames2/quakec/monsters/maniac55.txt
 	Contains "reaper": author info     : thomas hansen. aka grimm reaper
 	Contains "bgbot": cujo hate bgbot's even in single player game
 	Contains "cujo": cujo hate bgbot's even in single player game
-	Contains "bot[,. ]": this is now possible. (bg bot v 1.5)
-	Contains "bots[,. ]": in deathmatch (at any time) 5 bots will be created.
+	Contains "bot[s,\.\s]": this is now possible. (bg bot v 1.5)
 https://www.quaddicted.com/files/idgames2/quakec/monsters/models16.txt
 	Contains "reaper": author info     : thomas hansen. aka grim reaper,   lord of tki.
 https://www.quaddicted.com/files/idgames2/quakec/monsters/monqp11.txt
-	Contains "bot[,. ]":     -- a cyborg type robot replaces the enforcer
+	Contains "robot":     -- a cyborg type robot replaces the enforcer
+	Contains "bot[s,\.\s]":     -- a cyborg type robot replaces the enforcer
 https://www.quaddicted.com/files/idgames2/quakec/monsters/ogrehunt98.txt
 	Contains "zeus": -arrrrrgh! i forgot to remove this section....oh well. the bots didn't do too well anyway against smart monsters. jeez....what a slaugter. you see your favorite zeus bot running down the hall to get the rl and wham! 5 monsters jump the sucker and shread him like paper....pitiful....jonathan would cry like a baby if he heard this.
-	Contains "bot[,. ]": -any bot i can sneak into the final product.
-	Contains "bots[,. ]": -arrrrrgh! i forgot to remove this section....oh well. the bots didn't do too well anyway against smart monsters. jeez....what a slaugter. you see your favorite zeus bot running down the hall to get the rl and wham! 5 monsters jump the sucker and shread him like paper....pitiful....jonathan would cry like a baby if he heard this.
+	Contains "bot[s,\.\s]": -any bot i can sneak into the final product.
 https://www.quaddicted.com/files/idgames2/quakec/monsters/qdragon.txt
-	Contains "bot[,. ]": quake c  : yes (type:  monster/bot hybrid)
+	Contains "bot[s,\.\s]": quake c  : yes (type:  monster/bot hybrid)
 https://www.quaddicted.com/files/idgames2/quakec/monsters/revenge1.txt
-	Contains "bot[,. ]":        a good dm bot.
+	Contains "bot[s,\.\s]":        a good dm bot.
 https://www.quaddicted.com/files/idgames2/quakec/monsters/rumble.txt
 	Contains "zeus": thehunt '98 single player mod    version 5.1z:zeus hunt
-	Contains "bot[,. ]": -any bot i can sneak into the final product.
-	Contains "bots[,. ]": -arrrrrgh! i forgot to remove this section....oh well. the bots didn't do too well anyway against smart monsters. jeez....what a slaugter. you see your favorite zeus bot running down the hall to get the rl and wham! 5 monsters jump the sucker and shread him like paper....pitiful....jonathan would cry like a baby if he heard this.
+	Contains "bot[s,\.\s]": -any bot i can sneak into the final product.
 https://www.quaddicted.com/files/idgames2/quakec/monsters/rumble1.txt
 	Contains "zeus": thehunt '98 coop mod    version 5.1z:zeus hunt
-	Contains "bot[,. ]": d-spawn monster bot(zeusbot challenge)
-	Contains "bots[,. ]": 5.2z: added in a final touch to the monster ai to give zeus bots a whup-whup ass they'll never forget.
+	Contains "bot[s,\.\s]": 5.2z: added in a final touch to the monster ai to give zeus bots a whup-whup ass they'll never forget.
 https://www.quaddicted.com/files/idgames2/quakec/monsters/rumble2.txt
 	Contains "zeus": 	     jonathan e. wright (nelno@interpath.com) (code from "zeus").
-	Contains "bot[,. ]": 	     the new bot movement code !
-	Contains "bots[,. ]": 200 nowadays <g>) there is a built-in limit of three guard bots for any level.
+	Contains "bot[s,\.\s]": 	     the new bot movement code !
 https://www.quaddicted.com/files/idgames2/quakec/monsters/scorp11.txt
 	Contains "reaper": given to you by: thomas hansen. aka: grimm reaper.
 https://www.quaddicted.com/files/idgames2/quakec/monsters/scraghunt.txt
-	Contains "bot[,. ]": -any bot i can sneak into the final product.
+	Contains "bot[s,\.\s]": -any bot i can sneak into the final product.
 https://www.quaddicted.com/files/idgames2/quakec/monsters/scraghunt98.txt
 	Contains "zeus": -arrrrrgh! i forgot to remove this section....oh well. the bots didn't do too well anyway against smart monsters. jeez....what a slaugter. you see your favorite zeus bot running down the hall to get the rl and wham! 5 monsters jump the sucker and shread him like paper....pitiful....jonathan would cry like a baby if he heard this.
-	Contains "bot[,. ]": -any bot i can sneak into the final product.
-	Contains "bots[,. ]": -arrrrrgh! i forgot to remove this section....oh well. the bots didn't do too well anyway against smart monsters. jeez....what a slaugter. you see your favorite zeus bot running down the hall to get the rl and wham! 5 monsters jump the sucker and shread him like paper....pitiful....jonathan would cry like a baby if he heard this.
+	Contains "bot[s,\.\s]": -any bot i can sneak into the final product.
 https://www.quaddicted.com/files/idgames2/quakec/monsters/senf201.txt
 	Contains "cujo": thanks   : id and peoples who helped make quake, also the people who made cujo bot for their great dog skin!
-	Contains "bot[,. ]": thanks   : id and peoples who helped make quake, also the people who made cujo bot for their great dog skin!
+	Contains "bot[s,\.\s]": thanks   : id and peoples who helped make quake, also the people who made cujo bot for their great dog skin!
 https://www.quaddicted.com/files/idgames2/quakec/monsters/thehunt98.txt
 	Contains "zeus": -arrrrrgh! i forgot to remove this section....oh well. the bots didn't do too well anyway against smart monsters. jeez....what a slaugter. you see your favorite zeus bot running down the hall to get the rl and wham! 5 monsters jump the sucker and shread him like paper....pitiful....jonathan would cry like a baby if he heard this.
-	Contains "bot[,. ]": -any bot i can sneak into the final product.
-	Contains "bots[,. ]": -arrrrrgh! i forgot to remove this section....oh well. the bots didn't do too well anyway against smart monsters. jeez....what a slaugter. you see your favorite zeus bot running down the hall to get the rl and wham! 5 monsters jump the sucker and shread him like paper....pitiful....jonathan would cry like a baby if he heard this.
+	Contains "bot[s,\.\s]": -any bot i can sneak into the final product.
 https://www.quaddicted.com/files/idgames2/quakec/monsters/thehuntse.txt
 	Contains "zeus": -arrrrrgh! i forgot to remove this section....oh well. the bots didn't do too well anyway against smart monsters. jeez....what a slaugter. you see your favorite zeus bot running down the hall to get the rl and wham! 5 monsters jump the sucker and shread him like paper....pitiful....jonathan would cry like a baby if he heard this.
-	Contains "bot[,. ]": -any bot i can sneak into the final product.
-	Contains "bots[,. ]": -arrrrrgh! i forgot to remove this section....oh well. the bots didn't do too well anyway against smart monsters. jeez....what a slaugter. you see your favorite zeus bot running down the hall to get the rl and wham! 5 monsters jump the sucker and shread him like paper....pitiful....jonathan would cry like a baby if he heard this.
+	Contains "bot[s,\.\s]": -any bot i can sneak into the final product.
 https://www.quaddicted.com/files/idgames2/quakec/monsters/zombie11.txt
 	Contains "reaper": author info     : thomas hansen. aka reaper
-Done.
-[Finished in 94.5s]
+--------------------------------------------------------------------------------
+
 
 
 
