@@ -2480,5 +2480,6 @@ Ultimate Weapons Mod
 	v1.1
 		https://groups.google.com/g/rec.games.computer.quake.editing/c/CBzRuO8gjPs/m/cYLAznSC2p4J
 		https://groups.google.com/g/rec.games.computer.quake.quake-c/c/4cNSS7tVM48/m/zqt4stEkxg8J
-
+	other
+		https://web.archive.org/web/19980614160053/http://www.inside3d.com/nov12-nov13.shtml
 
