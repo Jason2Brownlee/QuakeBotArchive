@@ -1,0 +1,143 @@
+TODO
+---------
+More digging to do here...
+
+quad hunt
+	http://users.skynet.be/bk236270/quad-hunt.htm
+	http://www.fileplanet.com/dl.aspx?/planetquake/cocot/quad_hunt_v10.zip
+	http://www.fileplanet.com/hosteddl.aspx?%2fplanetquake%2fcocot%2fbots_quad_hunt.zip
+	do we bother adding this?...
+	???
+Future VS Fantasy / FvF Bot
+	https://web.archive.org/web/20100123221300/http://botepidemic.no-origin.net/quake.shtml.htm
+	total conversion
+	frikbot added to "Future VS Fantasy" TC
+	http://members.xoom.com/fvfbot/
+	https://web.archive.org/web/20100123221300/http://members.xoom.com/fvfbot/
+	do we bother adding this?...
+	???
+Ninja Quake Bot
+	https://web.archive.org/web/20000817070547/http://www.inside3d.com/frikbot/
+	http://matrix.crosswinds.net/~tsturm/
+	Frikbot added to a mod, I think?
+	???
+Cannibal Quake
+	https://web.archive.org/web/20020408101357/http://www.botepidemic.com:80/quake.shtml
+	http://www.gloomsday.bizli.com/quake.htm
+	http://www.gloomsday.bizli.com/files/cannibal.zip
+	http://members.xoom.com/gloomsfiles/cannibal.zip
+	Frikbot added to a mod, I think?
+	???
+The Force / Duel of the Fates mod
+	https://web.archive.org/web/20011219185608/http://qexpo.condemned.com/booths/booth.php?n=66
+	https://web.archive.org/web/20020413144551/http://204.50.28.112/qexpo/upload/100/force.txt
+	Frika C / Akuma
+	mod / tc
+	uses frikbots
+Qore
+	- has frikbotx
+	https://www.moddb.com/mods/qore
+SuperDuper
+	has frikbots
+	https://quakeone.com/forum/quake-mod-releases/finished-works/12534-superduper-3-21
+frogbot waypoints
+	https://web.archive.org/web/20011004091210/http://www.botepidemic.com/fmods/maps.htm
+frogbot utils
+	https://web.archive.org/web/20011203154945/http://www.botepidemic.com/fmods/down.htm
+frikbot mods
+	http://www.inside3d.com/frikbot/
+		https://web.archive.org/web/20000817070547/http://www.inside3d.com/frikbot/
+	mods:
+		Q2 Weapons Project
+		Fist Fight
+		Slow Mo
+		Falling
+		Interesting Weapons Quake
+		Bondo's mods
+		Quake on Steroids
+	TODO, what are all these mods...?
+Ultimate Deathmatch
+	https://www.quakewiki.net/archives/botarea51/main/history.html
+	2002
+	http://planetquake.gamespy.com/quake1/index6c18.html?start_from=56&category_id=2
+	2004
+	quake world?
+	???
+	has frikbots i think
+		https://www.quakewiki.net/archives/botarea51/main/favouritebots.html
+quake mods here that have a bot added
+	http://www.randars.com/bots/bots2.html
+frikbot mods
+	http://leileilol.mancubus.net/static/download.html
+	...
+QuakeBot
+	Coop bot for Quake, written in QuakeC (at least for now)
+	https://github.com/ioan-chera/QuakeBot
+	https://bitbucket.org/ichera/quakebot/src/master/
+	Ioan Chera
+	released?
+	https://sourceforge.net/u/printz/profile/
+imbot
+	https://web.archive.org/web/19961221053200/http://www.gamesmania.com/english/quake/quakec.htm
+		https://web.archive.org/web/*/www.gamesmania.com/*
+		file was not captured
+	Automated helper Bot
+	http://www.gamesmania.com/common/quake/c-code/imbot1.zip
+	imbot1.zip
+	is this real?
+	(could be iwbot with a typo?)
+	???
+quaketastic multiplayer
+	https://www.quaketastic.com/files/multiplayer/mods/
+	process all these files...
+frogbot + kt
+	https://www.quakeworld.nu/forum/topic/7068/new-frogbots
+	(server side) not released?
+Ultimate Quake Mod
+	https://web.archive.org/web/19980614160053/http://www.inside3d.com/nov12-nov13.shtml
+	zeusbot
+Ultimate Devastation mod
+	has reapers
+	https://web.archive.org/web/20001211024700/http://www.inside3d.com/?show=August-1999
+FMOD files (directory)
+	http://web.archive.org/web/20011226155203/http://www.3ddownloads.com:80/?directory=/telefragged/be/fmods/
+	(i added many...)
+Bot Epidemic files
+	http://web.archive.org/web/20010803101723/http://www.3ddownloads.com/?directory=/telefragged/be/
+frikbot files
+	http://web.archive.org/web/20030703161548/http://www.3ddownloads.com/telefragged/inside3d/frikbot
+Quake 1 Arena
+	bots, basically a TC
+	https://www.quaketerminus.com/addon.shtml
+	http://www.quaketerminus.com/mods/q1a_075.zip
+	http://web.archive.org/web/20050204022844/http://www.quakepit.com/electro/
+Soul of Evil
+	bots
+	http://www.quaketerminus.com/mods/soul_of_evil.zip
+	http://web.archive.org/web/20051218230947/http://www.planetquake.com/tronyn/soul/
+Sky Blazer
+	https://www.quaketerminus.com/addon.shtml
+	http://www.quaketerminus.com/mods/sky.zip
+	http://web.archive.org/web/20040621003527/http://www.planetquake.com/minion/sky.htm
+Nirvana Bot Mods
+	https://web.archive.org/web/20010509151941fw_/http://www.planetquake.com/maxtron/bots/quake.shtml
+	http://member.aol.com/radratxl/7thSeal.htm
+	RadRatXL
+	monster bot?
+	https://www.quaketerminus.com/oldnews2.shtml
+	http://hometown.aol.com/radratxl
+	Christopher Dozier a.k.a Arwing ?
+	https://www.quaketerminus.com/index2.shtml
+	?
+Quakability
+	has bots?
+	https://web.archive.org/web/20191226211146fw_/http://users.skynet.be/bk236270/quakability.htm
+	https://www.quaketastic.com/files/multiplayer/mods/Quakability_2.1_-_NoMusicRepack.txt
+	https://www.quaketastic.com/files/multiplayer/mods/Quakability_2.1_-_NoMusicRepack.zip
+quake soccer
+	has bots?
+	http://forums.insideqc.com/viewtopic.php?f=1&t=1538
+	Orion
+
+
+

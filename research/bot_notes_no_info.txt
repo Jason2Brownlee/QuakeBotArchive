@@ -1,0 +1,102 @@
+No Info...
+---------
+A sign of a bot, but not enough confirmation to add to the main list yet...
+Must have a name and a filename (public release).
+
+GerBot / Zaius Quake
+	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/news.htm
+	http://www.det5.com/drzaius/
+	Nothing on the web about this...
+	?
+hellbot ?
+	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/news.htm
+	http://www.angelfire.com/pa2/hellbot/
+	Shawn F
+	Nothing on the web about this...
+	?
+Goatbot
+	https://webjc.com/zone51/jeux/Qbots3.htm
+	http://www.underramp.com/~mikej/lab.html
+	Nothing on the web about this...
+	???
+? bot
+	https://web.archive.org/web/19990125093758/http://www.botepidemic.com/
+	by "HellioN"
+	Nothing on the web about this...
+	???
+TFBot / Team Fortress Bot
+	https://web.archive.org/web/20020205130911/http://www.botepidemic.com/bin/newspro/archive/arc.shtml
+	https://web.archive.org/web/20020206225224/http://www.planetquake.com/botarea51/main/index.asp
+	https://web.archive.org/web/20020210131651/http://www.planetquake.com/quake1/
+	January 6, 2002
+	http://www.botepidemic.com/tfb/
+	https://web.archive.org/web/20020112065618/http://www.botepidemic.com/tfb/
+	Frikbot based
+	Plumb
+	no release??? no files ever...?
+	???
+shockbot
+	https://www.quakeworld.nu/forum/topic/2877/recommended-bots
+	https://www.quakeworld.nu/forum/topic/3418/43099/faithful-weapon-remakes/
+	https://www.quakeworld.nu/forum/topic/5327/64596/bots-the-pros-and-cons-what/
+		https://www.youtube.com/watch?v=qhUl0eRZ1ZY&ab_channel=electroAU
+		https://www.youtube.com/watch?v=bIBPrCvxAl4&ab_channel=electroAU
+		https://www.youtube.com/watch?v=zycwWMylaTA&ab_channel=electroAU
+	http://www.bendarling.net/index.php?page=mods
+	https://celephais.net/board/view_thread.php?id=1&start=16888&end=16912
+	http://quakeone.com/forum/quake-mod-releases/works-in-progress/4193-faithful-weapon-remakes
+	by Benjamin Darling aka "Electro"
+		https://www.quakeworld.nu/profiles/1389
+	Contacted author.
+	no release...
+Reapa
+	reaper clone
+	https://web.archive.org/web/20000831165233/http://planetquake.com/botshop/quake.html
+	https://web.archive.org/web/20000303070145/http://www.botepidemic.com/bots/quake.shtml
+	Terry 'DS' Hendrix
+	Dark_Skye / DS / Mongoose /
+	https://www.quakewiki.net/archives/botshop/code/index.html
+	https://www.linkedin.com/in/terry-hendrix-ii-43935610/
+	https://www.hendrixgames.com/about/
+	Mongoose
+	https://social.hendrixgames.com/thendrix
+	Contacted author.
+	no release...
+Elima-Reaper / Elima Reaper
+	http://www.insideqc.com/modindex/qreview/patch9-1.shtml
+	Roscoe A. Sincero
+	Contacted author.
+	no release...
+Magenta's Reaper Bots Hack
+	https://web.archive.org/web/19980614160010/http://www.inside3d.com/nov08-nov09.shtml
+	http://home.t-online.de/home/mag.enta/
+	http://home.t-online.de/home/mag.enta/dl.htm
+		https://web.archive.org/web/19990427185926/http://home.t-online.de/home/mag.enta/
+		https://web.archive.org/web/19980614160010/http://home.t-online.de/home/mag.enta/
+		https://web.archive.org/web/*/home.t-online.de/*
+	https://groups.google.com/g/rec.games.computer.quake.editing/c/OdnwRd7EnWg/m/Z95tl097AxYJ
+	https://groups.google.com/g/rec.games.computer.quake.misc/c/Kvo_uuP3FAI/m/5d5IXXrSA-wJ
+	https://groups.google.com/g/rec.games.computer.quake.playing/c/6IiZZKP5Uq8/m/XbR8BEDW2zoJ
+	https://groups.google.com/g/rec.games.computer.quake.editing/c/BmLzjeyvLR0/m/kL0OUoogjP8J
+		Andreas Böhm aka "Magenta" ?
+		reaper bots using scoreboard
+	https://groups.google.com/g/rec.games.computer.quake.editing/c/XNobachKDBE/m/vXZAeCEIqrMJ
+	https://groups.google.com/g/rec.games.computer.quake.editing/c/vM9uBlFWOx0/m/x1LEHvDBjD8J
+	https://groups.google.com/g/rec.games.computer.quake.misc/c/i5uOJm6OBlQ/m/Tr0B4wx6L7cJ
+	https://groups.google.com/g/rec.games.computer.quake.misc/c/z7nXenzV8RI/m/u2xepKlxUnMJ
+		Marietta Otten aka "Magenta" ?
+	http://www.boehm.de/andreas/
+		https://web.archive.org/web/19981201063801/http://www.boehm.de/andreas/
+	release???
+	need a filename...
+Madness
+	a bot, (snot)
+	Tim Ivers aka "The Crow"
+	https://www.quaddicted.com/files/idgames2/quakec/compilations/madness.txt
+	https://www.quaddicted.com/files/idgames2/quakec/compilations/madness.zip
+	v 3.6, there were prior versions...
+	bot was only in versions prior to 3.4
+	can we get a prior version????
+
+
+
