@@ -138,6 +138,11 @@ quake soccer
 	has bots?
 	http://forums.insideqc.com/viewtopic.php?f=1&t=1538
 	Orion
-
+SnowCrest's Quake Server Mods
+	https://www.snowcrest.net/mysc/quakemods.html
+	cujo
+Wyrm
+	https://www.quakewiki.net/archives/qca/reviews/patch137.txt
+	cujo
 
 

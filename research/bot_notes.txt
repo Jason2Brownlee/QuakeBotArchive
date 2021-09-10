@@ -2463,6 +2463,22 @@ S(low)A(ss)M(odem)-FraG Multi-Patch v0.01a
 	https://www.quaddicted.com/files/idgames2/quakec/compilations/sam-fragv001a.zip
 	http://welcome.to/deadworld
 		not archived
-
+Ultimate Weapons Mod
+	https://www.quaddicted.com/files/idgames2/quakec/compilations/ultimate.txt
+	https://www.quaddicted.com/files/idgames2/quakec/compilations/ultimate.zip
+	https://www.gamers.org/pub/idgames2/quakec/compilations/ultimate.txt
+	https://www.gamers.org/pub/idgames2/quakec/compilations/ultimate.zip
+	uses zeus bot
+	Andy Brennan
+	v2.0
+	previous versions: 1.0, 1.1, 1.2,
+		bot was added in 2.0
+	http://php.indiana.edu/~abrennan/ultimate.html
+		not archived
+	http://php.ucs.indiana.edu/~abrennan/quake.html
+		not archived
+	v1.1
+		https://groups.google.com/g/rec.games.computer.quake.editing/c/CBzRuO8gjPs/m/cYLAznSC2p4J
+		https://groups.google.com/g/rec.games.computer.quake.quake-c/c/4cNSS7tVM48/m/zqt4stEkxg8J
 
 

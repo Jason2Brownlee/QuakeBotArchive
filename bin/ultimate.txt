@@ -1,0 +1,651 @@
+Ultimate Weapon Mod v2.0
+by Andy Brennan (abrennan@indiana.edu)
+http://php.indiana.edu/~abrennan/ultimate.html
+Released 12/2/97
+
+-= Overview =-
+
+This patch is a combination of the very best Quake-C patches available.
+It includes most of the best new weapons created, several new monsters, 
+and a few more miscellaneous patches.  In addition, I've also added a 
+player model with 25 of the best skins available.  
+
+Most of the new weapons have new models and sounds.  All weapons have 
+been given obituary strings to print when someone is killed by them in 
+deathmatch.  All new weapons' current ammo box now reflects how many 
+shots you have left with that weapon, not the amount of ammo left.  For 
+example, if you are using guided missiles which require 5 rockets to 
+shoot and you have 25 rockets, your current ammo will be 5, not 25.  I 
+think this simplifies things a bit.  In this version I have given each new   
+weapon its own impulse.  For example, if you want to use homing missiles, 
+you can hit 7 three times, you can cycle through to them, or you can bind 
+a key to impulse 53.  For a full listing of the impulses, look at the 
+impulses.txt file.
+
+Please read the "What's New" section for all of the changes made in this
+version.
+
+The maps needed to test the monsters can be downloaded from the Ultimate
+Weapons Mod page, along with other maps that take advantage of some of the
+features supported by this patch.
+
+If anybody knows of Quake servers running this patch, please let me know 
+about it.  Also if anybody would be willing to make maps that utilize some
+of the new features of the patch, e-mail me.
+
+-= Credits =-
+
+I would like to thank everyone who created the original patches which 
+this is based upon and everyone who created the models, skins, and maps 
+I'm using.  They deserve most of the credit for this patch, because 
+without their hard work, this wouldn't have been possible.  Also thanks to 
+Brian Martin (brian@phyast.pitt.edu) for MedDLe which I used to extract 
+and import skin textures into the player model.  I would like to thank Robert 
+Hoffman (robhoff@ctaz.com) for the new console graphics.  Also a big thanks to my
+team of beta testers for pointing out all the stupid bugs I didn't catch.  And, of 
+course, thanks to id Software for making the best games ever.  If I've forgotten 
+anyone, I apologize.  Write me some e-mail and I'll take care of it.
+
+Also, thanks to everyone who took the time to write me about this patch.  
+The feedback has been great.
+
+-= Weapons =-
+
+1. Axe                  Just your normal axe...  Uses impulse 1.
+
+2. Throwing Axe         (see throwaxe.txt)
+			By Steve Bond (wedge@nuc.net)
+			Model by John Guthrie (choryoth@nuc.net)
+		
+			Pretty self-explanatory.  You have an axe and you 
+			can throw it.  'Nuff said.  You start out with 1
+			throwing axe.  Uses impulse 1 or impulse 40.
+						 
+3. Morningstar/         (see grap109b.txt)
+   Grappling Hook       By "Mike" (amichael@asu.alasu.edu)
+
+			This patch gives you a morningstar/grappling hook
+			that you can use to hook onto walls, ceilings,
+			players, or monsters.  While attached to something 
+			you can also switch weapons.  I added some code
+			that limits you to 15 consecutive hits to prevent
+			a "paralysis" effect while hooked.  Doesn't use any 
+			ammo.  Uses impulse 1 or impulse 41.    
+
+4. Shotgun              The original shotgun, but I included a new sound,  
+			which I got from the Pulp Fiction wad for 
+			Doom ][ by Keneda (hmhayes@students.wisc.edu).
+			It sounds a lot cooler.  If you want the original 
+			sound back, just delete guncock.wav from the 
+			sound\weapons directory.  Uses impulse 2.
+
+5. Crossbow             (see masters.txt)
+			By Lando (lando@apollo.ruralnet.net.au)
+			I didn't have the source code, so I wrote it 
+			myself, but it's essentially the same thing,
+			maybe a little more powerful.
+			
+			A cool crossbow weapon for Quake.  You have an
+			unlimited supply of arrows.  Uses impulse 2 or 
+			impulse 42.
+
+6. AirFist              (see airfist.txt)
+			By the Evolve Team (http://www.deltix.com/evolve/)
+			Christopher Bolin, Stephen Karl, Shane Powell,
+			Matt Houser, Mark Lewis
+
+			A new defensive weapon which shoots a blast of 
+			air.  This will send enemies flying.  It can even 
+			be used to change the placement of items in a 
+			deathmatch.  No ammo required.  Uses impulse 2 or
+			impulse 43.
+			  
+7. Super Shotgun        Same weapon, but I gave it a new sound.  I 
+			got this one from the Pulp Fiction wad for 
+			Doom ][ by Keneda also.  If you don't want it, 
+			delete shotgn2.wav from the sound\weapons 
+			directory.  Uses impulse 3.
+
+8. Flamethrower         (see flame.txt)
+			By Steve Bond (wedge@nuc.net)
+			Model by Iikka Keranen (ikeranen@raita.oulu.fi)
+
+			This weapon will shoot out a cool flame (unless
+			underwater, of course) and burn enemies.  If set
+			on fire, you must get to some water fast.  I used
+			the excellent model from Iikka Keranen's
+			Anti-Shambler gun.  Uses impulse 3 or impulse 44.
+
+9. Freezethrower        (see killer.txt)
+			Uses code by Howard Roy (howard@mortimer.com)
+			and Jamie Wood (ghoti@erols.com)
+
+			This weapon shoots a beam of ice and has a %20 
+			chance of freezing enemies and does damage if it 
+			doesn't.  I modified this by eliminating the 
+			charging time and radius damage, and by 
+			changing the ammo required to be 5 shells.               
+			Uses impulse 3 or impulse 45.
+
+10. Nailgun             I changed the sound for the nailgun to something
+			I found in the T2 wad for Doom ][ by Solomon 
+			White (whitesol@math.enmu.edu).  If you don't 
+			like it, delete rocket1i.wav in the sound\weapons
+			directory.  Uses impulse 4.
+
+11. Gatling Gun         (see gatling.txt)
+			By James Lazarus (models),  
+			Robert Miller (Quake-C), and 
+			Christopher Bolin (skins)
+
+			This rapid-firing gun is one of the coolest 
+			weapons ever created.  I modified it to use 
+			shells instead of nails.  It requires 2 shells
+			per shot.  Uses impulse 4 or impulse 46.   
+
+12. Pulse Rifle         (see painkeep.txt)
+			By the Evolve Team (http://www.deltix.com/evolve/)
+			Christopher Bolin, Stephen Karl, Shane Powell,
+			Matt Houser, Mark Lewis
+				
+			This weapon fires high-velocity nails that 
+			ricochet off of things.  I modified this gun
+			to use 2 nails and lowered the damage a little.
+			Uses impulse 4 or impulse 47.
+
+13. Super Nailgun       No changes.  Uses impulse 5.
+
+14. Plasma Gun          (see plasma10.txt)
+			By Jonathan Wright (nelno@interpath.com)
+			Model by John Guthrie (choryoth@nuc.net), skin 
+			by Dan Bickell (danbickell@loop.com).  
+			
+			This gun is just like the plasma gun from Doom. 
+			It has the same sprites and sounds.  The model 
+			was released in the ClubShub patch which was
+			pretty cool.  Heh.  Requires 3 nails to fire. 
+			Uses impulse 4 or impulse 48.
+
+15. Phase Cannon        (see cannon.txt)
+			By Josh Robinson (jrobinson@feist.com)
+			I didn't have the source code, so I wrote it 
+			myself, but it's essentially the same thing,
+			but it shoots faster and is less powerful.
+
+			This weapon fires out "absolute zero ionized 
+			plasma" which causes displacement when it hits
+			something.  This weapon originally gibbed some 
+			monsters with one hit, so I toned it down a bit.
+			Takes 5 nails to fire.  Uses impulse 5 or 
+			impulse 49.
+
+16. Grenade Launcher    Just the normal grenade launcher.  Uses impulse 6.
+
+17. Bouncers            (see xtrawp19.txt)
+			By John Allensworth (tarquin@texas.net)
+			Skin by Chris Haggqvist (rhaggqvi@suffolk.lib.ny.us)
+
+			After this grenade is shot, it explodes and sends
+			shrapnel flying.  It takes 1 rocket and 20 nails 
+			to use.  It has a yellow stripe to distinguish
+			it from normal grenades.  Uses impulse 6 or 
+			impulse 50.
+
+18. Cluster Bombs       (see xtrawp19.txt)
+			By John Allensworth (tarquin@texas.net)
+			Skin by Chris Haggqvist (rhaggqvi@suffolk.lib.ny.us)
+
+			After this grenade is shot, it explodes and
+			releases 6 more grenades.  This one uses
+			a grenade with a purple stripe.  It takes 7 rockets 
+			and uses impulse 6 or impulse 51.             
+
+19. Rocket Launcher     I gave the rocket launcher a new sound.  I got it
+			from a Doom wad (although I can't remember which
+			one).  If you don't want it, delete sgun1.wav in
+			sound\weapons.  Uses imulse 7.
+
+20. Guided Missiles     (see guide101.txt)
+			By Ken Alverson (KenA@TSO.Cin.IX.Net)
+		
+			This is a really cool mod that lets you steer
+			your missiles and hunt down your enemies.  I
+			made these take 5 rockets since it's a lot easier
+			to hit your targets.  Uses impulse 7 or impulse 
+			52.
+
+21. Homing Missiles     (see advwepv7.txt)
+			By Lynx (briggsj@lurch.ball.com) and 
+			Dumont (pjsmith@ix.netcom.com) who based their 
+			work on a mod by Vhold (vhold@netwizards.net) 
+			
+			This mod creates missiles that will find an
+			enemy in flight and hunt it down.  This is cool,
+			but it makes it really easy to frag someone.  I
+			upped the ammo requirements to 10 rockets and 
+			fixed up the targeting messages.  I also made it
+			not target certain doors and triggers.  Uses
+			impulse 7 or impulse 53.
+
+22. Thunderbolt         Same old lightning gun.  Uses impulse 8.
+
+23. Laser               (see lasergn1.txt)
+			By n-tropy (ntropy@voicenet.com)
+			Model by Jamie Wood (ghoti@erols.com)
+
+			I took most of the weapon code from n-tropy's 
+			patch, and combined it with a really cool 
+			weapon model.  It also uses cool blue laser
+			blasts.  This weapon uses 3 cells and impulse 8
+			or impulse 54.
+
+24. BFG-9500            (see bfg11.txt)
+			By Jonathan Wright (nelno@interpath.com)
+			Model by Pavel Grodek from the project1 patch.
+
+			Doom's deadliest weapon is back in Quake.  The
+			weapon damage is calculated very well (just like
+			in Doom), but in Quake it doesn't seem like it 
+			does quite as much damage.  Maybe that's because
+			there isn't as great a chance of being hit by the
+			tracers.  I lowered the ammo requirements to 20 
+			cells/shot and also fixed the frame functions so
+			it doesn't wait for a button release to fire.
+			Uses impulse 8 or impulse 55.
+
+25. Demo Charges        (see demochrg.txt)
+			By Steve Bond (wedge@nuc.net)
+			Models by John Guthrie (choryoth@nuc.net)
+
+			These are charges that you can plant and 
+			detonate remotely.  I lowered the ammo
+			requirements to 5 rockets.  Impulse 20 plants a
+			charge and impulse 21 detonates all of your 
+			charges within a certain radius. 
+
+26. Stingers            (see stinger.txt)
+			By Pangloss (weblook@mmv.se)
+			
+			This little grenade is used for throwing into
+			some water and electrocuting everyone in it.  It 
+			has a blue stripe to distinguish from other 
+			grenades.  If it does't land in water, it does 
+			nothing.  It takes 15 cells and uses impulse 22.
+
+27. Flares              (see flares.txt)
+			By Steve Bond (wedge@nuc.net)
+			
+			These flares shoot into walls, glow for a few 
+			seconds, then shine brightly for 10 seconds,
+			glow for a while more, then disappear.  I changed
+			the model to the missile because it looks cooler.
+			I also used basically the same code that he used 
+			in Demo Charges to make the flares bounce off of
+			doors and platforms, instead of just removing them
+			(I'm not sure why he didn't do that).  Flares
+			require no ammo.  Impulse 23 fires a flare. 
+
+28. Motion Detectors    (see motion.txt)
+			By KTGOW (ktgow@cory.eecs.berkeley.edu)
+			Model by Jamie Wood (ghoti@erols.com)
+
+			Motion detectors take 10 seconds to activate, 
+			and then begin to shoot nails at anything that
+			moves (including yourself) within a specified 
+			range.  I modified these to take 5 rockets,
+			50 nails, and 5 cells.  When they run out of
+			ammo, I made them self-destruct instead of letting
+			the player "reload" it.  That seemed sorta 
+			unrealistic.  They will also self-destruct if
+			someone touches them.  I changed the model to
+			that of the spike trap from the Pain patch.  I 
+			fixed up the tossing routine a bit so now the 
+			detectors don't float a foot away from a wall.  
+			They will now stick to walls.  Toss a motion 
+			detector with impulse 24.
+
+29. Gas Bombs           (see gasbomb.txt)
+			By Patrick Martin (cmarti39@icon.net)
+
+			This is a low-powered grenade which explodes
+			into a poisonous cloud of gas.  The cloud lasts
+			for 2.5 seconds.  A biosuit will completely protect
+			a player from the poison.  I modified these to
+			require 5 rockets.  Impulse 25 fires a gas bomb.
+
+30. Lightning           (see arsenal.txt)
+    Trip Wires          By Kevin Cheung (cheungi@mskcc.org)
+
+			This weapon is used by first firing an origin 
+			spike (impulse 26), then by firing a destination
+			spike (impulse 27).  Then a bolt of lightning 
+			will form between the two (unless it's blocked).
+			I really fixed up the code for this.  The spikes
+			are now shot and they will only stick to walls
+			or floors, they won't hover.  Especially cool is
+			when a spike is shot into a platform.  As the 
+			platform moves, the bolt will follow it.  It
+			takes 1 nail to fire the origin spike, and 1 nail
+			and 25 cells to fire the destination spike.  Be
+			careful to place them where the bolt won't be 
+			blocked, the ammo is non-refundable.
+
+-= New Monsters =-
+
+-Added support for a new Spider monster (see spider21.txt) by Ken Turner
+ (kturner@mail.dialnet.net) and Stan C. (76710.460@compuserve.com).  This 
+ is a very well done, professional-looking model.  A spider can be added 
+ to a level by placing a "monster_spider".  A sample level by Brian Danford
+ (danford@gte.net) featuring the spider and rain is included with the 
+ patch, and can be played by typing "map spider" at the console.
+
+-Added support for the Raptor (see raptor.txt) by Astro
+ (andrew@networx.net.au) and Gopal Nener.  This is a great looking monster
+ which will be in the upcoming Jurassic Park Quake TC.  A Raptor can be
+ added to any map by adding a "monster_raptor1" to it.  A sample level
+ by Gopal Nener featuring the Raptor is included and can be played by
+ typing "map raptor" at the console.
+
+-Added support for the Dragon (see dragon.txt) by Vengence and Jaymz of The
+ Lone Gunmen (http:/www2.eis.net.au/~lcullen/tlg/).  A dragon can be added
+ to any map by placing a "monster_dragon" in it.  Two sample levels are 
+ included.  Type "map dragon" or "map dragon1" at the console to play them.
+
+-Added support for the CyberDemon (see cyber.txt) by Marc Fontaine
+ (lion@wg.saar.de).  Doom's most formidable monster can now be added to any
+ Quake map by adding a "monster_cyberdemon" to it.  The sample level by
+ Marc Fontaine which features the CyberDemon can be played by typing 
+ "map babel" at the console.
+
+-Added support for the Snakeman (see snakeman.txt) by Bubbah 
+ (yue@worldaccess.nl) with a cool skin by Christopher Bolin 
+ (cbolin@teleport.com).  You can add one of these creatures to a map by
+ adding a "monster_snakeman" to it.  Bubbah's sample level featuring the 
+ Snakeman can be played by typing "map snaker" at the console.
+
+-Added support for the Blarg (see blarg.txt) by Bubbah
+ (yue@worldaccess.nl).  Add a Blarg to a level by placing a 
+ "monster_blarg" in it.  A sample level by Ed Cope (scope@execpc.com) is 
+ included.  Play it by typing "map blarg" at the console.
+
+-Added support for the Drone (see drone.txt) by Jacob Fenwick
+ (dor12@cocentric.net), Robin Ball (ballra@falmouth.ac.uk), and Jim
+ Dodge (jdodge@net-link.net).  Add Drones to any level by placing a
+ "monster_drone" in it.  The sample level can be played by typing
+ "map drone" at the console.
+
+-Added support for the Sentry and Supersentry (see sentry.txt) by Guard|aN 
+ (cheng318@vol.net) and Seth Galbraith (sgalbrai@linknet.kitsap.lib.wa.us).
+ This is one of the cool models available from the Free Models Project 
+ (http://www.planetquake.com/simitar/model.html).  These can be added to maps 
+ by placing a "monster_sentry" or "monster_supersentry" in them.
+
+-Added support for the Goblin (see goblin.txt) by Jim Rowley (howley@cts.com).  
+ Add Goblins to any level by placing a "monster_goblin" in it.  A sample level 
+ by Robert Hoffman (robhoff@ctaz.com) can be played by typing "map gobrip" at the 
+ console.
+
+-Added support for the Ripper (see ripper.txt) by Simon Gruer (groo@nlc.net.au), 
+ Rob Albin (albinatr@apci.net), and Kenneth Scott (mfarr@ccinet.ab.ca).  Add the 
+ Ripper to any level by placing a "monster_ripper" in it.  A sample level by Robert 
+ Hoffman (robhoff@ctaz.com) can be played by typing "map gobrip" at the console.
+
+
+-= Other Features =-
+
+-Added the chase cam mod by Rob Albin (see chasecam.txt).  Impulse 30
+ now turns on the chase cam.  This cool patch adds a new twist to the game
+ by adding a totally new 3rd person perspective.  Since there isn't a real
+ good way to aim in chase mode, impulse 31 adds a laser targeter (which can
+ be used independently of the chase cam).
+
+-Added Kasuha's DeathMatch Camera (see kascam17.txt) by Karel Suhajda 
+ (suhajda@serverpha.czcom.cz).  This camera has seven different modes of 
+ operation and can be activated with impulse 150.  I changed a bunch of 
+ the impulses, so refer to impulses.txt for their new values.
+   
+-Super Shotgun now ejects shells after firing.  I used the shell ejection
+ routine and the shell model from the gatling gun (see gatling.txt).
+ 
+-Added a new pain sound from Pulp Fiction, which I got in the Pulp Fiction
+ wad for Doom ][.  If you want the original sound back, delete pain4.wav 
+ in the sound\players directory.
+
+-Made a discharge of lightning in water only affect those players that 
+ are actually in the water.  It just seemed dumb to have someone standing 
+ on land get gibbed when this happens.
+
+-Included the extra ogre frames id left out.  (See ogresaw.txt)  That 
+ patch was made by Dave Weiden (Weiden@Trenton.EDU)
+
+-Included the extra soldier frames that id left out.  (See grntrld.txt)
+ That patch was made by Matt Barnett (mbarnett@dial.pipex.com)
+
+-Changed the way some of the obituaries were handled to make them more
+ accurate.  For example, if you shoot a homing missile, then switch to 
+ another weapon and the missile then destroys its target, the obituary 
+ will correctly identify what killed the player.
+
+-Added support for deathmatch 4 (see monstdm.txt).  This allows you to play
+ a deathmatch with the monsters.  Just type deathmatch 4 in the console to 
+ use it.
+
+-Added support for maps utilizing the rain patch (see rain.txt) by 
+the now defunct QuakeX.  The sample level with rain from the
+patch is included and can be played by typing "map raintest" at the 
+console.
+
+-Increased maximum ammo limits on shells and cells to 200.
+
+-Walls no longer bleed (most of the time, anyway).
+
+-Made separate cheat commands for weapons and ammo, keys, and health.
+See impulses.txt for more information.  Impulse 9 is unchanged.
+
+-Added commands to restore the last weapon selected, the last weapon
+fired, or a specified weapon.  See impulses.txt.
+
+-Made a custom player.mdl with some cool skins.  It includes:
+
+1. Original Quake Player by id Software, of course
+2. Red Devil by Mike Hammel (plague@texas.net)
+3. The Terminator by Dan Bickell (danbickell@loop.com)
+4. Doom Guy by Kenneth Scott (mfarr@ccinet.ab.ca)
+5. The Ancient by Kenneth Scott (mfarr@ccinet.ab.ca)
+6. Shock Trooper by Christopher Bolin (cbolin@teleport.com)
+7. Toxic Armor by Christopher Bolin (cbolin@teleport.com)
+8. Crusader by Christopher Bolin (cbolin@teleport.com)
+9. White Knight by ?
+10. Ninja by ?
+11. Executioner by Christopher Bolin (cbolin@teleport.com)
+12. Skeleton by Helge and Lars Timenes (helge.timenes@ban.aid.no)
+13. Jason by Paul J. Paella (paco@buffnet.net)
+14. Cowboy by Lucas Pope (lupope@vt.edu)
+15. Tiger by Lucas Pope (lupope@vt.edu)
+16. Wolf by Christopher Bolin (cbolin@teleport.com)
+17. Bug by Christopher Bolin (cbolin@teleport.com)
+18. Rip by Christopher Bolin (cbolin@teleport.com)
+19. Dark Toad by David Silverman (DrkToad@aol.com)
+20. Chewbacca by Dan Bickell (danbickell@loop.com)
+21. Han Solo by Dan Bickell (danbickell@loop.com)
+22. 4-LOM by Dan Bickell (danbickell@loop.com)
+23. Bossk by Les Helper (Helper@citynet.net)
+24. Stormtrooper by Dan Bickell (danbickell@loop.com) 
+25. Boba Fett by Dan Bickell (danbickell@loop.com)
+
+To change skins, use impulse 200 and impulse 201.  You will retain your
+current skin when respawning in deathmatch play, and when you go to a new
+level in single player mode.  If you die in single player mode, you will
+respawn with the skin you had when you originally began the level.  If 
+anyone knows a way to change this, let me know.  Original Multiskin patch was
+made by Dennis Noordsij (lnoordsi@inter.NL.net) and updated by David Wiedenmann
+(dwied@cats.ucsc.edu) so the corpses would keep the skin the player
+was using at the time.
+
+-= Installation =-
+
+1. Download the .zip and place in a quake\ultimate directory
+2. Unzip it with the -d option to maintain the directory structure (don't 
+   forget this, or it'll be a mess)
+3. Go to the Quake directory and type:
+
+quake -game ultimate
+
+You may want to reassign some keys in the ultimate.cfg also.  The default
+keys are as follows:
+
+	[    - throw a demo charge
+	]    - detonate demo charges
+	s    - throw a stinger
+	f    - launch a flare
+	m    - toss a motion detector
+	b    - toss a gas bomb
+	z    - launch the origin spike for the tripwire
+	x    - launch the destination spike for the tripwire
+	a    - display remaining ammo for non-selectable weapons
+	n    - spawn a new bot
+	Ins  - chase cam toggle
+	Home - laser targeter toggle
+	<    - change to next skin
+	>    - change to previous skin
+	PgUp - switch to Multiskin mode
+
+If you want to recompile the code, obtain the original Quake 1.06 progs
+and a Quake C compiler (I recommend FastQCC by Jonathan Roy) from any
+Quake FTP site (I also have them on my web page).  Copy the compiler into 
+the ultimate\code directory and run it to recompile.  When you run the 
+compiler, you will overwrite the progs.dat file in the ultimate directory, 
+so you may want to back it up first.
+
+-= Known Bugs =-
+
+-This patch will probably not work with GLQuake.  This is a problem with one or more 
+ of the models used in the patch.  If anyone has any idea how to fix this problem, I 
+ would like to hear it.
+
+-Occasionally, a bot will freeze.  I haven't been able to pinpoint the problem, but it
+ shouldn't be a major problem.
+
+If you have any suggestions or fixes, e-mail me (abrennan@indiana.edu).
+
+-= New in this version =-
+
+-Added a bot based on the Zeus Bot
+-Added support for the Sentry and the Super Sentry
+-Added support for the Goblin
+-Added support for the Ripper
+-Added new skins for the grenade launcher for the bouncers and cluster
+ bombs.
+-Added several new skins.  See the section of the ultimate.txt file that lists them. 
+-Added code by Patrick Deupree (pdeupree@cmpu.net) to improve the clipping of 
+ the plasma gun and BFG sprites.
+-Found and fixed a bug where the player couldn't respawn if he died while frozen. 
+-Found a bug where Quake was incorrectly setting the .waterlevel for the
+ clone when a guided missile was shot.  Using a new function to correctly determine 
+ the waterlevel for non-client entities corrected the problem.  
+-Totally changed the way the ClientObituary function works.  I decided to
+ change it because the way I had originally modified it caused some 
+ monsters to not be aware that they were being attacked with some 
+ weapons.  
+-Replaced the laser targeter model with a new one by Theodor Koulba (koulba@aha.ru)
+-Added a new console graphic by Robert Hoffman (robhoff@ctaz.com)
+
+-= Changes in version 1.2 =-
+
+-Added the Gatling gun (finally!)
+-Added the Pulse Rifle.
+-Added lightning tripwires.
+-Added support for the Dragon.
+-Added support for the Blarg.
+-Added support for the Drone.
+-Added Kasuha's DeathMatch Camera.
+-Updated the Chase Cam patch to Chase Cam II version 1.01.
+-Changed the model for the motion detectors.
+-Yet another improved Boba Fett skin by Dan Bickell.
+-I went through and modified a lot of the code for the weapons.  I fixed 
+ a lot of the little bugs I've noticed, cleaned up the code a little, and
+ made things a little more efficient.  I also changed the damage that
+ several of the weapons did and I changed the ammo requirements so they 
+ are less dependent on cells.  I changed the order of some of the weapons 
+ too.  I increased the maximum amount of shells and cells that a player
+ can carry to 200.  Let me know if you like the changes or not.
+-Using some of the code from the freeze ray in Pain, I modified the
+ freezethrower.  It now has a 20% chance of freezing its victim and does
+ damage if it doesn't.  It no longer does any radius damage.  All of the
+ bugs (monsters remaining frozen after dying, players able to jump when
+ frozen) have been removed.
+-Modified the bouncer so it is now more than just another grenade.  I
+ increased the amount of shrapnel when it explodes and found a bug that
+ was preventing the player who threw it from taking shrapnel damage.  I
+ think the changes make this a useful weapon now.
+-I added better proximity code to the motion detectors because they
+ weren't detonating like I wanted them to whenever an enemy got close to
+ them.  They have a short range, but it definitely works a lot better now.
+-I totally modified the spider poison code because it wasn't doing
+ anything.  Now it will gradually do damage to the player until he picks
+ up a health box, as intended.
+-Fixed the bug where a player hooked to the ceiling with the morningstar
+ who fired a guided missile would drop to the floor and then be pulled 
+ back up.
+-I modified the code so secret walls don't bleed when you shoot them.  
+ Walls don't really bleed.  This may still occur if some monsters shoot 
+ them.  I didn't feel like changing that, because it's not likely to be
+ noticed.
+-By request, I added a command (impulse 32) that will display how many 
+ demo charges, stingers, motion detectors, trip wires, and gas bombs you 
+ have ammo for.  I'm glad this was suggested.  It's really convenient.
+-I added individual impulses to all the new weapons because I got a lot of
+ requests for it.  Now you can quickly switch to any weapon by binding a
+ key to it.
+-Also by request, I added commands for switching to the last weapon used, 
+ the last weapon fired, or a weapon that you decide to save.  Impulse 33
+ will store the current weapon.  Impulse 34 will restore the weapon you
+ saved.  Impulse 35 will restore the last weapon selected, and impulse
+ 36 will restore the last weapon fired.  Unfortunately, these are reset
+ every time you change levels or die.  
+
+-= Changes in version 1.1 =-
+
+-Added the AirFist.
+-Added gas bombs.
+-Added the chase cam.
+-Added deathmatch with monsters.
+-Added the extra soldier frames.
+-Added support for the Raptor.
+-Added support for the CyberDemon.
+-Added support for the Snakeman.
+-Added support for rain in levels.
+-Added a new model for the flamethrower.
+-Added a new model for the BFG.
+-Replaced the tiger skin with a wolf skin.
+-Added a cleaner version of the Boba Fett skin which fixed the axe.
+-Fixed a bug where a player was killed by his own homing missile and 
+ earning a frag.
+
+-= Tech Notes =-
+
+I tried to mark sections of code where I made important changes, but I
+won't make any guarantees.  I made all new weapons their own .qc file
+to keep things fairly organized.  It's assumed that I made major changes
+in the weapons.qc file, so it is scarcely commented (sorry).
+
+I added an entity field .weapons which holds the bit flags for all the
+weapons instead of .items.  The original weapons must keep their original
+values, and they must be maintained in the .items field as well so the
+status bar will be displayed correctly.  
+
+-= Legal Stuff =-
+
+Authors MAY use these modifications as a basis for other publicly
+available work.  After all, customization is what makes this game so 
+great.  Send me some e-mail if you decide to make a patch based on this
+one.  And please give credit where credit is due.  Before you make any 
+modifications, please read the original text files and, if necessary, 
+get the original author's permission to use any code or models.
+
+You may distribute this Quake modification in any electronic
+format as long as this description file remains intact and unmodified
+and is retained along with all of the files in the archive.  If you
+intend to make money off of this (by including it on a CD-ROM or
+any other means), you must get my permission first.
+
