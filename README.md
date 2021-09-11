@@ -74,6 +74,7 @@ Demonshooter | "Shootermaster" | [shooter.zip](bin/shooter.zip) ([txt](bin/shoot
 DJBot | Dave James aka "DJ" | djbot1.zip
 DM Bot | Nathaniel Gorham | [dmbot1.zip](bin/dmbot1.zip) ([txt](bin/dmbot1.txt))
 DOBBSBot | Stephen Dobbs | [dobbsbot15bwp.zip](bin/dobbsbot15bwp.zip)<br>dobbsbot15b.zip<br>[dobbsbot15a.zip](bin/dobbsbot15a.zip)
+Dog Fun (BGBot, Cujo) | Thomas Hansen | [dogfun20.zip](bin/dogfun20.zip) ([txt](bin/dogfun20.txt))<br>dogfun19.zip<br>dogfun17.txt<br>[dogfun16.zip](bin/dogfun16.zip) ([txt](bin/dogfun16.txt))<br>[dogfun13.zip](bin/dogfun13.zip) ([txt](bin/dogfun13.txt))
 Doombot | Roscoe A. Sincero aka "Legion" | [dmbt21b3.zip](bin/dmbt21b3.zip) ([txt](bin/dmbt21b3.txt))<br>dmbt21b1.zip<br>dmbt20b3.zip<br>dmbt20b2.zip<br>doombot.zip
 Drastic Reaper Bot | Mark Wheeler | [dreaper.zip](bin/dreaper.zip) ([txt](bin/dreaper.txt))<br>[dreaper1e.zip](bin/dreaper1e.zip)
 Drop Quad/Ring (Frogbot) | Brian Mathiasen aka "EraZoR" | [quadring.zip](bin/quadring.zip)
