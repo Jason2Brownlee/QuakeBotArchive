@@ -1,0 +1,117 @@
+***Fun With DOGZ V1.3***
+   Given to you by: Total Kill Inc.
+
+Date of release: 23-06-1997
+Commanet       : Not now
+
+/*
+First! Place this patch in a directory like:
+c:\games\quake\dogfun
+and place all files in this dir.
+then type (from the quake dir.) quake -game dogfun
+Go Get 'em boy!!
+*/
+
+******************************************************************************
+
+v1.3
+Extra since older versions:
+***************************
+Added proqcc v1.52 to make compiling go faster (and decompiling too not so good
+though)
+
+***************************
+v1.2
+***************************
+Shell eject
+
+***************************
+v1.1
+***************************
+Wall zombies are gibbable.
+
+Able to teleport non living items.
+
+***************************
+v1.0
+***************************
+Fire a dog missile, press 7, 2x to select, whoof whoof,  aruuuh uh uh.
+Cujo v1.0
+BG_Bot v1.5
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Planned events yet to come, later ( I hope ) 
+1: I don't think i am going to fuck this one up any further.
+   unless i can create some cool models.
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+This simple patch was created by: Thomas Hansen
+for any comments, ideas, bugs, send a message to
+e-mail: fam.hansen@pi.net
+
+or, snail mail to:
+******************
+Thomas Hansen
+Ophelialaan 183
+1431HE Aalsmeer
+(The Netherlands)
+******************
+
+Bugs : Not found yet.
+
+*** x-tra ******impulse***THESE GOODS?****************************************
+press 7   : 2x :         : To Select   Dog Launcher
+press "'  :    :    69   : Kill yourself
+press Mm  :    :   100   : To activate BG bot
+press Dd  :    :   200   : To activate Cujo
+press Ss  :    :   204   : To teleport Cujo to you
+press Aa  :    :   205   : To toggle   Cujo's light collar
+
+*****************************************************************************
+
+
+BIG credit:
+***********************************************************
+Author   :Punisher
+E-mail   :punisher@trojan.neta.com
+Made     :BGbot v1.5
+***********************************************************
+
+other credits:
+***********************************************************
+Author   :ME!
+E-mail   :fam.hansen@pi.net
+Made     :Maniac45.zip / Dogfun12.zip / Biggun18.zip
+***********************************************************
+Author   :Vincent v Looij
+E-mail   :nope
+Made     :was a big help in testing the modem based part of this patch.
+***********************************************************
+Author   :Jonathan E. Wright
+E-mail   :nelno@interpath.com
+Made     :Cujo v1.0
+***********************************************************
+Author   :Adam
+E-mail   :adam4@ripco.com
+Made     :The main idea of dog rockets (I seperated it from normal)
+***********************************************************
+Author   :Anyone I forgot
+E-mail   :Whatever
+Made     :Not Much
+***********************************************************
+
+This patch was put together by: Thomas Hansen
+for any comments, bug fixes, requests, or ideas send a message to
+e-mail: fam.hansen@pi.net
+        or check out: http://ourworld.compuserve.com/homepages/thomashansen1/
+homepage.htm
+
+or, snail mail to:
+******************
+Thomas Hansen
+Ophelialaan 183
+1431HE Aalsmeer
+(The Netherlands)
+******************
+

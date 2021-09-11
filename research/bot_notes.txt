@@ -2482,4 +2482,51 @@ Ultimate Weapons Mod
 		https://groups.google.com/g/rec.games.computer.quake.quake-c/c/4cNSS7tVM48/m/zqt4stEkxg8J
 	other
 		https://web.archive.org/web/19980614160053/http://www.inside3d.com/nov12-nov13.shtml
+Dog Fun / Fun With Dogz
+	bgbot and cujo
+	other versions?
+		v1.0? v1.1? 1.2?
+	Thomas Hansen
+	http://ourworld.compuserve.com/homepages/thomashansen1/
+		not archived
+	http://www.crosswinds.net/amsterdam/~thomas
+		not archived
+	http://www.come.to/total.kill.inc
+		not archived
+	http://www.geocities.com/timessquare/arena/2818/index.htm
+		not archived
+	http://www.angelfire.com/co/tki
+		not archived
+	http://tki.shrimpwars.be/
+		https://web.archive.org/web/20000830114221/http://tki.shrimpwars.be/
+		https://web.archive.org/web/20021117121715/http://tki.shrimpwars.be/quake/
+		https://web.archive.org/web/20021109025504/http://tki.shrimpwars.be/quake/800/projects.htm
+		no dog fun stuff...
+		?
+	v1.3
+		https://www.quaddicted.com/files/idgames2/quakec/weapons/dogfun13.txt
+		https://www.quaddicted.com/files/idgames2/quakec/weapons/dogfun13.zip
+		https://dukeworld.com/idgames2/quakec/weapons/dogfun13.zip
+		https://www.gamers.org/pub/idgames2/quakec/weapons/dogfun13.zip
+	v1.6
+		https://www.gamers.org/pub/idgames2/quakec/monsters/dogfun16.zip
+		https://www.gamers.org/pub/idgames2/quakec/monsters/dogfun16.txt
+	v1.7
+		https://www.gamers.org/pub/idgames2/sounds/xsound14.txt
+	v1.9
+		https://ftp.zx.net.nz/pub/archive/ftp.gamers.org/pub/idgames2/quakec/monsters/zombie11.txt
+		https://ftp.zx.net.nz/pub/archive/ftp.gamers.org/pub/idgames2/quakec/weapons/gatlas11.txt
+		https://www.gamers.org/pub/idgames2/utils/misc/ansi1.txt
+		https://www.quaddicted.com/files/idgames2/quakec/weapons/biggun40.txt
+		https://dukeworld.com/idgames2/partial_conversions/duke17.txt
+	v2.0
+		https://www.gamers.org/pub/idgames2/misc/cqmp2v06.txt
+		https://www.gamers.org/pub/idgames2/quakec/monsters/dogfun20.zip
+		https://www.gamers.org/pub/idgames2/quakec/monsters/dogfun20.txt
+		https://ftp.zx.net.nz/pub/archive/ftp.gamers.org/pub/idgames2/graphics/mdl/models24.txt
+
+
+
+
+
 

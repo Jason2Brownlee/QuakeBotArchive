@@ -1,0 +1,143 @@
+*** Fun With DOGZ V1.6 ***
+Given to you by: Thomas Hansen. aka: Reaper, creator of Total Kill Inc.(TKI)
+
+Date of release: 12-10-1997
+Comments          : Doggies!!!!!!!!!!!!!!!
+
+/*
+First! Place this patch in a directory like:
+c:\games\quake\dogfun
+and place all files in this dir.
+then type (from the quake dir.) quake -game dogfun
+Go Get 'em boy!!
+*/
+
+make sure you run the proqcc in the src dir first!!!!!
+
+******************************************************************************
+
+v1.6
+Extra since older versions:
+***************************
+new e-mail adress
+
+***************************
+v1.5
+***************************
+Dramatically reduced the zipfile size due removal of progs.dat
+
+***************************
+v1.4
+***************************
+created a src dir. placed the qc files here.
+and placed the models in the progs dir.
+sound: not YET....
+
+created a cujo model with 2 textures....
+only: not applied yet.
+
+i know this is a sort of beta version.
+
+***************************
+v1.3
+***************************
+Added proqcc v1.52 to make compiling go faster (and decompiling too not so good
+though)
+
+***************************
+v1.2
+***************************
+Shell eject
+
+***************************
+v1.1
+***************************
+Wall zombies are gibbable.
+
+Able to teleport non living items.
+
+***************************
+v1.0
+***************************
+Fire a dog missile, press 7, 2x to select, whoof whoof,  aruuuh uh uh.
+Cujo v1.0
+BG_Bot v1.5
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Planned events yet to come, later ( I hope ) 
+1: I don't think i am going to fuck this one up any further.
+   unless i can create some cool models.
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+This simple patch was created by: Thomas Hansen
+for any comments, ideas, bugs, send a message to
+
+Bugs : Not found yet.
+
+*** x-tra ******impulse***THESE GOODS?****************************************
+press 7   : 2x :         : To Select   Dog Launcher
+press "'  :    :    69   : Kill yourself
+press Mm  :    :   100   : To activate BG bot
+press Dd  :    :   200   : To activate Cujo
+press Ss  :    :   204   : To teleport Cujo to you
+press Aa  :    :   205   : To toggle   Cujo's light collar
+
+*****************************************************************************
+
+
+BIG credit:
+***********************************************************
+Author   :Punisher
+E-mail   :punisher@trojan.neta.com
+Made     :BGbot v1.5
+***********************************************************
+
+other credits:
+***********************************************************
+Author   :ME!
+E-mail   :grimm_reap@hotmail.com
+Made     :Maniac45.zip / Dogfun12.zip / Biggun18.zip
+***********************************************************
+Author   :Vincent v Looij
+E-mail   :nope
+Made     :was a big help in testing the modem based part of this patch.
+***********************************************************
+Author   :Jonathan E. Wright
+E-mail   :nelno@interpath.com
+Made     :Cujo v1.0
+***********************************************************
+Author   :Adam
+E-mail   :adam4@ripco.com
+Made     :The main idea of dog rockets (I seperated it from normal)
+***********************************************************
+Author   :Anyone I forgot
+E-mail   :Whatever
+Made     :Not Much
+***********************************************************
+Support  :Mike, Dave, Tezza, Vicky, Karen, Cheezmonkey, Superman
+          and all other cool people of the top 100 games forum
+          on compuserve, u guy's and galls were a great help.
+          (and i forgot ELVIS, arianne & (not stephanie),
+          mr.: ???tm???tm???tm , laura (in a way), the hackers.
+    cool peop.
+***********************************************************
+
+ps   :i anyone out there likes my work and wishes to see it really happening?
+      send me money, that way i can affort my internet connection, and get more
+      goodies to add and bring to you!!!!!
+pps  :please send cash only (any kind of money will do ($ preferred))
+      send it to my snail mail adress.
+ppps :keep looking for the TKI clan, (all i need is a server that will bring my
+      page on the web. (really that is all, well a few members will do)
+pppps:all i have is a pentium 133 (not mmx, uwaaa) and 33k6 modem so quake
+      won't even run that fucking good when playing on higher res.
+
+snail mail? to:
+******************
+Thomas Hansen
+Ophelialaan 183
+1431HE Aalsmeer
+(The Netherlands)
+******************
+
