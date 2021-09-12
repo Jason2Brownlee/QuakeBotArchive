@@ -209,6 +209,7 @@ https://www.quaddicted.com/files/idgames2/quakec/weapons/invmines.txt
 https://www.quaddicted.com/files/idgames2/quakec/weapons/madness.txt
 	Contains "reaper": 	grim reaper
 	Contains "bot[s,\.\s]":            tim polucha (co-designer, playtester)    |- for the dmbot (snot)
+
 https://www.quaddicted.com/files/idgames2/quakec/weapons/maniac57.txt
 	Contains "reaper": author info     : thomas hansen. aka grim reaper
 	Contains "bgbot": 3:make cujo cooperate with bgbot, in single player game

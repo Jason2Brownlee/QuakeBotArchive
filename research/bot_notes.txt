@@ -2526,7 +2526,20 @@ Dog Fun / Fun With Dogz
 		https://www.gamers.org/pub/idgames2/quakec/monsters/dogfun20.zip
 		https://www.gamers.org/pub/idgames2/quakec/monsters/dogfun20.txt
 		https://ftp.zx.net.nz/pub/archive/ftp.gamers.org/pub/idgames2/graphics/mdl/models24.txt
-
+Madness
+	a bot, (snot)
+	Tim Ivers aka "The Crow"
+	v3.6
+		https://www.quaddicted.com/files/idgames2/quakec/compilations/madness.txt
+		https://www.quaddicted.com/files/idgames2/quakec/compilations/madness.zip
+	bot was only in versions prior to 3.4
+	can we get a prior version????
+	v3.0
+		https://www.quaddicted.com/files/idgames2/quakec/weapons/madness.txt
+		https://www.quaddicted.com/files/idgames2/quakec/weapons/madness.zip
+	based on dmbot
+	all versions:
+		1.0, 2.0, 3.0, 3.1, 3.2, 3.3, 3.4, 3.5, 3.6
 
 
 

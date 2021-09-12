@@ -1,0 +1,328 @@
+*****************************************************************************
+****************   BUY "PUSHING THE SALmanilla ENVELOPE" ********************
+****************		     BY  		 ********************
+****************	   JIMMIE'S CHICKEN SHACK	 ********************
+*****************************************************************************
+
+===============================!chickenation!================================
+
+Title    : Madness
+Filename : Madness.zip
+Disclaimer: If you downloaded any version of madness before December, I am so
+		sorry for any inconveniance it may have caused you. 2.0 and 
+		3.0 both were riddled with bugs. From now on I will test
+		the patch in deathmatch with other people BEFORE I upload it.
+		I am so sorry.
+Version  : 3.6
+Date     : January 26, 1998 (1-26-98)
+Author   : The Crow (Tim Ivers)
+Email    : I_am_The_Crow@HoTMaiL.com <- send souces, zips, pics n stuff here,
+	    not bigger than 1mb though
+	   I_am_The_Crow@juno.com
+Build time: too long
+Credits  : Cybermind (Masters@citenet.net) for tons of help and for SKINTEC
+	   Steve Bond (wedge@nuc.net) for Eject!
+	     Visit QUAKE COMMAND!  http://www.nuc.net
+	   The Dire-Proto Fiend (mfarr@ccinet.ab.ca) for alot of the
+	     great skins
+	   Piramida (sman@niif.spb.su) for Most of the new weapons
+	   Jonathan E. Wright (http://www.trailerpark.com/phase1/nelno/) for
+	     the BFG-9500    
+	   KiRiLL V.S. also Deft (deft@ksu.ru) for MOST of the new models
+	   Patrick Martin (cmarti39@icon.net) for the Death Knight patch and
+	     for DOOM shot
+	   Doug Keegan <Rip on #quake/NetQuake> (doug.keegan@tamu.edu) for 
+	     admin.qc
+	   Stalin (Red Army TM) - Larboy Helped Too... :] for the sniper gun
+	   Bo Sorensen (c918873@student.dtu.dk) for the scare to death
+	   Bill Turner -shyft- (shyft@fwb.gulf.net) for the suicide zombies
+	   Tuomas Heino (tbittih@xgw.fi) for the atomic bomb
+	   Tritian (James Lazarus: Modeling (alazarus@ix.netcom.com)) & 
+	    Christopher Bolin (Skins(cbolin@teleport.com)) for the new 
+	     Chain Stuffer model.
+	   Eric W. (n/a) for the cool axe, nuke,holo dude and for teaching me
+ 	     that insanity is cool.
+	   Grahm Webster (???) for letting me be a part of Clan Pirates?!?!
+	     as long as I was. (Clan Pirates?!?! sort of disolved)
+	   id (duh)
+Stuff I need: I need to know how to give specific skins specific powers.
+
+Type of Mod
+-----------
+Quake C  : Yes
+Sound    : Yes (contained in pak0.pak)
+MDL      : Yes (contained in pak0.pak)
+
+
+Format of QuakeC
+----------------
+unified diff  : No
+context diff  : No
+.qc files     : No (ask for the .qc's n I'll give em to ya.)
+progs.dat     : Yes
+pak*.pak      : Yes
+
+Description of the Modification
+-------------------------------
+This is a deathmatch-style patch, though it can be used in single player.It 
+changes 7 of the weapons into totally new means o mass destruction. It also 
+has 4 new weapons. The bfg, sniper rifle,A-Bomb and Saw Blade gun. I 
+personally can't stand downloading a huge patch and then finding out that it
+wasn't worth it. This patch is. 
+
+Impulses are automatically bound.
+
+This is probably the last version of Madness I will upload, cause Quake II
+just came out, and I'm gettin in ta that now. Frag ya later.
+
+Well Quake 2 is out and thats all ive been playing for weeks.  Look for
+"The Crow [MFH]". Thats me. Any one with [MFH] after their name is in my clan
+
+*	It has SKINTEC. Not multiskin. If you change your skin, it STAYS.
+If you die, you leave a good lookin' corpse. (Heads too.) When you change 
+skins, you change your net name also, so if you want a custom name, you're 
+stuck wit da quake guy. Use <E> or <R> to cycle through skins.
+SKINTEC skins:
+
+	Quakeguy
+      ++The Crow
+       *Jason
+       *Mike Meyers
+       *Freddy Kruger
+        Dragon
+	Bill Clinton
+        Hell knight
+	Devil CLown
+      ++Lobo
+	Terminator
+	Predator
+      ++Ska Man
+	Dead Camper Zombie
+	Grim Reaper
+       *Potato Head
+       *The Living Lavaball
+	Dr Kevorkian
+      ++Doom Marine
+
+++ These skins by The Dire-Proto Fiend have so much detail, they deserve to
+be seen in SVGA
+*  These skins I drew, potato head being based on the dare devil skin from
+	QUAKE SUPER HEROES (loud echo)
+
+*******NOTE: alot of these skins have goofy names, but that is because these
+*******are our net.names in quake.
+
+*	Also, if you pick up the biosuit, you look like the biosuit. 
+Neat huh?
+
+*	Reloading frames for the player's Shotgun attacks (sort of). 
+
+*	Holo dude. Obvious. Use <H>. You can a maximum of 4 in play. These 
+also take use your skin. Very useful.
+
+*	Admin.qc - read the file to figure out how to use it.
+
+*	Scare to death - press <C> to attempt to scare a humaniod to death.
+humaniod = player, grunt, enforcer
+
+*	Also Impulse 9 is now Impulse 91. sorry.
+ 
+***New weapons*** 
+
+*	Axe of War - This is THE weapon of choice. It swings 3 times for each
+time you fire, (though you only see two) and will put ANY enemy's health at 
+			     ****** -40! ******
+It can also block shots from the axe. So if you see somebody running at you
+with the axe, kill em quick or duel em to death.
+
+*	Shot gun - new model, little bit stronger Fires DOOM shot.
+
+*	Super Shot gun - Not really new, but it takes longer to reload to
+acomidate the 6 or so new frames. I increased the damage to compensate for 
+this. Fires DOOM shot
+
+*	Nail gun - Now is the Uzi. Sorry Shrak guys, but I used your sounds
+and models for this. But the code for it is mine. Real simple hack, just
+change a few parameters, and wala! you have a bullet firing weapon. Fires
+DOOM shot
+
+*	Super Nail gun - Now is the Chain Stuffer, has a new model. Stuffs
+enemy with nails two times as fast as Nailgun. The nails in victims body
+inflict damage for about 20 seconds or untill the victim dies, then
+they explode. Amount of damage and strength of explosion depends
+on the amount of nails inside victims body :) heh, it does look funny.
+Only uses one nail now.
+
+*	Grenade Launcher - Now is the "Portable Nuclear Warhead". You launch
+a grenade, it sticks to whatever it hits, especially PLAYERS. After about 5 
+seconds of it ringing like an alarm clock, it detonates with a bastardized
+mushroom cloud, killing those unfortunate enough to be within 30' of the nuke
+
+*	Lightning gun - Now is the Vampiric Lightning gun. It sucks health
+from the victim, up to 500% health, then it does 5x the damage. You cant 
+discharge into the water anymore.
+
+*	BFG-9500 - When you pick up the lightning gun, you also get the BFG.
+Now, anyone whose played _ANY_ DOOM game knows what this is. Press <8> twice
+to select it.
+
+*	Sniper Rifle - press <0> to select. Uses 1 nail. Monsters can't hear
+it. It will kill almost any thing with one hit. Better find a good camping 
+spot, cause this sucker's got a loooooonnnggg reload time.
+
+*	Saw Blade Launcher - A totally new weapon that I programed (my first
+one!!!!), with models by Kirill n Deft. It launches a saw blade at your foes,
+using one rocket for each. This blade can richochet off walls and opponents,
+doing 60 dmg a hit. A very good crowd control device. Hit <9> to select.
+
+*	Atomic Bomb - Press <B> and you drop an atomic bomb. Gib-o-licious.
+When it works properly, nothing is left standing. Nothing. Except you. 
+But you only have 1-3 health. It uses 100 shells, 100 nails, 50 rockets, and
+100 cells. 
+
+
++	DOOM shot - Remember when in DOOM, ][, Ultimate, and Final, when you
+fired up a former human, sometimes the bullets would live on, and kill the
+next dolt? Well, that kind of buck shot is back.
+
+****All of the above weapons were originally designed by Piramida, except
+for the axe of war, sniper, a-bomb, and BFG. The Uzi and Saw blader codes
+are mine. I only changed variables and names and stuff for the other weapons.
+It's their respective codes, not mine.****
+
+
+Known bugs
+----------
+
+If the abomb kills too many things, it will crash.
+
+There's a bug where when you fire the BFG, sometimes your Shotgun is removed
+from your arsenal. If you try to select it, it says, "no weapon". This
+sometimes also takes ALL of your weapons. The only fix is to start a new 
+game, suicide, or to go pick them back up.
+
+The last time we played, my friend spawned a Snot. All was well and good.
+Then after a while everyone noticed a bot that was camping in a spot near
+an elevetor, and killing just about every one. People complained, so I told 
+them to go inside, and I would take care of it. I got my BFG ready, went out,
+and fired that sucker up. The blast went right through the bot, hit the wall 
+behind him, and killed the idiots who didn't listen to me and were still 
+outside. This is the reason Snot is no longer in here.
+
+How to Install the Modification
+-------------------------------
+
+If you don't know how to copy n unzip a patch yet you're a moron.
+
+Get Pkunzip or something.
+Unzip the zip into a directory of your choice. NOT THE ID1 DIRECTORY!!!
+Run quake like this: quake -game <dir name here>
+If your using Win95, type this: quake -game <dir name here> -winmem XX
+Where XX is 5mb less than your total ram, ex:
+If you have 32mb like me, you type "quake -winmem 27 -game <dir name here>"
+If you have 16mb, you type "quake -winmem 11 -game <dir name here>"
+Get it?
+
+Revision History
+----------------
+	 version 3.6
+	 Added: 
+		 DOOM shot
+
+	 version 3.5
+	 Added:
+		 differnet holodude.
+		 psychotic ogre
+
+	 Removed:
+	 	 Xsoldier (interfered with new grenade)
+
+	 changed grenade launcher
+		
+	 version 3.4
+	 Added:
+		 Atomic Bomb
+
+	 Removed:
+		 Punishment weps.
+		 Snot (he was not removing himself when you died, making 
+		 an invincible bot.)
+
+	 version 3.3
+	 Added:
+		 Zombomb
+		 Xsoldier
+	 Removed:
+		 Laser
+
+		 Made bot less deadly
+
+	 version 3.2
+	 Added:
+		Laser
+		Saw Blade Launcher
+
+	 version 3.1
+		COMPLETE (I think, one message bug, not harmful.) debugging
+		and recoding.
+	 Added:
+		Sniper rifle (by request from VooDoo)
+		Slightly modified Scare to death
+
+	 version 3.0
+	 Added: 
+		Uzi
+		Punishment weapons
+
+	 Removed: 
+		chasecam ii
+		plasmagun
+		(these caused severe multiplayer problems)
+
+	 version 2.0
+	 Added:
+		chasecam ii
+		snot
+		bfg
+		plasma gun
+		new skins (I think)
+
+         version 1.0
+         First release.
+
+Technical Details
+-----------------
+
+All Hail the Mighty Emblor, ruler of the Hanna Barbarians.
+
+The source is EXTREMELY messy. But if you want it it's your problem.
+
+THE OFFSPRING KICK ASS!!! (I saw them in concert 10-6-97. Killer moshing.)
+
+!chickenation!
+
+Author Information
+------------------
+
+I am 16 yrs old and am a junior (c/o 99 baby!) at Schenley H.S. . 
+I am a novice qc coder with too much time on my hands.
+
+
+Copyright and Distribution Permissions
+--------------------------------------
+
+If you want to mess with the patch, email for the source.
+
+Please DON'T decompile this! The bulk of the code in this patch is not mine,
+but it still took a while to make. 
+
+If you want to put this on a cd, you must tell me in writting and give me 
+a copy of the cd (or at least a discount).
+
+Availability
+------------
+
+ftp.cdrom.com/pub/idgames2/quakec/compilations/
+
+ (the one in the weapons dir is old, don't download that one unless you like
+ the skins or something)

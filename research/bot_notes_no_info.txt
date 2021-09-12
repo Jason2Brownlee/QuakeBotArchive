@@ -89,14 +89,7 @@ Magenta's Reaper Bots Hack
 		https://web.archive.org/web/19981201063801/http://www.boehm.de/andreas/
 	release???
 	need a filename...
-Madness
-	a bot, (snot)
-	Tim Ivers aka "The Crow"
-	https://www.quaddicted.com/files/idgames2/quakec/compilations/madness.txt
-	https://www.quaddicted.com/files/idgames2/quakec/compilations/madness.zip
-	v 3.6, there were prior versions...
-	bot was only in versions prior to 3.4
-	can we get a prior version????
+
 
 
 
