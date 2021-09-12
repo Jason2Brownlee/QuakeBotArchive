@@ -2513,6 +2513,8 @@ Dog Fun / Fun With Dogz
 		https://www.gamers.org/pub/idgames2/quakec/monsters/dogfun16.txt
 	v1.7
 		https://www.gamers.org/pub/idgames2/sounds/xsound14.txt
+	v1.8
+		https://www.quaddicted.com/files/idgames2/quakec/weapons/freakn13.txt
 	v1.9
 		https://ftp.zx.net.nz/pub/archive/ftp.gamers.org/pub/idgames2/quakec/monsters/zombie11.txt
 		https://ftp.zx.net.nz/pub/archive/ftp.gamers.org/pub/idgames2/quakec/weapons/gatlas11.txt

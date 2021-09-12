@@ -192,7 +192,6 @@ https://www.quaddicted.com/files/idgames2/quakec/weapons/dogfun13.txt
 	Contains "bgbot": made     :bgbot v1.5
 	Contains "cujo": cujo v1.0
 	Contains "bot[s,\.\s]": bg_bot v1.5
-
 https://www.quaddicted.com/files/idgames2/quakec/weapons/firework.txt
 	Contains "reaper": sewers.bsp is excellent with reaper bots and good for tournaments and such
 	Contains "bot[s,\.\s]": sewers.bsp is excellent with reaper bots and good for tournaments and such

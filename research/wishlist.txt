@@ -39,6 +39,7 @@ dmbt20b3.zip
 dmbt21b1.zip
 dobbsbot15b.zip
 dogfun17.zip
+dogfun18.zip
 dogfun19.zip
 doombot.zip
 drkbot04.zip
