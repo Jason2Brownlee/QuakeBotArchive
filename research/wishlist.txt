@@ -127,6 +127,7 @@ frogbot007.zip
 frogbot009.zip
 frogbot011.zip
 frogbot011b.zip
+frogbot012.sit
 frogbot012.zip
 frogbot012a.zip
 frogbot012b.zip

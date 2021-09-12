@@ -1825,7 +1825,7 @@ WLBot
 The Alf
 	https://web.archive.org/web/19990125093758/http://www.botepidemic.com/
 	http://members.xoom.com/the_alf
-	https://web.archive.org/web/19990125093758/http://members.xoom.com/the_alf
+		https://web.archive.org/web/19990125093758/http://members.xoom.com/the_alf
 	Bjorn-Erik Solli aka "Jack O. Trade"
 	http://members.nbci.com/nnctf.zip
 	http://members.nbci.com/nnsource.zip
@@ -1868,7 +1868,7 @@ TeamFortress Bot
 	Valery Schedrin aka Forthpick
 	teamfbot.zip
 	http://www.forthpick.kiev.ua/
-	https://web.archive.org/web/20010301205408/http://www.forthpick.kiev.ua/
+		https://web.archive.org/web/20010301205408/http://www.forthpick.kiev.ua/
 	https://groups.google.com/g/fido7.ru.game.doom/c/_PkycS-xNJc/m/50MScVRdSKMJ
 	ftp://quake.demos.su/pub/patches/fortress/teamfbot.zip
 	ftp://ftp.mari.ru/pub/games/quake/fortress/teamfbot/teamfbot.zip
@@ -1955,6 +1955,8 @@ Rogue Bot
 The Moron Bot
 	mbr1.zip
 	thefatal
+	https://www.richwhitehouse.com/filemirror/mbr1.zip
+	https://www.richwhitehouse.com/filemirror/mbsrc.zip
 megabot
 	https://dukeworld.com/planetquake/captured/rip2/megabot.zip
 	tutor bot based
@@ -1963,6 +1965,9 @@ UnknownBot / Unknown Bot
  	https://web.archive.org/web/20100123221300/http://botepidemic.no-origin.net/quake.shtml.htm
  	August, 1999
  	http://members.xoom.com/_XOOM/unknownbot/
+ 		not archived
+ 	http://members.xoom.com/unknownbot/
+ 		not archived
  	got a file...
  	ubot14.zip
 VeNgAb0T / Vengabot
