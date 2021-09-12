@@ -145,7 +145,7 @@ Kooliobot | Robert de Heus aka "Koolio" | [kooliobot.zip](bin/kooliobot.zip)<br>
 Lightning Gun Competition (LGC) (Frogbot) | Phil Romov aka "peheyele" | [lgc3.zip](bin/lgc3.zip)<br>[lgc2c.zip](bin/lgc2c.zip)<br>[lgc2.zip](bin/lgc2.zip)<br>[lgc.zip](bin/lgc.zip)
 Lithium CTF Bot | Juan Ignacio Rava aka "Johnny" | [lith091c.zip](bin/lith091c.zip)
 LoydBot | Loyd aka "Juninho" | [lbotv10.zip](bin/lbotv10.zip)
-Lurkerz | Ron Goff and Jon Little | [lrkrz_01.zip](bin/lrkrz_01.zip) ([txt](bin/lrkrz_01.txt))
+Lurkerz (DMBot) | Ron Goff and Jon Little | [lrkrz_01.zip](bin/lrkrz_01.zip) ([txt](bin/lrkrz_01.txt))
 Madness (DMBot) | Tim Ivers aka "The Crow" | [madness36.zip](bin/madness36.zip) ([txt](bin/madness36.txt))<br>madness35.zip<br>madness34.zip<br>madness33.zip<br>madness32.zip<br>madness31.zip<br>[madness30.zip](bin/madness30.zip) ([txt](bin/madness30.txt))<br>madness20.zip<br>madness10.zip
 MaNiAc's FMOD (Frogbot) | Michael Turitzin aka "MaNiAc" | [lagmod.zip](bin/lagmod.zip)
 MaNiAcBot | Michael Turitzin aka "MaNiAc" | [maniacbt.zip](bin/maniacbt.zip) ([txt](bin/maniacbt.txt))<br>maniacbt12.zip<br>fbmod.zip
