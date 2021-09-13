@@ -2513,6 +2513,8 @@ Dog Fun / Fun With Dogz
 		https://www.quaddicted.com/files/idgames2/quakec/weapons/dogfun13.zip
 		https://dukeworld.com/idgames2/quakec/weapons/dogfun13.zip
 		https://www.gamers.org/pub/idgames2/quakec/weapons/dogfun13.zip
+	v1.4
+		https://www.quaddicted.com/files/idgames2/quakec/weapons/maniac57.txt
 	v1.6
 		https://www.gamers.org/pub/idgames2/quakec/monsters/dogfun16.zip
 		https://www.gamers.org/pub/idgames2/quakec/monsters/dogfun16.txt
@@ -2545,7 +2547,31 @@ Madness
 	based on dmbot
 	all versions:
 		1.0, 2.0, 3.0, 3.1, 3.2, 3.3, 3.4, 3.5, 3.6
-
+Maniac Gunz
+	cujo and bgbot
+	Thomas Hansen aka "Grim Reaper"
+	http://www.geocities.com/TimesSquare/Arena/2818/
+		https://web.archive.org/web/20000823041251/http://www.geocities.com/TimesSquare/Arena/2818/
+	http://tki.shrimpwars.be
+		https://web.archive.org/web/20000830114221/http://tki.shrimpwars.be/
+	http://www.come.to/total.kill.inc
+	http://www.crosswinds.net/amsterdam/~thomas
+	many prior versions...
+		1.0 to 5.7
+	v5.7
+		https://www.quaddicted.com/files/idgames2/quakec/weapons/maniac57.txt
+		https://www.quaddicted.com/files/idgames2/quakec/weapons/maniac57.zip
+	v5.5
+		https://www.gamers.org/pub/idgames2/quakec/monsters/maniac55.zip
+	v5.4
+		Maniac54.zip
+		https://www.gamers.org/pub/idgames2/quakec/monsters/maniac55.txt
+		https://ftp.zx.net.nz/pub/archive/ftp.gamers.org/pub/idgames2/quakec/weapons/gatlas11.txt
+		https://www.gamers.org/pub/idgames2/utils/misc/ansi1.txt
+		https://www.quaddicted.com/files/idgames2/quakec/weapons/biggun40.txt
+	v5.3
+		https://dukeworld.com/idgames2/partial_conversions/duke17.txt
+		https://ftp.zx.net.nz/pub/archive/ftp.gamers.org/pub/idgames2/quakec/monsters/zombie11.txt
 
 
 

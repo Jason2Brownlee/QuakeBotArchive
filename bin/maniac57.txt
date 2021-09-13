@@ -1,0 +1,212 @@
+*** Maniac gunz v5.7 ***
+by:TKi   
+                  /--\   /-\
+                /   /    \-/  __
+              /    |         - /
+            /      |      / _/
+          /   /|   |__ /  _/ 
+         \__/  |          |
+               |    |\    \
+               |    | \    \ 
+               |    |  \    \
+              /______\  \____|
+               Total Kill inc.
+              To enjoy Killing.
+
+http://www.geocities.com/TimesSquare/Arena/2818/
+
+
+Date of release : 12-6-1998
+Author info     : Thomas Hansen. aka Grim Reaper
+                  Lord of TKI.
+                  Lives for only one thing,,,QUAKE / Q2
+Pre-credit      : ID, in the old days there was doom, a good game and
+                  i must admit i played loads of hours with it, created some
+                  levels, and even got: ultimate doom and doom2.
+                  i played (sorry id.) duke for some while and then duke atom
+                  BUT THEN, i got my hands on quake, guess what i did to the
+                  rest? (delete: doom1 doom1u doom2 duke dukeatomic)
+                  all i needed was: Quake, and it still rocks any of the ones
+                  above,,, THANX ID GAMES !!! 
+                  Now for a long time allready quake2 is out.(i got it)
+                  And there are rumors about quake 3 being created. KEWL!!
+Comments        : Because there are so many weapons and other add-on's
+                  from just about all the patches I got, it's obvious that
+                  their bugs, maybe a few more, maybe a few less, are
+                  also in this patch. (probably more, since some might
+                  not be 100% compatible.(like the dartgun which is no longer
+                  a part of this patch))
+                : You MUST unzip this zipfile using the -d option!!!!
+                : If there is anyone out there that wishes to join this team
+                  (two man work at the moment) so: if u create good levels,
+                  skins or u are a good programmer, or just plain good at art.
+                  just send a mail.
+                : To create a T-c i need a team, i was thinking of:
+                  The secret of mana (a cool rpg for the snes)
+                  Zombies, quake for undead only (maybe i'll do this for
+                  quake2 only...
+                  Some way of improving the hand to hand fighting in quake.
+                  and the best: Quake Bomberman!!!! (with special level)
+                  -Guess what? This tc is under construction right now....
+                   Wanna help?
+
+/************************************************************
+First! Place this patch in a directory like:
+c:\games\quake\maniagun
+and place all files in this dir.
+then type (from the quake dir.) quake -game maniagun
+Start gibbin.
+*************************************************************/
+
+
+******************************************************************************
+Main thing:
+The extra patch(2) allows your shotguns, rocket weapons and others.
+to fire more than 10 units a second.
+Mind the guy with the sniper, eek!
+
+This patch (src 1) makes them fire 0.1 sec faster.
+******************************************************************************
+
+Add all missing qcc files to the src dir(amtest boss fight jctest misc models 
+oldone sprites and tarbaby.qc) then run proqcc 
+
+v5.7 -> 0.353Mb
+Extra since older versions:
+***************************
+-Now using a cool pak0.pak, looks better.
+
+***************************
+v5.6
+***************************
+-No more proqcc in here, get it at my homepage.
+
+***************************
+v1.0 to v5.5
+***************************
+-Many models.
+-Many weapons. ->See the impulse commands for list of weapons.
+-Extra ammo and health > 200 % is the maximum health by default.
+-All armour have 25% more.
+
+
+*****************************************************************************
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Planned events yet to come, later ( I hope ) 
+1:All bug to be fixed (verrrrrry hard.(impossible?))
+  if anyone can fix my bugs, please e-mail, or send a solution.
+  please use unified diff.
+2:add the lightning bomb to the lightning gun. 
+3:Make cujo cooperate with bgbot, in single player game
+4:Morph.  (don't have da source)
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Bugs : cycle weapon command, don't work. It makes quake crash.
+     : in the beginning, you can't use your axe. (somehow it wants cells)
+       made a temporalily solution. (Z) gives 30 cells
+     : Other weapons want cells too?  grrrrrr.
+
+*****************************************************************************
+* x-tra **key***impulse******THIS MANY?**************************************
+*****************************************************************************
+press 1  : 2x :         : to activate the Grappling hook
+press 2  : 2x :         : to activate the Flare gun
+press 2  : 3x :         : to activate the Sniper
+press 2  : 4x :         : to activate the Autosniper
+press 3  : 2x :         : to activate the Autocannon
+press 3  : 3x :         : to activate the Painbringer
+press 6  : 2x :         : to activate the Firewall
+press 6  : 3x :         : to activate the Proximity mine
+press 6  : 4x :         : to activate the Stinger gun
+press 6  : 5x :         : to activate the Ricochet grenade
+press 7  : 2x :         : to activate the Gibgun
+press 7  : 3x :         : to activate the Tracer mode
+press 7  : 4x :         : to activate the RTB launcher
+press 7  : 5x :         : to activate the Glue grenade 
+press Zz :    :    99   : to gain 30  cells   (sorry it was needed)
+press Dd :    :   100   : to activate CUJO!
+press Ss :    :   104   : to teleport CUJO to your position
+press Aa :    :   105   : to make     CUJO's collar lamp glow
+press Ff :    :   150   : to activate 1 or more BG bots
+press Mm :    :   200   : to detonate a RTB
+press Nn :    :   201   : to defuse   a RTB
+press "' :    :   202   : to err...   kill yourself
+press Oo :    :   203   : to throw    a backpack  (cloaked as spike)
+press Ii :    :   204   : to throw    a sucker! backpack
+press Ll :    :   205   : to throw    a fake grenade 
+press Kk :    :   206   : to throw    a fake ring of shadows
+press Jj :    :   207   : to throw    a fake pentagram
+press Hh :    :   208   : to throw    a fake quad damage
+press Gg :    :   209   : to throw    a fake biosuit
+press {[ :    :   210   : to place    a lightning bomb
+press Bb :    :   211   : to throw    a ring of shadows Xplosive
+press Vv :    :   212   : to throw    a pentagram Xplosive
+press Cc :    :   213   : to throw    a quad Xplosive
+press Xx :    :   214   : to throw    a biosuit Xplosive
+
+********* Wow what a list ***************************************************
+
+
+credits:
+***********************************************************
+Author   :ME!
+E-mail   :grimm_reap@hotmail.com
+Made     :Maniac57.zip / Dogfun14.zip / Biggun40.zip / duke29.zip
+          freakn14.zip / quakex13.zip / xsound13.zip / qbomb10h.zip
+          coolgib1.zip / shamde10.zip / scorp11.zip
+***********************************************************
+Author   :Mike
+E-mail   :amichael@asu.alasu.edu
+Made     :THE Grappling Hook
+***********************************************************
+Author   :hellblazr:
+E-mail   :couldn't find it,,,  (sorry hellman just send a mail)
+Made     :explosive nails.     (adds nice extra danger in the game)
+***********************************************************
+Author   :Jonathan Avraham aka Procedure aka Shambler
+Email    :procedure@hotmail.com
+Made     :Tracer
+***********************************************************
+Author   :PVP
+E-mail   :pvp@iastate.edu 
+Made     :Gibgun/Firewall/Proximity mine
+***********************************************************
+Author   :Klaus  /  Massive Carnage Industries
+E-mail   :sz0759@rzmail.uni-erlangen.de
+Made     :Flare/RTB/GleuGrenade/RicoGrenade
+***********************************************************
+Author   :Pangloss
+E-mail   :Weblook@mmv.se
+Made     :LightningBomb 
+***********************************************************
+Author   :Jonathan E. Wright
+E-mail   :nelno@interpath.com
+Made     :CUJO - bot
+***********************************************************
+Author   :Punisher
+E-mail   :punisher@trojan.neta.com
+Made     :BGbot v1.5
+***********************************************************
+Author   :Robin Walker and John Cook   (Teamfortress)
+E-mail   :walker@netspace.net.au
+Made     :Sniper, AutoSniper, AutoCannon.
+***********************************************************
+
+This MONDO patch was put together by: Thomas Hansen
+for any comments, bug fixes, requests, or ideas send a message to
+e-mail: grimm_reap@hotmail.com
+
+
+ps :if u do find bugs or errors or ,,, well whatever the problem, please
+    do state what version of quake u are using and which version of this
+    patch, your operating system ( 486/586 pentium/ mHz?? mmx??? ) and
+    anything else which might be important.
+pps:oh yeah, please send me mail, pleeeeaase. Even thank you is enough.
+    That way i know people are actually using my patches.
+3ps:if u did actually read all of this text, u are a very cool person
+    and should be rewarded,,, but i won't (since all information u just 
+    got is enough of a reward anyway.) seeya.
+
+TS.

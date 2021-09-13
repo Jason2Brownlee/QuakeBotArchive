@@ -1,0 +1,665 @@
+*** Maniac gunz v5.5 ***
+by:TKi   
+                  /--\   /-\
+                /   /    \-/  __
+              /    |         - /
+            /      |      / _/
+          /   /|   |__ /  _/ 
+         \__/  |          |
+               |    |\    \
+               |    | \    \ 
+               |    |  \    \
+              /______\  \____|
+http://www.geocities.com/timessquare/arena/2818/index.htm
+
+
+Date of release : 15-2-1998
+Author info     : Thomas Hansen. aka Grimm Reaper
+                  Master/head/Lord of TKI.
+                  Lives for only one thing,,,QUAKE / Q2
+Pre-credit      : ID, in the old days there was doom, a good game and
+                  i must admit i played loads of hours with it, created some
+                  levels, and even got: ultimate doom and doom2.
+                  i played (sorry id.) duke for some while and then duke atom
+                  BUT THEN, i got my hands on quake, guess what i did to the
+                  rest? (delete: doom1 doom1u doom2 duke dukeatomic)
+                  all i needed was: Quake, and it still rocks any of the ones
+                  above,,, THANX ID GAMES !!! (quake 2 is out, i must have it)
+           addon: I just got Quake2 test version, some minor bugs, but it
+                  will do just nicely.
+Comments        : Big text file i know.
+                : Because there are so many weapons and other add-on's
+                  from just about all the patches I got, it's obvious that
+                  their bugs, maybe a few more, maybe a few less, are
+                  also in this patch. (probably more, since some might
+                  not be 100% compatible.(like the dartgun which is no longer
+                  a part of this patch))
+                : You MUST unzip this zipfile using the -d option!!!!
+                : If there is anyone out there that wishes to join this team
+                  (two man work at the moment) so: if u create good levels,
+                  skins or u are a good programmer, or just plain good at art.
+                  just send a mail.
+                : To create a T-c i need a team, i was thinking of:
+                  The secret of mana (a cool rpg for the snes)
+                  Zombies, quake for undead only (maybe i'll do this for
+                  quake2 only...
+                  Some way of improving the hand to hand fighting in quake.
+                  and the best: Quake Bomberman!!!! (with special level)
+                  just think of the things that are possible using the quake2
+                  engine.
+                : creating this patch gave me much of experience, and i am now
+                  working on several other patches too.
+/*
+First! Place this patch in a directory like:
+c:\games\quake\maniagun
+and place all files in this dir.
+then type (from the quake dir.) quake -game maniagun
+Start gibbin.
+*/
+
+
+******************************************************************************
+Main thing:
+The extra patch(2) allows your shotguns, rocket weapons and others.
+to fire more than 10 units a second.
+Mind the guy with the sniper, eek!
+
+This patch (and the prog.dat) makes them fire 0.1 sec faster.
+******************************************************************************
+
+Add all missing qcc files to the src dir(amtest boss fight jctest misc models 
+oldone sprites and tarbaby.qc) then run proqcc 
+
+v5.5
+Extra since older versions:
+***************************
+re-did some art on the v_shotx.mdl
+nothing much.
+
+***************************
+v5.4
+***************************
+http: geocities.
+added a better looking model for the 'gattling gun'
+or simply supr nailgun.  (am working on lazer, gattling lazer and dual-dual
+s-shotgun  [cool heh?])
+so: could someone tell me how to use multiple models on 1 [1..9] key.
+    or must i find out myself?
+
+i now have quake v1.08, get it at http://www.gamesdomain.com
+
+***************************
+v5.3
+***************************
+got rid of unchanged qc files (therefore reducing size of zipfile)
+
+***************************
+v5.2
+***************************
+http: crosswinds
+
+***************************
+v5.1
+***************************
+Tki player skin.
+
+Got rid of the dartgun.qc code completely.
+so no more irritating text when u press (4).
+
+also updated the weapons(2).qc (0.0 reload time)
+
+***************************
+v5.0
+***************************
+i got a new e-mail adress
+
+***************************
+v4.9
+***************************
+Got rid of the progs.dat to make the final zip file smaller.
+Also got rid of the qccdos files in the src directory.
+(more easy to up/download)
+The size of the zipfile is now almost half of the origigonal!!!!!!!!!
+
+***************************
+v4.8
+***************************
+Behold the super nailgun has become a 6 barrel chaingun,,, COOL!!!!
+
+***************************
+v4.7
+***************************
+now uses a cool looking shotgun that shows a hand which reloads the shotgun.
+quake2 uses weapons this way.
+
+(tried to use a special model for sniper, but no luck (yet))
+
+***************************
+v4.6
+***************************
+New death text when a player dies by the lightning gun.
+
+(used on quake 1.06) (u can tell)
+
+ehhh,,, i was trying to find the introduction text,,, but i can't find it 
+anymore!!!!  (embarrasing) (did i spell that right?)
+though i am glad i said 3.7 or higher instead of 3.7 (that would have sucked)
+
+U still get quad damage by picking up a backpack that has (i don't know what)
+i it,,, it is kind o cool.
+
+now uses progs dir for models and src dir for qc files
+
+***************************
+v4.5
+***************************
+fucked up this txt some more. Made it better. ( well,,, i just changed it )
+nothin' special
+
+***************************
+v4.4
+***************************
+Added or..... changed the older version of the grappling hook into 1.09 
+instead of 1.05, and it is a major good thing too.
+
+updated weapons.qc in progs2 to v4.4 too (it was still at 3.6 (stupid!!!))
+
+Also added proqcc v1.53 (4x faster than qccdos)
+
+***************************
+v4.3
+***************************
+fixed bug that gives you the lightninggun, supershotgun and the nailgun:
+when you pick up the nailgun. bug fixed.
+
+Now the dartgun no longer works? Who cares it sucks anyway. (damn!) 
+
+***************************
+v4.2
+***************************
+I had some time left to add new: ha you died texts for the new weapons.
+so it is done.
+
+***************************
+v4.1
+***************************
+And,,, Oh yes, finally the biggest bug is: GONE!
+It is now save to use the extra weapons in water, or anywhere else.
+Because you no longer switch to the lightning gun when using one of the
+xtra weapons. YEAHHH!!
+
+More easy to teleport non living items. (grenades?,,, hehehehehe!)
+
+***************************
+v4.0
+***************************
+Similar to the fake objects i added in an previous version,
+These new killers look the same, but go BOOM if you touch them.
+If anyone in deathmatch dies because of this, they will get a negative
+FRAG in the name of worldspawn, you get nothing but the pleasure of
+hearing / seeing your enemy go WHAM!
+I am yet trying to make them vulnerable for rocket weapons.
+
+***************************
+v3.9
+***************************
+The Painbringer 
+Horrific power at close range, crap gun at long range.
+
+***************************
+v3.8
+***************************
+The creators of teamfortress had a few nice weapons,
+so i added them.
+Sniper      (very high powered shotgun with long reload time) 
+AutoSniper  (Same weapon, less powerfull, much shorter reload time)
+AutoCannon  (Less powerfull supershotgun. with much faster reload time,
+             a less spread bullets, just more powerfull)
+
+***************************
+v3.7
+***************************
+Only one small thing: when you fire an extra weapon. you see the weapon,,,,
+well,,, how to say,, reload?
+
+***************************
+v3.6
+***************************
+Well i made a made a solution for the: you need cells problem.
+It's no good though. Type impulse 99 anytime (even deathmatch)
+to set the ammount of cells you own to ]30[ .
+It's like cheating, but until the big problem can be solved, this will
+have to do. Atleast now all weapons can be used, even at the beginning.
+
+Also a stupid mistake on the text that appears when someone 
+gets a telefrag, has been fixed.
+
+***************************
+v3.5
+***************************
+A poisonDartgun. used with the nailgun
+
+***************************
+v3.4
+***************************
+As I said before, i wanted to play deathmatch vs the CPU.
+This is now possible. (BG bot v 1.5)
+In single player: one helper will be created every time you hit (F)
+it will spawn at the player's start point.
+In deathmatch (at any time) 5 bots will be created.
+The ammount of bots in deathmatch is regulated in impulse2.qc, just check.
+They will spawn at random positions.
+
+Cujo hate bgbot's even in single player game
+
+***************************
+v3.3
+***************************
+At last a bot.
+His name is cujo and he's been created by (see credits)
+It is an attack dog! And uhhh,,,, doesn't attack YOU!
+
+comment: Cujo is a movie/book by stepen king, in this movie he is a 
+         saint bernard,,, not a rottweiler. (but still a killer dog)
+
+***************************
+v3.2
+***************************
+Flare is now used with the shotgun.
+
+Also I had a big cleanup in the impulse command, this text and the config.
+
+***************************
+v3.1
+***************************
+Tracer can now be selected in rocket launcher mode.
+Even the RTB can now be selected this way. (by pressing 7)
+And the Glue bomb  (7)
+And the Ricochet grenade (6) 
+
+The Light bomb has a longer range, and now lasts 2 seconds before,,,,light
+goes on.
+
+***************************
+v3.0
+***************************
+At Last, the next generation has arrived:
+Maniacgunz v3.
+
+This time I finally was able to add the stinger to the {press 6 multiple times
+row.}
+And i promise it will not be the last!
+
+***************************
+v2.8 / v2.9
+***************************
+Finally the spikes/nails are a bit more usefull,
+just check it out. (it's explosive!)
+
+Also the maximum ammount of ammo is now:
+250 shells
+250 nails
+100 rockets
+200 cells
+
+Added Tracer:
+Sticks with your enemy (until death)
+makes a random ammount of sounds, that get louder when you get closer
+( once again: great for deathmatch )
+
+added Lightning bomb:
+Afther 2 seconds,,,,,
+Everyone in the room goes blind for 15 seconds
+
+Throw backpacks now last forever
+
+Most Fake items now last 10 minutes (unless they are picked up)
+
+***************************
+v2.7
+***************************
+Gibgun:
+The spinning rocket
+just press 7 a few times.
+
+Firewall:
+Sort of a cluster bomb
+just press 6 a few times.
+
+Proximity mine:
+hehe... Land Mine!
+just press 6 a few times.
+
+Check out progs2 to make these weapons fire at 0.0sec reload time too.
+
+***************************
+v2.6
+***************************
+Fake grenade.
+It looks like the grenade, but does nothing.
+Also it can be picked up, giving you,,,,,,,, (indeed) nothing
+to throw and scare your enemy.
+also:
+Fake Ring of Shadows.
+Fake Pentagram.
+Fake Quaddamage.
+Fake Biosuit.
+
+***************************
+v2.5
+***************************
+Sucker! backpack:
+Delete some ammo from your opponent.
+Perfect for Deathmatch! (Dig?)
+Lasts 3min.
+Makes a sound when: thrown\picked up.
+
+The throwbackpack now lasts 5min.
+and looks like a nain or spike, so that your enemy won't be able
+to find it (and steal it) so easily.
+
+Flare now looks like the hell_knight's spike, so that:
+1: It looks cooler
+2: Your enemy can see it more clearly (coming by)
+3: It sticks out of the wall like a very small pin.
+4: This is NOT the work of klaus
+Stinger makes sound.
+
+***************************
+v2.4
+***************************
+This version includes 4 tools from:
+Massive Carnage Industries
+bug: The weapons use ammo and will run out, so the default grenade
+and rocket launcer can't be used anymore.
+BUT!: When you continue to use these weapons, your ammo re-sets,
+so having 254 rockets and unlimited weapons (by klaus) but not
+able to use the default.
+
+*Flare
+Brings light.
+
+*Radio Tag Bomb (launch/detonate/defuse)
+
+*Glue Grenade
+Sticks on anything but doors and platforms.
+
+*Ricochet Grenade
+Bouncy, bouncy, bouncy.
+
+***************************
+v2.3
+***************************
+The shell ejection mod finally works.
+Player and soldier now drop shells (ps: who made the shellcase.mdl?)
+
+Since shells can easily cause a packet overflow,
+I caused all creatures to gib at -30, instead of the previous -00.
+packet overflows should rarely occur.
+(Test: o.k. it happened once, when i was bitching up a large group
+of creatures in nightmare skill.)
+
+***************************
+v2.2
+***************************
+I had some complaints about unfair deathmatch,
+so I made a seperate weapons.qc for verrrry fast fire rate (witch all the
+goods), and one with quite normal fire rate and also the goods.
+just check \progs  for normal (most weapons fire 0.1sec faster than default)
+     and   \progs2 for the real maniacs amongst you. 
+
+Axe hits at (what I think) it's maximum speed (0.3)
+this is really quite fast since the default is 0.5.
+This should improve the need to live, even without ammo.
+
+***************************
+v2.1
+***************************
+A suicide button.
+press (') to kill yourself (and take others along the ride.)
+I was finally able to add the self destruct mod from:
+Robert Beck (aka: whitetrash  (irc/EFnet))
+this mod kills yourself, and others till a certain range.
+So: If you'r short on health and have at least 5 rockets,
+get close and press (') or type "impulse 69"
+
+Throw a backpack.
+throw some ammo into the level.
+good for building stacks in secret places ( Deathmatch! )
+(only one known bug: when you look slightly up, (and throw one) the
+backpack may start to float.)
+
+****************************
+v2.0
+****************************
+Added easygib, now most monsters always gib, (unless the lazer or
+grappling hook are used.
+
+To make up for the :not enough ammo problem, i added a maximum
+of 200% to be picked up by medikits. and 300 by the big health box
+(you won't be able to pick up another untill you have 250%)
+
+improved every armour by 25%
+
+Added the stinger grenade (which only explodes in water)
+(only it doesn't say you don't have enough ammo, when you are out of
+cells, but it works.
+
+A couple of those "ha you died" text have been edited.
+maybe you like them, maybe not. (change them if you like, they are in
+the client.qc) 
+
+Added Zombies on the wall to be giggable.
+
+Backpacks remain in the game for 3 minutes (instead of 2)
+
+****************************
+v1.2
+****************************
+added grappling hook, (took about 5 minutes) this thing is way cool.
+
+****************************
+v1.1
+****************************
+fixed bugs: Grenade launcher shot upwards, instead of forwards.
+It was kinda funny though. (see v1.01)
+
+Also your axe was hitting at maniac speed, only it didn't hit,
+so it had no use, bug fixed. (now it hits at 0.4 :0.1 faster)
+
+****************************
+v1.01
+****************************
+The beginning of a huge patch!
+fixed bugs: Rocket launcher and super chaingun didn't shoot
+straight (about 30 degrees east or west), they do now.
+(i was just finding out how the numbers worked in quake-c)
+
+*****************************************************************************
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Planned events yet to come, later ( I hope ) 
+1:All bug to be fixed (verrrrrry hard.(impossible?))
+  if anyone can fix my bugs, please e-mail, or send a solution.
+  please use unified diff.
+2:add the lightning bomb to the lightning gun. 
+3:Make cujo cooperate with bgbot, in single player game
+4:Morph.  (don't have da source)
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+Bugs : cycle weapon command, don't work. It makes quake crash.
+     : in the beginning, you can't use your axe. (somehow it wants cells)
+       made a temporalily solution. (Z) gives 30 cells
+     : Other weapons want cells too?  grrrrrr.
+
+And here is for anyone that didn't know:
+How to start a custom level (ownmade)
+make a directory like C:\games\quake\xtramaps\maps
+                       quake dir.   !  xtralevel dir
+then start quake by typing quake -game xtramaps
+
+then while playing a single or multiplayer game, pull down
+the console (by pressing ` or ~ (just below most Esc buttons)
+[whe call it the the tilde button]
+then type: map fortress
+               arena
+               or anything else (depending on the customlevel.bsp)
+
+****************************************************************************
+And now for all those "losers" that didn't know the cheatcodes for QUAKE :
+**************************************************************************** 
+impulse 9   : All weapons
+impulse 255 : Quad damage
+god         : Godmode on\off
+noclip      : No clipping mode on\off
+notarget    : Enemy's won't target you, so they won't shoot you either
+fly         : Fly around
+give X ***  : x=N H S C R  ***= number 1-255 or if H any number higher than 1
+map e*m*    : Go to episode:* map:*  (e1m8=secret)
+showturtle 1: Shows a turtle, if the screen rate drops below 10frames p/sec
+showpause 0 : Don't show the pause screen when paused
+
+*****************************************************************************
+*** x-tra ******impulse***THIS MANY?*****************************************
+*****************************************************************************
+press 1  : 2x :         : to activate the Grappling hook
+press 2  : 2x :         : to activate the Flare gun
+press 2  : 3x :         : to activate the Sniper
+press 2  : 4x :         : to activate the Autosniper
+press 3  : 2x :         : to activate the Autocannon
+press 3  : 3x :         : to activate the Painbringer
+press 6  : 2x :         : to activate the Firewall
+press 6  : 3x :         : to activate the Proximity mine
+press 6  : 4x :         : to activate the Stinger gun
+press 6  : 5x :         : to activate the Ricochet grenade
+press 7  : 2x :         : to activate the Gibgun
+press 7  : 3x :         : to activate the Tracer mode
+press 7  : 4x :         : to activate the RTB launcher
+press 7  : 5x :         : to activate the Glue grenade 
+press Zz :    :    99   : to gain 30  cells   (sorry it was needed)
+press Dd :    :   100   : to activate CUJO!
+press Ss :    :   104   : to teleport CUJO to your position
+press Aa :    :   105   : to make     CUJO's collar lamp glow
+press Ff :    :   150   : to activate 1 or more BG bots
+press Mm :    :   200   : to detonate a RTB
+press Nn :    :   201   : to defuse   a RTB
+press "' :    :   202   : to err...   kill yourself
+press Oo :    :   203   : to throw    a backpack  (cloaked as spike)
+press Ii :    :   204   : to throw    a sucker! backpack
+press Ll :    :   205   : to throw    a fake grenade 
+press Kk :    :   206   : to throw    a fake ring of shadows
+press Jj :    :   207   : to throw    a fake pentagram
+press Hh :    :   208   : to throw    a fake quad damage
+press Gg :    :   209   : to throw    a fake biosuit
+press {[ :    :   210   : to place    a lightning bomb
+press Bb :    :   211   : to throw    a ring of shadows Xplosive
+press Vv :    :   212   : to throw    a pentagram Xplosive
+press Cc :    :   213   : to throw    a quad Xplosive
+press Xx :    :   214   : to throw    a biosuit Xplosive
+
+*****************************************************************************
+
+And finally:
+Whatch out for updates!!!!!!!!!!!!
+,and let out the killer inside you....
+have fun,,, uwa ha ha hargh!!!
+
+
+credits:
+***********************************************************
+Author   :Mike
+E-mail   :amichael@asu.alasu.edu
+Made     :THE Grappling Hook  //(Morning Star v1.05 and v1.09)
+***********************************************************
+Author   :ME!
+E-mail   :grimm_reap@hotmail.com
+Made     :Maniac54.zip / Dogfun13.zip / Biggun17.zip / duke17.zip
+          freakn13.zip / quakex12.zip / xsound12.zip
+***********************************************************
+Author   :hellblazr:
+E-mail   :couldn't find it,,, (sorry hellman just send a mail)
+Made     :explosive nails.     (adds nice extra danger in the game)
+***********************************************************
+Author   :Jonathan Avraham aka Procedure aka Shambler
+Email    :procedure@hotmail.com
+Made     :Tracer
+***********************************************************
+Author   :PVP
+E-mail   :pvp@iastate.edu 
+Made     :Gibgun/Firewall/Proximity mine
+***********************************************************
+Author   :Klaus  /  Massive Carnage Industries
+E-mail   :sz0759@rzmail.uni-erlangen.de
+Made     :Flare/RTB/GleuGrenade/RicoGrenade
+***********************************************************
+Author   :Someone
+E-mail   :IDunno.
+Made     :shellcase.mdl
+***********************************************************
+Author   :Pangloss
+E-mail   :Weblook@mmv.se
+Made     :LightningBomb 
+***********************************************************
+Author   :Vincent v Looij
+E-mail   :nope, not at all
+Made     :was a big help in testing multi player games.
+***********************************************************
+Author   :Jonathan E. Wright
+E-mail   :nelno@interpath.com
+Made     :CUJO v1.0
+***********************************************************
+Author   :Punisher
+E-mail   :punisher@trojan.neta.com
+Made     :BGbot v1.5
+***********************************************************
+Author   :Kevin Bowen    aka Lunatik
+E-mail   :kevin_bowen@juno.com
+Made     :Poison dart gun v0.6   (no longer a part of this patch)
+***********************************************************
+Author   :Robin Walker and John Cook   (Teamfortress)
+E-mail   :walker@netspace.net.au
+Made     :Sniper, AutoSniper, AutoCannon.
+***********************************************************
+Author   :Anyone I forgot
+E-mail   :Whatever
+Made     :Not Much
+***********************************************************
+Support  :Mike, Dave, Tezza, Vicky, Karen, Cheezmonkey, Superman
+          and all other cool people of the top 100 games forum
+          on compuserve, u guy's and galls were a great help.
+          (and i forgot ELVIS, arianne & (not stephanie),
+          mr.: ???tm???tm???tm , laura (in a way), the hackers.
+    cool peop.
+***********************************************************
+
+This BIG patch was put together by: Thomas Hansen
+for any comments, bug fixes, requests, or ideas send a message to
+e-mail: grimm_reap@hotmail.com
+        or if above fails try fam.hansen@pi.net (i can't guarantee anything)
+
+or, snail mail to:
+*********************
+Thomas S Hansen  /  TKi
+Ophelialaan 183
+1431HE Aalsmeer
+(The Netherlands)
+*********************
+
+Ps    :i anyone out there likes my work and wishes to see it really happening?
+       send me money, that way i can affort my internet connection, and get more
+       goodies to add and bring to you!!!!!
+pps   :please send cash only (any kind of money will do ($ preferred))
+       send it to my snail mail adress (or mail me for my bank account).
+ppps  :all i have is a pentium 133 (no mmx nor p2, uwaaa) so quake
+       won't even run that fucking good when playing on higher res.
+pppps :if u do find bugs or errors or ,,, well whatever the problem, please
+       do state what version of quake u are using and which version of this
+       patch, your operating system ( 486/586 pentium/ mHz?? mmx??? ) and
+       anything else which might be important.
+ppppps:oh yeah, please send me mail, pleeeeaase, i love getting mail.
+another ps: if u did actually read all of this text, u are a very cool person
+and should be rewarded,,, but i won't (since all information u just got is
+enough of a reward anyway. seeya.
+
+TS.
