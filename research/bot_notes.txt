@@ -2572,6 +2572,14 @@ Maniac Gunz
 	v5.3
 		https://dukeworld.com/idgames2/partial_conversions/duke17.txt
 		https://ftp.zx.net.nz/pub/archive/ftp.gamers.org/pub/idgames2/quakec/monsters/zombie11.txt
+Multi-Mode Rocket
+	extends cujo
+	Christopher Fitch
+	https://www.quaddicted.com/files/idgames2/quakec/weapons/mmrckt10.txt
+	https://www.quaddicted.com/files/idgames2/quakec/weapons/mmrckt10.zip
+	http://home.mem.net/~overlord
+		https://web.archive.org/web/19981206135506/http://home.mem.net/~overlord/
+
 
 
 

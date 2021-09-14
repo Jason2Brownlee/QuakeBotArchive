@@ -1,0 +1,189 @@
+ษออออออออออออออออออออออออออออออออป
+บ  Title    : Multi-Mode Rocket บ
+ศออออออออออออออออออออออออออออออออผ
+
+Filename : MMRCKT10.ZIP
+Version  : 1.0
+
+Date     : 3/13/97
+
+Author   : Christopher Fitch
+
+Web Page : http://home.mem.net/~overlord
+
+Email    : overlord@mem.net
+
+Credits  : Jonathon Wright(CUJO v1.4 Spawn Code)
+           Lee Murdock(homefix patch)
+           Vhold@netwizards.net for his homing missile v.001
+           ...and anyone else I forgot to mention...
+
+	   ID Software for Quake and everything related to it...!
+
+ษอออออออออออออออป
+บ  Type of Mod  บ
+ศอออออออออออออออผ
+
+Quake C  : yes
+Sound    : no
+MDL      : no
+
+*****************************************************************
+NOTE: For a list Files modified, look at the NOTES.TXT file.
+*****************************************************************
+
+ษอออออออออออออออออออออป
+บ  Format of Quake C  บ
+ศอออออออออออออออออออออผ
+
+unified diff  : no
+context diff  : no
+.qc files     : yes
+progs.dat     : yes
+QuakeC version: v1.01(v101qc)
+
+ษอออออออออออออออออออออป
+บ  Other Details      บ
+ศอออออออออออออออออออออผ
+
+Deathmatch      : yes!!!
+
+Single Player   : yes - (Beware: Can behave erratically...)
+
+Coop            : Assume yes - never tested, but should work...
+
+Server-Side Only: yes...
+
+
+ษอออออออออออออออออออออออออออออออออออป
+บ  Description of the Modification  บ
+ศอออออออออออออออออออออออออออออออออออผ
+
+Mod changes the regular Rocket Launcher to fire in multiple modes.
+These modes include:
+	1)	Rocket Mode(regular Quake Rockets)
+	2)	Homing Mode(Similar to Vhold Homing missiles)
+	3)	Pod Mode(Fires three Regular Rockets in a spread)
+	4)	Homing Pod Mode(Fires three Homing Rockets in a spread)
+	5)	Dog Launcher Mode?!?!?!(thats right...Dog)
+			(Fires a reduced-damage rocket which on explosion spawns a 
+			 regular Quake Dog)
+	6)	Homing Dog Launcher Mode?!?!?!(thats right...Homing Dog)
+			(Fires a reduced-damage homing rocket which on explosion spawns a 
+			 regular Quake Dog. Does NOT home on dogs.)
+
+
+ษอออออออออออออออออออออออออออป
+บ  How to use Modification  บ
+ศอออออออออออออออออออออออออออผ
+
+Two methods:
+	1)	Create an extra directory under \quake and copy the progs.dat
+		file there. Run quake with the -game parameter and the directory
+		just created.
+
+	2)	Modify the QuakeC source code and compile, creating a new
+		progs.dat.
+
+Game Usage:
+	I added no special impulses. Use is simple.	
+	1) Get the Rocket Launcher.
+	2) Rocket Launcher defaults to Rocket Mode.
+	3) Press 7 key repeatedly to cycle through modes.
+	4) Fire after desired mode is chosen.
+	5) Enjoy the results.
+
+Ammo requirements:
+	1) Rocket Mode 		- 1 Rocket
+	2) Homing Mode 		- 2 Rockets
+	3) Pod Mode 		- 3 Rockets
+	4) Homing Pod Mode 	- 8 Rockets
+	5) Dog Mode 		- 2 Rockets
+	6) Homing Dog Mode 	- 4 Rockets
+
+Play Notes:
+	1) Be careful when firing DOG MISSILES. The dogs usually will attack the
+	nearest target(Hopefully your target). If they don't find a target,
+	they will wander around until finding one. They WILL attack you. These dogs
+	are not much different than the regular Quake dogs.
+	2) The DOG modes are more for fun.
+	3) POD mode packs a huge punch.
+	4) HOMING mode can be powerful but Homing missiles can be avoided by a
+	good player.
+	5) HOMING POD mode is devastating. That's why it costs 8 rockets. The
+	target is sometimes destroyed by 1 or 2 missiles. The remaining missile(s) then
+	home on another target if available.
+
+
+ษอออออออออออออออออออออป
+บ  Technical Details  บ
+ศอออออออออออออออออออออผ
+
+NOTES:
+	1) Sometimes dogs will not spawn. This is because the DogSpawnCheck function
+	(CUJO Spawn Check) indicated there was no position for the dog to safely spawn.
+	2) HOMING DOG MISSILES will NOT home on other dogs.  This is by design. 
+	I found in testing that the HOMING DOG MISSILES will invariably choose the
+	Dogs as targets and home in on them and destroy them.
+	3) 1 above is interesting since it adds in a reliability factor into missiles...
+	ie. sometimes weapons don't always work quite right, like in real life.
+	4) The dogs have 40 points health as opposed to the default of 25 points.
+	5) The dogs are about half the size of the regular dogs.
+	
+
+KNOWN Bugs:(Will I fix these...? Don't know... kind of like them.)
+	1) When firing DOG MISSILES, sometimes the Spawned Dog will appear
+	in the target. No other effects that I can tell.
+	2) When firing HOMING DOG MISSILES, sometimes the Spawned Dog will appear
+	in the target. No other effects that I can tell.
+	3) 1 and 2 above result from the DogSpawnCheck function	(CUJO Spawn Check) 
+	which sometimes reports back a bad position. The code is fine for CUJO but
+	not always for the missiles which can be in any position unlike a player.
+	4) Sometimes when firing DOG MISSILES, the rocket targets the spot where
+	the last missile impacted. Don't really understand this one.
+
+Future Revisions:
+	1) May change the Cost of firing rockets for certain modes; ie.
+	HOMING,POD,HOMING POD.
+	2) Anything else I can think of...
+
+
+ษออออออออออออออออออออป
+บ  Version Info      บ
+ศออออออออออออออออออออผ
+
+Version 1.0
+
+	--First one... no info--
+
+ษออออออออออออออออออออออออออออออออออออออออออป
+บ  Copyright and Distribution Permissions  บ
+ศออออออออออออออออออออออออออออออออออออออออออผ
+
+I liked Jonathon Wright's CUJO Bot Distribution policy so I
+repeated it here...
+
+Authors MAY use these modifications as a basis for other publically
+available, not-for-profit work, provided they inform the author of any
+modifications which are made.
+
+You may distribute this Quake modification in any electronic
+format as long as this description file remains intact and unmodified,
+is retained along with all of the files in the archive and the
+author's name and email address are never removed from the code and
+message of the day (MOTD), despite other modifications which might be made.
+
+The above permissions do not apply to Actura Software, who may not do
+anything, in any form, in any way, by any means with these files,
+including, but not limited to, sale and redistribution of the software.
+
+If anyone else would like to include this modification in a collection
+of Quake modifications, whether for sale or otherwise, you must contact me
+and let me know about it.
+
+Pretty much "do what thou wilt" as long as proper credit is given and it isn't for money.
+If it is, ask me first.
+
+C-ya!
+	Christopher Fitch
+	overlord@mem.net

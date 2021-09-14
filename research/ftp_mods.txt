@@ -214,10 +214,10 @@ https://www.quaddicted.com/files/idgames2/quakec/weapons/maniac57.txt
 	Contains "bgbot": 3:make cujo cooperate with bgbot, in single player game
 	Contains "cujo": 3:make cujo cooperate with bgbot, in single player game
 	Contains "bot[s,\.\s]": 3:make cujo cooperate with bgbot, in single player game
-
 https://www.quaddicted.com/files/idgames2/quakec/weapons/mmrckt10.txt
 	Contains "cujo": credits  : jonathon wright(cujo v1.4 spawn code)
 	Contains "bot[s,\.\s]": i liked jonathon wright's cujo bot distribution policy so i
+
 https://www.quaddicted.com/files/idgames2/quakec/weapons/pistol13.txt
 	Contains "bot[s,\.\s]": author info             : made bot hunt 1.0, ate a lot of food, likes
 https://www.quaddicted.com/files/idgames2/quakec/weapons/plasma10.txt
