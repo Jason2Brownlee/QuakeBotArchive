@@ -2579,7 +2579,16 @@ Multi-Mode Rocket
 	https://www.quaddicted.com/files/idgames2/quakec/weapons/mmrckt10.zip
 	http://home.mem.net/~overlord
 		https://web.archive.org/web/19981206135506/http://home.mem.net/~overlord/
-
+Seeker Falcon
+	helper bot
+	https://www.quaddicted.com/files/idgames2/quakec/weapons/sfalc11.txt
+	https://www.quaddicted.com/files/idgames2/quakec/weapons/sfalc11.zip
+	Nick Bousman aka "SiNGE", Glenn Saaiman aka "Griphis"
+	http://urbanite.com/web/singe/quake/qfiles.html
+		http://urbanite.com/web/singe/singe.html
+		not archived
+	v1.0
+		sfalc10.zip ?
 
 
 

@@ -1,0 +1,95 @@
+
+Title    : Seeker Falcon
+Filename : sfalc11.zip
+Version  : 1.1
+Date     : 6-26-96
+Author   : Nick "SiNGE" Bousman, Glenn "Griphis" Saaiman
+Email    : singe@ix.netcom.com, griphis@ix.netcom.com
+
+
+ Type of Mod
+ ------------
+ Quake C  : yes
+ Sound    : yes
+ MDL      : yes
+ Level    : no
+
+
+ Format of Mod
+ --------------
+ PAK file
+
+
+ Forenote:
+ ----------
+    Another weapon in the Singe 'n Griphis summer of mayhem. }:> Like the
+ Proton Storm, this weapon was also derived from Ranger X, a great old
+ Genesis game.
+
+
+ Description:
+ -------------
+    You have your own little robotic falcon helper. Send him off and watch
+ him attack every enemy in sight.
+
+
+ Helpful Instructions:
+ ----------------------
+  - You get the Seeker Falcon when you get your second Lightning Gun
+  - Uses 10 cells (or all cells if you have less than 10) per launch,
+     and uses one cell for each of its attacks. You get all cells it didn't
+     use when it comes back. If it had to teleport back, you don't get the
+     cells.
+  - You can't switch weapons while the Seeker Falcon is out, but if you press
+     the fire button, it will do its best to come back to you.
+
+
+ Known Bugs:
+ ------------
+  - Some trigger ents make it fly sideways.
+
+
+ Planned Stuff:
+ ---------------
+  - Better sounds. More sounds. We used too many stock Quake sounds.
+  - I think there's even more.
+
+
+ Versions:
+ ----------
+  1.1 - Doesn't stick in floors anymore. :)
+        Smaller kbyte skin
+
+  1.0 - First version!
+
+
+ Misc:
+ ------
+ Check out Singe's page 'o patches at:
+
+ http://urbanite.com/web/singe/quake/qfiles.html
+
+ Singe is also the author of Rune Hunt, Artifact Quake, and the probably
+ never-to-be completed QTank.
+
+ Check out Griphis' page 'o Quake stuff, once he's ready to tell you where
+ it is!
+
+
+ Copyright and Distribution Permissions
+ ---------------------------------------
+ Authors may NOT use these modifications as a basis for other
+ publically available work. Unless they ask me first. Hehe };> 
+
+ You may distribute this Quake modification in any electronic
+ format, provided it goes unmodified and includes all files found in
+ the ZIP. You can only add it to a CD-Rom collection if you get permission
+ from the author (me) first.
+
+ Actura Software may not do anything with this mod.
+
+
+ Availability:
+ --------------
+ http://urbanite.com/web/singe/quake/qfiles.html
+ http://www.planetquake.com (ONCE it's reviewed by the QCA guys.)

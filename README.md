@@ -155,7 +155,7 @@ MegaBot | "Vic" | [megabot.zip](bin/megabot.zip)
 Midair Bots | Benjamin Darling aka "Electro" and "Vomit" | [midair_qwbot.rar](bin/midair_qwbot.rar)<br>[midairbots_all.zip](bin/midairbots_all.zip)<br>[midairbots.zip](bin/midairbots.zip)
 Mod Pak 1 FMOD (Frogbot) | "Neophyte" | mpak1v12.zip
 Motd FMOD (Frogbot) | Algirdas Kepezinskas aka "ZeCybEr" | motd.zip
-Multi-Mode Rocket (Cujo) | Christopher Fitch | [mmrckt10.zip](bin/mmrckt10.zip) [[txt](bin/mmrckt10.txt)]
+Multi-Mode Rocket (Cujo) | Christopher Fitch | [mmrckt10.zip](bin/mmrckt10.zip) ([txt](bin/mmrckt10.txt))
 MyBot | Stephen Vanterpool | [mybot16.zip](bin/mybot16.zip) ([txt](bin/mybot16.txt))<br>[mybot13a.zip](bin/mybot13a.zip) ([txt](bin/mybot13a.txt))<br>[mybot12.zip](bin/mybot12.zip) ([txt](bin/mybot12.txt))<br>[mybot11.zip](bin/mybot11.zip) ([txt](bin/mybot11.txt))<br>[mybot.zip](bin/mybot.zip) ([txt](bin/mybot.txt))
 Navy SEALs (Squad Bots) | William van der Sterren | [nseal201.zip](bin/nseal201.zip)<br>sqdbt201.zip
 ObotArena (Amiga) (Omicron) | Christian Michael aka "surgeon" | [obotarena.lha](bin/obotarena.lha)
@@ -190,6 +190,7 @@ Roam Bot | Carson Sutton aka "Crimson" | [roambot1.zip](bin/roambot1.zip) ([txt]
 Rogue Bot | Benjamin Darling aka "Electro" | [rbot.zip](bin/rbot.zip)
 SAM-FraG (BGBot) | "SpiderMonkie" | [sam-fragv001a.zip](bin/sam-fragv001a.zip) ([txt](bin/sam-fragv001a.txt))
 SamBot | Sam Stephens aka "Spam-man" | [sambot.zip](bin/sambot.zip) ([txt](bin/sambot.txt))
+Seeker Falcon | Nick Bousman aka "SiNGE", Glenn Saaiman aka "Griphis" | [sfalc11.zip](bin/sfalc11.zip) ([txt](bin/sfalc11.txt))
 Sigmund Bot | Rich Whitehouse aka "thefatal" | [sigbot2.zip](bin/sigbot2.zip)<br>[sigbtsrc.zip](bin/sigbtsrc.zip)<br>[sigbot1.zip](bin/sigbot1.zip)
 Square Bot | Ashley Reynolds aka "Ze0" | [square01a.zip](bin/square01a.zip)<br>squaretst.zip
 Squirt Bot | Michael Buettner aka "Squirt" | [squirt13.zip](bin/squirt13.zip)<br>sq12to13.zip<br>squirt12b.zip<br>[squirt12.zip](bin/squirt12.zip)<br>[squirt11.zip](bin/squirt11.zip)<br>squirt10.zip

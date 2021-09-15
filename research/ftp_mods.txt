@@ -217,7 +217,6 @@ https://www.quaddicted.com/files/idgames2/quakec/weapons/maniac57.txt
 https://www.quaddicted.com/files/idgames2/quakec/weapons/mmrckt10.txt
 	Contains "cujo": credits  : jonathon wright(cujo v1.4 spawn code)
 	Contains "bot[s,\.\s]": i liked jonathon wright's cujo bot distribution policy so i
-
 https://www.quaddicted.com/files/idgames2/quakec/weapons/pistol13.txt
 	Contains "bot[s,\.\s]": author info             : made bot hunt 1.0, ate a lot of food, likes
 https://www.quaddicted.com/files/idgames2/quakec/weapons/plasma10.txt
@@ -236,6 +235,7 @@ https://www.quaddicted.com/files/idgames2/quakec/weapons/qdme11.txt
 	Contains "bot[s,\.\s]":            to the author of qbot v1.1 (the best quake computer opponent out
 https://www.quaddicted.com/files/idgames2/quakec/weapons/sfalc11.txt
 	Contains "robot":     you have your own little robotic falcon helper. send him off and watch
+
 https://www.quaddicted.com/files/idgames2/quakec/weapons/ultimate.txt
 	Contains "bot[s,\.\s]": -a bot for deathmatch
 https://www.quaddicted.com/files/idgames2/quakec/weapons/xtrawp19.txt
