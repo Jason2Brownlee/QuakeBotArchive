@@ -1,0 +1,330 @@
+Title    : Rumble 2: GuardBot's Challenge
+Filename : Rumble2.Zip
+Version  : 5.1 ALPHA
+Date     : 98/12/04
+Author   : Peter van Wingerden
+Email    : peter.van.wingerden@tip
+	     Please DO NOT use my old E-mail address ("petervw@worldaccess.nl")
+	     since I the address no longer exists !
+Credits  : Sam Shockey (shockesj@concentric.net) (original "decoyz").
+	     Rob Albin (albinatr@apci.net) ("Hook" patch).
+	     Perecli Manole (Perecli@ix.netcom.com) ("Hook" patch).
+	     Micheal&Tim Polucha (TMBOT-mpolucha@earthlink.net) (original botcode).
+	     Jonathan E. Wright (nelno@interpath.com) (code from "Zeus").
+	     Nezu the Unworthy (100625.2622@compuserve.com) (code from "Camera").
+	     NiKoDeMoS for the gravity cheat.
+		
+
+	     And, of course, Roscoe A. Sincero (legion@keg.zymurgy.org) for
+	     the new bot movement code !
+
+	     Several others I forget to mention from whom I "borrowed" ideas (but
+	     no code).
+
+
+Type of Mod
+-----------
+Quake C  : yes
+Sound    : yes
+MDL      : yes
+
+
+Format of QuakeC (if a Quake C Mod)
+-----------------------------------
+unified diff  : no
+context diff  : no
+.qc files     : no	
+progs.dat     : yes	
+
+
+Description of the Modification
+-------------------------------
+0)	First of all, this is a modification of the Guardbot, solely giving the 
+enemy AI a much better fighting intelligence, rather than the crap ID programmed into it.
+The WASD movement config is already coded into the PAK0.PAK file, so if ya want anything
+else, just crack open the file and go to guard.rc. That's where all the auto-bindings are.
+This MOD also features chasecam, which make the game wayy more interesting, considering
+you can now see AROUND your guy, rather than through his eyes. That's about it.
+---> Arwing-X
+
+1)	The Guard Bot:
+
+The Guard Bot is the most elaborate enhancement of this patch. The Guard Bot 
+is intended to be an all-round bodyguard: it will follow you wherever you 
+go, and it will seek and destroy monsters. For this purpose it is equipped 
+with two different weapons: the Nailgun for ordinary attacks and the 
+Missile Launcher for dealing with zombies and spawns.
+
+- It will attack any monster it sees, except for Shub-Niggurath (which isn't a
+real monster anyway).
+
+- It can use health boxes, ammo (nails and rockets), weapons (launchers and 
+nailguns) and several power-ups to its own advantage. It will not pick these up
+if you need them more than it does, however.
+
+- It will shoot triggers if it can find them; it will activate buttons if it can
+find them; it will open doors for you if it can.
+
+- It will usually try to follow you around: if you are too high, it will teleport
+to your position; if you are too low, it will jump after you; however, you can
+instruct guards to roam on their own instead of following you.
+
+- You can see through a guard's eyes to see what it sees.
+
+- A guard can be removed at any time.
+
+- You can ask for it's status at any time (i.e., health, armour, ammo, distance
+from you, and whether they are paused/active and following/roaming).
+
+- A guard can be paused to stop it in it's tracks.
+
+- It can be teleported to you straight away at your command.
+
+- If you go to the next level any existing guards will be respawned near you
+after a short delay.
+
+- You can put a Guard into "berserker" mode; in this mode, it will do damage
+as if it had picked up a Quad damage. Be warned though; it's health will
+decrease 10 points per second, until it either dies or berserker mode is
+turned off.
+
+- Guards cannot drown, and they cannot be hurt by slime. Lava will do damage,
+however.
+
+- Guards cannot hurt guards, you cannot hurt them (except when a missile or 
+grenade explodes near it); they cannot hurt you. Beware though: a guards' 
+missile may hurt you if it explodes in your vicinity: so keep out if a 
+guard's way if it is targetting spawns or zombies.
+
+- And: if you go into God mode, so do your guards.
+
+
+To avoid slowing down the game too much (on slower machines: mine's a Pentium
+200 nowadays <g>) there is a built-in limit of three Guard Bots for any level.
+
+Apart from which, there is:
+
+2)	General changes:
+
+a)	Monsters will attack each other if provoked, even if they're the same class.
+b)	Crucified zombies can be gibbed.
+c)	The head of a gibbed monster will turn into a zombie (only once).
+d)	Gibs can be touched, but will hurt at higher skill levels.
+e)	At higher skill levels a gib will sometimes turn into a spawn.
+f)	Heads can be kicked around, and will explode if you shoot at them.
+g)	Monsters can be shoved around: push them off edges etc.
+h)	Monsters reel back if hit by a rocket.
+i)	At the end of the final level the game can be restarted.
+j)	Chthon can be killed just like any "real" monster.
+
+3)	Cheats:
+
+a)	Cheats for Bio Suit, Quad Damage, Pentagram of Protection, Ring of 
+	Shadows; these work as toggles, i.e., they last until they're turned off.
+b)	Cheats for all weapons & extra ammo.
+c)	Cheat for armour (all classes).
+d)	Cheat for both keys (silver and gold), works as a toggle.
+e)	Cheat for extra health: adds 200 points to your health (999 maximum).
+f)	Improved Runecheat (this one really works -- i.e. you get a rune every 
+	time you use the cheat).
+g)	Gravity cheat: toggle your own gravity between normal (800) and low (100,
+	like 	in "Ziggurat Vertigo"). Useful for making big leaps.
+
+4)	Extra weapons:
+
+Some weapons have a "double" (or even "triple") that can be selected by 
+pressing the appropriate key again:
+
+a)	Teleport Axe: transports the victim to another position within the 
+	level (1).
+b)	Proximity Mines Launcher: proximity mines explode if a monster comes 
+	within range. It releases an electric discharge when in water (6).
+c)	Lavaball Launcher: launches a lavaball launcher which fires... well, 
+	lavaballs ! They explode like rockets on impact (6).
+d)	Homing Missile: this one finds it's own victims (7).
+e)	Freezer Laser: freezes your enemy. Beware though, he'll explode if you 
+	touch him (8).
+f)	Ripper: rips enemies apart with a lightning flash at 25 cells per 
+	blast (8).
+
+Both Proximity Mines and Lavaball Launchers can be picked up again if no longer
+needed. They will increase your rocket count.
+
+5)	Extra's:
+
+a)	Light toggle: when activated, you emanate a very bright light. Useful 
+	for those very dark corners.
+b)	Radar function: reports the four monsters nearest to you, and their 
+	health levels.
+c)	Toggle the weapon view: if you want the complete picture.
+d)	View the level from the "intermission" spots, from the "deathmatch 
+	start" spots or from the "teleport destination" spots: get a camera 
+	viewspot from certain (fixed) points within the level. Most levels have
+	at least one "intermission" spot and usually several of the others.
+e)	Home teleport: teleports you to your starting position within the game 
+	(well, most of the time anyway).
+f)	Observer Mode: transfers the viewpoint to a camera which can be moved 
+	around freely in the level.
+g)	Teleport Marker: to mark a (safe) spot which you can return to at the 
+	press of a key.
+
+6)	The Hook
+
+a)	You can use a grappling hook to attach yourself to any surface, then go
+	up or down (or swing like Tarzan !). Release it to come down to earth
+	again.
+
+
+How to Install the Modification
+-------------------------------
+
+Simply use any unzipper to install this patch. Unzip in the directory of 
+your choice (e.g., "C:\Games\Quake\GuardBot"), then start Quake with the "-
+game" parameter: "Quake -game <dir>", where <dir> is the directory where you 
+placed the patch. The "pak0.pak" file contains all files needed to play the 
+patch; the "keys.txt" file describes which key does what.
+
+If you don't want to use the default key bindings (as executed by "guards.cfg"),
+make an "autoexec.cfg" containing the bindings you want; this file will always
+be loaded after "guards.cfg", if present.
+
+
+Technical Details
+-----------------
+
+Bugs: sometimes the GuardBot may get stuck, usually after teleporting or 
+spawning. Also, although it uses better movement code than before,
+and even though it uses a rather crude waypoint system, it can and will :-(
+get lost. Or stuck. The only way to deal with this is to remove the Bot or
+teleport it to your own position.
+And: if you look through a guard's eyes, you will not always see the things 
+he is supposed to see (i.e. they remain invisible); this is a technical 
+feature of Quake (entities aren't drawn until a client -- i.e. a player -- 
+actually sees them), not a bug.
+
+If you find any bugs: please E-mail ! I appreciate all feedback.
+
+
+Author Information
+------------------
+
+I can be reached through E-mail at the address above. As I said, I do
+appreciate some feedback.
+
+
+Copyright and Distribution Permissions
+--------------------------------------
+
+Authors MAY use parts of these modifications as a basis for other publically
+or commercially available work. Please contact the author first.
+
+You may distribute this Quake modification in any electronic format as long 
+as this description file remains intact and unmodified and is retained along 
+with all of the files in the archive.
+
+
+Availability
+------------
+
+This modification is available from the following places:
+
+FTP   : ftp.cdrom.com, in the pub/idgames2/quakec/bots subdirectory.
+WWW   : ?
+BBS   : ?
+Other : from me, through E-mail.
+
+
+Changes
+-------
+
+Version 1.0:
+
+First public release, uploaded to ftp.stomped.com. Not accepted though. 
+Shame.
+
+Version 1.1:
+
+Bug fixes, monsters will wake up if a guard is near, guard can jump out of 
+water, guards respawn at next level, guards shoot triggers, final level 
+doesn't freeze the game, enforcer laser replaced by freezer laser, push 
+monsters around, etc. etc. Uploaded 97/3/8 to ftp.cdrom.com.
+
+Version 1.2:
+
+Bug fixes, observer mode added, keys cheat refined, runecheat added, 
+lavaball launcher changed, files packed into pak0.pak, guard uses rocket 
+frames when firing vore missile, guard can be gibbed, guard uses own models 
+& skins, changed use of teleport marker, added hellhound, changed  most of 
+the extra weapons, guard teleports randomly when roaming, extended guard 
+status report.
+
+Version 1.3:
+
+Bug fixes. Uploaded 97/5/10 to ftp.cdrom.com.
+
+Version 1.4:
+
+Bug fixes, slightly improved guard ai, improved guard control & guard 
+messages, guards can no longer be gibbed (makes no sense to gib a bot !),
+Chthon can be killed like a regular monster, limited guards' ammo, guards
+will do a Kamikaze attack if out of ammo.
+
+Version 1.5:
+
+Removed guard launcher, guard can no longer be detonated by owner, added
+use of Hook, removed hellhound, improved gravity cheat, bug fixes, added
+guards' ability to activate buttons.
+
+Version 1.6:
+
+Bug fixes, slightly improved guard ai, added several weaponmodels.
+Uploaded 97/8/2 to ftp.cdrom.com.
+
+Version 1.7:
+
+Bug fixes, added observer model, added discharge to proxy mine when launched
+into water.
+
+Version 2.0:
+
+Major change: used (most of) Roscoe A. Sincero's bot movement code for guard
+movement. A vast improvement on id's movement routines !
+
+Removed guards' armour at start, added death frames, when guard dies its'
+corpse doesn't disappear, changed Super Nailgun into ordinary Nailgun, changed
+Vore Missile into ordinary Missile Launcher (missiles will still home in on
+enemies though), guards can open doors.
+
+Sent to Roscoe A. Sincero for reviewing purposes; uploaded by him to ftp.cdrom.
+com. Removed at my request by Joost Schuur, since I felt this version just
+wasn't ready yet. Hence:
+
+Version 2.1:
+
+(Still a bit of a beta, not quite bugfree).
+
+Added a crude form of dynamic waypoint spawning and following. Usually, if a
+level is not too complex, and the bot not too far away or too far ahead, it will
+work, but sometimes... ah, well....
+
+Also several bug fixes and a minor change of skins.
+Uploaded 97/20/9 to ftp.cdrom.com.
+
+Version 2.1b
+
+Fixed some major waypoint following bugs. Still not quite what it should be.
+
+Version 2.2
+
+Bug fixes. Minor improvements. Added "berserker" mode. Removed bots will be
+respawned if new bot created. Imposed stricter bot use: no more than three per
+level ! Player now uses the same type of homing missile as the bots.
+
+Version 2.3
+
+The shaky waypoint system can be turned off by setting the "temp1" variable to
+any value (use the console for this).
+
+Version 2.3b
+
+Fixed some bugs. Waypoint system still smells funny, though.

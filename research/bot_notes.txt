@@ -2561,6 +2561,8 @@ Maniac Gunz
 	v5.7
 		https://www.quaddicted.com/files/idgames2/quakec/weapons/maniac57.txt
 		https://www.quaddicted.com/files/idgames2/quakec/weapons/maniac57.zip
+	v5.6
+		https://www.quaddicted.com/files/idgames2/quakec/monsters/dogfun20.txt
 	v5.5
 		https://www.gamers.org/pub/idgames2/quakec/monsters/maniac55.zip
 	v5.4
@@ -2589,6 +2591,14 @@ Seeker Falcon
 		not archived
 	v1.0
 		sfalc10.zip ?
+Rumble 2: GuardBot's Challenge
+	https://www.quaddicted.com/files/idgames2/quakec/monsters/rumble2.txt
+	https://www.quaddicted.com/files/idgames2/quakec/monsters/rumble2.zip
+	many prior versions...
+	based on guard bot
+	related to rumble and rumble1? perhaps not
+
+
 
 
 
