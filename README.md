@@ -188,7 +188,7 @@ Ric's Reaper Bots | "Ric" | [reap081h.zip](bin/reap081h.zip)
 Rise of the Baron (Cujo) | Jason Avery | [baron.zip](bin/baron.zip) ([txt](bin/baron.txt))
 Roam Bot | Carson Sutton aka "Crimson" | [roambot1.zip](bin/roambot1.zip) ([txt](bin/roambot1.txt))
 Rogue Bot | Benjamin Darling aka "Electro" | [rbot.zip](bin/rbot.zip)
-Rumble 2: GuardBot's Challenge | Peter van Wingerden | [rumble2.zip](bin/rumble2.zip) ([txt](bin/rumble2.txt))
+Rumble 2: GuardBot's Challenge | Christopher Dozier "Arwing-X" | [rumble2.zip](bin/rumble2.zip) ([txt](bin/rumble2.txt))
 SAM-FraG (BGBot) | "SpiderMonkie" | [sam-fragv001a.zip](bin/sam-fragv001a.zip) ([txt](bin/sam-fragv001a.txt))
 SamBot | Sam Stephens aka "Spam-man" | [sambot.zip](bin/sambot.zip) ([txt](bin/sambot.txt))
 Seeker Falcon | Nick Bousman aka "SiNGE", Glenn Saaiman aka "Griphis" | [sfalc11.zip](bin/sfalc11.zip) ([txt](bin/sfalc11.txt))
@@ -234,6 +234,7 @@ WLBot | Kualker Koisa aka "Matador" | [wlbot21.7z](bin/wlbot21.7z)<br>wlbot1.9.z
 XKteams (Frikbot) | Mark | xkteams2.zip<br>xkteams1705.zip<br>xkteams1705s.zip
 Xreaper | Ruud Heemskerk aka "Mephisto" | [xreaperb130.zip](bin/xreaperb130.zip)<br>[xreaperb130_unoff.zip](bin/xreaperb130_unoff.zip)
 Zeus Bot | Jonathan E. Wright aka "Nelno the Amoeba" | [zeus205s.zip](bin/zeus205s.zip) ([txt](bin/zeus205s.txt))<br>[zeus205.zip](bin/zeus205.zip) ([txt](bin/zeus205.txt))<br>[zeus_src.zip](bin/zeus_src.zip) ([txt](bin/zeus_src.txt))<br>[zeus2042.zip](bin/zeus2042.zip)<br>zeus2041.zip<br>[zeus204.zip](bin/zeus204.zip)<br>[zeus203b.zip](bin/zeus203b.zip) ([txt](bin/zeus203b.txt))<br>zeus202b.zip ([txt](bin/zeus202b.txt))<br>zeus201.zip<br>zeus20.zip<br>[zeus10.zip](bin/zeus10.zip) ([txt](bin/zeus10.txt))
+Zeus Hunt (Rumble) | Christopher Dozier "Arwing-X" | [rumble1.zip](bin/rumble1.zip) ([txt](bin/rumble1.txt))<br>[rumble.zip](bin/rumble.zip) ([txt](bin/rumble.txt))<br>[ogrehunt98.zip](bin/ogrehunt98.zip) ([txt](ogrehunt98.txt))
 
 File Column:
 - **no link** Indicates I discovered the filename but could not find a copy of the file to archive.

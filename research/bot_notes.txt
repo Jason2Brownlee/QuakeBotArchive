@@ -2597,6 +2597,25 @@ Rumble 2: GuardBot's Challenge
 	many prior versions...
 	based on guard bot
 	related to rumble and rumble1? perhaps not
+	perhaps by Arwing-X not the author of the guard bot?
+		Arwing-X
+		Christopher Dozier "Arwing-X"
+Zeus Hunt
+	This is confusing!
+	related to rumble 2
+	must be by same author
+		Christopher Dozier "Arwing-X"
+	TheHUNT '98 Single Player MOD    Version 5.1Z:Zeus Hunt
+		https://www.quaddicted.com/files/idgames2/quakec/monsters/rumble.txt
+		https://www.quaddicted.com/files/idgames2/quakec/monsters/rumble.zip
+	TheHUNT '98 COOP MOD    Version 5.1Z:Zeus Hunt
+		https://www.quaddicted.com/files/idgames2/quakec/monsters/rumble1.txt
+		https://www.quaddicted.com/files/idgames2/quakec/monsters/rumble1.zip
+	EnforcerX's TheHUNT '98 Single Player MOD    Version 5.7Z
+		no bot in this one?
+		https://www.quaddicted.com/files/idgames2/quakec/monsters/ogrehunt98.txt
+		https://www.quaddicted.com/files/idgames2/quakec/monsters/ogrehunt98.zip
+
 
 
 

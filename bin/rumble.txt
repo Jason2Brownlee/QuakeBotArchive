@@ -1,0 +1,53 @@
+TheHUNT '98 Single Player MOD    Version 5.1Z:Zeus Hunt
+Pre 3.9 Remarks
+I'm sorry, but although these versions were all private playtests among my friends and I, they
+forced me to take a step back to make it these two steps forward. Before 4.0, I had four major project failures, which rendered the *.QC source unworkable and the progs.dat files undecompilable. There was one thing that I can say wasn't worth losing in these failures; monster hyper mode. It was a function that gave a monster faster and more accurate reactions to their enemy as their health dropped lower and lower. Now however, I think that's a bunch o crap, comparing the the remaining 3.5 demos to those I've already made with 3.9 and 4.0.
+
+3.9 Remarks
+After two years of cogitating what and how to promote this idea of complete havoc upon the
+Quake monster AI, I have finally personified it in its true form. TheHUNT '98 is a 
+special MOD under my design which gives the player a competitive experience against the CPU.
+The AI is now top notch with such features as multiweapon grunts, REALLY fast monsters that can catch up with the player and straif VERY well when confronted with danger, team AI monsters that will do anything to protect you and stay by your side, and new abilities for the CPU such as smart aiming for all weapons affected by gravity and the inclusion of smart fiend jumping. I'm not gonna leave the team AI any time to rest in this overview. When fiends are on your team, they can be inspirational, annoying, helping, or just downright stupid. When there are a LOT of fiends on your team, BE CAREFUL!!!! Always let em catch up with ya, but DO NOT let them keep any reasonable targeting distance or else they'll jump to catch up and end up mashing you. When fiends pick fights with each other, don't even bother trying to shoot them to make em stop. Just go ahead and try and complete as much of the level as you can without em. Well... its your decision. This MOD works VERY well in DM, allowing monster-morph, ricochetting nails, and army monsters to join with you against all odds. Whenever you recieve attacker damage, all of your beasts home in on the fool that hurt you. When you die, your beasts convert to "friend" form, becoming lost souls that roam aound for a new moaster. Hey...what can I say? Its a dog-eat-dog world. That's why I never so much as spawn a dog in deathmatch. How would you like it if your fiend army turned against you? Well....that should be enough to say....
+
+4.0 Remarks:
+Well....what can I say? This MOD is pretty cool in the aspect that your enemy is actually smart now. Not only have I eliminated all of the bugs; including the game-crashing suicide and water-death bugs; but I have also added in a more dependable monster for the player to lead... the wizard(Not the damn fiend!That hyper S.O.B.!)). Not only is the wizard now the fastest and most agile monster in Quake; he's now on your side if you choose him via the monster spawn command(see below). There's something wrong however with the wizard's code now. Sometimes in battle, when he's facing other monsters, he'll straif, flee for cover, and successfully fight like a madman. At other times, he sits in one spot and just mows em down while they straif. Somehow, I feel that I'm being cheated. I mean....wizards straif and take cover REALLY good against players, but they just don't fight monsters as efficiently as they should.
+
+4.3A Remarks:
+I added the Snakeman to your side for the best pinpoint shooting available. I also added the Snakeman, Enforcer, and Tarbaby(COOL!) morphs, the best things that could happen to this MOD. Stay tuned for the tarbaby morph in the next version! Jumpaliacious!
+
+4.5A Remarks:
+Ok....its been a while sonce my last version. Ever wished you could barricade your favorite weapon? Want to make a defensive perimeter for where ever you decide to camp? Then this MOD's for you! In Barricade, instead of spawning monsters that follow yo around and get in the way, you spwan tarbabies that hardly move at all. Block off teleport spots so your opponents get smashed when they spawn in, make walls to protect yourself when camping, the imagination is the limit! USE ONLY IN MULTIPLAYER! In SP, the blobs are just downright annoying.
+
+4.6A Remarks:
+This is the second coolest hybrid of TheHunt. First you have the two new monster-morph weapons, the enforcer hyper RL and the Scrag's barf which can both be DEVASTATING. Next, you have a slew of team gunsman at your side.....talk about gib-aliscious.
+
+4.9B Remarks:
+Oh my lord! The AI is finshed!!!!! But behold! NEW WEAPONS and ONE more version to go!!!!
+
+5.0Z Remarks:
+Oh my lord! This is the most addictive coop MOD I ever made!!!!!!!!
+
+5.1Z: The Final Unleashal
+HAHAHHAHAHAHAHAH!!!! It's done!
+Here are the bound keys:
+Q-Zeus Bot
+W-Destroy Bot
+e-Teleport Last Bot
+r-Rome Mode Toggle
+s-YCam
+
+Mouse User's Config(use +mlook)
+Y-forward
+H-Back
+G-Straif Left
+J-Straif Right
+Mouse1-Fire
+Mouse2-Jump
+
+A list of the codes that I used:
+-Cranked
+-Inside 3d and Minion AI tutorials for enemies
+
+Next Version:4.0 public proposals
+-Any bot I can sneak into the final product.
+-Arrrrrgh! I forgot to remove this section....oh well. The bots didn't do too well anyway against smart monsters. Jeez....what a slaugter. You see your favorite Zeus bot running down the hall to get the RL and WHAM! 5 monsters jump the sucker and shread him like paper....pitiful....Jonathan would cry like a baby if he heard this.
