@@ -2611,10 +2611,6 @@ Zeus Hunt
 	TheHUNT '98 COOP MOD    Version 5.1Z:Zeus Hunt
 		https://www.quaddicted.com/files/idgames2/quakec/monsters/rumble1.txt
 		https://www.quaddicted.com/files/idgames2/quakec/monsters/rumble1.zip
-	EnforcerX's TheHUNT '98 Single Player MOD    Version 5.7Z
-		no bot in this one?
-		https://www.quaddicted.com/files/idgames2/quakec/monsters/ogrehunt98.txt
-		https://www.quaddicted.com/files/idgames2/quakec/monsters/ogrehunt98.zip
 
 
 
