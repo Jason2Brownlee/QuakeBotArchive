@@ -16,11 +16,6 @@ Future VS Fantasy / FvF Bot
 	https://web.archive.org/web/20100123221300/http://members.xoom.com/fvfbot/
 	do we bother adding this?...
 	???
-Ninja Quake Bot
-	https://web.archive.org/web/20000817070547/http://www.inside3d.com/frikbot/
-	http://matrix.crosswinds.net/~tsturm/
-	Frikbot added to a mod, I think?
-	???
 Cannibal Quake
 	https://web.archive.org/web/20020408101357/http://www.botepidemic.com:80/quake.shtml
 	http://www.gloomsday.bizli.com/quake.htm
