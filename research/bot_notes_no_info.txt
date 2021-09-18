@@ -96,6 +96,19 @@ Ninja Quake Bot
 		not archived
 	author? filenames?
 	no info on the web...
+imbot
+	https://web.archive.org/web/19961221053200/http://www.gamesmania.com/english/quake/quakec.htm
+		https://web.archive.org/web/*/www.gamesmania.com/*
+		file was not captured
+	Automated helper Bot
+	http://www.gamesmania.com/common/quake/c-code/imbot1.zip
+	imbot1.zip
+	is this real?
+	I am 99% sure it is the tmbot1.zip with a typo
+		filesizes match, 177K vs 178kb
+	Also, a deep dive into archive.org shows that all files were archived, except this file, like was likely broken
+
+
 
 
 

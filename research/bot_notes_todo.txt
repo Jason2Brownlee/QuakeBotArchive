@@ -72,16 +72,6 @@ QuakeBot
 	Ioan Chera
 	released?
 	https://sourceforge.net/u/printz/profile/
-imbot
-	https://web.archive.org/web/19961221053200/http://www.gamesmania.com/english/quake/quakec.htm
-		https://web.archive.org/web/*/www.gamesmania.com/*
-		file was not captured
-	Automated helper Bot
-	http://www.gamesmania.com/common/quake/c-code/imbot1.zip
-	imbot1.zip
-	is this real?
-	(could be iwbot with a typo?)
-	???
 quaketastic multiplayer
 	https://www.quaketastic.com/files/multiplayer/mods/
 	process all these files...
