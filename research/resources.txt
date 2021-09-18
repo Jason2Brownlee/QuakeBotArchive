@@ -448,8 +448,25 @@ inside3d
 	http://www.inside3d.com/
 	https://web.archive.org/web/19980614152627/http://www.inside3d.com/
 	https://web.archive.org/web/19980614152833/http://www.inside3d.com/oldnews.shtml
-
-
+http://www.gamesmania.com
+	(most of the files were archived...)
+	http://www.gamesmania.com/english/quake/Quake.htm
+	https://web.archive.org/web/19961221053123/http://www.gamesmania.com/english/quake/qnew.htm
+	https://web.archive.org/web/19961221053217/http://www.gamesmania.com/english/quake/quakedl.htm
+	https://web.archive.org/web/19961221053200/http://www.gamesmania.com/english/quake/quakec.htm
+		https://web.archive.org/web/19961221053200/http://www.quakehole.com/files/quakec/reaprb06.zip
+		https://web.archive.org/web/19961221053200/http://www.quakehole.com/files/quakec/elim14.zip
+		https://web.archive.org/web/19961221053200/http://www.quakehole.com/files/quakec/bgbot20a.zip
+		https://web.archive.org/web/19961221053200/http://www.gamesmania.com/common/quake/c-code/imbot1.zip
+		https://web.archive.org/web/19961221053200/http://www.gamesmania.com/common/quake/c-code/dmbot1.zip
+	https://web.archive.org/web/19961221053300/http://www.gamesmania.com/english/quake/qimages.htm
+	https://web.archive.org/web/19961221053139/http://www.gamesmania.com/english/quake/qlevels.htm
+	https://web.archive.org/web/19961221053316/http://www.gamesmania.com/english/quake/quakehlp.htm
+	https://web.archive.org/web/19961221053246/http://www.gamesmania.com/english/quake/servers.stm
+	https://web.archive.org/web/19961221053233/http://www.gamesmania.com/english/quake/qclan1.htm
+	contest
+		https://web.archive.org/web/20000304090208/http://www.gamesmania.com/English/Main/contest.htm
+		https://web.archive.org/web/20000226132508/http://www.gamesmania.com/english/quake/winners.htm
 
 
 
