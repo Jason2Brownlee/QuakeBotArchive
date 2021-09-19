@@ -1,0 +1,42 @@
+Wyrm beta 2 FIX!
+----------------                          
+
+*NOTE*: You need Wyrm beta 2 (wyrmb2.zip) to use this fix...
+
+Finally the last release of Wyrm. It includes a lot of bug fixes, a new
+weapon, and the source code!! (more information about the source into the src
+directory)
+
+Additional credits:
+ Chris Scott aka Turrican <caramon@melb.alexia.net.au> for Poison Gas Cylinder
+        Launcher
+ Ben Ricketts <krypton@tig.com.au> for the original gas patch, gas.zip
+ Patrick Martin <cmarti39@icon.net> for the dragon's breath code in breath.zip
+
+Changes:
+  ->Tons of bug fixes :P
+  ->Devastator replaced by Super blaster (Devastator's model crashed VQuake)
+  ->New option, that makes the harpoon be a bit more like the Morning Star
+        (you can stick on the walls, change the weapon, and fire to the poor
+        land guys).
+  ->New option to make Wyrm fully compatible with Quake 1.06
+
+Installation notes:
+  ->Restore pathnames!!
+  ->Overwrite the wyrm.cfg and the progs.dat files
+
+Wyrm Troubleshooting:
+  ->Remember to restore the pathnames when unzipping Wyrm
+  ->If you don't use Quake 1.07 or newer, set the Quake 1.06 mode of Wyrm
+(read Wyrm.cfg for more details on this). If you don't make this, you may
+have some problems when using the gravity well or the cluster grenade...
+  ->Want to use CTF maps with Wyrm? Unpack them with any utility (I recommend
+Winpak) and copy them into the "maps" directory of Wyrm... and set the
+"Enable CTF" option of Wyrm.cfg .
+
+Wyrm future:
+ Sorry, but I think that there won't be a kind of "Wyrm 2 beta 1" for Quake 2.
+The main reason is that people don't distribute their sources as they do with
+Quake, so a huge compilation is harder to make in Quake 2 than Quake 1 :P
+
+Josep del Rio

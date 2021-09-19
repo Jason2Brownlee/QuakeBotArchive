@@ -1,0 +1,25 @@
+The (maybe) last release of Wyrm (1)!
+Wyrm beta 2 + Wyrm beta 2 FIX = Wyrm FINAL :P
+
+WHAT IS WYRM?:
+Wyrm(1) is a big compilation for Quake Classic, that includes a lot of 
+new weapons, new monsters and new features :P also, it can be played 
+in CTF, and is fully compatible with all the 3wave CTF maps.
+
+INSTALLATION NOTES: Copy wyrmb2final.zip into your quake directory, and
+unzip it RESTORING PATHNAMES... something like
+pkunzip -d wyrmb2final (or wyrmb2~1 :P)
+for DOS pkunzip...
+
+IMPORTANT NOTE FOR QUAKE 1.06 USERS: if you're using the 1.06 version,
+it's highly recommendable to upgrade it to 1.08 (it's free...). If you
+can't upgrade, there is an option to make Wyrm fully compatible with
+Q 1.06 (see Wyrm.cfg).
+
+ALL THE OTHER STUFF... : Read the wyrmb2.txt and the wyrmb2f.txt files
+:P
+
+WYRM 2 (for Q2): soon :P
+
+Enjoy!
+    Josep del Rio

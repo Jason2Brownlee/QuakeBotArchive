@@ -123,8 +123,6 @@ quake soccer
 SnowCrest's Quake Server Mods
 	https://www.snowcrest.net/mysc/quakemods.html
 	cujo
-Wyrm
-	https://www.quakewiki.net/archives/qca/reviews/patch137.txt
-	cujo
+
 
 

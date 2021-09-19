@@ -2611,7 +2611,27 @@ Zeus Hunt
 	TheHUNT '98 COOP MOD    Version 5.1Z:Zeus Hunt
 		https://www.quaddicted.com/files/idgames2/quakec/monsters/rumble1.txt
 		https://www.quaddicted.com/files/idgames2/quakec/monsters/rumble1.zip
-
+Wyrm
+	cujo
+	versions: 1.0, 1.1, 1.5
+	Josep del Rio
+	WYRMB1.ZIP
+		?
+	wyrmb15.zip
+		https://www.quakewiki.net/archives/qca/reviews/patch137.htm
+		https://www.quakewiki.net/archives/qca/reviews/patch137.txt
+		ftp://ftp.cdrom.com/pub/quake/quakec/compilations/wyrmb15.zip
+	wyrmb2.zip
+		http://www.dreamlandbbs.com/filegate/gamesnet/quake/wyrmb2.zip
+		http://www.dreamlandbbs.com/filegate/gamesnet/quake/index1.html
+	wyrmb2fix.zip
+		https://www.gamers.org/pub/idgames2/quakec/compilations/wyrmb2fix.txt
+		https://www.gamers.org/pub/idgames2/quakec/compilations/wyrmb2fix.zip
+	wyrmb2final.txt
+		https://www.gamers.org/pub/idgames2/quakec/compilations/wyrmb2final.txt
+		https://www.gamers.org/pub/idgames2/quakec/compilations/wyrmb2final.zip
+	http://www.fortunecity.com/underworld/quake/65
+		https://web.archive.org/web/*/http://www.fortunecity.com/underworld/quake/65
 
 
 
