@@ -152,6 +152,7 @@ Reaper / ReaperBot / Reaper Bot
 			https://web.archive.org/web/19970530203249/http://quakemecca.simplenet.com/files/downloads/reaprb75.txt
 		https://groups.google.com/g/rec.games.computer.quake.playing/c/Ck1NbL0LWck/m/VtwKoqdrwjEJ
 			Reaprb75.txt
+		http://home.sol.no/hestokke/bots/reaprb75.zip
 	v0.70
 		http://cd.textfiles.com/swextrav8/swextrav8-2/gamapog2/reaprb07.zip
 		https://www.quaddicted.com/files/commercial/Toolkit%20For%20Quake%202nd%20Edition%20(QTool_0197).7z
@@ -179,6 +180,8 @@ Reaper / ReaperBot / Reaper Bot
 		ftp://bluesnews.com/pub/quakec/bots/reaprb06.zip
 		http://www.bluesnews.com/reaprb06.txt
 			https://web.archive.org/web/20010505143115/http://www.geocities.com/TimesSquare/6514/oct3.htm
+		ftp://ftp.dragonfire.net/users/c/chriscon/reaprb06.zip
+		http://www.planetquake.com/qca/patch10.txt
 	v0.50 (first version...)
 		ftp://ftp.cdrom.com/pub/idgames2/quakec/bots/reaprb05.zip
 		ftp://ftp.canvasnet.com/quake/qc/bots/reaprb05.zip

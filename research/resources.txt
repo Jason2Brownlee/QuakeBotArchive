@@ -393,7 +393,49 @@ http://www.iinet.net.au/~den/bots.html
 		The Gaming Den
 		https://web.archive.org/web/20010724063719/http://members.iinet.net.au/~den/
 		https://web.archive.org/web/20050208023321/http://members.iinet.net.au/~den/
-
+http://www.planetquake.com/qca/qc-bots.htm
+	quake bots
+	https://web.archive.org/web/19970617213234/http://www.planetquake.com/qca/qc-bots.htm
+	https://web.archive.org/web/19970617164347/http://www.planetquake.com/qca/patch13.htm
+		bgbot
+		https://web.archive.org/web/19970617164347/ftp://ftp.cdrom.com/pub/idgames2/quakec/bots/bgbot20a.zip
+	https://web.archive.org/web/19970617164354/http://www.planetquake.com/qca/patch14.htm
+		cujo
+		https://web.archive.org/web/19970617164354/http://www.trailerpark.com/phase1/nelno/pseudopodia/cujo13.zip
+	https://web.archive.org/web/19970617164401/http://www.planetquake.com/qca/patch130.htm
+		cujo
+		https://web.archive.org/web/19970617164401/http://www.planetquake.com/qca/files/cujo14.zip
+	https://web.archive.org/web/19970617164408/http://www.planetquake.com/qca/patch123.htm
+		ctfbot
+		https://web.archive.org/web/19970617164408/http://www.interpath.net/~davidson/ctfbot12.zip
+	https://web.archive.org/web/19970617164414/http://www.planetquake.com/qca/patch64.htm
+		darkbot
+		https://web.archive.org/web/19970617164414/ftp://ftp.cdrom.com/pub/idgames2/quakec/bots/darkbot.zip
+	https://web.archive.org/web/19970617164422/http://www.planetquake.com/qca/patch152.htm
+		megadeath / KarNag Bot
+		https://web.archive.org/web/19970617164422/http://www.planetquake.com/qca/files/knbot03.zip
+	https://web.archive.org/web/19970611065038/http://www.planetquake.com/qca/patch16.htm
+		mybot
+		https://web.archive.org/web/19970611065038/ftp://ftp.cdrom.com/pub/idgames2/quakec/bots/mybot16.zip
+	https://web.archive.org/web/19970617164435/http://www.planetquake.com/qca/patch161.htm
+		mystery
+		https://web.archive.org/web/19970617164435/http://www.wollongong.starway.net.au/~ripper/mystery.zip
+	https://web.archive.org/web/19970617164444/http://www.planetquake.com/qca/patch10.htm
+		reaper v0.6
+		https://web.archive.org/web/19970617164444/ftp://ftp.dragonfire.net/users/c/chriscon/reaprb06.zip
+	https://web.archive.org/web/19970617164451/http://www.planetquake.com/qca/patch50.htm
+		reaper v0.75
+		https://web.archive.org/web/19970617164451/http://home.sol.no/hestokke/bots/reaprb75.zip
+	https://web.archive.org/web/19970617164459/http://www.planetquake.com/qca/patch83.htm
+		reaper v0.81
+		https://web.archive.org/web/19970617164459/ftp://bluesnews.com/pub/bots/reaprb81.zip
+	https://web.archive.org/web/19970617164506/http://www.planetquake.com/qca/patch146.htm
+		shambler bot
+		https://web.archive.org/web/19970617164506/http://www.planetquake.com/qca/files/shambot.zip
+		https://web.archive.org/web/19970617164506/http://www.planetquake.com/qca/patch146.txt
+	https://web.archive.org/web/19970617164341/http://www.planetquake.com/qca/patch100.htm
+		zeus
+		https://web.archive.org/web/19970617164341/http://www.trailerpark.com/phase1/nelno/pseudopodia/zeus2042.zip
 
 
 
