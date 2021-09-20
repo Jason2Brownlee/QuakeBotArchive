@@ -2632,7 +2632,20 @@ Wyrm
 		https://www.gamers.org/pub/idgames2/quakec/compilations/wyrmb2final.zip
 	http://www.fortunecity.com/underworld/quake/65
 		https://web.archive.org/web/*/http://www.fortunecity.com/underworld/quake/65
-
+Upgrade Quake
+	The Wanderer, Spectre
+	cujo
+	upgrade.zip
+		v3.0
+		https://www.quakewiki.net/archives/qca/reviews/patch120.txt
+		https://www.quakewiki.net/archives/qca/reviews/patch120.htm
+	ftp://ftp.cdrom.com/pub/idgames2/planetquake/qca/upgrade.zip
+	http://www.geocities.com/TimesSquare/Arcade/6461/
+		https://web.archive.org/web/19991013214614/http://www.geocities.com/TimesSquare/Arcade/6461/
+		not archived
+	http://members.tripod.com/~Spectre2
+		https://web.archive.org/web/19990202170056/http://members.tripod.com/~Spectre2
+		not archived
 
 
 

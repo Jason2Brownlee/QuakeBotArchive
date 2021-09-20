@@ -1,0 +1,135 @@
+
+Title        : Upgrade Quake
+Filename     : Upgrade.zip
+Version      : 3.0
+Date         : 9/23/97
+Author       : The Wanderer, Spectre
+Web Page     : http://members.tripod.com/~Spectre2
+Email        : hansenn@mail.nwc.whecn.edu (The Wanderer), jallison@wavecom.net
+Thank You's! : ID Software, Raven (Home Page - http://www.geocities.com/TimesSquare/Arcade/6461/)
+
+Coding Done by - The Wanderer 
+Models done by - The Wanderer, Spectre, and Wanderer's Brother
+Ideas by - Spectre and The Wanderer 
+
+Type of Mod
+
+Quake C  : Yep!
+MDL      : Of Course!
+sound    : Yes again!
+
+
+*Description of the Modification*
+Upgrade Quake adds a new idea to deathmatches by having you kill for better 
+weapons.  3 kills earn you the first upgrade, and 3 more for the next.  Your
+upgrades stay with you even after you die to make it fair.  HINT : there is
+a secret impulse cheat to give you all the weapons.  Press S to see how many 
+points you are away from an upgrade ( Example : 2 points // you are 1 point 
+away from an upgrade)
+        
+-----------------------------------------------------------------------------
+
+*How to use Modification*
+
+Key Descriptions :
+
+P - sets a prison (read about it in the section about the Capturer).
+V - turns the Capturer's voices on or off // by default they are off
+B - Switches to 3rd person and back to first
+C - Spawns Cujo if you have him
+D - detonates the Remote Bombs
+I,K,J,L,O - mess with the 3rd person camera
+Y - chooses the Yellow Team
+W - chooses the White Team
+S - see how many points you have
+
+
+*How to Install the Modification*
+Unzip patch in C:\quake\upgrade, then run q95 -game upgrade or 
+quake -game upgrade ( in the directory c:\quake\)
+
+*Weapon Descriptions*
+
+Sawed Off Shotgun :
+This weapon has no new model, but is 8 times as powerful as a normal shotgun.
+Good if that's all you have.
+
+Bounce Bombs:
+These bounce around for a while and explode in 3 seconds. They do a good 
+amount of damage if they touch anyone. (Good for small rooms).
+
+Double double-barrel Shotguns:
+Fires faster and more power, very cool.
+
+Fire Launcher:
+This weapons is awesome when used right. It fires fast and conforms to the
+walls. Try shooting it at a wall and it will slide along-side it. Shoot at
+a corner and the ring will split in 2 and go both ways.  It hardly requires
+aiming either.
+
+Lava Nails:
+Same as what the Hell Knights shoot.
+
+Derem MT 4:
+This is the best Sniper Gun. If your aim is very good, the Derem will take
+off a lot of damage, but if you miss slightly then it will fire like a normal
+shotgun.  Try using the crosshair by typing CROSSHAIR 1 in the console.
+
+Remote Bomb Launcher:
+These will attach to a person or bounce around like a grenade. Fire as many 
+as you want since you can have tons attached to someone. Hit D to detonate
+all of them. No disarming for these.
+
+Poison Laser:
+This weapons fires quick and uses up cells so be careful. A good shot will
+but a brightfield around the target. They will be poisoned if they don't find
+water, slime, or lava quick! 
+
+Cluster Bombs:
+These are powerful beyond belief. You fire 3 grenades, those each explode 
+into 2 grenades the fly everywhere. More than once I have been killed by
+my own bombs.
+
+DD4:
+Taken from the greatest N64 game - Goldeneye! This weapon fires faster than
+a shotgun and is more powerful than a double barrel shotgun.
+
+Multi-Rockets:
+Fires 3 rockets at once, very powerful.
+
+Capturer:
+Set a prison somewhere (such as over lava or a high place), then shoot 
+someone 3 times with this. They will be teleported to the prison's location
+and dropped.
+
+Homing Lightning:
+This weapons has a specific range you have to be in. It only takes 5 cells
+and it will split into multiple beams depending on how many people are in
+range.
+
+Shield:
+This takes 15 cells in all and lasts for about 5 seconds. You cannot be hurt
+but you also can't pick up any items.
+
+
+*Technical Details*
+none.
+
+
+*Know bugs*
+If you don't set a prison and try to capture someone, they will be teleported
+directly behind them instead of being removed from the game.  If there is
+anyone behind them at the moment, they both will be stuck together and unable
+to move. Moral : ALWAYS SET A PRISON.
+Also for some reason the Remote Bomb Launcher will sometimes stop firing.
+If you can't see the bomb, but you can hear it firing, the only cure for 
+this is to restart the level (sorry).
+The brightfield the Poison Laser makes sometimes stays with a guy after they
+are dead.
+Don't hit "w" in Single Player Mode. You try and join the White Team, which
+kicks you out of the game. It goes past the number of max clients in a Single
+Player Game (1).
+
+
+*Other info:
+Visit our page often and E-mail us with your thoughts!
