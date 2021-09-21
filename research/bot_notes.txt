@@ -2649,7 +2649,18 @@ Upgrade Quake
 	http://members.tripod.com/~Spectre2
 		https://web.archive.org/web/19990202170056/http://members.tripod.com/~Spectre2
 		not archived
-
+Shambler Bot
+	based on zeus
+		https://web.archive.org/web/19970617164506/http://www.planetquake.com/qca/patch146.htm
+		https://web.archive.org/web/19970617164506/http://www.planetquake.com/qca/files/shambot.zip
+		https://web.archive.org/web/19970617164506/http://www.planetquake.com/qca/patch146.txt
+	Jason Long aka "Zaphod"
+	http://www-student.furman.edu/users/c/ccaddell/quake/
+		https://web.archive.org/web/19970722030227/http://www-student.furman.edu/users/c/ccaddell/quake/
+		https://web.archive.org/web/19970724223926/http://www-student.furman.edu/users/c/ccaddell/quake/files/
+		https://web.archive.org/web/19970724223926/http://www-student.furman.edu/users/c/ccaddell/quake/files/shambler.zip
+	http://www-student.furman.edu/users/j/jlong01/index.htm
+		https://web.archive.org/web/19970722013532/http://www-student.furman.edu/users/j/jlong01/index.htm
 
 
 

@@ -1,0 +1,179 @@
+***************************
+*  Title  :  Shambler Bot *
+***************************
+
+Filename : SHAMBLER.ZIP
+This Includes : Progs.dat, Shambler.txt, Teamplay.doc
+
+Version  : 1.01
+
+Date     : 01/09/97
+
+Author   : Spam-Go-Boom Inc. writer Jason Long - "Zaphod"
+           from the Furman University Quakers, or "FUQ" Clan
+	   http://www-student.furman.edu/users/c/ccaddell/quake/
+
+Email    : jason.long@furman.edu
+
+Credits  : -Micheal Polucha (TM Bot), Tim Polucha (TM Bot),
+            and Nathaniel Gorham (DM Bot)
+           -A HUGE thanks goes to Jonathan E. Wright for
+            creating ZeusBot 1.0 (and releasing the code)
+           -Another HUGE thanks to all the guys at ThreeWave
+            for all the wonderful Capture the Flag code - 
+            and a super big thanks to Dave 'Zoid' Kirsch,
+            without whom, the world would not be a happy place
+           -Anyone else i might have "borrowed" code from
+
+
+*****************
+*  Type of Mod  *
+*****************
+
+Quake C  : yes
+Sound    : no
+MDL      : no
+
+
+***********************
+*  Format of Quake C  *
+***********************
+
+unified diff  : no
+context diff  : no
+.qc files     : no  (available upon request)
+progs.dat     : yes
+
+
+*************************************
+*  Description of the Modification  *
+*************************************
+
+Ever want to just kill everything really quickly and wihtout much trouble?  Well,
+now you can, with your own personal Shambler Bot for you to play with.  This loyal
+guy will quickly and efficiently kill everything it finds, including all of your
+former friends.  Loads of fun in Deathmatches.  This code is a bastardization
+of ThreeWave's CTF (ver 3.2) and ZeusBot (ver 1.0).  It includes the Grappling Hook,
+and many other teamplay and DM options.
+
+
+*****************************
+*  How to use Modification  *
+*****************************
+
+Impulse 22  Grappling Hook
+
+Impulse 100  Activates and Deactivates the monster
+
+Impulse 104  "Fetches" the monster
+
+Impulse 105  Makes 'em glow
+
+Impulse 106  Reports the monster's status
+
+Bind these impulses to keys to make creating and fetching the monster easy.
+For example, to make the Q key activate and deactivate the monster, put this
+line in your config.cfg file (or type it in the Quake console):
+
+BIND Q "IMPULSE 100"
+
+Now, every time you press Q the monster will be activated or deactivated.
+You can bind the other impulses in a similar manner.
+
+
+***************
+*  IMPORTANT  *
+***************
+
+There are billions of other options including hundreds of various Teamplays,
+Deathmatch 3, Runes, and various other Impulse commands.  These are due to the
+morphing of multiple code sets, namely the ZeusBot and ThreeWave's CTF (ver 3.2)
+code.  In fact, the PROGS.DAT for the Shambler Bot is fully ThreeWave Capture the
+Flag Version 3.2 compatable - but in order to play Capture the Flag, you must have
+already have set up and created your own CTF patch from ThreeWave.  You can get
+this wonderful patch at:
+http://quake.threewave.com/
+You can find a short, edited version of many of these options in the TEAMPLAY.DOC
+file, included in this patch.
+Please note:  I am in no way taking from the hard work and monumental effort of
+these two sources, but simply combining two great things to make another.  Virtually
+all credit goes to both Mr. Wright and Mr. Kirsch.
+
+
+*************************************
+*  How to Install the Modification  *
+*************************************
+
+Create a directory in your Quake directory to store the patch in, such as
+SHAMBLER.  Unzip SHAMBLER.ZIP and copy the file PROGS.DAT to this directory.
+Then, add the line: -game shambler to the end of your command line for running
+Quake.  For example:
+
+quake -game shambler
+
+In order to play Capture the Flag with your new-found friend, you should first
+get and install ThreeWave's Capture the Flag Version 3.2.  Then, back-up your copy
+of PROGS.DAT in your CTF directory, and then copy this PROGS.DAT into that directory.
+Enjoy.
+
+
+******************
+* Other Details  *
+******************
+
+Features / Rules:
+
++ He hunts.
++ He can follow the player through portals, and he can be telefragged.
++ The Shambler will activate trigger fields (such as doors and traps).
++ Your Shambler will not be injured by your shotgun blasts or lightning,
+  and his lightning will not hurt you.
++ Since Shamblers are magical in nature, should he become separated from you
+  by a great distance, he will transport himself back to you.
++ He glows!
++ He is a shambler, through and through.  Rockets and explosions are hence not
+  as effective against him.  However, he is slightly faster and much smarter than
+  his game-time cousins.
++ He deativates when you die, but not when he dies.  This leads to rather
+  interesting effects with disembodied heads...
++ IF YOU CHANGE COLORS (TEAMS), HE WILL DEACTIVATE.  This is due to the
+  extrordinarily bad eyesight of shamblers, which leads to their getting confused
+  when people begin changing colors on them.  Otherwise, he will respect and
+  follow all Teamplay rules.
+
+
+Bugs:
+
+- The Shambler does not jump or walk past edges.
+- He is "lost" after a level change.
+- Shambler bots will not attack other Shambler bots.
+- Please report by email any other bugs.
+
+
+*************************
+*  Future Enhancements  *
+*************************
+
+None for now.  This was just a little project designed to lower my GPA.
+But, you can email me if you have any interesting ideas for improvements.
+
+
+********************************************
+*  Copyright and Distribution Permissions  *
+********************************************
+
+Authors MAY use these modifications as a model or basis for other
+-publically- available work.  Please send me copies of any modifications
+you make based along this design.
+
+You may distribute this Quake modification in any electronic
+format as long as this description file remains intact and unmodified
+and is retained along with all of the files in the archive.
+
+This patch is the legal property of Spam-Go-Boom Inc.
+
+DISCLAIMER:   The author of this patch is not responsible for any harm or
+damage or altering of any files or anything else associated with this patch;
+basically, he is not liable in any way whatsoever for any use of this product.
+In other words, if it nukes your hard drive, it's your problem.
+Have a nice day.

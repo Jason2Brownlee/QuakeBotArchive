@@ -123,10 +123,6 @@ quake soccer
 SnowCrest's Quake Server Mods
 	https://www.snowcrest.net/mysc/quakemods.html
 	cujo
-Shambler Bot
-	based on tm bot
-		https://web.archive.org/web/19970617164506/http://www.planetquake.com/qca/patch146.htm
-		https://web.archive.org/web/19970617164506/http://www.planetquake.com/qca/files/shambot.zip
-		https://web.archive.org/web/19970617164506/http://www.planetquake.com/qca/patch146.txt
+
 
 

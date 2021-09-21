@@ -192,6 +192,7 @@ Rumble 2: GuardBot's Challenge | Christopher Dozier "Arwing-X" | [rumble2.zip](b
 SAM-FraG (BGBot) | "SpiderMonkie" | [sam-fragv001a.zip](bin/sam-fragv001a.zip) ([txt](bin/sam-fragv001a.txt))
 SamBot | Sam Stephens aka "Spam-man" | [sambot.zip](bin/sambot.zip) ([txt](bin/sambot.txt))
 Seeker Falcon | Nick Bousman aka "SiNGE", Glenn Saaiman aka "Griphis" | [sfalc11.zip](bin/sfalc11.zip) ([txt](bin/sfalc11.txt))
+Shambler Bot | Jason Long aka "Zaphod" | [shambler.zip](bin/shambler.zip) [txt](bin/shambler.txt)
 Sigmund Bot | Rich Whitehouse aka "thefatal" | [sigbot2.zip](bin/sigbot2.zip)<br>[sigbtsrc.zip](bin/sigbtsrc.zip)<br>[sigbot1.zip](bin/sigbot1.zip)
 Square Bot | Ashley Reynolds aka "Ze0" | [square01a.zip](bin/square01a.zip)<br>squaretst.zip
 Squirt Bot | Michael Buettner aka "Squirt" | [squirt13.zip](bin/squirt13.zip)<br>sq12to13.zip<br>squirt12b.zip<br>[squirt12.zip](bin/squirt12.zip)<br>[squirt11.zip](bin/squirt11.zip)<br>squirt10.zip
