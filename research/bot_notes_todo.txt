@@ -88,11 +88,6 @@ Bot Epidemic files
 	http://web.archive.org/web/20010803101723/http://www.3ddownloads.com/?directory=/telefragged/be/
 frikbot files
 	http://web.archive.org/web/20030703161548/http://www.3ddownloads.com/telefragged/inside3d/frikbot
-Quake 1 Arena
-	bots, basically a TC
-	https://www.quaketerminus.com/addon.shtml
-	http://www.quaketerminus.com/mods/q1a_075.zip
-	http://web.archive.org/web/20050204022844/http://www.quakepit.com/electro/
 Soul of Evil
 	bots
 	http://www.quaketerminus.com/mods/soul_of_evil.zip
@@ -101,21 +96,6 @@ Sky Blazer
 	https://www.quaketerminus.com/addon.shtml
 	http://www.quaketerminus.com/mods/sky.zip
 	http://web.archive.org/web/20040621003527/http://www.planetquake.com/minion/sky.htm
-Nirvana Bot Mods
-	https://web.archive.org/web/20010509151941fw_/http://www.planetquake.com/maxtron/bots/quake.shtml
-	http://member.aol.com/radratxl/7thSeal.htm
-	RadRatXL
-	monster bot?
-	https://www.quaketerminus.com/oldnews2.shtml
-	http://hometown.aol.com/radratxl
-	Christopher Dozier a.k.a Arwing ?
-	https://www.quaketerminus.com/index2.shtml
-	?
-Quakability
-	has bots?
-	https://web.archive.org/web/20191226211146fw_/http://users.skynet.be/bk236270/quakability.htm
-	https://www.quaketastic.com/files/multiplayer/mods/Quakability_2.1_-_NoMusicRepack.txt
-	https://www.quaketastic.com/files/multiplayer/mods/Quakability_2.1_-_NoMusicRepack.zip
 quake soccer
 	has bots?
 	http://forums.insideqc.com/viewtopic.php?f=1&t=1538

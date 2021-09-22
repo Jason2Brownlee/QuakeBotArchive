@@ -158,6 +158,7 @@ Motd FMOD (Frogbot) | Algirdas Kepezinskas aka "ZeCybEr" | motd.zip
 Multi-Mode Rocket (Cujo) | Christopher Fitch | [mmrckt10.zip](bin/mmrckt10.zip) ([txt](bin/mmrckt10.txt))
 MyBot | Stephen Vanterpool | [mybot16.zip](bin/mybot16.zip) ([txt](bin/mybot16.txt))<br>[mybot13a.zip](bin/mybot13a.zip) ([txt](bin/mybot13a.txt))<br>[mybot12.zip](bin/mybot12.zip) ([txt](bin/mybot12.txt))<br>[mybot11.zip](bin/mybot11.zip) ([txt](bin/mybot11.txt))<br>[mybot.zip](bin/mybot.zip) ([txt](bin/mybot.txt))
 Navy SEALs (Squad Bots) | William van der Sterren | [nseal201.zip](bin/nseal201.zip)<br>sqdbt201.zip
+Nirvana (Frikbot) | Christopher Dozier a.k.a "Arwing" | [nirv8_full.zip](bin/nirv8_full.zip)<br>[nirv85patch.zip](bin/nirv85patch.zip)
 ObotArena (Amiga) (Omicron) | Christian Michael aka "surgeon" | [obotarena.lha](bin/obotarena.lha)
 Ogre Bot | "Lava Man" | [ogrebot.zip](bin/ogrebot.zip) ([txt](bin/ogrebot.txt))
 Olofs QC Collection (Wisp) | Olof Svensson | [oqcc092b.zip](bin/oqcc092b.zip) ([txt](bin/oqcc092b.txt))

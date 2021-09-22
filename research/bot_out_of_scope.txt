@@ -130,6 +130,9 @@ Interference Bot / Monster Mash 2 DM Interference Bot / Interference Bot Arena
 Quakabiltiy: Bot Arena
 	https://web.archive.org/web/20020408101357/http://www.botepidemic.com:80/quake.shtml
 	http://www.crosswinds.net/~noricoco/neurotic-homepage.htm
+	https://web.archive.org/web/20191226211146fw_/http://users.skynet.be/bk236270/quakability.htm
+	https://www.quaketastic.com/files/multiplayer/mods/Quakability_2.1_-_NoMusicRepack.txt
+	https://www.quaketastic.com/files/multiplayer/mods/Quakability_2.1_-_NoMusicRepack.zip
 	total conversion
 	engine bots I believe...
 Void Mod
@@ -139,7 +142,9 @@ Void Mod
 	monster bots I think...
 q1 arena
 	https://www.moddb.com/mods/quake-1-arena
-	quake 3 mod...
+	https://www.quaketerminus.com/addon.shtml
+	http://www.quaketerminus.com/mods/q1a_075.zip
+	http://web.archive.org/web/20050204022844/http://www.quakepit.com/electro/
 	http://www.quaketastic.com/files/single_player/mods/q1a_075.zip
 	???
 	engine + bots I think
