@@ -219,9 +219,6 @@ ud140.zip
 ud150.zip
 ud160.zip
 ud170.zip
-ud180.zip
-ud190.zip
-ud200.zip
 ud201.zip
 ultdet110.zip
 var14.zip

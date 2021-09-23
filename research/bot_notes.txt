@@ -2679,6 +2679,27 @@ Nirvana Bot Mods
 	https://www.quakeworld.nu/forum/topic/228/nirvanaminionquake-mods
 	http://radcore.angelcities.com/
 		https://web.archive.org/web/20040720045622/http://radcore.angelcities.com/
-
+Ultimate Deathmatch
+	https://www.quakewiki.net/archives/botarea51/main/history.html
+	http://planetquake.gamespy.com/quake1/index6c18.html?start_from=56&category_id=2
+	http://www.quakeworld.nu/forum/viewtopic.php?t=2281
+	has frikbots i think
+		https://www.quakewiki.net/archives/botarea51/main/favouritebots.html
+	https://www.quakewiki.net/archives/ud/
+	http://www.fileplanet.com/files/130000/139805.shtml
+		Alex Shadowalker
+		ud200.zip
+	http://uddev.quakedev.com/
+		https://web.archive.org/web/20050409120354/http://uddev.quakedev.com/
+		https://web.archive.org/web/20050409120354/http://uddev.quakedev.com/ud203.zip
+		https://web.archive.org/web/20050409120354/http://uddev.quakedev.com/ud202.zip
+		https://web.archive.org/web/20050409120354/http://www.fileplanet.com/files/130000/139805.shtml
+		https://web.archive.org/web/20070107184930/http://uddev.quakedev.com/ud300.zip
+		http://uddev.quakedev.com/ud300.zip
+	many versions...
+	http://www.planetquake.com/ud/
+		https://web.archive.org/web/20031110084319/http://www.planetquake.com/ud/
+		https://web.archive.org/web/20031204022030/http://www.fileplanet.com/files/110000/114120.shtml
+		ud170.zip
 
 
