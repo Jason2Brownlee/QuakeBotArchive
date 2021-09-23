@@ -32,9 +32,6 @@ The Force / Duel of the Fates mod
 Qore
 	- has frikbotx
 	https://www.moddb.com/mods/qore
-SuperDuper
-	has frikbots
-	https://quakeone.com/forum/quake-mod-releases/finished-works/12534-superduper-3-21
 frogbot waypoints
 	https://web.archive.org/web/20011004091210/http://www.botepidemic.com/fmods/maps.htm
 frogbot utils

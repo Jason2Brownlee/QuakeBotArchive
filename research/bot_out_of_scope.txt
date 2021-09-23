@@ -174,5 +174,12 @@ Decoyz
 	http://cd.textfiles.com/pdsl/HELP/GAMERTK.TXT
 	also in cdrom.com all .txt files from archive.org
 	nope, just a hologram type mod
+SuperDuper / Bondo's SuperDuper Quake / SDQ
+	has frikbots
+	https://quakeone.com/forum/quake-mod-releases/finished-works/12534-superduper-3-21
+	https://www.moddb.com/mods/bondos-superduper-quake
+	many versions
+	really large files...
+	basically a TC
 
 
