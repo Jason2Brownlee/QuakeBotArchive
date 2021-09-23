@@ -180,6 +180,7 @@ paddybot.zip
 paddybot02.zip
 pak2pak.zip
 prodigy35b1.zip
+progdet.zip
 qcbot001.zip
 qcbot002.zip
 rakoolio.zip
@@ -212,6 +213,17 @@ swbot102.zip
 tballman097.zip
 tdbot1_0.zip
 tfb-v07.zip
+ud120.zip
+ud130.zip
+ud140.zip
+ud150.zip
+ud160.zip
+ud170.zip
+ud180.zip
+ud190.zip
+ud200.zip
+ud201.zip
+ultdet110.zip
 var14.zip
 var18.zip
 var19.zip

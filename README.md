@@ -222,6 +222,7 @@ Tutor Bot + Holy Wars | Connor Caple aka "RiEvEr" | [holy_tb.zip](bin/holy_tb.zi
 Tutor Bot + Malice (Amiga) | Christian Michael aka "surgeon" | [malicemod.lha](bin/malicemod.lha) ([txt](bin/malicemod.txt))
 Tutor Bot + Rocket Arena | Connor Caple aka "RiEvEr" | [qrabot002.zip](bin/qrabot002.zip)<br>qrabot001.zip
 Tutor Bot | Darryl Atchison aka "coffee" | [tutor.zip](bin/tutor.zip)
+Ultimate Deathmatch (Frikbot) | Alex Shadowalker | [ud300.zip](bin/ud300.zip)<br>[ud203.zip](bin/ud203.zip)<br>[ud202.zip](bin/ud202.zip)<br>ud201.zip<br>ud200.zip<br>ud190.zip<br>ud180.zip<br>ud170.zip<br>ud160.zip<br>ud150.zip<br>ud140.zip<br>ud130.zip<br>ud120.zip<br>ultdet110.zip<br>progdet.zip
 Ultimate Regular Quake Patch (URQP) (Frikbot) | Matthias Buecher aka "Maddes" | [urqp106a.zip](bin/urqp106a.zip)<br>[urqp106.zip](bin/urqp106.zip)<br>[urqp105.zip](bin/urqp105.zip)<br>[urqp104a.zip](bin/urqp104a.zip)
 Ultimate Weapons Mod (Zeus) | Andy Brennan | [ultimate.zip](bin/ultimate.zip) ([txt](bin/ultimate.txt))
 UnknownBot | Brian L. | [ubot14.zip](bin/ubot14.zip)

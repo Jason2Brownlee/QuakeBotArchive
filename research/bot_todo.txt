@@ -48,15 +48,6 @@ frikbot mods
 		Bondo's mods
 		Quake on Steroids
 	TODO, what are all these mods...?
-Ultimate Deathmatch
-	https://www.quakewiki.net/archives/botarea51/main/history.html
-	2002
-	http://planetquake.gamespy.com/quake1/index6c18.html?start_from=56&category_id=2
-	2004
-	quake world?
-	???
-	has frikbots i think
-		https://www.quakewiki.net/archives/botarea51/main/favouritebots.html
 quake mods here that have a bot added
 	http://www.randars.com/bots/bots2.html
 frikbot mods
@@ -100,6 +91,5 @@ quake soccer
 SnowCrest's Quake Server Mods
 	https://www.snowcrest.net/mysc/quakemods.html
 	cujo
-
 
 

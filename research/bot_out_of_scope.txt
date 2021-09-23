@@ -140,14 +140,17 @@ Void Mod
 	http://www.mdqnet.net/dept187/
 	made by ryan too...
 	monster bots I think...
-q1 arena
+Quake 1 Arena
 	https://www.moddb.com/mods/quake-1-arena
 	https://www.quaketerminus.com/addon.shtml
 	http://www.quaketerminus.com/mods/q1a_075.zip
 	http://web.archive.org/web/20050204022844/http://www.quakepit.com/electro/
+	http://web.archive.org/web/20020612155501/http://www.quakepit.com/electro/
 	http://www.quaketastic.com/files/single_player/mods/q1a_075.zip
+	http://www.sg-drive.com/~hell/openquake/download/mods/q1a.zip
+	http://www.quaketerminus.freeola.com/mods/q1a_075.zip
+	a mod for quake 3 to be like quake 1?
 	???
-	engine + bots I think
 GloBot
 	tomaz quake
 	http://tomaz.snowcold.net/files.php
