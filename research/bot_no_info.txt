@@ -107,7 +107,13 @@ imbot
 	I am 99% sure it is the tmbot1.zip with a typo
 		filesizes match, 177K vs 178kb
 	Also, a deep dive into archive.org shows that all files were archived, except this file, like was likely broken
-
+QuakeBot
+	Coop bot for Quake, written in QuakeC (at least for now)
+	https://github.com/ioan-chera/QuakeBot
+	https://bitbucket.org/ichera/quakebot/src/master/
+	https://sourceforge.net/u/printz/profile/
+	Ioan Chera
+	no release...
 
 
 

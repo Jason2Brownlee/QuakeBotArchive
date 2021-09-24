@@ -1,0 +1,152 @@
+
+
+
+	Get ready.
+
+
+		Get set.
+
+
+			Get high.
+
+	
+				SkyBlazer is here.
+
+
+
+
+	SkyBlazer 0.5
+	"""""""""""""
+
+		The first bot-only deathmatch sport has arrived.
+	SkyBlazer is a team game for single players in which you
+	attempt	to carry a ball into a goal while incredibly smart
+	bot do the same.
+
+
+
+	The Way to Begin
+	""""""""""""""""
+
+	1) install pak files into a c:\quake\sky directory
+	2) run with command line
+		
+		c:\quake\quake.exe -game sky -listen 16
+
+	4) pull down console and load a simple deathmatch map 
+	5) press m for menu and o for bot orders
+	6) hold the jump button to accelerate and fly
+	7) place the goal in a flat, low area
+	8) carry the blue ball into goal
+	9) experiment with skill levels and other bot-simple maps
+
+
+
+
+	The Recommended Maps
+	""""""""""""""""""""
+
+		While these bots are smart enough to score goals on any
+	deathmatch map, they are still bots. In other words, if the map
+	is simple, wide, and well-laid, they do much better. You will
+	not fully experience this game until you try one of these levels:
+
+
+		Fragtown maps
+
+	A great selected of levels with a rich city environment.
+	Since these are tall and open maps, they're very recommended
+	http://www.planetquake.com/fragtown/FragDnl2.html
+
+		Ultraviolence
+
+	A small map with a great Egyptian feel
+	ftp://ftp.cdrom.com/pub/idgames2/planetquake/ramshackle/ultrav.zip
+
+		The Steeler
+
+	One of the best DM maps around, a great space base
+	ftp://ftp.cdrom.com/pub/idgames2/planetquake/ramshackle/ztndm4.zip
+
+		Painkiller
+
+	Another one of the best DM maps around, wonderful game flow
+	ftp://ftp.cdrom.com/pub/idgames2/planetquake/ramshackle/ztndm5.zip
+	http://planetquake.com/ramshackle/ztndm5.zip 		
+
+		Deathmatch Arenas
+
+	Four maps with different themes including temple,
+	gothic, even Doom style. DMA2 is especially recommended
+	http://planetquake.com/ramshackle/ztndm4.zip 		
+
+
+
+
+	A Call to Arms
+	""""""""""""""""
+
+		Warning! Sightings of bots on hoverboards have been
+	reported in various areas throughout the Quake community. We
+	are recruiting all able-bodied Quake marines to battle them now.
+
+		This is full-scale military alert. SkyBlazer 0.5 has
+	been released. This is the first deathmatch team sport developed
+	exclusively for bots. It may overthrow the way we think about
+	single-player gaming.
+
+		If you choose to accept this mission, you will be issued
+	a hoverboard. You will use this to chase after a ball that rolls
+	through the level. You will carry this ball to the goal. Or you
+	will die in the process.
+
+		You will fight with a team of bots, whom you can order to
+	perform tasks to assist your strategies. Of course the bots on the
+	enemy team will make their own plans, hover strafe, even duck
+	behind walls to evade you.
+
+		Warning! Warning! This is not a mod. This is not a bot.
+	This is not a drill.
+		This is a real team deathmatch sport for single players.
+	Gamers are encouraged to exit this document quickly and quietly 
+	and hop on the nearest hoverboard.
+
+		Good luck, soldier. With your help we'll win the war
+	against	slow modems yet.
+
+
+
+
+
+	The Thanks and Credits
+	""""""""""""""""""""""
+
+		Unfortunately, I'm not a map or model guy, so I tend to
+	borrow things. So I take no credit for any of the good artwork
+	you may see here. Mainly I've borrowed from Deft, whose
+	readme.txt file I've included in this package. He does great
+	models; you should check out the rest.
+		I've also used Noam Scher's blue console graphic. Noam
+	did a good job of that, makes Quake 1 look a lot fresher. Thanks.
+		And of course, most obviously, I've taken the player
+	hoverboard model from the retail ultraconversion called "Malice"
+	developed by Epochalypse and published by Quantum Access. I hope
+	they don't sue my socks off. I took their model because I didn't
+	have one and I wanted people to see this fun game. Period.
+		By the way, buy Malice. It's excellent. Lots of great
+	weapons, baddies, and vehicles. Check it out at www.qamalice.com.
+		I want to thank everyone on ICQ, guys like Ishkish,
+	Sockman, Securlath, Shambler, Capt. Kill, Mr. Bark Barks,
+	Shadowhawk, and too many more to hold in my pitiful memory. I
+	appreciate everyone's interest and support.
+
+
+ 
+
+	The Author
+	""""""""""
+	
+	Darryl Atchison
+	coffee@planetquake.com
+	http://www.planetquake.com/minion
+	ICQ number 2716002

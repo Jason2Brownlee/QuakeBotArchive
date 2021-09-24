@@ -2701,5 +2701,13 @@ Ultimate Deathmatch
 		https://web.archive.org/web/20031110084319/http://www.planetquake.com/ud/
 		https://web.archive.org/web/20031204022030/http://www.fileplanet.com/files/110000/114120.shtml
 		ud170.zip
-
+SkyBlazer / Sky Blazer
+	https://www.quaketerminus.com/addon.shtml
+	http://www.quaketerminus.com/mods/sky.zip
+		v0.5
+	prior versions?
+	http://web.archive.org/web/20040621003527/http://www.planetquake.com/minion/sky.htm
+	http://web.archive.org/web/20030802220910/http://dl.fileplanet.com/dl/dl.asp?minion/sky.zip
+	http://web.archive.org/web/20051105130201/http://www.planetquake.com/minion/files/sky_src.zip
+	Darryl Atchison aka "coffee"
 

@@ -53,13 +53,6 @@ quake mods here that have a bot added
 frikbot mods
 	http://leileilol.mancubus.net/static/download.html
 	...
-QuakeBot
-	Coop bot for Quake, written in QuakeC (at least for now)
-	https://github.com/ioan-chera/QuakeBot
-	https://bitbucket.org/ichera/quakebot/src/master/
-	Ioan Chera
-	released?
-	https://sourceforge.net/u/printz/profile/
 quaketastic multiplayer
 	https://www.quaketastic.com/files/multiplayer/mods/
 	process all these files...
@@ -80,10 +73,6 @@ Soul of Evil
 	bots
 	http://www.quaketerminus.com/mods/soul_of_evil.zip
 	http://web.archive.org/web/20051218230947/http://www.planetquake.com/tronyn/soul/
-Sky Blazer
-	https://www.quaketerminus.com/addon.shtml
-	http://www.quaketerminus.com/mods/sky.zip
-	http://web.archive.org/web/20040621003527/http://www.planetquake.com/minion/sky.htm
 quake soccer
 	has bots?
 	http://forums.insideqc.com/viewtopic.php?f=1&t=1538
