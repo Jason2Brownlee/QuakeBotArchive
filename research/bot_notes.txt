@@ -2710,4 +2710,15 @@ SkyBlazer / Sky Blazer
 	http://web.archive.org/web/20030802220910/http://dl.fileplanet.com/dl/dl.asp?minion/sky.zip
 	http://web.archive.org/web/20051105130201/http://www.planetquake.com/minion/files/sky_src.zip
 	Darryl Atchison aka "coffee"
+SnowCrest's Quake Server Mods
+	https://www.snowcrest.net/mysc/quakemods.html
+	https://www.snowcrest.net/mysc/quake.html
+	https://www.snowcrest.net/mysc/snowmod.zip
+	https://www.snowcrest.net/mysc/snowmod2.zip
+	http://quakeone.com/forum/quake-talk/quake-central/10859-fiend-quake
+	cujo
+	Philip Engdahl aka "Grimorden"
+	http://www.snowcrest.net/pengdahl
+
+
 
