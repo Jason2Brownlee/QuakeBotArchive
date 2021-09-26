@@ -1953,6 +1953,9 @@ OrionBots
 	first version
 		http://rapidshare.com/files/23106684/orion_bots.zip.html
 		orion_bots.zip
+	third version
+		http://shub-hub.quaddicted.com/files/mods_multiplayer/orionbots_v3_ra.zip
+		orionbots_v3_ra.zip
 Rogue Bot
 	Benjamin Darling aka "Electro"
 	reaper extension

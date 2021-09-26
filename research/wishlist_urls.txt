@@ -109,6 +109,7 @@ http://railgun.macquakeinfinity.com/downloads/fbctf026.zip
 http://railgun.macquakeinfinity.com/downloads/fbctf030.zip
 http://se.aminet.net/pub/aminet/game/patch/frogbot.lha
 http://shub-hub.quaddicted.com/files/mods_multiplayer/monsterFBXID1waysV2.zip
+http://shub-hub.quaddicted.com/files/mods_multiplayer/orionbots_v3_ra.zip
 http://skillz.macquakeinfinity.com/files/Frogbot012.sit
 http://ssj4death.condemned.com/gb/gbped10.zip
 http://sunsite.org.uk/packages/idgames2/planetquake/holywars/hw_frogbot.exe
