@@ -511,6 +511,17 @@ http://www.gamesmania.com
 		https://web.archive.org/web/20000226132508/http://www.gamesmania.com/english/quake/winners.htm
 
 
+https://shub-hub.com/
+	https://shub-hub.com/files/
+	https://shub-hub.com/files/mods_multiplayer/
+	https://shub-hub.com/files/mods_singleplayer/
+	TODO process...
+	http://shub-hub.dreamhosters.com
+		also...
+
+
+http://trinca.no.sapo.pt
+	TODO process all the way points...
 
 
 guides:

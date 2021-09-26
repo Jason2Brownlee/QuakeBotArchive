@@ -1941,8 +1941,10 @@ UrreBot
 OrionBots
 	http://shub-hub.quaddicted.com/files/mods_multiplayer/orionbots_v2.zip
 	orionbots_qc_beta5.zip
+		http://shub-hub.com/files/mods_multiplayer/orionbots_qc_beta5_2.zip
 	orionbots_v2.zip
 	orionbots4rel.zip
+		http://shub-hub.dreamhosters.com/files/mods_multiplayer/orionbots4rel.zip
 	https://www.quaddicted.com/webarchive/forums.insideqc.com/viewtopic.php%3Ff=5&t=794.html
 	by "Orion"
 	reelased oct 2007
