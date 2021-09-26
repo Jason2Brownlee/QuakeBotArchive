@@ -166,7 +166,7 @@ Omicron Bot | Jan Paul van Waveren aka "Mr. Elusive" and Miklos de Rijk aka "H2S
 Omicron Fixes | Joel Baxter aka "Johnny Law" | [obots102-fixed.zip](bin/obots102-fixed.zip)
 Optimized Frogbot (Amiga) | Christian Michael aka "surgeon" | [frogbot.lha](bin/frogbot.lha) ([txt](bin/frogbot.txt))
 Orion Team Fortress (OrionTF) (OrionBots) | "Orion" | [oriontf_beta4.zip](bin/oriontf_beta4.zip)<br>[oriontf_beta3.zip](bin/oriontf_beta3.zip)<br>[oriontf_beta2.zip](bin/oriontf_beta2.zip)<br>[oriontf.zip](bin/oriontf.zip)
-OrionBots | "Orion" | [orionbots4rel.zip](bin/orionbots4rel.zip)<br>[orionbots_v2.zip](bin/orionbots_v2.zip)<br>[orionbots_qc_beta5.zip](bin/orionbots_qc_beta5.zip)
+OrionBots | "Orion" | [orionbots4rel.zip](bin/orionbots4rel.zip)<br>[orionbots_v2.zip](bin/orionbots_v2.zip)<br>[orionbots_qc_beta5.zip](bin/orionbots_qc_beta5.zip)<br>orion_bots.zip
 Paddybot | Patrick Stimson aka "sniper" | paddybot02.zip<br>paddybot.zip
 Paroxysm (POXbot) (Tutorbot) | Frank Condello aka "pOx" | [paroxysm.zip](bin/paroxysm.zip)<br>[pox120b.zip](bin/pox120b.zip)<br>[pxsrc120.zip](bin/pxsrc120.zip)<br>[pox111b2.zip](bin/pox111b2.zip)<br>[pox111b.zip](bin/pox111b.zip)<br>[pox102b.zip](bin/pox102b.zip)<br>[pxqc102b.zip](bin/pxqc102b.zip)<br>[pox101bu.zip](bin/pox101bu.zip)<br>[pox_100.zip](bin/pox_100.zip)<br>[poxqc100.zip](bin/poxqc100.zip)<br>[pox_04b2.zip](bin/pox_04b2.zip)
 Prodigy Server Engine (XBots) (Reaper) | David Rodgers | prodigy35b1.zip

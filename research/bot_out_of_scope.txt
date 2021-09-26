@@ -184,5 +184,11 @@ SuperDuper / Bondo's SuperDuper Quake / SDQ
 	many versions
 	really large files...
 	basically a TC
-
+quake soccer
+	has a bot goal keeper...
+	http://forums.insideqc.com/viewtopic.php?f=1&t=1538
+	https://web.archive.org/web/20200704164906/http://forums.insideqc.com/viewtopic.php?f=1&t=1538
+	Orion
+		http://forums.inside3d.com/viewtopic.php?t=1538
+		not archived...
 

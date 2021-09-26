@@ -73,10 +73,7 @@ Soul of Evil
 	bots
 	http://www.quaketerminus.com/mods/soul_of_evil.zip
 	http://web.archive.org/web/20051218230947/http://www.planetquake.com/tronyn/soul/
-quake soccer
-	has bots?
-	http://forums.insideqc.com/viewtopic.php?f=1&t=1538
-	Orion
+
 
 
 

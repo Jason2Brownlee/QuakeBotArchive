@@ -176,6 +176,7 @@ obots100.zip
 obots101.hqx
 obots101.sit
 omega.zip
+orion_bots.zip
 paddybot.zip
 paddybot02.zip
 pak2pak.zip

@@ -1950,6 +1950,9 @@ OrionBots
 	http://forums.inside3d.com/viewtopic.php?t=635
 		https://web.archive.org/web/20070630064754/http://forums.inside3d.com/viewtopic.php?t=635
 	http://shub-hub.com/files/mods_multiplayer/orionbots_qc_beta5_2.zip
+	first version
+		http://rapidshare.com/files/23106684/orion_bots.zip.html
+		orion_bots.zip
 Rogue Bot
 	Benjamin Darling aka "Electro"
 	reaper extension
