@@ -2727,6 +2727,35 @@ SnowCrest's Quake Server Mods
 	cujo
 	Philip Engdahl aka "Grimorden"
 	http://www.snowcrest.net/pengdahl
-
+Quake Soccer / qsoccer
+	has a bot goal keeper...
+	http://forums.insideqc.com/viewtopic.php?f=1&t=1538
+	https://web.archive.org/web/20200704164906/http://forums.insideqc.com/viewtopic.php?f=1&t=1538
+	Orion
+		http://forums.inside3d.com/viewtopic.php?t=1538
+		not archived...
+	https://www.quaketastic.com/files/multiplayer/mods/
+		https://www.quaketastic.com/files/multiplayer/mods/qsoccer_finalish.zip
+			24 april 2009
+		https://www.quaketastic.com/files/multiplayer/mods/qsoccer_finalpatch.zip
+			24 april 2009
+		https://www.quaketastic.com/files/multiplayer/mods/qsoccer_v13.zip
+			3 nov 2009
+		https://www.quaketastic.com/files/multiplayer/mods/qsoccer_v132.zip
+			3 nov 2009
+		https://www.quaketastic.com/files/multiplayer/mods/soccer.zip
+			19 april 2009
+		https://www.quaketastic.com/files/multiplayer/mods/soccer2.zip
+			20 april 2009
+		https://www.quaketastic.com/files/multiplayer/mods/soccer2patch.zip
+			20 april 2009
+		https://www.quaketastic.com/files/multiplayer/mods/soccer3.zip
+			26 april 2009
+	don't think dates inside the zips are reliable, make best guess about order...
+	http://quakeone.com/forum/news/quake/4478-more-kicks-in-quake-soccer
+	http://forums.inside3d.com/viewtopic.php?t=1538
+		https://web.archive.org/web/20090528054507/http://forums.inside3d.com/viewtopic.php?t=1538
+	http://planetquake.gamespy.com/View4fcf.html?view=POTD.Detail&id=3938
+	http://quakegate.ru/news/news939/
 
 

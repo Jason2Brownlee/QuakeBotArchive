@@ -172,6 +172,7 @@ Paroxysm (POXbot) (Tutorbot) | Frank Condello aka "pOx" | [paroxysm.zip](bin/par
 Prodigy Server Engine (XBots) (Reaper) | David Rodgers | prodigy35b1.zip
 Quake Bot (QBot) | Muhammad Hidayat Bin Sman aka "Grinder" | [qbot11.zip](bin/qbot11.zip) ([txt](bin/qbot11.txt))
 Quake Dodgeball (OrionBots) | Brendan aka "Trickle" and "Orion" | [quake_dodgeball_v1.2.6.zip](bin/quake_dodgeball_v1.2.6.zip)<br>[db_src_2016.zip](bin/db_src_2016.zip)<br>[quake_dodgeball_1.1.zip](bin/quake_dodgeball_1.1.zip)
+Quake Soccer | Orion | [qsoccer_finalish.zip](bin/qsoccer_finalish.zip)<br>[qsoccer_finalpatch.zip](bin/qsoccer_finalpatch.zip)<br>[soccer3.zip](bin/soccer3.zip)<br>[soccer2.zip](bin/soccer2.zip)<br>[soccer2patch.zip](bin/soccer2patch.zip)<br>[qsoccer_v132.zip](bin/qsoccer_v132.zip)<br>[qsoccer_v13.zip](bin/qsoccer_v13.zip)<br>[soccer.zip](bin/soccer.zip)
 QuakeC Add-On Pack (QCAP) | Rich Whitehouse aka "thefatal" | [qcap2.zip](bin/qcap2.zip) ([txt](bin/qcap2.txt))
 QuakePlus (Reaper) | Alexander Vinnikova aka "plus" | [qplus.zip](bin/qplus.zip) ([txt](bin/qplus.txt))
 R Bot | Ross Johnson aka "ColdKill" | [rbot70.zip](bin/rbot70.zip) ([txt](bin/rbot70.txt))<br>[rbot20.zip](bin/rbot20.zip) ([txt](bin/rbot20.txt))<br>rbot.zip
