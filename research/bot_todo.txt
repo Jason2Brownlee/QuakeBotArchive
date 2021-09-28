@@ -2,6 +2,10 @@ TODO
 ---------
 More digging to do here...
 
+
+total conversion s that "have a bot", do we bother adding these...???
+not yet, they are massive
+
 quad hunt
 	http://users.skynet.be/bk236270/quad-hunt.htm
 	http://www.fileplanet.com/dl.aspx?/planetquake/cocot/quad_hunt_v10.zip
@@ -29,6 +33,25 @@ The Force / Duel of the Fates mod
 	Frika C / Akuma
 	mod / tc
 	uses frikbots
+	do we bother adding this?...
+	???
+Soul of Evil / SoE
+	bots / Frikbots
+	http://www.quaketerminus.com/mods/soul_of_evil.zip
+	http://web.archive.org/web/20051218230947/http://www.planetquake.com/tronyn/soul/
+	http://web.archive.org/web/20050216064733/http://dl.fileplanet.com/dl/dl.asp?tronyn/soe_full.zip
+	https://www.quaddicted.com/reviews/soe_full.html
+	http://planetquake.gamespy.com/View8528.html?view=Quake.Detail&id=208
+	http://web.archive.org/web/20050216064733fw_/http://www.planetquake.com/tronyn/soul/pdownload.htm
+	do we bother adding this?...
+	23 mb...
+	???
+
+
+
+todo..
+
+
 Qore
 	- has frikbotx
 	https://www.moddb.com/mods/qore
@@ -69,10 +92,7 @@ Bot Epidemic files
 	http://web.archive.org/web/20010803101723/http://www.3ddownloads.com/?directory=/telefragged/be/
 frikbot files
 	http://web.archive.org/web/20030703161548/http://www.3ddownloads.com/telefragged/inside3d/frikbot
-Soul of Evil
-	bots
-	http://www.quaketerminus.com/mods/soul_of_evil.zip
-	http://web.archive.org/web/20051218230947/http://www.planetquake.com/tronyn/soul/
+
 
 
 
