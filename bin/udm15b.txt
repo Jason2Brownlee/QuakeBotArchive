@@ -1,0 +1,405 @@
+Title    : Ultimate Devastation MOD
+Filename : udm15b.zip
+Version  : 1.5b
+Date     : 28/11/99 (28th November 1999)
+Author   : Malcolm Lim
+Email    : mlbl@botepidemic.com
+Credits  : Steven Polge for legendary reaper bot, Alan Kivlin for the bot rankings, author of Requiem (da best!), Roscoe A. Sincero for some parts of his norse functions,
+           skins from various authors, author of Paroxysm (Frank C), authors of Zerst�rer, author(s) of Requiem Ode To The Dead, Cameron Newham for his yaw code in Eliminator Bot,
+           Evolve Team (PainKeep), Pob the Impaler (Paul Johnstone), author of Quake Classic MOD TC, Andy Brennan (Ultimate Weapons MOD),
+           authors of Quake Mission Pack 1 and 2 for their weapons coding, author of Visible Weapons, Johannes Plass for telefrag reduction code,
+           author of the great WYRM (cool mod), author of Turrican, author of QDM, Nick "SiNGE" Bousman, Glenn "Griphis" Saaiman for some of their cool weapons (i.e: positron beam),
+           the great Ryan Frika C Smith for some of his chat routines taken from Frikbot, Muhammad Hidayat Bin Sman for some of his WarBot sounds,
+           Excalibur for his very cool and authentic doom 2-like bfg model and also the cool super-nailgun-like model, AzPak by Azure (you're cool!),
+           Howard Roy for the cool Mini Cannon, Michael 'MaNiAc' Turitzin for his CD Player code,
+           staff of Inside 3d for their excellent tut's and to the rest that i have left out (can't remember all!)
+
+Special  : Inside 3d staff for the tutorials, Jason Cheung for the lovely console background, Botepidemic and Telefragged for providing
+thanks     server space for UDM.
+
+Big      : ID Software <-- Without them, there'll be no quake...when there's no quake, this MOD wouldn't be here :)
+Thanks
+
+Beta     : Raymond Siah and Nicholas Chia (a.k.a Sohlican). I need more beta testers ! Especially those who have GlQuake.
+Testers
+
+Notice   : Ultimate Devastation MOD requires Quake version 1.08, if you run it on anything lower than that,
+           you may encounter weird results. Get Quake Version 1.08 at UDM's official site as listed at the end of this readme.
+           UDM works on GL Quake as well at least at the moment. Looks great though :)
+           Don't forget to delete your meshes directory (glquake) before running glquake after every new version of UDM has been released.
+           Besides that, delete opengl32.dll or rename it if you face problems running UDM under glquake (crashes for example)
+           Also make sure that you run quake with the -zone 2048 parameter or else it will crash with an error message.
+
+Build time : Approximately 3 - 5 months.
+
+Type of Mod
+-----------
+Quake C    : Of course !
+Sound      : Oh yeah !
+MDL        : This too !
+Deathmatch : Yep !
+Single
+Player     : Nope !
+Bots       : But of course !
+
+Format of QuakeC (if a Quake C Mod)
+-----------------------------------
+unified diff  : of course not (yes, and i kinda know what this is)
+context diff  : of course not (yes, and i kinda know what this is)
+.qc files     : not included (get them at http://www.botepidemic.com/udm)
+progs.dat     : yes
+
+Features
+--------
+- 20 new weapons to play against Reaper Bots (most of these weapons are also used by the bots)
+- New sounds from Quake Classic MOD (TC for Quake Test)
+- Added gibs from PainKeep MOD
+- Maximum amount of shells, nails, and cells have been maximized to 250 and rockets have been set to 100 maximum !
+- Footstep sounds (can be disabled)
+- Bots shows on rankings (thanks to reaper bot improvement tutorials from Inside 3d)
+- Reduced bot thud sounds (again thanks to the tutorials at Inside 3d)
+- Bots can be bounced around like humans (bounced by rockets, plasma, etc...)
+- Bots will now stop shooting during fraglimit/timelimit/level change.
+- Rocket Jumping bots !! (testing phase - from AI Cafe tutorial)
+- Shell ejections from weapons 3, 4, 5 and 7. (super shotgun, nailgun...etc)
+- Bots have random skills. ENABLED by default and can be disabled.
+- Bot skills are not shown any more (to make it more human-like:)
+- Rockets, nails, grenades, etc can be teleported !
+- Chasecam & Laser targetter for chasecam !
+- Option to disable or enable weapon auto switching !
+- Weapons and backpack drops once a player or bot dies. i.e : the weapon ITSELF is dropped + the backpack.
+  The backpack contains ammo only and the weapon DOES NOT have ammo. Otherwords, you should not take the weapon
+  without taking the backpack ! (you'll get a weapon, but without ammo:)
+- Ability to toss shells, nails, cells, rockets & weapons by key commands ! Useful for teamplay mode.
+- Deathmatch 4 support !
+- Explosive shells adapted from PainKeep MOD ! (with use of rockets + shells together)
+- Incorporated visible weapons patch ! Includes 3 new skins as well !
+- Megahealth now increases health till 250, instead of slowly decreasing till 100.
+- Armor is now much stronger.
+- Name and health status bar display similar to Quake 3 Arena !
+- Better observer mode that allows observer to "fly"
+- Cool Heads Up Display (HUD), useful for Full-Screen Quakers :)
+- Message of the Day that displays fraglimit, timelimit and deathmatch mode
+- Improved teamplay options for bots !
+- Bots have proper names in teamplay modes
+- Option to ask for help from bots (own team) in teamplay mode when in trouble !
+- Ability to disable certain options permanently by editing udm.cfg ! Read the section "configuring udm" for more info !
+- Allows random items, weapons & powerups respawning in two styles by editing udm.cfg !
+- Deathmatch 3 - weapons stay and items respawn
+- Deathmatch 5 - Last man standing !
+- Deathmatch 6 - full armor, 200 health, all weapons and heal up to 150 maximum if injured !
+- Deathmatch 7 - full armor, 250 health and heal up to 250 health maximum.
+- Deathmatch 8 - same as deathmatch 7 but weapons stay & items respawn plus random weapon at start !
+- Bots should now randomly choose weapons to use if the weapon has more than 1 mode
+  for example the rocket launcher, homing rocket launcher, etc...
+- Time remaining and fraglimit shown when player dies
+- 2 Minutes and last 10 seconds timelimit warning
+- Improved bot talking with realistic player like chat
+- Bots with the default skin and last skin will "Airjump" with airfist instead of rocket jumping
+- Bots may try to bounce your missiles off if they only have the shotgun (not always)
+- Bots will know how to use airfist to evade projectiles such as rockets, grenades etc based on skill level (above 1.5)
+- Bots know how to runaway from homing missiles (well sometimes)
+- Bots can move on ledge better and jump over ledge (on the start map - i've seen the bots jumping over the ledge to get the nailgun at the hard skill teleporter)
+- Merged with Kasuha's Deathmatch Camera 1.8 ! Neato deathmatch cam :) (Read kc18doc.txt for more info)
+- CTF Runes !!
+- Ability to enable or disable reaper bot's botpathing system (reduces no free edicts error a lot)
+- Random map cycler ! (modify maps.cfg to select which maps to cycle)
+- Added telefrag reduction code
+- Radar !
+- Ability to remove gibs to reduce slowdowns & packet overflows
+- Quad and Ring will drop if player/bot gets killed
+- Added a new weapon - Rocket Pods ! Get rid of your rockets fast ! :)
+- I'm hooked ! - The Grappling Hook is now at your disposal !
+- Improved random map cycler and now supports up to 32 maps !
+- New impulse commands to ease weapon selection (see new commands section) 
+- Auto spawning of bots are now allowed ! (edit server.cfg)
+- CD Player ! (by MaNiAc)
+- The gatling gun is now at your disposal ! (replaces Ricochet Nailgun)
+- Flame em up with the new Shrapnel Launcher !
+- Some new sounds from Quake 3 Arena
+- New alternate messaging system (like the original quake)
+- Wreck havoc with the Devastator !
+- New Armor Model (taken from AzPak) *
+- New Backpack Model (also from AzPak) *
+- New Rockets, Cells (from Paroxysm MOD), shells and nails (from AzPak again) Models *
+- New Door sounds (from Paroxysm MOD) and death sounds *
+- New Footsteps sounds (from Hipnotic Mission Pack 1) *
+- New Super Shotgun & Dual Super Shotgun Model (from Paroxsym MOD again) *
+- Bots will now be able to use wind tunnel properly *
+- Bots will now stay on platform / lift to go down a level or floor like a real player would *
+- Bot model will now yaw like a real player model (code taken from Cameron Newham's Eliminator Bot) *
+- New Weapon - Pulse Rifle (replaces Nailgun) *
+- And much much more ! Explore and find them out...
+
+* Indicates new feature or weapon since UDM 1.5
+
+Notice: If you already have a weapon, picking it up again once it respawns will not give you anything. This is to avoid
+        camping in a way. That means say if you have the rocket launcher, when it respawns and you still have it in your
+        inventory, you can't pick it up. As for the super shotgun, you can only pick it up twice the most to get two shotguns
+        for dual super shotguns. This is NOT reflected in deathmatch 2 or deathmatch 3 modes.
+
+Reminder: If you want to set a bot skill, please make sure you disable random bot skills first before attempting to change the
+          bot skill through the console. Type randomskill at the console to enable/disable bot random skill. After setting the
+          bot skill, restart the map and start fragging.
+
+Changes Since UDM 1.5
+---------------------
+- Removed Lag Simulator
+
+General Changes
+---------------
+- If there is some time left in your quad damage or ring of shadows and you get killed, it'll drop just like a backpack.-
+- Health boxes are now doubled !
+- Default maximum health is now set to 150, you will start with 100 health but can heal up to 150 health maximum UNLESS you pick up a megahealth.
+- weapons will now switch to "explosive" weapons such as grenade launcher and rocket launcher once a certain weapon goes out of ammo.
+  as opposite to what has been mentioned in the quake manual.
+- Radar - Bleeps and points to closest enemy. A beam of electricity shoots out towards the closest enemy showing their direction.
+        - The bleep will get stronger as the enemy gets closer to you.
+
+Improvements Since Version 1.5
+------------------------------
+- Better weights for ammunition.
+- Bot model will now yaw like a real player would i.e : if a bot is standing a level higher than his enemy on a map like dm4,
+  an if the bot fires the shaft down towards his enemy below, the bot model will show the bot pointing towards the enemy. Originally,
+  the bot model only pointed straight and that was quite limited as it cannot point towards the enemy whether up or down.
+  This was a feature that Steven Polge originally planned to add before he went to work at Epic.
+- The reaper bot will now be able to use the wind tunnel properly on maps such as jexdm1, bassness, etc...
+
+Bugs fixed Since Version 1.5
+----------------------------
+- Fixed a bug with the previous weapon stuff, if you selet a weapon using it's direct impulse (i.e plasma) and try to use the "+bfg" (for example) in a
+  script, it will refuse to switch back to the old weapon. It's fixed now.
+
+Description of the Modification
+-------------------------------
+This MOD basically combines the reaper bot and enhances the gameplay with the bots by fixing all the bugs that Steven Polge has left out
+such as the thud sounds, jumping bugs, etc. Also included are some new "toys" to play with and bits and pieces of coding have been taken
+from here and there to create this MOD. The main sounds and graphics of this MOD are from the Quake Classic MOD.
+
+Note: This MOD does not work for single player quake, it works only for multiplayer OR botmatch only (against BOTS that is).
+
+Some of the new weapons include :
+
+Airfist (1)                        - Deflect incoming rockets, grenades or nails.  Blast players or objects across the room.  Also a great way to launch yourself up and over obstacles!
+                                     (note: objects moved by AirFist blasts will eventually respawn in their original respawn positions)
+Chainsaw (1)                       - You should know how this baby works by now, it's of course much better than an axe but makes a lot of noise when you select it. Has a cool internal
+                                     and external model view as well as sounds. Internal model and sounds taken from WYRM mod and external view model from Zerst�rer.
+Grappling Hook (1)                 - The weapon that came from CTF is now at your disposal.
+Laser Gun (2)                      - This baby can radiate or toast your foes, deadly in close-range battles. Uses cells to fire.
+Twin Double-Barrelled Shotguns (3) - Double the fun with two super shotguns, increases the fire radius.
+Mini Cannon (3)                    - Another one of my favourite weapons, this baby can fire through walls with direct hit and not only that you can see holes on the walls/ceiling/floors or on almost anything that is non-living.
+                                     Uses up a lot of shells, so i'd recommend storing lots of shells and then fire at one go - it's fragtastic ! To get this weapon, you MUST pickup the super shotgun first. Then you press "3" to select the mini cannon.
+Pulse Rifle (4)                    - This version of the regular Nailgun shoots much higher velocity
+                                     nails. Therefore the projectiles will ricochet off any non-living
+                                     surface.  This specialized gun is perfect for shooting targets
+                                     around corners or behind you.  Skilled marksmen can do some
+                                     really impressive stuff with this gun.
+Gatling Gun (5)                    - The gatling gun fires quick direct shot nails that can waste your enemy quick much like the minigun but even more powerful. However, it takes 4 nails per shot.
+Proximity Gun (6)                  - As the name suggests, this weapon will fire proximity bombs that stick on anything that is not alive and will detonate upon contact with it.
+Cluster Grenade Launcher (6)       - Once fired, the grenade will explode into 5 mini grenades like a grenade fountain. (From Quake Mission Pack 2)
+Homing Rocket Launcher (7)         - A rocket that can track your enemy, but it is possible to avoid this rocket by running :)
+Multi Rocket Launcher (7)          - Fires 4 rockets that are spread out. (From Quake Mission Pack 2)
+Rocket Pods (7)                    - Fires a burst of rocket pods fast in random directions, can be very deadly sometimes especially with quad damage in a room full of bots or players. Takes up one rocket for each rocket pod, but requires at least 5 rockets before you can select the weapon.
+Shrapnel Launcher (7)              - The shrapnel launcher fires 4 flaming rockets that can bounce off any inanimate objects and upon contact with a human or bot, it will burn him. The only way to get rid of the flames is to get an armor or get into water. Uses 4 rockets to fire.
+Chain Lightning Gun (8)            - My favourite weapon, the chain lightning gun chains the enemy you target with other enemies close by. (Model and coding from Zerst�rer and sounds from PainKeep MOD)
+Plasma Gun (8)                     - Beefed up version of the thunderbolt, this weapon fires a deadly plasma bolt capable of chaining entities nearby. Chews up 10 cells per shot, be careful with this weapon !
+Positron Beam (8)                  - This baby is an antimatter weapon that will produce a huge explosion that can easily frag a couple of guys with it. Careful though, the radius is big enough to blow yourself up. Chews up a hefty 20 cells :)
+Mjolnir (9)                        - The mjolnir, THOR's warhammer - it can spread from one victim to another like the chain lightning gun.
+Twin Laser Cannon (9)              - This weapon emits a series of laser blasts that disintegrate anything in its path and has the ability to bounce off any inanimate objects at least once.
+BFG 9000 (0)                       - If you've played Doom, you should know what this baby does. Turn a room packed with people into gibs quick. Not guarenteed to gib everyone though but it has quite a large radius :)
+Devastator (0)                     - This baby is the weapon from Duke Nukem 3d and can wreck a lot of havoc with it's firing speed. Fires two rockets at the same time per side.
+
+Note: The numbers indicate the weapon number to tap to select these new weapons, for example press 3 twice when you get two super shotguns to select the twin double-barrelled shotgun.
+      You will automaticly get the new weapons when you pick up the corresponding weapon number i.e : picking up the rocket launcher will give you the homing rocket launcher and multi rocket launcher.
+      For the Mjolnir, you will get it when you pick up the new Mjolnir weapon taken from the Hipnotic Mission Pack. To get the mini cannon, pick up a super shotgun. As for the Twin Laser cannon, you
+      need to pick up the Laser Cannon weapon just like picking up a Mjolnir. This rule applies the same for the BFG 9000, picking it up will give you that weapon.
+      Pick up the rocket launcher to get a devastator as well.
+
+Soon-to-be-added weapons (subject to change) :
+Railgun (need to find a suitable model), and probably others :)
+
+Runes Description
+-----------------
+Runes can change the balance of the game, but it adds more fun to it, here are the 4 types of runes:
+
+Earth Magic - Owner will be able to resist any damage by two times.
+Black Magic - Do two times the amount of damage to any living being.
+Hell Magic - Haste. Speeds up your firing times.
+Elder Magic - Regenerates your health & armor.
+Heaven Magic - Regenerates your ammo ! Nifty rune i should say :)
+Ignorance Rune - Powerups and runes won't work on you once you pickup this rune.
+Reflection Rune - Wearing this rune will reflect any projectiles that touches you !
+                  Very neat, but you're not all superman yet, beam type of weapons, nailguns and normal shotguns can still kill you.
+
+Once you pick up a rune, you cannot pick up another. If you'd prefer the other rune, you must first drop your rune by typing droprune in the console.
+When you die, your rune will drop like backpacks and weapons.
+
+Maps Included
+-------------
+Armageddon 1, 2 and 3 by Matthias Worch and Broken Hope by Moloch.
+Just type arma1 / arma2 / arma3 / infect in the console to load the map.
+
+Future Enhancements:
+- More weapons (drunken missiles, etc)
+- Option to change grenade explosion / detonation timing (maybe)
+- Other stuff that i can think of :)
+
+These new weapons include new models and sounds as well. The bots will use the weapons as well, randomly.
+
+Note: You can type in both the alias or the console commands onto the console to activate a specific option/command.
+
+Commands include:
+KEY
+
+New Commands :
+----------------------------------------------------
+Keyboard          Alias                 Console
+----------------------------------------------------
+'                sniper_t                           - Toggle sniper mode
+\                rocketjump                         - Fast and easy way to Rocket Jump !
+x                chasecam               impulse 20  - Toggle Chasecam
+f                lasertarget            impulse 21  - Toggle laser targetter and laser spotlight
+f1               explodeshell           impulse 50  - Toggle exploding shells
+f2               autoswitch             impulse 51  - Toggle weapon auto switching
+f4               shelleject             impulse 52  - Toggle shells ejection
+f5               randomskill            impulse 53  - Toggle bot random skills
+f6               bottalking             impulse 54  - Toggle bot talking
+f7               botrocketjump          impulse 55  - Toggle bot rocket jumping
+h                hud                    impulse 57  - Toggle Heads Up Display (HUD)
+not bounded      removebot              impulse 58  - Remove one bot
+not bounded      showskill               impulse 59  - Displays the skill of all the bots that have been spawned
+backspace        droprune               impulse 63  - Drops the rune that you currently have
+home key         radar                  impulse 64  - Toggles radar
+g                +airgun (x)                        - Fire airfist and switch back to previous weapon
+f8               removegibs             impulse 67  - Clears the whole map from gibs if it gets messy
+f9               showrrune              impulse 68  - Shows what rune you are wearing and the effects
+not bounded      chainsaw               impulse 70  - Select the chainsaw
+not bounded      grapple                impulse 71  - Select the grappling hook
+not bounded      cluster                impulse 72  - Select the cluster grenade
+not bounded      homing                 impulse 73  - Select the homing missile
+not bounded      multirocket            impulse 74  - Select the multi rocket
+not bounded      rpods                  impulse 75  - Select the rocket pods
+not bounded      chain                  impulse 76  - Select the chain lightning gun
+not bounded      plasma                 impulse 77  - Select the plasma gun
+not bounded      positron               impulse 78  - Select the positron beam
+not bounded      mjolnir                impulse 79  - Select the mjolnir
+not bounded      bfg                    impulse 80  - Select the bfg 9000
+not bounded      twinlaser              impulse 81  - Select the Twin Laser
+not bounded      shrapnel               impulse 82  - Select the Shrapnel Launcher
+not bounded      devastator             impulse 83  - Select the Devastator
+not bounded      cdplayer               impulse 90  - Show CD Player menu
+end              +hook (x)                          - Launches the grappling hook and switch to previous weapon
+w                throwweapon            impulse 99  - Throw current weapon
+k                camera                 impulse 250 - Run Kascam (cannot be disabled)
+y                throwshells            impulse 251 - Toss shells
+u                thrownails             impulse 252 - Toss nails
+i                throwrockets           impulse 253 - Toss rockets
+j                throwcells             impulse 254 - Toss cells
+
+* - Indicated new keys since UDM Version 1.5
+x - This alias needs to be binded before it can be used if it is not already bounded.
+------------------------------------------------------------------------------------------------------------------------------------
+Key commands from original reaper bots :
+
+[                skindown               impulse 201 - Decrement skin (if skins support is set)
+]                skinup                 impulse 200 - Increment skin (if skins support is set)
+p                                       impulse 202 - Toggle skins support - three settings (enabled by default)
+					(off, normal, skill skins)
+					With skill skins mode, bot skin
+					depends on its skill level
+b                addbot                 impulse 205 - add a bot (can do it repeatedly)
+n                add4bots               impulse 208 - add four bots
+r                removeallbots          impulse 211 - remove all bots
+o                observer               impulse 212 - Toggle observer mode (type flymode to fly while in observer mode)
+                 updatebots             impulse 214 - update bots. Use when the 
+				SV_GRAVITY or SV_MAXSPEED 
+				server cvars are changed.
+v                verbosebots            impulse 215 - Toggle verbose mode (set developer to 1)
+				(bots tell you what they're doing).
+                 restrictedmode         impulse 218 - turn on restricted mode (only
+				client 0 can add bots or become
+				an observer)
+                 superrestricted        impulse 219 - turn on super restricted mode
+				(no client can add bots or become
+				an observer)
+                 updatecolors           impulse 221 - update team colors (used to tell
+				the bots on your team if you change
+				colors)
+                                        impulse 1XX - Bounds the total number of bots
+				+ players to XX (XX must no
+				greater than 15)  Enough bots to
+				meet this bound are spawned, and
+				they leave and come back as players
+				enter and leave the server.
+
+Configuring Ultimate Devastation MOD
+------------------------------------
+This is a new and unique feature of UDM, whereby you can configure which settings you want and set it permanently such as
+the weapon auto switching, shells ejection, etc can be set by editing udm.cfg.
+Just edit udm.cfg using a normal text editor and change the temp1 value accordingly. You must add the values together if you
+want to disable and or enable certain features at the same time. Say you want to disable both shell ejection and weapon auto switching,
+just place in the temp1 value of 24 as 8 + 16 = 24 ! You may only add OR subtract the values, no division or multiplication is required :)
+Simple? Easy peasy.
+
+By default the temp1 value will be 3687680, with random items and weapon respawning style 2 & random powerups style 2, full armor at start, etc,
+and all the rest of the features are enabled, so it's up to you to set them to your liking.
+
+Known Bugs
+----------
+- game may crash on certain maps and this requires you to restart your computer unless you're playing UDM on ms-dos prompt in windows environment.
+- too many bots and frags may cause a lot of packet overflows, but it should stop after awhile.
+- no free edicts error message may pop up , but happens normally when there's too many entities in the game. (gibs, shell casings, etc)
+  spawning less bots will help, especially when playing deathmatch 4 or deathmatch 6.
+- Chasecam may jam once in a while, unsure what causes this to happen.
+- i had to disable the CheckReboundAttack routine as this routine causes problems to the plasma's firing routine, so you might see the bots "getting bored with life"
+  once in a while or even "tries to put the pin back in"...unless i can come up with an idea on how to fix this.
+- 8 meg ram users may experience jerky gameplay with the new Visible weapons model as they have skins as well and this takes longer to load up.
+
+Utilities Used
+--------------
+- Quake Army Knife for copy and paste skins job and adding new skins to the Visible Weapon models.
+- Adquedit for replacing skins that have been added using Quake Army Knife.
+- Pak Explorer for packing and extracting purposes.
+- Proqcc for decompiling purposes (used to use this for compiling as well).
+- Fastqcc for compiling purposes (very useful).
+- Edit.com for quake c :)
+- Standard dos pkzip to zip up udm into a zip file :)
+- My brain :)
+
+How to Install the Modification
+-------------------------------
+
+Extract the zip archive to your quake\udm directory (you may extract it to another folder if you want to but
+if you do so, you must edit udm.bat / winudm.bat to reflect the -game udm directory, rename udm to the directory where you have installed udm).
+After extracting, copy the file "udm.bat" in the directory that you have extracted, to the main
+quake directory. To play Ultimate Devastation MOD, just run the file udm.bat from your quake directory.
+If you have winquake, copy the file winudm.bat instead to your quake directory and run it.
+GlQuake users should use gludm.bat instead.
+
+Author Information
+------------------
+
+This is my first publicly distributed MOD.
+I'm a college student finishing my pre-university studies at Taylor's College (Malaysia).
+Currently i am running two pages , one is of course UDM's homepage and the other is my two year old TA site called
+Total Annihilation Unit Creation Center that distributes the unit pack called TAUIP at http://www.taucc.com
+
+Copyright and Distribution Permissions
+--------------------------------------
+
+The original QuakeC source is Copyright 1996, id software.
+
+Authors MAY use these modifications as a basis for other publicly but do credit the authors where applicable.
+If you intend to use any part of this modification, do kindly notify me by e-mail, thank you.
+
+You may distribute this Quake modification in any electronic format as long as
+all the files in this archive remain intact and unmodified and are distributed
+together.
+
+
+Availability
+------------
+
+This modification is available from the following places:
+
+http://www.botepidemic.com/udm

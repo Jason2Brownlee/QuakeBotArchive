@@ -2757,5 +2757,35 @@ Quake Soccer / qsoccer
 		https://web.archive.org/web/20090528054507/http://forums.inside3d.com/viewtopic.php?t=1538
 	http://planetquake.gamespy.com/View4fcf.html?view=POTD.Detail&id=3938
 	http://quakegate.ru/news/news939/
+Ultimate Devastation / UDM
+	Reaper Bot
+	Malcolm Lim
+	https://web.archive.org/web/20001211024700/http://www.inside3d.com/?show=August-1999
+	https://web.archive.org/web/20001211024700/http://www.botepidemic.com/udm
+		https://web.archive.org/web/20001117161300/http://www.botepidemic.com/udm/downloads.htm
+		http://tux.telefragged.com/file.pl?filename=udm15b.zip&dir=telefragged/be/udm/
+			udm15b.zip
+		http://tux.telefragged.com/file.pl?filename=udm15-15b.zip&dir=telefragged/be/udm/
+			udm15-15b.zip
+		http://tux.telefragged.com/file.pl?filename=udm12-15b.zip&dir=telefragged/be/udm/
+			udm12-15b.zip
+		http://tux.telefragged.com/file.pl?filename=udmsrc.zip&dir=telefragged/be/udm/
+			udmsrc.zip
+	https://web.archive.org/web/20000818041935/http://modcentral.stomped.com/revs/udmrev.html
+		review
+	https://www.quakewiki.net/quakesrc/54.html
+	http://www.geocities.com/mlbl/
+		https://web.archive.org/web/20040930021648/http://www.geocities.com/mlbl/mods.htm
+		https://web.archive.org/web/20011225082635/http://www.botepidemic.com/udm/readme.txt
+		https://web.archive.org/web/20040930021648/http://www.3ddownloads.com/?file_id=14652
+		https://web.archive.org/web/20040930021648/http://www.geocities.com/mlbl/files/udmsrc.zip
+	http://www.geocities.ws/mlbl/mods.htm
+		http://www.3ddownloads.com/?file_id=14652
+		http://www.geocities.ws/mlbl/files/udmsrc.zip
+	https://www.quakewiki.net/archives/botarea51/main/qbot87f1.html?id=14
+		http://botarea51.impulse9.net/mirror/bot/udm15b.zip
+		http://www.fileplanet.com/dl.aspx?/planetquake/botarea51/bot/udm15b.zip
+
+
 
 

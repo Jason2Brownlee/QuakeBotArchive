@@ -222,6 +222,9 @@ ud150.zip
 ud160.zip
 ud170.zip
 ud201.zip
+udm12-15b.zip
+udm15-15b.zip
+udm15b.zip
 ultdet110.zip
 var14.zip
 var18.zip
@@ -248,3 +251,5 @@ zeus20.zip
 zeus201.zip
 zeus202b.zip
 zeus2041.zip
+
+

@@ -52,9 +52,13 @@ Soul of Evil / SoE
 todo..
 
 
-Qore
-	- has frikbotx
-	https://www.moddb.com/mods/qore
+FMOD files (directory)
+	http://web.archive.org/web/20011226155203/http://www.3ddownloads.com:80/?directory=/telefragged/be/fmods/
+	(i added many...)
+Bot Epidemic files
+	http://web.archive.org/web/20010803101723/http://www.3ddownloads.com/?directory=/telefragged/be/
+frikbot files
+	http://web.archive.org/web/20030703161548/http://www.3ddownloads.com/telefragged/inside3d/frikbot
 frogbot waypoints
 	https://web.archive.org/web/20011004091210/http://www.botepidemic.com/fmods/maps.htm
 frogbot utils
@@ -79,19 +83,12 @@ frikbot mods
 quaketastic multiplayer
 	https://www.quaketastic.com/files/multiplayer/mods/
 	process all these files...
+Qore
+	- has frikbotx
+	https://www.moddb.com/mods/qore
 frogbot + kt
 	https://www.quakeworld.nu/forum/topic/7068/new-frogbots
 	(server side) not released?
-Ultimate Devastation mod
-	has reapers
-	https://web.archive.org/web/20001211024700/http://www.inside3d.com/?show=August-1999
-FMOD files (directory)
-	http://web.archive.org/web/20011226155203/http://www.3ddownloads.com:80/?directory=/telefragged/be/fmods/
-	(i added many...)
-Bot Epidemic files
-	http://web.archive.org/web/20010803101723/http://www.3ddownloads.com/?directory=/telefragged/be/
-frikbot files
-	http://web.archive.org/web/20030703161548/http://www.3ddownloads.com/telefragged/inside3d/frikbot
 
 
 
