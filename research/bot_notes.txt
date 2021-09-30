@@ -2785,7 +2785,23 @@ Ultimate Devastation / UDM
 	https://www.quakewiki.net/archives/botarea51/main/qbot87f1.html?id=14
 		http://botarea51.impulse9.net/mirror/bot/udm15b.zip
 		http://www.fileplanet.com/dl.aspx?/planetquake/botarea51/bot/udm15b.zip
-
+Jeht
+	Wazat
+	Uses Frikbots
+	http://leileilol.mancubus.net/static/jeht.html
+	https://www.moddb.com/mods/jeht
+	https://www.moddb.com/mods/jeht/images
+	http://leileilol.mancubus.net/static/files/jeht15.zip
+	http://leileilol.mancubus.net/static/files/jehtreadme.txt
+	http://leileilol.mancubus.net/static/files/jehtchanges.txt
+	prior versions...
+		1.4, 1.3.1, 1.3, 1.2, 1.1, 1.0
+	http://planetquake.gamespy.com/View3ee3.html?view=MOTW.Detail&id=2
+		2005
+	http://static.condemned.com/jeht.shtml
+		http://static.condemned.com/files/jeht15.zip
+		http://static.condemned.com/files/jehtchanges.txt
+		http://static.condemned.com/files/jehtreadme.txt
 
 
 

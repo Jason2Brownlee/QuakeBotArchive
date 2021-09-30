@@ -78,8 +78,15 @@ frikbot mods
 quake mods here that have a bot added
 	http://www.randars.com/bots/bots2.html
 frikbot mods
+	Wazat
 	http://leileilol.mancubus.net/static/download.html
-	...
+	Best Of Void
+		http://leileilol.mancubus.net/static/files/bestvoid.zip
+	Battle Mech
+		http://leileilol.mancubus.net/static/bmech.html
+	CTF Plugin Playable
+		http://leileilol.mancubus.net/static/files/ctfprogs.zip
+		http://leileilol.mancubus.net/static/files/ctfplug2.zip
 quaketastic multiplayer
 	https://www.quaketastic.com/files/multiplayer/mods/
 	process all these files...
