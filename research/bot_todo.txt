@@ -80,8 +80,6 @@ quake mods here that have a bot added
 frikbot mods
 	Wazat
 	http://leileilol.mancubus.net/static/download.html
-	Best Of Void
-		http://leileilol.mancubus.net/static/files/bestvoid.zip
 	Battle Mech
 		http://leileilol.mancubus.net/static/bmech.html
 	CTF Plugin Playable

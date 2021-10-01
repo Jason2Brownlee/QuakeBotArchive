@@ -2802,6 +2802,18 @@ Jeht
 		http://static.condemned.com/files/jeht15.zip
 		http://static.condemned.com/files/jehtchanges.txt
 		http://static.condemned.com/files/jehtreadme.txt
-
+Best Of Void
+	Wazat
+	Uses Frikbots
+	http://leileilol.mancubus.net/static/download.html
+	http://leileilol.mancubus.net/static/files/bestvoid.zip
+	http://leileilol.mancubus.net/static/files/bvreadme.txt
+	http://leileilol.mancubus.net/static/files/bvchanges.txt
+		many prior versions
+	http://mods.moddb.com/852/
+	http://leileilol.mancubus.net/static/shots.html
+	http://static.condemned.com/jeht.shtml
+		https://web.archive.org/web/20030803192937/http://static.condemned.com/jeht.shtml
+		https://web.archive.org/web/20030606211133/http://static.condemned.com/files/bestvoid.zip
 
 
