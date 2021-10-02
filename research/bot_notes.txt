@@ -2815,5 +2815,22 @@ Best Of Void
 	http://static.condemned.com/jeht.shtml
 		https://web.archive.org/web/20030803192937/http://static.condemned.com/jeht.shtml
 		https://web.archive.org/web/20030606211133/http://static.condemned.com/files/bestvoid.zip
+Battle Mech
+	Dan Hale aka "Wazat"
+	Uses Frikbots
+	http://leileilol.mancubus.net/static/bmech.html
+		http://leileilol.mancubus.net/static/files/battlemech1_1.zip
+		http://leileilol.mancubus.net/static/files/bmech_src.zip
+		http://leileilol.mancubus.net/static/files/bmech_stuff/battlemech-1.1.tar.tar
+		http://leileilol.mancubus.net/static/files/bmech_stuff/bmechstuff.zip
+	http://static.condemned.com
+		http://static.condemned.com/files/bmech.zip
+		http://static.condemned.com/files/bmech_stuff/battlemech-1.1.tar.gz
+		http://static.condemned.com/files/bmech_stuff/bmechstuff.zip
+		http://static.condemned.com/files/bmech_stuff/linux_instruct.txt
+	battlemech-1.1.tar.gz
+		25 mb...
+
+
 
 

@@ -1,0 +1,37 @@
+Assembled comments from GG, to tell what these files are:
+
+You can grab a Linux .tar.gz version of Battlemech and
+the new windows binaries with these files, download
+both. A new mainmenu is also included in the .zip
+file. "Single Player" is greyed out now to indicate
+that there is no single player available yet and it's
+no longer "Help / Ordering" but only "Help". Check it
+out.
+The Linux version has only a pak0.pak but is version
+1.1. I glued them together to make it smaller.
+
+NOTE:
+The new basedir is now called "base", so make sure to
+rename the "Id1" folder to "base"!
+
+In the multiplayer menu you now can chose between
+Deathmatch and Rambo match.
+I added a autoexec.cfg file. The only thing I changed
+is a line that sets the maxplayers cvar to 4 to save
+some ressources in some engines (that was usefull for
+Darkplaces until yesterday. LH changed the code so
+it's no longer requiered but usefull).
+
+
+Wazat's note:
+bmechstuff.zip does not appear to have any folders in
+it.  This means you'll have to move the files yourself.
+:(
+
+Here's where they go:
+The two battlemech .exe files go in the BattleMech
+folder, as do the two dlls.  autoexec.cfg goes in
+the newly renamed "base" folder.  mainmenu.lmp and
+menuplyr.lmp go in the base/gfx folder.
+
+Hope this info is correct.  <:)

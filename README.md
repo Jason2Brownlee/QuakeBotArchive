@@ -48,7 +48,8 @@ Asdf's FMOD (Frogbot) | Matt McChesney aka "asdf" | [asdfmod100.zip](bin/asdfmod
 Attacker | Jonathan Geary | [attacker.zip](bin/attacker.zip) ([txt](bin/attacker.txt))
 Awesome (Warbot) | Brett King aka "BulkA" | [awesome.7z](bin/awesome.7z)
 AxxWars (Cujo, Eliminator) | Akke Monasso | [axxwars10.zip](bin/axxwars10.zip) ([txt](bin/axxwars10.txt))
-Best Of Void (Frikbot) | "Wazat" | [bestvoid.zip](bin/bestvoid.zip)
+Battle Mech (Frikbots) | Dan Hale aka "Wazat" | [battlemech1_1.zip](bin/battlemech1_1.zip)<br>[bmech_src.zip](bin/bmech_src.zip)<br>[battlemech-1.1.tar.gz](bin/battlemech-1.1.tar.gz) ([txt](bin/battlemech-linux-1.1.txt))<br>[bmech.zip](bin/bmech.zip)
+Best Of Void (Frikbot) | Dan Hale aka "Wazat" | [bestvoid.zip](bin/bestvoid.zip)
 BGADM Bot | George Leithner aka "Detour" | [bgadm101.zip](bin/bgadm101.zip) ([txt](bin/bgadm101.txt))<br>bgadmbot.zip
 BGBot | Robert DeFilippo III aka "Punisher" | [bgbot20a.zip](bin/bgbot20a.zip) ([txt](bin/bgbot20a.txt))<br>[bgbot16.zip](bin/bgbot16.zip) ([txt](bin/bgbot16.txt))<br>[bgbot16_src.zip](bin/bgbot16_src.zip)<br>[bgbot15.zip](bin/bgbot15.zip) ([txt](bin/bgbot15.txt))<br>[bgbot13.zip](bin/bgbot13.zip) ([txt](bin/bgbot13.txt))<br>[bgbot125.zip](bin/bgbot125.zip) ([txt](bin/bgbot125.txt))<br>[bgbot12.zip](bin/bgbot12.zip) ([txt](bin/bgbot12.txt))<br>[bgbot11.zip](bin/bgbot11.zip) ([txt](bin/bgbot11.txt))<br>[bgbot1.zip](bin/bgbot1.zip) ([txt](bin/bgbot1.txt))
 Borg Bot | Calvin Rien | [borg12.zip](bin/borg12.zip) ([txt](bin/borg12.txt))
@@ -135,7 +136,7 @@ Indecisive Bot (Gyrobot) | Aaron Logue aka "Gyro Gearloose" | [gyrobot.zip](bin/
 Insane (Cujo) | "RedChipolata" | [insane.zip](bin/insane.zip) ([txt](bin/insane.txt))
 IronWulvt's Deathmatch Bot | Ben Garrod aka "IronWulvt" | [iwbot21.zip](bin/iwbot21.zip) ([txt](bin/iwbot21.txt))<br>iwbot20.zip<br>[iwbot16.zip](bin/iwbot16.zip)<br>iwbot15.zip<br>[iwbot1.zip](bin/iwbot1.zip) ([txt](bin/iwbot1.txt))
 JBot | Jeffrey Lee | [jbot.zip](bin/jbot.zip)
-Jeht (Frikbots) | "Wazat" | [jeht15.zip](bin/jeht15.zip)
+Jeht (Frikbots) | Dan Hale aka "Wazat" | [jeht15.zip](bin/jeht15.zip)
 Kagero Bot | "The Kwanster" | [kagero.zip](bin/kagero.zip)
 KALQuake (Wisp) | Kenneth Livingston aka "-=CT=-KALWeb " | [kal_qk-p.zip](bin/kal_qk-p.zip) ([txt](bin/kal_qk-p.txt))<br>[kal_qk-s.zip](bin/kal_qk-s.zip) ([txt](bin/kal_qk-s.txt))
 KarNag Bot | Ken Madlener aka "Kenzer" | [knbot45.zip](bin/knbot45.zip) ([txt](bin/knbot45.txt))<br>[knbot03.zip](bin/knbot03.zip)<br>knbot02.zip<br>knbot01.zip
