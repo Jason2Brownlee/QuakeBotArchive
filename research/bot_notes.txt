@@ -2830,6 +2830,14 @@ Battle Mech
 		http://static.condemned.com/files/bmech_stuff/linux_instruct.txt
 	battlemech-1.1.tar.gz
 		25 mb...
+CTF Plugin Playable
+	Dan Hale aka "Wazat"
+	Uses Frikbots
+	pluin ctf + bots into any mod, also playable
+	http://leileilol.mancubus.net/static/files/ctfprogs.zip
+	http://leileilol.mancubus.net/static/files/ctfplug2.zip
+
+
 
 
 
