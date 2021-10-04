@@ -77,15 +77,34 @@ frikbot mods
 	TODO, what are all these mods...?
 quake mods here that have a bot added
 	http://www.randars.com/bots/bots2.html
-quaketastic multiplayer
-	https://www.quaketastic.com/files/multiplayer/mods/
-	process all these files...
 Qore
 	- has frikbotx
 	https://www.moddb.com/mods/qore
 frogbot + kt
 	https://www.quakeworld.nu/forum/topic/7068/new-frogbots
 	(server side) not released?
+quaketastic multiplayer
+	https://www.quaketastic.com/files/multiplayer/mods/
+		https://www.quaketastic.com/files/multiplayer/mods/updatedfbx.zip
+			added
+		https://www.quaketastic.com/files/multiplayer/mods/tekbotctf.zip
+		https://www.quaketastic.com/files/multiplayer/mods/tekbotctf_01.zip
+			bot config software I believe
+		Soccer
+			all processed...
+		https://www.quaketastic.com/files/multiplayer/mods/qreal.zip
+			unreal weapons in quake
+		oriontf.zip
+			processed all..
+		multiskin_ModFiles.zip
+			dead bodies
+		https://www.quaketastic.com/files/multiplayer/mods/fhd.zip
+			Fiend Hunted
+		https://www.quaketastic.com/files/multiplayer/mods/dodgeball.zip
+		https://www.quaketastic.com/files/multiplayer/mods/dodgeball3.zip
+		https://www.quaketastic.com/files/multiplayer/mods/dodgeball_01.zip
+		https://www.quaketastic.com/files/multiplayer/mods/dodgeball_patch.zip
+			processed...
 
 
 
