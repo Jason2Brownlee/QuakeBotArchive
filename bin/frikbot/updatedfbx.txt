@@ -1,0 +1,13 @@
+Yes, I do! I'll upload it in a bit for you here. I'll just send you the bot_*.qc files... I also added igor9's (I think that's his name) advanced item pickup code that he used for FBX+. I didn't make the aim offsets myself, I dug around in some old mods I had laying around, and found that Wazat's Jeht mod (awesome mod by the way) had aim offsets implemented. Granted they aren't perfect, but make things much more fair.
+
+Wazat also added in some aiming delays so you don't get nailed with a rocket the instant you come through a teleporter or whatnot. Those behaved sort of odd for me however (bots waiting 3 seconds to fire much too often), so I never added those to NewDM.
+
+Later I may add in some simple interpolation code that r00k suggested to make the aim offsets not appear as jerky. Dividing the offset angle by / 65535 is what does it. I'll have to try that and playtest it myself to see how it works.
+
+-- I've also updated the main post with a thanks list!
+
+
+
+
+bta.monster
+http://quakeone.com/forum/quake-mod-releases/works-in-progress/5522-newdm-revival/page3
