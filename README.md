@@ -193,7 +193,7 @@ Requiem | Alexander Fiedler aka "Requiem" | [req2_pe.zip](bin/req2_pe.zip) ([txt
 Ric's Reaper Bots | "Ric" | [reap081h.zip](bin/reap081h.zip)
 Rise of the Baron (Cujo) | Jason Avery | [baron.zip](bin/baron.zip) ([txt](bin/baron.txt))
 Roam Bot | Carson Sutton aka "Crimson" | [roambot1.zip](bin/roambot1.zip) ([txt](bin/roambot1.txt))
-Rogue Bot | Benjamin Darling aka "Electro" | [rbot.zip](bin/rbot.zip)
+Rogue Bot (Reaper) | Benjamin Darling aka "Electro" | [rbot.zip](bin/rbot.zip)
 Rumble 2: GuardBot's Challenge | Christopher Dozier "Arwing-X" | [rumble2.zip](bin/rumble2.zip) ([txt](bin/rumble2.txt))
 SAM-FraG (BGBot) | "SpiderMonkie" | [sam-fragv001a.zip](bin/sam-fragv001a.zip) ([txt](bin/sam-fragv001a.txt))
 SamBot | Sam Stephens aka "Spam-man" | [sambot.zip](bin/sambot.zip) ([txt](bin/sambot.txt))
