@@ -119,7 +119,7 @@ Frogbot + Holy Wars | Gerard Ryan aka "numb and Paolo Perrotta aka "Nusco" | hw_
 Frogbot + QuakeWorld | Rich Whitehouse aka "thefatal" | [qwsvfrog.zip](bin/qwsvfrog.zip)
 Frogbot + Rocket Arena (Amiga) | Christian Michael aka "surgeon" | [fbotarena.lha](bin/fbotarena.lha) ([txt](bin/fbotarena.txt))<br>[fbotarena_b.lha](bin/fbotarena_b.lha) ([txt](bin/fbotarena_b.txt))
 Frogbot + Rocket Arena | Alexey Pakhomov aka "ParboiL" | [fbra.zip](bin/fbra.zip)
-Frogbot + Rocket Arena | Brian Mathiasen aka "Erazor" | fbarena070.zip<br>fbarena060.zip<br>fbarena050.zip<br>fbarena013.zip
+Frogbot + Rocket Arena | Brian Mathiasen aka "Erazor" | [fbarena070.zip](bin/fbarena070.zip)<br>fbarena060.zip<br>fbarena050.zip<br>fbarena013.zip
 Frogbot 2000 | Dennis de Boer aka "Justice" | [f2k006d.zip](bin/f2k006d.zip)<br>[versie.zip](bin/versie.zip)<br>f2k005d.zip<br>[f2k003c.zip](bin/f2k003c.zip)<br>f2k001a.zip<br>2000.zip
 Frogbot BotMatch Arena | Alex aka "DmSouL" | [botmatch.zip](bin/botmatch.zip) <br>[source_of_bm.zip](bin/source_of_bm.zip)<br>bm119gl.zip ([txt](bin/bm119gl.txt))<br>bm116se.zip
 Frogbot Deathmatch | Alexey Pakhomov aka "ParboiL" | [fbdm012.zip](bin/fbdm012.zip)<br>[fbdm07.zip](bin/fbdm07.zip)
