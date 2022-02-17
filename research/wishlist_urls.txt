@@ -24,7 +24,6 @@ ftp://ftp.grayphics.com/pub/frigid/botblast/obots101.hqx
 ftp://ftp.grayphics.com/pub/frigid/botblast/reaper08.sit.hqx
 ftp://ftp.pk.edu.pl/pub/games/id/quaketoys/mods/reaprb75.zip
 ftp://ftp.saix.net/pub/telefragged/metro/frogbot009.zip
-ftp://ftp.saix.net/pub/telefragged/metro/frogbot011b.zip
 ftp://ftp.stomped.com/pub/quake/quakec/misc/cujo11.zip
 ftp://ftp.stomped.com/pub/quake/quakec/weapons/var14.zip
 ftp://ftp.stomped.com/pub/redwood/bots/oak0855.zip
@@ -38,11 +37,9 @@ ftp://ftp.telefragged.com/pub/swtc/obots100.zip
 ftp://ftp.telepac.pt/pub/idgames2/telefragged/epidemic/frogbot012.zip
 ftp://ftp.telepac.pt/pub/idgames2/telefragged/epidemic/frogbot012a.zip
 ftp://ftp.telepac.pt/pub/idgames2/telefragged/epidemic/frogbot012b.zip
-ftp://ftp.telepac.pt/pub/idgames2/telefragged/metro/frogbot000.zip
 ftp://ftp.telepac.pt/pub/idgames2/telefragged/metro/frogbot005.zip
 ftp://ftp.telepac.pt/pub/idgames2/telefragged/metro/frogbot007.zip
 ftp://ftp.telepac.pt/pub/idgames2/telefragged/metro/frogbot009.zip
-ftp://ftp.telepac.pt/pub/idgames2/telefragged/metro/frogbot011b.zip
 ftp://ftр.telefragged.com/рub/frogbotb009.ziр
 ftp://nctuccca.edu.tw/PC/games/QUAKE/newstuff/guardbot.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf004.zip
@@ -76,12 +73,10 @@ http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/holywars/hw_frogbot.zip
 http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/holywars/hwqwbot.exe
 http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/holywars/hwqwbot.sit
 http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/holywars/hwqwbot.zip
-http://ftp.telepac.pt/pub/idgames2/telefragged/metro/frogbot000.zip
 http://ftp.telepac.pt/pub/idgames2/telefragged/metro/frogbot003.zip
 http://ftp.telepac.pt/pub/idgames2/telefragged/metro/frogbot005.zip
 http://ftp.telepac.pt/pub/idgames2/telefragged/metro/frogbot007.zip
 http://ftp.telepac.pt/pub/idgames2/telefragged/metro/frogbot009.zip
-http://ftp.telepac.pt/pub/idgames2/telefragged/metro/frogbot011b.zip
 http://fubar.cstp.umkc.edu:80/quake/files/tballman097.zip
 http://geocities.com/timessquare/hangar/8961/sq12to13.zip
 http://geocities.com/timessquare/hangar/8961/squirt12b.zip
@@ -134,7 +129,6 @@ http://www.3ddownloads.com/showfile.php3?filename=2000.zip
 http://www.3ddownloads.com/showfile.php3?filename=Accuracy.zip
 http://www.3ddownloads.com/showfile.php3?filename=darkfrog.zip
 http://www.3ddownloads.com/showfile.php3?filename=fbarena013.zip
-http://www.3ddownloads.com/showfile.php3?filename=frogbot000.zip
 http://www.3ddownloads.com/showfile.php3?filename=holomod.zip
 http://www.3ddownloads.com/showfile.php3?filename=kfmod.zip
 http://www.3ddownloads.com/showfile.php3?filename=maniacbt12.zip

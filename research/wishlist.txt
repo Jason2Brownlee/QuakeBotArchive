@@ -113,13 +113,11 @@ friktf-092800.tar.gz
 frkbt09a.zip
 frog_src.zip
 frogbot.rar
-frogbot000.zip
 frogbot001.zip
 frogbot005.zip
 frogbot007.zip
 frogbot009.zip
 frogbot011.zip
-frogbot011b.zip
 frogbot012.sit
 frogbot012.zip
 frogbot012a.zip
