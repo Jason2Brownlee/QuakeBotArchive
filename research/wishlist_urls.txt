@@ -96,7 +96,6 @@ http://home.t-online.de/home/0551705030/squirt10.zip
 http://members.nbci.com/nnctf.zip
 http://members.nbci.com/nnsource.zip
 http://members.tripod.com/mtm07/fbca085.zip
-http://members.tripod.com/mtm07/fbcasounds.zip
 http://members.tripod.lycos.nl/koolpaddy/zips/paddybot02.zip
 http://members.xoom.com/eluan/WLBOT1.9.zip
 http://membro.intermega.com.br/gqc/tdbot1_0.zip
@@ -124,7 +123,6 @@ http://tux.telefragged.com/file.pl?filename=f2k001a.zip
 http://tux.telefragged.com/file.pl?filename=fb013se.zip
 http://tux.telefragged.com/file.pl?filename=fbca084.zip
 http://tux.telefragged.com/file.pl?filename=fbca085.zip
-http://tux.telefragged.com/file.pl?filename=fbcasounds.zip
 http://tux.telefragged.com/file.pl?filename=fbctf014.zip
 http://tux.telefragged.com/file.pl?filename=fbctf034.zip
 http://tux.telefragged.com/file.pl?filename=fbctf041.zip
