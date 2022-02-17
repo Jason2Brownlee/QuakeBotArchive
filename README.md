@@ -123,7 +123,7 @@ Frogbot + Rocket Arena | Brian Mathiasen aka "Erazor" | [fbarena070.zip](bin/fba
 Frogbot 2000 | Dennis de Boer aka "Justice" | [f2k006d.zip](bin/f2k006d.zip)<br>[versie.zip](bin/versie.zip)<br>f2k005d.zip<br>[f2k003c.zip](bin/f2k003c.zip)<br>f2k001a.zip<br>2000.zip
 Frogbot BotMatch Arena | Alex aka "DmSouL" | [botmatch.zip](bin/botmatch.zip) <br>[source_of_bm.zip](bin/source_of_bm.zip)<br>bm119gl.zip ([txt](bin/bm119gl.txt))<br>bm116se.zip
 Frogbot Deathmatch | Alexey Pakhomov aka "ParboiL" | [fbdm012.zip](bin/fbdm012.zip)<br>[fbdm07.zip](bin/fbdm07.zip)
-FrogBot ModPack | Mario Rillmann aka "Neophyte" | [mpak1v11.zip](bin/mpak1v11.zip)<br>[mpak1v10.zip](bin/mpak1v10.zip)
+FrogBot ModPack | Mario Rillmann aka "Neophyte" | mpak1v12.zip<br>[mpak1v11.zip](bin/mpak1v11.zip)<br>[mpak1v10.zip](bin/mpak1v10.zip)
 Frogbot Special Edition | Brian Mathiasen aka "Erazor" | [fb013se.zip](bin/fb013se.zip)
 Frogbot | Robert Field aka "Frog" | [frogbot013.zip](bin/frogbot013.zip)<br>[frogfix1.zip](bin/frogfix1.zip)<br>fixedsrc.zip<br>frog_src.zip<br>fbph.zip<br>[frogbot012c.zip](bin/frogbot012c.zip)<br>frogbot012b.zip<br>frogbot012a.zip<br>[frogbot011b.zip](bin/frogbot011b.zip)<br>frogbot011.zip<br>frogbot009.zip ([txt](bin/frogbot009.txt))<br>frogbot007.zip<br>frogbot005.zip<br>[frogbot003.zip](bin/frogbot003.zip)<br>[frogbot000.zip](bin/frogbot000.zip)<br>
 Fun With Dogz (BGBot, Cujo) | Thomas Hansen | [dogfun20.zip](bin/dogfun20.zip) ([txt](bin/dogfun20.txt))<br>dogfun19.zip<br>dogfun18.zip<br>dogfun17.txt<br>[dogfun16.zip](bin/dogfun16.zip) ([txt](bin/dogfun16.txt))<br>dogfun14.zip<br>[dogfun13.zip](bin/dogfun13.zip) ([txt](bin/dogfun13.txt))
@@ -158,7 +158,6 @@ MaNiAcBot | Michael Turitzin aka "MaNiAc" | [maniacbt.zip](bin/maniacbt.zip) ([t
 Mathfrag (Frikbot) | Khin Mannering aka "Dr. Shadowborg" | [mlx20b.zip](bin/mlx20.zip)
 MegaBot | "Vic" | [megabot.zip](bin/megabot.zip)
 Midair Bots | Benjamin Darling aka "Electro" and "Vomit" | [midair_qwbot.rar](bin/midair_qwbot.rar)<br>[midairbots_all.zip](bin/midairbots_all.zip)<br>[midairbots.zip](bin/midairbots.zip)
-Mod Pak 1 FMOD (Frogbot) | "Neophyte" | mpak1v12.zip
 Motd FMOD (Frogbot) | Algirdas Kepezinskas aka "ZeCybEr" | motd.zip
 Multi-Mode Rocket (Cujo) | Christopher Fitch | [mmrckt10.zip](bin/mmrckt10.zip) ([txt](bin/mmrckt10.txt))
 MyBot | Stephen Vanterpool | [mybot16.zip](bin/mybot16.zip) ([txt](bin/mybot16.txt))<br>[mybot13a.zip](bin/mybot13a.zip) ([txt](bin/mybot13a.txt))<br>[mybot12.zip](bin/mybot12.zip) ([txt](bin/mybot12.txt))<br>[mybot11.zip](bin/mybot11.zip) ([txt](bin/mybot11.txt))<br>[mybot.zip](bin/mybot.zip) ([txt](bin/mybot.txt))
