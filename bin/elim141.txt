@@ -1,0 +1,109 @@
+Title    : Eliminator Bot
+Filename : elim141.zip
+Version  : 1.41
+Author   : Jonathan DOwn (Perged <S.T.K.>)
+Email    : jondown@atcon.com
+Credits  : Cameron B. Newham for the first Eliminator patch,
+	   without his works, I never would of had the pleasure 
+	   of continuing this bot. Thanks a lot!!!
+
+Type of Mod
+-----------
+Quake C  : yes
+Sound    : no
+MDL      : no
+
+Description of the Modification
+===============================
+
+This is the newest version of the Eliminator Bot. After is disconuation,
+I wrote Cameron and asked if I could continue with his bot. After getting
+his approval, I have started to work on this patch. I hope you like it!
+
+The Eliminator Bot package provides you with some decent adversaries
+to play Quake against.  Don't have a network connection?  Maybe you
+have a $100,000 LAN at home but no friends... Well, here is the
+answer to your Deathmatch dreams.  These automated deathmatch opponents
+are by no means friendly and they'd just love to kick your sorry
+behind all over the place.  What's more, they aren't stupid like
+most of the other bots out there.  These know how to fight and know
+their way around.
+
+Please note that this is a Deathmatch patch. The Bots are designed
+specifically for playing against other deathmatch players - not
+monsters.  These Bots are *not* "helper" bots.  Indeed, the only help
+you'll get from them is a a rocket in your face.
+
+Features include:
+=================
+
+  * Bots are able to pick up all items (health, armour, weapons, 
+    ammo, specials).
+  * Bots start off with a shotgun and aquire equipment just like a 
+    player.
+  * Bots know how to swim and can navigate over "broken ground".
+  * Bots don't just blindly fire - bots will only attack if they are
+    in a position to do so or want to.
+  * Bots are able to camp (if they want to).
+  * Bots are able to activate all of the triggers on a level (eg:
+    buttons, doors, etc).
+  * A maximum of 10 bots can be created - each with its own name.
+  * You can specify the number of bots to start with in a config file.
+  * Bots regenerate at a new Deathmatch location after being killed.
+  * Based on the Player model.
+  * An Observer Mode is included - watch the bots fight it out
+    without getting in the way!
+  * Display the bot and player gib scores.
+  * Runs on the Quake server allowing it to be used in network games.
+  * Ability to use the engine for your own maps - see the Waypoint
+    Guide.
+  * Bots can use a "skins" MDL to give them visual identities.
+
+*** NOTE: In the next release the source will not be included. I will 
+give it out, but see the details in the next versions readme.
+
+Commands
+========
+
+The following commands are available:
+
+B -   impulse 100   - create a cbot (up to a maximum of 10).
+N -   impulse 103   - create three bots
+M -   impulse 102   - view the gib scores for the cbots.
+O -   impulse 101   - go to observer mode
+
+What's New in this Version
+==========================
+
+Version 1.4 -> 1.41
+-------------------
+
+* Author changed for Cameron B. Newham to Jonathan DOwn
+* Fixed the lava bug
+* The axe is now a usable bot weapon
+* Added axe frames
+* Added axe death frames
+* Added the rest of the player sounds
+* Improved the observer mode
+* Tweaked the AI
+* Removed the sliding corpse bug
+* Fixed small telefrag bug
+
+Future Improvenments
+====================
+
+* Maybe take bot off of waypoint system 
+* Improved AI
+* Swinging Hook Patch (for use with bots too)
+* Severed Player Patch (for use with bots too)
+* Anyhing else...
+
+* If anybody has question, has noticed a bug, would like to see
+something else in the next version, write me. All comments will
+be appreciated.
+
+For updates, see the Eliminator Bot homepage:
+
+http://www.ccn.cs.dal.ca/~ae142/homepage.html
+
+Perged <S.T.K.>
