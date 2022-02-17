@@ -51,16 +51,12 @@ elim20b6.zip
 elimpack.zip
 f2k001a.zip
 f2k005d.zip
-fb013se.zip
 fbarena013.zip
 fbarena050.zip
 fbarena060.zip
-fbarena070.zip
 fbca081.zip
 fbca082.zip
-fbca083.zip
 fbca084.zip
-fbca085.zip
 fbca086.zip
 fbca088se.zip
 fbca089kt.zip
@@ -82,9 +78,7 @@ fbctf011.zip
 fbctf013.zip
 fbctf014.zip
 fbctf015.zip
-fbctf016.zip
 fbctf019.zip
-fbctf021.zip
 fbctf022.zip
 fbctf023.zip
 fbctf024.zip
@@ -93,7 +87,6 @@ fbctf030.zip
 fbctf032.zip
 fbctf033.zip
 fbctf034.zip
-fbctf041.zip
 fbctf052.zip
 fbctf053.zip
 fbedit10.zip
