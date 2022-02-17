@@ -141,7 +141,7 @@ Jeht (Frikbots) | Dan Hale aka "Wazat" | [jeht15.zip](bin/jeht15.zip)
 Kagero Bot | "The Kwanster" | [kagero.zip](bin/kagero.zip)
 KALQuake (Wisp) | Kenneth Livingston aka "-=CT=-KALWeb " | [kal_qk-p.zip](bin/kal_qk-p.zip) ([txt](bin/kal_qk-p.txt))<br>[kal_qk-s.zip](bin/kal_qk-s.zip) ([txt](bin/kal_qk-s.txt))
 KarNag Bot | Ken Madlener aka "Kenzer" | [knbot45.zip](bin/knbot45.zip) ([txt](bin/knbot45.txt))<br>[knbot03.zip](bin/knbot03.zip)<br>knbot02.zip<br>knbot01.zip
-Khol's FMODS (Frogbot) | "Khol" | kfmod.zip
+Khol's FMODS (Frogbot) | "Khol" | [kfmod.zip](bin/kfmod.zip)
 Killer Qcbot | William  Ravaine aka "Killer-Sub" | [kqcbots095b.zip](bin/kqcbots095b.zip) ([txt](bin/kqcbots095b.txt))<br>kqcbotsource.zip
 Killer Quake Pack (KQP) (Zeus, Cujo) | Howard Roy aka "Solo" | [kqp220z.zip](bin/kqp220z.zip) ([txt](bin/kqp220z.txt))<br>[kqp210z.zip](bin/kqp210z.zip)<br>[kqp200z.zip](bin/kqp200z.zip) ([txt](bin/kqp200z.txt))<br>[kqp100.zip](bin/kqp100.zip)<br>[killer90.zip](bin/killer90.zip) ([txt](bin/killer90.txt))<br>killer87.zip<br>killer86b.zip<br>killer86.zip<br>[killer85.zip](bin/killer85.zip)<br>killer80.zip
 Kommando Kwake (Reaper) | Andreas M. and Stefan M. | kok220.zip<br>kok210.zip<br>kok2.zip

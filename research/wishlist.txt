@@ -142,7 +142,6 @@ hwqwbot.exe
 hwqwbot.sit
 iwbot15.zip
 iwbot20.zip
-kfmod.zip
 killer86.zip
 killer86b.zip
 killer87.zip
