@@ -123,7 +123,7 @@ Frogbot + Rocket Arena | Brian Mathiasen aka "Erazor" | fbarena070.zip<br>fbaren
 Frogbot 2000 | Dennis de Boer aka "Justice" | [f2k006d.zip](bin/f2k006d.zip)<br>[versie.zip](bin/versie.zip)<br>f2k005d.zip<br>[f2k003c.zip](bin/f2k003c.zip)<br>f2k001a.zip<br>2000.zip
 Frogbot BotMatch Arena | Alex aka "DmSouL" | [botmatch.zip](bin/botmatch.zip) <br>[source_of_bm.zip](bin/source_of_bm.zip)<br>bm119gl.zip ([txt](bin/bm119gl.txt))<br>bm116se.zip
 Frogbot Deathmatch | Alexey Pakhomov aka "ParboiL" | [fbdm012.zip](bin/fbdm012.zip)<br>[fbdm07.zip](bin/fbdm07.zip)
-Frogbot Special Edition | Brian Mathiasen aka "Erazor" | fb013se.zip
+Frogbot Special Edition | Brian Mathiasen aka "Erazor" | [fb013se.zip](bin/fb013se.zip)
 Frogbot | Robert Field aka "Frog" | [frogbot013.zip](bin/frogbot013.zip)<br>[frogfix1.zip](bin/frogfix1.zip)<br>fixedsrc.zip<br>frog_src.zip<br>fbph.zip<br>[frogbot012c.zip](bin/frogbot012c.zip)<br>frogbot012b.zip<br>frogbot012a.zip<br>frogbot011b.zip<br>frogbot011.zip<br>frogbot009.zip ([txt](bin/frogbot009.txt))<br>frogbot007.zip<br>frogbot005.zip<br>[frogbot003.zip](bin/frogbot003.zip)<br>frogbot000.zip<br>
 Fun With Dogz (BGBot, Cujo) | Thomas Hansen | [dogfun20.zip](bin/dogfun20.zip) ([txt](bin/dogfun20.txt))<br>dogfun19.zip<br>dogfun18.zip<br>dogfun17.txt<br>[dogfun16.zip](bin/dogfun16.zip) ([txt](bin/dogfun16.txt))<br>dogfun14.zip<br>[dogfun13.zip](bin/dogfun13.zip) ([txt](bin/dogfun13.txt))
 Gideon Bot | Matthew Turvey | [gidbot.zip](bin/gidbot.zip) ([txt](bin/gidbot.txt))
@@ -305,4 +305,4 @@ Lists of known files missing from the archive.
 
 This quake bot archive would not be as complete as it is without the generousness help from the Quake community.
 
-Special thank you to: John Crickett, Joel Baxter aka "Johnny Law", Hannes aka "Spirit" (from quaddicted), Fabiano D. Amorim aka "vegetous", Benjamin Darling aka "Electro", Rui Neto aka "Trinca", Rich Whitehouse aka "thefatal", Marko Permanto aka "Urre", and Mark Wheeler.
+Special thank you to: John Crickett, Joel Baxter aka "Johnny Law", Hannes aka "Spirit" (from quaddicted), Fabiano D. Amorim aka "vegetous", Benjamin Darling aka "Electro", Rui Neto aka "Trinca", Rich Whitehouse aka "thefatal", Marko Permanto aka "Urre", Mark Wheeler, and Daniel Svensson.
