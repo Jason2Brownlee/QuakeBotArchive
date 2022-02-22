@@ -189,7 +189,7 @@ Reaper Bot | Steven Polge | [reaprb81.zip](bin/reaprb81.zip) ([txt](bin/reaprb81
 ReaperFX Bot | Paul Johnstone aka "Pob the Impaler" | [reaperfx.zip](bin/reaperfx.zip) ([txt](bin/reaperfx.txt))
 Reformed Reaper Bot | "win32ch" | [rrbotprogs.zip](bin/rrbotprogs.zip) <br>[rrbotsrc.zip](bin/rrbotsrc.zip)
 Requiem + QW | Alexander Fiedler aka "Requiem" | [qwreq24.zip](bin/qwreq24.zip)<br>[reqpak2.zip](bin/reqpak2.zip)<br>reqqwsrc.zip<br>reqqw23.zip<br>reqqw20i.zip<br>reqqw104.zip<br>[reqqw103.zip](bin/reqqw103.zip)<br>req_qw.zip
-Requiem | Alexander Fiedler aka "Requiem" | [req2_pe.zip](bin/req2_pe.zip) ([txt](bin/req2_pe.txt))<br>[req2fb.zip](bin/req2fb.zip)<br>[reqpak2.zip](bin/reqpak2.zip)<br>reqsrc.zip<br>bugfix3.zip<br>req_se103.zip ([txt](bin/req_se103.txt))<br>bugfix2.zip<br>bugfix1.zip<br>[req_se102.zip](bin/req_se102.zip) ([txt](bin/req_se102.txt))<br>req107d.zip<br>req106a.zip<br>[req105.zip](bin/req105.zip)
+Requiem | Alexander Fiedler aka "Requiem" | [req2_pe.zip](bin/req2_pe.zip) ([txt](bin/req2_pe.txt))<br>[req2fb.zip](bin/req2fb.zip)<br>[reqpak2.zip](bin/reqpak2.zip)<br>reqsrc.zip<br>bugfix3.zip<br>req_se103.zip ([txt](bin/req_se103.txt))<br>bugfix2.zip<br>bugfix1.zip<br>[req_se102.zip](bin/req_se102.zip) ([txt](bin/req_se102.txt))<br>[req107d.zip](bin/req107d.zip)<br>req106a.zip<br>[req105.zip](bin/req105.zip)
 Ric's Reaper Bots | "Ric" | [reap081h.zip](bin/reap081h.zip)
 Rise of the Baron (Cujo) | Jason Avery | [baron.zip](bin/baron.zip) ([txt](bin/baron.txt))
 Roam Bot | Carson Sutton aka "Crimson" | [roambot1.zip](bin/roambot1.zip) ([txt](bin/roambot1.txt))

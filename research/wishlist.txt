@@ -157,7 +157,6 @@ mybot14.zip
 nnctf.zip
 nnsource.zip
 oak082.zip
-oak084.zip
 oak0855.zip
 obots100.sit
 obots100.zip
@@ -179,7 +178,6 @@ reaper.zip
 reaper08.sit.hqx
 reaprb75.zip
 req106a.zip
-req107d.zip
 req_qw.zip
 reqqw104.zip
 reqqw20i.zip
@@ -189,7 +187,6 @@ reqsrc.zip
 rnbt3.4.zip
 rnbt3.6.zip
 sbotstuf.zip
-setup.exe
 sq12to13.zip
 sqdbt201.zip
 squaretst.zip
