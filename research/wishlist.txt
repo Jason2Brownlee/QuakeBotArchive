@@ -1,9 +1,12 @@
-Quake Bot Filename Wishlist
+# Quake Bot Filename Wishlist
 
-A wishlist of lowercase bot filenames sorted alphabetically.
+# generic filenames
+# 2000.zip
+# setup.exe
+# setup.zip
+# upgrade.zip
 
---------------------------------------------------------------------------------
-2000.zip
+# normal zip files
 abandon1.zip
 accuracy.zip
 bgadmbot.zip
@@ -117,7 +120,6 @@ frogbot005.zip
 frogbot007.zip
 frogbot009.zip
 frogbot011.zip
-frogbot012.sit
 frogbot012.zip
 frogbot012a.zip
 frogbot012b.zip
@@ -138,7 +140,6 @@ hw_frogbot14f.zip
 hw_frogbot14h.zip
 hw_frogbotf.zip
 hwqwbot.exe
-hwqwbot.sit
 iwbot15.zip
 iwbot20.zip
 killer86.zip
@@ -158,10 +159,7 @@ nnctf.zip
 nnsource.zip
 oak082.zip
 oak0855.zip
-obots100.sit
 obots100.zip
-obots101.hqx
-obots101.sit
 omega.zip
 orion_bots.zip
 orionbots_v3_ra.zip
@@ -175,7 +173,6 @@ qcbot002.zip
 rakoolio.zip
 rbot.zip
 reaper.zip
-reaper08.sit.hqx
 reaprb75.zip
 req106a.zip
 req_qw.zip
@@ -236,5 +233,100 @@ zeus20.zip
 zeus201.zip
 zeus202b.zip
 
+
+# mac stuff
+frogbot012.sit
+hwqwbot.sit
+obots100.sit
+obots101.hqx
+obots101.sit
+reaper08.sit.hqx
+
+
+# txt files we expect to exist
+abandon1.txt
+bgadmbot.txt
+botskn10.txt
+botskn12.txt
+botskn13.txt
+botskn14.txt
+botskn17.txt
+botskn19.txt
+botskn21.txt
+bplayer1.txt
+ctfbot11.txt
+ctfbot13b1.txt
+cujo11.txt
+cujo12b.txt
+cujo12c.txt
+darkbotx.txt
+darkbt01.txt
+darkbt07.txt
+darkbt09.txt
+darkbt10.txt
+dmbt20b2.txt
+dmbt20b3.txt
+dmbt21b1.txt
+dogfun14.txt
+dogfun17.txt
+dogfun18.txt
+dogfun19.txt
+doombot.txt
+drkbt013.txt
+elim13.txt
+elim20b6.txt
+elimsrc.txt
+elimtst1.txt
+estepbot2.txt
+grdbot13.txt
+guardbot.txt
+iwbot15.txt
+iwbot16.txt
+iwbot20.txt
+killer80.txt
+killer85.txt
+killer86.txt
+killer86b.txt
+killer87.txt
+knbot01.txt
+knbot02.txt
+knbot03.txt
+kqcbotsource.txt
+kqp100.txt
+kqp210z.txt
+madness10.txt
+madness20.txt
+madness31.txt
+madness32.txt
+madness33.txt
+madness34.txt
+madness35.txt
+maniac53.txt
+maniac54.txt
+maniac56.txt
+maniacbt12.txt
+rbot.txt
+reaprb05.txt
+reaprb06.txt
+reaprb80.txt
+sbotstuf.txt
+swbot1.txt
+swbot101.txt
+swbot102.txt
+swbot103.txt
+tballman097.txt
+udm12-15b.txt
+udm15-15b.txt
+udmsrc.txt
+var17.txt
+var25.txt
+wyrmb1.txt
+wyrmb11.txt
+wyrmb2.txt
+zeus20.txt
+zeus201.txt
+zeus204.txt
+zeus2041.txt
+zeus2042.txt
 
 

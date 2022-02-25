@@ -1,8 +1,5 @@
-Quake Bot URL Wishlist
+# Quake Bot URL Wishlist
 
-A wishlist of broken bot URLs sorted alphabetically.
-
---------------------------------------------------------------------------------
 ftp://bluesnews.com/pub/bots/reaprb75.zip
 ftp://ftp.cdrom.com/pub/idgames2/planetquake/ramshackle/obots100.zip
 ftp://ftp.cdrom.com/pub/idgames2/planetquake/ramshackle/OBOTS100.ZIP
