@@ -246,6 +246,7 @@ reaper08.sit.hqx
 # txt files we expect to exist
 abandon1.txt
 bgadmbot.txt
+botmove.txt
 botskn10.txt
 botskn12.txt
 botskn13.txt
@@ -255,7 +256,6 @@ botskn19.txt
 botskn21.txt
 bplayer1.txt
 btsk22.txt
-ctfbot11.txt
 ctfbot13b1.txt
 cujo11.txt
 cujo12b.txt
@@ -308,6 +308,7 @@ maniacbt12.txt
 qcbot001.txt
 qcbot002.txt
 rbot.txt
+reaper.txt
 reaprb05.txt
 reaprb06.txt
 reaprb80.txt
@@ -330,5 +331,3 @@ zeus201.txt
 zeus204.txt
 zeus2041.txt
 zeus2042.txt
-botmove.txt
-

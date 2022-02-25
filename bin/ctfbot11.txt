@@ -1,0 +1,617 @@
+Title    : CTF Bot
+Filename : ctfbot11.zip
+Version  : 1.1
+Date     : 8 Jan 97
+Author   : Drew 'BZ' Davidson
+Email    : drew@interpath.com
+Homepage : http://www.interpath.net/~davidson/cftbot.htm
+Thanks To: Many thanks to psycho killer Scott 'Fletch' Haynes for
+           testing and invaluable assistance and suggestions.
+Credits  : id software for Quake and for releasing Quake C,
+           many thanks to Dave 'Zoid' Kirsch and the co-creators
+           of CTF for ThreeWave CTF, also thanks to all other
+           bot authors and everyone in the online Quake community.
+           You all kick ass.
+Based On : ThreeWave CTF 3.5 by Dave 'Zoid' Kirsch and others
+           see http://www.planetquake.com/quakex/threewave/
+           id software Quake C 1.06.
+
+Type of Mod
+-----------
+Quake C  : yes
+Sound    : no
+MDL      : yes (extra skins)
+
+Format of QuakeC
+----------------
+unified diff  : no
+context diff  : no
+.qc files     : yes
+progs.dat     : yes (in pak1.pak file)
+pak0.pak file : no
+pak1.pak file : yes
+
+Description of the Modification
+-------------------------------
+This is CTF Bot (aka Capture the Flag Bot), a bot that plays ThreeWave
+Capture the Flag 3.5.  The unmodified ThreeWave CTF is available from:
+http://www.planetquake.com/quakex/threewave/
+
+Before You Install the Modification
+-----------------------------------
+You should have a basic knowledge of Quake things like config files,
+how to use the Quake console, how to edit and use autoexec.cfg files,
+etc, before you try to install and use CTF Bot.
+
+If you've never played CTF before then you definitely should try that out
+without the bots and read those docs because I assume you know what you are
+doing with regard to CTF, i.e. you know how to use the hook, and how to drop
+backpacks with ammo, what the runes are, etc.
+
+*IMPORTANT NOTE*:  If you don't have the ThreeWave CTF client mod, you won't
+be able to play Capture the Flag with the bots, so go download that now
+before you install the bots.  *ALSO* download the ThreeWave CTF server mod
+if you want to play CTF on the id maps.  You can download ThreeWave CTF
+stuff from http://www.planetquake.com/quakex/threewave/
+
+[SIDE NOTE: Technically, you don't *absolutely* need the ThreeWave CTF client
+or server mod to use CTF Bot.  But you won't have any CTF maps to play on.
+You could use the non-custom CTF models (i.e. the flags look like keys) and
+then create your own CTF map with the dynamic map creation features of CTF
+Bot, but that would be very silly and you would miss out on the fantastic
+maps, models and graphics that greatly enhance the CTF experience.  Also the
+bots will be dumber because they only have waypoints for maps in the ThreeWave
+client mod.  But just for the record you can set the teamplay variable in
+server.cfg so that CTF Bot does not require the ThreeWave CTF client side
+mod.]
+
+Quake may crash if it is given the default 8 Megs of memory.  You should
+probably use the "-winmem 16" parameter to give Quake 16 megs of memory when
+using this bot. Also, this bot may play too slow on slower machines.  If it
+plays too slowly, reduce the number of bots.  I would like to hear if you
+have a slow machine and can get acceptable game play.
+
+How to Install the Modification
+-------------------------------
+
+Please read the "Before You Install the Modification" section above!
+
+1) Unzip the CTF Bot zip into a *NEW* directory inside your Quake directory,
+   called "ctfbot". This will install the following:
+
+    - ctfbot            [DIR /quake/ctfbot/ ]
+        ctfbot10.txt    [ this file ]
+        ctfbot.cfg      [ CTF Bot key config ]
+        server.cfg      [ *REQUIRED* CTF Bot server config ]
+        autoexec.cfg    [ execs ctfbot.cfg and server.cfg ]
+        makebots.cfg    [ exec this to make some bots ]
+        pak1.pak        [ brains of the bot & red/blue skins ]
+        file_id.diz     [ archive description ]
+        src.zip         [ source code ]
+
+2) After you have created the ctfbot directory, copy the pak0.pak from the
+   ThreeWave capture the flag client mod into the ctfbot directory.  (You can
+   get this from http://www.planetquake.com/quakex/threewave/ )  DO *NOT*
+   OVERWRITE YOUR EXISTING pak0.pak OR pak1.pak FILES IN THE id1 DIRECTORY!
+
+3) If you want to run CTF in the id maps, download the server mod from
+   ThreeWave and follow the directions to convert the id maps into CTF maps,
+   then put the converted bsp's in the /ctfbot/maps/ directory.  You will
+   also need to edit the server.cfg file to change the percentage of custom
+   CTF/id maps when playing if you want the id maps to show up when the
+   level changes.  See the ThreeWave server mod docs for more info.
+
+Your final CTF Bot directory structure should look like this:
+
+- quake                 [DIR /quake/ ]
+    quake.exe           [ Quake application ]
+    - ctfbot            [DIR /quake/ctfbot/ ]
+        ctfbot11.txt    [ from CTF Bot zip file - this file ]
+        ctfbot.cfg      [ from CTF Bot zip file - CTF Bot key config ]
+        server.cfg      [ from CTF Bot zip file - CTF Bot server config ]
+        autoexec.cfg    [ from CTF Bot zip file - execs ctfbot.cfg and server.cfg ]
+        makebots.cfg    [ from CTF Bot zip file - exec to make some bots ]
+        pak0.pak        [ copied from ThreeWave CTF client mod ]
+        pak1.pak        [ from CTF Bot zip file ]
+        - maps          [DIR /quake/ctfbot/maps/ ]
+            e*m*.bsp    [ if you converted id bsp's with ThreeWave server mod ]
+
+4) Run Quake with the following command line parameters:
+
+    -game ctfbot  ==> to use CTF Bot resources (i.e. pak0.pak, pak1.pak)
+    -listen       ==> start a listen (i.e. deathmatch) server
+    -winmem 16    ==> give Quake 16 megs of ram
+    -zone 512     ==> give Quake more ram for config files (optional)
+
+Included is a config file (ctfbot.cfg) that sets up some key bindings for you,
+so you can spawn bots quickly (hit F7).  Tweak this file to change the
+settings, or just use the following impules to spawn bots and start killing.
+
+Included is a server file (server.cfg) that sets up the various CTF server
+variables.  You can tweak this to your liking, for example if you want to
+start in a different map by default, or if you want to disable observer
+mode or change the teamplay options.  See the ThreeWave CTF server docs
+for more info.
+
+TROUBLESHOOTING:  If the flags are not visible, one of the following two
+things has happened: either (1) you are in single player mode, or (2)
+the file server.cfg is not being exec'ed when you start Quake.  You can
+solve (1) by adding the "-listen" param to the Quake command line.  You
+can solve (2) by making sure that server.cfg is being exec'ed when you
+start Quake (e.g. make sure that autoexec.cfg in the ctfbot directory
+has the line "exec server.cfg").  The server.cfg file sets various
+server variables that are *REQUIRED* to run CTF correctly.
+
+Impulse Commands
+----------------
+impulse 100 = (default key F5) = creates a bot on your team
+impulse 101 = (default key F6) = creates a bot on the enemy team
+impulse 102 = (default key F7) = exec makebots.cfg (makes several bots)
+impulse 103 = (default key F8) = bot debug mode (see what bot is thinking)
+impulse 104 = (no default key) = turn bot debug off
+impulse 105 = (no default key) = creates a red bot (regardless of your team)
+impulse 106 = (no default key) = creates a blue bot (regardless of your team)
+impulse  40 = (default key p)  = drop current rune
+impulse  41 = (no default key) = rune status
+impulse  70 = (default key x)  = toggle normal/bot names
+impulse 120 = (default key i)  = detailed scores for you
+impulse 121 = (default key u)  = detailed scores for everyone
+impulse 130 = (default key o)  = toggle observer mode
+impulse 199 = (no default key) = help; list all impulses
+impulse  80 = (default key z)  = bots report their status
+impulse  81 = (default key a)  = order bots on your team to attack
+impulse  82 = (default key d)  = order bots on your team to defend
+
+more default keys set in ctfbot.cfg:  F1-F4 sets skill 0-3
+
+plus, all the capture the flag impulses, like impulse 20/21, etc,
+see CTF docs for more info (or use impulse 199 to list all impulses
+and default key bindings).
+
+Playing Notes
+-------------
+On some maps, bots use a waypoint scheme to navigate.  Thus the bots are much
+smarter on those maps than others. Currently the maps with at least some
+waypoints include ctf1 through ctf8.
+
+On maps that do not contain waypoints, a lot of the time it is easy to capture
+their flag. If you go in their base, kill all the bots, and snag their flag,
+it may be easy to grab their flag again after that if they have all respawned
+away from their base, because they won't be able to find their way back.
+As a result, some non-waypoint maps work better than others with these bots.
+It can still be fun to play on non-waypoint maps, because the bots do
+use teamplay tactics.
+
+If you want to play on the id maps that have been converted to CTF, you
+need to go to http://www.planetquake.com/quakex/threewave/files.html and
+download the server mod so you can convert the id bsp's into CTF bsp's.
+
+An excellent CTF map by Tim Willits of id software based on Gloom Keep (e1m5)
+can be found at http://www.planetquake.com/quakex/threewave/idctf1.zip
+
+More CTF maps can be found at: http://www.cdrom.com/pub/quake/levels/ctf/
+
+Also, keep in mind that you can turn any map into a CTF map with dynamic
+map creation.  There are hundreds of new maps on the net, so find a good
+one and give it a try.  The bots won't have waypoints of course, but they
+will try their best.  You could even spawn some waypoints for them if
+you're feeling nice.
+
+Bots on Your Team
+-----------------
+Bots on your team will try to follow you around and help you.  They will
+say things like "let's attack" while they are following you, so you know
+that you have their attention.  They will sometimes get distracted by
+items though. Sometimes the bot wants something but can't get it, but if
+you grab it the bot will of course not want it anymore.  If you are far
+above or below them, but they are still following you, they will try to
+jump down or hook their way up, so you can get them to follow you most
+places.  Sometimes you have to just be patient while the dumb bot
+figures out how to get where you are, and sometimes you are just out of
+luck.  Sometimes it helps to try to get your buddy to try a different
+route; e.g. get him to hook his way up somewhere easier and then lead
+him to where you want him to be once he gets up there.
+
+Note that it is very helpful to have bots with you.  If you can't get
+past a high-skill enemy bot, bring along some buddies.  Let them grab
+the good weapons or toss them a rocket launcher and ammo and watch them
+kick ass while you get all the glory. :-)
+
+Skill Levels
+------------
+The console variable "skill" is used as the skill of the next bot
+created. Type "skill #" in the console to change the skill, where # is a
+number from 0 to 3.  Skill levels don't have to be an integer (i.e. 1.5
+or 2.7 are legal). Skill has various effects on play.  Lower skill
+levels misjudge target's velocity and position when firing, have smaller
+field of view, are less likely to make evasive maneuvers, are less
+likely to jump effectively, are less likely to see enemies far away, are
+less likely to see enemies with Ring of Shadows, are less likely to jump
+away from grenades at its feet, plus tons of other things.
+
+Bots with a skill of 2 or higher use the "visor dude" CTF skin.
+
+Quick Spawning of Bots
+----------------------
+Included is a file that spawns a series of bots to demonstrate how you
+can make a config file spawn various differently-skilled bots easily.
+By default you can hit F7 to spawn 4 differently-skilled enemy bots and
+2 bots on your team. Edit makebots.cfg to suit your skill level and
+desired number of bots.
+
+For some reason exec'ing this file from the console does not work?  You
+have to bind it to a key in the console like this:  bind F7 "exec
+makebots.cfg"
+
+No Target mode
+--------------
+Use impulse 130 to toggle no target mode.  When no target mode is on,
+bots won't try to target or escort human players, but otherwise
+everything is the same.  You can still pick up stuff, and you can still
+be harmed by bot crossfire, you can still capture the flag, you can
+still kill bots, etc.
+
+Observer mode
+-------------
+Use impulse 98 to enter observer mode.  Observer mode is like when
+you join the server, press 1 or 2 for red/blue team.  When observer
+mode is on, you can fly and do not interact with the world at all.
+You can't execute impulses as an observer... you must press 1 or
+2 to join a team or press jump to join a computer-selected team
+before you can execute impulses.
+
+Bot Orders
+----------
+You can order the bots on your team around with some impulses.  This works
+only on maps with waypoints.  Bots will follow your orders for 1 minute, then
+start deciding what to do on their own again.
+
+impulse  80 = (default key z)  = bots on your team report their status
+impulse  81 = (default key a)  = order bots on your team to attack
+impulse  82 = (default key d)  = order bots on your team to defend
+
+
+Dynamic Map Creation/Modification
+---------------------------------
+impulse 115 = (default key r)  = move/create red flag
+impulse 116 = (default key b)  = move/create blue flag
+impulse 117 = (default key a)  = create base stockpile
+impulse 118 = (default key e)  = print entity list
+
+Impulse 115/116 creates a red/blue flag where you are standing.
+You can only create one red or blue flag.  If you create another,
+the first one is removed.  You can use this to move the maps in the
+existing CTF levels (e.g. ctf1-ctf8) if you feel like a change.
+(Of course if you are playing the bots then the waypoints will
+no longer work on those levels.)
+
+In addition to the flag, 9 team spawn points are created when you
+create or move a flag.  This is done so that if you want to spawn
+some bots, they will appear near their flag.  All other team spawn
+points in the level for that team are removed.  If a spawn point
+is created in a wall, it is removed.
+
+Impulse 117 creates a respawning stockpile of 1 yellow armor,
+1 super nailgun, 1 double shotgun, 2 large boxes of nails, 2
+large boxes of shells, and 2 large health boxes.
+
+The above items may behave strangely or will fall out of the level if
+they are spawned in a wall or on top of an object or player. Please step
+out of the way after creating the items.  You will be warned and be
+given 2 seconds before the items are enabled.
+
+Your changes are *NOT* saved with the map.  You have to recreate the
+flags and bases every time you quit and restart Quake.  So don't
+worry about screwing up your maps; you can't permanently change the
+map.
+
+*HOWEVER*, if you want to permanently change a map, you can use impulse
+118.  Impulse 118 prints out all entities that you dynamically created.
+It prints them to the console in the format used by QBSP for inserting
+entities into a bsp file.  If you want to use this feature to
+permanently modify a bsp file, start Quake with the -condebug command
+line option to save all console text to the file qconsole.log in the
+ctfbot directory.  Then add flags or items to the map with impulses
+115-117.  Finally, use impulse 118 to list the entities that you
+created.  Impulse 118 doesn't print out all the entities in the map,
+only entities that you created, so you will have to strip out the
+existing entities from the bsp file, paste them together with the
+entities printed out in qconsole.log, then use QBSP with the -onlyents
+parameter (i.e. as done by the dobsp.bat file in the ThreeWave server
+mod) to replace the entities in the bsp file.  If you merely moved a
+flag instead of creating a new one, the old team spawn points will still
+be in the bsp file, so remember to delete them.  Obviously, don't try
+any of this unless you know what you are doing!
+
+Other Impulses
+-------------
+impulse  40 = (default key p)  = drop current rune
+impulse  41 = (no default key) = rune status
+impulse  70 = (default key x)  = toggle normal/bot names
+
+Impulse 40 (default key p) drops the rune you are carrying so you
+can pick up another.
+Impulse 41 prints what rune you have.
+Impulse 70 toggles between "normal" names (e.g. "Satan") and bot
+names (e.g. "RedBot1").  There are 100 different normal names that
+the bots use.  Yes, some of the bots are girls.  Deal with it. :-)
+
+Detailed Scores
+---------------
+Impulse 120 (default key i) prints detailed scores for you.
+Impulse 121 (default key u) prints detailed scores for everyone.
+Detailed scores includes number of frags (i.e. actual score), and
+also number of kills, deaths, suicides, captures, pickups, assists,
+recoveries, and bonuses.  Bonuses are things like fragging the
+flag carrier, or fragging the person hurting the flag carrier.
+
+New In Version 1.1
+------------------
++ dynamic map creation & modification
++ bots use waypoints to navigate
++ bots use grappling hook
++ bots are now properly affected by the Haste rune
++ bots now respawn properly after they drown/die in lava
++ fixed bots dying with axe animation inappropriately
++ fixed some bot scoring bugs
++ made bots stop when the level is over
++ use real CTF red/blue skins
++ skill-based skins: visor dude for high-skill bots
++ various speed optimizations
++ fixed bug where bots would not pick up the flag on the ground
++ bots can be ordered around
++ bots have normal names
++ various other stuff
+
+Bot Features
+------------
++ CTF code based on ThreeWave CTF 3.5 with bug fixes
++ variable skill levels
++ bots use grappling hook to pick stuff up.  On The StrongBox (ctf8),
+    the bots can get the quad, red armor, and megahealth by using
+	the hook.
++ bots use runes and powerups, all weapons, ammo, items
++ teamplay flags (e.g. you take damage for shooting bot on your team if
+    mirror damage is on, etc.)
++ bots on your team try to follow you and help you take the enemy flag
++ can return its own flag to base
++ can take your flag
++ can capture your flag
++ impulses to order bots on your team to attack or defend (on maps with
+    waypoints)
++ bots go after backpacks, including backpacks tossed out by players with
+    impulse 20
++ very accurate at higher skill levels
++ chooses weapon to use intelligently (e.g. tries not to blow itself up
+    with rockets at close range)
++ bots know what runes do and change their behaviour appropriately (e.g.
+    tries not to blow itself up when using rockets with strength rune)
++ doesn't go after items unless it really needs them (i.e. not an ammo hog)
++ bots explore fairly well
++ bots try to help their teammates who are firing at an enemy
++ bots try to stay near their teammates with the flag
++ no target mode
++ observer mode
++ various bug fixes to ThreeWave CTF code
+
+Not Yet Added/Things To Do/Known Bugs
+-------------------------------------
++ bots may be too slow on slower machines, and take up a lot of memory
++ bots don't know how to swim up to avoid drowning (but they try to
+    fire hook)
++ bot water levels are not correct (i.e. bot may be able to fire
+    thunderbolt in water that a human can't, may not be affected by
+    shallow lava, etc.)
++ red bot skins glow
++ bot's don't know about any teamplay modes other than the default CTF
+    mode (i.e. can't hurt teammates at all) and will probably kill
+	their friends fairly often if teamplay is changed.
++ bots can't travel over broken ground, animation is wrong sometimes,
+  and bot movement is jerky.  Hopefully this will be fixed in future
+  releases that use a different movement scheme
++ bots tend to try to use the hook to get to high places instead of just
+     walking up the stairs/ramp
++ bots don't know when an item is inaccessible, and continue to try to get it
++ bots get telefragged when entering the game with makebots.cfg
++ sometimes bots move at normal running speed when being pulled by the
+     hook, especially when going parallel to the floor
++ bots don't necessarily start firing at an enemy that is firing at them;
+     they have to notice the enemy first... if they are trying to get
+	 a good but inaccessible item they are unlikely to turn around and
+	 start firing at the enemy
++ bots don't fire at you when you hook them, making for an easy kill
++ bot player model doesn't pitch up/down quite properly when bot aims up/down
++ bots initially spawn in the floor in ctf2 (what the hell???)
++ no remote administration of bots
++ ctf scoring might be screwed up when bots are involved
++ bots are not affected by sv_aim (not actually a bug because sv_aim
+	should always be 1.0 anyway)
++ bots are not affected by and don't know about wind tunnels
++ bots jump into lava/slime too much
++ bots are not very smart about teleporters, buttons, or secrets
++ tons of other stuff of course
+
+Future Plans
+------------
++ support new releases of ThreeWave CTF as they are created
++ waypoint support for more maps
++ more dynamic CTF map creation/modification support
++ make bots seem more human
++ make bots smarter in general
++ make bots know more about ctf strategy (i.e. don't leave the base
+    undefended to just go exploring)
++ make bots use hook better
++ make various ctf modes, defender, escort, roaming attacker, camper
++ make bots kill the guy who took their flag with higher priority
++ more order impulses
++ allow bots on your team to pick up the enemy flag if there are no
+	humans around
++ dynamic bot add/remove code so that smaller teams get bots to help until real
+    humans join the server
++ carry bots over to next level
++ make bots hook you intentionally
++ make bots communicate with other bots on its team... let them ask
+    for ammo and/or weapons, tell them about a rune on the ground, tell
+	them to come back to the base, etc.
++ make bots throw ammo/weapons/runes to its teammates and/or humans that need
+    ammo/weapons/runes
++ a guide for map creators on how they can make CTF maps that are bot-friendly
++ dedicated server support
+
+Waypoints Technical Discussion
+------------------------------
+Bots use waypoints to navigate on certain maps.  Waypoints are basically
+"threads" that lead the bot into or out of a base.  Waypoints are
+necessary because otherwise bots would have NO knowledge of a level
+when they are spawned.  They would wander around randomly and probably
+not find their way to the enemy base.  Without waypoints, enemy bots
+generally take your flag only if they happen to spawn in your base.
+With waypoints, however, bots know exactly how to get into your base
+and actually try to go there on purpose.  This makes CTF much more
+interesting and challenging, as bots can actually use some CTF strategy.
+
+How to Create Waypoints
+-----------------------
+Most people will not want to try this because it is too technical.  It's
+certainly not required to play the bots.  Several maps already have
+waypoints defined, and even on maps without waypoints the bots can be
+fun.
+
+The waypoints for the maps the bots know about are compiled into the bot code
+and dynamically created when the map starts.  They are not stored as entities
+in the bsp so there is no need to use QBSP to modify the bsp file.  The bots
+know what map they are playing on and use the waypoints if they have them.  If
+there are no waypoints for the map, the bots probably won't capture your flag,
+but they will try their best anyway.  As a result, if you want to add
+waypoints to a map you will need to modify the code and recompile the bot.
+However, there are several impulse commands to help you add waypoints without
+having to think about programming at all.  The tricky thing is then testing
+your waypoints and figuring out how to pick better points.
+
+A sequence of waypoints is called a path.  Paths always start near a flag,
+with waypoint number 0. Waypoint 1 is then nearby, followed with increasing
+waypoint numbers as the path goes away from the flag.  Generally paths lead to
+a central area.  Any number of paths can exist in a map, but you need at least
+2: one from the red flag to a central area and one from the blue flag to a
+central area.  Bots are not tied to a specific path, but look for the best
+waypoint on *any* path.  From each waypoint on a path you should be able to
+see the next waypoint.  So generally you put waypoints in hallway corners.
+You should end the path when you can see the end of the other team's path.
+For doors and teleporters, you should put the waypoint close enough to the
+door/teleporter so that the bot will open the door or go through the
+teleporter.  Remember to put waypoints on *both* sides of a door/teleporter,
+because paths are two-way!  That is, the bots use the paths to get INTO and
+OUT OF a base.
+
+Turn on bot debug (default key F8) to see the waypoints on the maps that
+have them.  They are represented by bubble sprites.  You should be able to
+see what is going on fairly well.
+
+To create a path, start up Quake with the -condebug parameter so that all
+console text is logged to the file qconsole.log in the ctfbot directory.
+Then use the following impulses to create a path.  You must be of the same
+color as the path (i.e. when you are red you make a red path).
+
+impulse 85 = (default key n) = start a new path of your team
+impulse 86 = (default key w) = lay down the next waypoint in path
+impulse 87 = (default key q) = print waypoints to console
+
+plus, when you are creating waypoints:
+
+impulse 1-20 = (no default key) = lay down specific waypoint number
+
+When you print waypoints with impulse 87, they are printed in a format that
+you can pretty much copy and paste into the bot code (but you have to add
+semicolons and you may have to clean up the vectors so that they compile).
+Note that *all* waypoints in the map are printed out, not just the ones you
+added, so if there are already waypoints in the map they will be printed too.
+Don't worry about the order in which the waypoints are printed/created, it
+doesn't matter.
+
+Of course, don't try this unless you know what you are doing!
+
+If you create a good group of waypoints for a map, please send them to me so
+that I can choose to incorporate them into the master CTF Bot code.  Please
+don't send them unless you've tried them out, because it's very easy to
+create a set of waypoints, but kind of tricky to create a *good* set.
+
+Currently paths exist only to lead bots from base to base.  Bots do not use
+paths for any other purpose.  Future versions will probably support
+different kinds of paths, for example paths that lead to a central area
+from other parts of the map, so bots can find their way back to a base no
+matter where they spawn (e.g. if they spawn in the middle up top in ctf5).
+
+Source Code
+-----------
+Unzip src.zip to see the source code.  Use the included progs.src which
+handles the different directories for the bot source code.  You may have to
+edit progs.src to compile the progs.dat into the appropriate directory.
+
+The current code may not do super smart things.  A lot of it is a massive
+hack.  Also there are many routines that could be heavily optimized for
+speed.
+
+Note that all of the monsters have been removed by ThreeWave CTF 3.5.
+
+If you come up with any cool modifications to this bot, I'd appreciate it
+if you emailed them to me, so that I can choose to incorporate them into
+the master CTF Bot code.
+
+All changes related to the bot (should be) marked with "CTFBOT", except
+in the new bot files of course.  Changes that are not bot related, but
+are CTF improvements (like drop rune and CTF bug fixes), are marked with
+"CTFBOT EXTRAS".  Of course, I may have missed a few, so do a global diff
+to see what really has changed.
+
+Keep in mind that the source code is based on ThreeWave CTF 3.5, and any
+modifications you make to the CTF Bot code may be restricted in their
+distribution and use.  Read the ThreeWave server mod readme for more info.
+
+Internet Server Use
+-------------------
+Feel free to use this work and on your *non-commercial* (i.e. you don't have
+to pay to play) Quake server.  Email me (if you feel like it) so I can play on
+it too.  Note that it has not been tested so it may not work at all, if you do
+any network testing please let me know.  Right now it's definitely not in a
+state for use on a totally public server (i.e. anyone can move the flag, and
+no dedicated server support).
+
+Bug Reporting/Comments/Suggestions
+----------------------------------
+Send bugs, comments, suggestions, code snippets, ideas, techniques, whatever,
+to drew@interpath.com. For bug reporting, please be as specific as
+possible.  Do *NOT* email me binary files without receiving my permission!
+
+Legal Notes
+-----------
+This software has NO WARRANTY.  Use this software at your own risk.  The
+author or any co-author of this work is NOT RESPONSIBLE for any harm or
+damage done as a result of using this sofware, or following any of the
+procedures described in this document or any documents accompanying this
+software.
+
+You *MAY* use this work, or any part of this work, as a basis for other
+work IF AND ONLY IF (1) your derived work is publically available on the
+Internet for free, AND (2) the complete source code of your derived work is
+publically available on the Internet for free, AND (3) the name of your
+derived work is different.
+
+You *MAY NOT* use this work, or any part of this work, as part of a
+commercial product or service (including but not limited to CD-ROMs and
+pay-to-play Quake servers) unless you get prior written permission from
+both Dave 'Zoid' Kirsch at zoid@threewave.com, and Andrew B. Davidson at
+drew@interpath.com.  Please get permission from Andrew B. Davidson first
+before bothering Dave Kirsch.
+
+This readme file, other included files, and portions of the included source
+code created by Andrew B. Davidson are Copyright (C) 1996-1997 Andrew B.
+Davidson.  Other portions of the source code are copyright their respective
+creators.  All rights reserved.
+
+Availability
+------------
+This modification is available from the following places:
+
+HOME: http://www.interpath.net/~davidson/cftbot.htm
+WWW : http://www.cdrom.com/pub/quake/quakec/bots/
+

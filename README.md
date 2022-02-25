@@ -63,7 +63,7 @@ BuddyBot | "Parsec" | [bbot_b1.zip](bin/bbot_b1.zip) <br>[bbot_b11.zip](bin/bbot
 ClanBots | "slug" | [clanbotv0.9d.zip](bin/clanbotv0.9d.zip)<br>clanbotv0.9b.zip<br>clanv0.7hman.zip<br>clanv0.6auto.zip<br>clanv0.5auto.zip
 CoopBot | Michael Messina | coopbotx.zip<br>[coopbot3.zip](bin/coopbot3.zip)
 Cronos Bot | "Cronos" | [hd_cbots_hd.zip](bin/hd_cbots_hd.zip)<br>[hd_cbots.zip](bin/hd_cbots.zip)<br>[hd_pak0.zip](bin/hd_pak0.zip)<br>[hd_progs.zip](bin/hd_progs.zip)<br>[cronobot107a.zip](bin/cronobot107a.zip)<br>[cbotpak106.zip](bin/cbotpak106.zip)<br>[cronobot101.zip](bin/cronobot101.zip) ([txt](bin/cronobot.txt))
-CTF Bot | Drew Davidson aka "BZ" | [ctfbot13b1.zip](bin/ctfbot13b1.zip)<br>[newctf12.zip](bin/newctf12.zip) ([txt](bin/newctf12.txt))<br>[ctfbot12.zip](bin/ctfbot12.zip) ([txt](bin/ctfbot12.txt))<br>[ctfbot11.zip](bin/ctfbot11.zip)
+CTF Bot | Drew Davidson aka "BZ" | [ctfbot13b1.zip](bin/ctfbot13b1.zip)<br>[newctf12.zip](bin/newctf12.zip) ([txt](bin/newctf12.txt))<br>[ctfbot12.zip](bin/ctfbot12.zip) ([txt](bin/ctfbot12.txt))<br>[ctfbot11.zip](bin/ctfbot11.zip) ([txt](bin/ctfbot11.txt))
 CTF Plugin (Frikbot) | Dan Hale aka "Wazat" | [ctfprogs.zip](bin/ctfprogs.zip)<br>[ctfplug2.zip](bin/ctfplug2.zip)
 CTFBot+ | Anthony Distler aka "*this" | [ctfbotp032399.zip](bin/ctfbotp032399.zip) <br>[ctfbotmw21.zip](bin/ctfbotmw21.zip)<br>[ctfbotp071498-upgrade.zip](bin/ctfbotp071498-upgrade.zip)<br>[ctfbotp071498u.zip](bin/ctfbotp071498u.zip)<br>[ctfbotp070498.zip](bin/ctfbotp070498.zip)<br>[ctfbot_060298.zip](bin/ctfbot_060298.zip)
 Cujo and Grapple (Cujgrap) | Xavier Javornicki | [cujgrap.zip](bin/cujgrap.zip) ([txt](bin/cujgrap.txt))
