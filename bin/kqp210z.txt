@@ -1,0 +1,123 @@
+�����������������������������������ͻ
+�  Title : Killer Quake Pack v2.10z �
+�����������������������������������ͼ
+
+Filename : KQP210z.ZIP
+Version  : 2.10z
+URL      : http://www.mpog.com/kqp/
+
+Date     : 2/5/97
+
+Author(s): Howard Roy
+
+Other mods: Disc 1.35
+            Air Strike 1.0
+            Mini Cannon 2.0
+            4 Barrelled Shotgun 1.0
+            Portal Gun 1.0
+            Disc 1.35
+            Radar 2.0
+
+Email    : howard@mortimer.com
+URL      : http://www.ugrad.cs.ubc.ca/spider/u6m1
+
+Credits  : * QC Code *
+           ===========
+           Zeus 2.x, Cujo 1.x, Blaze Gun and BFG by Jonathan E. Wright (nelno@interpath.com)
+           Guided Missiles v1.0 by Ken "Page Fault" Alverson (KenA@TSO.Cin.IX.Net)
+           DropDead v1e By Walter Lord (lord@brodart.com)
+           Flare and Eject Shell by Steve Bond (wedge@nuc.net).
+           Radio Tag Bomb, Nail bomb and camera from The Mark I SuperScream Grenade Machine v1.0
+             by Klaus Breuer (sz0759@rzmail.uni-erlangen.de)
+           Heads by Casey Robinson(robinson@got.net) and
+             Gene Warren(shrike@hooked.net)
+           Proximity Mine by n-tropy (ntropy@voicenet.com)
+           Portable Teleporter by W.Harris (willh@demonic.demon.co.uk)
+           Grappling Morning Star by "Mike" <amichael@asu.alasu.edu>
+           Chasecam v3.4 Rob Albin (albinatr@apci.net)
+           Gatling gun model by James 'Tritian' Lazarus (alazarus@ix.netcom.com)
+                       skin by Christopher Bolin (cbolin@teleport.com)
+           PAIN by Jack (ghoti@erols.com)
+             Rapid Fireball Launcher skin, Freeze thrower sound.
+           Feign v0.91 by Isaac Lauer (gwydion@psu.edu)
+           Decoyz 1.0 by Sam Shockey (shockesj@concentric.net)
+           Arrow model by Jim Rowley
+           Arrow sound by Lando (lando@apollo.ruralnet.net.au)
+           Air Fist by The Evolve team
+             Christopher Bolin: Concept and Artwork (cbolin@teleport.com)
+             Stephen F. Karl: Model
+             Shane W. Powell: QuakeC
+             Matt Houser: QuakeC
+           Zeusbot scoring list by Alan Kivlin (aka Virtuoso)
+
+           * Level *
+           =========
+           Basewalk.bsp by Mattias Konradsson (preacher@fragzone.se)
+           Truimph.bsp by Andrew Mulvey (triangle@iinet.net.au)
+
+           * Compiler *
+           ============
+           Fastqcc by Jonathan Roy (roy@atlantic.net)
+
+           * Others *
+           ==========
+           All KQP beta testers!
+           ID Software <- well, no ID, no Quake. Simple.
+
+KQP was quoted "The most kick-ass Quake collection" by Colin M. Williamson
+(XCDG@pop.iup.edu) Contrib. Editor, PC Gamer.
+
+KQP has been rated a 10/10 by Quake-C Archives
+http://www.planetquake.com/qca
+
+KQP has earned **QCHQ Seal Of Approval** from QCHQ
+http://www.quakec.com
+
+****************************************************
+* Please read the README.TXT for important notice! *
+****************************************************
+
+���������������ͻ
+�  Type of Mod  �
+���������������ͼ
+
+Quake C  : yes
+Sound    : yes
+MDL      : yes
+
+���������������������ͻ
+�  Format of Quake C  �
+���������������������ͼ
+
+.qc files     : no (available upon request)
+progs.dat     : yes
+
+�����������������������������������ͻ
+�  Description of the Modification  �
+�����������������������������������ͼ
+
+This is a combination patch of the various patches which I've listed
+in the above credit list, as well as many other original patches created
+by myself.
+
+I've tried my best to make sure they all work well together, and if they
+don't, please let me know by writing to me at howard@mortimer.com
+
+I've given full credits to all the authors of the varies patches that
+I've compiled into KQP, without their cool work, KQP would never even
+exist.
+
+The first time I played Quake with the cool patches, I was impressed on
+the cool stuffs that you could do with Quake C. I've tried dozens of
+patches created by others, and can never get enough from them.
+
+Then I came up with a new idea. What if I want to use a weapon from this
+patch to toast a new object from that patch? So I start to dig up the
+sources code of the various patches that I've, and try to combine them
+together.
+
+There are many hot patches out there, and I just can't combine all of
+them into one, so I'll have to decide on which to take, and which not to.
+
+If you liked the patch, great, let me know, and tell me what other patches
+you want me to put into the package.

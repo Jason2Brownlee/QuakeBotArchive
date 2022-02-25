@@ -293,7 +293,6 @@ knbot02.txt
 knbot03.txt
 kqcbotsource.txt
 kqp100.txt
-kqp210z.txt
 madness10.txt
 madness20.txt
 madness31.txt
