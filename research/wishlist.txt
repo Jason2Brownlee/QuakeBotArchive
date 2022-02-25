@@ -1,12 +1,18 @@
 # Quake Bot Filename Wishlist
 
-# generic filenames
+#
+# generic filenames (lots of false positives)
+#
 # 2000.zip
 # setup.exe
 # setup.zip
 # upgrade.zip
+# reaper.zip
+# omega.zip
 
+#
 # normal zip files
+#
 abandon1.zip
 accuracy.zip
 bgadmbot.zip
@@ -160,7 +166,6 @@ nnsource.zip
 oak082.zip
 oak0855.zip
 obots100.zip
-omega.zip
 orion_bots.zip
 orionbots_v3_ra.zip
 paddybot.zip
@@ -172,7 +177,6 @@ qcbot001.zip
 qcbot002.zip
 rakoolio.zip
 rbot.zip
-reaper.zip
 reaprb75.zip
 req106a.zip
 req_qw.zip
@@ -292,7 +296,6 @@ knbot01.txt
 knbot02.txt
 knbot03.txt
 kqcbotsource.txt
-kqp100.txt
 madness10.txt
 madness20.txt
 madness31.txt

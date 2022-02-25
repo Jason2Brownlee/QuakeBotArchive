@@ -1,0 +1,1057 @@
+����������������������������������ͻ
+�  Title : Killer Quake Pack v1.00 �
+����������������������������������ͼ
+
+Filename : KQP100.ZIP
+Version  : 1.00
+URL      : http://www.mpog.com/KQP
+
+Date     : 28/1/97
+
+Author(s): Howard Roy
+
+Email    : howard@mortimer.com
+URL      : http://www.ugrad.cs.ubc.ca/spider/u6m1
+
+Credits  : Cujo 1.x, Blaze Gun and BFG by Jonathan E. Wright (nelno@interpath.com)
+           Guided Missiles v1.0 by Ken "Page Fault" Alverson (KenA@TSO.Cin.IX.Net)
+           DropDead v1e By Walter Lord (lord@brodart.com)
+           Flamethrower, Flare, Banana and Eject Shell by
+             Steve Bond (wedge@nuc.net).
+           Radio Tag Bomb, Nail bomb and camera from The Mark I SuperScream Grenade Machine v1.0
+             by Klaus Breuer (sz0759@rzmail.uni-erlangen.de)
+           Heads by Casey Robinson(robinson@got.net) and
+             Gene Warren(shrike@hooked.net)
+           Proximity Mine by n-tropy (ntropy@voicenet.com)
+           Portable Teleporter by W.Harris (willh@demonic.demon.co.uk)
+           Grappling Morning Star by "Mike" <amichael@asu.alasu.edu>
+           Chasecam v3.4 Rob Albin (albinatr@apci.net)
+           GREAT Gatling gun model by James 'Tritian' Lazarus (alazarus@ix.netcom.com)
+                             skin by Christopher Bolin (cbolin@teleport.com)
+		             original code by tmi@triax.com
+           PAIN by Jack (ghoti@erols.com)
+           Feign v0.91 by Isaac Lauer (gwydion@psu.edu)
+           Decoyz 1.0 by Sam Shockey (shockesj@concentric.net)
+
+           fastqcc by Jonathan Roy (roy@atlantic.net)
+
+           All KQP beta testers!
+
+           ID Software <- well, no ID, no Quake. Simple.
+
+KQP was quoted "The most kick-ass Quake collection" by Colin M. Williamson
+(XCDG@pop.iup.edu) Contrib. Editor, PC Gamer.
+
+KQP has been rated a 10/10 by Quake-C Archives
+http://www.fishnet.net/~chriscon/quakec.htm
+
+KQP has earned **QCHQ Seal Of Approval** from QCHQ
+http://www.qchq.com/
+
+
+****************************************************
+* Please read the README.TXT for important notice! *
+****************************************************
+
+���������������ͻ
+�  Type of Mod  �
+���������������ͼ
+
+Quake C  : yes
+Sound    : yes
+MDL      : yes
+
+
+���������������������ͻ
+�  Format of Quake C  �
+���������������������ͼ
+
+unified diff  : no
+context diff  : no
+.qc files     : no (available upon request)
+progs.dat     : yes
+
+�����������������������������������ͻ
+�  Description of the Modification  �
+�����������������������������������ͼ
+
+This is a combined package of the following patches with minimum
+modification (only those needed to get them to work with each other).
+
+
+� Cujo 1.x, Blaze Gun and BFG by Jonathan E. Wright (nelno@interpath.com)
+� Guided Missiles v1.0 by Ken "Page Fault" Alverson (KenA@TSO.Cin.IX.Net)
+� DropDead v1e By Walter Lord (lord@brodart.com)
+� Flamethrower, Flare, Banana and Eject Shell by Steve Bond (wedge@nuc.net)
+� Radio Tag Bomb, Nail bomb and camera from The Mark I SuperScream Grenade Machine v1.0
+  by Klaus Breuer (sz0759@rzmail.uni-erlangen.de)
+� Heads by Casey Robinson(robinson@got.net) and
+           Gene Warren(shrike@hooked.net)
+� Proximity Mine by n-tropy (ntropy@voicenet.com)
+� Portable Teleporter by W.Harris (willh@demonic.demon.co.uk)
+� Grappling Morning Star by "Mike" <amichael@asu.alasu.edu>
+� Chasecam v3.4 Rob Albin (albinatr@apci.net)
+� Gatling gun model by James 'Tritian' Lazarus (alazarus@ix.netcom.com)
+              skin by Christopher Bolin (cbolin@teleport.com)
+� Feign v0.91 by Isaac Lauer (gwydion@psu.edu)
+� Decoyz 1.0 by Sam Shockey (shockesj@concentric.net)
+
+
+I've tried my best to make sure they all work well together, and if they
+don't, please let me know by writing to me at howard@mortimer.com
+
+Hey, those aren't my code, and I can't take the credit from works of
+others, so if you wanna say 'what a great patch you've made', write
+to the authors of the above patches.
+
+But if you like to say 'geez, nice work on combining those cool patches',
+or, something like 'your weapons rule!', well, send them to me, then. |8^)
+
+The first time I played Quake with the cool patches, I was impressed on
+the cool stuffs that you could do with Quake C. I've tried dozens of
+patches created by others, and can never get enough from them.
+
+Then I came up with a new idea. What if I want to use a weapon from this
+patch to toast a new object from that patch? So I start to dig up the
+sources code of the varies patches that I've, and try to combine them
+together.
+
+There are many hot patches out there, and I just can't combine all of
+them into one, so I'll have to decide on which to take, and which not to.
+
+So far, the work is quite impressive. Now I can use the flamethrower
+from the dropdead patch to BBQ Cujo, or use a radio tag pipe bomb to tag
+Cujo and watch it blows up, and lots of other fun stuffs to do.
+
+If you liked the patch, great, let me know, and tell me what other patches
+you want me to put into the package.
+
+�����������������������������ͻ
+�  Brief summary of features  �
+�����������������������������ͼ
+
+New weapons  Ammo Scale*   Description     (* 1 is least powerful, 5 is most)
+=============================================================================
+(Ammo cost : S = shells, N = nails, R = rockets, C = cells)
+
+Super axe       0 - (4) Super damage, but will hurt yourself as well.
+Vampire axe     0 - (2) Suck up enemy's health, and give it back to you.
+Morning Star    0 - (4) Finally, the morning star you've all been waiting for.
+Throwing Axe    0 - (4) A throwing flaming axe. You'll like it in action.
+
+Auto-shotgun   1S - (2) 5 continuous shots at a time.
+Magnum!       25S - (5) Super powerful long range weapon, can gib people remotely.
+Magnum Lite   10S - (3) Scaled down version of Magnum, take less ammo.
+
+Chain Gun      2S - (3) This gatling gun will kick some major butt!
+
+Blaze Gun      1R - (3) A new 'fireball' thrower type weapon. Can burn people.
+
+RFL            2R - (4) Rapid fireball launcher, like Blaze gun, but faster.
+Laser!         2C - (2-5) This weapon has a wide range of effectiveness.
+
+Flamethrower   1R - (3) You CAN catch something on fire with this one!
+Radio tag bomb 1R - (3) Tag to enemy and detonate it remotely.
+Promixity mine 5R - (4) Explode when anything get close. Fairly powerful.
+Timed Nuke!   20R - (5) Extremely powerful. Can gib anything in sight.
+Blazethrower   1R - (5) Wanted to setup a wall of fire? Try this!
+Freezethrower  1R - (5) Wanted to freeze someone? Try this!
+Nail bomb      5R - (3) The a.k.a. Eraser bomb.
+
+Guided missile 1R - (3) Fly your missile around to hunt people down.
+Auto-missile   1R - (3) 3 continuouse shots at a time.
+Nuke          30R - (4) Ultra powerful, can gib everyone in a room with 1 shot.
+Flare          1R - (1) Lits up the room.
+Guided Nuke!! 40R - (5) Guided version of Nuke, a bit more powerful.
+
+BFG 9000      40C - (4) The BFG from DOOM is back!
+
+Gibbed head       - (3) Floating in the air, looking for people to ambush.
+Self-Destruct     - (5) Only allowed when health < 20. Kill everyone with it.
+Gib-gun mode      - (3) Same damage as grenade / RTB. Fun to watch it explodes.
+Trapped backpack  - (4) Now you'll never know which backpack is safe, which isn't.
+Fake backpack     - (4) Now you'll never know which backpack is real, which isn't.
+Shield            - (3) Good defensive device.
+Orb               - (4) Good defensive and offensive device.
+Feign death       - (2) Hope that people will think you're really dead.
+Decoy             - (3) Another device to deceive people
+
+Other features :
+================
+
+Cujo the personal dog
+Solid corpses and backpack that you can shoot at.
+Eject Shells from shotgun and DB-shotgun.*
+Eject bullet shells from nailgun and super nailgun.*
+        * Read the follow section for more info on ejected shells.
+Multiskin for multiplayer.
+Enhanced multiplayer game mode (for coop and dm)
+Portable Teleporter
+Trapped Backpack.
+Fake Backpack bombs.
+Chasecam.
+Banana peel.
+Multi colored laser.
+Blazes from Blazethrower can land on floor.
+Blazes from Blazethrower, Blaze gun and RFL can
+  spread from entity to another
+A shield that you can use to protect yourself.
+An orb that orbits around you, firing at any target spotted.
+Feign death to deceive people that you're dead.
+Decoy not only use to deceive people, but could hurt/kill others.
+Eyes (external camera) that can be throw to a desired location.
+
+���������������������������ͻ
+�  How to use Modification  �
+���������������������������ͼ
+
+I've included the text files from the varies patches that I've combined,
+and put them into the /TXT directory, so you could look at them and see
+what the commands are, as well as the authors' email addresses.
+==========================================================================
+
+� I have added many bonus weapons to this package, too, read the following
+for more info.
+
+� Press 8 (or impulse 8) a several times to scroll through the varies
+lightning gun weapons, press 7 (or impulse 7) to scroll through the varies
+missile weapons, press 6 (or impulse 6) to scroll through the varies
+grenade weapons, press 4 (or impulse 4) to scroll through the varies
+nailgun weapons, press 2 (or impulse 3) to scroll through the varies
+super shotgun weapons, press 2 (or impulse 2) to scroll through the varies
+shotgun weapons and press 1 (or impulse 1) to scroll through the varies
+type of axes.
+
+Axe weapons :
+=============
+
+� Super axe does damage according to enemy's health. The formula is :
+If your health < 20, then you'll gib your enemy, as well as yourself.
+If enemy health >= 30, then damage is enemy health * 80%
+If enemy health < 30, > 20, then damage is 40, normal death.
+If enemy health <= 20, then damage is 80, and gib the enemy.
+However, you'll also take 20% of the damage you made on your enemy
+as well, so be careful when you use it.
+
+Hint : With this formular, basically you could gib anyone even with full
+health with 2 swings. Play with it and see the blood and fresh fly around.
+
+� Vampire axe does 15 damage to the enemy each swing, and give it back
+to you. Extremely useful when you're low on health.
+
+� Finally, I've spent the time to add the eagerly awaited grappling hook
+a.k.a. grappling morning star to KQP. I hope it works the way it should
+be, and please, "Mike" should be taken the full credit, not me. He'd
+created such a cool patch that everyone wants. Press '1' a several times
+to switch to it, or Impulse 32 to switch to it instantly.
+
+Hint : Try to pull out a magnum when you've hooked someone. It's a blast.
+
+Note : Since the original morning star will create TONS of gibs when
+it's hooked to any corpse, I've made some changes so that it'll do
+more damage to corpses and gib them faster. This will reduce the amount
+of overhead in multiplayer games, especially over the Internet.
+
+Note : Many people have complained about people paralyzing them with
+the morning star, I've modified the morning star to unhook after 10 hits.
+So when someone is grappling you, try to pull out your magnum, and as soon
+as the hook is released, BOOOOOM. |8^)
+
+� A new throwing flaming axe is added. Unlike the other similar burning
+axe patches, this one uses the fire 3D model as used in Blaze gun, so
+when you hit someone with it, see the fire spread. In fact, even an idle
+flaming axe can burn up people! Press 1 (or impulse 1) a several times to
+switch to it, or simple enter "Impulse 33" for it.
+
+Note : After your axe is thrown away and you didn't pick it up, it'll
+be automatically returned to you after it's been idle for 10 seconds,
+or you can pick others' axes up if you see one, as well as backpacks.
+
+Also, When you throw away your axe, you will have NO axe left to use,
+so if your axe is the last weapon you have, then after your had thrown it
+away, you'll be left with NO weapon! So use with extreme care.
+
+Lastly, when you're hooked to something (like a wall or ceiling), you can't
+throw away your flaming axe, but it is STILL a flaming axe, so everything
+that you chop will still caught on fire.
+
+Shotgun weapons :
+=================
+
+� Auto-shotgun shoots out 5 shots continuously before stopping for reload.
+It's reloading time, however, is slightly longer than the DB shotgun.
+
+� I've also added a Magnum as an ass kicker. This hot metal now takes
+25 ammo per shot, but even the shambler can't take 3 shots from it!!
+It also has a really long range, thus is an excellent sniper weapon.
+
+� People have told me that Magnum is really a hot metal, but it takes
+30 ammo per shot, you just can't use it too often, therefore I've added
+a Magnum Lite in this version. It takes 10 ammo per shot, and does less
+than Magnum, but is slightly faster, and also capable to gib a person
+in any range with 1 shot.
+
+Shotgun weapons :
+=================
+
+� A new chain gun has been added to KQP. This gatling gun will fire bullets
+out at an incredicable rate, eject lots of bullet shells and will leave
+bullet holes on walls. If the gun is kept firing for a long enough period
+of time, it'll get overheat, the gun burrels will turn red, then hot red,
+smoke start to come out from the gun, and fire rate will drop. Time to
+let it cool down. |8^)
+
+It uses shells as ammo, so it is more accessable than nailguns. Press 3
+(or impulse 3) several times to select it, or enter Impulse 45 to activate
+it.
+
+
+Nailgun weapons :
+=================
+
+� I've recently added a new weapon from Jonathan E. Wright (Cujo author)
+called Blaze Gun to KQP. It's a really cool weapon, kinda like the
+destructor weapon in Duck 2D, but much better. You can caught people on
+fire with this, and it's not a sprite anymore, it's a model. Try it out.
+Press 4 (or Impulse 4) several times to switch to it, or simply enter
+Impulse 70 for it.
+
+Super Nailgun weapons :
+=======================
+
+� Yet another new weapon is added - Rapid Fireball Launcher. Like Blaze
+gun, its fireballs can torch up anything in sight, but it's 2 times faster
+and shoot in a straight line. A new gun model is used as well. Press 5
+(or impulse 5) a few times to switch to it, or simply enter Impulse 80
+for it.
+
+Note : In the current setup, pressing '5' will only center the screen,
+press the keypad '+' instead to switch to super nailgun/RFL. You can change
+this by binding the 5 key to something else, e.g.:
+BIND '5' 'impulse xx'
+
+� Now laser is one of the super nailgun weapons, and new laser missile and
+a new laser gun model is also added. To switch to laser, press 5 (or
+impulse 5) several times, or enter "impulse 81" to switch to it instantly.
+
+� Laser can cause different level of damage to your opponents, depends on
+how long it keeps burning them. Sometimes it can gib an enemy on impact,
+someimes it can kill them in a second by keep burning them, sometimes it
+takes more than 2 hits to kill one. Each shot now takes 2 cells,
+so keep an eye on your ammo before you run out of them.
+
+� New color is added for the laser model, and you could select a color
+of your choice by entering Impulse 150 (next) and 151 (previous).
+
+Note : Since the laser is more accessible now, it will do less damage then
+the old version, but it'll fire 2 times as fast.
+
+Grenade weapons :
+=================
+
+� Flamethrower will sometimes burn people up. However, since this old
+model of flamethrower is using sprites (pictures) rather than 3D objects,
+it is slower than the new Blaze gun type flames which uses 3D objects.
+
+� Radio Tag Pipe bombs are like the pipe bombs in Duck 2D, except if it
+is not tagged to an object, it'll self-destruct in a period of time.
+To detonate, enter IMPULSE 120, to disarm, enter IMPULSE 121.
+
+� Proximity mine will stick to the walls you shoot at, and will arm itself
+after approximately 2 seconds. It'll beep and explode if anyone approaches
+the mine within 1-2 meter. To detonate, enter IMPULSE 122, to disarm,
+enter IMPULSE 123. Excellent anti-camper weapon. Now modified so that
+now only 5 mines are allowed per player at a time, and it now cost 5 ammo
+to fire one.
+
+Also note that now proximity mines can be destoryed by explosion, so if you
+see someone had setup a proximity mine trap, you can destroy them by blowing
+them up.
+
+� Timed Nuke takes 20 ammo for each shot, like the proximity mine, it'll
+stick to the wall you shoot at. It'll arm itself as soon as it hits the
+wall, and giving off the 'tick' sound. It will explode after approximate
+3-5 seconds. This timed Nuke has a REALLY wide range, so make sure you're
+nowhere near it when it explodes, or simply run behind a wall or so.
+
+Hint : Make sure you can't see the timed Nuke when it explodes. If you can
+see it, it can gib you, no matter how far it's away from you.
+
+� I've added a Gib gun mode back by popular demand. Press IMPULSE 135 to
+toggle between regular grenade mode and gib gun mode. When activated,
+all grenades will be changed to gibs. I hope this will satisfy all you
+gib lovers. |8^) By the way, it's not just a clone of the gib gun out there,
+mine has more. just watch one of the gib grenade explodes...
+
+Note : Only grenades are converted to gibs, not proximity mines, timed
+Nuke, rockets, etc.
+
+� Also, if you fire a regular rocket in Gib gun mode, it'll work the way
+just like the Gibgun patch out there, i.e. it'll enter the victim's body,
+and explode after two seconds. If, however, th timing device of the gib
+missile have been disturbed by the victim, (doing just anything other
+than standing or running), the gib missile will explode on the next
+damage the victim gets.
+
+Note : If the victim got attacked while carrying a gib missile, he/she will
+explode immediately.
+
+� Ladies and gentlemen, here it is, a REAL flamethrower. The all new
+Blazethrower will eat the old, sprite-based flamethrower's heart out.
+The flames it throws follows a a ballistic path, and burn up almost
+ANYTHING. What if you missed the person you tried to burn, and landed
+the flame onto the floor? NO PROBLEM, it'll keep on burning ON THE FLOOR
+for the next few seconds, and if some unlucky folk is stupid enough to
+walk on that burning floor, he/she WILL catch on fire as well!
+
+That's right! Just like the Blaze gun, the flame created by the Blazethrower
+can actually SPREAD! So, wanna create a wall of fire? NO PROBLEM! To use it,
+press 6 (or impulse 6) a several times, or enter impulse 54 to switch to it.
+
+� Another new invention! If this freezethrower is release as a seperate
+patch (which I'm going to), it'll beat all its competitions! Just read what
+it can do :
+
+When you press the fire button, the Freezethrower will not shoot out an
+ice beam directly, instead, it'll start to charge up (it consumes rocket
+fuel and convert it into a sub-zero beam of ice), the longer you pressed
+on the button (or key), the more enery will be charged. (You can actually
+see it when it charges up!)
+
+When it's ready, release the button, and see the ice beam flies. As soon
+as it hits something, it'll do a RADIUS damage (except yourself), freeze
+up ALL SURROUNDING enemies. So the longer you charge the gun up, the more
+damage it'll make, and the wider the radius will be.
+
+However, like in Duck 2D, you can't freeze anything before you bring its
+health down to like 20. So, keep charging your weapon, and release it
+only at the best time.
+
+Also, if you shoot the ice beam into water or slime, it'll INSTANTLY freeze
+up all surrounding enemies under water, INCLUDING YOURSELF. Depends on how
+much power you've charged, you could possibly freeze up everyone under water
+and pick them up one by one later.
+
+The Freezethrower will consume at most 20 rockets at a time, and it will
+need at least 2 rockets to work. While you're charging the Freezethrower,
+you cannot switch to another weapon, and if you're out of ammo (less than
+2 rockets), it'll stop charging, but it won't fire until you release the
+button.
+
+To use it, press 6 (or impulse 6) a several times, or simply enter
+impulse 55 for it. Try it, you'll love it!
+
+Note : I've also added a new option to allow the freezethrower to
+continuously shoot out ice beam without charging, i.e. the chain fire mode.
+To toggle between each mode, enter impulse 131. The chain fire mode will
+allow the player to fire a continuous stream of ice beam shots, however,
+these ice beams are weaker, consumes a bit more ammo than the charger,
+and will not do a radius damage.
+
+� Due to populat demand, I've added a nail bome (a.k.a. Eraser bomb) to KQP.
+Press 6 (or impulse 6) a several times, or enter impulse 56 to switch to it.
+
+Missile weapons :
+=================
+
+� Auto missile launcher shoots rockets out more rapidly, travels faster, but
+is less powerful (even weaker than the guide missile, gotta be fair |8^) ).
+It'll fire 3 times continuously before stopping for reload.
+
+� Nuke is an area-effective weapon, each shots now takes 30 ammo, but is
+uLTRA-POWERFUL. It does have a slow re-load time, and travels slowly,
+however, so use it with extreme care, or you'll be toasted as well.
+
+Hint : Better make sure you're really far away from the target you're
+shooting at, and see how the victims explode. This weapon works especially
+well when shoots into a crowded room, ideal for ambusing people, thus this
+make a good (or not that good?) camper weapon.
+
+More Hint : Try to get a quad-damage powerup and play with it, it's virtually
+a BFG.
+
+� Flare will lits up an area for around 15 seconds, then it'll die.
+
+� I've added a Guided Nuke weapon into this killer pack as a special bonus.
+These babies cost 40 ammo, and travels like turtle, but you can guide them
+to any area you want, and watch people explode from far far away.
+
+Hint : Guided Nuke is even more powerful than regular Nuke, and have wider
+range as well. So you better make sure it IS far away from you before you
+hit something. BOOOOOOM!
+
+Lightning gun weapons :
+=======================
+
+� The latest invention from the same author of Cujo and Blaze - BFG 9000.
+The all time favorite DOOM weapon of many people, the Quake BFG has a
+very similar effect as the DOOM version. To switch to it, press 8
+(or impulse 8) a several times, or simply enter "Impulse 90". Read
+the associated text file in the \killer\txt directory for more info.
+
+Misc. weapons :
+===============
+
+� To pick up a gibbed head, simply run over it. You can only carry one
+at a time. To throw it, enter IMPULSE 12. It'll then turn into a
+homing head missile and floats in the air, waiting to ambush people.
+
+Hint : When it's floating in the air, try to shoot at it using nail
+guns or rockets, and see it bounces away.
+
+� The floating 'homing head' missile have been modified, now the head
+you throw out will be the head you've picked up, instead of the
+default player's head everytime you throw (now looks cooler). Also if
+it hits the ground (either you shoot at the floating head and make
+it bounces to the floor (or other surfaces) or it simply lands on
+the floor when it is chasing after you), it'll turn back into a
+normal head, which you can't pick up again. This head will then be
+removed after 10 seconds.
+
+Hint : Use this technique well, and you can avoid many unwanted
+deaths. |8^)
+
+� The new self-destruction mode can be activated by pressing IMPULSE 230,
+which is available only when your health is below 20. However, you'll get
+a -5 flag if you self destruct, as a penalty, so use it only when you're
+in a crowded room.
+
+� Now backpacks are sometimes trapped. One out of five backpacks are trapped,
+so during multiplayer game, sometimes you'll get bonus from people's
+backpack, sometimes you'll get BOOOOOM!
+
+� Another new deadly trap - fake backpack bombs are now available.
+Each fake backpack takes 10 rockets, it looks and feels just like the
+real backpack, but only when someone pick it up, it'll go BOOOOM!
+So, after you'd loot your dead opponent, leave a fake backpack there and
+watch others pick it up as if someone has left it behind... BOOOOM!
+To throw fake backpack, enter "Impulse 13". It is only available in
+deathmatch game only.
+
+Hint : The only different between a real (or trapped) backpack and a fake
+backpack bomb is that the fake backpack bomb grows in the dark. So before
+you throw a fake backpack, better make sure you're in a bright room, or
+everyone will know it's a fake one.
+
+Others features :
+=================
+
+� Some modifications have been made to the original shell eject code,
+a new 'nail' bullet shell model is added, and enhanced the original
+texture of the .MDL model. The ejection routine has also been modified
+so that the shells are now ejected more randomly, and won't always land
+on the same 5 places on the floor. The shell removal procedures is also
+modified so that there will always be some shell left on the floor
+while won't drag down the system too much or produces too many packet
+overflows.  See below for more info.
+
+Hint : Try to goto map e1m8 and play with it. It's like a rain of shells.
+
+� The shells ejected are removed in a way such that there will only
+be a limited number (10 for shell, 20 for bullet, and none for both in
+multiplayer game) of them left on the floor. If more shells are ejected,
+then the old ones will be replaced.
+
+� If the game is seriously slowed down due to the massive number of
+objects created by these shells ejected, you can turn it off by
+IMPULSE 130. Enter it again will re-activate the shell ejection.
+
+� Also, I've limited the maximum number of shells that can be ejected by
+each person (15 for shell, 25 for bullet; 5 and 10 in multiplayer game)
+at a time, thus will reduce the chance of packet overflow.
+
+� I've added a portable teleporter to KQP as well. Press IMPULSE 140
+to memorize current location, and IMPULSE 141 to teleport to the memorized
+location. Each teleportation consumes 10 cells, and it is disabled in
+deathmatch game when the player is below 50 health. (Or otherwise everyone
+teleport away when they're dying.)
+
+� I've added a really cool patch - Chasecam, please read the file included
+in the \TXT directory for more info. The impulse command has been changed,
+and some functions are taken away since KQP involves too many changes that
+those functions will no longer work. Please read the impulse command list
+below for the new impulse commands.
+
+Note : You cannot toggle external view while you're in Cujo's view, and
+vice versa. Otherwise problems will occur.
+
+Note : Also, the monster view switch (i.e. player switch in multiplayer
+game) has been disabled in multiplayer game, otherwise everyone will be
+able to see what the other player's doing.
+
+� Added banana peel. Throw it and watch your opponent slip when they walk
+on it. Really funny to watch, and the sound effects are funny, too. Enter
+Impulse 14 to throw one, however, you only have one at a time, and will
+get it back either after someone had slipped with it, or after 30 seconds.
+
+� Added shield for people who want to play defensively. Enter Impulse 160
+to toggle the shield, it can protect you from some harm. However, keep in
+mind that it is not bullet-proof, and it can't block attacks like explosions.
+Also, when you're using the shield, it'll also block anything you're firing,
+so use it with extreme caution. Enter Impulse 160 to toggle the shield.
+
+Note : The shield WILL take your cell as a source of energy, and it'll
+slowly eat away you cell energy, and when the cell is exhausted, it'll
+be deactivated. So please keep an eye on your cell count.
+
+� Added orb for even cooler defensive/offensive tactics. Once activated,
+it'll orbits around you like the Moon does around the Earth. If it spots
+any enemy in its sight, and given you have enough cell, it'll automatically
+fire beams of laser to the target. Enter Impulse 170 to toggle the orb,
+Impulse 171 to deactivate all orbs, and Impulse 172 to switch between modes.
+
+Note - Each orb takes 20 cell to activate, and you can have up to 5 orbs
+at a time. Each orb will, however, consumes cells slowly, and if you have
+more than 2 orbs at a time, your auto-cell recharge system will not be
+able to recharge your cell fast enough, and you cell will eventually
+exhaust. And if that happens, orbs will be deactivated automatically.
+
+� Added a auto-cell recharging system. Now cell will recharge itself slowly
+over time, so if you're low on cell, but need to use the laser / orb or
+other weapons that use cell, just find a safe place, and let it recharges
+itself.
+
+� Added Feign death to KQP. Enter Impulse 175 to pretend you're death.
+Once you do so, you can't do anything like shooting, look around, jumping,
+etc. You'll also drop a fake backpack to trick others that
+you're really dead, but that backpack is empty, so people may know
+something's not right...
+
+Note - You cannot pickup the empty backpack that you throw when you fake your
+own death.
+
+� Added a throwable eyes (camera) to KQP. Enter Impulse 180 to throw a pair,
+and 181 to switch back to player view, thus removing the eyes (camera).
+
+Note - You can keep throwing your eyes (aka the camera) out as many times
+as you want, so when you're too far away from your eyes, either switch back
+to the player view, or throw another pair of eyes.
+
+� Added decoys. Pretty straight forward, fire (Impulse 185) as many decoy
+activator as you wish (each activator takes 20 cells to fire), and activate
+decoys (Impulse 186) from them. You can also detonate all active decoys
+(Impulse 187) when you're done.
+
+��������������������ͻ
+�  IMPULSE Commands  �
+��������������������ͼ
+
+Brief IMPULSE commands summary :
+(please refer to the text files mentioned above for full info)
+
+Impulse 1    Switch between regular axe, super axe, vampire axe, morning star
+               and the throwing flaming axe.
+Impulse 2    Switch between regular shotgun, auto-shotgun, Magnum and Magnum
+               Lite.
+Impulse 4    Switch between regular nailgun and blaze gun.
+Impulse 5    Switch between regular super nailgun, rapid fireball lauchner
+               and Laser.
+Impulse 6    Switch between regular grenades, flamethrower, radio tag bomb,
+               proximity mine, Timed Nuke, Blazethrower and Freezethrower.
+Impulse 7    Switch between regular missiles, guided missiles, auto-missiles,
+               Nuke, flare and guided Nuke.
+
+Impulse 12   Throw a gibbed head into the air.
+Impulse 13   Throw a fake backpack. Consumes 10 rockets for each backpack.
+Impulse 14   Throw a banana peel to slip other players.
+
+Impulse 20   Chasecam - View-point toggle (Chase view, Normal view)
+Impulse 21   Chasecam - Laser-targeter toggle (Standard, Glowing, off)
+Impulse 22   Chasecam - lower distance
+Impulse 23   Chasecam - increase distance
+Impulse 24   Chasecam - Last monster/player (only available in single player mode)
+Impulse 25   Chasecam - Next monster/player (only available in single player mode)
+
+Impulse 30   Switch to Super axe instantly.
+Impulse 31   Switch to Vampire axe instantly.
+Impulse 32   Switch to Morning Star instantly.
+Impulse 33   Switch to Throwing Flaming Axe instantly.
+
+Impulse 40   Switch to Auto-shotgun instantly.
+Impulse 41   Switch to Magnum instantly.
+Impulse 43   Switch to Magnum Lite instantly.
+
+Impulse 45   Switch to Chain gun instantly.
+
+Impulse 50   Switch to Flamethrower instantly.
+Impulse 51   Switch to Radio tag pipe bomb instantly.
+Impulse 52   Switch to Proximity mine instantly.
+Impulse 53   Switch to Timed Nuke instantly.
+Impulse 54   Switch to Blazethrower instantly.
+Impulse 55   Switch to Freezethrower instantly.
+Impulse 56   Switch to Nail bomb instantly.
+
+Impulse 60   Switch to Guided missiles instantly.
+Impulse 61   Switch to Auto-missiles instantly.
+Impulse 62   Switch to Nuke instantly.
+Impulse 63   Switch to Flare instantly.
+Impulse 64   Switch to Guided Nuke instantly.
+
+Impulse 70   Switch to Blaze Gun instantly.
+
+Impulse 80   Switch to Rapid Fireball Launcher instantly.
+Impulse 81   Switch to Laser instantly.
+
+Impulse 90   Switch to BFG 9000 instantly.
+
+Impulse 100  Activates and Deactivates the dog
+Impulse 102  Tell Cujo to stay or follow.
+Impulse 103  This toggles your screen between the player and Cujo's points
+               of view.
+Impulse 104  Teleport the dog to your location.
+Impulse 105  Turns on Cujo's collar lamp.
+Impulse 106  Reports on Cujo's status.
+Impulse 107  Toggles Cujo between attack and non-attack modes.
+
+Impulse 120  Detonates Radio Tag Pipe Bombs.
+Impulse 121  Disarms Radio Tag Pipe Bombs.
+Impulse 122  Detonates Promixity Mines.
+Impulse 123  Disarms Promixity Mines.
+
+Impulse 130  Turn on / off shell ejecting. Useful when there is too much lag.
+Impulse 131  Switch from Freezethrower charger mode to chain fire mode.
+Impulse 135  Turn on / off gib gun mode. Fun to watch grenades turn to gibs.
+
+Impulse 140  Memorize current location (for use with Portable Teleporter).
+Impulse 141  Teleport to memorized location, consumes 10 cells each teleport.
+
+Impulse 150  Select next laser color.
+Impulse 151  Select previous laser color.
+
+Impulse 160  Toggle shield on/off.
+
+Impulse 170  Toggle orb.
+Impulse 171  Deactivate all orbs.
+Impulse 172  Changes orb mode.
+
+Impulse 180  Throw the camera.
+Impulse 181  Remove the camera.
+
+Impulse 185  Launch a decoy activator.
+Impulse 186  Activate all decoys.
+Impulse 187  Destory all decoy activators.
+
+Impulse 200  Next skin in multiplayer mode.
+Impulse 201  Previous skin in multiplayer mode.
+
+Impulse 230  Self-destruct when health is lower than 20.
+
+** Use the BIND command to make your life easier, example :
+
+BIND A "impulse 100"
+
+�����������������������������������ͻ
+�  How to Install the Modification  �
+�����������������������������������ͼ
+
+goto Quake dir
+make a sub dir named something like KILLER
+unzip everything with -d into that sub dir
+run quake with the -game option
+
+Examples:
+
+C:\>cd quake
+
+C:\Quake>md KILLER
+
+C:\Quake>cd KILLER
+
+C:\Quake\KILLER>unzip -d KILLER
+
+... unzip files ...
+
+C:\Quake\KILLER>cd ..
+
+C:\Quake>Quake -game KILLER
+
+If you're running KQP under Windows 95, and have more than 8 MB of ram,
+try to run Quake with this command :
+
+C:\Quake>Quake -game KILLER -winmem 12
+
+(If you have more than 16 MB of ram, replace 12 with something bigger)
+
+Also, since many people asked me how to install and run KQP, I've created
+three batch files to help those who can't start KQP properly. Simply copy
+those batch files from the KQP directory to the quake directory, and
+run them.
+
+Examples:
+
+C:\>cd quake
+
+C:\Quake>cd KILLER
+
+C:\Quake\KILLER>copy *.bat C:\Quake
+
+3 file(s) copied.
+
+C:\Quake\KILLER>cd ..
+
+C:\Quake>WINKQP killer          <- run KQP under Win95
+
+C:\Quake>DOSKQP killer          <- run KQP under DOS
+
+C:\Quake>SERVER killer          <- run KQP as a dedicated server
+
+That's it.
+
+���������������������ͻ
+�  Technical Details  �
+���������������������ͼ
+
+Bugs:
+
+� If you're controlling your guide missile when the gibbed head is
+heading towards you, it'll not explode on impact.
+
+� If a dog/fiend is frozen while it's leaping, it'll continue to move
+once it has landed.
+
+� Freezing a wizard a second time (or more) will not drop it to the
+floor.
+
+� Rare bug - sometimes during multiplayer mode, the player's corpse may
+disappear when he/she respawn.
+
+�����������������������ͻ
+�  Future Enhancements  �
+�����������������������ͼ
+
+� Trying to combine a few more cool patches to make the deathmatch game
+looks cooler.
+
+� Wish list (listed accoring to its priority) :
+- DM bots (i.e. project KQP/Z)
+- more weapons to come...
+
+� Send me any comments and patches that you want to see in KQP. I'll
+try my best to add them onto the patch.
+
+� Also notice that, since KQP is getting bigger and bigger now, the original
+qcc compile will NOT be able to generate a playable progs.dat, (more info
+follows), in order to compile a playable progs.dat, get the latest fastqcc
+from Jonathan Roy (he'd actually compiled this special version of fastqcc
+for me - and KQP!), which can be obtained at :
+http://www.ugrad.cs.ubc.ca/spider/u6m1/QC/fastqcc.zip
+
+Info : During compilation of KQP, I've found that the pr_numglobals has
+exceed 16k, which is define in qcc.h as MAX_REGS, and for some time,
+KQP simply screws up everything in Quake. So I contact Jonathan Roy,
+and asked him to recompile his fastqcc for me with a larger MAX_REGS, and he
+did, in fact, now the MAX_REGS is 64k, and I think it'll take me some time
+to fill that up! |8^)
+
+��������������������ͻ
+�  Revision History  �
+��������������������ͼ
+
+* KQP was quoted "The most kick-ass Quake collection" by Colin M. Williamson
+  (XCDG@pop.iup.edu) Contrib. Editor, PC Gamer.
+
+* KQP has been rated a 10/10 by Quake-C Archives
+  http://www.fishnet.net/~chriscon/quakec.htm
+
+* KQP has earned **QCHQ Seal Of Approval** from QCHQ
+  http://www.qchq.com/
+
+* Credits should go to all the authors of the varies patches that I've
+  combined. (Well, some of them ARE my works, though. |8^) )
+
+� ver 1.00 : Added shield.
+             Added gatling gun - this gun will kick some major butt!
+             Added orb - a defensive / offensive device.
+             Added Nail bomb - a.k.a Eraser bomb.
+             Added Feign - a.k.a. fake death due to popular demand.
+             Added camera that can be throw to a desired location.
+             Added Decoys.
+             Added chain fire mode for freezethrower.
+             Added auto-cell recharging system - cell will now automatically
+               recharges itself overtime.
+             Added debris throwing when blaze is burning an entity.
+             Added new texture for laser model. See above.
+             Added bigger flame model for all blazes when it starts to burn,
+               and will give off smoke.
+             Added bouncing nails - nails/spikes will now bounce off walls.
+             Modified bulelt case ejection to be applied to Chain gun only.
+             Modified chasecam to disable players' view switch in multiplayer
+               game.
+             Modified proximity mine so that it can be destroyed by
+               explosions, also it now has a shorter range, and will
+               be armed as soon as it hits any walls or the floor.
+             Modified auto missle's path so that they won't all fire
+               at the same path. Thanx to Albert for this.
+             Modified shell ejection so in multiplayer game, there will
+               be no shells left over.
+             Fixed the burnt-to-death-then-respawn-with-blaze bug.
+             Fixed some freezethrower charger bugs.
+             Fixed the frozen code so when you get frozen, you can't
+               turn around.
+             Fixed stack overflow caused by chain backpack explosion.
+             Fixed the 'superman' guided missile bug.
+             Updated Blazethrower to be the second grenade type weapon.
+               Impulse command remains the same.
+             Updated shell ejection on/off function to save setting
+               between levels.
+             Increased max cell you can carry to 200
+             Increased ammo in cell battary. Small batteries have 15 cells
+               (was 6), and large ones have 30 cells (was 12).
+             Increased ammo for regular Nuke to 30 per shot due to popular
+               demand, and increased its power, too.
+             Reduced the shells that can be left over by each person in
+               multiplayer game to be 2 each.
+             Reduced the odd of picking out a trapped backpack to 1 out of
+               every 20 (use to be 1 out of 5).
+             Reduced ammo for Guided Nuke to 40 per shot due to popular
+               demand. |8^)
+             Reduced the maximum proximity mine allowed for each person
+               at a time to 5.
+             Removed hint from fake backpack.
+             Removed bullet case ejection from super/nail guns.
+             Removed 1 second delay from morning star due to popular
+               demand. Morning star will still unhook after 10 hits.
+
+� ver 0.90 : Added Rapid Fireball Launcher (RFL). See above.
+             Added Throwing flaming axe. (One of my favorite) See above.
+             Added Blazathrower! (Another of my favorite) See above.
+             Added Freezethrower!! (My favorite of all!) See above.
+             Added fake backpack bombs. See above.
+             Added BFG.
+             Added Chasecam!
+             Added banana peel. |8^)
+             Added new Laser gun model.
+             Added backpack gibs - now you'll know when the backpack is destroyed.
+             Added killer.rc to display info when game starts.
+             Updated Cujo patch to 1.3.
+             Updated Blaze gun patch to 1.1.
+             Updated Bestweapon routine.
+             Updated CycleWeapon routine.
+             Updated impulse command routine.
+             Updated client messages.
+             Updated cujo view / chasecam - only one is allowed at a time.
+             Modified Laser model. Now looks cooler.
+             Modified Gib gun mode to work like the GibGun patch.
+             Modified Laser to be one of the super nailgun weapons. See above.
+             Modified BestWeapon routine, now it'll switch back to
+               default weapon mode ONLY when you're out of ammo.
+             Modified Grappling hook to prevend paralyzing. See above.
+             Modified trapped backpack to be allowed only in deathmatch
+               game.
+             Modified proximity mine so that only 10 proximity mines
+               are allowed per player at a time.
+             Modified shell ejecting routine in multiplayer game so
+               that less objects will be created.
+             Modified Teleport to allow teleportation of solid objects
+               like gibs, gun shells, blaze fireball, etc.
+             Modified Teleporter to allow teleportation in deathmatch,
+               ONLY when the player has over 50 health.
+             Fixed the cujo view problem that when you fire a guided
+               missile while in cujo view.
+             Fixed the problem when you fire a guided missile while you're
+               hooked to something.
+             Fixed cell ammo pickup checking routine. Now you can only
+               pick up what you can carry.
+             Fixed that stupid client message saying 'you're playing
+               KQP 0.7 ...' Should be 0.87, Duh. |8^)
+
+� ver 0.87 : Finally, added grappling hook (a.k.a. morning star) to KQP!
+             Added Gib gun mode.
+             Added Portable Teleporter.
+             Added Blaze Gun.
+             Added trapped backpack.
+             Modify self-destruction to minus 5 (FIVE) frags. So use
+               it with extra caution.
+             Fixed Cujo client message.
+             Fixed more minor client message problems.
+             Fixed more bugs! Boy, the more I bust, the more I spot...
+             Fixed a rather serious bug - during multiplayer game, when a
+               player has been gibbed, if his/her head has not been picked
+               up after 30 seconds, and if he/she doesn't respawn after
+               30 seconds, his/her entity will be removed and that player
+               can no longer respawn. (More serious problem is associated
+               with this bug, but now it's fixed.)
+
+� ver 0.86b: This is a maintainence version from 0.86, I forgot to remove
+               some of the debug info from the last version. Dooh! |8^)
+             Added Laser!
+             Fixed some minor problems - debug info problems such as
+               stop printing out the "attacker dot destructed" message.
+             Fixed self-destruction mode bug.
+             Fixed some client message problem.
+
+� ver 0.86 : Optimized the code, now it loads and runs faster, and take
+               up less memory.
+             Added Super Axe.
+             Added Vampire Axe.
+             Added Magnum Lite.
+             Added self-destruction mode. (Only allowed when health < 20)
+             Modified Nuke with better explosion effect.
+             Modified Magnum to take less ammo.
+             Modified monsters gibs. Now with even more gibs when you
+               gib corpses. Gotta like it. |8^)
+             Cujo patch has been modified to Cujo 1.2c, with help from
+               Jonathan E. Wright.
+             Guided missile bug fixed by Jonathan E. Wright. Now Cujo won't
+               attack you when you launch your guided missile. Great work,
+               Jonathan!
+             Fixed Cujo corpse gibbing problem. It now works the way it
+               should be.
+             Fixed many bugs. Some of the bugs mentioned in the above bug
+               list no longer exists. If they do, however, please let me know.
+             Fixed weapon change mode. Now all the weapon change impulse
+               commands work.
+             Fixed best weapon mode. When weapon is out of ammo, the next
+               best weapon with ammo will be selected.
+             Fixed multiplayer corpse gibbing problem. Now corpse gibbing
+               works much better.
+
+� ver 0.85 : Added Eject shells.
+             Added Eject bullet (or nail) shells.
+             Added Auto-shotgun.
+             Added Magnum.
+             Added Guided Nuke!! See above.
+             Added Proximity Mine. See above.
+             Added Timed Nuke! See above.
+             Modified Auto-missiles to work like Auto-shotgun.
+             Removed partical explosion from auto-missiles.
+             Fixed several bugs.
+                - Check for ammo before firing new added weapons.
+                - Reduced time before gibs are removed.
+             Modified Nuke to take 10 ammo for each shot.
+             Removed ricochet nailgun stuffs from dropdead patch,
+                as it creates too much overhead and constantly
+                produces packet overflow when used with shell eject.
+
+� ver 0.8  : First version
+
+���������������������ͻ
+�  Contacting Author  �
+���������������������ͼ
+
+As mentioned above, my email address is :
+
+Howard@mortimer.com
+
+I also have a personal web site located at :
+
+http://www.ugrad.cs.ubc.ca/spider/u6m1
+
+������������������������������������������ͻ
+�  Copyright and Distribution Permissions  �
+������������������������������������������ͼ
+
+� Authors MAY use these modifications as a basis for other
+publically available work.  Please send me any modifications
+you make!
+
+� If you have used part of this patch (code, model or sound) in
+your own patch, please give credits to the authors who have made
+them - including myself. Thank you.
+
+� You may distribute this Quake modification in any electronic
+format as long as this description file remains intact and unmodified
+and is retained along with all of the files in the archive.
+
+� This patch can NOT be distribute on ANY product PRODUCED or even
+RELATED to a lame company called Actura.
