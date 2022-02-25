@@ -1,0 +1,84 @@
+Title    : Eliminator CBot Engine - Level Construction Set
+Filename : elimtst1.zip
+Version  : 1.1
+Date     : 96/09/16
+Author   : Cameron Newham
+Email    : cam@iinet.com.au
+Credits  : see the readme.txt
+
+
+Type of Mod
+-----------
+Quake C  : yes
+Sound    : no
+MDL      : no
+
+
+Format of QuakeC (if a Quake C Mod)
+-----------------------------------
+unified diff  : no
+context diff  : no
+.qc files     : no
+progs.dat     : yes
+
+
+Description of the Modification
+-------------------------------
+
+This is a construction set for creating levels for use with the
+Eliminator Bot Patch and the CBot Engine.
+
+It contains a compiled version of the Engine in Test Mode,
+a copy of the Eliminator Waypoint Guide, plus an example level
+(entities MAP for Start.BSP).
+
+For further details see the README.TXT file in the archive.
+
+For the Eliminator Bot Patch itself, get elim??.zip from
+your favourite archive site.
+
+
+How to Install the Modification
+-------------------------------
+
+See the README.TXT file in the archive
+
+
+Technical Details
+-----------------
+
+See the README.TXT file in the archive
+
+
+Author Information
+------------------
+
+I am author of the "Realistic Weapons" Quake C patch,
+the sqeam.zip archive, and this Mod Template.
+
+
+Copyright and Distribution Permissions
+--------------------------------------
+
+Authors MAY use these modifications as a basis for other
+publically / commercially / publically or commercially available work
+SUBJECT TO THE LIMITATIONS SET OUT IN THE README.TXT FILE.
+
+
+You may distribute this Quake modification in any electronic
+format as long as this description file remains intact and unmodified
+and is retained along with all of the files in the archive.
+
+
+
+Availability
+------------
+
+This modification is available from the following places:
+
+FTP   : (eventually) ftp.cdrom.com in the Quake C area
+WWW   : http://www.iinet.com.au/~cam/quakec.html
+        http://www.iinet.com.au/~cam/elimtst1.zip
+
+BBS   : -
+Other : -
