@@ -86,7 +86,7 @@ Eliminator Bot (CBot) | Cameron B. Newham | [elim14.zip](bin/elim14.zip) ([txt](
 Eliminator Bot v1 | Jonathan Down aka "Perged" | [elim141.zip](bin/elim141.zip) ([txt](bin/elim141.txt))
 Eliminator Bot v2 | Jonathan Down aka "Perged" and P. T. Craig aka "FuzzKatT" | [elim20b7.zip](bin/elim20b7.zip) ([txt](bin/elim20b7.txt))<br>elim20b6.zip
 Estep Bot (EsTePBot) | Enrique Gonzalez Alonso aka "EsTePaRiO" | [estepbot2eng.zip](bin/estepbot2eng.zip) ([txt](bin/estepbot2eng.txt))<br>[estepbot2.zip](bin/estepbot2.zip)
-FEAR (Cujo) | Jon | [fear20.zip](bin/fear20.zip) ([txt](bin/fear20.txt))<br>[fear13.zip](bin/fear13.zip) ([txt](bin/fear13.txt))<br>[fear.zip](bin/fear.zip) ([txt](bin/fear.txt))
+FEAR (Cujo) | Jon | [fear20.zip](bin/fear20.zip) ([txt](bin/fear20.txt))<br>[fear13.zip](bin/fear13.zip) ([txt](bin/fear13.txt))<br>fear10.zip ([txt](bin/fear10.txt))<br>[fear.zip](bin/fear.zip) ([txt](bin/fear.txt))
 Frag Bot | Richard Peacock aka "The Goat" | [fragbot.zip](bin/fragbot.zip) ([txt](bin/fragbot.txt))
 FrikBot + Artifact Quake (Runebot) | Chuck Parsons | [rnbt9.zip](bin/rnbt9.zip)<br>[rnbt4.2.zip](bin/rnbt4.2.zip) <br>rnbt3.6.zip<br>rnbt3.4.zip
 Frikbot + CTF | Benjamin Darling aka "Electro" | [frikbotctf_01.zip](bin/frikbotctf_01.zip)

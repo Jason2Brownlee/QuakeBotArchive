@@ -1,0 +1,476 @@
+FEAR v1.0
+Put together by: Jon (its132@aol.com)
+
+|-----|
+|Intro|
+|-----|
+ Pack. Lots of weapons. Lots of toys. Deathmatch, fun. Single player, unfair.
+
+|------------------------|
+|Things you get with dis:|
+|------------------------|
+WEAPON 1: Axe/Throwing Axe/Throwing Flaming Axe/Morning Star
+WEAPON 2: Shotgun/Sniper Rifle/Magnum
+WEAPON 3: Super Shotgun
+WEAPON 4: Nailgun/Blaze Gun
+WEAPON 5: Super Nailgun/Rapid Fireball Launcher/Laser
+WEAPON 6: Grenade Launcher/Radio Tag Bombs/Flamethrower/Blaze Thrower/
+          Freeze Thrower
+WEAPON 7: Missile/Homing Missile/Guided Missile/Nuke/Guided Nuke/Timed Nuke
+WEAPON 8: Lightning Gun/Lightning Ball Thrower*/Tractor Beam
+
+    * = The author originally called this a BFG 9000 (of Doom fame) but I
+        felt that this was unappropriate considering that the REAL BFG 9000
+        looked like a toaster and turned the entire screen green when shot
+        right in a soldier's face. This imposter looks just like the Light-
+        ning Gun and shoots a blue ball. That's no B(ig)F(uckin')G(un). 
+
+OTHER STUFF:
+        Stinger - Throw in the water and it toasts everything.
+        Tracer  - Throw onto an opponent and you'll hear him coming
+        Cujo - Your very own attack dog
+        Motion Detector - Toss on the ground and within 10 seconds it'll shoot
+                          nails at anything that moves
+        Decoys - Create a hologram of yourself that pretends to shoot at your
+                 enemies and will detonate on command or when shot at
+        Portable Teleporter - Store a location and teleport back to it upon
+                              command
+        Chase Cam - Shows the view from behind you...just in case you want to
+                    check out yr ass
+        Flares - Shoot one at any area to light it up
+        Light Bomb - Drop one and everyone in the area goes blind
+        Proximity Mines - Drop a mine and it'll explode when anything goes
+                          anywhere near it 
+        Jetpack - Replaces biosuits and let's you fly
+        Exploding Backpacks - It a backpack...that explodes...hmmmm....
+        Compass - What does a compass do?
+        Feign - Lets you fake your death. You drop a fake backpack and scream
+                and everything. Make all your friends think your dead so you
+                find out what they really thought of you.
+        Dive - Dive to the ground or hide in shallow water <-- I made this
+        Laser Sight - Put a blue circle wherever you'll shoot
+        Self Destruct - Take 'em all with you...
+        Ejecting Shells - Shoots out shells and casings when you shoot either
+                          shotgun or the Super Nailgun
+        Gibbable Corpses and Wall Zombies - Pointless gore
+        Gibbable Backpacks and Ricochet Nails - Stuff to amuse you
+        Various Deathmatch Games - see FETURES.TXT
+        Skins :
+            Female Warrior                   Han Solo    
+            Toad                             Jason
+            Storm Trooper                    Red Devil
+            Cowboy (cooler than it sounds)   Boba Fett
+            Terminator                       Insane Soldier
+            Judge Dread                      The Crow
+            Camoflauged soldier              Teamplay Stormtrooper
+            The Punisher                     ???
+            Ninja                            C3PO
+            Predator
+            Skeleton
+
+==> PRINT THE FILE "QWKREF.TXT" FOR A QUICK REFERENCE SHEET OF ALL THE KEY
+    COMMANDS
+==> PAGE DOWN FOR A DETAILED DESCRIPTION OF ALL THE FEATURES
+
+|-------------------------------------|
+|The O-So-Rude yet O-So-Necessary part|
+|-------------------------------------|
+ Blah blah blah...Yes, it is true that I did not create a goddam single one of
+these addons (except 1). But, if it wasn't for me they'd be boring as hell. 
+Seriously, was your world turned upside down when you got a patch that changed
+one weapon or threw a fucking banana on the ground? Now you can just fuck shit
+up with all of 'em at once.
+ I changed a few things in some of them to either get them to work with the
+other add-ons or because I just couldn't bare the stupidity of some of them
+(i.e. the homing head) or to change the graphics. Below is a list of the
+original creators, or in other words, the skip-over-to-find-out-how-to-install
+-the-damn-thing-and-even-if-the-words-to-a-Bon Jovi-song-were-after-it-you'd-
+still-skip-over-it-because-you-really-don't-give-a-fuck-who-created-them-list.
+Yea, but computer people get mad when you don't type their name because they
+have real low self esteem. I don't know.
+
+|------------------------------------------|
+|People who I ripped off to make this patch|
+|------------------------------------------|
+Jonathan Wright (nelno@interpath.com) did CUJO, BLAZE GUN, BFG (aka LIGHTNING
+                BALL GUN)
+Ken Alverson (KenA@TSO.Cin.IX.Net) did GUIDED MISSILES and GUIDED NUKE
+Jonathan Avraham (procedure@hotmail.com) did the TRACTOR BEAM, and the TRACER
+Walter Lord (lord@brodart.com) did the DROPDEAD (cool band) patch.
+Alon Albert (al@merc-int.com) did the COMPASS
+Steve Bond (wedge@nuc.net) did the FLAMETHROWER, FLARE, and the EJECTING
+           SHOTGUN SHELLS, and those axe things
+Klaus Breuer (sz0759@rzmail.uni-erlangen.de) did the RADIO TAG BOMBS
+Sam Shockey (shockesj@concentric.net) did the DECOYS
+Issaac Lauer (gwydion@psu.edu) did the FEIGN DEATH
+W. Harris (willh@demonic.demon.co.uk) did the PORTABLE TELEPORTER
+Iikka Paavolainen (ipaavola@cc.hut.fi) did the GENIUS HOMING MISSILES
+Ktgow (ktgow@cory.eecs.berkeley.edu) did the MOTION DETECTOR
+Harlequin (dtebben@alumni.caltech.edu) did the JETPACK
+Pangloss (weblook@mmv.se) did the STINGER and the LIGHT BOMB
+Rob Albin (albinatr@apci.net) did the CHASECAM
+Stalin (1-800-WET-DICK) did the SNIPER RIFLE
+NTropy (ntropy@voicenet.com) did the PROXIMITY MINES
+CaseyRob (robinson@got.net) made those fucking annoying heads that I ripped
+                            off so I got put the name here.
+...and some guy named Mike (amichael@asu.alasu.edu) made the MORNING STAR HOOK
+
+==> The skins included have been taken from various patches that I've come
+    across. It was impossible to track down who created each one of them,
+    considering they obviously did not come from the creator. If you honestly
+    created one of these skins and want to make a big fuss over your name
+    not being here, e-mail me and I'll update this file to give you your
+    chance at the big time.
+
+|------------|
+|Installation|
+|------------|
+ First make a directory off of yr QUAKE directory called FEAR. Then take the
+FEAR10.ZIP file or whatever file name you have (once this is released the
+file name is out of my hands and some greasy shareware dealer at some
+computer geek convention may decide that DILDO.ZIP is a much better name)
+and copy it into the new FEAR directory. Unzip it using the -d command.
+
+ i.e.
+     PKUNZIP FEAR10.ZIP -d
+
+Then return to the QUAKE directory and type:
+
+     QUAKE -GAME FEAR
+
+|-------------------------|
+|Details, details, details|
+|-------------------------|
+Things in FEAR v1.0 and what they do:
+
+==> THROWING AXE - Well ya see, it's kinda like this. They're axes, and well,
+    you throw them. You have an unlimited supply of them and to add to the
+    realism it looks like you're shooting them out of yr neck. You'd
+    miss 'em if you didn't have them though.
+
+==> THROWING FLAMING AXE - Well ya see, it's kinda like this. It's an axe,
+    and well, you throw it, but this time it's on FIRE!! You only get one
+    and you must retrieve it use it again, although if you don't retrieve
+    after ten seconds it'll come back to you. Yea, a smart axe, I'm supposed
+    to believe that? It'll set whatever it hits on fire and then fall to the
+    ground. If something walks over it while it is on the ground it'll catch
+    on fire.
+
+==> MORNING STAR - Whatta dumb name, but what a great weapon. Tap the fire
+    button and it'll release a morning star at an opponent. Push and hold the
+    fire button and it'll pull you to whatever it hooked itself onto. Great
+    for getting to out of reach places. It's pretty rad when you hook it onto
+    and opponent and pull yrself towards it because you can see the pain on
+    their face as the star digs into their chest (hard to believe I'm a
+    vegetarian, ain't it?).
+
+==> SNIPER RIFLE - This weapon is great for multiple player deathmatch games.
+    It uses ten nails per shot but it is definatly worth it. I also removed
+    the sound from it because what good sniper uses a rifle without a
+    silencer. This way you can sit up in yr sniper's perch and pick off
+    enemies without giving away yr position to others by the sound of yr
+    weapon.
+
+==> MAGNUM - Excessive, but if that's yr thing, whatever. Uses 25 shells and
+    blows the fuck out of yr enemies.
+
+==> BLAZE GUN - Shoots balls of fire out while pushing you back. Definatly
+    a cool effect. Hard to say how much each shot uses, because you never
+    really just shoot one shot. Uses rockets for ammo.
+
+==> RAPID FIREBALL LAUNCHER - Shoots fireballs rapidly?? Sounds good.
+    Uses two rockets for every shot.
+
+==> LASER - This weapon is dope. Shoots out laser beams in a speedy manner
+    killing well, ummm, everything. Uses two cells.
+
+==> RADIO TAG BOMBS - The house favorite. You can use this weapon in a
+    variety of different ways. Fire a bomb and it'll attach itself to whatever
+    it is shot at. Then you have the choice to detonate or disarm the bomb.
+    In a Deathmatch match game, tag like ten of 'em onto yr opponent and then
+    tell him to give you his backpack or you'll blow him up. After he drops
+    his pack and you pick it up, blow him up anyway. Oh yea, I colored the
+    stripes on the tag bombs yellow so you could tell 'em apart from the
+    grenades.
+
+==> FLAME THROWER - This uses rockets and will set yr enemies on fire. They
+    can put themselves out by jumping in the water. So when they do, throw a
+    stinger in after 'em. Ooops.
+
+==> BLAZE THROWER - This is the weapon for that pyromaniac that all of us were
+    when we were eight. This just sets everything on fire. Enemies, the walls,
+    the floor...you. Be careful, if you play with fire, you're gonna get
+    burned.
+
+==> FREEZE THROWER - I still haven't found a practical use for this except for
+    humilating yr deathmatch opponent, by rendering him paralyzed for 15
+    seconds. Hold down the fire button to charge it and then release to fire
+    (or is it freeze?). The longer you charge the longer the paralasis (Did I
+    spell that right? Do you care?). Uses rockets and the longer it's charged
+    the more rockets it uses. Uses a max. of 20.
+
+==> HOMING MISSILE - The original patch called these "genius" missiles and
+    that's exactly what they are. The best homing missile patch around. It'll
+    find something to home in on even if the board is all cleared. It goes
+    crazy trying to find something to kill. I love it. If by some freak chance
+    it can't find anything after twenty seconds it'll self destruct with no
+    damage. Also, if it homes in on something and then can't destroy it
+    because it moved behind an obstacle it'll send you a message saying
+    "Missile in trouble". Not like it matters like you're gonna go rescue it
+    or something. If I could marry a weapon this would be it. Uses 2 rockets
+    per shot.
+
+==> GUIDED MISSILE - These are fun. When shot it changes to the view of the
+    actual missile and you get to fly it like a plane. I mean, you can use
+    the homing missiles to get around corners but you can play games with
+    this. I've sat around just shooting these things and seeing how far I can
+    fly them without letting them explode. Uses 1 rocket but the strength is
+    not as great.
+
+==> NUKE - Kaboom!! 10 rockets.
+
+==> GUIDED NUKE - Kaboom!!, but you can play with it. 50 rockets.
+
+==> TIMED NUKE - Kaboom!!, but now you can run away before it blows you up
+    too. Attach it to yr enemy's face. 20 rockets.
+
+==> LIGHTNING BALL GUN - As I told you in the other text file, this was
+    originally called a BFG 9000 but I already explained why I changed it so
+    go read why in the other file. You should've been paying attention the
+    first time. When you hit players with this they look like a big giant
+    put his hands around them and squeezed until they popped. Uses 40 cells.
+
+==> TRACTOR BEAM - Say you're on a ledge overlooking a sea of lava staring face to
+    face with an opponent. Hit and hold fire to get him in the tractor beam,
+    lift him into the air, drag him over the ledge, make him cry for his life
+    ...and then drop him. It gussles ammo though. Once you hit the fire button
+    the counter on the number of cells goes down faster than the number of
+    Grateful Dead fans. Doh.
+
+==> STINGER - Did any of you see the episode of Mr. Belvedere, when George
+    dropped the radio into the bathtub and almost died? Well, that's what
+    this weapon reminds me of, except there's no fat, yet arogant housemaid
+    and whoever's in the water is guaranteed to fry. Whether the person in it
+    has 2% or 666% health, if they are in that water, they're gonna die. Each
+    stinger uses 25 cells and send electic currents throughout the liquid. On
+    this one I colored the stripes blue so they can be distinguished from
+    the grenades or tag bombs.
+
+==> TRACER - Shoots out a spiked ball that sticks to your opponent 
+    and lets you know when he/she is coming. The beeps get louder as it
+    gets closer, but the problem is that it has a problem recognizing
+    different levels. You could be in the same place as the tracer but three
+    levels up or two levels down and you'll think it's right next to you.
+    Still cool, though. Uses 1 rocket and 1 cell.
+
+==> MOTION DETECTOR - I love this thing. Ok, place one of these on the ground,
+    then run because within 10 seconds this thing is gonna be armed. Once it's
+    armed it will shoot nails at anything that moves, including it's owner.
+    It'll follow your motion and just keep pumping nails into you. Once out of
+    ammo it can be reloaded, but it usually gets the job done the first time.
+    You need 96% health, 50 nails, and 1 rocket to use it though.
+    
+==> DECOYS - Great for deathmatch. This is the most advanced decoy patch that
+    is out there. First fire the decoy, it looks like a grenade. Then hit the
+    decoy activator to well, activate the decoy. It creates a clone of the
+    player that runs in place and when sights an enemy pretends to shoot at
+    it, doing no damage. If the enemy does enough damage to or touches the
+    decoy it detonates this time doing damage. The decoys can also be remotly
+    detonated by the owner, who can also turn them off if close enough. Makes
+    opponents feel real stupid when they are shooting at a fake. As long as
+    you have 1 rocket and 1 cell you can make as many decoys as you want. Yea.
+
+==> PORTABLE TELEPORTER - I like to use this to check up on decoys or traps
+    placed. Once you tell it to memorize a location you call teleport back to
+    it at any moment. Memorizing a location is free but teleporting there will
+    cost you ten cells.
+
+==> FLARES - For those afraid of the dark or for those who are pissed off by
+    the dark like yours truly. Once shot, it sticks in the wall and lights up
+    the immediate area. It only does 1% damage to enemies so it's not worth
+    using as a weapon. Each flare takes away one ammo of whatever weapon you
+    have selected unless it's the axe and then it takes away rockets.
+
+==> BACKPACK BOMB - Ok, you know before, when I said that you should put alot
+    of tag bombs on yr opponent and then demand their pack in exchange for
+    disarming the bombs and then you blow 'em up anyway? Great, well, yr
+    opponent read that also, so be prepared. Remember, he's gonna blow you up
+    anyway, so blow him up too. Throw a backpack bomb and you both die but
+    so what, it's a game, play again. Uses 10 rockets.
+
+==> LIGHT BOMB - Most players don't like it when they can't see, but do you
+    really care about their needs? Drop this and in 5 seconds it explodes
+    leaving everything in its radius, rendered blind. Last for 15 seconds.
+    Make sure you run after you throw it 'cause it'll blind you too.
+
+==> PROXIMITY MINES - Attach these to anything...floors, walls, ceilings,
+    exploding boxes...anything. After a few seconds the mine is armed and when
+    anything comes in the...what?...do you know?..yes, that's right, the
+    proximity of the mine, Boom! You can also disarm them incase you put 'em
+    on the bathroom door and decided that now you really have to go. Uses 1
+    rocket.
+
+==> COMPASS - No offense to the person who created it, but this thing just
+    sucks. The author himself even said it was nothing special, but he did
+    mention some great ideas for future modifications, so good luck to him
+    (see, I can be nice) with it. You're now wondering why I put it in here
+    then. Well ya, see, the page up button was sitting there all alone on the
+    keyboard surrounded by keys binded to impulses and it looked lonely so I
+    found something to give to it. Page up...this one's for you little
+    buckaroo.
+
+==> FEIGN DEATH - Fake death, fake death, fake death, ok? I like this for a
+    number of reasons. The first is the shock opponents get when they think
+    yr dead and then you stand up and set them on fire. Second, because if you
+    have no weapons except for the neck puking axe, and yr opponent is
+    coming and you really don't feel like dying you can feign and pray for
+    the best. It also throws a fake backpack to make it look more realistic.
+
+==> DIVE -  You know those knee high water beds? Like in E1M1 where the bridge
+    is, you jump in the water but don't go under. If you dive you can lie down
+    in the water, invisible to all above. Wait there until you see the legs of
+    an opponent enter the water and then jump up and shoot. Fuck them.
+
+==> JETPACK - Adds variety. Right now, jetpacks replace biosuits but soon I'd
+    like to give them their own impulse so you can press a key to get it and
+    we'll have the biosuits back. I'm also gonna take a stab at making a
+    deathmatch level for use with the FEAR pack that will have the jetpack as
+    its own item. Until then...After getting a jetpack, double jump and hold
+    it to release the throttle then use the lookup/lookdown/left/right keys to
+    fly. It's rad it deathmatch when you and yr opponent both have jetpacks
+    and you take the battle to the skies. Homing missiles ruin the fun but,
+    you still got a frag, he he. The jetpack uses it's own fuel. When you get
+    one it has enough fuel for approx. 15 seconds of constant burn (You'll
+    get a message when fuel is low). If you kill someone who had a jetpack
+    pick up their pack and you get their fuel.
+
+==> LASER SIGHT - For the sniper in you. Places a blue dot wherever yr
+    bullet is gonna end up. Good for long distances. Press the button again
+    and you get a spotlight with yr laser sight. Fun, fun, fun.
+
+==> CHASE CAM - I don't know what the author created this for, I mean I just
+    use it to check out my skins during single player games. I'm not saying
+    it's not cool though. It's kinda fun to try to play the game outside of
+    the first person perspective, it's kinda like a twisted Super Mario Bros.
+    You can select the distance the camera is behind you, also.
+
+==> SELF DESTRUCT - Once someone makes a rock star skin this function will be
+    perfect. When you don't feel like living anymore and want to take
+    everyone with you (and yr health is under 20) hit this and everyone in the
+    room dies. Gives you a -5 frag though.
+
+==> EJECTING SHELLS - Cool patch that fixes the first thing I noticed when I
+    played Quake, that the shotgun didn't expell shells like in Doom. This
+    patch added excellent sounds and graphics to give you the warm sensation
+    of seeing the yellow and orange cyclinder shoot out of the stock of the
+    gun. An update from the KQP gives you casings from the super nailgun too.
+    You go.
+
+==> GIBBABLE CORPSES - Now you can fuck people up after they're already dead.
+    Tag bombs on 'em on the corpse or wack 'em with the axe and just watch
+    meat go flying. I also fixed it so in deathmatch if you're killed and
+    then gibbed and your opponent then picks up yr head, it's like he's
+    carrying it around and you can still see. Nothing productive, just
+    amusing. Respawn to get yr head back.
+
+==> LIVING WALL ZOMBIES - Zombies that once were just flopping around on the
+    wall can now jump off the wall and can be gibbed. I hate that noise when
+    they rip off their skin and throw it at you...Ewww....
+
+==> GIBBABLE BACKPACKS - Backpacks explode when shot at. If there were
+    grenades in the backpack...Boom!
+
+==> RICOCHET NAILS - Nails ricochet off walls. Wow.
+
+==> DROPDEAD MULTIPLAYER- Aside from having the name of one of my favorite
+    bands this patch sounds pretty cool. I say "sounds" because I've never
+    played Quake against more than one other person. It allows for different
+    versions of multiplay. Teamplay -1 is a game of tag and Deathmatch 3 is a
+    game of deathmatch with monsters. Also this makes it easy to run this
+    patch on a server with up to four teams of four. Then again, since I don't
+    have a network I don't even know if this works. Could be fucked for all I
+    know, but I don't think so 'cause the other non-multiplay functions work.
+        
+==> MULTISKINS - Choose from these fine selections...
+
+            Female Quake - When I first saw the name for this I thought it
+                           was cool that someone made a female skin. Then I
+                           saw it and it was this half naked amazon woman.
+                           Fuck that. I came here to play a game not to jerk
+                           off. I guess that's what happens when middle aged
+                           men whose wives don't want to fuck 'em anymore,
+                           play video games. I took her head and put it on
+                           the regular quake guy's body. If you made this
+                           skin, fuck you. And if your pissed that I changed
+                           it, fuck you.
+            Toad - Some weird character, whose skin has the texture of a frog
+                   or something like that.
+            Storm Trooper - You know, those guys from Star Wars.                  
+            Cowboy - Not one of those hat wearing, line dancing, white trash,
+                     new wave cowboys, but the real deal from the old west.
+                     Like from a Clint Eastwood movie. Really well drawn. 
+            Terminator - Umm...the Terminator.                      
+            Judge Dread - Umm...Judge Dread.                     
+            Camoflauged soldier - Good for those spirited deathmatch games
+                                  when you're trying to hide from your
+                                  opponent.
+            The Punisher - Great fun and all but that big skull on yr shirt
+                           makes for a great target. 
+            Ninja - Most ninjas fight with marshal arts...This one fights with
+                    a grenade launcher.
+            Predator - Ooooo...scary. Jesse "The Body" Ventura would've been
+                       scarier.
+            Skeleton - Guess.
+            Han Solo - You know, that guy from Star Wars.
+            Jason - Well, it looks like him, especially when he's running with
+                    the axe.
+            Red Devil - I don't know if this is supposed to be anyone in
+                        particular but it's dope anyway. Like the Quake guy,
+                        but with a black and red color scheme and a skull and
+                        cross bones on his chest. I like it!
+            Boba Fett - Your mother's favorite bounty hunter.
+            Insane Soldier - The Quake guy with blood all over him. Gee.
+            The Crow - I fucking hated this movie...But the skin looks cool.
+            Teamplay Stormtrooper - Stormtrooper but with a sholder patch that
+                                    matches yr team's color, and he's even
+                                    wearing a backpack.
+            ??? - Don't know the name, but it's cool just the same.
+            C3PO - You know, that droid from Star Wars.
+         
+|----------|
+|Known Bugs|
+|----------|
+ Crabs, scabies, lice and some times you'll get a "PACKET OVERLOAD" when
+using the Super Nailgun. Also, if you try to dive or feign yr death while
+jumping you'll get stuck and it'll fuck shit up so just don't do it
+all right. I'll fix that soon. 
+
+|-------------|
+|Next version?|
+|-------------|
+ Hmm...I definatly want to addon a Deathmatch Bot, like Reaper Bot or
+something of the like. I also wanna mess around with the Jetpack and make it
+something you start out with so you can use the biosuit or create maps that
+feature the biosuit and the Jetpack. Other deathmatch / teamplay variations.
+Also, I wanna change the feign death to randomly select the death sequence
+instead of using the same one all the time. Some more weapons, some of my own
+next time. I'm also gonna take those NIN logos off the boxes of nails because
+it's music like that, that is corrupting the nation's moral fabric...yea, yea,
+yea...up the punks! Oh, and some more skins too.
+
+|-----------|
+|Legal stuff|
+|-----------|
+In a nut shell...I DON'T GIVE A FUCK WHAT YOU DO WITH THIS! But.........
+someone else might. So, by installing this you agree that if you go blind,
+your computer explodes, your girlfiend/boyfriend leaves you, you begin to
+like classic rock, or anything else of a negative nature happens to you, it
+is not my fault PLUS I can laugh and scream, "I told ya so!".
+
+Oh yea, one more thing. This is being release as freeware so............
+If you paid for this yr a sucker. If you charged money for this yr a dick.
+
+
+
+
+
