@@ -265,7 +265,6 @@ ctfbot13b1.txt
 cujo11.txt
 cujo12b.txt
 cujo12c.txt
-darkbotx.txt
 darkbt01.txt
 darkbt07.txt
 darkbt09.txt

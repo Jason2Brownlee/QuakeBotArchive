@@ -1,0 +1,99 @@
+Title    : Dark Bot
+Filename : darkbotx.zip
+Version  : GenX
+Date     : i dunno
+Author   : Dark_Skye 
+Email    : dark_skye@mindspring.com
+Credits  : PUNISHER and his crew that did BgBot,
+ 	   tanks man for BgBot source it helped me get started.
+	   [i have inculded BgBot16.txt]
+Build time: i dunno, not long
+
+Type of Mod
+-----------
+Quake C  : yes
+Sound    : no
+MDL      : yes  
+
+Format of QuakeC (if a Quake C Mod)
+-----------------------------------
+unified diff  : no
+context diff  : no
+.qc files     : no, but i'm looking for someone to help me..email me
+progs.dat     : yes
+
+Description of the Modification
+-------------------------------
+Darkbot is 3 teams of 3 bots each....depending on your skin...
+they help or hurt you  =)
+
+Commands:
+	IMPULSE 101 - debug bots
+	IMPULSE 102 - debug2 bots
+	IMPULSE 123 - help msg
+	IMPULSE 200 - change your looks [forward thru skins]
+	IMPULSE 201 - change your looks [backward thru skins]
+	IMPULSE 205 - make up to 3 playmates from Dark_ Bots
+	IMPULSE 206 - make up to 3 playmates from ]Lady Bots
+	IMPULSE 207 - make up to 3 playmates from ]Lord Bots
+	IMPULSE 255 - observer mode
+	
+Features Include:
+1.  4 skins 
+2.  Added teleport rockets/nails for phun 
+3.  Various minor stuff 
+4.  "Fixed" team play now skin = team 
+5.  Now injuryfull team play ¡¡YES!! 
+6.  bots jump a little better 
+7.  Light'n gun bots!!
+8.  Skins now set teams 
+9.  bots can be removed
+10. skins STAY ON post mortem 
+11. better ai all round
+12. observer mode
+13. water death
+
+<<<<must have teamplay on for this to work!!>>>>
+[ teamplay is set for -1 when you kill a team member]
+change your skin to the same as the bots you want to team with....
+
+
+How to Install the Modification
+-------------------------------
+make a subdirectory named DARKBOT in your QUAKE directory
+copy PROGS.DAT into the DARKBOT directory inside DARKBOT 
+subdirectory make a directory named PROGS the PLAYER.MDL goes there...
+copy progs.dat C:\quake\darkbot\
+copy player.mdl C:\quake\darkbot\progs\
+quake -game darkbot
+
+
+Technical Details
+-----------------
+I started with BgBot source...now I hardly use any of it...
+However I wouldn't have been able to do this without BGBot 
+to learn from...thanks Punisher
+
+Bugs
+-----------------
+observers pick up weapons
+bots appear jittery
+a few more i didn't see i bet...
+if ya see bugs email me....
+
+Author Information
+------------------
+Dark_Skye would love to hear any coding help...
+Currently of DeltaClan
+dark_skye@mindspring.com
+
+Copyright and Distribution Permissions
+--------------------------------------
+The original QuakeC source is Copyright 1996, id software.
+Bgbot was made by the Punisher.
+The ]Lady skin was made by someone else.
+Everything else Dark_Skye.
+
+Availability
+------------
+hehehe i dunno...... 
