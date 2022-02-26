@@ -236,7 +236,8 @@ xkteams2.zip
 zeus20.zip
 zeus201.zip
 zeus202b.zip
-
+fear10.zip
+req105c.zip
 
 # mac stuff
 frogbot012.sit
@@ -333,3 +334,6 @@ zeus201.txt
 zeus204.txt
 zeus2041.txt
 zeus2042.txt
+fear10.txt
+req105c.txt
+
