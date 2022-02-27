@@ -9,6 +9,7 @@
 # upgrade.zip
 # reaper.zip
 # omega.zip
+# req.zip
 
 #
 # normal zip files
@@ -238,6 +239,7 @@ xkteams2.zip
 zeus20.zip
 zeus201.zip
 zeus202b.zip
+darkbot.zip
 
 # mac stuff
 frogbot012.sit
@@ -282,6 +284,20 @@ elim13.txt
 elim20b6.txt
 elimsrc.txt
 estepbot2.txt
+fbph.txt
+fixedsrc.txt
+frog_src.txt
+frogbot000.txt
+frogbot003.txt
+frogbot005.txt
+frogbot007.txt
+frogbot011.txt
+frogbot011b.txt
+frogbot012a.txt
+frogbot012b.txt
+frogbot012c.txt
+frogbot013.txt
+frogfix1.txt
 grdbot13.txt
 guardbot.txt
 iwbot15.txt
