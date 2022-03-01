@@ -1,0 +1,82 @@
+Changes from beta 0.75 to beta 0.8
+-----------------------------
+
+* Bots keep their individual skill level
+on level change (only first 5 bots,
+because of parm space limitations)
+
+* Improved team AI - teammate bots
+will call for help, or warn other bots
+to run away
+
+* Improved running away
+
+* Improved chase, using routing.
+How long bot chases enemy depends
+on skill.
+
+* Improved handling of multiple
+enemies - bot picks who to fight,
+and may decide to run away
+
+* Improved route caching
+	- bots are less likely to
+get distracted if seeking something
+they really want.
+	- better route update
+propagation.
+	- age entries in bot route cache.
+	- improved route following
+through teleports.
+
+* Better sidestepping if run into corner
+of wall, or teammate
+
+* If skill == 1 (the console skill setting,
+not the individual bot skill), then bots
+auto-adjust their skill based on
+sucess/failure against players
+
+* Added a support for the skin spec -
+non-player team bots use skin 15, and
+with skins mode 2, bot skin is based
+on skill level
+
+* Improved water movement
+
+* Reduced telefrag loops - bots delay
+respawn after they've been telefragged
+
+* Low skill bots (< 2) have poorer
+z axis (up/down) vision
+
+* Made skill 3 bot more lethal -
+better aiming and strafing
+
+* Bot understands that lightning gun
+has limited range
+
+* Basic bot "hearing" implemented -
+bots react to nearby noises at higher
+skills
+
+* Added support for dedicated servers
+
+* Fixed go for secret doors by bots
+(broke in 0.75)
+
+* Reaper.cfg is now named autoexec.cfg
+in the archive, so it automatically runs
+(rename it if you don't want it).
+
+* Implemented crude edict management.
+Its not perfect, but it should reduce the
+crashes due to no free edicts.
+
+* Lower than skill 1 bots can't strafe
+to items - they have to turn and run to
+them.
+
+* Improved jumping AI
+
+

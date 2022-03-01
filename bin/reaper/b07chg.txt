@@ -1,0 +1,122 @@
+Changes from Beta 0.6 to Beta 0.7
+
+----------------------------
+
+* Restructured and improved goal selection AI
+
+* Route cacheing structure and initial
+implementation:  It doesn't do a whole lot yet,
+but it will allow some *very cool* AI
+improvements
+
+* Bot understands trains -
+adjusts jumps based on train velocity, and
+stays on at least till next train target
+
+* Made strafing more natural
+
+* Support for bounding max number of
+players + bots.  Impulse 1XX sets XX as the
+max total number when in non-teamplay mode.
+
+* Support for teamplay.  All non-aligned
+bots belong to their own team (including any
+added using impulse 205 or impulse 208).
+Impulse 1XX sets to XX the number of bots
+on each player's team.  Bots share the same
+color and skin as their player teammate.
+NOTE: Bot teamplay AI is not sophisticated
+right now (basically = don't attack your
+teammates).  Teamplay AI will be
+substantially improved in future releases.
+
+* Non-aligned bots have their own color,
+different from all players.
+
+* Skins support: Impulse 202 turns skins on,
+Impulse 203 turns skins off.  Impulse 200
+increments skins, Impulse 201 decrements
+skins.  Thanks to Dennis Noordsji for the
+original implementation.  (I wrote my own
+code, but used his as a conceptual guide)
+
+* Fixed the weird spawn point bug
+
+* Fixed bot in low lava/slime not taking
+damage bug
+
+* Improved jumping AI - bot less likely
+to jump into lava now
+
+* Improved roaming AI
+
+* Improved combat AI
+
+* Bot takes advantage of radius damage-
+if enemy goes around a corner, bot will
+try to use rockets or grenades to hurt
+enemy even if enemy is not visible.
+
+* Observers don't pick up weapons
+
+* Observers can use plats
+
+* Improved bot wind tunnel handling
+
+* Bots handle all start level stuff, and
+skill teleports don't change skill
+
+* Made skill 0 easier - Bots pause movement
+when firing shotguns, slowed down avg. refire
+rate
+
+* Impulse 218 sets restricted mode - only client
+0 can add bots, or go into observer mode.
+
+* Impulse 219 sets super restricted mode -
+no client can add bots or go into observer mode.
+
+* Impulse 220 shows the normal frag score
+(still shows break out of kills and deaths).
+
+* Improved pain frames - bot won't stop attacking
+when getting nailed (except maybe at skill 0)
+
+* Bots are now respawned after any kind of
+changelevel (not just when a player enters the
+exit to a level)- except for changelevel typed
+at console.
+
+* Bots can trigger changelevel if they reach
+the frag limit
+
+* Added a config file, reaper.cfg, which sets
+up aliases for the bot impulses, and assigns
+some common ones to keys.  (Edit it to change
+the key assignments)
+
+* Better handling of quad power, and quad powered
+opponents
+
+* Bots will back off if they want to fire
+their rocket launcher and opponent is too
+close
+
+* General code streamlining and efficiency
+improvements
+
+* Bots will chase enemies up wind tunnels
+
+* Centerprint client when client enters level
+- informs client of whether teamplay is active,
+and the number of bots on the level
+
+* Improved bot visibility check when enemy
+is in water or partly obscured
+
+* Random delay for bots entering level
+(to avoid frag loops)
+
+* Added messages every time bot respawns
+if sv_aim or sv_maxspeed aren't normal
+

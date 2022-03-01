@@ -250,6 +250,7 @@ obots101.sit
 reaper08.sit.hqx
 
 
+
 # txt files we expect to exist
 abandon1.txt
 bgadmbot.txt
@@ -267,6 +268,8 @@ ctfbot13b1.txt
 cujo11.txt
 cujo12b.txt
 cujo12c.txt
+darkbot.txt
+darkbotx.txt
 darkbt01.txt
 darkbt07.txt
 darkbt09.txt
@@ -351,4 +354,9 @@ zeus201.txt
 zeus204.txt
 zeus2041.txt
 zeus2042.txt
+
+b05chg.txt
+b06chg.txt
+b75chg.txt
+b81chg.txt
 
