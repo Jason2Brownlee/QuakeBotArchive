@@ -241,6 +241,9 @@ zeus201.zip
 zeus202b.zip
 darkbot.zip
 
+
+
+
 # mac stuff
 frogbot012.sit
 hwqwbot.sit
@@ -355,8 +358,15 @@ zeus204.txt
 zeus2041.txt
 zeus2042.txt
 
+
+# reaper bot stuff
 b05chg.txt
 b06chg.txt
 b75chg.txt
 b81chg.txt
+bit_reap.txt
+bit_reap.zip
+oozdm5.zip
+oozdm5.txt
+
 

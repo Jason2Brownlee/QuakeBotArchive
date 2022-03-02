@@ -1,0 +1,69 @@
+
+
+Title    : New Level From Sratch
+Filename : Rafters.bsp
+Version  : 1.00
+Date     : 10/1/96
+Author   : Brook Vogt a.k.a. BeJixed
+Email    : bjvogt@thegrid.net
+Credits  : The usual, Id., maker of Thred.
+
+
+Type of Mod
+-----------
+Quake C  : no
+Sound    : no
+MDL      : no
+
+
+
+
+
+Description of the Modification
+-------------------------------
+ A Deathmatch level for Registered Quake.  Personally I like to play this with 4
+ReaperBots, and I might convert it for the Elimbots, dunno.
+
+
+
+How to Install the Modification
+-------------------------------
+Unzip into a maps directory, ie. quake\id1\maps, and type 'map filename'
+at the console by pressing the ~ key in quake.
+
+
+
+Technical Details
+-----------------
+
+I made this level while learning Thred06b, so it took me awhile.  I gave up trying 
+to make the texture work for the 'Q' plaque in front of one lift, and thats the only error
+that I could see.
+To get to the quad damage and pentagram you have to find the secret doors or their triggers.
+
+
+
+Author Information
+------------------
+
+Im just a working joe :)  
+
+
+Copyright and Distribution Permissions
+--------------------------------------
+
+You may distribute this Quake modification in any electronic
+format as long as this description file remains intact and unmodified
+and is retained along with all of the files in the archive.
+
+
+
+
+Availability
+------------
+
+This modification is available from the following places:
+
+FTP   : cdrom.com
+>
+
