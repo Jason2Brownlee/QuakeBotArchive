@@ -1,0 +1,55 @@
+
+Credits:
+--------
+Id Software (for Quake; original graphics)
+Steve Polge (for Reaperbot)
+Rene Post   (for QuakeMe, which I used in testing these skins)
+Jonas P.    (for Grafixer, which helped me recolorize portions)
+Lucas Pope  (artistic inspiration)
+
+These are 4 player skins in .BMP format, designed with Steve
+Polge's Reaperbot "skin spec" in mind.  They are accompanied by
+four head gib skins.
+
+To use these skins, you will need a multi-skin player.mdl and
+h_player.mdl (the head gibs), plus something like QuakeMe to
+import these .BMPs over existing entries in those mdl files.
+Bear in mind that QuakeMe 2.2 (which I used) is for Windows95
+and Windows NT only, and that you will need at least 16 megs
+ram in order to utilize a multiskin .MDL.
+
+See Reaperbot's skin specs for information on proper order.
+You may wish to fit the four skins into the "skill skin"
+slots, and/or choose one to use as the "all-bot team" skin.
+
+All of these skins are based on the original quake player model.
+However, the armor is a dark, metallic blue and has been
+shortened to expose a muscular midriff.  You'll find this helpful
+because these skins are distinguished by skin tone.  The four
+skins and thier recommended order as "skill skins" are:
+
+SK_GRBOT.BMP: Greenish skin tone (easiest skill level)
+              SK_GRGIB.BMP is the head gib.
+SK_BLBOT.BMP: Light blueish skin tone
+              SK_BLGIB.BMP is the head gib.
+SK_PRBOT.BMP: Purple skin tone
+              SK_PRGIB.BMP is the head gib.
+SK_BRBOT.BMP: Brass skin tone (hardest skill level)
+              SK_BRGIB.BMP is the head gib.
+
+The bot armor is fitted with a fancy golden collar to
+help the bots be easily recognized as such at a distance.
+I worked hard to make the exposed lower torso look good and
+not all cheesy and unshaded.  The gun is gray with a tinge of
+gun-metal blue.  I left the pants alone because I thought they
+provided a nice contrast to the gun-metal blue of the armor.
+
+While these skins are designed for bot play, feel free to use
+them however you choose.  You may use my graphics (parts of the
+torso) in your own works, though I'd appreciate a mention in the
+credits.  Most of all, I hope you'll feel free to E-mail me with
+any ideas for improvement, cheers, jeers, flames, ect.
+
+                                             -- Steve C. Clark
+                                                steve3@mindspring.com
+
