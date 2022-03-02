@@ -1,0 +1,133 @@
+Title    : CLANS REAPER BOT SKINS
+Filename : clanrps2.zip
+Date     : 02/17/97
+Author   : Douglas Silfen
+Email    : duglor@connectnet.com
+
+Version 2- All Vertices fixed so skins are presented
+in their complete glory!!
+
+IMPORTANT!! Copyright and Distribution Permissions
+---------------------------------------------------
+
+I HAVE RECEIVED PERMISSION FROM ALL THE CLANS LISTED BELOW TO USE THEIR SKINS
+IN THIS FILE.
+************************************************************************
+The Skins In This File Are Copyrighted By The Clans That own Them. You
+May Use This MDL And Its Skins For Your Private Enjoyment. This file may also
+be distributed UNMODIFIED. Any Other Use Or Distribution Of These Skins 
+Without The Expressed Consent Of The Clans That Own Them Is Prohibited. 
+Email addresses are included for this purpose.
+************************************************************************
+
+Credits 
+Id Software                   (for Quake; original graphics)
+Steve Polge		      (for Reaperbot)
+Mike Kelly                    (elkabong@oanet.com - for the original Reaperbot Skin file)
+Rene Post                     (for QuakeMe 2.3; for extracting, importing, and creating)
+gladi8r@skylink.net           (for the framework and wording of portions of this text)
+The 13 clans -mentioned below (for allowing me to share their cool artwork with you)
+Paint Shop Pro by Jasc,Inc    (for converting files and loading the quake palette)
+
+Type of Mod
+-----------
+Quake C  : no
+Sound    : no
+MDL      : yes
+
+What this is-
+------------
+This zipfile contains add-on skins for Reaperbot ver0.8 and above.
+
+Thirteen of the Sixteen Skins in this mdl are used by current Quake
+DeathMatch clans. 
+ 
+From the Reaperbot text file:
+
+	"The reaper bot assumes there are 16 skins in the player.mdl file
+	(numbered 0 to 15).  Skin 0 should be the default quake skin.
+	Skin 15 is what the "bot only" team uses if skins are enabled.  
+	If the "show difficulty" mode is enabled, then skins 1 to 4
+	will be associated with progressively higher skill levels (e.g. 
+	skill 0 = skin 1, etc.).  For teamplay, the bots will share the skin of their human teammate if they aren't on the bot only team."
+ 
+Skin 0 in this file is not the default quake skin, however. See below.
+
+How To Install
+--------------
+
+Create a PROGS subdirectory under your Reaperbot directory and unzip the
+contents of this zipfile there. If your Reaperbot directory is
+C:\QUAKE\RPBOT, then this directory would be C:\QUAKE\RPBOT\PROGS.
+
+Rename CLANRPSK.MDL to PLAYER.MDL and be sure to rename or copy your old
+player.mdls that you may already have in this directory before doing this.
+
+Read the Reaperbot txt file for the impulses to get them going.
+Some reminders:
+     Hitting the "p" key once allows the reaperbots to use the skins in regular mode.
+     In this mode, the 16 skins enter in the order listed below.
+ 
+     Hitting the "p" key a second time activates the skill based skins mode. For skill levels
+     0.0 to 0.9, skin 1 will be used, 1.0 to 1.9 will use skin 2, 2.0 to 2.9 will use
+     skin 3 and 3.0 will use skin 4. Also remember that "b" adds 1 bot, "n" adds 4, etc.
+
+THE SIXTEEN SKINS IN THIS FILE (addresses and emails current as of 2/1997)
+-------------------------------
+0.  Clan skin from IN PRAISE OF AMMO-   http://ammo.mgl.ca (email: khansen@mgl.ca) SKINS ARTIST: Maxim Savic [Bodybag]
+
+1.  Clan skin from CLAN DAEMONITE-   http://www.skyinet.net/users/shane (daemonite@skyinet.net) SKINS ARTIST: [Lord HellSpawn]
+
+2.  Clan skin from THE LONE GUNMEN-   http://www.eis.net.au/~lcullen/tlg/index.htm (lcullen@eis.net.au) SKINS ARTISTS: [Incubus and ]-[ITMAN] of The Lone Gunmen.
+
+3.  Clan skin from CARNAGE CLAN-   http://www-ia.hiof.no/~carnage/ (zolo@ludd.luth.se) SKINS ARTIST: Zolo Östlund [Nerdkiller af CaC]
+
+4.  General Consumption skin- DAMNONII-- SKINS ARTIST: James (fd82@dial.pipex.com)
+
+5.  Clan skin from CLAN ULTRAMARINE-   http://www.magi.com/~phlchamp/quake.html (phlchamp@magi.com) SKINS ARTIST: [Chairface]
+
+6.  Clan skin from SPIRALS-   http://www.geocities.com/TimesSquare/Arcade/4793/ (AftabH@geocities.com) SKINS ARTIST: Chris Connely
+
+7.  Clan skin from ICON OF PAIN-   http://iconofpain.org (nator@iconofpain.org) SKINS ARTIST: Mike Lundgren [Quell]
+
+8.  MODIFIED DARKENED Clan skin from DARK QUAKERS-   http://www.geocities.com/Broadway/4615/clan.html (mtnshark@cwnet.com) SKINS ARTIST: Randy Hall [Quaker #1-DQ]  MODIFICATION: by me, original palette was reddish-maroon.
+
+9.  Clan skin from THE SLIPGATE POLICE-   http://www.agate.net/~cowboy (cowboy@agate.net) SKINS ARTIST: Steve [Cowboy] Cote
+
+10. Clan skin from THE DEFENDERS-   http://www.clandefenders.com (adaml@haida.mv.com) SKINS ARTIST: Brian McBurney [DarkStalker] 
+
+11. Clan skin from CAMP QUAKE-    http://www.hype.com/quake (byron@caseware.com) SKINS ARTIST: Byron Long [Wonko]
+
+12. Clan skin from OMNIPOTENT DAMNATION-   http://mordred.winkcomm.com/od (exocide@vt.edu) SKINS ARTISTS: Rick Duff [od.Pantera.od]  (rduff@pop.winkcomm.com)) and [od.mayhem.od] (crusader@hooked.net)
+
+13. Clan skin from ANTI-MATTER VAMPIRE CLAN   -clan no longer exists (scissors@postl.com) SKIN: "Full Bright" SKINS ARTIST: Neville Aviles [Scissors]
+
+14. Clan skin from CLAN GIB-   http://www.erols.com/ismail/clangib/index.html (bryant.132@osu.edu)
+
+15. Clan skin from PAIN2000-   http://www.digicity.net/~osbl/pain2000 (monty@digicity.net) SKIN: Jeremy Sloat [Ninja Roach]
+
+-----------------------------------------------------------------------------
+The order in which the skins appear (1st to 16th) may be changed by extracting
+and importing the skins using skins editors such as QuakeMe and MedDle.
+
+**There is no h_player.mdl in this file. Therefore the head gibs will default to the standard Quake player head.**
+
+I hope you enjoy this reaperbot skins mdl and enjoy the cool looking skins
+that the clans use on the web.
+
+A note on selection- I tried for a variation of selection from the best
+clan skins on the web. For example, there were four red color only skins
+that I really liked. However, I only included skin 1 and skin 10 (red,
+white and blue) for variation's sake. Skin 3 has red pants. Skin 8 was reddish
+as well and so I darkened the palette so as to include that cool skin.
+I included only a limited number of skins with uncovered human faces and
+tried for variations in color as well. Also, I didn't want to go with allot of 
+the skeleton skins, so I went with what I thought was the best one..skin 12 
+here. Finally, I also tried to balance the amount of helmeted skins and bare-chested skins.
+
+To VIEW other clan skins on the web, You should visit THE SKIN SHOP at
+http://www.kinglink.com/clanskins/. Please read the copyright info there too.
+
+Christopher Bolin's website (http://www.planetquake.com/skins/index.shtm) also has a very good collection of skins.
+
+Enjoy! - [duglor]

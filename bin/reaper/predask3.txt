@@ -1,0 +1,42 @@
+           PREDATOR 3.mdl
+
+An mdl Skin replacement for use with Steven Polge's REAPER BOTs.
+   Turns player.mdl into yet another PREDATOR! 
+
+To MULTISKIN makers; If you use this skin, let me know and I'll make a Head
+Gib (H_PLAYER).
+
+To use; Create directory \progs in your \rpbot directory, then put ZIP contents 
+ in to it. Run QUAKE [quake -game rpbot] Type P in the game to enable skins.
+ Type B, then go to war with one ugly mother f****r.
+
+This particular PREDATOR is a more faithful representation of the first
+movie monster.
+
+ PREDATOR 3.mdl was made by Kenneth Scott mfarr@ccinet.ab.ca
+
+                                 Feedback always welcome.
+
+   Other files by author include; PSYCHOBOT.MDL
+                                              PREDATOR.MDL
+                                              PREDATOR2.MDL
+                                              PREDHURT.MDL
+                                              THE_TICK.MDL
+                                              HELLBOY.MDL
+                                              ROBOCOP.MDL
+                                         NEWFACE.wad for DOOM2
+                                         REMORSE.wad """"""""""""
+
+Beta tested by; Steve (Omnedon) Logan
+                          and  CHAR/<
+
+Use and distribute at will, but PLEASE give me credit.
+
+ Made using;
+-----------------------------------------------------------------------------
+MedDLe v1.7
+-----------------------------------------------------------------------------
+by brian martin
+brian@phyast.pitt.edu
+
+

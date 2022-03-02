@@ -1,0 +1,171 @@
+This is a Quake Reaper Bot Clone with numerous fixes and improvements.
+====================================================================
+title                   : ReaperFX         			   
+====================================================================
+
+
+====================================================================
+filename                : reaperfx.zip
+version			: 3.0; 23/08/97
+author                  : Pob the Impaler
+contact	            : A.W.Johnstone@btinternet.com
+				: ICQ UIN : 2706279
+description             : Quake C add-on
+====================================================================
+
+**************
+If you have any questions aboout this patch, please do not hesitate to e-mail me about it.
+I answer all e-mail, and am very happy to hear from you.   :)
+
+
+* Boilerplate information *
+
+new sounds	        	: yeah
+new monsters/weapons	: Yep
+new QuakeC		      : Yes indeedy
+new levels              : Yes 
+
+* construction *
+
+editor(s) used          : Wordpad & Proqcc (code), PsP (skins and graphics), Stoneless & Adquedit (maps and PAK management)
+                          
+build time		: A labour of love for several months
+
+* installation *
+
+Just unzip into d:\quake\reaperfx (or wherever)
+
+and start quake with: quake -listen 16 -game reaperfx
+
+********************************
+*  the -listen 16 is important *
+********************************
+
+if quake quits with a message saying something like :
+"overflow without allowoverflow set"
+you can try using :
+quake -listen 16 -game reaper -allowoverflow 1
+and if you've got 32Mb RAM, -winmem 16 is DEFINATELY a good idea :^)
+
+====================================================================
+
+* Credits *
+
+- The original Reaper bot code is by Steve Polge (GOD)
+- Shane Killen is my big-chief-beta-tester he rocks! ThanX Shane!
+- Alan Kivlin for the fake client stuff (another GOD)
+- anybody else who's ideas I've nicked
+- Skins 14 & 15 are by anders.simonsson@mailbox.swipnet.se at the SkinForge
+- Roscoe Sincero norse movetogoal, what can I say, he's a god....
+
+Remember to check out http://inside3d.com and http://www.brutality.com/scrap for your weekly guide on building a
+better Reaper bot for Quake.
+
+=====================================================================
+
+* Other information *
+
+Should now be compatible with GLQuake!
+For up to date features go to
+http://www.btinternet.com/~impaler
+
+Features (In no particular order)
+
+	o Bots can now camp at skill 3
+	o Bots have proper names
+	o Bots have proper colours
+	o Bots appear on the rankings screen
+	o Fooststeps sound added
+	o New player/bot pain and death screams
+	o Player.mdl with skins
+	o Laser targeter
+	o Target Status read-out
+	o Reduced telefrags at start
+	o Corpses and backpacks float in water	
+	o New Powerup : Rune of god-like power replaces some Quads and all runes in DM 5
+	o New deathmatch rules "Last Man Standing" (DM 5)
+ 	o New Teamplay Mode (5) with Team Start points and frag the barrel!
+	o Cooperative play.
+	o More BlooD
+	o ejecting ammo cases
+	o Plague Zombie for Single and coop play
+	o Fiendish Shamblers for single and coop
+	o Lovely gold letters for ingame messages
+	o A spiffy new console background (ok so it's crap really :)
+	o Random enemy bot skin in teamplay.
+	o Bots talk to you and each other
+	o You can call for help from you're teammates in teamplay and cooperative
+	o Now supports deathmatch 4 rules
+	o New movement code, Norse_Movetogoal   (Kicks Zeus's arse :)
+	o Random bot skills (each bot has a random skill)
+	
+		o In Last Man Standing everybody starts with (fraglimit - 1) frags (or 10 frags if fraglimit == 0). When you get 		  killed. You lose a frag. When you have 0 frags left you're "out" and become an observer. The last person 		  standing is the winner. Simple huh?
+
+		o In Teamplay 5, every team has it's own start position, and will always spawn there.
+		  To use this mode your pants color MUST be in the range 0-13. It requires special maps
+		  to use, currently ftb1.bsp supports this mode. Type "Teamplay 5" then "map ftb1" at
+		  the console to use.
+
+	Note you can mix deathmatch 5 and teamplay 5 if you want :^)
+
+	Modes
+	o Single play (as normal)
+	o Deathmatch 1 (as normal)
+	o Deathmatch 2 (weapons stay when picked up)
+	o Deathmatch 4 (Normal DM 4 rules)
+	o Deathmatch 5 (last man standing)
+	o Teamplay 1 (as normal)
+	o Teamplay 2 (weapons stay and you can kill teammates)
+	0 Teamplay 5 (weapons stay, team starts, frag-the-barrel)
+	o Coop 1 (as normal)
+
+Maps in this patch:
+
+Castles - cool DM level by me!
+TMcastles - castles for deathmatch 5
+
+=====================================================================
+
+Impulses
+okay here is how to work stuff. Bind them to some keys. (the keys in the supplied autoexec.cfg
+and config.cfg are in brackets.)
+
+BTW to play "Last Man Standing", type "deathmatch 5" at the console, then restart the level.
+
+o add a bot 	: impulse 205 (b)
+o add 4 bots 	: impulse 208 (n)
+o add 15 bots	: impulse 115 (w)
+o toggle observer	: impulse 212 (o)
+o verbose bots	: impulse 215 (v)
+o scores		: impulse 210 (m)
+o top 3 scores	: impulse 222 (q)
+o skin mode		: impulse 202 (p)
+o skin up		: impulse 200 ([)
+o skin down		: impulse 201 (])
+o Laser targeter	: impulse 31 (0 zero)
+o Random bot skill: impulse 30
+o ammo casesON/OFF: impulse 50 (u)
+o Call for help   : impulse 217 (h)
+
+I think thats it. Look through the autoexec.cfg and config.cfg for any I've missed.
+If you use the camoflage soldier skin the F1 - F8 keys to change the color of the skin
+
+=====================================================================
+
+Bugs  :^(
+o The targeter status bar often doesn't update properly.
+o Packet Overflows, if this happens turn off ejecting ammo cases with impulse 50 (u)
+o no free edicts. Don't know how to fix this yet, happens most on coop (I think this is a fake message, I'm working on it)
+o overflow without allowoverflow set. Don't know, If anyone DOES know how to fix this please mail me.
+Please note most of these errors are caused by low memory, ReaperFX needs MORE than 32Mb RAM to run properly, MORE than
+32Mb RAM, it usually runs OK on 32Mb run, but it may not.
+=====================================================================
+
+Please remember everytime I change something, I post a new version, this happens almost every day. This will never stop, I have already got the algorithm down to C++ for Quake II so watch my site!
+
+That 's all folks.
+
+Pob the Impaler
+
+
+=====================================================================

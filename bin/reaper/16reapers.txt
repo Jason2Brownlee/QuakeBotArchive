@@ -1,0 +1,30 @@
+Best 16 Skins for the Reaper Bots 2/7/97
+
+Player16.mdl is a skins file for the Reaper Bots.
+There are 16 skins that depict different characters.
+
+Create a directory called PROGS in your ReaperBot 
+directory. Place the player16.mdl file in that directory
+and rename it Player.mdl.  Make sure you save or rename 
+any other files you have named Player.mdl before you do this.                                                                                                                                                                                                                             
+
+When you start playing with the ReaperBots,
+hit the "p" key to activate skins mode. "b" adds a
+single reaperbot, "n" adds 4, etc.
+
+The 16 different reaperbots will always cycle in
+the same order. You must use MEDDLE or another
+skins program to change the skins order.
+
+Some of the 16 skins are.... Boba Fett, a Lizardman,
+a Borg, a Stormtrooper, C3P0, Red Helmut, Egghead,
+Goofy dude, Mexican Sombrero, Terminator, Predator,
+Super Predator, Black Panther, Insect Man, and a
+few more.
+
+Some of the above names have been changed.
+
+THANK YOU TO ALL THE SUPERB ARTISTS WHO CREATED THE
+16 SKINS USED IN THIS FILE!!
+
+Enjoy.

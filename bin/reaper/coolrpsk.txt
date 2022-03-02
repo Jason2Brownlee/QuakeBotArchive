@@ -1,0 +1,48 @@
+Title    : Cool Reaper Bot Skins File
+Filename : coolrpsk.zip
+Date     : 01/5/97
+Author   : gladi8r
+Email    : gladi8r@skylink.net
+
+Credits  :
+Id Software		(for Quake; original graphics)
+Steve Polge		(for Reaperbot)
+Mike Kelly      (elkabong@oanet.com - for the original Reaperbot Skin file)
+Cable Hicks     (for AdQuedit V1.0; for testing)
+
+Type of Mod
+-----------
+Quake C  : no
+Sound    : no
+MDL      : yes
+
+What this is-
+------------
+This zipfile contains add on skins for Reaperbot ver0.8 and above. There are 2 skin files in this package, Player.mdl and H_player.mdl. The first contains the 16 different skins and the second is the skins for the head gibs. (Some of the heads are pretty weak, but you wont notice during play) 
+These are some of the cooler skins I found on the net. I really enjoy playing with the Reaperbots, but sometimes you want to try something different, like watching Henry Rollins grenade the NYPD. Can't get enough of that, huh!
+You can change the order with AdQuedit if you like, just remember to match up the heads.
+
+The skins almost follow the Reaperbot skin guidelines as outline in Skinspec.txt. (The only difference is the replacement of the 1st player_mdl, I kind of got tired of the default Quake guy)
+in the Reaperbot 0.8 package. Here is an excerpt:
+
+	"The reaper bot assumes there are 16 skins in the player.mdl file
+	(numbered 0 to 15).  Skin 0 should be the default quake skin.
+	Skin 15 is what the "bot only" team uses if skins are enabled.  
+	If the "show difficulty" mode is enabled, then skins 1 to 4
+	will be associated with progressively higher skill levels (e.g. 
+	skill 0 = skin 1, etc.).  Otherwise, the bots will during deathmatchplay choose any skin between 0 and 15.  For teamplay, of course,the bots will share the skin of their human teammate if they aren't on the bot only team."
+
+
+How To Install
+--------------
+
+Create a PROGS subdirectory under your Reaperbot directory and unzip the
+contents of this zipfile there. If your Reaperbot directory is
+C:\QUAKE\RPBOT, then this directory would be C:\QUAKE\RPBOT\PROGS.
+Read the Reaperbot txt file for the impulses to get them going.
+
+
+Copyright and Distribution Permissions
+--------------------------------------
+I really don't think I did enough work here to worry about this.
+If you like them, let me know.

@@ -1,0 +1,27 @@
+             PREDATOR.mdl
+ An mdl Skin replacement for use with Steven Polge's REAPER BOTs.
+   Turns player.mdl into THE PREDATOR. Not to be confused with
+   other predator skins, this is new.
+ 
+To use; Create directory \progs in your \rpbot directory, then put ZIP contents 
+ in to it. Run QUAKE [quake -game rpbot] Type P in the game to enable skins.
+ Type B, and then show Arnold and Danny how it's really done.
+
+ PREDATOR SKIN was made by Kenneth Scott mfarr@ccinet.ab.ca
+
+                                 Feedback always welcome.
+
+   Other files by author include; PSYCHOBOT.MDL
+                                         NEWFACE.wad for DOOM2
+                                         REMORSE.wad """"""""""""
+
+Beta tested by; Steve (Omnedon) Logan
+                          and  CHAR/<
+
+Use and distribute at will, but PLEASE give me credit.
+
+ Made using;
+Quake Texture Ripper 1.00a
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+Programmed By: Ryan Geithman/GM
+

@@ -1,0 +1,55 @@
+
+Credits:
+--------
+Id Software (for Quake, duh!)
+Steve Polge (Best Bot in existence!)
+Umm...The guy that wrote MedDLe.  He knows who he is.
+
+What is this?
+------------------
+I'm giving you, for free, 4 skins!  For real though, These four skins were created for use with the great reaper bot patch.  To use them, get a skin putter-onner, such as MedDLe or QuakeMe, and
+Put skins 2, 3, 4, and 5 (in that order of skill) into the player.mdl like good ol' Steve Polge says.  (BTW, I don't think you can write to the 0th skin.  What's the deal, Steve!?)
+
+Read this!
+-------------
+You should read:
+
+SKINSPEC.TXT OR SOMETHING
+
+See Reaperbot's skin specs for information on proper order.
+You may wish to fit the four skins into the "skill skin"
+slots, and/or choose one to use as the "all-bot team" skin.
+
+Explaination (as if it needed one)
+---------------------------------------------
+I based these skins on my Tong Soo Do uniform.  This is my first published Quake anything, so don't get mad.  Also, I'm running on a machine crappy enough not to let me check my results, (leave me alone Will, Jesse, Neal, etc.) so I hope they work.  I've compiled it on other machines, so it should be no problem.
+
+Do this (yes, it is the 11th commandment)
+---------------------------------------------------------
+Suggested (do it my way.) skin placement
+
+SKIN2.BMP:  Yellow Belt (easiest skill level)
+	Grandmaster Chang just threw this one in a few years ago.  He can do that.  Really.
+SKIN3.BMP: Green Belt
+SKIN4.BMP: Red Belt
+SKIN5.BMP: Black Belt
+
+Notes.  Just because.
+-------------------------------
+Not only are the uniforms colorized and easily recognizable, but they are very true to life.  Someone wearing one of these will be bright white, or they will get their butt kicked for haveing a dirty uniform.
+
+You can use these however you like, EXCEPT saying that you made them, or you helped make them.  Why?  'Cause you didn't.  This was a solo job, you @#$!!%.
+
+Send everything but your dead parot....(I know, its not dead)
+--------------------------------------------
+Oh yeah.  I luv feedback.  Please send something (questions, comments, criticism, or, if you have to, money will do) to 
+
+--Ultimike
+-Ultimike@ix.netcom.com
+
+Komapsumneda -sp?
+Merci
+Maximam Gratiam
+ET CETERA
+(thankyou)
+

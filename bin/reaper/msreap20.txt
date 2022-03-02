@@ -1,0 +1,115 @@
+Title    : A MultiSkin MDL for Reaper Bots
+Filename : msreap20.zip
+Version  : 2.0
+Date     : 12/04/96
+Author   : Jeremy Martin
+Email    : jemartin@cswnet.com
+Credits  : id for Quake, Steve for Reaper Bots, and all the great people who
+           made the skins.
+
+
+
+
+Build time: about 2 hours total.
+
+
+Type of Mod
+-----------
+Quake C  : no
+Sound    : no
+MDL      : yes  
+
+
+Format of QuakeC (if a Quake C Mod)
+-----------------------------------
+unified diff  : no
+context diff  : no
+.qc files     : no
+progs.dat     : no
+
+
+Description of the Modification
+-------------------------------
+Just a multiskin file for Reaperbot. It allows for 16 different Reaperbots
+to run around, instead of the drab brown ones. Very interesting.
+
+Got the idea from reaprskn.zip, which changed the bots into 16 different
+colored players. I realized that there wasn't one made for ReaperBots that
+allowed totally different skins, so I made it. I enjoy it. 
+
+Now that this is version 2.0 with head gibs, I have to make an apology! I
+didn't list the skins in the patch and who made them. Terribly sorry, Here they are:
+
+  #1 QUAKE GUY - id Software
+
+  #2 DUKE NUKEM 2D - Buke (mbuckton@Direct.Ca)                     
+
+  #3 SUB-ZERO - Dethstryk (jemartin@cswnet.com)
+
+  #4 NYPD COP - Charlie Stevenson (Carlitos@sisna.com)
+		Head Gibs by BUKE (mbuckton@Direct.Ca)
+
+  #5 BOSSK - Les Helper (goofnads@aol.com)
+ 
+  #6 HAN SOLO - Dan Bickell (danbickell@loop.com)
+
+  #7 DARK TOAD - David Silverman (DrkToad@aol.com)
+
+  #8 C3P0 - Dan Bickell (danbickell@loop.com)
+
+  #9 HENRY ROLLINS - Scott Roberts (scaatt@execpc.com)
+                     Head Gibs by BUKE (mbuckton@Direct.Ca)
+
+ #10 BOBA FETT - Dan Bickell (danbickell@loop.com)
+
+ #11 T-800 - Dan Bickell (danbickell@loop.com)
+
+ #12 STORMTROOPER - Steve Connor (101325.2570@compuserve.com)
+		    Head Gibs by BUKE (mbuckton@Direct.Ca)
+
+ #13 PREDATOR - Scott Roberts (scaatt@execpc.com)
+
+ #14 ENFORCER - id Software, converted to player.mdl by
+                BUKE (mbuckton@Direct.Ca)
+		Head Gibs by BUKE (mbuckton@Direct.Ca)
+
+ #15 JASON - Paul J. Paella (paco@buffnet.net)
+	     Head Gibs by BUKE (mbuckton@Direct.Ca)
+
+ #16 CAPT. PICARD - Steve Connor (101325.2570@compuserve.com)
+		    Head Gibs by BUKE (mbuckton@Direct.Ca)
+
+I have my first skin included in here, for your viewing pleasure. It's Sub-Zero.
+I just wanted to do an easy one. What do you think?
+
+How to Install the Modification
+-------------------------------
+In your ReaperBot directory, (where you have the ReaperBot's files stored)
+make a directory called progs and place player.mdl and h_player.mdl in it.
+Start the game normally with the ReaperBots, and before you add one, hit P to
+enable skin mode. Then hit N for 4 bots, B for 1. You should know the procedure.
+
+Technical Details
+-----------------
+Technical? I used QuakeMe 2.3.. that's about it.
+
+Author Information
+------------------
+This is my first Quake Mod ever distributed. I am quite proud of it, since
+I haven't done anything before. I have alot of free time on my hands to do
+this stuff.. but I can't tell you my age, or people will scorn me. ;)
+
+Copyright and Distribution Permissions
+--------------------------------------
+Authors MAY use this modification as a basis for other publicly or
+commercially available work without my permission
+
+You may distribute this Quake modification in any electronic format as long
+as all the files in this archive remain intact and unmodified and are
+distributed together.
+                            
+Availability
+------------
+This modification is available from the following places:
+
+FTP:  ftp.cdrom.com in \pub\quake\graphics\mdl
