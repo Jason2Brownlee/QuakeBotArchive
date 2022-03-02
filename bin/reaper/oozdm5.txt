@@ -1,0 +1,22 @@
+************************ DeathMatch Demo ***********************
+
+Demo Name      :OOZDM5
+File Name      :OOZDM5.DEM
+File Size (Zip):118k
+
+Game (Version) :Quake (v1.06)
+Custom Map     :None
+Episode/Level  :DM5 (The Cistern)
+Game Mode      :deathmatch 2
+Game Options   :+record oozdm5 dm5 +deathmatch 2 +fraglimit 20
+
+Length of Demo :About 4 minutes
+Viewed From    :OoZiE
+# of Players   :2 (1 human & 1 Reaper Bot)
+
+Comments       :Reaper Bot is awesome! It is definetly the best bot
+                besides Eliminator which requires special entitys in the map.
+                I just made this demo to show you how cool Reaper Bot really
+                is, plus I was bored =)
+
+***************************************************************
