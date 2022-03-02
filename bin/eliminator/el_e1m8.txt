@@ -1,0 +1,43 @@
+10/13/96
+================================================================
+Title                   : Episode 1, Map 8.
+Filename                : e1m8.map
+Author                  : Rob Morrow, a.k.a White Hawk
+Email Address           : rm@atlas.iobbs.com
+Description             : Deathmatch Quake map for the Eliminator bot patch.
+
+Additional Credits to   : Id, IRC acro, the Eliminator bot patch author
+
+ 
+                   Check out my FTP and or my WWW site:
+                    ftp://rm.iobbs.com
+                    http://www.iobbs.com/~rm/
+
+================================================================
+
+* Play Information *
+
+Single Player           : Yes
+Cooperative             : Yes
+Deathmatch              : Yes, done for.
+Difficulty Settings     : No
+New Sounds              : No
+New Graphics            : No
+New Music               : No
+Demos Replaced          : None
+
+* Construction *
+
+Base                    : Quake E1M8
+Editor(s) used          : Text editor, qdtools
+Known Bugs              : None.
+
+
+* Other Info *
+
+You will NEED the following:
+qbsp
+Eliminator pot patch
+Registered Quake (duh)
+
+Thats it. 

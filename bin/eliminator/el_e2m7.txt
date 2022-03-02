@@ -1,0 +1,52 @@
+================================================================
+Title                   : Eliminator Does Episode 2, Map 7
+Filename                : el_e2m7.map
+Map Author              : Rob Morrow, id
+Eliminator1.4 cBOT      : Cameron Newham (cam@iinet.com.au) 
+
+Eliminator Mod          : Rob Morrow
+Email Address           : rm@atlas.iobbs.com
+
+Description             : This is Quake e2m7 edited to work with the eliminator
+ 			  bot patch. It works quite well, I believe.
+                          
+			  Play with at least 5-8 Eliminators.
+                          
+Additional Credits to   : ID Software, Cameron Newham (cam@iinet.com.au) for 
+			  Eliminator1.4 cBOT, Mr. Norton for the text editor :>
+
+================================================================
+
+* Play Information *
+
+Level Name              : E2M7
+Single Player           : I guess so, but not recommended
+Cooperative 2-4 Player  : Uhm no
+Deathmatch 1-10 Player   : AHYEAH
+Difficulty Settings     : None
+
+* Construction *
+
+Base            : E2M7.BSP
+Build Time      : 15 minutes
+Editor(s) used  : QDEXPORT to grab the entitys out of the E2M7.BSP.
+		  QBSP to reassemble.  Eliminator Construction Set.
+Known Bugs      : An entity (the lightning gun) falls out. Buuuumer.
+
+How to, what to do: Read the eliminator readme file.  
+		
+
+* Legal Stuff *
+
+I'd rather you didn't do too much with this, unless it's to improve the waypoint
+system. I admit, I'm the best at it, and it needs work, but this is id's map..
+not mine.
+
+* Where to get this MAP *
+
+If your reading this Text file....you know where to get the map....
+Whoever including the "Where to get this MAP" info in the template must
+have been stoned.
+
+Eliminator1.4 can be found in www sites everywhere sporting the Quake name.
+Such as: www.stomped.com, ftp.cdrom.com.

@@ -1,0 +1,53 @@
+QUAKE Map E2M7 "The Underearth"
+Modified by Reverend Ace Theta, Mid-February 1997
+For use with Cameron Newham's ELIMINATOR Bot
+
+ABOUT THIS .MAP :
+This is my second finished Eliminator map for Quake (not counting an aborted
+attempt to enable GIGGLER4.BSP), and probably the last.  Several modifications have been made to the level itself to make it more playable
+with Eliminators (if you know the stock map like your own home, you'd better
+read this):
+
+1) Since the bots can't swim (see my notes in TH12_DM5.MAP), they won't 
+travel from the area where the Quad Damage is (near the gold key door) 
+through the tunnel, up from the water and out to beside the bridge outside 
+the "front" door.  However, they CAN, and will, walk down the steps into the 
+water and to the corner of the tunnel, where anyone under the bridge will be 
+in their field of fire!
+
+2) Since I didn't want the bots to be taking the time to throw switches that 
+would only need to be thrown once, I didn't include switch presses.  Instead, 
+I STRIPPED the map of all switches (as well as the barriers they triggered, 
+of course).  The only exception is the Quad Damage secret (see #3 below), and 
+the floor switch that triggers the giant post trap (the switch still 
+functions and starts the trap, but the door is always open).
+
+3) I was unable to open the QD secret by removing its reference in the .MAP, 
+so instead I relocated the QD powerup nearby (the secret alcove still 
+functions normally).  Also, the red armor now sits where one green armor used 
+to, with the lightning gun behind the giant post trap.  This move was due to 
+the fact that there is NO escape from the slime pit where the red armor was, 
+since I have removed almost all switches (see #4 below)!
+
+4) Frequent "No more free edicts" crashes while playtesting with several bots 
+moved me to scour the .MAP for ALL non-essential entities.  This included 
+monsters, monster paths, doors (see #2 above), and the biosuit and other 
+items in one of the slime pits (see #3 above).  Don't be surprised to find 
+some little oddities, such as the level exit doors being always wide open.  
+SOME non-essential entities may still remain; as a computer programmer, I 
+will always be an amateur.
+
+ADDITIONAL NOTES:
+No "items" prioritizing was done on my waypoints; the bots seem able to 
+identify a choice weapon or armor if it's in their sight, with or without 
+setting the "items" flag.  This also helps them to be less predictable.  
+They still have some trouble maneuvering around the two spike traps, and 
+you'll frequently see them "squished" by the giant post trap if you spend 
+some time around the red armor/lightning gun area in "observer" mode.
+
+HOW TO USE THIS .MAP
+Obtain a registered copy of Quake, the ELIMINATOR QuakeC patch, and QBSP.EXE.  Follow the instructions provided by Mr. Newham with his patch.  It IS a
+hassle, but well worth it, as the ELIMINATOR is the best of the cbots I've 
+been able to try.
+
+Reverend Ace Theta - 1822H 20 February 1997 e.v.

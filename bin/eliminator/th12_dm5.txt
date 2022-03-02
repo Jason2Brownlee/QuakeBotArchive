@@ -1,0 +1,64 @@
+QUAKE DEATHMATCH Level 5 - The Cistern
+Modified for use with Cameron Newham's ELIMINATOR Bot
+Waypoint programming 5 - 9 February 1997 e.v. 
+by Reverend Ace Theta (acetheta@concentric.net)
+FINAL BUILD - v1.2
+Name of file: DM5.MAP (formerly THETADM5)
+
+INTRODUCTION
+  This is a DM5.MAP file for use with Cameron Newham's impressive 
+Eliminator Deathmatch Bot(s).  It does, of course, require QBSP.EXE 
+(go find it . . . nobody gave ME one) as well as a copy of DM5.BSP 
+from QUAKE\ID1\PAK1.PAK.  It is assumed that the end user of this 
+file already knows how to make a Quake map Eliminator-ready; if not, 
+get the Eliminator patch and read Mr. Newham's instructions.  
+It's NOT MY JOB to baby-walk you through every step of the procedure.
+
+  These bots know all the main paths in this map, and will deviate 
+from those paths as it suits them.  Most of the time this involves 
+the bots detecting a waypoint to a weapon they'd like to have (I made
+full use of the "items" attribute in Mr. Newham's bot engine, so you'll
+usually find most of the killing taking place in the vicinity of the 
+rocket launcher, the lightning gun, and the area with the gold armor and 
+the super nailgun.)  They will also leap into the teleports when it suits
+them.  Other than running for priority items, the bots are (adequately)
+unpredictable. 
+
+ALTERATIONS
+  I always liked the super shotgun when deathmatching in Doom II, so I
+added it to this map.  There are two, essentially in the same corridor
+but on different levels.  No waypoints direct the bots to these shotguns,
+but they'll pick them up anyway if they want one.
+
+MAKING AN "EVEN PLAYING FIELD"
+  Due to a limitation in Newham's bot engine, I was unable to 
+make the bots swim up to the ledge where the lightning gun, cells, and 
+Pentacle would normally be on this level (Mr. Newham may say what he likes, 
+but I followed his instructions PRECISELY, and STILL the bots insist on 
+walking the floor rather than swimming.)  For this reason, I have MOVED 
+the gun, ammo, and powerup to the floor of the underwater room, easily 
+accessible by human and bot alike.  This also means that if you need a 
+place to hide out and take a breather, the (now empty) ledge in that room 
+is perfect (as long as an invulnerable and lightning gun-toting Eliminator 
+isn't waiting for you under the water when you're ready to rejoin the 
+fray!)  It seemed the only way to make the game fair (for the bots) . . . 
+
+HOWEVER,
+  In addition to their inability to swim, the bots ALSO seem able to 
+breathe water (I haven't seen one drown yet) and to be IMMUNE to the 
+effects of firing a lightning gun underwater (self-electrocution.)  This 
+is inherently unfair (for the player!) and I see no workaround for it.  
+Unfortunately, Mr. Newham has, as far as I can tell, abandoned the Cbot 
+project and moved on to other things (for more complete information, 
+visit his page at http://www.iinet.com.au/~cam/quakec.html if you haven't 
+already.)  Just take some comfort from the fact that if YOU fire the 
+lightning gun underwater, you'll waste the bots as well as yourself.  
+There's always that Pentacle to even things up.  Enjoy!
+
+PERMISSIONS:
+  Do what you like with this file - share it, or improve upon my work on it.
+Just don't charge anybody any money if you share it!  This file is freeware.
+(The above permissions also apply to my TH_E2M7.MAP.)
+
+Reverend Ace Theta - 9 Feb 1997 e.v.
+
