@@ -9,6 +9,8 @@ lists
 https://www.mudinfo.net/viewtopic.php?t=2528
 https://gist.github.com/richinseattle/f76c607c735bfff737b74251ad9d3745
 
+http://sbbs.dynu.net/?page=002-files.xjs
+
 
 http://cd.textfiles.com/
 ------------------------------------
@@ -142,7 +144,99 @@ todo (I want...)
 	has mods...
 	http://cd.textfiles.com/pdsl/HELP/GAMERTK.TXT
 	has bots (mid oct 1996)
-		nothing exciting except: reaprb07.txt / zip
+		quake\quakec\demos\
+			bit_reap.txt
+			bit_reap.zip
+			oozdm5.txt
+			oozdm5.zip
+			rafters.txt
+			rafters.zip
+			tattoo1.txt
+			tattoo1.zip
+		quake\quakec\bots\
+			bgadm101.txt    4466 09-01-96  Description for bgadm101.zip
+			bgadm101.zip  117830 09-01-96  See description above.
+			bgbot16.txt     5406 09-29-96  Description for bgbot16.zip
+			bgbot16.zip   245835 09-29-96  See description above.
+			bgbot20a.txt    4004 09-29-96  Description for bgbot20a.zip
+			bgbot20a.zip  368937 09-29-96  See description above.
+			botskn18.txt    6672 10-19-96  Description for botskn18.zip
+			botskn18.zip  376980 10-19-96  See description above.
+			botskn20.txt    7478 10-27-96  Description for botskn20.zip
+			botskn20.zip  391428 10-27-96  See description above.
+			bplayer2.txt    2623 09-21-96  Description for bplayer2.zip
+			bplayer2.zip  267199 09-21-96  See description above.
+			bthnt10.txt     2361 09-19-96  Description for bthnt10.zip
+			bthnt10.zip   133864 09-19-96  See description above.
+			dmbot1.txt      4604 08-25-96  Description for dmbot1.zip
+			dmbot1.zip    179816 08-25-96  See description above.
+			eliminat\           Eliminator bot files.
+			iwbot21.txt     9701 09-30-96  Description for iwbot21.zip
+			iwbot21.zip   130461 09-30-96  See description above.
+			mybot16.txt     1942 09-02-96  Description for mybot16.zip
+			mybot16.zip   142877 09-02-96  See description above.
+			reaprb07.txt    9930 10-25-96  Description for reaprb07.zip
+			reaprb07.zip  157750 10-25-96  See description above.
+			roambot1.txt    4035 09-03-96  Description for roambot1.zip
+			roambot1.zip  257891 09-03-96  See description above.
+			sambot.txt      4395 09-08-96  Description for sambot.zip
+			sambot.zip    738055 09-08-96  See description above.
+			swbot104.txt    3525 10-10-96  Description for swbot104.zip
+			swbot104.zip  150124 10-10-96  See description above.
+			tlgbot.txt      7782 09-03-96  Description for tlgbot.zip
+			tlgbot.zip    374803 09-03-96  See description above.
+			tmbot11.txt     4881 08-26-96  Description for tmbot11.zip
+			tmbot11.zip   181238 08-26-96  See description above.
+			vbot11.txt      3229 10-27-96  Description for vbot11.zip
+			vbot11.zip    379364 10-27-96  See description above.
+			wisp.txt        2417 08-31-96  Description for wisp.zip
+			wisp.zip       15905 08-31-96  See description above.
+			zeus10.txt      5849 09-28-96  Description for zeus10.zip
+			zeus10.zip    186963 09-28-96  See description above.
+		\quake\quakec\bots\eliminat\
+			e_qhenge.txt    2565 10-01-96  Description for e_qhenge.zip
+			e_qhenge.zip   78968 10-01-96  QHenge is great, its fast, simple and alot of
+			                               | fun, but wait theres more! Now with Eliminator
+			                               | code bring on gibbed death madness! Mod
+			                               | includes basic eliminator code, not much
+			                               | really, just enough to make it fun.  Also
+			                               | Qhenge now sports a lightning gun instead of a
+			                               | rocketlauncher, an extra nailgun or two some
+			                               | armor, and more ammo.
+			el_dotd.txt     2062 10-12-96  Description for el_dotd.zip
+			el_dotd.zip   269920 10-12-96  A DM Level aimed at 4-8 player games, now
+			                               | compatible with the Eliminator Bot patch.
+			el_e1m8.zip
+			el_e2m7.zip
+			el_kyse3.txt    2120 10-04-96  Description for el_kyse3.zip
+			el_kyse3.zip  494581 10-04-96  See text file above for description.
+			elb_dm3.txt     1835 10-07-96  Description for elb_dm3.zip
+			elb_dm3.zip     4775 10-07-96  See text file above for description.
+			elim14.txt      3146 09-20-96  Description for elim14.zip
+			elim14.zip    163146 09-20-96  See text file above for description.
+			elim14pk.txt    1062 09-20-96  Description for elim14pk.zip
+			elim14pk.zip 1931701 09-20-96  See text file above for description.
+			elim_vx1.txt    2327 09-20-96  Description for elim_vx1.zip
+			elim_vx1.zip   11908 09-20-96  See text file above for description.
+			elimd2m7.txt    3981 09-30-96  Description for elimd2m7.zip
+			elimd2m7.zip    3325 09-30-96  See text file above for description.
+			elimdeso.txt    2448 09-28-96  Description for elimdeso.zip
+			elimdeso.zip  385904 09-28-96  See text file above for description.
+			elimdm4.txt     2372 09-27-96  Description for elimdm4.zip
+			elimdm4.zip   162406 09-27-96  See text file above for description.
+			elimtst1.txt    1946 09-15-96  Description for elimtst1.zip
+			elimtst1.zip  155804 09-19-96  See text file above for description.
+			elimwpt.txt    15141 09-19-96  No description.
+			nr_dm6.txt      2893 09-26-96  Description for nr_dm6.zip
+			nr_dm6.zip      6478 09-26-96  See text file above for description.
+			nr_e1m1.txt     3027 09-23-96  Description for nr_e1m1.zip
+			nr_e1m1.zip   616739 09-23-96  See text file above for description.
+			vx_e1m2a.txt    2085 09-27-96  Description for vx_e1m2a.zip
+			vx_e1m2a.zip    9631 09-27-96  See text file above for description.
+			vx_e1m7.txt     2001 09-21-96  Description for vx_e1m7.zip
+			vx_e1m7.zip     4057 09-21-96  See text file above for description.
+			vx_e4m3.txt     2516 09-27-96  Description for vx_e4m3.zip
+			vx_e4m3.zip     9694 09-27-96  See text file above for description.
 	I think this is probably it / equivalent
 		http://cd.textfiles.com/swextrav8/swextrav8-2/gamapog2/
 
