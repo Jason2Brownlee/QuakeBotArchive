@@ -183,6 +183,7 @@ QuakeC Add-On Pack (QCAP) | Rich Whitehouse aka "thefatal" | [qcap2.zip](bin/qca
 QuakePlus (Reaper) | Alexander Vinnikova aka "plus" | [qplus.zip](bin/qplus.zip) ([txt](bin/qplus.txt))
 R Bot | Ross Johnson aka "ColdKill" | [rbot70.zip](bin/rbot70.zip) ([txt](bin/rbot70.txt))<br>[rbot20.zip](bin/rbot20.zip) ([txt](bin/rbot20.txt))<br>rbot.zip
 RABot | Rodrigo Marx aka "Shooter" | [mwrrabot222cl.zip](bin/mwrrabot222cl.zip)<br>[rabot.zip](bin/rabot.zip)
+Rail Arena Bots | "Mauve'Bib" aka "SkinSki" and "Ralpha" | [rail.zip](bin/rail.zip)
 Ranger Bot | John Dean aka "Maleficus" | setup.zip ([txt](bin/ranger_demo.txt))
 Reaper + DM4 | Daniel Hein aka "Hades" | [dm4reaper.zip](bin/dm4reaper.zip) ([txt](bin/dm4reaper.txt))
 Reaper + Painkeep | Bent Svendsen aka "Decker" | [pkbot.zip](bin/pkbot.zip) ([txt](bin/pkbot.txt))
