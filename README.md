@@ -60,6 +60,7 @@ BotArena (FrikBot) | Fabiano D. Amorim aka "Vegetous" | [botarena.zip](bin/botar
 BotSkin | Warren Cheung aka "WACko" | [btskn22.zip](bin/btskn22.zip) ([txt](bin/btskn22.txt))<br>botskn21.zip<br>[botskn20.zip](bin/botskn20.zip) ([txt](bin/botskn20.txt))<br>botskn19.zip<br>[botskn18.zip](bin/botskn18.zip) ([txt](bin/botskn18.txt))<br>botskn17.zip<br>botskn14.zip<br>botskn13.zip<br>botskn12.zip<br>[botskn10.zip](bin/botskn10.zip)
 BrBot | "DRaKuLL" | [brbot.7z](bin/brbot.7z) <br>[brbotqc.zip](bin/brbotqc.zip)<br>brbot.exe
 BuddyBot | "Parsec" | [bbot_b1.zip](bin/bbot_b1.zip) <br>[bbot_b11.zip](bin/bbot_b11.zip)
+Catch The Shrimp | "SkinSki" | [shrimp.zip](bin/shrimp.zip)
 ClanBots | "slug" | [clanbotv0.9d.zip](bin/clanbotv0.9d.zip)<br>clanbotv0.9b.zip<br>clanv0.7hman.zip<br>clanv0.6auto.zip<br>clanv0.5auto.zip
 CoopBot | Michael Messina | coopbotx.zip<br>[coopbot3.zip](bin/coopbot3.zip)
 Cronos Bot | "Cronos" | [hd_cbots_hd.zip](bin/hd_cbots_hd.zip)<br>[hd_cbots.zip](bin/hd_cbots.zip)<br>[hd_pak0.zip](bin/hd_pak0.zip)<br>[hd_progs.zip](bin/hd_progs.zip)<br>[cronobot107a.zip](bin/cronobot107a.zip)<br>[cbotpak106.zip](bin/cbotpak106.zip)<br>[cronobot101.zip](bin/cronobot101.zip) ([txt](bin/cronobot.txt))<br>[cronobot_hard.zip](bin/cronobot_hard.zip)
