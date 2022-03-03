@@ -74,6 +74,7 @@ Darkbot | Terry Hendrix aka "Dark_Skye" | [darkbot-fnl-q2.tar.gz](bin/darkbot-fn
 DarkCTF Bot | Terry Hendrix aka "Dark_Skye" | [darkctf13.zip](bin/darkctf13.zip)
 darKMajick (Wraith Bot) | Brendan McArdle aka "Nightbringer" | [dkmjk20.zip](bin/dkmjk20.zip) ([txt](bin/dkmjk20.txt))<br>[darkmajk.zip](bin/darkmajk.zip) ([txt](bin/darkmajk.txt))
 DeathBot | James Boswell aka "FlashFire" | [death-64.zip](bin/death-64.zip) ([txt](bin/death-64.txt))
+Demon Tag Bots | "SkinSki" | [tag.zip](bin/tag.zip)
 Demonshooter | "Shootermaster" | [shooter.zip](bin/shooter.zip) ([txt](bin/shooter.txt))
 DJBot | Dave James aka "DJ" | djbot1.zip
 DM Bot | Nathaniel Gorham | [dmbot1.zip](bin/dmbot1.zip) ([txt](bin/dmbot1.txt))
