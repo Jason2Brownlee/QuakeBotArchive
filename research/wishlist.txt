@@ -36,7 +36,6 @@ clanbotv0.9b.zip
 clanv0.5auto.zip
 clanv0.6auto.zip
 clanv0.7hman.zip
-cujo11.zip
 cujo12.zip
 cujo12a.zip
 cujo12b.zip
@@ -268,7 +267,6 @@ botskn21.txt
 bplayer1.txt
 btsk22.txt
 ctfbot13b1.txt
-cujo11.txt
 cujo12b.txt
 cujo12c.txt
 darkbot.txt

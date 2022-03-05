@@ -1,0 +1,255 @@
+ษอออออออออออออออออออป
+บ  Title    : CUJO  บ
+ศอออออออออออออออออออผ
+
+Filename : CUJO11.ZIP
+Version  : 1.1
+
+Date     : 96/9/04
+
+Author(s): Jonathan E. Wright
+
+Email    : nelno@interpath.com
+
+Home Page: http://trailerpark.com/phase1/nelno
+           Check here first for the latest updates to CUJO!
+
+Credits  : Micheal Polucha (TM Bot),
+           Tim Polucha (TM Bot), and
+           Nathaniel Gorham (DM Bot)
+
+	   ID Software for designign Quake with Quake C!
+
+
+ษอออออออออออออออป
+บ  Type of Mod  บ
+ศอออออออออออออออผ
+
+Quake C  : yes
+Sound    : no
+MDL      : no
+
+
+ษอออออออออออออออออออออป
+บ  Format of Quake C  บ
+ศอออออออออออออออออออออผ
+
+unified diff  : no
+context diff  : no
+.qc files     : yes
+progs.dat     : yes
+
+See the included file PROGS.SRC for a list of which files have been
+modified and which were added.
+
+
+ษอออออออออออออออออออออออออออออออออออป
+บ  Description of the Modification  บ
+ศอออออออออออออออออออออออออออออออออออผ
+
+This mod creates a personal attack dog which will follow the
+player and attack his enemies, even drawing fire in the process.
+
+The dog will not attack zombies, since it cannot gib them.
+
+This bot is based on original dog code and some code from
+DM Bot 1.0.  The dog does not have any manual control functions
+like those bots do.  He's all auto or he's dead.
+
+
+ษอออออออออออออออออออออออออออป
+บ  How to use Modification  บ
+ศอออออออออออออออออออออออออออผ
+
+Impulse 100  Activates and Deactivates the dog
+
+Impulse 104  Teleport the dog to your location.
+
+Impulse 105  Turns on Cujo's collar lamp.  Great for dark places.
+
+Impulse 107  Toggles Cujo between attack and non-attack modes.
+
+Bind these impulses to keys to make commanding Cujo easy.  For example, to
+make the Q key activate and deactivate Cujo put this line in your
+config.cfg file (or type it in the Quake console):
+
+BIND Q "IMPULSE 100"
+
+Now, every time you press Q Cujo will be toggled between his active and
+inactive state.  You can bind the other two impulses in a similar manner.
+
+
+ษอออออออออออออออออออออออออออออออออออป
+บ  How to Install the Modification  บ
+ศอออออออออออออออออออออออออออออออออออผ
+
+
+Unzip CUJO10.ZIP into a temporary directory and run INSTALL.BAT
+with the full path of your Quake directory.  For example, if Quake
+is located in C:\GAMES\QUAKE then you would type:
+
+INSTALL C:\GAMES\QUAKE
+
+This will install the necessary files in a directory called CUJO
+which is inside of your Quake directory, and also create a batch
+file in the Quake directory called CUJO.BAT which will run the
+modified version of Quake.
+
+If you are interested in seeing how this was done, you can manually
+unzip the file SOURCE.ZIP which was contained inside CUJO10.ZIP
+and look at the modified source.  If you would like to make your
+own Quake C mods, get QCC.ZIP and read the instructions contained
+within it.  Also, find one of the many web pages with info about
+Quake modifications to learn more.
+
+
+ษอออออออออออออออออออออป
+บ  Technical Details  บ
+ศอออออออออออออออออออออผ
+
+Features:
+
+þ Cujo can draw enemy fire, lessening the amount of damage the player takes.
+
+þ Seeks out monsters or other players and attacks them.
+
+þ Will continue to attack as long as an enemy target is visible.
+
+þ Will not attack teammates under Teamplay rules.
+
+þ Cujo can follow the player through portals.
+
+þ Cujo will not activate trigger fields (such as light triggers and traps)
+
+þ Cujo is trained *not* to attack zombies, allowing you to toss a grenade
+  in there without blowing up your dog in the process.  (But he will
+  sometimes lick their gibs when your done - hey, dogs will be dogs!)
+
+þ Cujo is a special, genetically enhanced breed of Rottweiler with 8 times
+  the endurance of other dogs his size.  He can cause up to twice as much
+  damage per attack as his piddly cousins, too.  And to top it all off,
+  Cujo is wearing a special suit of armor designed specifically with him
+  in mind.  Cujo is one *bad* dog.
+
+þ Cujo cannot be injured by your shotgun blasts, axe, or thunderbolts, but
+  you can hurt him with nailguns and rockets, so keep this in mind when
+  firing at an enemy your faithful companion is already tearing to pieces.
+
+þ Cujo is equipped with a special device based on slipgate technology.
+  Should he become separated from you, you can teleport him to your own
+  location instantly.  Cujo is even smart enough to activate this device
+  on his own when the distance becomes very great.
+
+þ Cujo does not need to be fed.  He takes care of this himself.
+
+þ Cujo just loves to tackle big Shamblers while you put the nails to 'em!
+
+þ This is not Sea Quest, so no amount of technology will allow you to talk
+  to an animal.  He jsut growls and barks like animals do.
+
+
+Bugs:
+
+þ Cujo does not jump or walk past edges unless he is attacking, at which
+
+  point he can fall into water and become lost (I hope to find a way to
+  fix this...)
+
+þ Cujo sometimes gets lost.  Okay.  Maybe it happens pretty often.
+
+þ Cujo is not deactivated after a level change, I don't think, but I think
+  the Quake code will dispose of it's entity memory anyway (tell me if I'm
+  wrong, please).
+
+þ Sometimes Cujo will continue trying to attack an enemy, even when he
+  can't see it.  I put code in there to prevent this, and it seems not
+  to happen very often, so I'm wondering if it is a problem with the
+  visible () function.  I haven't really checked into it, since it is
+  rare, and teleporting him to you will fix the problem, as will finding
+  and killing the enemy he's after.
+
+þ Cujo's head *will not throw*!  This one's got me baffled for now, so
+  I've just left it like it is.  Gibs are thrown quite nicely, but no
+  head.  It may be a problem with h_cujo.mdl, but I haven't looked into
+  it yet.
+
+þ Please email about any other bugs!
+
+
+ษอออออออออออออออออออออออป
+บ  Future Enhancements  บ
+ศอออออออออออออออออออออออผ
+
+Version 1.1
+
+Cujo will eventually be able to pick up health (and maybe armor, a dog being
+able to do anything with either is just about equally stupid, so I may as
+well).
+
+He still needs ai enhancments, but I haven't even begun to work on this
+yet.
+
+Version 1.0
+
+I'm not satisfied with the ai following routines as they are, but I have
+to learn more about what functions are available to Quake C for determining
+world status such as platform edges and so on before I can do more on this.
+
+I think it would be great to add Cujo as a power up.  This should have been
+part of the game.  It would even work well in DeathMatch, as Cujo would
+be an expendable weapon which worked in addition to the one you were already
+using.  No time limit for this powerup, he stays around as until he's
+killed.  At some point I hope to make Cujo a powerup which could be placed
+on levels.  This would mean disabling some player control such as activating
+and deactivating the dog when the player hasn't found the powerup.  If
+you're interested in doing this, let me know!
+
+
+ษออออออออออออออออออออป
+บ  Revision History  บ
+ศออออออออออออออออออออผ
+
+
+Changes in version 1.1
+
+þ Cujo now *looks* like a Saint Bernard!  Okay, he looks like a white
+  rottweiler with brown spots.  The dog skin doesn't seem to map quite
+  as regularly as the player skin (the dog skin is drawn at a weird angle)
+  so a 3 of the triangles that make up the dog were mapping wierdly and
+  I couldn't seem to change them completely.  Also, St. Bernards have
+  floppy ears and long tails, but Cujo doesn't, cause he's still made
+  from a rottweiler model.  If you think the new skin sucks, let me know,
+  because I'm not completely satisfied with it.  Your feedback will be
+  appreciated.
+
+þ fixed the absence of \n's (returns) after some of Cujo's barks and
+  growls
+
+þ Cujo now spawns to the right of the player if possible and will not
+  activate at all if there is no room around the player
+
+þ Cujo can now be told to break off an attack, or not to attack at all.
+  This makes it a lot easier to avoid killing him when you want to
+  punch a rocket into what he's attacking.
+
+þ Messages concerning Cujo's activation, deactivation and death now
+  all appear in the center of the screen, while Cujo's comments appear
+  at the top left. (Cujo also whines when he want's to attack and you
+  won't let him...)
+
+Changes in version 1.0
+
+þ What changes?  This was the first one.
+
+
+ษออออออออออออออออออออออออออออออออออออออออออป
+บ  Copyright and Distribution Permissions  บ
+ศออออออออออออออออออออออออออออออออออออออออออผ
+
+Authors MAY use these modifications as a basis for other
+publically available work.  Please send me any modifications
+you make!
+
+You may distribute this Quake modification in any electronic
+format as long as this description file remains intact and unmodified
+and is retained along with all of the files in the archive.

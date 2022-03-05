@@ -22,7 +22,6 @@ ftp://ftp.grayphics.com/pub/frigid/botblast/obots101.hqx
 ftp://ftp.grayphics.com/pub/frigid/botblast/reaper08.sit.hqx
 ftp://ftp.pk.edu.pl/pub/games/id/quaketoys/mods/reaprb75.zip
 ftp://ftp.saix.net/pub/telefragged/metro/frogbot009.zip
-ftp://ftp.stomped.com/pub/quake/quakec/misc/cujo11.zip
 ftp://ftp.stomped.com/pub/quake/quakec/weapons/var14.zip
 ftp://ftp.stomped.com/pub/redwood/bots/oak0855.zip
 ftp://ftp.sunet.se/pub/pc/games/idgames2/incoming/darkbt10.zip
