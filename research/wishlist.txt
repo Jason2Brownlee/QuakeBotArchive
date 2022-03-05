@@ -266,7 +266,6 @@ botskn19.txt
 botskn21.txt
 bplayer1.txt
 btsk22.txt
-ctfbot13b1.txt
 cujo12b.txt
 cujo12c.txt
 darkbot.txt
