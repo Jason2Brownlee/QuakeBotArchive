@@ -86,7 +86,7 @@ EdBot | Edward Dawson aka "HotCakes" | [edbot0-04.zip](bin/edbot0-04.zip) <br>[e
 ELFBOt | "SkinSki" aka "MauveBib" | [elfbot.zip](bin/elfbot.zip)
 Eliminator Bot (CBot) | Cameron B. Newham | [elim14.zip](bin/elim14.zip) ([txt](bin/elim14.txt))<br>[elimsrc.zip](bin/elimsrc.zip)<br>elim13.zip<br>[elim12.zip](bin/elim12.zip) ([txt](bin/elim12.txt))<br>[elimtst1.zip](bin/elimtst1.zip) ([txt](bin/elimtst1.txt)) <br>[elim11.zip](bin/elim11.zip) ([txt](bin/elim11.txt))<br>elim10.zip ([txt](bin/elim10.txt))
 Eliminator Bot v1 | Jonathan Down aka "Perged" | [elim141.zip](bin/elim141.zip) ([txt](bin/elim141.txt))
-Eliminator Bot v2 | Jonathan Down aka "Perged" and P. T. Craig aka "FuzzKatT" | [elim20b7.zip](bin/elim20b7.zip) ([txt](bin/elim20b7.txt))<br>elim20b6.zip
+Eliminator Bot v2 | Jonathan Down aka "Perged" and P. T. Craig aka "FuzzKatT" | [elim20b7.zip](bin/elim20b7.zip) ([txt](bin/elim20b7.txt))<br>[elim20b6.zip](bin/elim20b6.zip)
 Estep Bot (EsTePBot) | Enrique Gonzalez Alonso aka "EsTePaRiO" | [estepbot2eng.zip](bin/estepbot2eng.zip) ([txt](bin/estepbot2eng.txt))<br>[estepbot2.zip](bin/estepbot2.zip)
 FEAR (Cujo) | Jon | [fear20.zip](bin/fear20.zip) ([txt](bin/fear20.txt))<br>[fear13.zip](bin/fear13.zip) ([txt](bin/fear13.txt))<br>fear10.zip ([txt](bin/fear10.txt))<br>[fear.zip](bin/fear.zip) ([txt](bin/fear.txt))
 Frag Bot | Richard Peacock aka "The Goat" | [fragbot.zip](bin/fragbot.zip) ([txt](bin/fragbot.txt))
@@ -308,4 +308,4 @@ Lists of known files missing from the archive.
 
 This quake bot archive would not be as complete as it is without the generousness help from the Quake community.
 
-Special thank you to: John Crickett, Joel Baxter aka "Johnny Law", Hannes aka "Spirit" (from quaddicted), Fabiano D. Amorim aka "vegetous", Benjamin Darling aka "Electro", Rui Neto aka "Trinca", Rich Whitehouse aka "thefatal", Marko Permanto aka "Urre", Mark Wheeler, and Daniel Svensson.
+Special thank you to: John Crickett, Joel Baxter aka "Johnny Law", Hannes aka "Spirit" (from quaddicted), Fabiano D. Amorim aka "vegetous", Benjamin Darling aka "Electro", Rui Neto aka "Trinca", Rich Whitehouse aka "thefatal", Marko Permanto aka "Urre", Mark Wheeler, Daniel Svensson, and Michael Kamensky.

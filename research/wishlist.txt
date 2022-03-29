@@ -40,6 +40,7 @@ cujo12.zip
 cujo12a.zip
 cujo12b.zip
 cujo12c.zip
+darkbot.zip
 darkbt10.zip
 darkfrog.zip
 djbot1.zip
@@ -56,7 +57,6 @@ drkbot04.zip
 drkbt013.zip
 elim10.zip
 elim13.zip
-elim20b6.zip
 elimpack.zip
 f2k001a.zip
 f2k005d.zip
@@ -148,6 +148,7 @@ hw_frogbot14h.zip
 hw_frogbotf.zip
 hwqwbot.exe
 iwbot15.zip
+iwbot2.zip
 iwbot20.zip
 killer86.zip
 killer86b.zip
@@ -238,7 +239,6 @@ xkteams2.zip
 zeus20.zip
 zeus201.zip
 zeus202b.zip
-darkbot.zip
 
 
 
@@ -362,6 +362,13 @@ b06chg.txt
 b75chg.txt
 b81chg.txt
 pqccreap.zip
+
+
+# I think these are bots
+smallbots.zip
+# chaosad.zip
+# frank.zip
+# empire.zip
 
 
 

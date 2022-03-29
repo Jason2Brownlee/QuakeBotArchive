@@ -95,6 +95,7 @@ http://quakemecca.simplenet.com/files/new/kok2.zip
 http://railgun.macquakeinfinity.com/downloads/fbctf024.zip
 http://railgun.macquakeinfinity.com/downloads/fbctf026.zip
 http://railgun.macquakeinfinity.com/downloads/fbctf030.zip
+http://redwood.gatsbyhouse.com/files/reaprb75.zip
 http://se.aminet.net/pub/aminet/game/patch/frogbot.lha
 http://shub-hub.quaddicted.com/files/mods_multiplayer/monsterFBXID1waysV2.zip
 http://shub-hub.quaddicted.com/files/mods_multiplayer/orionbots_v3_ra.zip
@@ -115,6 +116,7 @@ http://tux.telefragged.com/file.pl?filename=fbctf034.zip
 http://tux.telefragged.com/file.pl?filename=hw_frogbot14.zip
 http://tux.telefragged.com/file.pl?filename=maniacbt12.zip
 http://web.ukonline.co.uk/johnc/oak0855.zip
+http://web.ukonline.co.uk/Members/jc.burton/iwbot2.zip
 http://www.3ddownloads.com/?download_id=103634&server=newyork&check_id=3729
 http://www.3ddownloads.com/?download_id=151695&server=newyork&check_id=33959
 http://www.3ddownloads.com/?download_id=38923&server=newyork&check_id=30906
@@ -146,7 +148,6 @@ http://www.botepidemic.com/fmods/fbca088se.zip
 http://www.botepidemic.com/fmods/fbctf052.zip
 http://www.botepidemic.com/fmods/hw_frogbot14h.zip
 http://www.btinternet.com/~chris.r.millward/chris/var25.zip
-http://www.ccn.cs.dal.ca/~ae142/Elim20b6.zip
 http://www.cdrom.com/pub/idgames2/newstuff/doombot.zip
 http://www.cdrom.com/pub/idgames2/newstuff/zeus202b.zip
 http://www.cdrom.com/pub/idgames2/quakec/bots/darkbt09.zip

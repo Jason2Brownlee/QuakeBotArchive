@@ -123,6 +123,7 @@ Reaper / ReaperBot / Reaper Bot
 		http://www.imaxx.net/~dakota/capture/FILES/reaprb81.zip
 		http://quakemecca.simplenet.com/files/downloads/reaprb81.zip
 		http://gocompupro.com/cqf/files/reaprb81.zip
+		http://www.violent.demon.co.uk/links/download/reaprb81.zip
 	v0.80
 		http://www.cdrom.com/pub/quake/quakec/bots/reaprb80.zip
 		https://groups.google.com/g/rec.games.computer.quake.editing/c/G0n9wNw1F0I/m/xwwZ7LJTnw4J
@@ -247,6 +248,9 @@ Reaper / ReaperBot / Reaper Bot
 			https://web.archive.org/web/19990117055626/http://www.planetquake.com/ramshackle/reap.htm
 		http://www.planetquake.com/qng/bots.htm
 			https://web.archive.org/web/19970607135102/http://www.planetquake.com/qng/bots.htm
+		http://web.ukonline.co.uk/e.campbell/quake/quakec.htm
+			https://web.archive.org/web/19990221184113/http://web.ukonline.co.uk/e.campbell/quake/quakec.htm
+			https://web.archive.org/web/19990221184113/http://web.ukonline.co.uk/e.campbell/quake/quakec/reaper.zip
 ZeusBot / ZEUSbot
 	Jonathan E. Wright aka Nelno the Amoeba
 	https://www.quaddicted.com/files/idgames2/quakec/bots/zeus205.zip
