@@ -243,7 +243,7 @@ Vari-Patch (DMBot) | Chris Millward | var25.zip<br>var19.zip ([txt](bin/var19.tx
 VeNgAb0T | "WuPP" | [venga.zip](bin/venga.zip)
 Vicinity Bot | "Black" | vicinityqwprogs.zip<br>vicinitymodels.zip<br>vicinitysource.zip
 Victim Bot | Tony Tang aka "The TangMaster" | [vbot11.zip](bin/vbot11.zip) ([txt](bin/vbot11.txt))<br>[vbot1.zip](bin/vbot1.zip)
-WarBot | Muhammad Hidayat Bin Sman aka "Grinder" | warbot2.zip ([txt](bin/warbot2.txt))<br>[warbot14.zip](bin/warbot14.zip)<br>warbot14_dat.zip<br>warbot14_pak.zip<br>warbt13a.zip ([txt](bin/warbt13a.txt))<br>warbotpk.zip
+WarBot | Muhammad Hidayat Bin Sman aka "Grinder" | [warbot2.zip](bin/warbot2.zip) ([txt](bin/warbot2.txt))<br>[warbot14.zip](bin/warbot14.zip)<br>warbot14_dat.zip<br>warbot14_pak.zip<br>warbt13a.zip ([txt](bin/warbt13a.txt))<br>warbotpk.zip
 Wisp | Iikka Paavolainen | [wisp.zip](bin/wisp.zip) ([txt](bin/wisp.txt))
 WLBot | Kualker Koisa aka "Matador" | [wlbot21.7z](bin/wlbot21.7z)<br>wlbot1.9.zip
 Wyrm (Cujo) | Josep del Rio | [wyrmb2final.zip](bin/wyrmb2final.zip) ([txt](bin/wyrmb2final.txt))<br>[wyrmb2fix.zip](bin/wyrmb2fix.zip) ([txt](bin/wyrmb2fix.txt))<br>[wyrmb2.zip](bin/wyrmb2.zip)<br>wyrmb15.zip ([txt](bin/wyrmb15.txt))<br>wyrmb11.zip<br>wyrmb1.zip
@@ -308,4 +308,4 @@ Lists of known files missing from the archive.
 
 This quake bot archive would not be as complete as it is without the generousness help from the Quake community.
 
-Special thank you to: John Crickett, Joel Baxter aka "Johnny Law", Hannes aka "Spirit" (from quaddicted), Fabiano D. Amorim aka "vegetous", Benjamin Darling aka "Electro", Rui Neto aka "Trinca", Rich Whitehouse aka "thefatal", Marko Permanto aka "Urre", Mark Wheeler, Daniel Svensson, and Michael Kamensky.
+Special thank you to: John Crickett, Joel Baxter aka "Johnny Law", Hannes aka "Spirit" (from quaddicted), Fabiano D. Amorim aka "vegetous", Benjamin Darling aka "Electro", Rui Neto aka "Trinca", Rich Whitehouse aka "thefatal", Marko Permanto aka "Urre", Mark Wheeler, Daniel Svensson, Michael Kamensky, and Chris Winger.

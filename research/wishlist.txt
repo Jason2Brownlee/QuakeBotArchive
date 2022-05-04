@@ -225,7 +225,6 @@ vicinityqwprogs.zip
 vicinitysource.zip
 warbot14_dat.zip
 warbot14_pak.zip
-warbot2.zip
 warbotpk.zip
 warbt13a.zip
 waypack1.zip
