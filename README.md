@@ -205,7 +205,7 @@ Shambler Bot | Jason Long aka "Zaphod" | [shambler.zip](bin/shambler.zip) ([txt]
 Sigmund Bot | Rich Whitehouse aka "thefatal" | [sigbot2.zip](bin/sigbot2.zip)<br>[sigbtsrc.zip](bin/sigbtsrc.zip)<br>[sigbot1.zip](bin/sigbot1.zip)
 SkyBlazer | Darryl Atchison aka "coffee" | [sky.zip](bin/sky.zip) ([txt](bin/sky.txt))<br>[sky_src.zip](bin/sky_src.zip)
 SnowCrest's Quake Server Mods (Cujo) | Philip Engdahl aka "Grimorden" | [snowmod2.zip](bin/snowmod2.zip)<br>[snowmod.zip](bin/snowmod.zip)
-Square Bot | Ashley Reynolds aka "Ze0" | [square01a.zip](bin/square01a.zip)<br>squaretst.zip
+Square Bot | Ashley Reynolds aka "Ze0" | [square01a.zip](bin/square01a.zip)<br>[squaretst.zip](bin/squaretst.zip)
 Squirt Bot | Michael Buettner aka "Squirt" | [squirt13.zip](bin/squirt13.zip)<br>sq12to13.zip<br>squirt12b.zip<br>[squirt12.zip](bin/squirt12.zip)<br>[squirt11.zip](bin/squirt11.zip)<br>squirt10.zip
 SuPeRMan Bot | "(KSA)Tekken" | superman11.zip
 Swimming Bot (Swimbot) | Greg Fukui aka "baloo the bear" | [swbot104.zip](bin/swbot104.zip) ([txt](bin/swbot104.txt))<br>sbotstuf.zip<br>[swbot103.zip](bin/swbot103.zip)<br>swbot102.zip<br>swbot101.zip<br>swbot1.zip

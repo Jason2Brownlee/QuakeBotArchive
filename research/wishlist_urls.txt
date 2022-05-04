@@ -143,7 +143,6 @@ http://www.bluesnews.com/archives/reaper.txt
 http://www.bluesnews.com/files/patches/obots100.zip
 http://www.bluesnews.com/reaprb06.txt
 http://www.botepidemic.com/fmods/bm116se.zip
-http://www.botepidemic.com/fmods/demos/squaretst.zip
 http://www.botepidemic.com/fmods/fbca088se.zip
 http://www.botepidemic.com/fmods/fbctf052.zip
 http://www.botepidemic.com/fmods/hw_frogbot14h.zip

@@ -194,7 +194,6 @@ rnbt3.6.zip
 sbotstuf.zip
 sq12to13.zip
 sqdbt201.zip
-squaretst.zip
 squirt10.zip
 squirt12b.zip
 stfm10.zip
