@@ -61,6 +61,7 @@ Omicron Bot
 		http://www.fileplanet.com/dl.aspx?ramshackle/Obots102.zip
 		ftp://sunsite.doc.ic.ac.uk/packages/idgames2/planetquake/ramshackle/Obots102.zip
 		https://cs08.spac.me/f/046006066143136197125049135109122007137232040151223033169236/1630273405/60155795/0/040b8b2710ddb93e442ce9abdced22d8/obots102-spaces.im.zip
+		http://www.geocities.ws/fragtown/bots/obots102.zip
 	http://www.demigod.demon.nl/
 		https://web.archive.org/web/19991111071544/http://www.demigod.demon.nl/
 		dead
@@ -124,6 +125,7 @@ Reaper / ReaperBot / Reaper Bot
 		http://quakemecca.simplenet.com/files/downloads/reaprb81.zip
 		http://gocompupro.com/cqf/files/reaprb81.zip
 		http://www.violent.demon.co.uk/links/download/reaprb81.zip
+		http://www.geocities.ws/fragtown/bots/reaprb81.zip
 	v0.80
 		http://www.cdrom.com/pub/quake/quakec/bots/reaprb80.zip
 		https://groups.google.com/g/rec.games.computer.quake.editing/c/G0n9wNw1F0I/m/xwwZ7LJTnw4J
@@ -1774,6 +1776,7 @@ FrikBot + Artifact Quake / Runebot
 	https://web.archive.org/web/20000831024015/http://www.home.earthlink.net/~pentm450/rnbt3.6.zip
 	https://web.archive.org/web/20000831024015/http://www.home.earthlink.net/~pentm450/rnbt4.2.zip
 	Chuck Parsons
+	http://www.geocities.ws/fragtown/bots/runebot-8-27-03.exe
 FrikBot + Head Hunters
 	https://web.archive.org/web/20000831024015/http://www.home.earthlink.net/~pentm450/
 	https://web.archive.org/web/20000831024015/http://www.home.earthlink.net/~pentm450/hhbot.zip

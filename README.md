@@ -90,7 +90,7 @@ Eliminator Bot v2 | Jonathan Down aka "Perged" and P. T. Craig aka "FuzzKatT" | 
 Estep Bot (EsTePBot) | Enrique Gonzalez Alonso aka "EsTePaRiO" | [estepbot2eng.zip](bin/estepbot2eng.zip) ([txt](bin/estepbot2eng.txt))<br>[estepbot2.zip](bin/estepbot2.zip)
 FEAR (Cujo) | Jon | [fear20.zip](bin/fear20.zip) ([txt](bin/fear20.txt))<br>[fear13.zip](bin/fear13.zip) ([txt](bin/fear13.txt))<br>fear10.zip ([txt](bin/fear10.txt))<br>[fear.zip](bin/fear.zip) ([txt](bin/fear.txt))
 Frag Bot | Richard Peacock aka "The Goat" | [fragbot.zip](bin/fragbot.zip) ([txt](bin/fragbot.txt))
-FrikBot + Artifact Quake (Runebot) | Chuck Parsons | [rnbt9.zip](bin/rnbt9.zip)<br>[rnbt4.2.zip](bin/rnbt4.2.zip) <br>rnbt3.6.zip<br>rnbt3.4.zip
+FrikBot + Artifact Quake (Runebot) | Chuck Parsons | [runebot-8-27-03.exe](bin/runebot-8-27-03.exe)<br>[rnbt9.zip](bin/rnbt9.zip)<br>[rnbt4.2.zip](bin/rnbt4.2.zip) <br>rnbt3.6.zip<br>rnbt3.4.zip
 Frikbot + CTF | Benjamin Darling aka "Electro" | [frikbotctf_01.zip](bin/frikbotctf_01.zip)
 FrikBot + Deathmatch Essentials | Ryan Smith aka "Frika C" | [frikdme.zip](bin/frikdme.zip)
 FrikBot + Dissolution of Eternity | Ryan Smith aka "Frika C" | [frikmp02.zip](bin/frikmp02.zip)
