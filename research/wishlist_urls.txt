@@ -1,8 +1,6 @@
 # Quake Bot URL Wishlist
 
 ftp://bluesnews.com/pub/bots/reaprb75.zip
-ftp://ftp.cdrom.com/pub/idgames2/planetquake/ramshackle/obots100.zip
-ftp://ftp.cdrom.com/pub/idgames2/planetquake/ramshackle/OBOTS100.ZIP
 ftp://ftp.cdrom.com/pub/idgames2/planetquake/tfbot/tfb-v07.zip
 ftp://ftp.cdrom.com/pub/idgames2/quakec/bots/darkbt4.zip
 ftp://ftp.cdrom.com/pub/idgames2/quakec/bots/qcbot002.zip
@@ -27,10 +25,8 @@ ftp://ftp.stomped.com/pub/redwood/bots/oak0855.zip
 ftp://ftp.sunet.se/pub/pc/games/idgames2/incoming/darkbt10.zip
 ftp://ftp.sunet.se/pub/pc/games/idgames2/incoming/dmbt20b3.zip
 ftp://ftp.sunet.se/pub/pc/games/idgames2/newstuff/dmbt20b2.zip
-ftp://ftp.task.gda.pl/pub/games/idgames2/planetquake/ramshackle/obots100.zip
 ftp://ftp.telefragged.com/pub/metro/frogbot005.zip
 ftp://ftp.telefragged.com/pub/metro/frogbot009.zip
-ftp://ftp.telefragged.com/pub/swtc/obots100.zip
 ftp://ftp.telefragged.com/рub/frogbotb009.ziр
 ftp://ftp.telepac.pt/pub/idgames2/telefragged/epidemic/frogbot012.zip
 ftp://ftp.telepac.pt/pub/idgames2/telefragged/epidemic/frogbot012a.zip
@@ -51,7 +47,6 @@ ftp://numb.macquakeinfinity.com/numb/ctf/fbctf032.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf033.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/pak2pak.zip
 ftp://numb.macquakeinfinity.com/numb/holywars/hw_frogbotf.zip
-ftp://quake.df.ru/pub/Quake/Bots/Omnicron/obots100.zip
 ftp://quake.mtu.ru/pub/quake/bots/frogbot7.zip
 ftp://quake.mtu.ru/pub/quake/bots/reaper.zip
 ftp://quake.mtu.ru/pub/quake/bots/zeusbot.zip
@@ -104,7 +99,6 @@ http://ssj4death.condemned.com/gb/gbped10.zip
 http://sunsite.org.uk/packages/idgames2/planetquake/holywars/hw_frogbot.exe
 http://sunsite.org.uk/packages/idgames2/planetquake/holywars/hw_frogbot.sit.bin
 http://sunsite.org.uk/packages/idgames2/planetquake/holywars/hw_frogbot.zip
-http://sunsite.org.uk/packages/idgames2/planetquake/ramshackle/OBOTS100.ZIP
 http://tlb.quakedev.com/files/fbxways/omega.zip
 http://tlb.quakedev.com/files/fbxways/variants/fbxdoom.rar
 http://tlb.quakedev.com/files/fbxways/variants/fbxpk.zip
@@ -140,7 +134,6 @@ http://www.angelfire.com/co2/kooliobot/images/koolio.zip
 http://www.angelfire.com/co2/kooliobot/images/rakoolio.zip
 http://www.angelfire.com/pe/pent3/images/frogbot011.zip
 http://www.bluesnews.com/archives/reaper.txt
-http://www.bluesnews.com/files/patches/obots100.zip
 http://www.bluesnews.com/reaprb06.txt
 http://www.botepidemic.com/fmods/bm116se.zip
 http://www.botepidemic.com/fmods/fbca088se.zip
@@ -165,8 +158,6 @@ http://www.gameaholic.com/deicide/download.cgi?/quakec/bots/rbot.zip
 http://www.geocities.com/TimesSquare/Fortress/7565/superman11.zip
 http://www.geocities.com/TimesSquare/Hangar/8961/sq12to13.zip
 http://www.geocities.com/TimesSquare/Hangar/8961/squirt12b.zip
-http://www.hipnotic.com/shack_files/quakec/obots100.zip
-http://www.hipnotic.com/shack_files/quakec/obots100.zip
 http://www.home.earthlink.net/~pentm450/hhbot.zip
 http://www.home.earthlink.net/~pentm450/rnbt3.4.zip
 http://www.home.earthlink.net/~pentm450/rnbt3.6.zip
@@ -196,7 +187,6 @@ http://www.planetquake.com/requiem/files/req_qw.zip
 http://www.planetquake.com/requiem/files/reqqw104.zip
 http://www.planetquake.com/requiem/files/reqqw20i.zip
 http://www.planetquake.com/requiem/files/reqqw23.zip
-http://www.ritual.com/shack_files/quakec/obots100.zip
 http://www.rmbwenw.nl/botarea51/files/xreaper/setup.exe
 http://www.telefragged.com/mirrors/mirror.pl?epidemic/frogbot012.zip
 http://www.telefragged.com/mirrors/mirror.pl?epidemic/frogbot012a.zip
