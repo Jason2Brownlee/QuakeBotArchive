@@ -184,7 +184,7 @@ QuakePlus (Reaper) | Alexander Vinnikova aka "plus" | [qplus.zip](bin/qplus.zip)
 R Bot | Ross Johnson aka "ColdKill" | [rbot70.zip](bin/rbot70.zip) ([txt](bin/rbot70.txt))<br>[rbot20.zip](bin/rbot20.zip) ([txt](bin/rbot20.txt))<br>rbot.zip
 RABot | Rodrigo Marx aka "Shooter" | [mwrrabot222cl.zip](bin/mwrrabot222cl.zip)<br>[rabot.zip](bin/rabot.zip)
 Rail Arena Bots | "Mauve'Bib" aka "SkinSki" and "Ralpha" | [rail.zip](bin/rail.zip)
-Ranger Bot | John Dean aka "Maleficus" | setup.zip ([txt](bin/ranger_demo.txt))
+Ranger Bot | John Dean aka "Maleficus" | setup.zip ([txt](bin/ranger_demo.txt))<br>[ranger_chlog.txt](bin/ranger_chlog.txt)
 Reaper + DM4 | Daniel Hein aka "Hades" | [dm4reaper.zip](bin/dm4reaper.zip) ([txt](bin/dm4reaper.txt))
 Reaper + Painkeep | Bent Svendsen aka "Decker" | [pkbot.zip](bin/pkbot.zip) ([txt](bin/pkbot.txt))
 Reaper + Scourge of Armagon | Bent Svendsen aka "Decker" | [hipreap3.zip](bin/hipreap3.zip) ([txt](bin/hipreap3.txt))

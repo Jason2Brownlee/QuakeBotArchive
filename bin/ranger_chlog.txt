@@ -1,0 +1,268 @@
+=======================================================================
+
+Work log for the Ranger Bot.
+
+=======================================================================
+
+[www.geocities.com/maleficus666]
+
+
+Plan:
+
+This is my work log.
+
+Its updated whenever I get around to it and the bot itself.
+
+If I finish something, I'll write an "*" line.
+
+If I find a bug, or find a needed feature and I don't fix/add it, I
+make a note of it. Notes may be repeated, until I get around to it.
+
+If I find something that wasn't a good idea, or remove
+something, I'll add a "-" line.
+
+--- Maleficus
+
+
+= 27*11*01: version 0.6.0a (internal)==================================
+
+ * Improved RL aiming - on higher skill, Ranger understands
+   splash damage.
+
+ * Fixed some bugs in his combat movement.
+
+ * Fixed "view angle" bug when you first spawn in arena.
+
+ * Fixed the "fall in spec room, loser armor" bug.
+
+ * Ranger is now a single player game: no more having to remember
+   a bunch of settings at startup. To start a game, just use the 
+   Single Player Menu. The game is a tourney, RA style: beat 
+   Ranger in best of 24 maps!! There is, however, no game saving
+   allowed.
+
+ * Server now randomly plays thru the maps, instead of always
+   playing in the same order. Helps keep the game more fresh and fun.
+
+ * Misc tweaks and fixes.
+
+ * Cleaned up all of the QC code, and fixed a lot of id's bugs.
+   GREATLY reduced the size of the progs.dat file (almost 50%
+   savings in file size!).
+
+ * Fixed clipping issues with the new models.
+
+ * Fixed skill 1 VWEP problem.
+
+ * Added the basics for hunting/seeking code - he should be
+   harder to shake now more than ever on higher skills.
+
+ * Added a few jokes/secrets to the mod. Good luck finding
+   them!! :-P
+
+ * Expanded the bots chatting routines - he'll gloat after
+   a victory, or curse after a defeat!
+
+ * Fixed "firing weapons lag" bug! This bugger almost made me throw
+   out all my code and start over from scratch again!
+
+ * Ranger now joins you right from the start of the game 
+   (in the spectator room), rather than being spawned just 
+   before you begin the match (more realistic this way).
+
+ * "Fixed" skill 1 weapon selection - it sucks now more than ever! :-P
+
+ * fixed prob of sounds overlapping at end of game.
+
+ * added intermission music based on your performance.
+
+ * fixed the pain frames animation.
+
+
+
+= 21*9*01: version 0.5.0a (internal)===================================
+
+ * Added client-side spin animation to rockets when fired. Uber-kewl!
+
+ - TomazQuake only support is gone. Mod is again normal Quake
+   compatiable. Its limiting, but I think its the "Right Thing To Do". 
+   May change my mind again later.........
+
+ - Removed scoring system - was tomazquake only, and unstable. Will
+   have to add a new one (.6??).
+
+ - Removed the old waypoint system. For now, has no waypoint
+   navigation. Will add a better one later (.6??).
+
+ * Adjusted his skill level settings even more - now skill level will
+   affect nearly EVERY action of the bot (weapon leading, movement, 
+   navigation,  etc). Still needs more work tho.
+
+ * Whenever you hit the bot, it makes a "ding" noise, ala Q3.
+
+ * Fixed/added more debugging tools.
+
+ * All items, weapons, powerups, etc are now removed from the map, 
+   meaning, IN THEORY, you could play RA on any map out there in 
+   existence.
+
+ * A few new weapon FX/models are in the game now.
+
+ * Some various small tweaks and bugfixes.
+
+ * VISUAL WEAPONS!!!! You can now see the bots weapon. Kudos to the
+   "Deathmatch Essentials" team for the base models.
+
+ - "Biker" skin is no longer used for the bot. :'-(
+
+ * Fixed various problems with some of the maps/bot code.
+
+ - removed a bunch of un-needed crap from the code put there by 
+   id.
+
+ - streamlined my own code - is now smaller and MUCH better.
+
+ * no more "thumping" when he jumps.
+
+ * improved weapon handling/aiming - again.
+
+ * Basic rocket jumping by the bot in combat.
+
+
+= 18*9*01: version 0.4.0a (internal) ==================================
+
+ - Cleaned up and rewrote most of the code.
+ 
+ * Added new rewards based on your performance.
+
+ * Added the more RA like countdown before the battle.
+
+ - Fixed some internal QC bugs originally put in the source
+   by id (not me for a change change!!)
+
+ * Now prints the name of enemy when your crosshair is on them, ala
+   Quake 3 Arena. Useless, but fun.
+
+ * Bot can now be bounced around by weapon hits, just like a player!
+
+ * Bot moves more like a human, and is less jerky.
+
+ * Added skill levels to the bot. Skill 1 is a n00bie. Skill 3 is 
+   MUCH more of a challenge.
+
+ * Game won't let you shoot until you enter the arena.
+
+
+
+= 25*8*01: version 0.3.0a (distributed) ===============================
+
+ - Disabled Backpack/weapon dropping.
+ 
+ - Took out the powerup checks in the code.
+ 
+ * Created my own RA server code.
+
+ * Bot and human gib easily, for kewl endgame FX.
+
+ - Made it so the "by line" is shown just once.
+
+ * When named "observer", you can't be killed or seen. Only in 
+   debug build tho!
+
+ * Fixed the "tie with bot" bug.
+ 
+ * Created a new bot roaming routine.
+
+ * Bot weapon handling is MUCH improved!
+
+
+
+= 24*8*01: version 0.2.0a (internal) ==================================
+
+ - Took out the code that would allow you to be hurt by the world. On
+   some maps, you would be killed by some object/bug in the map, which
+   defeats the purpose of RA. Sadly, you can't die by drowning anymore.
+
+ * Fixed another bug with bot removal command.
+
+ * Added more indepth debug info for internal bot profiling.
+
+ * Fixed buggy bot chat routines.
+
+ * Bots are on Scoreboard.
+ 
+ * Bots can now win games through fraglimit variable.
+
+ * Bots now use custom model as skin.
+
+ * Fixed "stack_overflow" bug!!! This bot may not be the smartest,
+   but its probably the most stable bot out there right now - have had
+   it running all day with no crashes/lockups.
+
+ * Bot now uses ALL weapons properly.
+
+ * Laid down the basics for a new, better chat routine.
+
+ * Fixed problems with the bot weapon lead and the RL.
+
+ 
+
+= 23*8*2001: version 0.1.0a (internal) ================================
+
+ * Bot is officially a Rocket Arena bot. The beginnings of the server
+   code is in place.
+
+ * Improved bots handling of weapons, though there is still room
+   for improvement.
+
+ * Added bot removal feature. Buggy!
+
+ * Added some basic chat routines (when enters game, killed).
+ 
+ * Added debugger camera feature - to let you see thru the bot's
+   eyes. Can also see its weapon, health, ammo, armor, etc.
+ 
+ * QuakeC file access is now working. TQ engine only tho.
+
+ * Improved bots target leading, and fixed its "Reaper bot" like
+   aim with the shotgun. Has trouble with RL though.
+
+ * Bot now thinks during pain frames.
+
+ * Bot will now activate plats, but, they dont understand them yet.
+
+ * Fixed the "bot won't die in shallow lava" bug.
+
+ * Fixed the fall into lava and never die bug!! :-)
+
+ * Added developer debugging tools.
+
+ * Added the info_waypoint code to quake so it will parse any
+   waypoints in the bsp that it finds.
+
+ * Bot thinks faster now.
+
+ * Improved "Centerprint" function.
+
+ * Added splash when you enter a liquid.
+
+ * Laid down the foundation for a waypoint editor.
+
+ * Slowed down the RL, to be more like Q3A.
+
+ * Added new/funny death messages.
+
+ * Added more blood/gore/gibs to the game.
+
+
+
+= 22*8*2001: version 0.0.0 (internal) =================================
+
+ * Original bot.
+
+ * Basic bot frames and movement.
+
+ * Basic AI layout, just smarter than average monster 
+   that looks like a player, so far.....
+
+ * Uses RL - only weapon so far.
