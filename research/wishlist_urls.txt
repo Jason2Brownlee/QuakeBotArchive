@@ -49,7 +49,6 @@ ftp://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/idgames2/telefragged/epidem
 ftp://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/idgames2/telefragged/metro/frogbot007.zip
 ftp://ter.ort.spb.ru/Nico/Pathes/Bots/obot100.zip
 http://asp.planetquake.com/dl/dl.asp?requiem/reqqwsrc.zip
-http://asp.planetquake.com/dl/dl.asp?requiem/reqsrc.zip
 http://aswp.tzo.net/maleficus/setup.zip
 http://botarea51.impulse9.net/mirror/bot/elimpack.zip
 http://first.quakegate.ru/bots/frogbot.rar
