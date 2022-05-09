@@ -24,6 +24,7 @@ ftp://ftp.stomped.com/pub/redwood/bots/oak0855.zip
 ftp://ftp.sunet.se/pub/pc/games/idgames2/incoming/darkbt10.zip
 ftp://ftp.sunet.se/pub/pc/games/idgames2/incoming/dmbt20b3.zip
 ftp://ftp.sunet.se/pub/pc/games/idgames2/newstuff/dmbt20b2.zip
+ftp://ftp.telefragged.com/pub/metro/frogbot007.zip
 ftp://ftp.telefragged.com/рub/frogbotb009.ziр
 ftp://ftp.telepac.pt/pub/idgames2/telefragged/epidemic/frogbot012.zip
 ftp://ftp.telepac.pt/pub/idgames2/telefragged/epidemic/frogbot012a.zip
@@ -59,7 +60,6 @@ http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/holywars/hw_frogbot.zip
 http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/holywars/hwqwbot.exe
 http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/holywars/hwqwbot.sit
 http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/holywars/hwqwbot.zip
-http://ftp.telepac.pt/pub/idgames2/telefragged/metro/frogbot003.zip
 http://ftp.telepac.pt/pub/idgames2/telefragged/metro/frogbot007.zip
 http://fubar.cstp.umkc.edu:80/quake/files/tballman097.zip
 http://geocities.com/timessquare/hangar/8961/sq12to13.zip
