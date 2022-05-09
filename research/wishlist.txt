@@ -357,6 +357,14 @@ b75chg.txt
 b81chg.txt
 pqccreap.zip
 
+# frogbot stuff
+ptbots.zip
+src_ptbots.zip
+maps_qc.zip
+waypoint_makers.zip
+demos_how_to_do_waypoints.zip
+frog2k.rar
+
 
 # I think these are bots
 smallbots.zip
