@@ -168,7 +168,7 @@ Nirvana (Frikbot) | Christopher Dozier a.k.a "Arwing" | [nirv8_full.zip](bin/nir
 ObotArena (Amiga) (Omicron) | Christian Michael aka "surgeon" | [obotarena.lha](bin/obotarena.lha)
 Ogre Bot | "Lava Man" | [ogrebot.zip](bin/ogrebot.zip) ([txt](bin/ogrebot.txt))
 Olofs QC Collection (Wisp) | Olof Svensson | [oqcc092b.zip](bin/oqcc092b.zip) ([txt](bin/oqcc092b.txt))
-Omicron Bot | Jan Paul van Waveren aka "Mr. Elusive" and Miklos de Rijk aka "H2SO4" | [obots102.zip](bin/obots102.zip)<br>[obots102.sit](bin/obots102.sit)<br>[obots101.zip](bin/obots101.zip)<br>obots101.sit<br>obots101.hqx<br>obots100.sit<br>[obots100.zip](bin/obots100.zip)
+Omicron Bot | Jan Paul van Waveren aka "Mr. Elusive" and Miklos de Rijk aka "H2SO4" | [obots102.zip](bin/obots102.zip)<br>[obots102.sit](bin/obots102.sit)<br>[obots101.zip](bin/obots101.zip)<br>obots101.sit<br>[obots100.zip](bin/obots100.zip)<br>obots100.sit
 Omicron Fixes | Joel Baxter aka "Johnny Law" | [obots102-fixed.zip](bin/obots102-fixed.zip)
 Optimized Frogbot (Amiga) | Christian Michael aka "surgeon" | [frogbot.lha](bin/frogbot.lha) ([txt](bin/frogbot.txt))<br>[frogmaps.lha](bin/frogmaps.lha)
 Orion Team Fortress (OrionTF) (OrionBots) | "Orion" | [oriontf_beta4.zip](bin/oriontf_beta4.zip)<br>[oriontf_beta3.zip](bin/oriontf_beta3.zip)<br>[oriontf_beta2.zip](bin/oriontf_beta2.zip)<br>[oriontf.zip](bin/oriontf.zip)
