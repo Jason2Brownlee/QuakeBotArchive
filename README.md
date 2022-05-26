@@ -241,35 +241,12 @@ Xreaper | Ruud Heemskerk aka "Mephisto" | [xreaperb130.zip](bin/xreaperb130.zip)
 Zeus Bot | Jonathan E. Wright aka "Nelno the Amoeba" | [zeus205s.zip](bin/zeus205s.zip) ([txt](bin/zeus205s.txt))<br>[zeus205.zip](bin/zeus205.zip) ([txt](bin/zeus205.txt))<br>[zeus_src.zip](bin/zeus_src.zip) ([txt](bin/zeus_src.txt))<br>[zeus2042.zip](bin/zeus2042.zip)<br>[zeus2041.zip](bin/zeus2041.zip)<br>[zeus204.zip](bin/zeus204.zip)<br>[zeus203b.zip](bin/zeus203b.zip) ([txt](bin/zeus203b.txt))<br>zeus202b.zip ([txt](bin/zeus202b.txt))<br>zeus201.zip<br>zeus20.zip<br>[zeus10.zip](bin/zeus10.zip) ([txt](bin/zeus10.txt))
 Zeus Hunt (Rumble) | Christopher Dozier "Arwing-X" | [rumble1.zip](bin/rumble1.zip) ([txt](bin/rumble1.txt))<br>[rumble.zip](bin/rumble.zip) ([txt](bin/rumble.txt))
 
-File Column:
-- **no link** Indicates I discovered the filename but could not find a copy of the file to archive.
-- Separate text files are included when available as some differ from the contents of the .zip files.
-
-## Additional Files
-
-Many bots have extra files that are not part of the main bot release.
-
-This may include sample code or code skeletons, waypoint or route files for supported maps (required for bot navigation), additional bot configurations or configuration tools, and replacement bot models or skins.
-
-These extra files are stored in the bot archive under the [bin/](bin/) directory organized by a subdirectory named for the bot.
-
-The list below summarizes the subdirectories of extra bot files in the archive.
-
-Bot Name | Description | Subdirectory
---- | --- | ---
-Eliminator Bots | Map support for eliminator bots. | [eliminator/](bin/eliminator/)
-FrikBots | Map support and tools for frikbots. | [frikbot/](bin/frikbot/)
-FrogBots | Map support and sample code for frogbots. | [frogbot/](bin/frogbot/)
-Omicron Bots | Map support for omicron bots. | [omicron/](bin/omicron/)
-Reaper Bots | Additional skins for reaper bots. | [reaper/](bin/reaper/)
-Other | Sample code and skeleton code for bots. | [other/](bin/other/)
-
 ## Help
 
 Perhaps you can help to make this archive more complete.
 
-* Do you know about a Quake bot missing from the archive?
 * Do you have a copy of a missing Quake bot file?
+* Do you know about a Quake bot missing from the archive?
 * Do you know a Quake bot author's real name or how to contact them?
 
 Please email Jason Brownlee via jason.brownlee05@gmail.com
