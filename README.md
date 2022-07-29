@@ -100,6 +100,7 @@ FrikBot X DreamCast (FBXDC) | Ryan Smith aka "Frika C" | [fbxdc.zip](bin/fbxdc.z
 FrikBot X+ (FBX+) | Igor9 | [fbx+.zip](bin/fbx+.zip)
 FrikBot X++ (FBX++) | Joel Baxter aka "Johnny Law" | [fbx++.zip](bin/fbx++.zip)
 FrikBot | Ryan Smith aka "Frika C" | [fbxc.zip](bin/fbxc.zip)<br>[fbxb.zip](bin/fbxb.zip)<br>[fbxa.zip](bin/fbxa.zip)<br>[fbx.zip](bin/fbx.zip)<br>[fbxextra.zip](bin/fbxextra.zip)<br>[frkbt09b.zip](bin/frkbt09b.zip)<br>frkbt09a.zip<br>[frikbt09.zip](bin/frikbt09.zip)<br>[frik9tst.zip](bin/frik9tst.zip)<br>[frikbt08.zip](bin/frikbt08.zip)<br>[frikbt07.zip](bin/frikbt07.zip)<br>[frikbt06.zip](bin/frikbt06.zip)<br>[frikbt05.zip](bin/frikbt05.zip)<br>[frikbt04.zip](bin/frikbt04.zip)<br>frikbt03.zip<br>frikbt02.zip<br>frikbt01.zip
+Frikbot4 | Will Scarlet aka "whipowill" | [frikbot4-20220729.zip](bin/frikbot4-20220729.zip)
 Frogbot + Clan Arena (FBCA) | "Baker" | [frogbots-099.zip](bin/frogbots-099.zip)
 Frogbot + Clan Arena (FBCA) | Alexey Pakhomov aka "ParboiL" | [src_fbca098.zip](bin/src_fbca098.zip)<br>fbca096b.zip<br>fbca089se.zip<br>fbca089b.zip<br>[fbca088se3.zip](bin/fbca088se3.zip)<br>fbca088se.zip<br>[fbca088.zip](bin/fbca088.zip)<br>fbca86se.zip<br>fbca086.zip
 Frogbot + Clan Arena (FBCA) | Matt McChesney aka "Asdf" | [fbca085.zip](bin/fbca085.zip)<br>[fbcasound.zip](bin/fbcasound.zip)<br>fbca084.zip<br>[fbca083.zip](bin/fbca083.zip)<br>fbca082.zip<br>fbca081.zip
