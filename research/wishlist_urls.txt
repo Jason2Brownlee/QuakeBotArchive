@@ -49,6 +49,12 @@ ftp://quake.mtu.ru/pub/quake/bots/zeusbot.zip
 ftp://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/idgames2/telefragged/epidemic/frogbot012a.zip
 ftp://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/idgames2/telefragged/metro/frogbot007.zip
 ftp://ter.ort.spb.ru/Nico/Pathes/Bots/obot100.zip
+http://asp.planetquake.com/dl/dl.asp?/holywars/hwqwbot.exe
+http://asp.planetquake.com/dl/dl.asp?/holywars/hwqwbot.sit
+http://asp.planetquake.com/dl/dl.asp?/holywars/hwqwbot.zip
+http://asp.planetquake.com/dl/dl.asp?/holywars/hwqwbotv101b.exe
+http://asp.planetquake.com/dl/dl.asp?/holywars/hwqwbotv101c.sit
+http://asp.planetquake.com/dl/dl.asp?/holywars/quake/hw_frogbot14f.zip
 http://asp.planetquake.com/dl/dl.asp?requiem/reqqwsrc.zip
 http://aswp.tzo.net/maleficus/setup.zip
 http://botarea51.impulse9.net/mirror/bot/elimpack.zip
@@ -194,3 +200,4 @@ http://www.users.bigpond.com/clanslug/ClanV0.7HMan.zip
 http://xmark.ausgamers.com/xkteams/xkteams1705.zip
 http://xmark.ausgamers.com/xkteams/xkteams1705s.zip
 http://xmark.ausgamers.com/xkteams/xkteams2.zip
+
