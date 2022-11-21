@@ -60,6 +60,9 @@ http://aswp.tzo.net/maleficus/setup.zip
 http://botarea51.impulse9.net/mirror/bot/elimpack.zip
 http://first.quakegate.ru/bots/frogbot.rar
 http://freespace.virgin.net/w.james/DJbot1.zip
+http://ftp.gamers.org/pub/games/idgames2/planetquake/hwqwbot.exe
+http://ftp.gamers.org/pub/games/idgames2/planetquake/hwqwbot.sit
+http://ftp.gamers.org/pub/games/idgames2/planetquake/hwqwbot.zip
 http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/holywars/hw_frogbot.exe
 http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/holywars/hw_frogbot.sit.bin
 http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/holywars/hw_frogbot.zip
@@ -82,6 +85,8 @@ http://members.nbci.com/nnsource.zip
 http://members.tripod.lycos.nl/koolpaddy/zips/paddybot02.zip
 http://members.xoom.com/eluan/WLBOT1.9.zip
 http://membro.intermega.com.br/gqc/tdbot1_0.zip
+http://numb.quakeintosh.com/users/gerrybabe/holywars/frog/hwqwbot.exe
+http://numb.quakeintosh.com/users/gerrybabe/holywars/frog/hwqwbot.sit
 http://orca.ucd.ie/~gilligan/warbot.zip
 http://quakeintosh.com/files/Paks%20-%20Maps%20-%20Mods%20/Quake%20Bots/%20Omicron%20Bot/OBOTS101.sit
 http://quakemecca.simplenet.com/files/new/kok2.zip
@@ -121,6 +126,7 @@ http://www.3ddownloads.com/showfile.php3?filename=Accuracy.zip
 http://www.3ddownloads.com/showfile.php3?filename=darkfrog.zip
 http://www.3ddownloads.com/showfile.php3?filename=fbarena013.zip
 http://www.3ddownloads.com/showfile.php3?filename=holomod.zip
+http://www.3ddownloads.com/showfile.php3?filename=hw_frogbot14f.zip
 http://www.3ddownloads.com/showfile.php3?filename=maniacbt12.zip
 http://www.3ddownloads.com/showfile.php3?filename=motd.zip
 http://www.3ddownloads.com/showfile.php3?filename=mpak1v12.zip
@@ -187,10 +193,12 @@ http://www.planetquake.com/requiem/files/reqqw104.zip
 http://www.planetquake.com/requiem/files/reqqw20i.zip
 http://www.planetquake.com/requiem/files/reqqw23.zip
 http://www.rmbwenw.nl/botarea51/files/xreaper/setup.exe
+http://www.telefragged.com/mirrors/mirror.pl?be/fmods/hwqwbot.zip
 http://www.telefragged.com/mirrors/mirror.pl?epidemic/frogbot012.zip
 http://www.telefragged.com/mirrors/mirror.pl?epidemic/frogbot012a.zip
 http://www.telefragged.com/mirrors/mirror.pl?epidemic/frogbot012b.zip
 http://www.telefragged.com/mirrors/mirror.pl?epidemic/frogbot012b.zip
+http://www.telefragged.com/mirrors/mirror.pl?qnm/fbedit15.zip
 http://www.telefragged.com/mirrors/mirror.pl?qnm/fbedit15.zip
 http://www.ugrad.cs.ubc.ca/spider/u6m1/QC/killer.zip
 http://www.users.bigpond.com/clanslug/ClanbotV0.9b.zip
@@ -200,4 +208,3 @@ http://www.users.bigpond.com/clanslug/ClanV0.7HMan.zip
 http://xmark.ausgamers.com/xkteams/xkteams1705.zip
 http://xmark.ausgamers.com/xkteams/xkteams1705s.zip
 http://xmark.ausgamers.com/xkteams/xkteams2.zip
-

@@ -148,7 +148,6 @@ hw_frogbotf.zip
 hwqwbot.exe
 hwqwbot.zip
 hwqwbotv101b.exe
-hwqwbotv101c.sit
 iwbot15.zip
 iwbot2.zip
 iwbot20.zip
@@ -243,11 +242,11 @@ zeus202b.zip
 # mac stuff
 frogbot012.sit
 hwqwbot.sit
+hwqwbotv101c.sit
 obots100.sit
 obots101.hqx
 obots101.sit
 reaper08.sit.hqx
-
 
 
 # txt files we expect to exist
