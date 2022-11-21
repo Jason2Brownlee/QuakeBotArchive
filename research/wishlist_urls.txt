@@ -1,5 +1,6 @@
 # Quake Bot URL Wishlist
 
+fto://ftp.telepac.pt/pub/idgames2/planetquake/holywars/hwqwbotv101c.zip
 ftp://bluesnews.com/pub/bots/reaprb75.zip
 ftp://ftp.cdrom.com/pub/idgames2/planetquake/tfbot/tfb-v07.zip
 ftp://ftp.cdrom.com/pub/idgames2/quakec/bots/darkbt4.zip
@@ -26,6 +27,9 @@ ftp://ftp.sunet.se/pub/pc/games/idgames2/incoming/dmbt20b3.zip
 ftp://ftp.sunet.se/pub/pc/games/idgames2/newstuff/dmbt20b2.zip
 ftp://ftp.telefragged.com/pub/metro/frogbot007.zip
 ftp://ftp.telefragged.com/рub/frogbotb009.ziр
+ftp://ftp.telepac.pt/pub/idgames2/planetquake/holywars/hwqwbot.exe
+ftp://ftp.telepac.pt/pub/idgames2/planetquake/holywars/hwqwbotv101b.exe
+ftp://ftp.telepac.pt/pub/idgames2/planetquake/holywars/hwqwbotv101c.sit
 ftp://ftp.telepac.pt/pub/idgames2/telefragged/epidemic/frogbot012.zip
 ftp://ftp.telepac.pt/pub/idgames2/telefragged/epidemic/frogbot012a.zip
 ftp://ftp.telepac.pt/pub/idgames2/telefragged/epidemic/frogbot012b.zip

@@ -148,6 +148,7 @@ hw_frogbotf.zip
 hwqwbot.exe
 hwqwbot.zip
 hwqwbotv101b.exe
+hwqwbotv101c.zip
 iwbot15.zip
 iwbot2.zip
 iwbot20.zip
