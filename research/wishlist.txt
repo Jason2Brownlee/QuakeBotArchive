@@ -112,7 +112,6 @@ fbph.zip
 fbxdoom.rar
 fbxpk.zip
 fbxrj2.zip
-fear10.zip
 fixedsrc.zip
 frik-tf.zip
 frikbt01.zip
@@ -361,7 +360,7 @@ b75chg.txt
 b81chg.txt
 pqccreap.zip
 
-# frogbot stuff
+# frogbot stuff (demos, etc)
 ptbots.zip
 src_ptbots.zip
 maps_qc.zip
@@ -369,6 +368,9 @@ waypoint_makers.zip
 demos_how_to_do_waypoints.zip
 frog2k.rar
 frogbot_demo.zip
+frogffa.zip
+gem_dm6.zip
+
 
 # I think these are bots
 smallbots.zip
