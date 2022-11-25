@@ -66,7 +66,6 @@ http://asp.planetquake.com/dl/dl.asp?requiem/reqqwsrc.zip
 http://aswp.tzo.net/maleficus/setup.zip
 http://botarea51.impulse9.net/mirror/bot/elimpack.zip
 http://first.quakegate.ru/bots/frogbot.rar
-http://freespace.virgin.net/w.james/DJbot1.zip
 http://ftp.gamers.org/pub/games/idgames2/planetquake/hwqwbot.exe
 http://ftp.gamers.org/pub/games/idgames2/planetquake/hwqwbot.sit
 http://ftp.gamers.org/pub/games/idgames2/planetquake/hwqwbot.zip
@@ -122,7 +121,6 @@ http://tux.telefragged.com/file.pl?filename=fbctf034.zip
 http://tux.telefragged.com/file.pl?filename=hw_frogbot14.zip
 http://tux.telefragged.com/file.pl?filename=maniacbt12.zip
 http://tux.telefragged.com/file.pl?filename=vicinity/vicinitymodels.zip
-http://web.ukonline.co.uk/d.cowan/frog.zip
 http://web.ukonline.co.uk/johnc/oak0855.zip
 http://web.ukonline.co.uk/Members/jc.burton/iwbot2.zip
 http://www.3ddownloads.com/showfile.php3?filename=2000.zip
@@ -159,8 +157,6 @@ http://www.converted2.com/bloodmage/junk/FBMOD.ZIP
 http://www.dmsoul.mailru.com/botmatch/bm119gl.zip
 http://www.dobbsnet.btinternet.co.uk/downloads/quake/dobbsbot15b.zip
 http://www.fileplanet.com/dl.aspx?/planetquake/botarea51/bot/elimpack.zip
-http://www.fileplanet.com/index.asp?file=22736
-http://www.fileplanet.com/index.asp?section=66&file=22736
 http://www.gameaholic.com/deicide/download.cgi?/quakec/bots/darkbt10.zip
 http://www.gameaholic.com/deicide/download.cgi?/quakec/bots/darkbt4.zip
 http://www.gameaholic.com/deicide/download.cgi?/quakec/bots/rbot.zip

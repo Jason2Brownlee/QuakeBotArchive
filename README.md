@@ -58,7 +58,7 @@ CoopBot | Michael Messina | coopbotx.zip<br>[coopbot3.zip](bin/coopbot3.zip)
 Cronos Bot | "Cronos" | [hd_cbots_hd.zip](bin/hd_cbots_hd.zip)<br>[hd_cbots.zip](bin/hd_cbots.zip)<br>[hd_pak0.zip](bin/hd_pak0.zip)<br>[hd_progs.zip](bin/hd_progs.zip)<br>[cronobot107a.zip](bin/cronobot107a.zip)<br>[cbotpak106.zip](bin/cbotpak106.zip)<br>[cronobot101.zip](bin/cronobot101.zip) ([txt](bin/cronobot.txt))<br>[cronobot_hard.zip](bin/cronobot_hard.zip)
 Cujo and Grapple (Cujgrap) | Xavier Javornicki | [cujgrap.zip](bin/cujgrap.zip) ([txt](bin/cujgrap.txt))
 Cujo | Jonathan E. Wright | [cujo14.zip](bin/cujo14.zip) ([txt](bin/cujo14.txt))<br>[cujosrvr.zip](bin/cujosrvr.zip)<br>[cujo13.zip](bin/cujo13.zip) ([txt](bin/cujo13.txt))<br>cujo12c.zip<br>cujo12b.zip<br>cujo12a.zip ([txt](bin/cujo12a.txt))<br>cujo12.zip ([txt](bin/cujo12.txt))<br>[cujo11.zip](bin/cujo11.zip) ([txt](bin/cujo11.txt))<br>[cujo10.zip](bin/cujo10.zip) ([txt](bin/cujo10.txt))
-DJBot | Dave James aka "DJ" | djbot1.zip
+DJBot | Dave James aka "DJ" | [djbot1.zip](bin/djbot1.zip)
 DM Bot | Nathaniel Gorham | [dmbot1.zip](bin/dmbot1.zip) ([txt](bin/dmbot1.txt))
 DOBBSBot | Stephen Dobbs | [dobbsbot15bwp.zip](bin/dobbsbot15bwp.zip)<br>dobbsbot15b.zip<br>[dobbsbot15a.zip](bin/dobbsbot15a.zip)
 Dark Frogbot | "Pinsolle" | darkfrog.zip
