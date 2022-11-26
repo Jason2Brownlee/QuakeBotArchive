@@ -135,7 +135,7 @@ Kagero Bot | "The Kwanster" | [kagero.zip](bin/kagero.zip)
 KarNag Bot | Ken Madlener aka "Kenzer" | [knbot45.zip](bin/knbot45.zip) ([txt](bin/knbot45.txt))<br>[knbot03.zip](bin/knbot03.zip)<br>knbot02.zip<br>knbot01.zip
 Khol's FMODS (Frogbot) | "Khol" | [kfmod.zip](bin/kfmod.zip)
 Killer Qcbot | William  Ravaine aka "Killer-Sub" | [kqcbots095b.zip](bin/kqcbots095b.zip) ([txt](bin/kqcbots095b.txt))<br>kqcbotsource.zip
-Killer Quake Pack (KQP) (Zeus, Cujo) | Howard Roy aka "Solo" | [kqp220z.zip](bin/kqp220z.zip) ([txt](bin/kqp220z.txt))<br>[kqp210z.zip](bin/kqp210z.zip) ([txt](bin/kqp210z.txt))<br>[kqp200z.zip](bin/kqp200z.zip) ([txt](bin/kqp200z.txt))<br>[kqp100.zip](bin/kqp100.zip) ([txt](bin/kqp100.txt))<br>[killer90.zip](bin/killer90.zip) ([txt](bin/killer90.txt))<br>killer87.zip<br>killer86b.zip<br>killer86.zip<br>[killer85.zip](bin/killer85.zip)<br>killer80.zip
+Killer Quake Pack (KQP) (Zeus, Cujo) | Howard Roy aka "Solo" | [kqp220z.zip](bin/kqp220z.zip) ([txt](bin/kqp220z.txt))<br>[kqp210z.zip](bin/kqp210z.zip) ([txt](bin/kqp210z.txt))<br>[kqp200z.zip](bin/kqp200z.zip) ([txt](bin/kqp200z.txt))<br>[kqp20z.zip](bin/kqp20z.zip)<br>[kqp100.zip](bin/kqp100.zip) ([txt](bin/kqp100.txt))<br>[killer90.zip](bin/killer90.zip) ([txt](bin/killer90.txt))<br>killer87.zip<br>killer86b.zip<br>killer86.zip<br>[killer85.zip](bin/killer85.zip)<br>killer80.zip
 Kommando Kwake (Reaper) | Andreas M. and Stefan M. | kok220.zip<br>kok210.zip<br>kok2.zip
 Kooliobot | Robert de Heus aka "Koolio" | [kooliobot.zip](bin/kooliobot.zip)<br>koolio.zip
 Lightning Gun Competition (LGC) (Frogbot) | Phil Romov aka "peheyele" | [lgc3.zip](bin/lgc3.zip)<br>[lgc2c.zip](bin/lgc2c.zip)<br>[lgc2.zip](bin/lgc2.zip)<br>[lgc.zip](bin/lgc.zip)
