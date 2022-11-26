@@ -12,6 +12,10 @@
 # req.zip
 # accuracy.zip
 # doombot.txt
+# bugfix1.zip
+# bugfix2.zip
+# bugfix3.zip
+# motd.zip
 
 
 #
@@ -32,9 +36,6 @@ botskn21.zip
 bplayer.zip
 brbot.exe
 btsk22.zip
-bugfix1.zip
-bugfix2.zip
-bugfix3.zip
 clanbotv0.9b.zip
 clanv0.5auto.zip
 clanv0.6auto.zip
@@ -164,7 +165,6 @@ koolio.zip
 kqcbotsource.zip
 maniacbt12.zip
 monsterfbxid1waysv2.zip
-motd.zip
 mpak1v12.zip
 mybot14.zip
 nnctf.zip
@@ -240,6 +240,14 @@ xkteams2.zip
 zeus20.zip
 zeus201.zip
 zeus202b.zip
+
+fbca094kt.zip
+fbca096kt.zip
+fbca098kt.zip
+fbca100kt.zip
+src_fbca092.zip
+fbca102rc2.zip
+src_fbca100.zip
 
 # mac stuff
 frogbot012.sit
@@ -361,7 +369,7 @@ pqccreap.zip
 # reaper.txt
 
 # other
-
+mac_hwbot003b7final.sit.bin
 
 # frogbot stuff (demos, etc)
 ptbots.zip
@@ -373,7 +381,8 @@ frog2k.rar
 frogbot_demo.zip
 frogffa.zip
 gem_dm6.zip
-
+fbca102pre_beta.zip
+frogbotmaps.zip
 
 # I think these are bots
 smallbots.zip
