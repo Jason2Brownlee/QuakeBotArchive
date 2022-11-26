@@ -125,8 +125,8 @@ http://tux.telefragged.com/file.pl?filename=fbctf034.zip
 http://tux.telefragged.com/file.pl?filename=hw_frogbot14.zip
 http://tux.telefragged.com/file.pl?filename=maniacbt12.zip
 http://tux.telefragged.com/file.pl?filename=vicinity/vicinitymodels.zip
-http://web.ukonline.co.uk/Members/jc.burton/iwbot2.zip
 http://web.ukonline.co.uk/johnc/oak0855.zip
+http://web.ukonline.co.uk/Members/jc.burton/iwbot2.zip
 http://www.3ddownloads.com/showfile.php3?filename=2000.zip
 http://www.3ddownloads.com/showfile.php3?filename=Accuracy.zip
 http://www.3ddownloads.com/showfile.php3?filename=darkfrog.zip
@@ -196,6 +196,7 @@ http://www.parboil.newmail.ru/parboil/fbca86se.zip
 http://www.parboil.quakeworld.ru/parboil/fbca097kt.zip
 http://www.parboil.quakeworld.ru/parboil/fbca099kt.zip
 http://www.parboil.quakeworld.ru/tappak/fbca102kt-rc1.zip
+http://www.parboil.quakeworld.ru/tappak/fbca102pre_beta.zip
 http://www.pixelshower.com/Vault/game/prodigy35b1.zip
 http://www.planetquake.com/requiem/files/bugfix1.zip
 http://www.planetquake.com/requiem/files/bugfix2.zip
@@ -215,14 +216,12 @@ http://www.telefragged.com/mirrors/mirror.pl?epidemic/frogbot012b.zip
 http://www.telefragged.com/mirrors/mirror.pl?metro/frogbot012.zip
 http://www.telefragged.com/mirrors/mirror.pl?qnm/fbedit15.zip
 http://www.ugrad.cs.ubc.ca/spider/u6m1/QC/killer.zip
+http://www.users.bigpond.com/clanslug/ClanbotV0.9b.zip
 http://www.users.bigpond.com/clanslug/ClanV0.5Auto.zip
 http://www.users.bigpond.com/clanslug/ClanV0.6Auto.zip
 http://www.users.bigpond.com/clanslug/ClanV0.7HMan.zip
-http://www.users.bigpond.com/clanslug/ClanbotV0.9b.zip
 http://xmark.ausgamers.com/xkteams/xkteams1705.zip
 http://xmark.ausgamers.com/xkteams/xkteams1705s.zip
 http://xmark.ausgamers.com/xkteams/xkteams2.zip
-http://www.parboil.quakeworld.ru/tappak/fbca102pre_beta.zip
-
 
 

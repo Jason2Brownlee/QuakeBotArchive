@@ -77,11 +77,17 @@ fbca089kt.zip
 fbca089se.zip
 fbca090kt.zip
 fbca091kt.zip
+fbca094kt.zip
 fbca095kt.zip
 fbca096b.zip
+fbca096kt.zip
 fbca097kt.zip
+fbca098kt.zip
 fbca099kt.zip
+fbca100kt.zip
 fbca102kt-rc1.zip
+fbca102pre_beta.zip
+fbca102rc2.zip
 fbca86se.zip
 fbctf003.zip
 fbctf004.zip
@@ -198,6 +204,8 @@ sq12to13.zip
 sqdbt201.zip
 squirt10.zip
 squirt12b.zip
+src_fbca092.zip
+src_fbca100.zip
 stfm10.zip
 superman11.zip
 swbot1.zip
@@ -241,13 +249,6 @@ zeus20.zip
 zeus201.zip
 zeus202b.zip
 
-fbca094kt.zip
-fbca096kt.zip
-fbca098kt.zip
-fbca100kt.zip
-src_fbca092.zip
-fbca102rc2.zip
-src_fbca100.zip
 
 # mac stuff
 frogbot012.sit
@@ -381,7 +382,6 @@ frog2k.rar
 frogbot_demo.zip
 frogffa.zip
 gem_dm6.zip
-fbca102pre_beta.zip
 frogbotmaps.zip
 
 # I think these are bots
