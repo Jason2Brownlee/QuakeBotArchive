@@ -10,6 +10,9 @@
 # reaper.zip
 # omega.zip
 # req.zip
+# accuracy.zip
+# doombot.txt
+
 
 #
 # normal zip files
@@ -179,6 +182,7 @@ qcbot001.zip
 qcbot002.zip
 rakoolio.zip
 rbot.zip
+reaprb05.zip
 reaprb75.zip
 req105c.zip
 req106a.zip
@@ -237,8 +241,6 @@ zeus20.zip
 zeus201.zip
 zeus202b.zip
 
-
-
 # mac stuff
 frogbot012.sit
 hwqwbot.sit
@@ -277,7 +279,6 @@ dogfun14.txt
 dogfun17.txt
 dogfun18.txt
 dogfun19.txt
-doombot.txt
 drkbt013.txt
 elim13.txt
 elim20b6.txt
@@ -325,7 +326,6 @@ maniacbt12.txt
 qcbot001.txt
 qcbot002.txt
 rbot.txt
-reaper.txt
 reaprb05.txt
 reaprb06.txt
 reaprb80.txt
@@ -358,6 +358,10 @@ b06chg.txt
 b75chg.txt
 b81chg.txt
 pqccreap.zip
+# reaper.txt
+
+# other
+
 
 # frogbot stuff (demos, etc)
 ptbots.zip
