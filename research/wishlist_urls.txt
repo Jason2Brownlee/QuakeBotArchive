@@ -98,6 +98,20 @@ http://membro.intermega.com.br/gqc/tdbot1_0.zip
 http://numb.quakeintosh.com/users/gerrybabe/holywars/frog/hwqwbot.exe
 http://numb.quakeintosh.com/users/gerrybabe/holywars/frog/hwqwbot.sit
 http://orca.ucd.ie/~gilligan/warbot.zip
+http://parboil.mailru.com/parboil/fbca086.zip
+http://parboil.mailru.com/parboil/fbca094kt.zip
+http://parboil.mailru.com/parboil/fbca095kt.zip
+http://parboil.mailru.com/parboil/fbca096kt.zip
+http://parboil.mailru.com/parboil/fbca86se.zip
+http://parboil.quakeworld.ru/parboil/fbca086.zip
+http://parboil.quakeworld.ru/parboil/fbca094kt.zip
+http://parboil.quakeworld.ru/parboil/fbca097kt.zip
+http://parboil.quakeworld.ru/parboil/fbca098kt.zip
+http://parboil.quakeworld.ru/parboil/fbca100kt.zip
+http://parboil.quakeworld.ru/parboil/fbca86se.zip
+http://parboil.quakeworld.ru/parboil/src_fbca092.zip
+http://parboil.quakeworld.ru/parboil/src_fbca100.zip
+http://parboil.quakeworld.ru/tappak/fbca102kt-rc1.zip
 http://petervw.club.tip.nl/guardbot.zip
 http://quakeintosh.com/files/Paks%20-%20Maps%20-%20Mods%20/Quake%20Bots/%20Omicron%20Bot/OBOTS101.sit
 http://quakemecca.simplenet.com/files/new/kok2.zip
@@ -125,8 +139,8 @@ http://tux.telefragged.com/file.pl?filename=fbctf034.zip
 http://tux.telefragged.com/file.pl?filename=hw_frogbot14.zip
 http://tux.telefragged.com/file.pl?filename=maniacbt12.zip
 http://tux.telefragged.com/file.pl?filename=vicinity/vicinitymodels.zip
-http://web.ukonline.co.uk/johnc/oak0855.zip
 http://web.ukonline.co.uk/Members/jc.burton/iwbot2.zip
+http://web.ukonline.co.uk/johnc/oak0855.zip
 http://www.3ddownloads.com/showfile.php3?filename=2000.zip
 http://www.3ddownloads.com/showfile.php3?filename=Accuracy.zip
 http://www.3ddownloads.com/showfile.php3?filename=darkfrog.zip
@@ -160,6 +174,8 @@ http://www.cdrom.com/pub/idgames2/quakec/bots/grdbot13.zip
 http://www.cdrom.com/pub/idgames2/quakec/bots/rbot.zip
 http://www.converted2.com/bloodmage/junk/FBMOD.ZIP
 http://www.dmsoul.mailru.com/botmatch/bm119gl.zip
+http://www.dmsoul.newmail.ru/bm116se.zip
+http://www.dmsoul.newmail.ru/bm116src.zip
 http://www.dobbsnet.btinternet.co.uk/downloads/quake/dobbsbot15b.zip
 http://www.fileplanet.com/dl.aspx?/planetquake/botarea51/bot/elimpack.zip
 http://www.fileplanet.com/dl/dl.asp?/planetquake/botarea51/bot/elimpack.zip
@@ -216,12 +232,14 @@ http://www.telefragged.com/mirrors/mirror.pl?epidemic/frogbot012b.zip
 http://www.telefragged.com/mirrors/mirror.pl?metro/frogbot012.zip
 http://www.telefragged.com/mirrors/mirror.pl?qnm/fbedit15.zip
 http://www.ugrad.cs.ubc.ca/spider/u6m1/QC/killer.zip
-http://www.users.bigpond.com/clanslug/ClanbotV0.9b.zip
 http://www.users.bigpond.com/clanslug/ClanV0.5Auto.zip
 http://www.users.bigpond.com/clanslug/ClanV0.6Auto.zip
 http://www.users.bigpond.com/clanslug/ClanV0.7HMan.zip
+http://www.users.bigpond.com/clanslug/ClanbotV0.9b.zip
 http://xmark.ausgamers.com/xkteams/xkteams1705.zip
 http://xmark.ausgamers.com/xkteams/xkteams1705s.zip
 http://xmark.ausgamers.com/xkteams/xkteams2.zip
+
+
 
 
