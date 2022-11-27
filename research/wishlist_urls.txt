@@ -1,6 +1,7 @@
 # Quake Bot URL Wishlist
 
 ftp://bluesnews.com/pub/bots/reaprb75.zip
+ftp://cdrom.planetquake.com:2121/holywars/hwqwbotv101c.zip
 ftp://ftp.canvasnet.com/quake/qc/bots/reaprb05.zip
 ftp://ftp.cdrom.com/pub/idgames2/planetquake/tfbot/tfb-v07.zip
 ftp://ftp.cdrom.com/pub/idgames2/quakec/bots/darkbt4.zip
@@ -10,6 +11,7 @@ ftp://ftp.cdrom.com/pub/idgames2/quakec/bots/reaprb05.zip
 ftp://ftp.cdrom.com/pub/idgames2/telefragged/epidemic/frogbot012a.zip
 ftp://ftp.cdrom.com/pub/idgames2/telefragged/metro/frogbot007.zip
 ftp://ftp.cdrom.com/pub/planetquake/holywars/hw_frogbot.zip
+ftp://ftp.cdrom.com/pub/planetquake/holywars/hwqwbotv101c.zip
 ftp://ftp.cdrom.com/pub/quake/quakec/bots/btsk22.zip
 ftp://ftp.cdrom.com/pub/quake/quakec/bots/dmbt21b1.zip
 ftp://ftp.cdrom.com/pub/quake/quakec/bots/doombot.zip
@@ -17,11 +19,15 @@ ftp://ftp.cdrom.com/pub/quake/quakec/bots/qcbot002.zip
 ftp://ftp.cdrom.com/pub/quake/quakec/compilations/wyrmb15.zip
 ftp://ftp.cdrom.com/pub/quake/quakec/compilations/wyrmb2.txt
 ftp://ftp.cdrom.com/pub/quake/quakec/misc/req106a.zip
+ftp://ftp.compulink.co.uk/mirrors/ftp.cdrom.com/pub/planetquake/holywars/hwqwbotv101c.zip
 ftp://ftp.dragonfire.net/users/kkembel/QuakeC/bots/elim13.zip
 ftp://ftp.elogica.com.br/pub/warlock/brbot.exe
+ftp://ftp.epix.net/pub/idgames2/planetquake/holywars/hwqwbotv101c.zip
 ftp://ftp.grayphics.com/pub/frigid/botblast/obots101.hqx
 ftp://ftp.grayphics.com/pub/frigid/botblast/reaper08.sit.hqx
+ftp://ftp.livewire.com.au/pub/planetquake/holywars/hwqwbotv101c.zip
 ftp://ftp.pk.edu.pl/pub/games/id/quaketoys/mods/reaprb75.zip
+ftp://ftp.questnet.net.au/pub/planetquake/holywars/hwqwbotv101c.zip
 ftp://ftp.stomped.com/pub/quake/quakec/weapons/var14.zip
 ftp://ftp.stomped.com/pub/redwood/bots/oak0855.zip
 ftp://ftp.sunet.se/pub/pc/games/idgames2/incoming/darkbt10.zip
@@ -40,6 +46,7 @@ ftp://ftp.telepac.pt/pub/idgames2/telefragged/epidemic/frogbot012.zip
 ftp://ftp.telepac.pt/pub/idgames2/telefragged/epidemic/frogbot012a.zip
 ftp://ftp.telepac.pt/pub/idgames2/telefragged/epidemic/frogbot012b.zip
 ftp://ftp.telepac.pt/pub/idgames2/telefragged/metro/frogbot007.zip
+ftp://mirrors.xmission.com/planetquake/holywars/hwqwbotv101c.zip
 ftp://nctuccca.edu.tw/PC/games/QUAKE/newstuff/guardbot.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf004.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf006.zip
@@ -58,6 +65,7 @@ ftp://quake.mtu.ru/pub/quake/bots/reaper.zip
 ftp://quake.mtu.ru/pub/quake/bots/zeusbot.zip
 ftp://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/idgames2/telefragged/epidemic/frogbot012a.zip
 ftp://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/idgames2/telefragged/metro/frogbot007.zip
+ftp://sunsite.doc.ic.ac.uk/packages/idgames2/planetquake/holywars/hwqwbotv101c.zip
 ftp://ter.ort.spb.ru/Nico/Pathes/Bots/obot100.zip
 http://asp.planetquake.com/dl/dl.asp?/holywars/hwqwbot.exe
 http://asp.planetquake.com/dl/dl.asp?/holywars/hwqwbot.sit
@@ -113,6 +121,7 @@ http://parboil.quakeworld.ru/parboil/src_fbca092.zip
 http://parboil.quakeworld.ru/parboil/src_fbca100.zip
 http://parboil.quakeworld.ru/tappak/fbca102kt-rc1.zip
 http://petervw.club.tip.nl/guardbot.zip
+http://quake.org.pl/files/quake/boty/frogboteditor/fbedit17.zip
 http://quakeintosh.com/files/Paks%20-%20Maps%20-%20Mods%20/Quake%20Bots/%20Omicron%20Bot/OBOTS101.sit
 http://quakemecca.simplenet.com/files/new/kok2.zip
 http://railgun.macquakeinfinity.com/downloads/fbctf024.zip
@@ -239,7 +248,4 @@ http://www.users.bigpond.com/clanslug/ClanbotV0.9b.zip
 http://xmark.ausgamers.com/xkteams/xkteams1705.zip
 http://xmark.ausgamers.com/xkteams/xkteams1705s.zip
 http://xmark.ausgamers.com/xkteams/xkteams2.zip
-
-
-
 
