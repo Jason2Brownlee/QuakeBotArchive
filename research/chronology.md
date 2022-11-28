@@ -17,7 +17,8 @@ Aug 26 1996 | tmbot11.zip | TMBot v1.1.
 Aug 27 1996 | mybot12.zip | MyBot v1.2.
 Aug 28 1996 | mybot13a.zip | MyBot v1.3a.
 Aug 29 1996 | bgbot1.zip | BGBot v1.0.
-Aug 31 1996 | bgadm101.zip | BGADM Bot v1.01.
+Aug ?? 1996 | bgadmbot.zip | BGADMBot v1.0.
+Aug 31 1996 | bgadm101.zip | BGADMBot v1.01.
 Aug 31 1996 | bgbot11.zip | BGBot v1.1.
 Aug 31 1996 | wisp.zip | Wisp v1.0.
 Sep 01 1996 | bgbot12.zip | BGBot v1.2.
@@ -50,7 +51,7 @@ Sep ?? 1996 | swbot101.zip | Swimming bot v1.01.
 Sep ?? 1996 | swbot102.zip | Swimming bot v1.02.
 Sep 29 1996 | swbot103.zip | Swimming bot v1.03.
 Oct 01 1996 | iwbot21.zip | IronWulvt's Deathmatch Bot v2.1.
-Oct 03 1996 | reaprb05.zip | ReaperBot v0.5 (* [estimated](https://www.bluesnews.com/archives/sept96-5.html)).
+Oct 03 1996 | reaprb05.zip | ReaperBot v0.5.
 Oct 10 1996 | swbot104.zip | Swimming bot v1.04.
 Oct 12 1996 | reaprb06.zip | ReaperBot v0.6.
 Oct 18 1996 | botskn18.zip | BotSkin v1.8.
