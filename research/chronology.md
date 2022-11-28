@@ -2,29 +2,29 @@
 
 Estimated public release history for early Quake bots (circa 1996).
 
-Release dates were determined from the content of readme files, the timestamp of files in the archive and the FTP upload timestamp (where available). Additionally, release dates are corroborated with Usenet posts where possible. It is typical for the release date in the readme to be premature compared to file and FTP timestamps, in which case the latter is used with an asterisk annotation.
+Release dates were determined from the content of readme files, the timestamp of files in the archive and the FTP upload timestamp (where available). Additionally, release dates are corroborated with Usenet posts where possible. It is typical for the release date in the readme to be premature compared to file and FTP timestamps, in which case the latter is used.
 
 Date | Release | Comment
 --- | --- | ---
 Jul 25 1996 | qcc.tar.gz | QCC (compiler) source and QuakeC (.qc) source.
-Aug 10 1996 | holo1.zip | HoloSelf v1.0 (pre-cursor to tmbot).
+Aug 11 1996 | holo1.zip | HoloSelf v1.0 (pre-cursor to tmbot).
 Aug 14 1996 | holo2.zip | HoloSelf  v2.0 (pre-cursor to tmbot).
-Aug 21 1996 | tmbot1.zip | TMBot v1.0.
-Aug 24 1996* | mybot.zip | MyBot v1.0.
-Aug 25 1996* | dmbot1.zip | DMBot v1.0.
-Aug 25 1996* | mybot11.zip | MyBot v1.1.
+Aug 22 1996 | tmbot1.zip | TMBot v1.0.
+Aug 24 1996 | mybot.zip | MyBot v1.0.
+Aug 24 1996 | dmbot1.zip | DMBot v1.0.
+Aug 25 1996 | mybot11.zip | MyBot v1.1.
 Aug 26 1996 | tmbot11.zip | TMBot v1.1.
-Aug 27 1996* | mybot12.zip | MyBot v1.2.
-Aug 28 1996* | bgadmbot.zip | BGADM Bot v1.00.
-Aug 28 1996* | mybot13a.zip | MyBot v1.3a.
-Aug 29 1996* | bgbot1.zip | BGBot v1.0.
+Aug 27 1996 | mybot12.zip | MyBot v1.2.
+Aug 28 1996 | bgadmbot.zip | BGADM Bot v1.00.
+Aug 28 1996 | mybot13a.zip | MyBot v1.3a.
+Aug 29 1996 | bgbot1.zip | BGBot v1.0.
 Aug 31 1996 | bgadm101.zip | BGADM Bot v1.01.
 Aug 31 1996 | bgbot11.zip | BGBot v1.1.
-Aug 31 1996* | wisp.zip | Wisp v1.0.
+Aug 31 1996 | wisp.zip | Wisp v1.0.
 Sep 01 1996 | bgbot12.zip | BGBot v1.2.
 Sep 01 1996 | iwbot1.zip | IronWulvt's Deathmatch Bot v1.0.
-Sep 02 1996* | mybot16.zip | MyBot v1.6.
-Sep 03 1996* | tlgbot.zip | TLGBot v1.2a.
+Sep 02 1996 | mybot16.zip | MyBot v1.6.
+Sep 03 1996 | tlgbot.zip | TLGBot v1.2a.
 Sep 03 1996 | bgbot125.zip | BGBot v1.25.
 Sep 03 1996 | roambot1.zip | RoamBot v0.9.
 Sep 03 1996 | bgbot13.zip | BGBot v1.3.
@@ -44,14 +44,14 @@ Sep ?? 1996 | elim13.zip | Eliminator Bot v1.3.
 Sep 19 1996 | elim14.zip | Eliminator Bot v1.4.
 Sep 21 1996 | bplayer2.zip | BPlayer Bot v2.00.
 Sep 24 1996 | vbot1.zip | Victim Bot v1.0.
-Sep 26 1996* | vbot11.zip | Victim Bot v1.1.
+Sep 26 1996 | vbot11.zip | Victim Bot v1.1.
 Sep 29 1996 | bgbot20a.zip | BGBot v2.00a.
 Sep ?? 1996 | swbot1.zip | Swimming bot v1.00.
 Sep ?? 1996 | swbot101.zip | Swimming bot v1.01.
 Sep ?? 1996 | swbot102.zip | Swimming bot v1.02.
 Sep 29 1996 | swbot103.zip | Swimming bot v1.03.
-Oct 01 1996* | iwbot21.zip | IronWulvt's Deathmatch Bot v2.1.
-Oct 03 1996* | reaprb05.zip | ReaperBot v0.5 (* [estimated](https://www.bluesnews.com/archives/sept96-5.html)).
+Oct 01 1996 | iwbot21.zip | IronWulvt's Deathmatch Bot v2.1.
+Oct 03 1996 | reaprb05.zip | ReaperBot v0.5 (* [estimated](https://www.bluesnews.com/archives/sept96-5.html)).
 Oct 10 1996 | swbot104.zip | Swimming bot v1.04.
 Oct 12 1996 | reaprb06.zip | ReaperBot v0.6.
 Oct 18 1996 | botskn18.zip | BotSkin v1.8.
@@ -63,7 +63,7 @@ Oct 27 1996 | botskn20.zip | BotSkin v2.0.
 Nov 04 1996 | btskn22.zip | BotSkin v2.2.
 Nov 11 1996 | reaprb75.zip | ReaperBot v0.75.
 Nov 15 1996 | reaprb08.zip | ReaperBot v0.8.
-Nov 17 1996* | reaprb81.zip | ReaperBot v0.81.
+Nov 17 1996 | reaprb81.zip | ReaperBot v0.81.
 ??? ?? 1996 | cujo12b.zip | CujoBot v1.2b.
 ??? ?? 1996 | cujo12c.zip | CujoBot v1.2c.
 Nov 27 1996 | cujo13.zip | CujoBot v1.3.
@@ -72,7 +72,7 @@ Nov 27 1996 | cujo13.zip | CujoBot v1.3.
 ??? ?? 1996 | zeus202b.zip | ZeusBot v2.02.
 Dec 20 1996 | zeus203b.zip | ZeusBot v2.03.
 Jan 08 1997 | zeus204.zip | ZeusBot v2.04.
-Jan 09 1997* | zeus2041.zip | ZeusBot v2.041.
+Jan 09 1997 | zeus2041.zip | ZeusBot v2.041.
 Jan 09 1997 | zeus2042.zip | ZeusBot v2.042.
 Feb 12 1996 | cujo14.zip | CujoBot v1.4.
 Jun 03 1997 | zeus205.zip | ZeusBot v2.05.
@@ -102,7 +102,7 @@ Feb 22 2000 | frikbt09.zip | Frikbot v0.09.
 ??? ?? 2000 | frikbt09a.zip | Frikbot v0.09a.
 May 16 2000 | frikbt09b.zip | Frikbot v0.09b.
 Jul 27 2001 | fbx.zip | Frikbot v0.10.
-Aug 06 2001* | fbxa.zip | Frikbot v0.10.1.
-Nov 22 2004* | fbxb.zip | Frikbot v0.10.1b.
+Aug 06 2001 | fbxa.zip | Frikbot v0.10.1.
+Nov 22 2004 | fbxb.zip | Frikbot v0.10.1b.
 May 19 2006 | fbxc.zip | Frikbot v0.10.2.
 
