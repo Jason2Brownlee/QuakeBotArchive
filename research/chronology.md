@@ -15,7 +15,6 @@ Aug 24 1996 | dmbot1.zip | DMBot v1.0.
 Aug 25 1996 | mybot11.zip | MyBot v1.1.
 Aug 26 1996 | tmbot11.zip | TMBot v1.1.
 Aug 27 1996 | mybot12.zip | MyBot v1.2.
-Aug 28 1996 | bgadmbot.zip | BGADM Bot v1.00.
 Aug 28 1996 | mybot13a.zip | MyBot v1.3a.
 Aug 29 1996 | bgbot1.zip | BGBot v1.0.
 Aug 31 1996 | bgadm101.zip | BGADM Bot v1.01.
