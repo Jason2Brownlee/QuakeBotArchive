@@ -19,8 +19,8 @@ Aug 28 1996 | mybot13a.zip | MyBot v1.3a.
 Aug 29 1996 | bgbot1.zip | BGBot v1.0.
 Aug ?? 1996 | bgadmbot.zip | BGADMBot v1.0.
 Aug 31 1996 | bgadm101.zip | BGADMBot v1.01.
-Aug 31 1996 | bgbot11.zip | BGBot v1.1.
 Aug 31 1996 | wisp.zip | Wisp v1.0.
+Sep 01 1996 | bgbot11.zip | BGBot v1.1.
 Sep 01 1996 | bgbot12.zip | BGBot v1.2.
 Sep 01 1996 | iwbot1.zip | IronWulvt's Deathmatch Bot v1.0.
 Sep 02 1996 | mybot16.zip | MyBot v1.6.
