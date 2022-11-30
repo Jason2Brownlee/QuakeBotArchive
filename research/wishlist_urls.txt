@@ -229,6 +229,7 @@ http://www.planetquake.com/requiem/files/req_qw.zip
 http://www.planetquake.com/requiem/files/reqqw104.zip
 http://www.planetquake.com/requiem/files/reqqw20i.zip
 http://www.planetquake.com/requiem/files/reqqw23.zip
+http://www.quakehole.com/files/quakec/reaprb75.zip
 http://www.rmbwenw.nl/botarea51/files/xreaper/setup.exe
 http://www.telefragged.com/mirrors/mirror.pl?be/fmods/Accuracy.zip
 http://www.telefragged.com/mirrors/mirror.pl?be/fmods/demos/frogbot_demo.zip
