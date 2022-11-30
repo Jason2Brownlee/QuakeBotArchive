@@ -1,0 +1,235 @@
+Filename : GLYDE.ZIP
+Version : 1.00
+Date : 28 DEC 1996
+
+Author(s): RANDY D. SHOULTZ AND A BUNCH OF PEOPLE WHO PUT .QC FILES IN
+WITH
+THEIR PATCHES( OBVIOUSLY MOST OF THIS WAS CUT AND PASTE PROGRAMING)
+
+Email : GL...@PACBELL.NET
+
+Credits : Jonathan E. Wright (CUJO 1.00)
+Micheal Polucha (TM Bot),
+Tim Polucha (TM Bot), and
+Nathaniel Gorham (DM Bot)
+p...@iastate.edu .(BOMB7)
+Charlie Zimmerman (CSPIKE)
+B.K. Adams (MISSTEL)
+Hellblazr (SPIKES)
+John Carmack (QCCDOS)
+Iikka Paavolainen (WISP 1.0)
+ID Software for designing Quake with Quake C!
+
+DESCRIPTION: THIS COMBO PATCH IS MY 1st TRY AT QUAKE C!! I USED WIN95
+WORD PAD TO CUT AND PASTE
+THE .QC AND PROGS.SRC FILES AND QUAKECC TO COMPILE THEM. I GOT ALL THE
+SOURCE CODE FROM
+WWW.STOMPED.COM SO I'D LIKE TO THANK ALL THE AUTHORS WHO INCLUDED THE
+SOURCE CODE WITH THEIR
+PATCHES IT MAKES IT ALOT EASIER FOR AMATURES LIKE ME TO MODIFY AND
+EVENTUALLY WRITE PATCHES FOR
+QUAKE! THIS PATCH GIVES YOU 2 NEW MODES FOR THE GRENADE LAUNCHER,1 FOR
+THE ROCKET LAUNCHER, CUJO
+THE ATTACK DOG BOT,EXPLOSIONS BLAST OUT EXPLODING SPIKES AND SHRAPNEL,
+LIGHT NAILGUN FIRES SPIKES
+THAT STICK OR BOUNCE OFF WALLS AND EXPLODE WHEN THEY HIT FLESH SENDING
+OUT EXPLODING SHRAPNEL,
+THE SUPER NAILGUN ALWAYS LOOKED LIKE A GRENADE LAUNCHER AND NOW IT FIRES
+GRENADE LIKE SPIKES THAT
+STICK OR EXPLODE WHEN THEY HIT WALLS AND ENEMIES(NOT A GOOD IDEA TO USE
+IN CLOSE QUARTERS ESPECIALY
+SINCE THERE IS A SLIGHT DELAY WHEN SOME OF THE SPIKES STICK! BUT IT
+LOOKS REALLY COOL WHEN YOU HOSE
+SOMETHING DOWN)
+
+NEW MODES!!!!!!
+
+2 More Grenade Launcher Modes And 1 Extra Rocket Launcher Mode:
+
+a) Firewall - a greande is released, after a few bounces it shoots up in
+the air and explodes
+releasing 10 more grenades that fall down to the ground and explode in
+midair creating a sort of
+a firewall. This takes 10 rockets.
+b) Proximity Mine - as you set a mine, there's a 1.5 sec arming delay
+before the mine is armed. After the delay is over, the mine floats up
+in the air and starts rotating thus indicating it has been armed.
+Although
+it's possible to jump over a mine, it's advised to rather set it off
+with
+an explosion - a grenade or a rocket will do. The mine, if not
+disturbed,
+will self-detonate in 3 min.
+c) Gibgun - similar to rocket , only when a gibgun rocket hits your
+victim
+it gets inside his body and starts rotating thus making your opponent
+suffer a great deal. Finaly, the gibgun rocket explodes inside your
+opponent's body often gibbing him to pieces.
+
+To quickly check out this patch use 'impulse 9' console command to get
+ammo and weapons then use '6' or '7' keys to switch between grenade
+launcher
+or rocket launcher modes. The Gibgun Mode has to be used on an opponent
+or
+a monster.
+
+Allows missiles -- rockets, grenades, and nails -- to be teleported.
+Fire a barrage of grenades
+into a teleporter and rest assurred that anyone unlucky enough to be
+standing near the teleport
+destination will get a nice surprise.
+
+Spikes now live on after they hit the walls. Some of them deflect and
+bounce all over the place.
+Some stick in the walls for a time before falling to the ground and
+disappearing. Certain Nails,
+when they hit something that bleed, explode, when they hit a wall,
+ceiling, floor, or other
+structure, they explode or stick, if they stick it will arm after 1
+second, then after 5 seconds
+fall, sometimes it may explode.
+
+CUJO!!!!!!
+a personal attack dog which will follow the player and attack his
+enemies, even drawing fire in
+the process.
+
+The dog will not attack zombies, since it cannot gib them.
+
+This bot is based on original dog code and some code from DM Bot 1.0.
+The dog does not have any
+manual control functions like those bots do. He's all auto or he's
+dead.
+
+Impulse 100 Activates and Deactivates the dog
+
+Impulse 104 Teleport the dog to your location.
+
+Impulse 105 Turns on Cujo's collar lamp. Great for dark places.
+
+Bind these impulses to keys to make commanding Cujo easy. For example,
+to
+make the Q key activate and deactivate Cujo put this line in your
+config.cfg file (or type it in the Quake console):
+
+BIND Q "IMPULSE 100"
+
+Now, every time you press Q Cujo will be toggled between his active and
+inactive state. You can bind the other two impulses in a similar
+manner.
+
+þ Cujo can draw enemy fire, lessening the amount of damage the player
+takes.
+
+þ Seeks out monsters or other players and attacks them.
+
+þ Will continue to attack as long as an enemy target is visible.
+
+þ Will not attack teammates under Teamplay rules.
+
+þ Cujo can follow the player through portals.
+
+þ Cujo will not activate trigger fields (such as light triggers and
+traps)
+
+þ Cujo is trained *not* to attack zombies, allowing you to toss a
+grenade
+in there without blowing up your dog in the process. (But he will
+sometimes lick their gibs when your done - hey, dogs will be dogs!)
+
+þ Cujo is a special, genetically enhanced breed of Rottweiler with 8
+times
+the endurance of other dogs his size. He can cause up to twice as
+much
+damage per attack as his piddly cousins, too. And to top it all off,
+Cujo is wearing a special suit of armor designed specifically with him
+in mind. Cujo is one *bad* dog.
+
+þ Cujo cannot be injured by your shotgun blasts, axe, or thunderbolts,
+but
+you can hurt him with nailguns and rockets, so keep this in mind when
+firing at an enemy your faithful companion is already tearing to
+pieces.
+
+þ Cujo is equipped with a special device based on slipgate technology.
+Should he become separated from you, you can teleport him to your own
+location instantly. Cujo is even smart enough to activate this device
+on his own when the distance becomes very great.
+
+þ Cujo does not need to be fed. He takes care of this himself.
+
+þ Cujo just loves to tackle big Shamblers while you put the nails to
+'em!
+
+þ This is not Sea Quest, so no amount of technology will allow you to
+talk
+to an animal. He jsut growls and barks like animals do.
+
+The wisp is a flying bot (that resembles a lava ball due to a lack of a
+more accurate model) that
+you can summon and banish at will, freeze/unfreeze, recall, and even
+ride with! It will attack
+other players and monsters that it sees, and hunt semi-intelligently for
+targets when none are
+near.100 Summon/banish wisp Creates/destroys the
+wisp. There can be only one wisp per player.101 Recall
+wisp Teleports the wisp to your current position102
+Freeze/unfreeze wisp Freezes the wisp into its current
+location. In this state the wisp will not even
+attack.103 Ride wisp/drop off The wisp grabs you to
+itself, wherever you happen to be, and drags you behind
+itself through the air. You can look around and fire your weapons in
+the same way
+as when you are on the ground. The wisp drags you through any hole it
+passes
+through itself like you were made of putty.
+Bugs:
+
+þ Cujo does not jump or walk past edges unless he is attacking, at which
+point he can fall into water and become lost (I hope to find a way to
+fix this...)
+
+þ Cujo gets lost, it happens pretty often.
+
+
+þ Sometimes Cujo will continue trying to attack an enemy, even when he
+can't see it. Teleporting him to you will fix the problem, as will
+finding
+and killing the enemy he's after.
+
+The wisp doesn't like cujo very much if they meet cujo will get
+fried!!!!!
+
+
+Theres alot of spikes flying around with this thing.
+
+After the wisp searches around for a while it sometimes will just quit
+roaming and wait. I guess
+it gets tired of flying around in circles.
+
+Sometimes a missile, especially nails, fail to teleport. Some
+teleporters teleport missiles in the
+opposite direction that they teleport players.
+
+Spikes sometimes stick in a player or enemy, and when they move it just
+hangs in mid air.
+If you find and more buggs or know how to fix them let me know!!
+
+I lost the source code when i reformatted my hard drive, the backup was
+bad. Sorry if i make another
+version I'll include it!!!
+
+Tell me how you like my patch and what you think I should do to improve
+it!
+GL...@PACBELL.NET
+
+º Copyright and Distribution Permissions º
+
+
+Authors MAY use these modifications as a basis for other
+publically available work. Please send me any modifications
+you make!
+
+You may distribute this Quake modification in any electronic
+format as long as this description file remains intact and unmodified
+and is retained along with all of the files in the archive.

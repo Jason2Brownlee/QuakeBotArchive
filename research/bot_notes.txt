@@ -2843,6 +2843,12 @@ CTF Plugin Playable
 	pluin ctf + bots into any mod, also playable
 	http://leileilol.mancubus.net/static/files/ctfprogs.zip
 	http://leileilol.mancubus.net/static/files/ctfplug2.zip
+glide quake
+	glide
+	https://groups.google.com/g/alt.games.quake/c/BW27-0W3280/m/Ut4zrQTpqrsJ
+	zip file is attached but corrupt it seems
+	Randy D. Shoultz
+	- adds cujo and wisp
 
 
 

@@ -121,6 +121,7 @@ Fun With Dogz (BGBot, Cujo) | Thomas Hansen | [dogfun20.zip](bin/dogfun20.zip) (
 GYPObot | Stephen Dobbs | [gypobot.zip](bin/gypobot.zip)
 Gideon Bot | Matthew Turvey | [gidbot.zip](bin/gidbot.zip) ([txt](bin/gidbot.txt))
 GlacierBot | Rainier Rapera aka "IceDagger" | [gb027b.zip](bin/gb027b.zip)<br>gbped10.zip
+Glyde Quake (cujo, wisp) | Randy D. Shoultz | [glydeqk.zip](bin/glydeqk.zip) ([glyde.txt](bin/glyde.txt))
 GuardBot | Peter van Wingerden | [grdbot23.zip](bin/grdbot23.zip) ([txt](bin/grdbot23.txt))<br>grdbot13.zip<br>guardbot.zip
 Hellsmash (Frikbot) | Khin Mannering aka "Dr. Shadowborg" | [qsr04apatch1.7z](bin/qsr04apatch1.7z)<br>[qsr04a.7z](bin/qsr04a.7z)<br>[qsrbeta3a.zip](bin/qsrbeta3a.zip)<br>[qsrbeta3a_src.zip](bin/qsrbeta3a_src.zip)<br>[qsrbeta3x.zip](bin/qsrbeta3x.zip)<br>[qsrbeta3.zip](bin/qsrbeta3.zip)<br>qsrbeta1b.zip<br>qsrbeta1.zip
 Holo Soldier FMOD (Frogbot) | Algirdas Kepezinskas aka "ZeCybEr" | holomod.zip
@@ -242,6 +243,7 @@ Xreaper | Ruud Heemskerk aka "Mephisto" | [xreaperb130.zip](bin/xreaperb130.zip)
 Zeus Bot | Jonathan E. Wright aka "Nelno the Amoeba" | [zeus205s.zip](bin/zeus205s.zip) ([txt](bin/zeus205s.txt))<br>[zeus205.zip](bin/zeus205.zip) ([txt](bin/zeus205.txt))<br>[zeus_src.zip](bin/zeus_src.zip) ([txt](bin/zeus_src.txt))<br>[zeus2042.zip](bin/zeus2042.zip)<br>[zeus2041.zip](bin/zeus2041.zip)<br>[zeus204.zip](bin/zeus204.zip)<br>[zeus203b.zip](bin/zeus203b.zip) ([txt](bin/zeus203b.txt))<br>zeus202b.zip ([txt](bin/zeus202b.txt))<br>zeus201.zip<br>zeus20.zip<br>[zeus10.zip](bin/zeus10.zip) ([txt](bin/zeus10.txt))
 Zeus Hunt (Rumble) | Christopher Dozier "Arwing-X" | [rumble1.zip](bin/rumble1.zip) ([txt](bin/rumble1.txt))<br>[rumble.zip](bin/rumble.zip) ([txt](bin/rumble.txt))
 darKMajick (Wraith Bot) | Brendan McArdle aka "Nightbringer" | [dkmjk20.zip](bin/dkmjk20.zip) ([txt](bin/dkmjk20.txt))<br>[darkmajk.zip](bin/darkmajk.zip) ([txt](bin/darkmajk.txt))
+
 
 ## Help
 
