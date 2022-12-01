@@ -1,0 +1,105 @@
+Title     : ReaperBot to Quake DC (see ReaperBot info file included in this zip)
+Filename  : reaper2dc02.zip
+Version   : 0.2
+Date      : 2001-05-20
+Author    : Ludvig Holmström (Steven Polge is the original author!)
+Email     : ludvig@yesbox.net
+Credits   : Steven Polge for his bot... :)
+Build time: 4-5 hour so far, most of the time of testing and writing the readme ;)
+
+Type of Mod
+-----------
+Quake C  : yes
+Sound    : no
+MDL      : no
+Level    : no
+
+Format of QuakeC (if a Quake C Mod)
+-----------------------------------
+unified diff  : no (?)
+context diff  : no (?)
+.qc files     : no 
+progs.dat     : yes
+
+
+Description of the Modification
+-------------------------------
+!IMPORTANT! - This mod will be of no use for ordinary PC-users, it's made for Quake DC only!
+
+This is the famous ReaperBot merged with the popular DC port of Quake. Now, even users
+without keyboard or good knowledge in Quake can meet the deathmatch enemies in all the
+standard deathmatch arenas.
+
+How to Install the Modification (DC only!)
+------------------------------------------
+Be sure that you have both pak0.pak and pak1.pak from the full retail version of
+quake before you contiue any further!
+
+1. Download this .zip (reaper2dc.zip)
+2. Unzip the progs.dat file included within it, it doesn't matter where.
+3. Use your favorite .pak editor and overwrite the original progs.dat file in pak0.pak
+   with the new one you just extracted.
+4. Save the pak.
+5. Burn DC Quake on a cd as told in the readme.
+6. PLAY! ;)
+
+How to play the Modification
+----------------------------
+1. Start up the game on your DC.
+2. Choose "single-player game".
+3. Wait.
+4. When you join the game a couple of bots automaticly joins and will fight you and
+   the other bots. The game goes on for 5 minutes, then the maps rotate and the
+   procedure repeates. There is no specific goal of the game, just some happy
+   fragging :)
+
+Impulses for the Modification
+-----------------------------
+See original ReaperBot info file included in this zip for impulses and further info.
+
+Revision History
+----------------
+	New features in v0.2
+	--------------------
+	* Added deathmatch-timer, tells you how much time there is left
+	* 2 new maps added to the map rotation cycle: Start and E1M7
+	* Map cycle is rearanged, now rotate like this:	-DM5
+							-DM2
+							-DM4
+							-E1M7
+							-DM1
+							-DM6
+							-Start
+							-DM3
+	* Crosshair is automaticly endabled when game starts up
+	* Changed the skill from 1 to 0.5
+	* Changed player name to DC-Player
+
+	Features in v0.1
+	----------------
+	* Bots join automaticly, no need for keyboard
+	* Multiplayer starts up even though it's not chooseable from the menu
+	* Map rotation every 5 minute
+
+	Known bugs
+	----------
+	- Something strange's up with the player skin (when dead)
+	- The timer intends to repeat it's messege like 4 times
+
+Copyright and Distribution Permissions
+--------------------------------------
+The modifications included in this archive are Copyright 1996, Steven Polge.
+The original QuakeC source is Copyright 1996, id software.
+Although Steven Polge make clear that his bots may not be changed or modified
+in any way for public use, this mod only modifies minor details in non-bot
+code to make the bots work on the Dreamcast-version of Quake. The ReaperBot code
+itself is still intact and unmodified. If the author still is unhappy with
+the mod, I will with no further notice take it offline. ;)
+
+Availability
+------------
+
+This modification is available from the following places:
+
+-Rockride homepage at http://www.rockride.cjb.net
+-DC Emulation at http://www.dcemulation.org

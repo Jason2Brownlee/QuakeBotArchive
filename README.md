@@ -180,7 +180,7 @@ Reaper + Painkeep | ? | [pk-reap.zip](bin/pk-reap.zip)
 Reaper + Painkeep | Bent Svendsen aka "Decker" | [pkbot.zip](bin/pkbot.zip) ([txt](bin/pkbot.txt))
 Reaper + Scourge of Armagon | Bent Svendsen aka "Decker" | [hipreap3.zip](bin/hipreap3.zip) ([txt](bin/hipreap3.txt))
 Reaper Bot | Steven Polge | [reaprb81.zip](bin/reaprb81.zip) ([txt](bin/reaprb81.txt))<br>[reaprb80.zip](bin/reaprb80.zip)<br>reaprb75.zip ([txt](bin/reaprb75.txt))<br>[reaprb07.zip](bin/reaprb07.zip) ([txt](bin/reaprb07.txt))<br>[reaprb06.zip](bin/reaprb06.zip)<br>[reaprb05.zip](bin/reaprb05.zip)
-Reaper DreamCast (ReaperDC) | Ludvig Holmstrom | [reaper2dc02.zip](bin/reaper2dc02.zip)<br>[reaper2dc01.zip](bin/reaper2dc01.zip)
+Reaper DreamCast (ReaperDC) | Ludvig Holmstrom | [reaper2dc02.zip](bin/reaper2dc02.zip) ([txt](bin/reaper2dc02.txt))<br>[reaper2dc01.zip](bin/reaper2dc01.zip)
 ReaperFX Bot | Paul Johnstone aka "Pob the Impaler" | [reaperfx.zip](bin/reaperfx.zip) ([txt](bin/reaperfx.txt))
 Reformed Reaper Bot | "win32ch" | [rrbotprogs.zip](bin/rrbotprogs.zip) <br>[rrbotsrc.zip](bin/rrbotsrc.zip)
 Requiem + QW | Alexander Fiedler aka "Requiem" | [qwreq24.zip](bin/qwreq24.zip)<br>[reqpak2.zip](bin/reqpak2.zip)<br>reqqwsrc.zip<br>reqqw23.zip<br>reqqw20i.zip<br>reqqw104.zip<br>[reqqw103.zip](bin/reqqw103.zip)<br>req_qw.zip
