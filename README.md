@@ -243,7 +243,7 @@ Xreaper | Ruud Heemskerk aka "Mephisto" | [xreaperb130.zip](bin/xreaperb130.zip)
 Zeus Bot | Jonathan E. Wright aka "Nelno the Amoeba" | [zeus205s.zip](bin/zeus205s.zip) ([txt](bin/zeus205s.txt))<br>[zeus205.zip](bin/zeus205.zip) ([txt](bin/zeus205.txt))<br>[zeus_src.zip](bin/zeus_src.zip) ([txt](bin/zeus_src.txt))<br>[zeus2042.zip](bin/zeus2042.zip)<br>[zeus2041.zip](bin/zeus2041.zip)<br>[zeus204.zip](bin/zeus204.zip)<br>[zeus203b.zip](bin/zeus203b.zip) ([txt](bin/zeus203b.txt))<br>zeus202b.zip ([txt](bin/zeus202b.txt))<br>zeus201.zip<br>zeus20.zip<br>[zeus10.zip](bin/zeus10.zip) ([txt](bin/zeus10.txt))
 Zeus Hunt (Rumble) | Christopher Dozier "Arwing-X" | [rumble1.zip](bin/rumble1.zip) ([txt](bin/rumble1.txt))<br>[rumble.zip](bin/rumble.zip) ([txt](bin/rumble.txt))
 darKMajick (Wraith Bot) | Brendan McArdle aka "Nightbringer" | [dkmjk20.zip](bin/dkmjk20.zip) ([txt](bin/dkmjk20.txt))<br>[darkmajk.zip](bin/darkmajk.zip) ([txt](bin/darkmajk.txt))
-
+Reaper DreamCast (ReaperDC) | Ludvig Holmstrom | [reaper2dc02.zip](bin/reaper2dc02.zip)<br>[reaper2dc01.zip](bin/reaper2dc01.zip)
 
 ## Help
 
@@ -266,4 +266,4 @@ Lists of known files missing from the archive.
 
 This quake bot archive would not be as complete as it is without the generousness help from the Quake community.
 
-Special thank you to: John Crickett, Joel Baxter aka "Johnny Law", Hannes aka "Spirit" (from quaddicted), Fabiano D. Amorim aka "vegetous", Benjamin Darling aka "Electro", Rui Neto aka "Trinca", Rich Whitehouse aka "thefatal", Marko Permanto aka "Urre", Mark Wheeler, Daniel Svensson, Michael Kamensky, and Chris Winger.
+Special thank you to: John Crickett, Joel Baxter aka "Johnny Law", Hannes aka "Spirit" (from quaddicted), Fabiano D. Amorim aka "vegetous", Benjamin Darling aka "Electro", Rui Neto aka "Trinca", Rich Whitehouse aka "thefatal", Marko Permanto aka "Urre", Mark Wheeler, Daniel Svensson, Michael Kamensky, Chris Winger, and Wintertime.
