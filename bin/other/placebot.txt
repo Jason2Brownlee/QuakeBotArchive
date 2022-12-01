@@ -1,0 +1,78 @@
+Title    : Target Player Place Patch
+Filename : Place.zip
+Version  : 1.00
+Date     : 11/01/97
+Authors  : Vengence of The Lone Gunmen
+Email    : s.winstonbrown@student.qut.edu.au
+Credits  : id software for their killer game Quake!
+
+Build time: a couple of hours
+
+Type of Mod
+-----------
+Quake C  : yep!
+Sound    : nope.
+MDL      : nope.
+
+Format of QuakeC (if a Quake C Mod)
+-----------------------------------
+unified diff  : no
+context diff  : no 
+.qc files     : no
+progs.dat     : yep (well, technically).
+
+Description of the Modification
+-------------------------------
+
+Have you had trouble taking good screen-shots, well this patch was design
+to help.  You can now spawn these Target Player Bots where ever a player
+can go.  They can be killed or gibbed by any projectile weapon.
+
+Commands:
+Simply start Quake with the 'Quake -game Place' or whatever
+directory you put it in.
+
+   Impulse  150 - Spawns Target player with an Axe
+   Impulse  151 - Spawns Target player with a Gun
+
+Source code is availiable for those who want it.  The code's nothing
+special, basically it is just a bot that can't move or shoot.  Perfect
+for those lamers who need to practise gibbing players.. :)
+
+Known bugs
+* Packet Overflow when you try to gib heaps of them at once.
+
+How to Install the Modification
+-------------------------------
+
+Create a directory called place as a subdirectory in your Quake directory
+(parallel to the ID1 directory) extract the archive to the place directory.
+
+To play, type quake -game place from the Quake directory.  This modification
+only works with the registered version of Quake.
+
+Author Information
+------------------
+Author of the TLG Base Level for Quake
+and the Quake Dragon.
+
+Copyright and Distribution Permissions
+--------------------------------------
+Copyright 1996 Vengence of The Lone Gunmen.
+QuakeC source is Copyright 1996, id software.
+
+Authors MAY use this patch as a base for other publically available work,
+but this patch MAY NOT, repeat, MAY NOT be packaged on a CD-ROM without
+my permission!!
+
+You may distribute this Quake modification in any electronic format as long
+as all the files in this archive remain intact and unmodified, and doesn't
+conflict with anything I've said above.
+
+Availability
+------------
+
+This patch is available from the following places:
+
+FTP   : ftp.cdrom.com
+HTTP  : http:/tlg.powerup.com.au/ (The Lone Gunmen HQ)

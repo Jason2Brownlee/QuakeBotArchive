@@ -67,6 +67,7 @@ ftp://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/idgames2/telefragged/epidem
 ftp://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/idgames2/telefragged/metro/frogbot007.zip
 ftp://sunsite.doc.ic.ac.uk/packages/idgames2/planetquake/holywars/hwqwbotv101c.zip
 ftp://ter.ort.spb.ru/Nico/Pathes/Bots/obot100.zip
+http://203.32.12.18/project/placebot.zip
 http://asp.planetquake.com/dl/dl.asp?/holywars/hwqwbot.exe
 http://asp.planetquake.com/dl/dl.asp?/holywars/hwqwbot.sit
 http://asp.planetquake.com/dl/dl.asp?/holywars/hwqwbot.zip
@@ -249,4 +250,3 @@ http://www.users.bigpond.com/clanslug/ClanbotV0.9b.zip
 http://xmark.ausgamers.com/xkteams/xkteams1705.zip
 http://xmark.ausgamers.com/xkteams/xkteams1705s.zip
 http://xmark.ausgamers.com/xkteams/xkteams2.zip
-

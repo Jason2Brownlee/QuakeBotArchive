@@ -251,6 +251,7 @@ zeus201.zip
 zeus202b.zip
 glydeqk.zip
 glyde.zip
+placebot.zip
 
 # mac stuff
 frogbot012.sit
