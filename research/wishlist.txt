@@ -140,6 +140,8 @@ frogbot012.zip
 frogbot012a.zip
 frogbot012b.zip
 gbped10.zip
+glyde.zip
+glydeqk.zip
 grdbot13.zip
 guardbot.zip
 hhbot.zip
@@ -150,6 +152,8 @@ holyfbotmod07.zip
 holyfbotmod08.exe
 holyfbotmod09.exe
 holyfbotmod11.exe
+hw_frogbot.exe
+hw_frogbot.sit.bin
 hw_frogbot.zip
 hw_frogbot14.zip
 hw_frogbot14f.zip
@@ -183,6 +187,7 @@ orionbots_v3_ra.zip
 paddybot.zip
 paddybot02.zip
 pak2pak.zip
+placebot.zip
 prodigy35b1.zip
 progdet.zip
 qcbot001.zip
@@ -249,9 +254,6 @@ xkteams2.zip
 zeus20.zip
 zeus201.zip
 zeus202b.zip
-glydeqk.zip
-glyde.zip
-placebot.zip
 
 # mac stuff
 frogbot012.sit

@@ -30,6 +30,8 @@ ftp://ftp.pk.edu.pl/pub/games/id/quaketoys/mods/reaprb75.zip
 ftp://ftp.questnet.net.au/pub/planetquake/holywars/hwqwbotv101c.zip
 ftp://ftp.stomped.com/pub/quake/quakec/weapons/var14.zip
 ftp://ftp.stomped.com/pub/redwood/bots/oak0855.zip
+ftp://ftp.stomped.com/pub/redwood/bots/theoak.txt
+ftp://ftp.sunet.se/pub/pc/games/idgames2//planetquake/qca/tfb-v07.zip
 ftp://ftp.sunet.se/pub/pc/games/idgames2/incoming/darkbt10.zip
 ftp://ftp.sunet.se/pub/pc/games/idgames2/incoming/dmbt20b3.zip
 ftp://ftp.sunet.se/pub/pc/games/idgames2/newstuff/dmbt20b2.zip
@@ -123,6 +125,11 @@ http://parboil.quakeworld.ru/parboil/src_fbca100.zip
 http://parboil.quakeworld.ru/tappak/fbca102kt-rc1.zip
 http://petervw.club.tip.nl/guardbot.zip
 http://quake.org.pl/files/quake/boty/frogboteditor/fbedit17.zip
+http://quake.tronet.troitsk.ru/download/Accuracy.zip
+http://quake.tronet.troitsk.ru/download/fbedit17.zip
+http://quake.tronet.troitsk.ru/download/holyfbotmod07.zip
+http://quake.tronet.troitsk.ru/download/mpak1v12.zip
+http://quake.tronet.troitsk.ru/download/stfm10.zip
 http://quakeintosh.com/files/Paks%20-%20Maps%20-%20Mods%20/Quake%20Bots/%20Omicron%20Bot/OBOTS101.sit
 http://quakemecca.simplenet.com/files/new/kok2.zip
 http://railgun.macquakeinfinity.com/downloads/fbctf024.zip
@@ -242,6 +249,7 @@ http://www.telefragged.com/mirrors/mirror.pl?epidemic/frogbot012b.zip
 http://www.telefragged.com/mirrors/mirror.pl?epidemic/frogbot012b.zip
 http://www.telefragged.com/mirrors/mirror.pl?metro/frogbot012.zip
 http://www.telefragged.com/mirrors/mirror.pl?qnm/fbedit15.zip
+http://www.tronet.troitsk.ru/~d_knight/Download/Games/frog012.zip
 http://www.ugrad.cs.ubc.ca/spider/u6m1/QC/killer.zip
 http://www.users.bigpond.com/clanslug/ClanV0.5Auto.zip
 http://www.users.bigpond.com/clanslug/ClanV0.6Auto.zip

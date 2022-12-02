@@ -21,8 +21,8 @@ telefragged directories
 	be
 	epidemic
 	inside3d
-	metro
 	mdqnet
+	metro
 	swtc
 idgames2
 	incoming
