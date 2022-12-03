@@ -61,6 +61,7 @@ Cujo | Jonathan E. Wright | [cujo14.zip](bin/cujo14.zip) ([txt](bin/cujo14.txt))
 DJBot | Dave James aka "DJ" | [djbot1.zip](bin/djbot1.zip)
 DM Bot | Nathaniel Gorham | [dmbot1.zip](bin/dmbot1.zip) ([txt](bin/dmbot1.txt))
 DOBBSBot | Stephen Dobbs | [dobbsbot15bwp.zip](bin/dobbsbot15bwp.zip)<br>dobbsbot15b.zip<br>[dobbsbot15a.zip](bin/dobbsbot15a.zip)
+DarKMajick (Wraith Bot) | Brendan McArdle aka "Nightbringer" | [dkmjk20.zip](bin/dkmjk20.zip) ([txt](bin/dkmjk20.txt))<br>[darkmajk.zip](bin/darkmajk.zip) ([txt](bin/darkmajk.txt))
 Dark Frogbot | "Pinsolle" | darkfrog.zip
 DarkCTF Bot | Terry Hendrix aka "Dark_Skye" | [darkctf13.zip](bin/darkctf13.zip)
 Darkbot | Terry Hendrix aka "Dark_Skye" | [darkbot-fnl-q2.tar.gz](bin/darkbot-fnl-q2.tar.gz)<br>[darkbot_0.13.9-pak.zip](bin/darkbot_0.13.9-pak.zip)<br>[darkbot_0.13.9-src.zip](bin/darkbot_0.13.9-src.zip)<br>drkbt013.zip<br>[drkbt11b.zip](bin/drkbt11b.zip) ([txt](bin/drkbt11b.txt))<br>darkbt10.zip<br>darkbt09.zip<br>[darkbt07.zip](bin/darkbt07.zip)<br>drkbot04.zip ([txt](bin/drkbot04.txt))<br>[drkbot03.zip](bin/drkbot03.zip) ([txt](bin/drkbot03.txt))<br>[darkbt01.zip](bin/darkbt01.zip)<br>[darkbotx.zip](bin/darkbotx.zip) ([txt](bin/darkbot.txt))
@@ -243,7 +244,6 @@ XKteams (Frikbot) | Mark | xkteams2.zip<br>xkteams1705.zip<br>xkteams1705s.zip
 Xreaper | Ruud Heemskerk aka "Mephisto" | [xreaperb130.zip](bin/xreaperb130.zip)<br>[xreaperb130_unoff.zip](bin/xreaperb130_unoff.zip)
 Zeus Bot | Jonathan E. Wright aka "Nelno the Amoeba" | [zeus205s.zip](bin/zeus205s.zip) ([txt](bin/zeus205s.txt))<br>[zeus205.zip](bin/zeus205.zip) ([txt](bin/zeus205.txt))<br>[zeus_src.zip](bin/zeus_src.zip) ([txt](bin/zeus_src.txt))<br>[zeus2042.zip](bin/zeus2042.zip)<br>[zeus2041.zip](bin/zeus2041.zip)<br>[zeus204.zip](bin/zeus204.zip)<br>[zeus203b.zip](bin/zeus203b.zip) ([txt](bin/zeus203b.txt))<br>zeus202b.zip ([txt](bin/zeus202b.txt))<br>zeus201.zip<br>zeus20.zip<br>[zeus10.zip](bin/zeus10.zip) ([txt](bin/zeus10.txt))
 Zeus Hunt (Rumble) | Christopher Dozier "Arwing-X" | [rumble1.zip](bin/rumble1.zip) ([txt](bin/rumble1.txt))<br>[rumble.zip](bin/rumble.zip) ([txt](bin/rumble.txt))
-darKMajick (Wraith Bot) | Brendan McArdle aka "Nightbringer" | [dkmjk20.zip](bin/dkmjk20.zip) ([txt](bin/dkmjk20.txt))<br>[darkmajk.zip](bin/darkmajk.zip) ([txt](bin/darkmajk.txt))
 
 ## Help
 

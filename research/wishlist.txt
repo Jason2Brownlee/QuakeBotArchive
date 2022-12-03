@@ -46,6 +46,7 @@ cujo12a.zip
 cujo12b.zip
 cujo12c.zip
 darkbot.zip
+darkbt04.zip
 darkbt10.zip
 darkbt4.zip
 darkfrog.zip
@@ -59,7 +60,6 @@ dogfun18.zip
 dogfun19.zip
 doombot.zip
 drkbot04.zip
-darkbt04.zip
 drkbt013.zip
 elim10.zip
 elim13.zip
@@ -389,6 +389,7 @@ frogbot_demo.zip
 frogffa.zip
 gem_dm6.zip
 frogbotmaps.zip
+frog_re2.zip
 
 # I think these are bots
 smallbots.zip
