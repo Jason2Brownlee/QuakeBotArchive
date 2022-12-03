@@ -59,6 +59,7 @@ dogfun18.zip
 dogfun19.zip
 doombot.zip
 drkbot04.zip
+darkbt04.zip
 drkbt013.zip
 elim10.zip
 elim13.zip
