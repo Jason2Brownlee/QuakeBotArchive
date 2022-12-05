@@ -29,7 +29,7 @@ Sep 03 1996 | bgbot125.zip | BGBot v1.25.
 Sep 03 1996 | roambot1.zip | RoamBot v0.9.
 Sep 03 1996 | bgbot13.zip | BGBot v1.3.
 Sep 04 1996 | cujo10.zip | CujoBot v1.0.
-Sep 04 1996 | zeus10.zip | ZeusBot v1.0.
+Sep 04 1996 | cujo11.zip | CujoBot v1.1.
 Sep 06 1996 | bgbot15.zip | BGBot v1.5.
 Sep 06 1996 | bplayer1.zip | BPlayer Bot v1.00.
 Sep 08 1996 | sambot.zip | SamBot v0.9.
@@ -45,6 +45,7 @@ Sep 19 1996 | elim14.zip | Eliminator Bot v1.4.
 Sep 21 1996 | bplayer2.zip | BPlayer Bot v2.00.
 Sep 24 1996 | vbot1.zip | Victim Bot v1.0.
 Sep 26 1996 | vbot11.zip | Victim Bot v1.1.
+Sep 28 1996 | zeus10.zip | ZeusBot v1.0.
 Sep 29 1996 | bgbot20a.zip | BGBot v2.00a.
 Sep ?? 1996 | swbot1.zip | Swimming bot v1.00.
 Sep ?? 1996 | swbot101.zip | Swimming bot v1.01.
@@ -55,22 +56,21 @@ Oct 03 1996 | reaprb05.zip | ReaperBot v0.5.
 Oct 10 1996 | swbot104.zip | Swimming bot v1.04.
 Oct 12 1996 | reaprb06.zip | ReaperBot v0.6.
 Oct 18 1996 | botskn18.zip | BotSkin v1.8.
-??? ?? 1996 | cujo11.zip | CujoBot v1.1.
 Oct 20 1996 | cujo12.zip | CujoBot v1.2.
 Oct 20 1996 | cujo12a.zip | CujoBot v1.2a.
 Oct 24 1996 | reaprb07.zip | ReaperBot v0.7.
 Oct 27 1996 | botskn20.zip | BotSkin v2.0.
 Nov 04 1996 | btskn22.zip | BotSkin v2.2.
 Nov 11 1996 | reaprb75.zip | ReaperBot v0.75.
+Nov 11 1996 | cujo12b.zip | CujoBot v1.2b.
 Nov 15 1996 | reaprb08.zip | ReaperBot v0.8.
 Nov 17 1996 | reaprb81.zip | ReaperBot v0.81.
-??? ?? 1996 | cujo12b.zip | CujoBot v1.2b.
-??? ?? 1996 | cujo12c.zip | CujoBot v1.2c.
-Nov 27 1996 | cujo13.zip | CujoBot v1.3.
+Nov 22 1996 | cujo12c.zip | CujoBot v1.2c.
+Nov 26 1996 | cujo13.zip | CujoBot v1.3.
 ??? ?? 1996 | zeus20.zip | ZeusBot v2.00.
 ??? ?? 1996 | zeus201.zip | ZeusBot v2.01.
-??? ?? 1996 | zeus202b.zip | ZeusBot v2.02.
-Dec 20 1996 | zeus203b.zip | ZeusBot v2.03.
+Dec 19 1996 | zeus202b.zip | ZeusBot v2.02b.
+Dec 20 1996 | zeus203b.zip | ZeusBot v2.03b.
 Jan 08 1997 | zeus204.zip | ZeusBot v2.04.
 Jan 09 1997 | zeus2041.zip | ZeusBot v2.041.
 Jan 09 1997 | zeus2042.zip | ZeusBot v2.042.
