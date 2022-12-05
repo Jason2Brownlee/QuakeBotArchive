@@ -254,7 +254,10 @@ xkteams1705s.zip
 xkteams2.zip
 zeus20.zip
 zeus201.zip
+zeus201b.zip
 zeus202b.zip
+zeus20b.zip
+
 
 # mac stuff
 frogbot012.sit
@@ -365,6 +368,8 @@ zeus201.txt
 zeus204.txt
 zeus2041.txt
 zeus2042.txt
+zeus201b.txt
+zeus20b.txt
 
 
 # reaper bot stuff
