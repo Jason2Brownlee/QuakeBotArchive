@@ -44,7 +44,6 @@ Sep ?? 1996 | elim13.zip | Eliminator Bot v1.3.
 Sep 19 1996 | elim14.zip | Eliminator Bot v1.4.
 Sep 21 1996 | bplayer2.zip | BPlayer Bot v2.00.
 Sep 24 1996 | vbot1.zip | Victim Bot v1.0.
-Sep 26 1996 | vbot11.zip | Victim Bot v1.1.
 Sep 28 1996 | zeus10.zip | ZeusBot v1.0.
 Sep 29 1996 | bgbot20a.zip | BGBot v2.00a.
 Sep ?? 1996 | swbot1.zip | Swimming bot v1.00.
@@ -59,6 +58,7 @@ Oct 18 1996 | botskn18.zip | BotSkin v1.8.
 Oct 20 1996 | cujo12.zip | CujoBot v1.2.
 Oct 20 1996 | cujo12a.zip | CujoBot v1.2a.
 Oct 24 1996 | reaprb07.zip | ReaperBot v0.7.
+Oct 26 1996 | vbot11.zip | Victim Bot v1.1.
 Oct 27 1996 | botskn20.zip | BotSkin v2.0.
 Nov 04 1996 | btskn22.zip | BotSkin v2.2.
 Nov 11 1996 | reaprb75.zip | ReaperBot v0.75.
