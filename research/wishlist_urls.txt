@@ -78,6 +78,7 @@ http://asp.planetquake.com/dl/dl.asp?/holywars/hwqwbotv101c.sit
 http://asp.planetquake.com/dl/dl.asp?/holywars/quake/hw_frogbot14f.zip
 http://asp.planetquake.com/dl/dl.asp?requiem/reqqwsrc.zip
 http://aswp.tzo.net/maleficus/setup.zip
+http://bluesnews.com/reaper.txt
 http://botarea51.impulse9.net/mirror/bot/elimpack.zip
 http://dmsoul.mailru.com/botmatch/bm119gl.zip
 http://first.quakegate.ru/bots/frogbot.rar
@@ -190,7 +191,6 @@ http://www.cdrom.com/pub/idgames2/quakec/bots/dmbt20b2.zip
 http://www.cdrom.com/pub/idgames2/quakec/bots/drkbot04.zip
 http://www.cdrom.com/pub/idgames2/quakec/bots/grdbot13.zip
 http://www.cdrom.com/pub/idgames2/quakec/bots/rbot.zip
-http://www.cdrom.com/pub/quake/quakec/bots/reaprb80.txt
 http://www.converted2.com/bloodmage/junk/FBMOD.ZIP
 http://www.dmsoul.mailru.com/botmatch/bm119gl.zip
 http://www.dmsoul.newmail.ru/bm116se.zip
@@ -264,4 +264,3 @@ http://www.users.bigpond.com/clanslug/ClanbotV0.9b.zip
 http://xmark.ausgamers.com/xkteams/xkteams1705.zip
 http://xmark.ausgamers.com/xkteams/xkteams1705s.zip
 http://xmark.ausgamers.com/xkteams/xkteams2.zip
-
