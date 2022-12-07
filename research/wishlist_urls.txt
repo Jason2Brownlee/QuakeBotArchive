@@ -138,7 +138,8 @@ http://railgun.macquakeinfinity.com/downloads/fbctf024.zip
 http://railgun.macquakeinfinity.com/downloads/fbctf026.zip
 http://railgun.macquakeinfinity.com/downloads/fbctf030.zip
 http://railgun.macquakeinfinity.com/downloads/mac_hwbot003b7final.sit.bin
-http://redwood.gatsbyhouse.com/files/reaprb75.zip
+http://redwood.gatsbyhouse.com/quake/files/B75chg.txt
+http://redwood.gatsbyhouse.com/quake/files/reaprb75.zip
 http://se.aminet.net/pub/aminet/game/patch/frogbot.lha
 http://shub-hub.quaddicted.com/files/mods_multiplayer/monsterFBXID1waysV2.zip
 http://shub-hub.quaddicted.com/files/mods_multiplayer/orionbots_v3_ra.zip
@@ -264,3 +265,4 @@ http://www.users.bigpond.com/clanslug/ClanbotV0.9b.zip
 http://xmark.ausgamers.com/xkteams/xkteams1705.zip
 http://xmark.ausgamers.com/xkteams/xkteams1705s.zip
 http://xmark.ausgamers.com/xkteams/xkteams2.zip
+

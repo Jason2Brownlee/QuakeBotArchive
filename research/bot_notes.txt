@@ -168,6 +168,7 @@ Reaper / ReaperBot / Reaper Bot
 		http://www.bluesnews.com/reaprb07.txt
 			https://web.archive.org/web/20010506061717/http://www.geocities.com/TimesSquare/6514/oct18.htm
 	v0.60
+		https://groups.google.com/g/rec.games.computer.quake.editing/c/s70A0DBLMxI/m/gvG-48rcmpoJ
 		http://www.excalibur.net/~kinglink/king/quake/quakec/bots/reaprb06.zip
 			https://groups.google.com/g/rec.games.computer.quake.misc/c/WSHE5tUDvEs/m/9p--I5G6vJ4J
 		https://groups.google.com/g/rec.games.computer.quake.editing/c/VxLR6uaDg-Q/m/ICB1EcRZPOkJ
