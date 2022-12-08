@@ -60,10 +60,10 @@ Oct 20 1996 | cujo12a.zip | CujoBot v1.2a.
 Oct 24 1996 | reaprb07.zip | ReaperBot v0.7.
 Oct 26 1996 | vbot11.zip | Victim Bot v1.1.
 Oct 27 1996 | botskn20.zip | BotSkin v2.0.
+Nov 02 1996 | reaprb75.zip | ReaperBot v0.75.
 Nov 04 1996 | btskn22.zip | BotSkin v2.2.
-Nov 11 1996 | reaprb75.zip | ReaperBot v0.75.
 Nov 11 1996 | cujo12b.zip | CujoBot v1.2b.
-Nov 15 1996 | reaprb08.zip | ReaperBot v0.8.
+Nov 16 1996 | reaprb08.zip | ReaperBot v0.8.
 Nov 17 1996 | reaprb81.zip | ReaperBot v0.81.
 Nov 22 1996 | cujo12c.zip | CujoBot v1.2c.
 Nov 26 1996 | cujo13.zip | CujoBot v1.3.
