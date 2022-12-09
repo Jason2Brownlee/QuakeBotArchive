@@ -76,9 +76,9 @@ Jan 09 1997 | zeus2041.zip | ZeusBot v2.041.
 Jan 09 1997 | zeus2042.zip | ZeusBot v2.042.
 Feb 12 1996 | cujo14.zip | CujoBot v1.4.
 May 04 1997 | oak0405.zip | Oak v0405.
-May 06 1997 | oak081.zip | Oak v0.81.
-May 07 1997 | oak082.zip | Oak v0.82.
-May 08 1997 | oak083.zip | Oak v0.83.
+May 05 1997 | oak081.zip | Oak v0.81.
+May 06 1997 | oak082.zip | Oak v0.82.
+May 07 1997 | oak083.zip | Oak v0.83.
 Jun 03 1997 | zeus205.zip | ZeusBot v2.05.
 Jun 03 1997 | zeus205s.zip | ZeusBot v2.05s.
 Jun 17 1997 | oak084.zip | Oak v0.84.
