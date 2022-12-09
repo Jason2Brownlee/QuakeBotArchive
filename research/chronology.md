@@ -75,8 +75,15 @@ Jan 08 1997 | zeus204.zip | ZeusBot v2.04.
 Jan 09 1997 | zeus2041.zip | ZeusBot v2.041.
 Jan 09 1997 | zeus2042.zip | ZeusBot v2.042.
 Feb 12 1996 | cujo14.zip | CujoBot v1.4.
+May 04 1997 | oak0405.zip | Oak v0405.
+May 06 1997 | oak081.zip | Oak v0.81.
+May 07 1997 | oak082.zip | Oak v0.82.
+May 08 1997 | oak083.zip | Oak v0.83.
 Jun 03 1997 | zeus205.zip | ZeusBot v2.05.
 Jun 03 1997 | zeus205s.zip | ZeusBot v2.05s.
+Jun 17 1997 | oak084.zip | Oak v0.84.
+Jun 23 1997 | oak085.zip | Oak v0.85.
+Aug 07 1997 | oak0855.zip | Oak v0.855.
 Dec 04 1997 | obots100.zip | Omicron Bot v1.00.
 Dec 15 1997 | obots101.zip | Omicron Bot v1.01.
 Mar 09 1998 | frogbot000.zip | Frogbot v0.00.
