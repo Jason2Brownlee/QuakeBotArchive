@@ -16,11 +16,33 @@ This project seeks to (1) **locate**, (2) **archive**, and (3) **host** all vers
 
 If you have backups of old Quake bots, [you can help](#Help).
 
+## Quake Bot Archive
+
+All Quake bot files are located in the [bin/](bin/) directory or subdirectory.
+
+Directory | Description
+--- | ---
+[bin/](bin/) | Primary archive of quake bot files.
+[bin/eliminator/](bin/eliminator/) | Additional files for the eliminator bot.
+[bin/frikbot/](bin/frikbot/) | Additional files for the frikbot.
+[bin/frogbot/](bin/frogbot/) | Additional files for the frogbot.
+[bin/omicron/](bin/omicron/) | Additional files for the omicron bot.
+[bin/reaper/](bin/reaper/) | Additional files for the reaper bot.
+[bin/other/](bin/other/) | Additional files related to bot development.
+
+The [research//](research/) directory of the archive contains notes developed while researching each bot and resource, as well as wish lists for files known to exist and missing from the archive.
+
 ## Quake Bot Genealogy
 
 Estimated Quake bot genealogy.
 
 ![Quake Bot Genealogy](research/mindmap/QuakeBots.png)
+
+## Quake Bot Chronology
+
+Estimated Quake bot chronology.
+
+* [Quake Bot Quake Bot Genealogy](research/chronology.md)
 
 
 ## Quake Bot List
