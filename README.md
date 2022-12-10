@@ -16,7 +16,7 @@ This project seeks to (1) **locate**, (2) **archive**, and (3) **host** all vers
 
 If you have backups of old Quake bots, [you can help](#Help).
 
-## Quake Bot Archive
+## Quake Bot Files
 
 All Quake bot files are located in the [bin/](bin/) directory or subdirectory.
 
@@ -30,7 +30,7 @@ Directory | Description
 [bin/reaper/](bin/reaper/) | Additional files for the reaper bot.
 [bin/other/](bin/other/) | Additional files related to bot development.
 
-The [research//](research/) directory of the archive contains notes developed while researching each bot and resource, as well as wish lists for files known to exist and missing from the archive.
+The [research/](research/) directory of the archive contains notes developed while researching each bot and resource, as well as wish lists for files known to exist and missing from the archive.
 
 ## Quake Bot Genealogy
 
@@ -42,7 +42,7 @@ Estimated Quake bot genealogy.
 
 Estimated Quake bot chronology.
 
-* [Quake Bot Quake Bot Genealogy](research/chronology.md)
+* [Quake Bot Chronology](research/chronology.md)
 
 
 ## Quake Bot List
