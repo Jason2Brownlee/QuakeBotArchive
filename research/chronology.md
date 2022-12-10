@@ -38,29 +38,38 @@ Sep 12 1996 | elim10.zip | Eliminator Bot v1.0.
 Sep 13 1996 | bgbot16.zip | BGBot v1.6.
 Sep 15 1996 | elim11.zip | Eliminator Bot v1.1.
 Sep 16 1996 | elim12.zip | Eliminator Bot v1.2.
-Sep 17 1996 | botskn10.zip | BotSkin v1.1
 Sep 18 1998 | bthnt10.zip | Bot Hunt v1.0.
+Sep 19 1996 | botskn10.zip | BotSkin v1.0
 Sep ?? 1996 | elim13.zip | Eliminator Bot v1.3.
 Sep 19 1996 | elim14.zip | Eliminator Bot v1.4.
 Sep 21 1996 | bplayer2.zip | BPlayer Bot v2.00.
+Sep 24 1996 | botskn11.zip | BotSkin v1.1.
+Sep 24 1996 | botskn12.zip | BotSkin v1.2.
 Sep 24 1996 | vbot1.zip | Victim Bot v1.0.
 Sep 28 1996 | zeus10.zip | ZeusBot v1.0.
 Sep 29 1996 | bgbot20a.zip | BGBot v2.00a.
+Sep 29 1996 | botskn13.zip | BotSkin v1.3.
 Sep ?? 1996 | swbot1.zip | Swimming bot v1.00.
 Sep ?? 1996 | swbot101.zip | Swimming bot v1.01.
 Sep ?? 1996 | swbot102.zip | Swimming bot v1.02.
 Sep 29 1996 | swbot103.zip | Swimming bot v1.03.
 Oct 01 1996 | iwbot21.zip | IronWulvt's Deathmatch Bot v2.1.
 Oct 03 1996 | reaprb05.zip | ReaperBot v0.5.
+Oct 06 1996 | botskn14.zip | BotSkin v1.4.
+Oct 09 1996 | botskn15.zip | BotSkin v1.5.
 Oct 10 1996 | swbot104.zip | Swimming bot v1.04.
+Oct 11 1996 | botskn16.zip | BotSkin v1.6.
 Oct 12 1996 | reaprb06.zip | ReaperBot v0.6.
+Oct 15 1996 | botskn17.zip | BotSkin v1.7.
 Oct 18 1996 | botskn18.zip | BotSkin v1.8.
 Oct 20 1996 | cujo12.zip | CujoBot v1.2.
 Oct 20 1996 | cujo12a.zip | CujoBot v1.2a.
 Oct 24 1996 | reaprb07.zip | ReaperBot v0.7.
+Oct 25 1996 | botskn19.zip | BotSkin v1.9.
 Oct 26 1996 | vbot11.zip | Victim Bot v1.1.
 Oct 27 1996 | botskn20.zip | BotSkin v2.0.
 Nov 02 1996 | reaprb75.zip | ReaperBot v0.75.
+Nov 03 1996 | botskn21.zip | BotSkin v2.1.
 Nov 04 1996 | btskn22.zip | BotSkin v2.2.
 Nov 11 1996 | cujo12b.zip | CujoBot v1.2b.
 Nov 16 1996 | reaprb08.zip | ReaperBot v0.8.
