@@ -34,13 +34,13 @@ The [research/](research/) directory of the archive contains notes developed whi
 
 ## Quake Bot Genealogy
 
-Estimated Quake bot genealogy.
+Reconstructed Quake bot genealogy.
 
 ![Quake Bot Genealogy](research/mindmap/QuakeBots.png)
 
 ## Quake Bot Chronology
 
-Estimated Quake bot chronology.
+Reconstructed Quake bot chronology.
 
 * [Quake Bot Chronology](research/chronology.md)
 
