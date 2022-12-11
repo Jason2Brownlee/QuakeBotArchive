@@ -13,6 +13,7 @@ ftp://ftp.cdrom.com/pub/idgames2/telefragged/metro/frogbot007.zip
 ftp://ftp.cdrom.com/pub/planetquake/holywars/hw_frogbot.zip
 ftp://ftp.cdrom.com/pub/planetquake/holywars/hwqwbotv101c.zip
 ftp://ftp.cdrom.com/pub/quake/quakec/bots/btsk22.zip
+ftp://ftp.cdrom.com/pub/quake/quakec/bots/darkbt08.zip
 ftp://ftp.cdrom.com/pub/quake/quakec/bots/dmbt21b1.zip
 ftp://ftp.cdrom.com/pub/quake/quakec/bots/doombot.zip
 ftp://ftp.cdrom.com/pub/quake/quakec/bots/qcbot002.zip

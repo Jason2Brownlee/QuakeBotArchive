@@ -49,6 +49,7 @@ cujo12b.zip
 cujo12c.zip
 darkbot.zip
 darkbt04.zip
+darkbt08.zip
 darkbt10.zip
 darkbt4.zip
 darkfrog.zip
