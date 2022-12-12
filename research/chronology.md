@@ -70,6 +70,7 @@ Oct 24 1996 | reaprb07.zip | ReaperBot v0.7.
 Oct 25 1996 | botskn19.zip | BotSkin v1.9.
 Oct 26 1996 | vbot11.zip | Victim Bot v1.1.
 Oct 27 1996 | botskn20.zip | BotSkin v2.0.
+Oct 29 1996 | darkbt01.zip | Darkbot v0.1.
 Nov 02 1996 | reaprb75.zip | ReaperBot v0.75.
 Nov 03 1996 | botskn21.zip | BotSkin v2.1.
 Nov 04 1996 | btskn22.zip | BotSkin v2.2.
@@ -78,6 +79,9 @@ Nov 16 1996 | reaprb08.zip | ReaperBot v0.8.
 Nov 17 1996 | reaprb81.zip | ReaperBot v0.81.
 Nov 22 1996 | cujo12c.zip | CujoBot v1.2c.
 Nov 26 1996 | cujo13.zip | CujoBot v1.3.
+??? ?? 1996 | drkbot02.zip | Darkbot v0.2.
+Dec 04 1996 | drkbot03.zip | Darkbot v0.3.
+Dec 05 1996 | drkbot04.zip | Darkbot v0.4.
 ??? ?? 1996 | zeus20.zip | ZeusBot v2.00.
 ??? ?? 1996 | zeus201.zip | ZeusBot v2.01.
 Dec 19 1996 | zeus202b.zip | ZeusBot v2.02b.
@@ -85,24 +89,40 @@ Dec 20 1996 | zeus203b.zip | ZeusBot v2.03b.
 Jan 08 1997 | zeus204.zip | ZeusBot v2.04.
 Jan 09 1997 | zeus2041.zip | ZeusBot v2.041.
 Jan 09 1997 | zeus2042.zip | ZeusBot v2.042.
+??? ?? 1997 | drkbot05.zip | Darkbot v0.5.
+??? ?? 1997 | drkbot06.zip | Darkbot v0.6.
+Jan 09 1997 | darkbotx.zip | Darkbot vGenx.
 Feb 12 1996 | cujo14.zip | CujoBot v1.4.
 May 04 1997 | oak0405.zip | Oak v0405.
 May 05 1997 | oak081.zip | Oak v0.81.
 May 06 1997 | oak082.zip | Oak v0.82.
 May 07 1997 | oak083.zip | Oak v0.83.
+May 15 1997 | darkbt07.zip | Darkbot v0.7c.
+May 25 1997 | darkbt08.zip | Darkbot v0.8.
+Jun 02 1997 | darkbt09.zip | Darkbot v0.9.
 Jun 03 1997 | zeus205.zip | ZeusBot v2.05.
 Jun 03 1997 | zeus205s.zip | ZeusBot v2.05s.
+Jun 09 1997 | darkbt10.zip | Darkbot v0.10.
+Jun 12 1997 | drkbt10c.zip | Darkbot v0.10c.
 Jun 17 1997 | oak084.zip | Oak v0.84.
 Jun 23 1997 | oak085.zip | Oak v0.85.
+Jun 24 1997 | drkbt11a.zip | Darkbot v0.11a.
+Jun 24 1997 | drkbt11b.zip | Darkbot v0.11b.
 Aug 07 1997 | oak0855.zip | Oak v0.855.
+??? ?? 1997 | drkbt012.zip | Darkbot v0.12.
+Nov 25 1997 | drkbt013.zip | Darkbot v0.13.1
+Nov 28 1997 | drkbt013.zip | Darkbot v0.13.7
 Dec 04 1997 | obots100.zip | Omicron Bot v1.00.
 Dec 15 1997 | obots101.zip | Omicron Bot v1.01.
+Dec 17 1997 | drkbt013.zip | Darkbot v0.13.8
 Mar 09 1998 | frogbot000.zip | Frogbot v0.00.
 Mar 23 1998 | frogbot003.zip | Frogbot v0.03.
 Mar 24 1998 | obots102.zip | Omicron Bot v1.02.
 Mar 29 1998 | frogbot005.zip | Frogbot v0.05.
 May 08 1998 | frogbot007.zip | Frogbot v0.07.
 May 18 1998 | frogbot009.zip | Frogbot v0.09.
+??? ?? 1998 | drkbt013.zip | Darkbot v0.13.9.
+Jul 07 1998 | darkbot_0.13.9-pak.zip | Darkbot v0.13.9 pak/src.
 Jul 19 1998 | frogbot011b.zip | Frogbot v1.1b.
 Oct 17 1998 | frogbot012a.zip | Frogbot v1.2a.
 Oct 18 1998 | frogbot012c.zip | Frogbot v1.2b.
@@ -118,6 +138,7 @@ Jul 28 1999 | frikbt07.zip | Frikbot v0.07.
 Sep 19 1999 | frikbt08.zip | Frikbot v0.08.
 Feb 22 2000 | frikbt09.zip | Frikbot v0.09.
 ??? ?? 2000 | frikbt09a.zip | Frikbot v0.09a.
+Mar 10 2000 | darkbot-fnl-q2.tar.gz | Darkbot vFinal
 May 16 2000 | frikbt09b.zip | Frikbot v0.09b.
 Jul 27 2001 | fbx.zip | Frikbot v0.10.
 Aug 06 2001 | fbxa.zip | Frikbot v0.10.1.
