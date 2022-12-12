@@ -47,9 +47,12 @@ cujo12.zip
 cujo12a.zip
 cujo12b.zip
 cujo12c.zip
-darkbot.zip
+darkbt02.zip
 darkbt04.zip
+darkbt05.zip
+darkbt06.zip
 darkbt08.zip
+darkbt09.zip
 darkbt10.zip
 darkbt4.zip
 darkfrog.zip
@@ -62,8 +65,15 @@ dogfun17.zip
 dogfun18.zip
 dogfun19.zip
 doombot.zip
+drkbot02.zip
+drkbot04.arj
 drkbot04.zip
+drkbot05.zip
+drkbot06.zip
+drkbt012.zip
 drkbt013.zip
+drkbt10c.zip
+drkbt11a.zip
 elim10.zip
 elim13.zip
 elimpack.zip
@@ -261,7 +271,6 @@ zeus201b.zip
 zeus202b.zip
 zeus20b.zip
 
-
 # mac stuff
 frogbot012.sit
 hwqwbot.sit
@@ -289,12 +298,6 @@ bplayer1.txt
 btsk22.txt
 cujo12b.txt
 cujo12c.txt
-darkbot.txt
-darkbotx.txt
-darkbt01.txt
-darkbt07.txt
-darkbt09.txt
-darkbt10.txt
 dmbt20b2.txt
 dmbt20b3.txt
 dmbt21b1.txt
