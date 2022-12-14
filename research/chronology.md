@@ -107,6 +107,8 @@ Jun 06 1997 | dmbt20b2.zip | Doombot v0.20b2.
 Jun 09 1997 | darkbt10.zip | Darkbot v0.10.
 Jun 10 1997 | dmbt20b3.zip | Doombot v0.20b3.
 Jun 12 1997 | drkbt10c.zip | Darkbot v0.10c.
+Jun ?? 1997 | dmbt21b1.zip | Doombot v0.21b1.
+Jun ?? 1997 | dmbt21b2.zip | Doombot v0.21b2.
 Jun 14 1997 | dmbt21b3.zip | Doombot v0.21b3.
 Jun 17 1997 | oak084.zip | Oak v0.84.
 Jun 23 1997 | oak085.zip | Oak v0.85.

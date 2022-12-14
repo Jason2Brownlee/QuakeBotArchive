@@ -90,7 +90,7 @@ Darkbot | Terry Hendrix aka "Dark_Skye" | [darkbot-fnl-q2.tar.gz](bin/darkbot-fn
 DeathBot | James Boswell aka "FlashFire" | [death-64.zip](bin/death-64.zip) ([txt](bin/death-64.txt))
 Demon Tag Bots | "SkinSki" | [tag.zip](bin/tag.zip)
 Demonshooter | "Shootermaster" | [shooter.zip](bin/shooter.zip) ([txt](bin/shooter.txt))
-Doombot | Roscoe A. Sincero aka "Legion" | [dmbt21b3.zip](bin/dmbt21b3.zip) ([txt](bin/dmbt21b3.txt))<br>dmbt21b1.zip<br>dmbt20b3.zip<br>dmbt20b2.zip<br>doombot.zip
+Doombot (bot move, bot skeleton) | Roscoe A. Sincero aka "Legion" | [btsk23.zip](bin/btsk23.zip) ([txt](bin/btsk23.txt))<br>btsk22.zip<br>[btmv31.zip](bin/btmv31.zip) ([txt](bin/btmv31.txt))<br>botmove.zip<br>[dmbt21b3.zip](bin/dmbt21b3.zip) ([txt](bin/dmbt21b3.txt))<br>dmbt21b2.zip<br>dmbt21b1.zip<br>dmbt20b3.zip<br>dmbt20b2.zip<br>doombot.zip
 Drastic Reaper Bot | Mark Wheeler | [dreaper.zip](bin/dreaper.zip) ([txt](bin/dreaper.txt))<br>[dreaper1e.zip](bin/dreaper1e.zip)
 Drop Quad/Ring (Frogbot) | Brian Mathiasen aka "EraZoR" | [quadring.zip](bin/quadring.zip)
 ELFBOt | "SkinSki" aka "MauveBib" | [elfbot.zip](bin/elfbot.zip)
