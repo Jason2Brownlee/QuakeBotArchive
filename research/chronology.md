@@ -99,15 +99,23 @@ May 06 1997 | oak082.zip | Oak v0.82.
 May 07 1997 | oak083.zip | Oak v0.83.
 May 15 1997 | darkbt07.zip | Darkbot v0.7c.
 May 25 1997 | darkbt08.zip | Darkbot v0.8.
+May 30 1997 | doombot.zip | Doombot.
 Jun 02 1997 | darkbt09.zip | Darkbot v0.9.
 Jun 03 1997 | zeus205.zip | ZeusBot v2.05.
 Jun 03 1997 | zeus205s.zip | ZeusBot v2.05s.
+Jun 06 1997 | dmbt20b2.zip | Doombot v0.20b2.
 Jun 09 1997 | darkbt10.zip | Darkbot v0.10.
+Jun 10 1997 | dmbt20b3.zip | Doombot v0.20b3.
 Jun 12 1997 | drkbt10c.zip | Darkbot v0.10c.
+Jun 14 1997 | dmbt21b3.zip | Doombot v0.21b3.
 Jun 17 1997 | oak084.zip | Oak v0.84.
 Jun 23 1997 | oak085.zip | Oak v0.85.
 Jun 24 1997 | drkbt11a.zip | Darkbot v0.11a.
 Jun 24 1997 | drkbt11b.zip | Darkbot v0.11b.
+Jun 29 1997 | botmove.zip | Bot Movement v0.30.
+Jul 04 1997 | btmv31.zip | Bot Movement v0.31.
+Jul 17 1997 | btsk22.zip | Bot Skeleton v0.22.
+Jul 23 1997 | btsk23.zip | Bot Skeleton v0.23.
 Aug 07 1997 | oak0855.zip | Oak v0.855.
 ??? ?? 1997 | drkbt012.zip | Darkbot v0.12.
 Nov 25 1997 | drkbt013.zip | Darkbot v0.13.1
