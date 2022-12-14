@@ -95,6 +95,8 @@ Jan 09 1997 | darkbotx.zip | Darkbot vGenx.
 Feb 12 1996 | cujo14.zip | CujoBot v1.4.
 May 04 1997 | oak0405.zip | Oak v0405.
 May 05 1997 | oak081.zip | Oak v0.81.
+??? ?? 1997 | qcbot001.zip | QCBot v001.
+May 05 1997 | qcbot002.zip | QCBot v002.
 May 06 1997 | oak082.zip | Oak v0.82.
 May 07 1997 | oak083.zip | Oak v0.83.
 May 15 1997 | darkbt07.zip | Darkbot v0.7c.
@@ -104,6 +106,7 @@ Jun 02 1997 | darkbt09.zip | Darkbot v0.9.
 Jun 03 1997 | zeus205.zip | ZeusBot v2.05.
 Jun 03 1997 | zeus205s.zip | ZeusBot v2.05s.
 Jun 06 1997 | dmbt20b2.zip | Doombot v0.20b2.
+Jun 07 1997 | qcbot003.zip | QCBot v003.
 Jun 09 1997 | darkbt10.zip | Darkbot v0.10.
 Jun 10 1997 | dmbt20b3.zip | Doombot v0.20b3.
 Jun 12 1997 | drkbt10c.zip | Darkbot v0.10c.
