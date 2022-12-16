@@ -128,19 +128,24 @@ Nov 28 1997 | drkbt013.zip | Darkbot v0.13.7
 Dec 04 1997 | obots100.zip | Omicron Bot v1.00.
 Dec 15 1997 | obots101.zip | Omicron Bot v1.01.
 Dec 17 1997 | drkbt013.zip | Darkbot v0.13.8
+Jan 07 1998 | frogphys00.zip | Frogbot Physics v0.00.
+Jan 09 1998 | frogphys001.zip | Frogbot Physics v0.01.
 Mar 09 1998 | frogbot000.zip | Frogbot v0.00.
-Mar 23 1998 | frogbot003.zip | Frogbot v0.03.
+Mar 22 1998 | frogbot003.zip | Frogbot v0.03.
 Mar 24 1998 | obots102.zip | Omicron Bot v1.02.
 Mar 29 1998 | frogbot005.zip | Frogbot v0.05.
 May 08 1998 | frogbot007.zip | Frogbot v0.07.
 May 18 1998 | frogbot009.zip | Frogbot v0.09.
 ??? ?? 1998 | drkbt013.zip | Darkbot v0.13.9.
 Jul 07 1998 | darkbot_0.13.9-pak.zip | Darkbot v0.13.9 pak/src.
-Jul 19 1998 | frogbot011b.zip | Frogbot v1.1b.
-Oct 17 1998 | frogbot012a.zip | Frogbot v1.2a.
-Oct 18 1998 | frogbot012c.zip | Frogbot v1.2b.
-Oct 23 1998 | frogbot012b.zip | Frogbot v1.2c.
-Apr 29 1999 | frogbot013.zip | Frogbot v1.3.
+Jul 14 1998 | frogbot011a.zip | Frogbot v0.11a.
+Jul 15 1998 | frogbot011b.zip | Frogbot v0.11b.
+Oct 17 1998 | frogbot012a.zip | Frogbot v0.12a.
+Oct 18 1998 | frogbot012c.zip | Frogbot v0.12b.
+Oct 23 1998 | frogbot012b.zip | Frogbot v0.12c.
+Jan 09 1999 | frogbot_demo.zip | Frogbot Demos.
+Jan 29 1999 | frogfix1.zip | Frogbot Fix.
+Apr 26 1999 | frogbot013.zip | Frogbot v1.3 Test.
 ??? ?? 1999 | frikbt01.zip | Frikbot v0.01.
 ??? ?? 1999 | frikbt02.zip | Frikbot v0.02.
 ??? ?? 1999 | frikbt03.zip | Frikbot v0.03.
