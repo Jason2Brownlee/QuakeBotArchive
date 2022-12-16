@@ -140,7 +140,7 @@ May 18 1998 | frogbot009.zip | Frogbot v0.09.
 Jul 07 1998 | darkbot_0.13.9-pak.zip | Darkbot v0.13.9 pak/src.
 Jul 14 1998 | frogbot011a.zip | Frogbot v0.11a.
 Jul 15 1998 | frogbot011b.zip | Frogbot v0.11b.
-Oct 17 1998 | frogbot012a.zip | Frogbot v0.12a.
+Oct 16 1998 | frogbot012a.zip | Frogbot v0.12a.
 Oct 18 1998 | frogbot012c.zip | Frogbot v0.12b.
 Oct 23 1998 | frogbot012b.zip | Frogbot v0.12c.
 Jan 09 1999 | frogbot_demo.zip | Frogbot Demos.
