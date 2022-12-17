@@ -266,7 +266,6 @@ http://www.telefragged.com/mirrors/mirror.pl?be/fmods/hwqwbot.zip
 http://www.telefragged.com/mirrors/mirror.pl?epidemic/frogbot012.zip
 http://www.telefragged.com/mirrors/mirror.pl?epidemic/frogbot012a.zip
 http://www.telefragged.com/mirrors/mirror.pl?epidemic/frogbot012b.zip
-http://www.telefragged.com/mirrors/mirror.pl?epidemic/frogbot012b.zip
 http://www.telefragged.com/mirrors/mirror.pl?metro/frogbot012.zip
 http://www.telefragged.com/mirrors/mirror.pl?qnm/fbedit15.zip
 http://www.tronet.troitsk.ru/~d_knight/Download/Games/frog012.zip

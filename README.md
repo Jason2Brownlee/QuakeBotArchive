@@ -120,7 +120,7 @@ FrikBot + Zerstorer | Ryan Smith aka "Frika C" | [frikzer.zip](bin/frikzer.zip)
 FrikBot X DreamCast (FBXDC) | Ryan Smith aka "Frika C" | [fbxdc.zip](bin/fbxdc.zip)
 FrikBot X+ (FBX+) | Igor9 | [fbx+.zip](bin/fbx+.zip)
 FrikBot X++ (FBX++) | Joel Baxter aka "Johnny Law" | [fbx++.zip](bin/fbx++.zip)
-FrikBot | Ryan Smith aka "Frika C" | [fbxc.zip](bin/fbxc.zip)<br>[fbxb.zip](bin/fbxb.zip)<br>[fbxa.zip](bin/fbxa.zip)<br>[fbx.zip](bin/fbx.zip)<br>[fbxextra.zip](bin/fbxextra.zip)<br>[frkbt09b.zip](bin/frkbt09b.zip)<br>frkbt09a.zip<br>[frikbt09.zip](bin/frikbt09.zip)<br>[frik9tst.zip](bin/frik9tst.zip)<br>[frikbt08.zip](bin/frikbt08.zip)<br>[frikbt07.zip](bin/frikbt07.zip)<br>[frikbt06.zip](bin/frikbt06.zip)<br>[frikbt05.zip](bin/frikbt05.zip)<br>[frikbt04.zip](bin/frikbt04.zip)
+FrikBot | Ryan Smith aka "Frika C" | [fbxc.zip](bin/fbxc.zip)<br>[fbxb.zip](bin/fbxb.zip)<br>[fbxa.zip](bin/fbxa.zip)<br>[fbx.zip](bin/fbx.zip)<br>[fbxextra.zip](bin/fbxextra.zip)<br>[frkbt09b.zip](bin/frkbt09b.zip)<br>frkbt09a.zip<br>[frikbt09.zip](bin/frikbt09.zip)<br>[frik9tst.zip](bin/frik9tst.zip)<br>[frikbt08.zip](bin/frikbt08.zip)<br>[frikbt07.zip](bin/frikbt07.zip)<br>[frikbt06.zip](bin/frikbt06.zip)<br>[frikbt05.zip](bin/frikbt05.zip)<br>[frikbt04.zip](bin/frikbt04.zip)<br>frikbt03.zip<br>frikbt02.zip<br>frikbt01.zip
 Frikbot + CTF | Benjamin Darling aka "Electro" | [frikbotctf_01.zip](bin/frikbotctf_01.zip)
 Frikbot4 | Will Scarlet aka "whipowill" | [frikbot4-20220729.zip](bin/frikbot4-20220729.zip)
 FrogBot ModPack | Mario Rillmann aka "Neophyte" | mpak1v12.zip<br>[mpak1v11.zip](bin/mpak1v11.zip)<br>[mpak1v10.zip](bin/mpak1v10.zip)
