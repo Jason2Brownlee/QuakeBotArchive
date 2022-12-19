@@ -451,9 +451,18 @@ Oak Bot
 	https://www.linkedin.com/in/johncrickett/
 	[contacted author directly via linked in]
 Tutor Bot / AI cafe / Coffee
-	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/tutor.htm
-	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/files/tutor.zip
 	Darryl Atchison aka "coffee"
+	http://planetquake.com/minion/
+		https://web.archive.org/web/19980113014328/http://planetquake.com/minion/
+		https://web.archive.org/web/19981206132716/http://www.planetquake.com:80/minion/
+		https://web.archive.org/web/19991011225135/http://www.planetquake.com/minion/tutorial/main.htm
+		https://web.archive.org/web/19981205020902/http://www.planetquake.com/minion/news.htm
+		https://web.archive.org/web/19990224021540/http://www.planetquake.com:80/minion/news.htm
+		https://web.archive.org/web/20000831171304/http://www.planetquake.com:80/minion/news.htm
+	news?
+	mirrors
+		https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/tutor.htm
+		https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/files/tutor.zip
 Roambot
 	CARSON SUTTON ("Gwynn" on irc, "Crimson" to quake victims)
 	Carson Sutton aka "Crimson"

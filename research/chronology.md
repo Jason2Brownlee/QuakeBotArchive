@@ -144,6 +144,7 @@ Oct 16 1998 | frogbot012a.zip | Frogbot v0.12a.
 Oct 18 1998 | frogbot012c.zip | Frogbot v0.12b.
 Oct 23 1998 | frogbot012b.zip | Frogbot v0.12c.
 Jan 09 1999 | frogbot_demo.zip | Frogbot Demos.
+Jan 10 1999 | tutor.zip | Tutor Bot v1.0.
 Jan 29 1999 | frogfix1.zip | Frogbot Fix.
 Apr 26 1999 | frogbot013.zip | Frogbot v0.13 Test.
 ??? ?? 1999 | frikbt01.zip | Frikbot v0.01.
@@ -164,4 +165,3 @@ Jul 27 2001 | fbxextra.zip | Frikbot v0.10.0 Extras.
 Aug 06 2001 | fbxa.zip | Frikbot v0.10.1 (FBXa).
 Nov 22 2004 | fbxb.zip | Frikbot v0.10.2 (FBXb).
 May 19 2006 | fbxc.zip | Frikbot v0.10.3 (FBXc).
-
