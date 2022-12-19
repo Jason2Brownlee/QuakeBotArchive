@@ -150,16 +150,18 @@ Apr 26 1999 | frogbot013.zip | Frogbot v0.13 Test.
 ??? ?? 1999 | frikbt02.zip | Frikbot v0.02.
 ??? ?? 1999 | frikbt03.zip | Frikbot v0.03.
 May 23 1999 | frikbt04.zip | Frikbot v0.04.
-Jun 07 1999 | frikbt05.zip | Frikbot v0.05.
+Jun 09 1999 | frikbt05.zip | Frikbot v0.05.
 Jun 26 1999 | frikbt06.zip | Frikbot v0.06.
 Jul 28 1999 | frikbt07.zip | Frikbot v0.07.
 Sep 19 1999 | frikbt08.zip | Frikbot v0.08.
 Feb 22 2000 | frikbt09.zip | Frikbot v0.09.
-??? ?? 2000 | frikbt09a.zip | Frikbot v0.09a.
 Mar 10 2000 | darkbot-fnl-q2.tar.gz | Darkbot vFinal
-May 16 2000 | frikbt09b.zip | Frikbot v0.09b.
-Jul 27 2001 | fbx.zip | Frikbot v0.10.
-Aug 06 2001 | fbxa.zip | Frikbot v0.10.1.
-Nov 22 2004 | fbxb.zip | Frikbot v0.10.1b.
-May 19 2006 | fbxc.zip | Frikbot v0.10.2.
+May 17 2000 | frikbt09b.zip | Frikbot v0.09b.
+??? ?? 2001 | fbxrj2.zip | Frikbot Demo.
+May 25 2001 | fbxdem.zip | Frikbot Demo.
+Jul 27 2001 | fbx.zip | Frikbot v0.10.0 (FBX).
+Jul 27 2001 | fbxextra.zip | Frikbot v0.10.0 Extras.
+Aug 06 2001 | fbxa.zip | Frikbot v0.10.1 (FBXa).
+Nov 22 2004 | fbxb.zip | Frikbot v0.10.2 (FBXb).
+May 19 2006 | fbxc.zip | Frikbot v0.10.3 (FBXc).
 
