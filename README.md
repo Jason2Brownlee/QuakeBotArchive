@@ -70,7 +70,7 @@ Bot Player (BPlayer) | Wolfgang Lehrach aka "Wolf" | [bplayer2.zip](bin/bplayer2
 BotArena (FrikBot) | Fabiano D. Amorim aka "Vegetous" | [botarena.zip](bin/botarena.zip)<br>[bt_scr.zip](bin/bt_scr.zip)
 BotSkin | Warren Cheung aka "WACko" | [btskn22.zip](bin/btskn22.zip) ([txt](bin/btskn22.txt))<br>botskn21.zip<br>[botskn20.zip](bin/botskn20.zip) ([txt](bin/botskn20.txt))<br>botskn19.zip<br>[botskn18.zip](bin/botskn18.zip) ([txt](bin/botskn18.txt))<br>botskn17.zip<br>botskn16.zip<br>botskn15.zip<br>botskn14.zip<br>botskn13.zip<br>botskn12.zip<br>botskn11.zip<br>[botskn10.zip](bin/botskn10.zip)
 BrBot | "DRaKuLL" | [brbot.7z](bin/brbot.7z) <br>[brbotqc.zip](bin/brbotqc.zip)<br>brbot.exe
-BuddyBot | "Parsec" | [bbot_b1.zip](bin/bbot_b1.zip) <br>[bbot_b11.zip](bin/bbot_b11.zip)
+BuddyBot | Chris Steegmans aka "Parsec" | [bbot_b1.zip](bin/bbot_b1.zip) <br>[bbot_b11.zip](bin/bbot_b11.zip)
 CTF Bot | Drew Davidson aka "BZ" | [ctfbot13b1.zip](bin/ctfbot13b1.zip) ([txt](bin/ctfbot13b1.txt))<br>[newctf12.zip](bin/newctf12.zip) ([txt](bin/newctf12.txt))<br>[ctfbot12.zip](bin/ctfbot12.zip) ([txt](bin/ctfbot12.txt))<br>[ctfbot11.zip](bin/ctfbot11.zip) ([txt](bin/ctfbot11.txt))
 CTF Plugin (Frikbot) | Dan Hale aka "Wazat" | [ctfprogs.zip](bin/ctfprogs.zip)<br>[ctfplug2.zip](bin/ctfplug2.zip)
 CTFBot+ | Anthony Distler aka "*this" | [ctfbotp032399.zip](bin/ctfbotp032399.zip) <br>[ctfbotmw21.zip](bin/ctfbotmw21.zip)<br>[ctfbotp071498-upgrade.zip](bin/ctfbotp071498-upgrade.zip)<br>[ctfbotp071498u.zip](bin/ctfbotp071498u.zip)<br>[ctfbotp070498.zip](bin/ctfbotp070498.zip)<br>[ctfbot_060298.zip](bin/ctfbot_060298.zip)
