@@ -1,6 +1,5 @@
 # Quake Bot URL Wishlist
 
-ftp://bluesnews.com/pub/bots/reaprb75.zip
 ftp://cdrom.planetquake.com:2121/holywars/hwqwbotv101c.zip
 ftp://ftp.canvasnet.com/quake/qc/bots/reaprb05.zip
 ftp://ftp.cdrom.com/pub/idgames2/planetquake/tfbot/tfb-v07.zip
@@ -27,7 +26,6 @@ ftp://ftp.epix.net/pub/telefragged/be/fmods/demos/frogbot_demo.zip
 ftp://ftp.grayphics.com/pub/frigid/botblast/obots101.hqx
 ftp://ftp.grayphics.com/pub/frigid/botblast/reaper08.sit.hqx
 ftp://ftp.livewire.com.au/pub/planetquake/holywars/hwqwbotv101c.zip
-ftp://ftp.pk.edu.pl/pub/games/id/quaketoys/mods/reaprb75.zip
 ftp://ftp.questnet.net.au/pub/planetquake/holywars/hwqwbotv101c.zip
 ftp://ftp.saix.net/pub/telefragged/be/fmods/Accuracy.zip
 ftp://ftp.saix.net/pub/telefragged/be/fmods/demos/frogbot_demo.zip
@@ -110,7 +108,6 @@ http://groups.yahoo.com/group/friktf/files/friktf-051901.zip
 http://groups.yahoo.com/group/friktf/files/friktf-092800-qw.zip
 http://groups.yahoo.com/group/friktf/files/friktf-092800.tar.gz
 http://home-4.worldonline.nl/~t625343/guardbot.zip
-http://home.sol.no/hestokke/bots/reaprb75.zip
 http://home.t-online.de/home/026051408/kok220.zip
 http://home.t-online.de/home/0551705030/squirt10.zip
 http://idgames.gameaholic.com/idgames/quakec/compilations/wyrmb2.txt
@@ -150,7 +147,6 @@ http://railgun.macquakeinfinity.com/downloads/fbctf026.zip
 http://railgun.macquakeinfinity.com/downloads/fbctf030.zip
 http://railgun.macquakeinfinity.com/downloads/mac_hwbot003b7final.sit.bin
 http://redwood.gatsbyhouse.com/quake/files/B75chg.txt
-http://redwood.gatsbyhouse.com/quake/files/reaprb75.zip
 http://se.aminet.net/pub/aminet/game/patch/frogbot.lha
 http://shub-hub.quaddicted.com/files/mods_multiplayer/monsterFBXID1waysV2.zip
 http://shub-hub.quaddicted.com/files/mods_multiplayer/orionbots_v3_ra.zip
@@ -253,7 +249,6 @@ http://www.planetquake.com/requiem/files/req_qw.zip
 http://www.planetquake.com/requiem/files/reqqw104.zip
 http://www.planetquake.com/requiem/files/reqqw20i.zip
 http://www.planetquake.com/requiem/files/reqqw23.zip
-http://www.quakehole.com/files/quakec/reaprb75.zip
 http://www.quaketerminus.freeola.com/mods/UD120.zip
 http://www.quaketerminus.freeola.com/mods/UD130.zip
 http://www.rmbwenw.nl/botarea51/files/xreaper/setup.exe
