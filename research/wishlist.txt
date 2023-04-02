@@ -164,7 +164,6 @@ gbped10.zip
 glyde.zip
 glydeqk.zip
 grdbot13.zip
-guardbot.zip
 hhbot.zip
 holomod.zip
 holyfbotmod05.zip

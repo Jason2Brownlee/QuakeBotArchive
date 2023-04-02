@@ -57,7 +57,6 @@ ftp://ftp2.action.updates.cx/pub/mirrors/telefragged/be/fmods/demos/frogbot_demo
 ftp://ftp3.action.updates.cx/pub/mirrors/telefragged/be/fmods/Accuracy.zip
 ftp://ftp3.action.updates.cx/pub/mirrors/telefragged/be/fmods/demos/frogbot_demo.zip
 ftp://mirrors.xmission.com/planetquake/holywars/hwqwbotv101c.zip
-ftp://nctuccca.edu.tw/PC/games/QUAKE/newstuff/guardbot.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf004.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf006.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf010.zip
@@ -106,7 +105,6 @@ http://geocities.com/timessquare/hangar/8961/squirt12b.zip
 http://groups.yahoo.com/group/friktf/files/friktf-051901.zip
 http://groups.yahoo.com/group/friktf/files/friktf-092800-qw.zip
 http://groups.yahoo.com/group/friktf/files/friktf-092800.tar.gz
-http://home-4.worldonline.nl/~t625343/guardbot.zip
 http://home.t-online.de/home/026051408/kok220.zip
 http://home.t-online.de/home/0551705030/squirt10.zip
 http://idgames.gameaholic.com/idgames/quakec/compilations/wyrmb2.txt
@@ -132,7 +130,6 @@ http://parboil.quakeworld.ru/parboil/fbca86se.zip
 http://parboil.quakeworld.ru/parboil/src_fbca092.zip
 http://parboil.quakeworld.ru/parboil/src_fbca100.zip
 http://parboil.quakeworld.ru/tappak/fbca102kt-rc1.zip
-http://petervw.club.tip.nl/guardbot.zip
 http://quake.org.pl/files/quake/boty/frogboteditor/fbedit17.zip
 http://quake.tronet.troitsk.ru/download/Accuracy.zip
 http://quake.tronet.troitsk.ru/download/fbedit17.zip
