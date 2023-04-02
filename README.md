@@ -183,7 +183,7 @@ Ogre Bot | "Lava Man" | [ogrebot.zip](bin/ogrebot.zip) ([txt](bin/ogrebot.txt))
 Olofs QC Collection (Wisp) | Olof Svensson | [oqcc092b.zip](bin/oqcc092b.zip) ([txt](bin/oqcc092b.txt))
 Omicron Bot | Jan Paul van Waveren aka "Mr. Elusive" and Miklos de Rijk aka "H2SO4" | [obots102.zip](bin/obots102.zip)<br>[obots102.sit](bin/obots102.sit)<br>[obots101.zip](bin/obots101.zip)<br>obots101.sit<br>[obots100.zip](bin/obots100.zip)<br>obots100.sit
 Omicron Fixes | Joel Baxter aka "Johnny Law" | [obots102-fixed.zip](bin/obots102-fixed.zip)
-Optimized Frogbot (Amiga) | Christian Michael aka "surgeon" | [frogbot.lha](bin/frogbot.lha) ([txt](bin/frogbot.txt))<br>[frogmaps.lha](bin/frogmaps.lha)
+Optimized Frogbot (Amiga) | Christian Michael aka "surgeon" | [frogbot.lha](bin/frogbot.lha) ([txt](bin/frogbot.txt))<br>[frogmaps.lha](bin/frogmaps.lha)<br>[ofrogbot012c.zip](bin/ofrogbot012c.zip)
 Orion Team Fortress (OrionTF) (OrionBots) | "Orion" | [oriontf_beta4.zip](bin/oriontf_beta4.zip)<br>[oriontf_beta3.zip](bin/oriontf_beta3.zip)<br>[oriontf_beta2.zip](bin/oriontf_beta2.zip)<br>[oriontf.zip](bin/oriontf.zip)
 OrionBots | "Orion" | [orionbots_qc_beta5.zip](bin/orionbots_qc_beta5.zip)<br>[orionbots4rel.zip](bin/orionbots4rel.zip)<br>orionbots_v3_ra.zip<br>[orionbots_v2.zip](bin/orionbots_v2.zip)<br>orion_bots.zip
 Paddybot | Patrick Stimson aka "sniper" | paddybot02.zip<br>paddybot.zip
