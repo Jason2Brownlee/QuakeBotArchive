@@ -29,7 +29,6 @@ ftp://ftp.livewire.com.au/pub/planetquake/holywars/hwqwbotv101c.zip
 ftp://ftp.questnet.net.au/pub/planetquake/holywars/hwqwbotv101c.zip
 ftp://ftp.saix.net/pub/telefragged/be/fmods/Accuracy.zip
 ftp://ftp.saix.net/pub/telefragged/be/fmods/demos/frogbot_demo.zip
-ftp://ftp.stomped.com/pub/quake/quakec/weapons/var14.zip
 ftp://ftp.stomped.com/pub/redwood/bots/oak0855.zip
 ftp://ftp.sunet.se/pub/pc/games/idgames2//planetquake/qca/tfb-v07.zip
 ftp://ftp.sunet.se/pub/pc/games/idgames2/incoming/darkbt10.zip

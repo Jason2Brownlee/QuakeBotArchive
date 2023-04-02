@@ -255,7 +255,7 @@ Ultimate Weapons Mod (Zeus) | Andy Brennan | [ultimate.zip](bin/ultimate.zip) ([
 UnknownBot | Brian L. | [ubot14.zip](bin/ubot14.zip)
 Upgrade Quake (Cujo) | "The Wanderer", "Spectre" | upgrade.zip ([txt](bin/upgrade.txt))
 UrreBot | Marko Permanto aka "Urre" | [urrebot20050820.zip](bin/urrebot20050820.zip)<br>[urrebot20050813.zip](bin/urrebot20050813.zip)<br>[wayboxedit20050813.zip](bin/wayboxedit20050813.zip)
-Vari-Patch (DMBot) | Chris Millward | var25.zip<br>var19.zip ([txt](bin/var19.txt))<br>var18.zip ([txt](bin/var18.txt))<br>var17.zip<br>var14.zip ([txt](bin/var14.txt))
+Vari-Patch (DMBot) | Chris Millward | var25.zip<br>var19.zip ([txt](bin/var19.txt))<br>var18.zip ([txt](bin/var18.txt))<br>var17.zip<br>[var14.zip](bin/var14.zip) ([txt](bin/var14.txt))
 VeNgAb0T | "WuPP" | [venga.zip](bin/venga.zip)
 Vicinity Bot | "Black" | vicinityqwprogs.zip<br>vicinitymodels.zip<br>vicinitysource.zip
 Victim Bot | Tony Tang aka "The TangMaster" | [vbot11.zip](bin/vbot11.zip) ([txt](bin/vbot11.txt))<br>[vbot1.zip](bin/vbot1.zip)

@@ -250,7 +250,6 @@ udm12-15b.zip
 udm15-15b.zip
 udm15b.zip
 ultdet110.zip
-var14.zip
 var18.zip
 var19.zip
 var25.zip
