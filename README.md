@@ -189,7 +189,7 @@ OrionBots | "Orion" | [orionbots_qc_beta5.zip](bin/orionbots_qc_beta5.zip)<br>[o
 Paddybot | Patrick Stimson aka "sniper" | paddybot02.zip<br>paddybot.zip
 Paroxysm (POXbot) (Tutorbot) | Frank Condello aka "pOx" | [paroxysm.zip](bin/paroxysm.zip)<br>[pox120b.zip](bin/pox120b.zip)<br>[pxsrc120.zip](bin/pxsrc120.zip)<br>[pox111b2.zip](bin/pox111b2.zip)<br>[pox111b.zip](bin/pox111b.zip)<br>[pox102b.zip](bin/pox102b.zip)<br>[pxqc102b.zip](bin/pxqc102b.zip)<br>[pox101bu.zip](bin/pox101bu.zip)<br>[pox_100.zip](bin/pox_100.zip)<br>[poxqc100.zip](bin/poxqc100.zip)<br>[pox_04b2.zip](bin/pox_04b2.zip)
 Prodigy Server Engine (XBots) (Reaper) | David Rodgers | prodigy35b1.zip
-QCBot | Alan Kivlin aka "Virtuoso" aka "Strider" | [qcbot003.zip](bin/qcbot003.zip) ([txt](bin/qcbot003.txt))<br>qcbot002.zip<br>qcbot001.zip
+QCBot | Alan Kivlin aka "Virtuoso" aka "Strider" | [qcbot003.zip](bin/qcbot003.zip) ([txt](bin/qcbot003.txt))<br>[qcbot002.zip](bin/qcbot002.zip)<br>qcbot001.zip
 Quake Bot (QBot) | Muhammad Hidayat Bin Sman aka "Grinder" | [qbot11.zip](bin/qbot11.zip) ([txt](bin/qbot11.txt))
 Quake Dodgeball (OrionBots) | Brendan aka "Trickle" and "Orion" | [quake_dodgeball_v1.2.6.zip](bin/quake_dodgeball_v1.2.6.zip)<br>[db_src_2016.zip](bin/db_src_2016.zip)<br>[quake_dodgeball_1.1.zip](bin/quake_dodgeball_1.1.zip)<br>[dodgeball3.zip](bin/dodgeball3.zip)<br>[dodgeball_patch.zip](bin/dodgeball_patch.zip)<br>[dodgeball_01.zip](bin/dodgeball_01.zip)<br>[dodgeball.zip](bin/dodgeball.zip)
 Quake Soccer | Orion | [qsoccer_finalish.zip](bin/qsoccer_finalish.zip)<br>[qsoccer_finalpatch.zip](bin/qsoccer_finalpatch.zip)<br>[soccer3.zip](bin/soccer3.zip)<br>[soccer2.zip](bin/soccer2.zip)<br>[soccer2patch.zip](bin/soccer2patch.zip)<br>[qsoccer_v132.zip](bin/qsoccer_v132.zip)<br>[qsoccer_v13.zip](bin/qsoccer_v13.zip)<br>[soccer.zip](bin/soccer.zip)
@@ -289,4 +289,4 @@ Lists of known files missing from the archive.
 
 This quake bot archive would not be as complete as it is without the generousness help from the Quake community.
 
-Special thank you to: John Crickett, Joel Baxter aka "Johnny Law", Hannes aka "Spirit" (from quaddicted), Fabiano D. Amorim aka "vegetous", Benjamin Darling aka "Electro", Rui Neto aka "Trinca", Rich Whitehouse aka "thefatal", Marko Permanto aka "Urre", Mark Wheeler, Daniel Svensson, Michael Kamensky, Chris Winger, and Wintertime.
+Special thank you to: John Crickett, Joel Baxter aka "Johnny Law", Hannes aka "Spirit" (from quaddicted), Fabiano D. Amorim aka "vegetous", Benjamin Darling aka "Electro", Rui Neto aka "Trinca", Rich Whitehouse aka "thefatal", Marko Permanto aka "Urre", Mark Wheeler, Daniel Svensson, Michael Kamensky, Chris Winger, Wintertime, and Quake Mod Museum (QuakeMM).

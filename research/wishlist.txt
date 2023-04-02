@@ -212,7 +212,6 @@ placebot.zip
 prodigy35b1.zip
 progdet.zip
 qcbot001.zip
-qcbot002.zip
 rakoolio.zip
 rbot.zip
 reaprb05.zip
