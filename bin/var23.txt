@@ -1,0 +1,167 @@
+***************
+VARI-PATCH V2.3
+***************
+
+Source available on request
+Please feel free to FTP this (mentioning me)
+
+By Chris Millward      22/11/96
+
+Credit goes mostly to these super programmers:-
+
+Grappling Code   -  Mike <amichael@asu.alasu.edu>
+
+Bot Code (Most)  -  Micheal Polucha (TM bot)
+                    Tim Polucha (TM bot)
+                    Nathaniel Gorham (DM bot)
+                    Chris Weisdorf (ideas)
+                    detour@chrysalis.org
+
+Tractor Beam     -  Jonathan Avraham <procedure@hotmail.com>
+
+Flamer (Most)    -  <lord@brodart.com>
+
+Many thanks to ID for this superb game.
+
+
+Please let me know of any bugs you find.  The only one I can see at
+the moment which occurs very rarely is when you kill a bot and collect
+its backpack, you seem to get the lighning gun ?
+
+------------------------------------------------------------------------
+
+UPDATE: 
+        Backpack bug fixed. (was not resetting ammo)
+        Bots can now fire Standard & Homing Rockets.
+        Bots Health increased back to 200.
+
+-----------------------------------------------------------------------------
+
+Combines:-
+
+Deathmatch Bots (max of 12 - depending on edicts)
+Comrade Bots (AI is a bit lame)
+     Start with Shotguns, can collect and use:-
+       -Super Shotgun.
+       -Nail Gun.
+       -Super Nail Rifle.
+       -Rockets / Homing Rockets.
+       -Armour.
+       -Health.
+       -Ammo.
+     Bots cannot use:-
+       -Grenade Launcher. (Will collect)
+       -Lightning Gun. (Will collect)
+       -Quad.
+       -666.
+     Bots will squash, but they teleport straight back.
+     When they kill you, your frag will -1
+     Bots can jump.
+     Bots frags are displayed when they die
+     Bots are not resistant to lava or slime. (upper body)
+     Bots can stay in water for as long as they want.
+     Bots self destruct if they run out of ammo. (twice grenade power)
+     Bots take on your skin colours.
+
+To CREATE bots, change your net name to SecurE and do an impulse 229.
+This makes it harder for people to create bots, as too many would
+crash the server. (and there are nasty people out there!)
+
+
+Tractor Beam (Lightning gun changes mode)
+
+Pipebomb (weapon 6 toggles)
+
+Incendiary Prox Mines  (weapon 7 toggles)
+       Ammo needed for prox mines & pipebombs - 5 grenades
+       5 secs to arm, experiment with placement.
+
+Texture for grenade can be changed (invisible mines!)
+
+Timed Grenades for normal launcher
+     (type Temp1 x  (x is time) at console)
+
+Nuke Grenades - Wipe out an entire team!
+
+Zombies on walls can be gibbed
+
+Electro Bomb (throw into water, 5 secs, fried enemies)
+
+Laser Rifle (replaces shotgun)
+     Tough weapon, but it eats shotgun ammo.
+     When used in combination with Quad Damage
+     fires tons of lasers.
+
+Lightbomb
+     Throw this a room and watch'em run for the exit
+     Blinds all in prox for 15 seconds, easy targets! (not bots)
+
+Extra Gibs
+     Twice as much gore, Three times as much
+     on Shamber & Fiend
+
+Power Axe
+     Twice as strong as before, actually worth using
+     when you have ammo!
+
+Sticky Homing Missiles
+     Home in to enemy, sticks up arse, then blows up after approx 3 secs
+     watch the smoke trails as they run! (COOL)
+
+Give a Backpack
+     Face your team mate and press R (impulse 18)
+
+Flame Thrower (weapon 5 toggles)
+    NOTE: You have to have the Super Nail Rifle & Grenade Launcher
+           (both these combine to give flame thrower)
+
+    Uses rocket fuel, works on players, monsters, and bots
+     
+    If your on fire, jump into some water
+
+Grappling Hook (weapon 1 toggles / IMPULSE 12 or 'E')
+    Aim at a wall or roof and hold down fire, the chain will pull you
+    towards your target.  Fire it at enemies and watch there insides go
+    outside.
+
+Server Info (impulse 150 or 'I')
+       Requests server info, lists all except impulse 229.
+       
+
+************************************
+IMPORTANT - COPY THESE FILES TO PLAY
+************************************
+Make this directory...
+
+ \QUAKE\VAR
+
+Then...
+
+Copy progs.dat into \QUAKE\VAR
+
+
+To play...
+
+type quake -game var
+
+
+Commands... (should be setup in the config.cfg in \QUAKE\VAR)
+
+                                                Key
+IMPULSE 13    Toggle Lightning / Tractor Beam   "L"
+IMPULSE 229   Spawn Bot(s)                      "N"  (NET NAME - SecurE)
+IMPULSE 17    Detonate Pipebombs                "M"
+IMPULSE 19    Change Bomb Texture +             "P"
+IMPULSE 20    Change Bomb Texture -             "O"
+IMPULSE 15    Throw Light Bomb                  "V"
+IMPULSE 14    Throw Electro Bomb                "W"
+IMPULSE 18    Give Backpack                     "R"
+IMPULSE 16    Throw Nuke Grenade                "G"
+IMPULSE 12    Select Grappling Hook             "E"
+IMPULSE 150   Server Info                       "I"
+
+ENJOY!
+
+
+EMail:  Chris.R.Millward@BTINTERNET.COM
+Home:   http://www.btinternet.com/~chris.r.millward

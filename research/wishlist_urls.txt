@@ -1,11 +1,9 @@
 # Quake Bot URL Wishlist
 
 ftp://cdrom.planetquake.com:2121/holywars/hwqwbotv101c.zip
-ftp://ftp.canvasnet.com/quake/qc/bots/reaprb05.zip
 ftp://ftp.cdrom.com/pub/idgames2/planetquake/tfbot/tfb-v07.zip
 ftp://ftp.cdrom.com/pub/idgames2/quakec/bots/darkbt4.zip
 ftp://ftp.cdrom.com/pub/idgames2/quakec/bots/rbot.zip
-ftp://ftp.cdrom.com/pub/idgames2/quakec/bots/reaprb05.zip
 ftp://ftp.cdrom.com/pub/idgames2/telefragged/epidemic/frogbot012a.zip
 ftp://ftp.cdrom.com/pub/idgames2/telefragged/metro/frogbot007.zip
 ftp://ftp.cdrom.com/pub/planetquake/holywars/hw_frogbot.zip
@@ -70,7 +68,6 @@ ftp://numb.macquakeinfinity.com/numb/ctf/fbctf033.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/pak2pak.zip
 ftp://numb.macquakeinfinity.com/numb/holywars/hw_frogbotf.zip
 ftp://quake.mtu.ru/pub/quake/bots/frogbot7.zip
-ftp://quake.mtu.ru/pub/quake/bots/reaper.zip
 ftp://quake.mtu.ru/pub/quake/bots/zeusbot.zip
 ftp://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/idgames2/telefragged/epidemic/frogbot012a.zip
 ftp://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/idgames2/telefragged/metro/frogbot007.zip
@@ -85,7 +82,6 @@ http://asp.planetquake.com/dl/dl.asp?/holywars/hwqwbotv101c.sit
 http://asp.planetquake.com/dl/dl.asp?/holywars/quake/hw_frogbot14f.zip
 http://asp.planetquake.com/dl/dl.asp?requiem/reqqwsrc.zip
 http://aswp.tzo.net/maleficus/setup.zip
-http://bluesnews.com/reaper.txt
 http://botarea51.impulse9.net/mirror/bot/elimpack.zip
 http://dmsoul.mailru.com/botmatch/bm119gl.zip
 http://first.quakegate.ru/bots/frogbot.rar
@@ -181,7 +177,6 @@ http://www.3ddownloads.com/telefragged/metro/frogbot012.zip
 http://www.angelfire.com/co2/kooliobot/images/koolio.zip
 http://www.angelfire.com/co2/kooliobot/images/rakoolio.zip
 http://www.angelfire.com/pe/pent3/images/frogbot011.zip
-http://www.bluesnews.com/archives/reaper.txt
 http://www.bluesnews.com/reaprb06.txt
 http://www.botepidemic.com/fmods/bm116se.zip
 http://www.botepidemic.com/fmods/fbca088se.zip
