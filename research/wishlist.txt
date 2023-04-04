@@ -7,7 +7,6 @@
 # setup.exe
 # setup.zip
 # upgrade.zip
-# reaper.zip
 # omega.zip
 # req.zip
 # accuracy.zip
@@ -248,8 +247,19 @@ udm12-15b.zip
 udm15-15b.zip
 udm15b.zip
 ultdet110.zip
+var10.zip
+var11.zip
+var12.zip
+var13.zip
+var15.zip
+var16.zip
+var17.zip
 var18.zip
 var19.zip
+var20.zip
+var21.zip
+var22.zip
+var24.zip
 var25.zip
 vicinitymodels.zip
 vicinityqwprogs.zip
@@ -371,7 +381,17 @@ tballman097.txt
 udm12-15b.txt
 udm15-15b.txt
 udmsrc.txt
+var10.txt
+var11.txt
+var12.txt
+var13.txt
+var15.txt
+var16.txt
 var17.txt
+var20.txt
+var21.txt
+var22.txt
+var24.txt
 var25.txt
 wyrmb1.txt
 wyrmb11.txt
@@ -384,14 +404,6 @@ zeus2042.txt
 zeus201b.txt
 zeus20b.txt
 
-
-# reaper bot stuff
-b05chg.txt
-b06chg.txt
-b75chg.txt
-b81chg.txt
-pqccreap.zip
-# reaper.txt
 
 # other
 mac_hwbot003b7final.sit.bin
