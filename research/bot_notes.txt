@@ -2859,6 +2859,34 @@ glide quake
 	zip file is attached but corrupt it seems
 	Randy D. Shoultz
 	- adds cujo and wisp
+void mod (frikbots)
+	https://web.archive.org/web/20000817084622/http://www.planetquake.com/5thD/
+		Void V1.09
+		https://web.archive.org/web/20000831112300fw_/http://www.planetquake.com/5thD/readmes/void109.txt
+		https://web.archive.org/web/20000831112300/http://www.mdqnet.net/wazat
+		https://web.archive.org/web/20000831112300/http://www.fileplanet.com/dl/dl.asp?5thD/voidm109.zip
+	https://web.archive.org/web/20010515201415/http://www.geocities.com/TimesSquare/Labyrinth/2011/
+	Danny Hale aka "Wazat"
+	https://www.moddb.com/mods/void
+		voidm110.zip
+		https://www.moddb.com/downloads/mirror/872/130/be642ee416572e76cd2c3033d2a4309a/?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fvoid
+	https://www.lonebullet.com/mods/download-void-mod-v110-quake-mod-free-42280.htm
+	http://www.mdqnet.net/wazat
+		not archived
+	https://www.gamefront.com/games/quake/file/void-mod-1
+		voidm127.exe
+			VOIDM127.ZIP
+			www.mdqnet.net/dept187
+			http://www.mdqnet.net/voidmod
+				not archived
+	https://dukeworld.com/planetquake/5thD/
+	https://www.gamers.org/pub/idgames2/planetquake/5thD/
+		108
+		109
+		110
+	https://web.archive.org/web/20060622081457/http://quake.errorabove.com/QuakeC/Combos/voidm110.txt
+	related to "best of void" ????
+
 
 
 

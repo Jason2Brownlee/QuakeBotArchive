@@ -1,0 +1,486 @@
+===========================
+=  Title: Void Mod        =
+===========================
+
+Filename : VOIDM110.ZIP
+Version  : 1.10 <nearing completion>
+URL      : 	www.mdqnet.net/wazat
+			or
+		http://www.geocities.com/TimesSquare/Labyrinth/2011/
+		or try http://www.planetquake.com/5thD/ if above is out of service
+
+Date     : Started: Feb. 21, 99
+	   Current date: May 8, 99
+
+Author(s): Danny Hale
+
+Other mods: Wazat Mod (huge collection of weapons and features), Weapon monsters (weapons attack you, have to kill them to pick them up), morph monsters, leapfrog grenades (quake2)
+
+Email    : c21@lingthng.com
+URL      : http://www.geocities.com/TimesSquare/Labyrinth/2011/
+
+Credits  : * QC Code *
+           ===========
+		Just me :)  Of course, I did get help from people like Frika-c
+
+           * Level *
+           =========
+		wazat		a *very* small map, mostly for 2-4 players or bots.  Good for players who like close quarters or don't like to have to search for someone to kill :)
+
+           * Compiler *
+           ============
+	   FastQcc By ???  (if you know, e-mail me, I wanna give the guy credit for saving countless hours of compiling! :P )
+           ProQcc By Lee Smith <lees@infoave.net>
+
+	   * FrikaBots!*
+	   Frika-c is genious!  He made a bot that requires only like 10 line changes in your code, which saved me big time.  A minor change to weapon selection and they're a blast!  I'm working on making them decide on which weapon to use intelligently, and so far it's working well. This is the best way to test the weapons in the mod or play. Once again, Thanks frika!  <side note: 10 or so pages of mushy thanks to Frika have been cut out to reduce the downloading time of the mod :P >
+
+           * Others *
+           ==========
+           All VoidMod's beta testers, in the order of how much testing they did:
+		me :)
+		Frika-c
+		Jared Ballou
+		Ripoff (my unckle, Mike Ripplinger)
+		Kupop
+		Arcove, aka Adam Grickites
+           ID Software for distributing the code legally (I have no intention of learning hexidecimal!... :P )
+
+=================
+=  Type of Mod  =
+=================
+
+Quake C  : separate .zip, get it from webpage or e-mail me
+Sound    : no, maybe in later versions
+MDL      : yes, but not required for clients.
+
+=======================
+=  Format of Quake C  =
+=======================
+
+.qc files     : e-mail me at c21@lingthng.com for source
+progs.dat     : yes
+.mdl files    : yes, but not required for clients.
+
+
+=====================================
+=  Description of the Modification  =
+=====================================
+
+This mod is entirely server side.  In other words, when someone connects to a game, they do not have to download anything.
+This is my second attempt at a *true* mod.  The Wazat Mod (my first mod instead of making patches) sorta failed in several ways.
+1. I never found or made any models for it, and couldn't get a devoted modeler on the team.
+2. 2 years (that's right, I worked on it for 2 years :( ) of hard work on the mod finally ended when I entered high school and no longer had time to work on it's many bugs.
+3. The mod got too huge, and went out of control.  Finding and correcting bugs became impossible, and it seemed too unbalanced.  Added to that, Quake couldn't handle a mod that big, and so had all kinds of problems (like crashing to console with Null Function error).
+5. I can't count very high without losing interest, so I lost track of how many weapons were in the mod... (lost count at 60 :P)
+6. The Wazat Mod never had a good name.  What kind of sick person would name the mod after himself?  Oh, wait, that sick person is me!  :P
+
+Anyway, this mod is starting over, mostly favoring balance and gameplay over a huge and jumbled arsenal.  Over time it will include some of the weapons & features from the Wazat mod (only the best ones), and other mods as well.  In this mod however, I will try to keep things balanced, and not let things spin out of control.  I will/may have new monsters, weapons, features, etc And.... new models -- it's going to be an actual mod.  I may also have different weapons for multiplayer and single player (like in the Wazat Mod), and a bot that can use all the weapons (side note, currently the frikabot), something the Wazat Mod desperately needed for some time!
+
+
+=====================================
+=  How to Install the Modification  =
+=====================================
+
+
+1. goto Quake directory
+2. make a sub dir named void
+3. unzip everything with -d (for pkunzip) into that sub dir (the -d option just ensures that files will be placed in the correct sub folders, ie .mdl in the progs dir, .bsp in the maps dir, and .wav in the sounds dir)
+If you are one of the lucky people to have downloaded the self-installer (when it's available), just double-click it and install into the default dir it provides.
+4. run quake with the -game option, as shown below
+
+Dos Examples:
+
+C:\>cd quake
+
+C:\Quake>md void
+
+C:\Quake>cd void
+
+C:\Quake\void>unzip -d void
+or
+C:\Quake\void>pkunzip -d void
+(depending on what program you have)
+
+... unzip files ...
+
+
+To run the game, go to the ms dos prompt (in windows click start button->programs->msdosprompt)
+
+C:\Windows>cd\quake
+
+C:\Quake>Quake -game void
+
+If you're running under Windows 95, and have more than 8 MB of ram,
+try to run Quake with this command :
+
+C:\Quake>Quake -game void -winmem 12
+
+(If you have more than 16 MB of ram, replace 12 with something bigger)
+
+
+GLQUAKE:
+For those of you that use glquake, for some reason most new models don't show up well.  If you don't like black lasers, bubbles, and pulses, I suggest you don't go gl.  (of course, I'd prefer gl, even if the models are messed up).  *However*, often the problem can be fixed by deleting the files in your quake\id1\glquake folder (.ms2 files).
+
+
+
+
+===============================
+=  Brief summary of features  =
+===============================
+
+
+New weapons		Ammo	Scale*	Key #	Fire-type
+=============================================================================
+*(scale of 1 is least powerful, 5 is more or less power of grenade)
+(Ammo cost : S = shells, N = nails, R = rockets, C = cells)
+(Note: most new weapons you have to press the key # twice to select)
+(Note: amount of shells is doubled. max is 200, shotgun takes 2, supershotgun takes 4, etc)
+
+Laser Bomb		*1	4	1	Single/Explosive/Stationary
+Laser Tripwire		*1	2-3	1	Single/Beam/Stationary
+Pulse Gun		1s	1	2	Single/Projectile
+Explosive-Shell Shotgun	8s	4-7	3	Single/Spread/Explosive
+Handgun			6n	3-4	4	Multiple/LargeSpread/Projectile
+25mm Canister Rifle	1s	3.3	4	Single/Explosive
+Ricochet Nailgun	2n	2-3	5	Rapid Fire/Projectile
+RapidFire Canister Rifle2s	3.5	4	Rapid Fire/Explosive
+Ferrets			3r	4	6	Single/Explosive/Guided
+Anti-camper Bomb	3r	5	7	Single/Explosive/Bomb/Guided
+PowerBall		10c	7-10+	8	Single/Projectile/AreaEffect
+Plasma Cannon		3c	3-4	9	Single/Explosive/CondensedAreaEffect
+Hyperblaster		1c	3-4	9	Rapid Fire/Projectile/Spread
+Nail Bomb <see below>	5r	6-10+	0	Single/Bomb
+Nail Launcher		5r	6-10+	0	Single/Bomb
+Ambush Bomb		5r	6-10+	0	Single/Bomb
+
+*1 The ammo requirement for the laser bomb/tripwire is not of the 4 normal ammo types.  You can carry up to 2 laserbombs, and 2 tripwires.  This ammo is picked up with rocket and cell ammo boxes, and other people's backpacks.
+
+Note: The Nail Bomb, Nail Launcher, and Ambush Bomb can be selected at any time if you have enough ammo.  Their power is extremely variable.  A well placed nail bomb can kill a shambler, a poorly placed nail bomb won't hurt a flea and will be a waste of 5 rockets.  A well timed and placed nail launcher can do tremendous damage to a large number of enemies, or it won't hurt anything. They must be placed at the right time and the right place. An ambush bomb's damage is slightly more reliable, but is often not worth it's ammo requirement.  See further descriptions below.
+
+Note: You cannot set more than 2 tripwires, 2 laser bombs, 5 acbombs, and 3 ferrets.  If you do, the oldest one will explode.  This is to reduce lag and overflows.
+
+Another note: you can now carry 200 shells (double), and all weapons and ammo boxes have been updated accordingly (shotgun now takes 2 shells).  This is to allow other weapons to take half ammo.
+
+Perhaps more weapons will be added in the future...
+
+==================================
+=  Full description of features  =
+==================================
+
+Weapons:
+
+Name			created by
+===========================================================
+
+Laser Bomb:		Danny Hale (me)
+Place this bomb on the wall or floor.  Anything (including you) that crosses the laser will trigger the bomb to explode.  If the item that triggers the bomb to go off is not near the bomb, it will not be damaged, so place you're bombs well.  Laser bombs can be destroyed by explosions, but because of their explosive power, they will set off their own explosion upon being destroyed.
+
+Laser Tripwire:		Danny Hale
+These bombs do not explode, but instead they have a much stronger laser, which hurts anything running through it, at nearly any distance.  When destroyed these bombs do not explode, they just disapear.
+
+Pulsegun:		Danny Hale
+This gun does less than half the damage of the shotgun, but takes half the ammo.  The effect on monsters is more useful, however.  While shooting a monster, that monster will only be able to react at 1/4 speed.  The effect on players is similar.  A player will still be able to run at full speed, but will only fire at 1/4 speed, and their vision will be thrown in all different directions, making it incredibly hard for them to aim.  Using this gun efficiently is difficult, as you could end up using more ammo than with the shotgun to do the same amount of damage, but the skill is worth learning.
+
+Explosive-Shell Shotgun:Danny Hale
+This high-powered weapon is strong enough to kill some monsters in 1-2 blasts, and others in a few more.  It takes 8 shells per shot, and it is not good at long range.  Also, remember, it is an explosive weapon, so you don't wanna be hugging you're enemy or the wall when you shoot!
+
+Handgun:		Danny Hale
+For some strange, strange reason, this gun is one of my favorites.  I don't even know why.. :)  Anyway, this gun fires 3 projectiles that each do more damage than a superspike.  Because of the spread of the nails, this gun is fairly ineffective at long-range, but is quite strong in close range combat or a firestorm.  Once again, it's a matter of doing more damage, faster.  It does you no good to die with a bunch of ammo (but benefits you're opponent greatly :P).  
+
+25mm Canister Rifle:		Danny Hale
+This gun fires 1 25mm shell per round.  The shells usually explode before they impact, insuring a hit if you miss by a few inches, but often doing less damage than they should.  This gun is fairly effective at long-range, and is also effective against grouped, small enemies and close-range combat.  The smaller an enemy is, the more damage you will do to it.  It's a bad idea to chase down a shambler with this gun, take my word for it!
+
+Ricochet Nailgun:	Danny Hale
+These nails do the same damage as the Super Nailgun, but they ricochet off the wall.  However, like I'll say about most weapons in this mod, using this gun *effectivly* is difficult.  One hint is do not fire up and down and everywhere, try to keep your stream of nails in a flat path.  Nails bouncing up and down rarely hit anyone, but nails flying horizontally have a better chance because they are at the same height as other monsters and players.  The smaller the room, the more effective the gun, making some levels better than others.  Beware, the nails can hurt their owner too.
+
+Rapid Fire Canister Rifle:Danny Hale
+This gun fires 5 explosive shells/second.  The physics of the bullets work about the same as the 25mm Canister Rifle, but are more powerful.  When you fire the gun, it must first start rotating, much like a chaingun.  When it is rotating fast enough it will fire until you release the button, and will slowly decelerate.
+
+Ferrets:		Danny Hale
+Ferrets carry a very inexpensive and easy to mass produce computer chip, making them very "stupid", but very cost effective.  They are in-capable of flight because the only fuel they contain is enough to move across the ground, leap at an enemy at the last second (to increase chances of hitting), and fuel to ignite and explode.  Remember that they move across the ground and may have some trouble finding and pursuing the right target.  If they cannot detect any targets, they follow their owner.
+
+Anti-camper Bomb:	Danny Hale
+While barely useful in single-player, they are a killer in multiplayer.  Don't let the name limit your uses!  Place them like regular (stationary) bombs, you'd be surprised at how many players don't watch where they are going.  As the name suggests, they can be used against camping.  They do move towards a target, but very slowly.  This bomb moves at the speed of 50, rockets move at a speed of 1000.  However, for people who sit in 1 room or guard respawn points (the lowest grade of camper :P), these bombs are quite useful, especially if they are not looking.  This bomb has the power of a grenade, and keeps campers on their toes, making them have to move away every few seconds or so.  You can actually lead your AC bombs to new locations (when close to your bomb, it follows you).  You can tell what a bomb is doing by the way it is spinning.  When a bomb is spinning horizontally, it has no enemy and is not following it's owner.  When it spins vertically, it is following it's owner.  When it spins like a drill, it is pursuing an enemy.
+These bombs are armed the second they are put down, and will not be detonated by their owner.  They are very useful when you just drop them behind you when someone is following, or put them in doorways.
+
+Power Ball:		Danny Hale
+This gun takes a moment to charge up, and then fires a concentrated ball of energy.  Anything directly visible to the ball will recieve tremendous amounts of damage over a short period of time.
+
+Hyperblaster:		Danny Hale
+This gun fires out a rapid stream of lasers blasts, doing large amounts of damage.
+
+Plasma Cannon:		Danny Hale
+This gun fires rapid pulses of energy.  On impact, they creates small explosions, 1/3 - 1/2 of a grenade's radius.  There is a larger area effect that does 10-15 damage to any surrounding enemies, even beyond walls.  This is a good weapon for taking out campers when you can't get a straight shot at them.  Just shoot at the other side of the wall, and they'll be hurt.  Of course, it will take quite a few shots, especially if they have armor.
+
+Nail Bomb:		Danny Hale
+This bomb can be selected at any time if you have enough ammo (you don't need to pick up a gun to fire it).  Once thrown, it takes time to arm and deploy.  It will then jump into the air and fire bullets in all directions, and then drop to the ground and explode for the final kill.  Placement and timing of these bombs is crutial!  If the bomb hits an enemy at any time before deploying, it will explode in a large radius that is not worth 5 rockets.  A well placed bomb is capable of killing a shambler, a poorly placed bomb won't do any damage and will waste your 5 rockets.  These bombs can hurt their owners.
+
+Nail Launcher:		Danny Hale
+This bomb can be selected at any time if you have enough ammo.  Once thrown, it takes time to arm and deploy.  It will then jump into the air and start to spin, firing powerful and concentrated bullets from a front and back end, and then drop to the ground and explode.  Placement and timing of these bombs is crutial, as with the nail bomb!  If the bomb hits an enemy at any time before deploying, it will explode in a large radius that is not worth 5 rockets.  A well placed bomb is capable of killing tremendous numbers of enemies, a poorly placed bomb won't do any damage and will waste your 5 rockets.  These bombs can hurt their owners.
+
+Ambush Bomb:		Danny Hale
+Ambush bombs can be frusterating on the giving and recieving end.  They are often not worth the 5 rockets they cost, as 1 rocket is well over enough to kill a man (yet these things will almost kill someone with no armor).  Simply drop them on the ground and get away.  When an enemy passes close by, the bomb will launch at them, taking into account their trajectory, and aims for the face.  This will usually hurt an enemy enough to kill it with a few following gunshots.  These bombs can target and hurt their owners.
+
+
+Note: Ummmm... I guess it's strange that I'm the only author of any of the weapons.  There used to be other weapons done by other people (like chain lightning, by Chris Burke), but they were removed for balance issues or because they sucked... :(
+
+
+Other main features :
+=====================
+
+
+Frikabots:
+I'm very impressed with this bot.  It's pathfinding may not be the best, but it can be inserted into any mod and played with a minimum of 5-10 line changes in you're code!  Anyway, type impulse 100 (or addbot) to add a bot.
+IMPORTANT!  You must start quake with the "-listen 4" parameter in order to spawn bots, i.e:
+quake -game void -listen 4
+without the -listen parameter, you cannot spawn a bot.  this is because the frikabot is considered by quake to be a real player, and so will not spawn one if there is no room on the server :P
+
+*********************
+Cieling/Wall Turrets:
+*********************
+These turrets can be placed anywhere in a map, and have an entire arnenal of weapons at their command.  Turrets usually take into account their target's trajectory so that their bullets hit nearly every time.  There are several features that can be turned on and off and you can select what weapon to use.  When making a map, the following specifics and arguments can be added to a turret to affect it's behavior:
+
+specific		argument	default (if any)
+	description
+===========================================================
+
+Spawnflag settings:
+note: to use multiple spawnflags, add the numbers together:
+spawnflags 4 + spawnflags 8 = spawnflags 12
+-------------------
+spawnflags		1
+turret does not appear in a deathmatch
+
+spawnflags		2
+turret does not respawn in deathmatch
+
+spawnflags		4
+turret aims slowly.  This is good to use in conjunction with not aiming ahead and weapons that instantly hit target(like laser or chaingun).  You should also use the speed command, for example:
+speed 0.05
+is the default aiming speed.  If the speed is set too fast, it will default to 0.05.
+
+spawnflags		8
+turret does not aim ahead of target according to velocity.  This is good to use in conjunction with slow aiming or weapons that instantly hit target(like laser or chaingun)
+
+spawnflags		16
+turret will not target players with invisibility
+
+spawnflags		32
+quiet turrets -- turrets do not make a shooting noise
+
+Other settings:
+---------------
+distance		x		800
+sets the max distance at which the turret can target an enemy to x, where x is a positive number.
+
+wait			x		1
+sets the refiring rate of whatever weapon the turret is using.  If the rate is below 0.1, it will speed up the turret's thinking rate as well, and therefore speed up other functions (like targeting and health regenerating)
+
+speed			x		<off>
+sets the speed at which a turret will target and aim at an enemy.  If you set speed, the spawnflags 4 will be automatically turned on.
+
+model			x		"progs/grenade.mdl"
+sets what the turret will look like.  the field x *must* be an existing quake model in the folder being used.  example:  you make a new model called "turret.mdl".  Put it in c:\quake\void\progs\turret.mdl . Now give the turret the command:
+model "progs/turret.mdl"
+This can also be done with sprites, i.e.
+model "progs/s_light.spr"
+
+health			x		40
+sets the health of the turret to x.
+
+cnt			x		0
+if this field is set, turret health regeneration will be on.  sets how much health the turret will regenerate per think.  Unless you set the wait field lower than 0.1, the turret will regenerate x amount of health every 0.1 seconds.
+
+impulse			x		10
+if it is a deathmatch and turret respawning is not turned off, this sets the amount of time it takes for the turret to respawn after death to x seconds
+
+Turret weapons:
+---------------
+weapon			0
+laser blaster
+
+weapon			2
+pulsegun
+
+weapon			4
+nailgun
+
+weapon			5
+super nailgun
+
+weapon			7
+rockets
+
+weapon			9
+plasmacannon
+
+weapon			10
+shotgun.  This is best used with spawnflags 4 & 8
+
+weapon			11
+chaingun.  This is best used with spawnflags 4 & 8.  The dmg field should also be used.
+
+weapon			12
+laser.  This is a real laser, and should be used with spawnflags 4 & 8.  The dmg field should also be used:
+dmg			x		10
+If the turret is using the laser or chaingun, this is needed to set how much damage the turret will do.
+
+
+Other features:
+===============
+press c or use +crouch to crouch.  +movedown has been moved to button v
+
+max amount of shells doubled, as well as ammo requirements for other guns and shell boxes (shotgun takes 2 shells, supershotgun takes 4, start with 50 shells instead of 25, can carry 200 max)
+
+you pick up laserbombs and tripwires from rocket and cell boxes, and from other people's backpacks when they have them
+
+You cannot set more than 2 tripwires, 2 laser bombs, 5 acbombs, and 3 ferrets.  If you do, the oldest one will explode.  This is to reduce lag and overflows.
+
+Typeing "x-ray" will toggle x-ray vision
+
+more stuff will be added soon
+
+======================
+=  IMPULSE Commands  =
+======================
+
+Brief IMPULSE commands summary :
+
+<-- Default weapon switch commands -->
+
+impulse 1    Switch between regular axe, laser bombs, and laser tripwires
+impulse 2    Switch between shotgun and pulsegun
+impulse 3    Switch between super-shotgun and explosive-shell shotgun
+impulse 4    Switch between nailgun, handgun and 25mm canister rifle
+impulse 5    Switch between super nailgun, ricochet nailgun, and rapid fire canister rifle
+impulse 6    Switch between regular grenades and ferrets
+impulse 7    Switch between regular missiles and anti-camper bombs
+impulse 8    Switch between lightning gun and powerball
+impulse 13   Switch between plasmacannon and hyperblaster
+(bind to button 9)
+impulse 14   Switch between nail bomb, nail launcher, and ambush bombs.  Can be selected at any time (no weapon needs to be picked up to fire them)
+(bind to button 0)
+
+
+impulse 100  Add a Frikabot.
+
+impulse 15 (+crouch; button c) crouch
+impulse 16 (-crouch; release button c) uncrouch
+
+x-ray - toggle x-ray vision
+
+note: in future versions there may be special commands later for selecting laser bombs and tripwires instead of pressing 1 repeatedly, etc.
+
+<-- Instant weapon fire/switch commands -->
+will be soon
+
+===========
+= Updates =
+===========
+These updates start as of version 1.06
+
+v1.10
+improved player weapon auto-selection code tremendously
+increased acbomb speed from 20 to 50!  You can actually tell they are moving now :)
+acbombs now cost 2 rockets instead of 3
+fixed bug where nailbomb and nail launcher did not jump high enough
+fixed bug where pulsegun fired anywhere but forward
+increased pulsegun firing rate, increased damage by a small amount
+powerball now does less damage as it flies
+changed powerball so that in deathmatch, when it explodes, it kills 3 visible players around it.  This may be changed back...
+changed chaingun for turrets so that it's configurable damage (like laser)
+changed dm4 and dm6 to have turrets in them, and named them dm4void and dm6void.  I will change the other maps to have the hyperblaster and turrets as well, if people want them.  The maps are separate from the main download, in a maps pack.
+I *think* I fixed the bug where you run out of nails with the supernailgun but have shells, and the gun flashes and won't fire.
+added quiet turrets spawnflag (32) to turret options
+fixed crouching.  Enemies and bots can now attack you when you're crouched
+
+v1.09
+fiddled with the turrets a little
+determining weapon for turrets now changed by "weapon" variable rather than "spawnflags"
+added spawnflags to turrets to give different behaviors (gone in dm, slow targeting, don't respawn, etc.)
+the turret in Wazat.bsp now has minimal health, so it is easier to kill.  It has 1 health instead of 50, making it a little more fair :)
+
+v1.08
+added rapid fire canister rifle
+rapid fire canister rifle changed to operate like a chaingun
+fixed ferret movement and targeting
+ferrets now move much faster, they can actually hit a player now :)
+Added better instructions for spawning bots, as some people were not using the -listen parameter
+Fixed bug where your rapid fire canister rifle resets when you go over an item
+Changed tripwires.  They now do far more damage/time, and in dm they do a larger amount of damage over time than before
+
+v1.06 - 1.07
+Fixed some of the ferret's targeting problems
+nailbombs and launchers can now damage their owners but now also give their owner a frag if they kill an enemy
+flamegun has been removed
+handgun and 25mm canister rifle added  (that's a mouth full :P )
+Powerball replaces chain lightning
+finally updated *this* text file :)
+crouching added!
+
+
+=======================
+=  Technical Details  =
+=======================
+
+-----
+Bugs:
+-----
+Ferret often targets monsters it can't get to (like monsters on elevated platforms or higher than ferret)
+
+Ferret sometimes falls through walls or floor (especially in corners)
+
+If you die or quit the game while crouching, you may be stuck with that speed.  To fix this just type "-crouch" or push-and-release the crouch key
+
+If you uncrouch while someone is standing on your head (for whatever reason, don't ask :P ) you may be stuck together.  Just uncrouch and have them move off, or start hacking with the axe :)
+
+Sometimes you cannot select certain secondary weapons (like canister rifle) because the primary weapon (nailgun) does not have enough ammo.
+
+
+=========================
+=  Future Enhancements  =
+=========================
+
+I have a whole list of things I plan on adding
+
+Future Weapons:
+homing missile (never a mod without one)
+grappling hook (a mod isn't a mod without a grappling hook :P)
+other weapons from the Wazat mod
+etc.
+
+Future Monsters:
+The grappler and morph monsters from the Wazat mod are expected to be back soon
+I want to make a soldier that has access to multiple weapons and decides between them intelligently, like a final boss or a bot.
+
+Future Features:
+Dogs play dead
+enemies hurt by lava
+able to gib corpses, and walk over them
+Some powerups may be replaced by new ones or by different weapons
+
+
+=================
+= Contacting me =
+=================
+e-mail: c21@lingthng.com
+E-mail is welcome, as long as there is thought put into it :)
+
+
+============================================
+=  Copyright and Distribution Permissions  =
+============================================
+Ok, the basic legal stuff:
+
+Authors MAY use these modifications as a basis for other
+publicly available work.  Please send me any modifications
+you make!
+
+If you have used part of this patch (code, model or sound) in
+your own patch, please give credits to the authors who have made
+them - including myself. Thank you.
+
+You may distribute this Quake modification in any electronic
+format as long as this description file remains intact and unmodified
+and is retained along with all of the files in the archive.
