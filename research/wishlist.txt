@@ -277,6 +277,12 @@ wyrmb15.zip
 xkteams1705.zip
 xkteams1705s.zip
 xkteams2.zip
+xreaperb100.zip
+xreaperb110.zip
+xreaperb120.zip
+xreaperb121.zip
+xreaperb122.zip
+xreaperb123.zip
 zeus20.zip
 zeus201.zip
 zeus201b.zip
