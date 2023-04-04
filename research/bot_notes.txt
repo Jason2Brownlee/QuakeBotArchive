@@ -2819,6 +2819,8 @@ Jeht
 		http://static.condemned.com/files/jeht15.zip
 		http://static.condemned.com/files/jehtchanges.txt
 		http://static.condemned.com/files/jehtreadme.txt
+	http://quake.errorabove.com/QuakeC/Weapons/jeht15.txt
+	http://quake.errorabove.com/QuakeC/Weapons/jeht15.zip
 Best Of Void
 	Wazat
 	Uses Frikbots

@@ -1,0 +1,243 @@
+=============
+= Jeht v1.1 =
+=============
+
+===========================================
+= Introduction (why would you make this?) =
+===========================================
+
+The world needs more quality deathmatch mods, despite the general opinion.  That's my opinion regardless of people's resistance.  And besides, my opinion is usually just other people's opinions all garbled together, with all the realistic garbage strained out and no tacky feedback to make me feel bad.
+
+So what I think is, the world doesn't need more deathmatch mods, it needs more Quality deathmatch mods.  Just like the world needs more quality movies, not more movies.
+A mod should have someone's blood, sweat, and tears poured into it; those are the staple ingredients.  And lots of pepper.  But I'm tired of having to spice my own meals and pretend they don't taste like heavily peppered soy beam extract flavored kidney beans on soiled rice.  I want real chille and if I have to make if for myself every night then so be it.
+And you guys can come over too, but if I hear so much as one whine of "my mod's too peppered" then BAM, you're outta here.
+
+
+Jeht is a deathmatch mod.  In a day and age where there are so many deathmatch mods they all kind of blend together, one would hope that people releasing new ones would make them stand out and play very well.  Hopefully this will work for you.
+
+I've spent much time playing this mod against friends & neighbors & frikbots (my only real friends most of the time :p ) and balancing the weapons and taking feedback.
+
+=========================
+= Why is it named Jeht? =
+=========================
+
+I don't know.
+
+============================
+= How to play the safe way =
+============================
+
+Start up a deathmatch game.  On a map without lava, or slime.  Or water.  Don't spawn bots.  Don't invite friends.
+
+
+===============
+= How to play =
+===============
+
+Start up a deathmatch game.  It doesn't matter what map.  Spawn lots of bots.  Have lots of fun.  Invite friends.  Team up against the bots, because they're jerks.
+
+PLEASE edit game.cfg and tell it what buttons to assign reload and auxfire to.  You're sure to get pissed at what I decided on.
+
+Many weapons have an auxilary fire to them.  It would be to your advantage to make use of these.
+
+============
+= Impulses =
+============
+
+There are none.  Just reload weapon and auxfire, which, again, are in game.cfg.
+
+impulse		command		default bind
+
+-		+auxfire	mouse2	Use the weapon's auxfire
+13		reload		enter	Reload your weapon if it needs it (optional)
+100		addbot		*	adds a frikbot to the party
+101					adds a frikbot to your team
+102		removebot		kicks a bot out
+103		botcam			become a camera & watch from other's eyes
+
+
+===========
+= Weapons =
+===========
+
+Everybody loves this part.
+
+Rifle:
+This weapon is always available, but is weak enough that you may prefer to use it only when all other weapons are out of ammo.  If fires a single shot at a decent rate of fire.
+Aux:
+Gremlin: Fires a volley of bio-seeking bullets that do some pretty good damage.  The bullets will home in on any target they can find, making this an extremely effective weapon.  However, this weapon is experimental and not all the bugs have been picked out.  Each time you fire, you will lose some health.  It will not kill you, but it may eventually hurt you enough that someone else can.
+
+Machvin:
+A strong and accurate machinegun that can battle with the best of them.  It has a 60 round clip that can be eaten up quite fast, but it changes clips very quickly.  Not bad at all for the starting weapon.
+Aux:
+Heavy Machvin: Fires a slower but more powerful projectile.
+
+Tri-barrel Shotgun:
+Very powerful and a good fire rate.  However, it uses up its clip very quickly so you'll have to reload quite often.  It uses 3 shells per blast and can hold 15 shells at a time.
+Aux:
+Reload 3 shells into the clip.  Pressing the reload button or running out of ammo in the clip will do the same thing.
+
+Pulse Rifle:
+Fires a continuous stream of slow moving but powerful pulses.  Can do a great deal of damage to an enemy if it hits.
+Aux:
+Shock Rifle: Fires a deadly barrage of bullets that will bounce off walls.
+
+Namek:
+A rapid fire monster of a weapon that will wreak havok in a firestorm.  It eats nails up quite quickly though.
+Aux:
+Fires a duel shot at a lower fire rate, conserving ammo & providing better accuracy.
+
+Resonac Arbitor:
+A deadly mortar that fires rapidly and with great precision.  One can really tear it up with this weapon.  The only downfall is it's seemingly endless delay before beginning to fire. Gotta plan ahead, and maybe just not ever stop firing...
+Aux:
+Launch a powerful grenade, which will explode on impact with anything living.
+
+Rocket Launcher:
+The player's best friend in a firestorm, the rocket launcher can really tear it up.
+Aux:
+Railgun: Takes a lot of precision but quite rewarding.  It will go through multiple targets and cover great distances.
+
+Plasma Cannon:
+Rapid fire bursts of pure energy to rip the living crap outta anything that gets in your way.
+Aux:
+Flak Cannon: Fires a cluster of red-hot bullets that rip through anything living.  The bullets will bounce around, possibly rebounding back to cause more damage.
+
+
+=========
+= Items =
+=========
+Changes to items from normal quake:
+
+Quad damage is actually 3x damage instead of 4x.
+
+Bio Suit, in addition to protection from environmental hazards, will deflect 25% damage in addition to any shielding you may have.
+
+
+==========
+=Frikbots=
+==========
+
+Your best fiends err.. friends ever.
+If you feel like pounding or getting pounded, try the frikbots.  "addbot" is all you need to spawn a delightful friend to beat the tar out of.  Unfortunately these new ones are a lot more snobbish and refuse to jump in lava all the time, so you'll have to actually kill them to win; but you'll get by.
+Frikbots come in 4 different skill levels, 0-3, so I suggest you set the "skill" command before spawning them (setting skill has no effect on bots already spawned).
+The frikbots are already quite familiar with maps dm1-dm6, and surprisingly they don't have even near the lava problems I have on dm4. :P  This is because those maps have been professionally waypointed.  On any other maps I suggest you go to the FrikbotWaypontDepot, a link to which could be at Frika-C's site at www.inside3d.com/frikbot/ ... However I must warn you, his mods are much better than mine and I'd be rather disgruntled if you were to download them.
+
+
+===========================
+= Custom Map Rotation =
+===========================
+
+R&R - Random and Rotation.
+Normally in normal quake, playing a custom map means ending up at start.bsp once the match is over.  But with this feature, the game will automatically rotate through the maps you specify.  You can even have it randomly select maps instead of playing them in order.
+
+To do this, run quake with the "+exec maplist.cfg" option (without the quotes, of course).
+For example:
+
+quake -game jeht -listen 16 +exec maplist.cfg
+
+But before running quake, you'll probably want to open maplist.cfg in notepad and determine the maps it will play.  The list will basically look like this:
+samelevel 6
+fraglimit 10
+alias map1  "changelevel dm1"
+alias map2  "changelevel dm2"
+alias map3  "changelevel dm3"
+alias map4  "changelevel dm4"
+alias map5  "changelevel dm5"
+alias map6  "changelevel dm6"
+alias map7  "samelevel -2; map1;"
+
+The first line, samelevel, determines how map rotation will function.
+If samelevel is 0, quake runs normally.
+If samelevel is 1, quake will play the same map over and over again (like old samelevel system).
+If samelevel is above 0, but not 1, quake will randomly select from that number of maps.  In this example, samelevel is 6, so map numbers 1-6 in the list will be selected from.
+If samelevel is below 0, quake will rotate through the maps in order.  The number it is set to is the number of map it will start out at.  So, if samelevel is -3 and the map changes, map4 will be loaded next.
+
+Unlike random map selection, map rotation requires a final addition to the list, which is map7 in this example:
+alias map7  "samelevel -2; map1;"
+This line tells the rotator that it has reached the end of the list and needs to start over.
+****NOTE****
+The ONLY change you should make to this line is to change the number after "map".  If you added 2 more maps to the list, then you would change this number to 9 to put it back at the end of the list:
+...
+alias map5  "changelevel dm5"
+alias map6  "changelevel dm6"
+alias map7  "changelevel efdm12"
+alias map8  "changelevel ztndm5"
+alias map9  "samelevel -2; map1;"
+
+That's about it.
+
+By the way, you can do more than simply a changelevel command between the quotations.  You can change fraglimits, timelimits, and set other game options.  For example:
+
+alias map5  "changelevel dm5; fraglimit 20"
+
+But remember, it won't go back to the old fraglimit automatically when the map changes.  You'll have to adjust the next map's command to set it back.
+
+alias map6  "changelevel dm6; fraglimit 10"
+
+
+=========
+=Credits=
+=========
+
+I'm not too concerned with credits, I don't think anyone will care (no one plays my mods).  However some people do deserve credit where I can give it.
+I guess I should credit the original author of BestVoid - which was me - for the sounds and code I ripped from it.
+
+Also I shamelessly (and thankfully) ripped a lot of sounds from Quake2:
+Mach1-5.wav are the machinegun sounds, and I took ric4, which is also for the machinegun.  laserhit.wav I think is from Quake2, and there are some ammo & item & menu sounds too.  Many of the weapon models are sad messups of the quake2 models (the skins didn't turn out), except for the Namek, I did that; but it's nothing spectacular...
+
+The plasma rifle sounds are from Fiend Hunter, wherever he got them.
+
+The pulse rifle sound is from Q3A.
+
+Namek.wav is from LTH, I dunno where he got it.  He had intended for it to be for a normal handgun.  I screwed it up anyway.
+
+Frikbots: I'm ever so happy that FrikaC released FBX, and I wish I had more time to spend with the little guys... but alas, the bell tolleth for me...
+
+The rifle and plasma models are from Xoltan's Fiend Hunter mod.
+
+Also, someone sent me this message (I apologize for not remembering who)
+>btw, that Namek sound was originally taken from the crack dot com 
+>game Abuse. It's Abuse's plasma gun. And as for the old Jeht plasma 
+>gun (the zap), it's a mix of 2 Abuse sounds. Hope to keep you 
+>informed on where those sounds came from ;) 
+
+
+=========
+=Contact=
+=========
+
+My e-mail is static_void@hotmail.com.  I may also be found on the forums of Inside3d.com.  Come and visit us.
+
+
+============================================
+=  Copyright and Distribution Permissions  =
+============================================
+I actually ripped this section of readme from another mod, I don't remember which, and edited it for myself.  Technically the Copyright and Distribution Permissions don't apply to themselves... do they?
+
+Well anyway, the basic legal stuff everyone loves to hate:
+
+Authors MAY use these modifications as a basis for other
+publicly available work.  Please send me any modifications
+you make.
+
+If you have used part of this mod (code, model or sound) in
+your own mod, please give credits to the authors who have made
+them - including myself. Thank you.
+
+You may distribute this Quake modification in any electronic
+format as long as this description file remains intact and unmodified
+and is retained along with all of the files in the archive.
+You are not allowed to sell this mod for money without permission.
+
+
+...and my own fully legal additions, my lawyer's almost sure this time.
+
+You may delete this mod; however, I am not responsible for bad clusters or lost data that may result.  It's frikbot that does that, I swear :P
+
+You may not get mad at me for forgetting to credit you.  I'm sorry.  I ran into deadlines.  Grieve over it at forums.inside3d.com.
+
+
+
+
+
+Thank you for reading to the end of the file.  Please contact me at static_void@hotmail.com so I can... uh, reward you I suppose.
