@@ -184,5 +184,6 @@ SuperDuper / Bondo's SuperDuper Quake / SDQ
 	many versions
 	really large files...
 	basically a TC
-
+Quake Bot C/S
+	https://web.archive.org/web/19990427091206/http://www.coe.uncc.edu:80/~jfrorie/quakebot.htm
 
