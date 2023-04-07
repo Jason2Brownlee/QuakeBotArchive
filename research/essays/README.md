@@ -4,7 +4,7 @@ Essays that summarize the reconstructed release history of individual bots.
 
 More essays will be added as time permits.
 
-If you have corrections, comments, or additions to any essays, please email email Jason Brownlee via jason.brownlee05@gmail.com
+If you have corrections, comments, or additions to any essays, please email Jason Brownlee via jason.brownlee05@gmail.com
 
 
 ## Bot Essays

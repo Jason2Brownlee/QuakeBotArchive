@@ -18,8 +18,8 @@ The hologram use cells (for the lighting gun) and will only last 10 seconds befo
 
 This mod was developed and released by Perecli Manole aka "Bort".
 
-	HoloSelf QuakeC Mod v1.0                   8/10/96
-	By: Perecli Manole AKA: Bort
+> HoloSelf QuakeC Mod v1.0                   8/10/96
+> By: Perecli Manole AKA: Bort
 
 -- Holo.txt, from holo1.zip.
 
@@ -28,9 +28,9 @@ The first version was distributed in the file holo1.zip on the public FTP site f
 
 The release included the source code (Holo.qc), a compiled game code (progs.dat) file and a readme file (Holo.txt). The readme is dated August 10th 1996, although the timestamps of the files in the archive is August 11th which is taken as the release date.
 
-    642 11 Aug  1996 Holo.txt
- 412168 11 Aug  1996 progs.dat
-   2647 11 Aug  1996 Holo.qc
+      642 11 Aug  1996 Holo.txt
+   412168 11 Aug  1996 progs.dat
+     2647 11 Aug  1996 Holo.qc
 
 -- holo1.zip
 
@@ -46,9 +46,9 @@ This release contained the same files although is dated August 14th 1996. It was
 
 The readme was updated to reflect the change to v2.00, but the release date was not changed and the nature of the change was not described.
 
-   1094 14 Aug  1996 Holo.txt
- 412744 14 Aug  1996 progs.dat
-   3440 14 Aug  1996 Holo.qc
+     1094 14 Aug  1996 Holo.txt
+   412744 14 Aug  1996 progs.dat
+     3440 14 Aug  1996 Holo.qc
 
 -- holo2.zip
 
