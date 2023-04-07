@@ -16,22 +16,6 @@ This project seeks to (1) **locate**, (2) **archive**, and (3) **host** all vers
 
 If you have backups of old Quake bots, [you can help](#Help).
 
-## Quake Bot Files
-
-All Quake bot files are located in the [bin/](bin/) directory or subdirectory.
-
-Directory | Description
---- | ---
-[bin/](bin/) | Primary archive of quake bot files.
-[bin/eliminator/](bin/eliminator/) | Additional files for the eliminator bot.
-[bin/frikbot/](bin/frikbot/) | Additional files for the frikbot.
-[bin/frogbot/](bin/frogbot/) | Additional files for the frogbot.
-[bin/omicron/](bin/omicron/) | Additional files for the omicron bot.
-[bin/reaper/](bin/reaper/) | Additional files for the reaper bot.
-[bin/other/](bin/other/) | Additional files related to bot development.
-
-The [research/](research/) directory of the archive contains notes developed while researching each bot and resource, as well as wish lists for files known to exist and missing from the archive.
-
 ## Quake Bot Genealogy
 
 Reconstructed Quake bot genealogy.
@@ -269,6 +253,22 @@ XKteams (Frikbot) | Mark | xkteams2.zip<br>xkteams1705.zip<br>xkteams1705s.zip
 Xreaper | Ruud Heemskerk aka "Mephisto" | [xreaperb130.zip](bin/xreaperb130.zip)<br>xreaperb123.zip<br>xreaperb122.zip<br>xreaperb121.zip<br>xreaperb120.zip<br>xreaperb110.zip<br>xreaperb100.zip
 Zeus Bot | Jonathan E. Wright aka "Nelno the Amoeba" | [zeus205s.zip](bin/zeus205s.zip) ([txt](bin/zeus205s.txt))<br>[zeus205.zip](bin/zeus205.zip) ([txt](bin/zeus205.txt))<br>[zeus_src.zip](bin/zeus_src.zip) ([txt](bin/zeus_src.txt))<br>[zeus2042.zip](bin/zeus2042.zip)<br>[zeus2041.zip](bin/zeus2041.zip)<br>[zeus204.zip](bin/zeus204.zip)<br>[zeus203b.zip](bin/zeus203b.zip) ([txt](bin/zeus203b.txt))<br>zeus202b.zip ([txt](bin/zeus202b.txt))<br>zeus201.zip<br>zeus20.zip<br>[zeus10.zip](bin/zeus10.zip) ([txt](bin/zeus10.txt))
 Zeus Hunt (Rumble) | Christopher Dozier "Arwing-X" | [rumble1.zip](bin/rumble1.zip) ([txt](bin/rumble1.txt))<br>[rumble.zip](bin/rumble.zip) ([txt](bin/rumble.txt))
+
+## Quake Bot Files
+
+All Quake bot files are located in the [bin/](bin/) directory or subdirectory.
+
+Directory | Description
+--- | ---
+[bin/](bin/) | Primary archive of quake bot files.
+[bin/eliminator/](bin/eliminator/) | Additional files for the eliminator bot.
+[bin/frikbot/](bin/frikbot/) | Additional files for the frikbot.
+[bin/frogbot/](bin/frogbot/) | Additional files for the frogbot.
+[bin/omicron/](bin/omicron/) | Additional files for the omicron bot.
+[bin/reaper/](bin/reaper/) | Additional files for the reaper bot.
+[bin/other/](bin/other/) | Additional files related to bot development.
+
+The [research/](research/) directory of the archive contains notes developed while researching each bot and resource, as well as wish lists for files known to exist and missing from the archive.
 
 ## Help
 
