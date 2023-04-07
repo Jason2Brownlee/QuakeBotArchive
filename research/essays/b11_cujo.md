@@ -64,10 +64,10 @@ The readme file is full of whimsy, painting the picture of cujo as part of the g
 
 ```
 Cujo is a special, genetically enhanced breed of Rottweiler with 8 times
-  the endurance of other dogs his size.  He can cause up to twice as much
-  damage per attack as his piddly cousins, too.  And to top it all off,
-  Cujo is wearing a special suit of armor designed specifically with him
-  in mind.  Cujo is one *bad* dog.
+the endurance of other dogs his size.  He can cause up to twice as much
+damage per attack as his piddly cousins, too.  And to top it all off,
+Cujo is wearing a special suit of armor designed specifically with him
+in mind.  Cujo is one *bad* dog.
 ```
 
 -- cujo10.txt
@@ -188,8 +188,8 @@ New rules for Cujo in a deathmatch:
 
 
 A suggestion from Gary Mcmillin, credited in the readme, resulted in Cujo being able to eat gibs for health in the game. A clever idea indeed.
-```
 
+```
 Cujo will eat gibs and heads for health.  Eating either will heal him 15
 points.  If there are no enemies around and Cujo's health is 90% or less
 he will eat any gibs he sees.  If Cujo's health is 25% or less he will
@@ -352,8 +352,8 @@ Specifically, two weapons mods blaze gun and bfg.
 Importantly, blaze version 1.0 was released as blaze10.zip and blaze10.txt on November 22, 1996.
 
 The readme of this mod explicitly references the cujo version 12c released in the filename CUJO12C.ZIP.
-```
 
+```
 Filename  : BLAZE10.ZIP
 Version   : 1.0
 Date      : 11/21/96
@@ -631,9 +631,7 @@ The release contains the compiled game code and source code. File timestamps sug
 
 This appears to be the server version mentioned in the readme for version 1.4.
 
-```
-Cujo Server allows players to log on to a server that is running Cujo even if they are not, at the expense of custom graphics and skins
-```
+> Cujo Server allows players to log on to a server that is running Cujo even if they are not, at the expense of custom graphics and skins
 
 -- [http://www.planetquake.com/qca/zeus/cujo.htm](https://web.archive.org/web/19970607150623/http://www.planetquake.com/qca/zeus/cujo.htm) (archived June 07 1997)
 

@@ -12,13 +12,16 @@ Only a single version of the bot was released publicly as the file sambot.zip.
 
 It was uploaded to ftp.cdrom.com and remained a part of the archive, including modern mirrors.
 
-	sambot.txt             08-Sep-96 02:50     4k
-	sambot.zip             08-Sep-96 02:47   721k
+```
+sambot.txt             08-Sep-96 02:50     4k
+sambot.zip             08-Sep-96 02:47   721k
+```
 
 -- [http://www.cdrom.com/pub/idgames2/quakec/bots/](https://web.archive.org/web/19961225222455/http://www.cdrom.com/pub/idgames2/quakec/bots/) (archived December 25 1996)
 
 The archive contains the compiled game code (PROGS.DAT), a readme (SAMBOT.TXT), source code (SAMSRC.ZIP) as well as an assortment of other files such as configuration files, files for the multiskin mod, and compilers for windows.
 
+```
  118465  8 Sep  1996 SAMSRC.ZIP
    2598  8 Sep  1996 PROGDEFS.H
  452056  8 Sep  1996 PROGS.DAT
@@ -35,6 +38,7 @@ The archive contains the compiled game code (PROGS.DAT), a readme (SAMBOT.TXT), 
   12345  1 Aug  1996 MULTISK.TXT
  155416 25 Jul  1996 QCCDOS.EXE
      26 23 Jul  1996 AUTOEXEC.CFG
+```
 
 The key files in the release such as the compiled game code, readme and source code have a timestamp of September 8th 1996.
 

@@ -98,8 +98,8 @@ This may suggest that there was a 1.1 and perhaps 1.2 version before this and th
 The FTP timestamp was September 3rd 1996 and is taken as the public release date.
 
 ```
-	tlgbot.txt             03-Sep-96 12:40     7k
-	tlgbot.zip             03-Sep-96 12:45   366k
+tlgbot.txt             03-Sep-96 12:40     7k
+tlgbot.zip             03-Sep-96 12:45   366k
 ```
 
 -- [http://www.cdrom.com/pub/idgames2/quakec/bots/](https://web.archive.org/web/19961225222455/http://www.cdrom.com/pub/idgames2/quakec/bots/) (archived December 25 1996)

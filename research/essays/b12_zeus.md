@@ -396,7 +396,9 @@ BluesNews was, and remains, a popular gaming news website. It announced the rele
 
     ZeusBot, January 8, 1997
 
-    ZeusBot author Nelno the Amoeba (obviously a self-esteem problem there) sends along word that ZeusBot 2.04 has been released (also available on QCHQ and Nelno's homepage). Here's what's new in this version.
+    ZeusBot author Nelno the Amoeba (obviously a self-esteem problem there)
+    sends along word that ZeusBot 2.04 has been released (also available on
+    QCHQ and Nelno's homepage). Here's what's new in this version.
 
 -- [http://bluesnews.com/jan1.html](https://web.archive.org/web/19970204064523fw_/http://bluesnews.com/jan1.html) (archived 04 February 1997)
 

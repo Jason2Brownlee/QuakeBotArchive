@@ -61,9 +61,11 @@ This version was distributed on ftp.cdrom.com, where it remained as apart of the
 
 The release contains the text file, a pak file containing the compiled game code, and a zip file of the source code for the release.
 
+```
  129069 21 Sep  1996 SRC.ZIP
  454466 21 Sep  1996 PAK0.PAK
    2998 21 Sep  1996 BPLAYER2.TXT
+```
 
 As noted, the readme distributed along side the zip file was for version 1.00 of the release, not version 2.00.
 

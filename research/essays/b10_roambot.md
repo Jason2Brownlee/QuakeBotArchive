@@ -29,8 +29,8 @@ Author   : CARSON SUTTON ("Gwynn" on irc, "Crimson" to quake victims)
 This also matches the FTP file timestamp on cdrom.com. The release was not announced on Usenet.
 
 ```
-	roambot1.txt           03-Sep-96 00:49     3k
-	roambot1.zip           03-Sep-96 00:50   251k
+roambot1.txt           03-Sep-96 00:49     3k
+roambot1.zip           03-Sep-96 00:50   251k
 ```
 
 The version listed in the readme file is 0.9, although the release archive suggests 1.0. It is possible that other versions were created and not released or were released and there is no surviving record.

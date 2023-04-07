@@ -4,7 +4,7 @@ The Oak or the Oak Bot was developed by John Crickett and Neil Henderson as an e
 
 John was the programmer and Neil was responsible for documentation, marketing, and art assets.
 
-	The Oak series of bots are written by John Crickett. Neil Henderson helped with The Oak, creating and hosting the website as well as arranging the custom skins and sound clips.
+> The Oak series of bots are written by John Crickett. Neil Henderson helped with The Oak, creating and hosting the website as well as arranging the custom skins and sound clips.
 
 -- [http://www.oakbots.co.uk/about/](https://web.archive.org/web/20060209191955/http://www.oakbots.co.uk/about/) (archived February 02 2006)
 
@@ -52,7 +52,8 @@ The post links to a page describing the bot, that sadly was not captured by arch
 
 	11 January, 1997
 
-	Take a look at The Oak homepage for information about this cool new Quake bot that John Crickett is writing and I am contributing to.
+	Take a look at The Oak homepage for information about this cool new Quake bot
+	that John Crickett is writing and I am contributing to.
 
 -- [http://web.ukonline.co.uk/Members/neil.henderson/quake.htm](https://web.archive.org/web/19970614202042/http://web.ukonline.co.uk/Members/neil.henderson/quake.htm) (archived June 14 1997)
 
@@ -67,8 +68,10 @@ The first version of the bot was released as oak0405.zip.
 
 The release was shared on ftp.cdrom.com in the quakec/bots/ directory. It remained on the ftp site, and mirrors, and remains there as part of modern mirrors of the archive.
 
-	oak0405.txt            04-May-97 10:25     5k
-	oak0405.zip            04-May-97 10:45   1.0M
+```
+oak0405.txt            04-May-97 10:25     5k
+oak0405.zip            04-May-97 10:45   1.0M
+```
 
 -- [http://www.cdrom.com/pub/idgames2/quakec/bots/](https://web.archive.org/web/19970609212728/http://www.cdrom.com:80/pub/idgames2/quakec/bots/) (archived June 09 1997)
 
@@ -140,7 +143,8 @@ The release was announced on Blues News one day later on May 5th. This may be du
 	May 5, 1997
 
 	Oak Bot
-	The first public beta of the Oak Bot (one of the cool bots that allow you to simulate multiplayer play on your PC, rather than "evil" proxy bots) has been released.
+	The first public beta of the Oak Bot (one of the cool bots that allow you to
+	simulate multiplayer play on your PC, rather than "evil" proxy bots) has been released.
 
 -- [http://www.bluesnews.com/archives/may97-1.html](https://web.archive.org/web/19980129045338/http://www.bluesnews.com/archives/may97-1.html) (archived January 29 1998)
 
@@ -153,7 +157,10 @@ Redwood links to Niels page and to hosted versions of the release and readme fil
 	Also announced on redwood
 
 	New Bot, The Oak
-	The Oak is a Quake C bot made for Deathmatch, Co-operative, and teammatch games. Hopefully we can get something that will improve on the Reaper Bot. I plan on checking this thing out tonight. Download oak0405.zip (1027k) Be sure to check out the readme first.
+	The Oak is a Quake C bot made for Deathmatch, Co-operative, and teammatch
+	games. Hopefully we can get something that will improve on the Reaper Bot.
+	I plan on checking this thing out tonight. Download oak0405.zip (1027k) Be
+	sure to check out the readme first.
 
 -- [http://redwood.stomped.com/597.html](https://web.archive.org/web/19980716124527fw/http://redwood.stomped.com/597.html) (archived July 16 1998)
 
@@ -183,9 +190,11 @@ I believe this was the intended release, and probably the version of the release
 
 The archive contains the same 3 files and in this case all 3 have a timestamp of the release date, May 4 1997, including the PAK file.
 
+```
  1950910  4 May  1997 PAK0.PAK
   440724  4 May  1997 progs.dat
     5290  4 May  1997 TheOak.txt
+```
 
 Checking the contents of the PAK file shows the file that was missing in the ftp.cdrom.com release, "progs/term_h.mdl", is included, and the file that was included in the cdrom.com release, "progs/term_head.mdl" is not present. This suggests a typo in filename in the cdrom.com.
 
@@ -215,9 +224,11 @@ He created and distributed a version of the Oak bot as the file oak0405_fixed.zi
 
 The release contains the same game code and readme with the same timestamps as the original release and an update PAK file dated February 07 2002, 5 years later when Ruud was operating his website.
 
+```
  1075986  7 Feb  2002 PAK0.PAK
   440724  4 May  1997 progs.dat
     5290  4 May  1997 TheOak.txt
+```
 
 Checking the conents of the PAK, we can see the original misnamed file "progs/term_head.mdl" and the correct file "progs/term_h.mdl" are included.
 
@@ -255,7 +266,9 @@ The release was announced on Blues News on May 6th 1997, two days after the firs
 	May 6, 1997
 
 	Oak Update
-	Version 0.81 of the Oak Bot has been released on John's World of Quake (thanks GGarf).
+
+	Version 0.81 of the Oak Bot has been released on John's World of Quake
+	(thanks GGarf).
 
 -- [http://www.bluesnews.com/archives/may97-1.html](https://web.archive.org/web/19980129045338/http://www.bluesnews.com/archives/may97-1.html) (archived January 29 1998)
 
@@ -263,11 +276,12 @@ The post links to John Crickett's homepage, which was not archived. THis is frus
 
 The release was also announced on Redwoods News and again linked to a mirrored version of the file on ftp.stomped.com, as well as to Neil's and John's homepages.
 
-	May 6, 1997
-	12:05a.m. CDT
+	May 6, 1997, 12:05a.m. CDT
 
 	Oak Bot .81
-	The Oak Bot I mentioned earlier has a .81 patch (124k) that improves some things. Check out the work notes to find out what's changed.
+
+	The Oak Bot I mentioned earlier has a .81 patch (124k) that improves some
+	things. Check out the work notes to find out what's changed.
 
 -- [http://redwood.stomped.com/597.html](https://web.archive.org/web/19980716124527fw/http://redwood.stomped.com/597.html) (archived July 16 1998)
 
@@ -279,7 +293,9 @@ This page was captured by archive.org, and thankfully a copy of the release file
 
 	OakBot v.81, 136k, 5/5/97
 
-	Hey, cool, a new QuakeBot! It's the OakBot! Its contains new sounds and models. It can deathmatch, play co-op, and even do teams. Requires this file (1.0mb) as well.
+	Hey, cool, a new QuakeBot! It's the OakBot! Its contains new sounds and models.
+	It can deathmatch, play co-op, and even do teams. Requires this file (1.0mb)
+	as well.
 
 -- [http://quakemecca.simplenet.com/quakec.htm](https://web.archive.org/web/19970529162802/http://quakemecca.simplenet.com/quakec.htm) (archived May 29 1997)
 
@@ -287,7 +303,9 @@ The release contains an updated compiled game file (progs.dat) and no readme.
 
 As such, we do not know the nature of the change.
 
+```
  442088  5 May  1997 progs.dat
+```
 
 The file is timestamped May 5th, which is probably the release date of the file on the author's personal webpages.
 
@@ -305,7 +323,8 @@ It was announced on Blues News on May 7th 1997, again with links to the descript
 	May 7, 1997
 
 	Oak Update
-	Version 0.82 of the Oak Bot is now out on John's World of Quake (thanks Mike Kelly).
+	Version 0.82 of the Oak Bot is now out on John's World of Quake
+	(thanks Mike Kelly).
 
 -- [http://www.bluesnews.com/archives/may97-1.html](https://web.archive.org/web/19980129045338/http://www.bluesnews.com/archives/may97-1.html) (archived January 29 1998)
 
@@ -356,7 +375,10 @@ The announcement links to Neil's homepage, as well as the original "Public Beta"
 	May 8, 1997
 
 	New Oak
-	Version 0.83 of the Oak Bot is up on the Oak Homepage, featuring improved Roaming AI, Chasing AI, nailgun firing, and the option to disable the sounds. The upgrade is just a new Progs.dat (133 KB), which is all you need if you already have the May 4, 1997 Public Beta (1 MB).
+	Version 0.83 of the Oak Bot is up on the Oak Homepage, featuring improved
+	Roaming AI, Chasing AI, nailgun firing, and the option to disable the sounds.
+	The upgrade is just a new Progs.dat (133 KB), which is all you need if you
+	already have the May 4, 1997 Public Beta (1 MB).
 
 -- [http://www.bluesnews.com/archives/may97-1.html](https://web.archive.org/web/19980129045338/http://www.bluesnews.com/archives/may97-1.html) (archived January 29 1998)
 
@@ -365,7 +387,12 @@ An updated news post was shared the next day indicating that the local mirror of
 	May 9, 1997
 
 	Oak Goof
-	I had a corrupt zip in my Oak .03 story yesterday, so if you had a bad download, my apologies, here we go, once more with feeling: Version 0.83 of the Oak Bot is up on the Oak Homepage, featuring improved Roaming AI, Chasing AI, nailgun firing, and the option to disable the sounds. The upgrade is just a new Progs.dat (133 KB), which is all you need if you already have the May 4, 1997 Public Beta (1 MB).
+	I had a corrupt zip in my Oak .03 story yesterday, so if you had a bad
+	download, my apologies, here we go, once more with feeling: Version 0.83 of
+	the Oak Bot is up on the Oak Homepage, featuring improved Roaming AI,
+	Chasing AI, nailgun firing, and the option to disable the sounds. The upgrade
+	is just a new Progs.dat (133 KB), which is all you need if you already have
+	the May 4, 1997 Public Beta (1 MB).
 
 -- [http://www.bluesnews.com/archives/may97-1.html](https://web.archive.org/web/19980129045338/http://www.bluesnews.com/archives/may97-1.html) (archived January 29 1998)
 
@@ -373,8 +400,10 @@ A copy of the release was donated to the Quake Bot Archive bo John himself.
 
 The release contains the compiled game code (progs.dat) and a zip file (prognew.zip).
 
+```
  150739 14 Jul  1997 prognew.zip
  445032  7 May  1997 progs.dat
+```
 
 The zip file also contains compiled game code (prognew.dat).
 
@@ -412,7 +441,8 @@ The announcement links to a locally hosted mirror of the release file and to Nei
 
 	New Releases
 
-	Catching up mode: The new Oak Bot, version 0.84 (135 KB) has been released on the Oak Bot page.
+	Catching up mode: The new Oak Bot, version 0.84 (135 KB) has been released on
+	the Oak Bot page.
 
 -- [http://www.bluesnews.com/archives/june97-2.html](https://web.archive.org/web/19980129045317/http://www.bluesnews.com/archives/june97-2.html) (archived January 29 1998)
 
@@ -423,7 +453,10 @@ It was added to the "QuakeC Downloads" page on "Quake Mecca" and listed with a r
 	QuakeC Downloads
 
 	OakBot v.84, 136k, 6/13/97
-	Hey, cool, a new QuakeBot! It's the OakBot! Its contains new sounds and models. It can deathmatch, play co-op, and even do teams. Requires this file (1.0mb) as well. New in this version: It actually displays the scores if you press tab! Thats rules!
+	Hey, cool, a new QuakeBot! It's the OakBot! Its contains new sounds and models.
+	It can deathmatch, play co-op, and even do teams. Requires this file (1.0mb)
+	as well. New in this version: It actually displays the scores if you press
+	tab! Thats rules!
 
 -- [http://quakemecca.simplenet.com/quakec.htm](https://web.archive.org/web/19970707171150/http://quakemecca.simplenet.com:80/quakec.htm) (archived July 07 1997)
 
@@ -431,7 +464,9 @@ A copy of the release was captured by archive.org on Quake Mecca.
 
 It contains a compiled game code with a timestamp of June 13th, the same as that listed on the Quake Mecca download page, which is probably the release date of this version of the bot. This is more than a month since the previous release.
 
+```
  447176 13 Jun  1997 progs.dat
+```
 
 The nature of the changes in this version are not known.
 
@@ -455,7 +490,10 @@ A snippet of the changes in this release are also listed including improvements 
 	Monday, June 23, 1997
 
 	New Oak Bot
-	Version 0.85 of Neil Henderson's Oak Bot (135 KB) has been released on the Oak Bot Homepage. The new release features improved Chasing AI, the ability to spawn a single bot at a time, and bug-free scoring.
+
+	Version 0.85 of Neil Henderson's Oak Bot (135 KB) has been released on the Oak
+	Bot Homepage. The new release features improved Chasing AI, the ability to
+	spawn a single bot at a time, and bug-free scoring.
 
 -- [https://www.bluesnews.com/archives/june97-3.html](https://web.archive.org/web/20220929081040/https://www.bluesnews.com/archives/june97-3.html) (archived January 29 1998)
 
@@ -466,7 +504,10 @@ This release was also announced on Redwood's News. The announcement links direct
 	June 23, 1997
 
 	New OakBot
-	The OakBot has been updated to 0.85, go to the homepage to get the May 4th base code plus the upgrade patch, or download the upgrade patch directly if you have a previous version. Only the progs.dat has been updated
+
+	The OakBot has been updated to 0.85, go to the homepage to get the May 4th
+	base code plus the upgrade patch, or download the upgrade patch directly if
+	you have a previous version. Only the progs.dat has been updated
 
 -- [http://redwood.stomped.com/697.html](https://web.archive.org/web/19980716124638/http://redwood.stomped.com/697.html) (archived July 16 1998)
 
@@ -475,15 +516,20 @@ QuakeMecca added the release to their "QuakeC Downloads" page. The release file 
 	QuakeC Downloads
 
 	OakBot v.85, 140k, 6/26/97
-	Hey, cool, a new QuakeBot! It's the OakBot! Its contains new sounds and models. It can deathmatch, play co-op, and even do teams. Requires this file (1.0mb) as well. New in this version: It actually displays the scores if you press tab! Thats rules!
+	Hey, cool, a new QuakeBot! It's the OakBot! Its contains new sounds and models.
+	It can deathmatch, play co-op, and even do teams. Requires this file (1.0mb)
+	as well. New in this version: It actually displays the scores if you press
+	tab! Thats rules!
 
 -- [http://quakemecca.simplenet.com/quakec.htm](https://web.archive.org/web/19970707171150/http://quakemecca.simplenet.com:80/quakec.htm) (archived July 07 1997)
 
 
 The release contains compiled game code (progs.dat) and a readme file (oak085.txt).
 
+```
     304 23 Jun  1997 oak085.txt
  452464 22 Jun  1997 progs.dat
+```
 
 The timestamps of the files is listed as June 22 and 22 1997. This matches the announcements on Blues News and Redwood on the 23rd.
 
@@ -517,7 +563,10 @@ An announcement about this release appears on Neil's personal homepage, listing 
 
 Announced on Neil Henderson's homepage.
 
-	Build 0.855 has been released! John describes it as a "1/2 way build with the new movement code". Some of it's new features include a new Roaming function and the bot will now die in lava & slime. Remember to check out John's Worklog Page for a more detailed list of new features.
+	Build 0.855 has been released! John describes it as a "1/2 way build with the
+	new movement code". Some of it's new features include a new Roaming function
+	and the bot will now die in lava & slime. Remember to check out John's Worklog
+	Page for a more detailed list of new features.
 
 -- [http://web.ukonline.co.uk/neil.henderson/theoak/](https://web.archive.org/web/19981201033916/http://web.ukonline.co.uk/neil.henderson/theoak/) (archived December 01 1998)
 
@@ -535,7 +584,12 @@ The announcement links to a locally mirrored version of the oak0855.zip release 
 	Thursday, August 7, 1997
 
 	New Oak Bot
-	Oak Bot 0.855 (147 KB) has been released on the Oak Bot page. This release is described as a half way build which includes new movement code. The update has a new progs.dat, but if you don't already have it, the most recent version with the .pak file (1 MB) is also required (thanks Night for reminding me to post that).
+
+	Oak Bot 0.855 (147 KB) has been released on the Oak Bot page. This release is
+	described as a half way build which includes new movement code. The update has
+	a new progs.dat, but if you don't already have it, the most recent version with
+	the .pak file (1 MB) is also required (thanks Night for reminding me to post
+		that).
 
 -- [https://www.bluesnews.com/archives/aug97-1.html](https://web.archive.org/web/19980213035908/http://bluesnews.com/archives/aug97-1.html) (archived Feb 13 1998)
 
@@ -544,7 +598,8 @@ The release was also announced on Redwood's News a day later with locally mirror
 	August 8, 1997
 
 	Oak Bot .855
-	I saw on Blue's that the Oak Bot is now up to version .855. Download the new .855 patch. You must have the original Pak if you don't have it already.
+	I saw on Blue's that the Oak Bot is now up to version .855. Download the new
+	.855 patch. You must have the original Pak if you don't have it already.
 
 -- [http://redwood.stomped.com/897.html](https://web.archive.org/web/19980716124834/http://redwood.stomped.com/897.html) (archived July 16 1998)
 
@@ -576,10 +631,13 @@ A news post on Neil's homepage on August 18th suggest a version 1.0 of the bot w
 
 If developed, this version of the bot was never made public.
 
-
 	18 August, 1997
 
-	A major release is going to be out soon! It may even be version 1.0 of The Oak! John has been working extremely hard on new Roaming & Pathing AI, Teamplay support (which is long overdue), shot prediction & avoidance, and better skill levels. Some Bot Personality code is also being worked on. All in all, this new release is gonna be pretty cool.
+	A major release is going to be out soon! It may even be version 1.0 of The Oak!
+	John has been working extremely hard on new Roaming & Pathing AI, Teamplay
+	support (which is long overdue), shot prediction & avoidance, and better skill
+	levels. Some Bot Personality code is also being worked on. All in all, this
+	new release is gonna be pretty cool.
 
 	Check back soon!
 
@@ -589,9 +647,11 @@ John donated a file "oak_old.zip" to the Quake Bot Archive in 2021.
 
 This file contains a config file (config.cfg), compiled game code (progs.dat), and a working version of the PAK file.
 
+```
     2451 30 Aug  1997 config.cfg
   498996 27 Aug  1997 progs.dat
  2111050  4 May  1997 Pak0.pak
+```
 
 The compiled game code is dated August 27, about 11 days after Niel's news announcement about an imminent version 1.0 of the bot.
 
@@ -605,7 +665,7 @@ We might reasonably suspect that this version of the bot donated by John represe
 
 John continued on to finish university and work in It.
 
-	John was introduced to the Quake series of games in 1996 by Krunch-X. He developed The Oak in early 1997 and began work on Oak II as soon as the SDK was available for Quake 2. During 1997 John worked with Team BDP on their Quake mod, Ebb of Life. In July 1998 John graduated from the University of Swansea with a degree in Computer Science, unfortunately after that John begain writing business software which left no time for bot programming.
+> John was introduced to the Quake series of games in 1996 by Krunch-X. He developed The Oak in early 1997 and began work on Oak II as soon as the SDK was available for Quake 2. During 1997 John worked with Team BDP on their Quake mod, Ebb of Life. In July 1998 John graduated from the University of Swansea with a degree in Computer Science, unfortunately after that John begain writing business software which left no time for bot programming.
 
 -- [http://www.oakbots.co.uk/about/](https://web.archive.org/web/20060209191955/http://www.oakbots.co.uk/about/) (archived February 02 2006)
 
@@ -616,7 +676,9 @@ An announcement was made about the developing of the bot about one month later i
 	Tuesday, September 2, 1997
 
 	First Quake II Bot Announced
-	The Oak II page is now online, representative of the project to create the Quake II sequel to the Oak bot, Oak II.
+
+	The Oak II page is now online, representative of the project to create the
+	Quake II sequel to the Oak bot, Oak II.
 
 -- [http://www.bluesnews.com/archives/aug97-5.html](https://web.archive.org/web/19980129045230/http://www.bluesnews.com/archives/aug97-5.html) (archived January 29 1998)
 
@@ -624,7 +686,13 @@ An Oak II bot for Quake II was made public about 9 months later and John's work 
 
 	14th June 98 - It's alive!
 
-	Finally I`ve finished my exams! :) Work on Oak II will be recomencing immediately. I`ve still got a few things to finish in the new build but hope it`ll be ready by the 20th, I`ll also release a linux version at the same time, though I still have to figure out how to get my 3DFX card going under linux, and install Quake2... If anyone wants to drop me some pointers do feel free... After which I`ll also port the Arena Oak to linux. Finally I`ve also gotten round to writing the botinfo section too :)
+	Finally I`ve finished my exams! :) Work on Oak II will be recomencing
+	immediately. I`ve still got a few things to finish in the new build but hope
+	it`ll be ready by the 20th, I`ll also release a linux version at the same
+	time, though I still have to figure out how to get my 3DFX card going under
+	linux, and install Quake2... If anyone wants to drop me some pointers do feel
+	free... After which I`ll also port the Arena Oak to linux. Finally I`ve also
+	gotten round to writing the botinfo section too :)
 
 -- [http://www.telefragged.com/oak/](https://web.archive.org/web/19980626082055/http://www.telefragged.com/oak/) (archived June 26 1998)
 
@@ -632,7 +700,9 @@ Many years later, perhaps in 2005, John created a homepage dedicated to his seri
 
 	The Oak
 
-	The original Oak Bot for the original Quake. I'm currently trying to recover copies and documentation. If you have anything related to The Oak please get in touch and let me know.
+	The original Oak Bot for the original Quake. I'm currently trying to recover
+	copies and documentation. If you have anything related to The Oak please get
+	in touch and let me know.
 
 -- [http://www.oakbots.co.uk/the-oak/](https://web.archive.org/web/20060209191937/http://www.oakbots.co.uk/the-oak/) (archived February 09 2006)
 
