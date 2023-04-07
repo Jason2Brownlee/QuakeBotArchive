@@ -43,11 +43,6 @@ Reconstructed Quake bot genealogy.
 Reconstructed Quake bot chronology.
 
 * [Quake Bot Chronology](research/chronology.md)
-
-## Quake Bot Essays
-
-Short essays that summarize the reconstructed release history and community response of individual bots.
-
 * [Quake Bot Essays](research/essays/README.md)
 
 ## Quake Bot List
