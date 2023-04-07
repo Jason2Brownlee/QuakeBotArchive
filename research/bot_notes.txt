@@ -1042,6 +1042,7 @@ Tballman
 	http://fubar.cstp.umkc.edu/quake
 		https://web.archive.org/web/19981202132321/http://fubar.cstp.umkc.edu/quake
 		https://web.archive.org/web/20010421191011/http://fubar.cstp.umkc.edu:80/quake/files.html
+			http://fubar.cstp.umkc.edu:80/quake/files/tballman097.zip
 		https://web.archive.org/web/20001010203546/http://fubar.cstp.umkc.edu/quake/howto.html
 		https://web.archive.org/web/20010421191011/http://fubar.cstp.umkc.edu:80/quake/files/tballman097.zip
 		https://web.archive.org/web/19990209150109/http://fubar.cstp.umkc.edu/jcurley/quake/
@@ -1049,7 +1050,10 @@ Tballman
 		https://web.archive.org/web/20001010142549/http://fubar.cstp.umkc.edu/jcurley/441/441hw3.htm
 		https://www.bluesnews.com/archives/dec97-2.html
 			"Mother"
+			TBallz
 			http://fubar.cstp.umkc.edu/jcurley/quake/
+	probably prior versions
+		0.97 through to 0.91 and lower
 	other
 		https://www.quakewiki.net/archives/botarea51/main/qbotf62c.html?id=36
 Karnag-Bot / Karnagbot / Karnag Bot / KNBot
