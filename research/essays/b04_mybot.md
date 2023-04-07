@@ -261,7 +261,7 @@ mybot16.zip            02-Sep-96 15:52   139k
 The changelog in the readme file highlights important additions for deathmatch, including the ability to compete against more than one bot at a time.
 
 ```
-	multiple bots allowed!
+multiple bots allowed!
 ```
 
 The bot AI was also improved allow it to seek out and acquire additional health and armor during a deathmatch fight, and to fire its weapon while moving.

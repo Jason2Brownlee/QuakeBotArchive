@@ -17,8 +17,8 @@ The Wisp mod was released by Iikka Paavolainen as the file "wisp.zip". The archi
 The readme file does not list a release date, although the public FTP timestamp is listed as August. 31st 1996.
 
 ```
-	wisp.txt               31-Aug-96 14:31     2k
-	wisp.zip               31-Aug-96 14:31    15k
+wisp.txt               31-Aug-96 14:31     2k
+wisp.zip               31-Aug-96 14:31    15k
 ```
 
 -- [http://www.cdrom.com/pub/idgames2/quakec/bots/](https://web.archive.org/web/19961225222455/http://www.cdrom.com/pub/idgames2/quakec/bots/) (archived December 25 1996)

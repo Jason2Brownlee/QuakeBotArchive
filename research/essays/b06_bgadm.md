@@ -96,8 +96,8 @@ The readme does not list a release date. The oldest timestamps for files within 
 The timestamps for the files the archive of cdrom.com/pub/idgames2/quakec/bots/ confirm this date.
 
 ```
-	bgadm101.txt           31-Aug-96 19:42     4k
-	bgadm101.zip           31-Aug-96 19:44   115k
+bgadm101.txt           31-Aug-96 19:42     4k
+bgadm101.zip           31-Aug-96 19:44   115k
 ```
 
 George also announced on Usenet in the rec.games.computer.quake.misc group with the title "BGADMbot V.101 - One Player Deathmatch!" on September 1st, one day later.

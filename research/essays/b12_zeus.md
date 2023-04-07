@@ -15,20 +15,24 @@ An unzipped copy of the release was found on the "Power Tools for Quake" CD in t
 
 The archive contains the compiled game code, a readme file and a zip of the source code, as well as bat files for installing and running the mod.
 
+```
    5849  4 Aug  1996 ZEUS10.TXT
     593  4 Aug  1996 INSTALL.BAT
   48296  4 Aug  1996 SOURCE.ZIP
      20  4 Aug  1996 ZEUSBOT.BAT
  451912  4 Aug  1996 PROGS.DAT
+```
 
 The readme file lists the release date as September 4th 1996.
 
 The timestamp for files in the zip is listed as the 4th of August, which is suspected to have been systematically adjusted to an incorrect date by some means.
 
-	Filename : ZEUS10.ZIP
-	Version  : 1.00
-	Date     : 96/9/04
-	Author(s): Jonathan E. Wright
+```
+Filename : ZEUS10.ZIP
+Version  : 1.00
+Date     : 96/9/04
+Author(s): Jonathan E. Wright
+```
 
 -- zeus10.txt
 
@@ -36,15 +40,19 @@ Importantly, The "Toolkit For Quake" CD comes with an 00_INDEX.TXT file in the "
 
 This file suggests the release date as September 28 1996.
 
-    zeus10.txt      5849 09-28-96  Description for zeus10.zip
-    zeus10.zip    186963 09-28-96  See description above.
+```
+zeus10.txt      5849 09-28-96  Description for zeus10.zip
+zeus10.zip    186963 09-28-96  See description above.
+```
 
 -- [Toolkit For Quake (QTool_0197)/QUAKEC/BOTS/00_INDEX.TXT](https://web.archive.org/web/19970605102505/http://www.cdrom.com:80/titles/games/quake_t.htm)
 
 This is confirmed by a similar file listing the contents of the "PDSL GAMERS TOOLKIT" CD and is taken as the public release date of the mod.
 
-	zeus10.txt      5849 09-28-96  Description for zeus10.zip
-	zeus10.zip    186963 09-28-96  See description above.
+```
+zeus10.txt      5849 09-28-96  Description for zeus10.zip
+zeus10.zip    186963 09-28-96  See description above.
+```
 
 -- [Root Directory Of PDSL GAMERS TOOLKIT](http://cd.textfiles.com/pdsl/HELP/GAMERTK.TXT)
 
@@ -52,31 +60,37 @@ The readme credits the TMBot and DMBot as the basis for the extension and is des
 
 As an extension of the DMBot, it works successful in deathmatch, although primarily to assist the player, not as an opponent.
 
-    This mod creates a helper bot which will attack the player's
-    enemies and draw fire.  The bot attacks with a Lightning Gun,
-    which will not harm the player if he runs into it.
+```
+This mod creates a helper bot which will attack the player's
+enemies and draw fire.  The bot attacks with a Lightning Gun,
+which will not harm the player if he runs into it.
 
-    This bot is based in a big way on original code from DM Bot 1.0.
+This bot is based in a big way on original code from DM Bot 1.0.
+```
 
 -- zeus10.txt
 
 The extension appears to make the bot more useful in singl player mode, interacting more with the world.
 
-    þ The bot can draw enemy fire, lessening the amount of damage the player
-      takes.
-    þ Seeks out monsters or other players and attacks them.
-    þ Will continue to attack as long as an enemy target is visible.
-    þ Will not attack teammates under Teamplay rules.
-    þ ZeusBot can follow the player through portals.
-    þ ZeusBot will activate trigger fields (such as light triggers and traps)
-    þ ZeusBot starts with a full suit of red armor.
+```
+þ The bot can draw enemy fire, lessening the amount of damage the player
+  takes.
+þ Seeks out monsters or other players and attacks them.
+þ Will continue to attack as long as an enemy target is visible.
+þ Will not attack teammates under Teamplay rules.
+þ ZeusBot can follow the player through portals.
+þ ZeusBot will activate trigger fields (such as light triggers and traps)
+þ ZeusBot starts with a full suit of red armor.
+```
 
 -- zeus10.txt
 
 It also appears to take on some capabilities of the Cujo bot, which the author had released nearly 3 weeks earlier. Specifically he ability of the bot to act like dynamic lamp to assist the player in dark places.
 
-    ZeusBot can glow, effectively lighting up everything around you.  You can
-    turn this on and off, so as not to give away your position in deathmatch.
+```
+ZeusBot can glow, effectively lighting up everything around you.  You can
+turn this on and off, so as not to give away your position in deathmatch.
+```
 
 -- zeus10.txt
 
@@ -94,12 +108,14 @@ We know of the existence of this release given its appearance in the changelog o
 
 The note in the changelog suggests a complete re-write of the bot from the ground up, rather than as an extension of the DMBot.
 
-    Changes in version 2.0
+```
+Changes in version 2.0
 
-    While this is the second version of the Zeus bot this was truly the
-    first version of this code.  Seeing as Zeus 1.0 was based on the
-    TM bot and was my first attempt at doing anything with Quake C, it
-    doesn't really count as the same bot -- it just has the same name.
+While this is the second version of the Zeus bot this was truly the
+first version of this code.  Seeing as Zeus 1.0 was based on the
+TM bot and was my first attempt at doing anything with Quake C, it
+doesn't really count as the same bot -- it just has the same name.
+```
 
 -- zeus202b.txt
 
@@ -121,17 +137,18 @@ We know it existed because of its mention in the changelog part of readme files 
 
 This release offers a number of behavioral improvements to the bot, such as "skill levels" and "target leading".
 
+```
+Changes in version 2.01
 
-    Changes in version 2.01
-
-    Skill levels implemented.
-    Target leading implemented.
-    Target missing and chance to hit implemented (for line-tracing
-    weapons such as the shotgun).
-    bots will no longer see invisible players unless they are attacked
-    by one.
-    enhanced ability to chase player out of sight
-    fixed weapon ranges so bot will fire from greater distances
+Skill levels implemented.
+Target leading implemented.
+Target missing and chance to hit implemented (for line-tracing
+weapons such as the shotgun).
+bots will no longer see invisible players unless they are attacked
+by one.
+enhanced ability to chase player out of sight
+fixed weapon ranges so bot will fire from greater distances
+```
 
 -- zeus202b.txt
 
@@ -153,19 +170,23 @@ Additionally, evidence of the readme and zip versions of the release were found 
 
 The release appears in the /newstuff directory.
 
-	./newstuff:
-	...
-	-rw-rw-r--  2 jschuur  ftp-id    16970 Dec 19 19:57 zeus202b.txt
-	-rw-rw-r--  2 jschuur  ftp-id   333493 Dec 19 18:02 zeus202b.zip
+```
+./newstuff:
+...
+-rw-rw-r--  2 jschuur  ftp-id    16970 Dec 19 19:57 zeus202b.txt
+-rw-rw-r--  2 jschuur  ftp-id   333493 Dec 19 18:02 zeus202b.zip
+```
 
 -- [http://www.cdrom.com/pub/idgames2/ls-laR.gz](https://web.archive.org/web/19961221100334/http://www.cdrom.com/pub/idgames2/ls-laR.gz) (archived December 21 1996)
 
 It also appears in the bots directory.
 
-	./quakec/bots:
-	...
-	-rw-rw-r--  2 jschuur  ftp-id   16970 Dec 19 19:57 zeus202b.txt
-	-rw-rw-r--  2 jschuur  ftp-id  333493 Dec 19 18:02 zeus202b.zip
+```
+./quakec/bots:
+...
+-rw-rw-r--  2 jschuur  ftp-id   16970 Dec 19 19:57 zeus202b.txt
+-rw-rw-r--  2 jschuur  ftp-id  333493 Dec 19 18:02 zeus202b.zip
+```
 
 -- [http://www.cdrom.com/pub/idgames2/ls-laR.gz](https://web.archive.org/web/19961221100334/http://www.cdrom.com/pub/idgames2/ls-laR.gz) (archived December 21 1996)
 
@@ -174,14 +195,16 @@ A copy of the zip for this release cannot be located.
 
 The readme lists the release date as the 20th of December, 1996.
 
-    =============================
-    Title    : ZEUSbot 2.03 beta
-    =============================
+```
+=============================
+Title    : ZEUSbot 2.03 beta
+=============================
 
-    Filename : ZEUS203B.ZIP
-    Version  : 2.03
-    Date     : 12/20/96
-    Author   : Jonathan E. Wright aka Nelno the Amoeba
+Filename : ZEUS203B.ZIP
+Version  : 2.03
+Date     : 12/20/96
+Author   : Jonathan E. Wright aka Nelno the Amoeba
+```
 
 -- zeus203b.txt
 
@@ -193,43 +216,53 @@ As mentioned previously, the changelog for this and later release adds mention t
 
 The author now lists his personal homepage as the location to get the bot, as well as his other mods. Cujo version 1.3 was available at this time.
 
-    Home Page: http://trailerpark.com/phase1/nelno
-               Check here for the latest updates to all my Quake mods:
-               Zeus, Cujo, plasma gun, BFG, blaze gun and more.
-               If you didn't get this mod from my site, it's likely
-               that you don't have the latest version.
+```
+Home Page: http://trailerpark.com/phase1/nelno
+           Check here for the latest updates to all my Quake mods:
+           Zeus, Cujo, plasma gun, BFG, blaze gun and more.
+           If you didn't get this mod from my site, it's likely
+           that you don't have the latest version.
+```
 
 -- zeus203b.txt
 
 The author also does not list the TMBot and DMBot in the credit sections, highlighting the entirely new direction he had taken with the project, starting in version 2.
 
-    Credits  : ID Software for designing Quake with Quake C!
-               Otherwise, this bot was built from scratch.
+```
+Credits  : ID Software for designing Quake with Quake C!
+           Otherwise, this bot was built from scratch.
+```
 
 -- zeus203b.txt
 
 
 The version 2 of the mod was a major rewrite and it appears that the code for this version was being withheld.
 
-    This is a *MAJOR* update to the original ZEUSbot.  The old code, based
-    on the TMBot, was *completely* done away with.  The ultimate goal is to
-    provide an intelligent deathmatch opponent\helper bot.  Eventually, the
-    source WILL BE RELEASED, but until then, you'll have to get your tidbits
-    from the next release of Cujo.
+```
+This is a *MAJOR* update to the original ZEUSbot.  The old code, based
+on the TMBot, was *completely* done away with.  The ultimate goal is to
+provide an intelligent deathmatch opponent\helper bot.  Eventually, the
+source WILL BE RELEASED, but until then, you'll have to get your tidbits
+from the next release of Cujo.
+```
 
 -- zeus203b.txt
 
 Jonathan had doubled down on the bot as a deathmatch opponent, although still supports the bot as a single player helper.
 
-    The ZEUSbot is both a helper bot and a deathmatch bot.  In single play
-    he will effectively annihilate just about anything that get's in his way,
-    and you'll be lucky if you can pick anything up before he does.
+```
+The ZEUSbot is both a helper bot and a deathmatch bot.  In single play
+he will effectively annihilate just about anything that get's in his way,
+and you'll be lucky if you can pick anything up before he does.
+```
 
 He also calls out the Reaper Bot by name as another top-level bot at this time and perhaps a peer with the ZeusBot in terms of capabilities at the time.
 
-    The ZEUSbot's death match capabilities are currently under development, but
-    it's still probably the most intelligent bot available, excepting Steven
-    Polge's excellent Reaper bot.
+```
+The ZEUSbot's death match capabilities are currently under development, but
+it's still probably the most intelligent bot available, excepting Steven
+Polge's excellent Reaper bot.
+```
 
 -- zeus203b.txt
 
@@ -237,8 +270,10 @@ This release lists many features of the bot including being able to use all weap
 
 The bot also uses the correct player animation and has smooth movement, a feature in which the author seemingly takes great pride.
 
-    Has *totally new* movement code which makes it the smoothest bot ever
-    made --   just as smooth as a player character, no jumpiness or blitting.
+```
+Has *totally new* movement code which makes it the smoothest bot ever
+made --   just as smooth as a player character, no jumpiness or blitting.
+```
 
 -- zeus203b.txt
 
@@ -246,7 +281,9 @@ The changelog for this release is extensive, listing many bug fixes and features
 
 It does include some of the authors other mods, such as the plasma gun weapon mod, perhaps more, like the blaze gun. These weapon mods were also incorporated into the authors other bot mod, the cujo bot.
 
-    can fire all of the standard weapons, plus the plasma gun (included in this mod).
+```
+can fire all of the standard weapons, plus the plasma gun (included in this mod).
+```
 
 -- zeus203b.txt
 
@@ -256,11 +293,13 @@ It is likely that this was done in response to many mod developers getting hired
 
 He lists his background with programming, a university computer science degree, and interest in writing music
 
-    I'm a 25 year old who's been programming computers for the last 15 years.  I
-    studied computer science at Clemson University and am currently designing
-    web pages for corporations in the Western North Carolina area.  Besides being
-    proficient in several programming languages -- 80x86 assembly, C and Pascal
-    being the most notable -- I also draw and write music in my spare time.
+```
+I'm a 25 year old who's been programming computers for the last 15 years.  I
+studied computer science at Clemson University and am currently designing
+web pages for corporations in the Western North Carolina area.  Besides being
+proficient in several programming languages -- 80x86 assembly, C and Pascal
+being the most notable -- I also draw and write music in my spare time.
+```
 
 -- zeus203b.txt
 
@@ -276,16 +315,20 @@ Evidence for this release was found on ftp.cdrom.com in the "/pub/idgames2/ls-la
 
 The file is listed in the incoming/ directory, suggesting it had just been uploaded.
 
-	./incoming:
-	...
-	-rw-rw----  1 jschuur  ftp-id  339562 Dec 20 15:04 zeus203b.zip
+```
+./incoming:
+...
+-rw-rw----  1 jschuur  ftp-id  339562 Dec 20 15:04 zeus203b.zip
+```
 
 -- [http://www.cdrom.com/pub/idgames2/ls-laR.gz](https://web.archive.org/web/19961221100334/http://www.cdrom.com/pub/idgames2/ls-laR.gz) (archived December 21 1996)
 
 In an archive of the http://www.cdrom.com/pub/idgames2/quakec/bots/ webpage a few days later on Christmas day, the release can be seen.
 
-	zeus203b.txt           20-Dec-96 17:41    17k
-	zeus203b.zip           20-Dec-96 15:04   331k
+```
+zeus203b.txt           20-Dec-96 17:41    17k
+zeus203b.zip           20-Dec-96 15:04   331k
+```
 
 -- [http://www.cdrom.com/pub/idgames2/quakec/bots/](https://web.archive.org/web/19961225222455/http://www.cdrom.com/pub/idgames2/quakec/bots/) (archived December 25 1996)
 
@@ -394,8 +437,10 @@ The readme file lists release date as the 8th of January 1997, matching the date
 
 The header of the readme also lists the authors new homepage hosted on the Quake C HeadQuarters. This website and this directory in particular was not recorded by archive.org.
 
-           Go to the official Zeus bot page at Quake C HeadQuarters at:
-           http://www.qchq.com/zeus
+```
+Go to the official Zeus bot page at Quake C HeadQuarters at:
+http://www.qchq.com/zeus
+```
 
 -- zeus.txt
 
@@ -482,11 +527,15 @@ The next release was made as zeus2042.zip
 
 It was announced on blues news on January 9th, commenting that it is a bug fix release.
 
-	January 9, 1997
+    January 9, 1997
 
-	ZeusBot 2.042
+    ZeusBot 2.042
 
-	There were a couple of small problems with the recent ZeusBot release (the DeathCam was disabled, and DM2 didn't work), so author Nelno the Amoeba has released ZeusBot 2.042 (also available on QCHQ). BTW, Nelno says he has no self-esteem problem--"It's actually supposed to be a really, really large amoeba..."
+    There were a couple of small problems with the recent ZeusBot release
+    (the DeathCam was disabled, and DM2 didn't work), so author Nelno the
+    Amoeba has released ZeusBot 2.042 (also available on QCHQ). BTW, Nelno says
+    he has no self-esteem problem--"It's actually supposed to be a really,
+    really large amoeba..."
 
 -- [http://bluesnews.com/jan1.html](https://web.archive.org/web/19970204064523fw_/http://bluesnews.com/jan1.html) (archived 04 February 1997)
 
@@ -530,13 +579,20 @@ The rumor of Jonathan's hire was announced on bluesnews on February 23, 1997, an
 
 	February 23, 1997
 
-	A pretty reliable rumor has Nelno the Amoeba landing a job at Ion Storm. Congratulations to him, and a sincere big thanks to I.S. for making the dreams of so many deserving members of our community come true.
+	A pretty reliable rumor has Nelno the Amoeba landing a job at Ion Storm.
+    Congratulations to him, and a sincere big thanks to I.S. for making the
+    dreams of so many deserving members of our community come true.
 
 -- [Blues News, News Archive](https://www.bluesnews.com/archives/feb97-4.html), February 23, 1997
 
 A few months later in May 1997, Jonathan reported via his .plan file that he would probably no longer work on ZeusBot and focus on his new work at new job.
 
-	Final note: I still get a fair amount of mail asking me when the next Zeus bot will be released... as of right now, never. I have a really enhanced version that uses all the goodies like dynamic mapping and shortest paths laying around here, but I just don't have the time to test it out thoroughly and fix the little here and there problems. Sorry. If I get any free time that isn't spent working or eating, I might get around to it.
+	Final note: I still get a fair amount of mail asking me when the next Zeus
+    bot will be released... as of right now, never. I have a really enhanced
+    version that uses all the goodies like dynamic mapping and shortest paths
+    laying around here, but I just don't have the time to test it out thoroughly
+    and fix the little here and there problems. Sorry. If I get any free time
+    that isn't spent working or eating, I might get around to it.
 
 -- [Blues News, News Archive](https://www.bluesnews.com/archives/may97-2.html), Monday, May 12, 1997
 
@@ -582,9 +638,23 @@ The release was announced in Jonathan's .plan file (perhaps a planetquake or at 
 
     Zeus Lives
 
-    Nelno the Amoeba passed along word that contrary to his previous statements, he has updated his famed Zeus bot with some cool new features, including a "reaperesque" ability to map the levels as they go along. He also updated his .plan to announce the event:
+    Nelno the Amoeba passed along word that contrary to his previous statements,
+    he has updated his famed Zeus bot with some cool new features, including a
+    "reaperesque" ability to map the levels as they go along. He also updated
+    his .plan to announce the event:
 
-        Okay, so after telling everyone that Zeus was dead, I got tired of hearing all the sad pleas for another version of Zeus and went ahead and fixed up the 2.05 beta a bit. Now Zeus bots map out levels as they go and can find paths to items they have seen. They also do nifty things like avoid the hell out of grenades and rockets that you throw at them, have reaction times based on skill levels, limited vision and a number of other enhancements. Go to my Planet Quake page to read the specifics and get the latest zip files. One last enhancement worth noting: there is a server version available which doesn't use any new models or sounds and will allow anyone to log on to a server that is running the Zeus mod. I expect those of you who use it to at least tell me about it so that I can visit your server and spank you and Zeus down hard.
+        Okay, so after telling everyone that Zeus was dead, I got tired of
+        hearing all the sad pleas for another version of Zeus and went ahead
+        and fixed up the 2.05 beta a bit. Now Zeus bots map out levels as they
+        go and can find paths to items they have seen. They also do nifty things
+        like avoid the hell out of grenades and rockets that you throw at them,
+        have reaction times based on skill levels, limited vision and a number
+        of other enhancements. Go to my Planet Quake page to read the specifics
+        and get the latest zip files. One last enhancement worth noting: there
+        is a server version available which doesn't use any new models or sounds a
+        nd will allow anyone to log on to a server that is running the Zeus mod.
+        I expect those of you who use it to at least tell me about it so that I
+        can visit your server and spank you and Zeus down hard.
 
 -- [http://www.bluesnews.com/q-news.shtml](https://web.archive.org/web/19970605010022/http://www.bluesnews.com/q-news.shtml) (archived June 05 1997)
 
@@ -600,7 +670,10 @@ A server based version of the bot was also released as a separate file on the sa
 
 This allows the bot to be enjoyed by players by connecting to a server running the mod only.
 
-    But if you're more the outgoing type, and you'd like bots on your server night and day, to keep the zombie people happy, download the server version. With it anyone will be able to connect to your server and get spanked by a Zeus bot, even if they aren't running the Zeus bot mod.
+    But if you're more the outgoing type, and you'd like bots on your server
+    night and day, to keep the zombie people happy, download the server version.
+    With it anyone will be able to connect to your server and get spanked by a
+    Zeus bot, even if they aren't running the Zeus bot mod.
 
 -- [http://www.planetquake.com/qca/zeus/zeus.htm](https://web.archive.org/web/19970607150610/http://www.planetquake.com/qca/zeus/zeus.htm) (archived June 07, 1997)
 
@@ -664,6 +737,7 @@ It was released on ftp.cdrom.com in the bots/ directory where it remained a perm
 
 The archive only contains the source code for the release and a readme file.
 
+```
    7035 15 Sep  1997 ZEUS_SRC.TXT
    7033 15 Sep  1997 README.TXT
    2598 15 Sep  1997 PROGDEFS.H
@@ -713,7 +787,7 @@ The archive only contains the source code for the release and a readme file.
   18298 26 Sep  1996 HKNIGHT.QC
     222 26 Sep  1996 JCTEST.QC
    9684 26 Sep  1996 KNIGHT.QC
-
+```
 
 The readme lists the release as source code for version 2.05 of the bot.
 
@@ -737,7 +811,9 @@ The release was announced on bluesnews.
 	Monday, September 15, 1997
 	Zeus Source
 
-	Jonathan "Nelno the Amoeba" Wright dropped a line to mention he has released the source code of his Zeus bot on his Homepage, as he promised he would earlier in his .plan.
+	Jonathan "Nelno the Amoeba" Wright dropped a line to mention he has released
+    the source code of his Zeus bot on his Homepage, as he promised he would
+    earlier in his .plan.
 
 -- <https://www.bluesnews.com/archives/sept97-2.html>
 

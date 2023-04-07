@@ -36,8 +36,8 @@ The release date in the readme was August 23rd 1996.
 The timestamps of the files in the archive were two days later on August 25th, and the FTP timestamp on an archive of cdrom.com/pub/idgames2/quakec/bots was one day later, although very late at night.
 
 ```
-	dmbot1.txt             24-Aug-96 23:34     4k
-	dmbot1.zip             24-Aug-96 23:34   175k
+dmbot1.txt             24-Aug-96 23:34     4k
+dmbot1.zip             24-Aug-96 23:34   175k
 ```
 
 I expect the release was the 24th, although near midnight and perhaps past midnight onto the 25th in Nathaniel Gorham's local timezone.

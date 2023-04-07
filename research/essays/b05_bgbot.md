@@ -341,8 +341,8 @@ Many bots were based on the BGBot, specifically this version. The reason is beca
 This version remains on cdrom.com/pub/idgames2/quakec/bots/, although with a much later date, the 29th of September instead of the 13th.. It was likely added back to the directory given it was the last release that included source code.
 
 ```
-	bgbot16.txt            29-Sep-96 11:04     5k
-	bgbot16.zip            29-Sep-96 11:04   240k
+bgbot16.txt            29-Sep-96 11:04     5k
+bgbot16.zip            29-Sep-96 11:04   240k
 ```
 
 

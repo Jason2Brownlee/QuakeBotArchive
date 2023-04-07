@@ -12,10 +12,10 @@ The archive contained the compiled game code (progs.dat), the source code for th
 I could not locate an original version of the distribution, only a redistributed version, the contents of which are listed below.
 
 ```
-	  44381 29 Oct  1996 SOURCE.ZIP
-	     17 24 Aug  1996 FILE_ID.DIZ
-	   4787 21 Aug  1996 TMBOT1.TXT
-	 440272 21 Aug  1996 PROGS.DAT
+  44381 29 Oct  1996 SOURCE.ZIP
+     17 24 Aug  1996 FILE_ID.DIZ
+   4787 21 Aug  1996 TMBOT1.TXT
+ 440272 21 Aug  1996 PROGS.DAT
 ```
 
 -- tmbot1.zip
@@ -27,20 +27,20 @@ An unpacked version of the TMBot v1.0 is also provided on the "Eternal Darkness"
 The source.zip file contains 14 code files, all but one dated 21st of August.
 
 ```
-	 11111 21 Aug  1996 WORLD.QC
-	 19619 21 Aug  1996 BOTAI.QC
-	  8469 21 Aug  1996 BOT.QC
-	  2450 21 Aug  1996 BOT.H
-	 15298 21 Aug  1996 TRIGGERS.QC
-	 17659 21 Aug  1996 PLAYER.QC
-	  7855 21 Aug  1996 PLATS.QC
-	   962 21 Aug  1996 IMPULSE2.QC
-	 17774 21 Aug  1996 DEFS.QC
-	 32232 21 Aug  1996 CLIENT.QC
-	  6374 21 Aug  1996 SUBS.QC
-	   692 21 Aug  1996 PROGS.SRC
-	  1597 21 Aug  1996 BOT_EXT.QC
-	 24072 18 Aug  1996 WEAPONS.QC
+ 11111 21 Aug  1996 WORLD.QC
+ 19619 21 Aug  1996 BOTAI.QC
+  8469 21 Aug  1996 BOT.QC
+  2450 21 Aug  1996 BOT.H
+ 15298 21 Aug  1996 TRIGGERS.QC
+ 17659 21 Aug  1996 PLAYER.QC
+  7855 21 Aug  1996 PLATS.QC
+   962 21 Aug  1996 IMPULSE2.QC
+ 17774 21 Aug  1996 DEFS.QC
+ 32232 21 Aug  1996 CLIENT.QC
+  6374 21 Aug  1996 SUBS.QC
+   692 21 Aug  1996 PROGS.SRC
+  1597 21 Aug  1996 BOT_EXT.QC
+ 24072 18 Aug  1996 WEAPONS.QC
 ```
 
 -- tmbot1.zip/source.zip
@@ -66,21 +66,21 @@ The mod is described as an automated helper bot for single player.
 The readme directly credits Perecli Manole aka "Bort", author of the HoloSelf mod, version 1.0. At the time of release a second version of the HoloSelf mod had been released, but perhaps the brothers development had begun with the first version and there was little need to adapt it after the second version was released.
 
 ```
-	Title    : TM Bot
-	Filename : tmbot1.zip
-	Version  : 1.00
-	Date     : 96/8/21
-	Author(s): Micheal Polucha (co-designer, coder)
-	           Tim Polucha (co-designer, playtester)
-	Email    : mpolucha@earthlink.net
+Title    : TM Bot
+Filename : tmbot1.zip
+Version  : 1.00
+Date     : 96/8/21
+Author(s): Micheal Polucha (co-designer, coder)
+           Tim Polucha (co-designer, playtester)
+Email    : mpolucha@earthlink.net
 
-	Credits  : HoloSelf v1.0
-	            by Perecli Manole
-	            Perecli@ix.netcom.com
+Credits  : HoloSelf v1.0
+            by Perecli Manole
+            Perecli@ix.netcom.com
 
-	           Quake-C specification and HTML version.
-	 	    by Olivier Montanuy
-	            Olivier.Montanuy@wanadoo.fr
+           Quake-C specification and HTML version.
+ 	    by Olivier Montanuy
+            Olivier.Montanuy@wanadoo.fr
 ```
 
 -- tmbot1.txt
@@ -96,16 +96,16 @@ It is interesting that the Usenet post has "Bot-Like Features" in the title of t
 He also posted a message on the same day in rec.games.computer.quake.editing with the title "TM Bot 1 - Quake C AI" asking if anyone else is working on advanced artificial intelligence.
 
 ```
-	I've just finished version 1.00 of a Quake C Bot/Companion.
-	Check it out at:
+I've just finished version 1.00 of a Quake C Bot/Companion.
+Check it out at:
 
-	ftp://ftp.cdrom.com/.5/idgames2/quake/quakec/bots/tmbot1.txt
-	ftp://ftp.cdrom.com/.5/idgames2/quake/quakec/bots/tmbot1.zip
+ftp://ftp.cdrom.com/.5/idgames2/quake/quakec/bots/tmbot1.txt
+ftp://ftp.cdrom.com/.5/idgames2/quake/quakec/bots/tmbot1.zip
 
-	Has anyone else been working on improving the AI of the monsters/bots
-	using Quake C?
+Has anyone else been working on improving the AI of the monsters/bots
+using Quake C?
 
-	-Micheal Polucha
+-Micheal Polucha
 ```
 
 -- [TM Bot 1 - Quake C AI](https://groups.google.com/g/rec.games.computer.quake.editing/c/CCoT-6kWaeM/m/HKsXcHuq-kcJ), rec.games.computer.quake.editing, Micheal Polucha, 22 Aug 1996.
@@ -113,10 +113,10 @@ He also posted a message on the same day in rec.games.computer.quake.editing wit
 In a follow-up message, he corrects the download links for the bot on the cdrom.com public FTP server:
 
 ```
-	Sorry, the actual links are:
+Sorry, the actual links are:
 
-	ftp://ftp.cdrom.com/.5/idgames2/quakec/bots/tmbot1.txt
-	ftp://ftp.cdrom.com/.5/idgames2/quakec/bots/tmbot1.zip
+ftp://ftp.cdrom.com/.5/idgames2/quakec/bots/tmbot1.txt
+ftp://ftp.cdrom.com/.5/idgames2/quakec/bots/tmbot1.zip
 ```
 
 -- [TM Bot 1 - Quake C AI](https://groups.google.com/g/rec.games.computer.quake.editing/c/CCoT-6kWaeM/m/HKsXcHuq-kcJ), rec.games.computer.quake.editing, Micheal Polucha, 22 Aug 1996.
@@ -143,10 +143,10 @@ A second version of the mode was released a few days later with the file tmbot11
 The readme lists the version as v1.1 and the release date as August 26th 1996, five days after the first release, and the timestamps of the files in the archive match this release date.
 
 ```
-	Title    : TM Bot
-	Filename : tmbot1.zip
-	Version  : 1.1
-	Date     : 96/8/26
+Title    : TM Bot
+Filename : tmbot1.zip
+Version  : 1.1
+Date     : 96/8/26
 ```
 
 -- tmbot11.txt
@@ -156,10 +156,10 @@ I note, the readme lists the distribution filename as "tmbot1.zip" instead of "t
 Like the first version, the archive contains a readme (in this case tmbot11.txt), a zip with the game source code (source.zip), and a compiled version of the source code (progs.dat).
 
 ```
-	  44173 26 Aug  1996 SOURCE.ZIP
-	 450104 26 Aug  1996 PROGS.DAT
-	   1185 26 Aug  1996 FEATURES.TXT
-	   5055 26 Aug  1996 TMBOT11.TXT
+  44173 26 Aug  1996 SOURCE.ZIP
+ 450104 26 Aug  1996 PROGS.DAT
+   1185 26 Aug  1996 FEATURES.TXT
+   5055 26 Aug  1996 TMBOT11.TXT
 ```
 
 -- tmbot11.zip
@@ -167,22 +167,22 @@ Like the first version, the archive contains a readme (in this case tmbot11.txt)
 The source files appear to have been last touched the day before on August 25th.
 
 ```
-	 14391 25 Aug  1996 BOT.QC
-	 16584 25 Aug  1996 BOTAI.QC
-	  2889 25 Aug  1996 BOT.H
-	  6284 25 Aug  1996 BOTAI2.QC
-	   713 24 Aug  1996 PROGS.SRC
-	  1332 24 Aug  1996 IMPULSE2.QC
-	 17578 24 Aug  1996 DEFS.QC
-	 17646 24 Aug  1996 PLAYER.QC
-	 15294 24 Aug  1996 TRIGGERS.QC
-	  6368 24 Aug  1996 SUBS.QC
-	  3552 24 Aug  1996 BOT_EXT.QC
-	 24099 24 Aug  1996 WEAPONS.QC
-	 17352 23 Aug  1996 DOORS.QC
-	  2988 23 Aug  1996 BUTTONS.QC
-	 11111 21 Aug  1996 WORLD.QC
-	  7855 21 Aug  1996 PLATS.QC
+ 14391 25 Aug  1996 BOT.QC
+ 16584 25 Aug  1996 BOTAI.QC
+  2889 25 Aug  1996 BOT.H
+  6284 25 Aug  1996 BOTAI2.QC
+   713 24 Aug  1996 PROGS.SRC
+  1332 24 Aug  1996 IMPULSE2.QC
+ 17578 24 Aug  1996 DEFS.QC
+ 17646 24 Aug  1996 PLAYER.QC
+ 15294 24 Aug  1996 TRIGGERS.QC
+  6368 24 Aug  1996 SUBS.QC
+  3552 24 Aug  1996 BOT_EXT.QC
+ 24099 24 Aug  1996 WEAPONS.QC
+ 17352 23 Aug  1996 DOORS.QC
+  2988 23 Aug  1996 BUTTONS.QC
+ 11111 21 Aug  1996 WORLD.QC
+  7855 21 Aug  1996 PLATS.QC
 ```
 
 -- tmbot11.zip/source.zip
@@ -190,8 +190,8 @@ The source files appear to have been last touched the day before on August 25th.
 Availability for the mod is listed at the end of the readme and includes be both ftp.cdrom.com in the bots/ directory, and at www.stomped.com.
 
 ```
-	ftp://ftp.cdrom.com/.5/idgames2/quakec/bots/
-	http://www.stomped.com/files.htm
+ftp://ftp.cdrom.com/.5/idgames2/quakec/bots/
+http://www.stomped.com/files.htm
 ```
 
 -- tmbot11.txt
@@ -199,8 +199,8 @@ Availability for the mod is listed at the end of the readme and includes be both
 Checking the archived URL cdrom.com/pub/idgames2/quakec/bots/, we can see that the upload timestamp for tmbot11.zip and tmbot11.txt matches the release date in the readme.
 
 ```
-		tmbot11.txt            26-Aug-96 10:56     4k
-		tmbot11.zip            26-Aug-96 11:03   176k
+tmbot11.txt            26-Aug-96 10:56     4k
+tmbot11.zip            26-Aug-96 11:03   176k
 ```
 
 As with v1.0, Michael posted to Usenet to announce the release, sharing the contents of the readme on rec.games.computer.quake.announce on August 27th with the title "TMBOT 1.1 ..Bot with Source.
@@ -208,40 +208,40 @@ As with v1.0, Michael posted to Usenet to announce the release, sharing the cont
 The distribution includes a new file that lists the features and known bugs (features.txt).
 
 ```
-	TM Bot v 1.1
+TM Bot v 1.1
 
-	Features:
+Features:
 
-		1. Manual or automatic control of the bot.
-		2. Bot can draw enemy fire.
-		3. Seeks out monsters and attacks them.
-		4. Can activate trigger fields on the floor (like
-		   the lights on E1M1 when going down the spiral ramp).
-		5. Can trigger some platforms.
-		6. Can open doors.
-		7. Can go through teleport portals.
-		8. Tries to return to player when player gets too
-		   far away.
-		9. DM/Co-op mode toggle.
+	1. Manual or automatic control of the bot.
+	2. Bot can draw enemy fire.
+	3. Seeks out monsters and attacks them.
+	4. Can activate trigger fields on the floor (like
+	   the lights on E1M1 when going down the spiral ramp).
+	5. Can trigger some platforms.
+	6. Can open doors.
+	7. Can go through teleport portals.
+	8. Tries to return to player when player gets too
+	   far away.
+	9. DM/Co-op mode toggle.
 
-	Bugs:
+Bugs:
 
-		1. Bot will sometimes shoot you in the back.
-		2. Bot cannot push buttons on the wall.
-		3. Bot cannot jump.
-		4. Bot cannot walk over broken ground.
-		5. Bot sometimes gets lost.
-		6. Certain functions (i.e. teleport, move, etc.)
-		   interrupt the dying process giving you a ghost bot
-		   that is insubstantial and unkillable.
-		7. Level changes may not be handled correctly by my code
-		   (Bot may not be deactivated, just lost).
+	1. Bot will sometimes shoot you in the back.
+	2. Bot cannot push buttons on the wall.
+	3. Bot cannot jump.
+	4. Bot cannot walk over broken ground.
+	5. Bot sometimes gets lost.
+	6. Certain functions (i.e. teleport, move, etc.)
+	   interrupt the dying process giving you a ghost bot
+	   that is insubstantial and unkillable.
+	7. Level changes may not be handled correctly by my code
+	   (Bot may not be deactivated, just lost).
 
-	If you find a new bug that is not listed here, please send the bug
-	report to mpolucha@earthlink.net. If yours is the first report for the
-	bug, we'll give you credit for reporting it. Also, if you have a
-	solution for a known or newly discovered bug, please feel free to
-	submit that as well.
+If you find a new bug that is not listed here, please send the bug
+report to mpolucha@earthlink.net. If yours is the first report for the
+bug, we'll give you credit for reporting it. Also, if you have a
+solution for a known or newly discovered bug, please feel free to
+submit that as well.
 ```
 
 The update contains a number of changes, interesting changes which can be summarized as:
@@ -268,10 +268,10 @@ In a note on Usenet by Tim (under Michael's account) on September 5th 1996, it i
 
 
 ```
-	... My brother and I are working on our own patch that will have some of the
-	features other DM bots have and maybe a few they don't.
+... My brother and I are working on our own patch that will have some of the
+features other DM bots have and maybe a few they don't.
 
-	- Tim Polucha
+- Tim Polucha
 ```
 
 The brothers decision to upload it to public locations (cdrom.com and stomped.com) announcement of the bot in multiple Usenet groups (rec.games.computer.quake.announce amd rec.games.computer.quake.editing) helped with adoption and subsequent extensions of the bot, founding a whole linage of bots.
@@ -283,22 +283,22 @@ I don't believe either brother continued their efforts on Quake development, at 
 A few months later, Tim commented that he'd like to collaborate on more mods, but he does not know QuakeC programming.
 
 ```
-	...
-	My brother and I created
-	TMBOT...though now he hasn't got the time to work on it anymore :(. I'd
-	still like to work on quakec stuff but I really don't have much
-	programming knowledge. Anybody want to work on QuakeC..ie a group of
-	people? Mostly all that I could do would be to help with design concepts
-	(and boy do I have a lot of concepts...hmm) I believe a few people have
-	written us already...but I really haven't said yes or no...I'd like to
-	get a whole lot of people working on this..Some people for bots, others
-	for levels...graphics...models etc.. Anybody interested?
+...
+My brother and I created
+TMBOT...though now he hasn't got the time to work on it anymore :(. I'd
+still like to work on quakec stuff but I really don't have much
+programming knowledge. Anybody want to work on QuakeC..ie a group of
+people? Mostly all that I could do would be to help with design concepts
+(and boy do I have a lot of concepts...hmm) I believe a few people have
+written us already...but I really haven't said yes or no...I'd like to
+get a whole lot of people working on this..Some people for bots, others
+for levels...graphics...models etc.. Anybody interested?
 
-	If interested please reply to this in news and to my email address at:
-	Mpol...@earthlink.net
+If interested please reply to this in news and to my email address at:
+Mpol...@earthlink.net
 
-	Thanks in advance,
-	Tim Polucha
+Thanks in advance,
+Tim Polucha
 ```
 
 -- [rec.games.computer.quake.editing, Micheal Polucha, 1 Oct 1996](https://groups.google.com/g/rec.games.computer.quake.editing/c/oBId-aNBplM/m/uTZKX5CJFSwJ).
