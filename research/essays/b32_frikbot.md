@@ -87,8 +87,10 @@ The release, and many subsequent releases can be found in modern mirrors of ftp.
 
 The release contains two files, a readme file (readme.txt) and a PAK file (pak0.pak).
 
+```
  595262 23 May  1999 pak0.pak
    4268 23 May  1999 readme.txt
+```
 
 The PAK file contains sounds, compiled game code (progs.dat), and source code for the bot (src/bot.qc, src/bot_move.qc, src/bot_rank.qc).
 
@@ -155,6 +157,7 @@ The next version of the bot was 0.05 released publicly as frikbt05.zip.
 
 This release included the PAK file (pak0.pak) and readme file (readme.txt) as with the prior release, although the compiled game code (progs.dat) and source code (.qc) are included in the base directory in this release.
 
+```
 	  23342  9 Jun  1999 bot.qc
 	   4953  8 Jun  1999 readme.txt
 	 512960  8 Jun  1999 progs.dat
@@ -162,6 +165,7 @@ This release included the PAK file (pak0.pak) and readme file (readme.txt) as wi
 	  82485  7 Jun  1999 bot_move.qc
 	   2432 23 May  1999 pak0.pak
 	   9140  6 Jul  1997 KC18DOC.TXT
+```
 
 The PAK file in this case only contains the two sound files.
 
@@ -219,12 +223,14 @@ The next version of the Frikbot was 0.06 released as frikbt06.zip.
 The release contained the same general assortment of files as the prior release, including source code, readme, compiled game code and PAK file.
 
 
+```
  518268 26 Jun  1999 progs.dat
   28385 26 Jun  1999 bot.qc
   82709 26 Jun  1999 bot_move.qc
    5305 26 Jun  1999 readme.txt
   11422 26 Jun  1999 bot_rank.qc
    2432 23 May  1999 pak0.pak
+```
 
 The readme file lists the release date as June 26 1999, matching the timestamps of files in the zip.
 
@@ -262,7 +268,7 @@ The next version of the bot was v0.07 released publicly as frikbt07.zip.
 
 The release contained the same assortment of files as the previous release.
 
-
+```
  517864 28 Jul  1999 progs.dat
    7133 28 Jul  1999 readme.txt
   38680 28 Jul  1999 bot.qc
@@ -270,6 +276,7 @@ The release contained the same assortment of files as the previous release.
   54654 27 Jul  1999 bot_move.qc
   11593 18 Jul  1999 bot_rank.qc
    2432 23 May  1999 pak0.pak
+```
 
 The readme lists the release date as July 28 1999. The latest file timestamp in the zip is one day later on July 28 1999, which is taken as a the release date.
 
@@ -341,6 +348,7 @@ The release has a different assortment of files. In this case, the QuakeC source
 
 The PAK file containing sound files has been removed.
 
+```
    1233 19 Sep  1999 upgrade.txt
   14445 19 Sep  1999 bot.qc
    7943 19 Sep  1999 readme.txt
@@ -350,6 +358,7 @@ The PAK file containing sound files has been removed.
    4891 18 Sep  1999 bot_move.qc
    8639 17 Sep  1999 bot_rank.qc
    8239 16 Sep  1999 bot_way.qc
+```
 
 The readme lists the release date as September 19 1999, matching the dates of most files in the zip file.
 
@@ -424,6 +433,7 @@ This release was also announced on inside3d on the same day.
 
 The release contained 7 source code files, a readme and upgrade instructions, as well as compiled game code for quake (progs.dat) and compiled game code for quake world (qwprogs.dat).
 
+```
  287048 22 Feb  2000 qwprogs.dat
  503400 22 Feb  2000 progs.dat
   24738 22 Feb  2000 bot_ai.qc
@@ -435,6 +445,7 @@ The release contained 7 source code files, a readme and upgrade instructions, as
    2038 22 Feb  2000 upgrade.txt
   24542 22 Feb  2000 bot.qc
   13088 22 Feb  2000 readme.txt
+```
 
 The readme lists the release date as February 22 2000, matching the timestamps of files in the zip and news announcements.
 
@@ -499,7 +510,7 @@ The release was also announced on inside3d.
 -- http://www.inside3d.com/?show=May-2000 (archived December 11 2000)
 https://web.archive.org/web/20001211121500/http://www.inside3d.com/?show=May-2000
 
-
+```
  285212 17 May  2000 qwprogs.dat
  395796 16 May  2000 progs.dat
   13229 16 May  2000 readme.txt
@@ -511,6 +522,7 @@ https://web.archive.org/web/20001211121500/http://www.inside3d.com/?show=May-200
   19611 31 Mar  2000 bot_misc.qc
    5764 14 Mar  2000 bot_move.qc
    2038 22 Feb  2000 upgrade.txt
+```
 
 The readme lists the release date as May 16 2000.
 
@@ -548,8 +560,10 @@ A copy of fbxdem.zip was acquired.
 
 It contained a demo file (fbxdem.dem) and a readme file (fbxdemo.txt).
 
+```
      667 25 May  2001 fbxdemo.txt
  2011996 25 May  2001 fbxdem.dem
+```
 
 The timestamps of the files in the zip was May 25 2001, taken as the release date of the demos.
 
@@ -589,7 +603,7 @@ The new homepage provided a description of the bot as the 10th version and that 
 
 The release contained 9 source code files (.qc), compiled game code for quake and quake world, a readme HTML file (readme.html), Windows bat files and a license document (gnu.txt).
 
-
+```
 	  23035 27 Jul  2001 bot_qw.qc
 	  28792 27 Jul  2001 bot.qc
 	 331244 27 Jul  2001 qwprogs.dat
@@ -606,6 +620,7 @@ The release contained 9 source code files (.qc), compiled game code for quake an
 	  11313 25 Jul  2001 bot_move.qc
 	     96 14 Nov  2000 progs
 	  14969 21 Dec  1999 gnu.txt
+```
 
 The readme HTML listed the release date as July 27 2001.
 
@@ -631,7 +646,7 @@ An extras file was also released with the bot as fbxextra.zip.
 
 This release provided waypoint information for the bot on the standard deathmatch maps.
 
-
+```
 	 12660 27 Jul  2001 readme.txt
 	 46456 27 Jul  2001 readme.html
 	   108 27 Jul  2001 bot.cfg
@@ -646,7 +661,7 @@ This release provided waypoint information for the bot on the standard deathmatc
 	  2343 19 May  2001 map_dm4.qc
 	  4183 14 May  2001 map_dm2.qc
 	  9140  6 Jul  1997 KC18DOC.TXT
-
+```
 
 
 
@@ -663,6 +678,7 @@ It was released as a tweaked version of the bot released as the Quake Expo 2001 
 
 The files in the release includes source code, may waypoints, readme files, bat files and compiled game code.
 
+```
  333680  6 Aug  2001 qwprogs.dat
  615748  6 Aug  2001 progs.dat
    3429  6 Aug  2001 map_dm6.qc
@@ -688,6 +704,7 @@ The files in the release includes source code, may waypoints, readme files, bat 
    2343 19 May  2001 map_dm4.qc
      96 14 Nov  2000 progs
    9140  6 Jul  1997 KC18DOC.TXT
+```
 
 The readme HTML file lists the same release date as the previous release, which I believe was mistakenly not updated.
 
@@ -722,6 +739,7 @@ The release was listed in a new update on the Frikbot homepage on inside3d.com, 
 
 The release contained the source code in a src/ subdirectory as well as the same assortment of files. The map waypoint files were not included in this release.
 
+```
      96 22 Nov  2004 progs
     192 22 Nov  2004 src
  271544 22 Nov  2004 qwprogs.dat
@@ -732,6 +750,7 @@ The release contained the source code in a src/ subdirectory as well as the same
      51 26 Jul  2001 glrun.bat
      47 26 Jul  2001 run.bat
    9140  6 Jul  1997 KC18DOC.TXT
+```
 
 The readme HTML file does not appear to be updated from the previous release, listing the same filename, version, and release date from three years before.
 
@@ -758,6 +777,7 @@ No public announcement of the release can be located, although it may have been 
 
 The release contains the same assortment of files as the previous release, with the addition of a complete readme file (readme.txt) in addition to the readme HTML file (readme.html).
 
+```
  334052 19 May  2006 qwprogs.dat
   48632 19 May  2006 readme.html
   12937 19 May  2006 readme.txt
@@ -769,6 +789,7 @@ The release contains the same assortment of files as the previous release, with 
      51 26 Jul  2001 glrun.bat
      47 26 Jul  2001 run.bat
    9140  6 Jul  1997 KC18DOC.TXT
+```
 
 The readme HTML lists the release date from FBX, the release filename from FBXA and version 0.10.2.
 

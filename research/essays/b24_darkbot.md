@@ -21,12 +21,14 @@ The archive contains the compiled game code (PROGS.DAT), readme (DARKBOT.TXT), c
 
 The release also contains the readme file for BGBot v1.5 (BGBOT15.TXT), on which this version of the bot was based. A FILE_ID.DIZ summary file was added later when this version of the released was distributed on BBSs.
 
+```
      64 10 Nov  1996 FILE_ID.DIZ
    3592 29 Oct  1996 DARKBOT.TXT
  435992 29 Oct  1996 PROGS.DAT
    3390 29 Oct  1996 CONFIG.CFG
  478992 29 Oct  1996 PLAYER.MDL
    4640  6 Sep  1996 BGBOT15.TXT
+```
 
 No source code was disturbed with this or any later releases until the final versions.
 
@@ -90,10 +92,11 @@ The release contains the compiled game code (PROGS.DAT), readme file (darkbot.tx
 
 Like the first release, the player must create the required PROGS/ subdirectory in the mod directory and move the player model file into place before playing the bot.
 
+```
  440876  4 Dec  1996 PROGS.DAT
    3490  4 Dec  1996 darkbot.txt
  536420  4 Dec  1996 player.mdl
-
+```
 
 Again, no release date is listed in the readme file. The timestamps of files in the zip file match the FTP file timestamps, indicating that the release was on December 04 1996.
 
@@ -307,7 +310,7 @@ Th release contains the compiled game code, player model and readme.
 
 It also contains PCX files a WAV audio file for the demon monster and the readme file for version 1.6 of the BGBot.
 
-
+```
      96 12 Dec 09:54 DEMON
    6687 15 May  1997 DARKBOT.TXT
    5195 15 May  1997 CONFIG.CFG
@@ -317,6 +320,7 @@ It also contains PCX files a WAV audio file for the demon monster and the readme
   65585 15 May  1997 QUAKE00.PCX
  306708 14 May  1997 PLAYER.MDL
    5565 13 Sep  1996 BGBOT16.TXT
+```
 
 There were provably multiple versions of this version of the bot, from v0.7a to at least v0.7c and all distributed with the same filename darkbt07.zip. A similar pattern was followed with v0.13 later.
 
@@ -521,8 +525,10 @@ This separation of concerns was used in later releases.
 
 Luxuriantly, the distribution of associated files for this release has not been located, making this version of the bot unusable. It is surprising that it was uploaded to ftp.cdrom.com and left in this state.
 
+```
    4246 24 Jun  1997 darkbot.txt
  492084 24 Jun  1997 progs.dat
+```
 
 The readme file lists the release date as June 1997. The FTP file timestamps and timestamps of files in the zip match, listing the release date as June 24 1997.
 
@@ -683,8 +689,10 @@ A copy of these files is preserved in mirrors of the planetquake.com files area,
 
 The PAK release (darkbot_0.13.9-pak.zip) contains only two PAK files and no readme file.
 
+```
   69768 14 Jul  1998 pak1.pak
  251058 23 Nov  1997 pak0.pak
+```
 
 The first PAK file (pak0.pak) contains the player model, config and a sound file.
 
@@ -716,9 +724,11 @@ The password is: 3xCfg6A
 
 The archive contains a readme file (readme.txt) a password text file (password.txt) and a second archive (darkbot_0.13.6-src.rar).
 
+```
     208  9 Jul  1998 password.txt
  263693  7 Jul  1998 darkbot_0.13.6-src.rar
    1935 20 Jun  1998 readme.txt
+```
 
 The password file comments that the release is made under the "SABIN Agreement" and to email Terry to get the password.
 
@@ -734,6 +744,7 @@ The readme file contains instructions on how to unzip and use the "SABIN Package
 
 The RAR file contains a number of directories that contain source code (oldsrc, source, bot, and mod) and a readme file in HTML format (darkbot.html) as well as copy of a QuakeC compiler for windows.
 
+```
 	    352  7 Jul  1998 oldsrc
 	   1184  7 Jul  1998 source
 	    576  7 Jul  1998 bot
@@ -746,7 +757,7 @@ The RAR file contains a number of directories that contain source code (oldsrc, 
 	     81  6 Aug  1997 _find.fnd
 	 128516 18 Jun  1997 PROQCC.EXE
 	  81232 15 Apr  1997 _qcman10.wri
-
+```
 
 The readme HTML file lists the version number, matching the file and a release filename of "drkbt013.zip".
 
@@ -791,6 +802,7 @@ https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/botshop/
 
 The release contains the same general structure as the darkbot_0.13.6-src.rar in the previous release. This includes directories of code files. In this case a compiled version of the game code is included, as is the HTML readme file from the last release (darkbot.html)
 
+```
     608 10 Mar  2000 bot
     320 10 Mar  2000 mod
     352 10 Mar  2000 oldsrc
@@ -801,6 +813,7 @@ The release contains the same general structure as the darkbot_0.13.6-src.rar in
     633 10 Mar  2000 progs.src
   16439  8 Dec  1997 darkbot.html
   81232 15 Apr  1997 QC.manual
+```
 
 The timestamps of the file suggest the release date was March 10 2000, about one and a half years since the last release.
 

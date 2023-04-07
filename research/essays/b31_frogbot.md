@@ -49,6 +49,7 @@ This release, and the next, were mirrored on the Bot Shop. Copies of this file c
 
 The release contains source code for the client emulation(.qc), a PAK file (Pak0.pak), readme file (frogphys00.txt), and configuration file (config.cfg).
 
+```
    8175  7 Jan  1998 frogphys00.txt
    3363  7 Jan  1998 config.cfg
  194913  7 Jan  1998 Pak0.pak
@@ -72,6 +73,7 @@ The release contains source code for the client emulation(.qc), a PAK file (Pak0
    8951  5 Jan  1998 botphys.qc
   17554 26 Sep  1996 player.qc
   15088 26 Sep  1996 misc.qc
+```
 
 The PAK file contains compiled game code and some sound files.
 
@@ -114,6 +116,7 @@ The release contains the same files, with updates to the PAK file, one code file
 
 No announcement can be found of this release. I suspect much of the public announcements by Robert were made on message boards hosted on telefragged.com, most of which have been lost.
 
+```
    3363  9 Jan  1998 config.cfg
  193552  9 Jan  1998 progs.dat
    8966  9 Jan  1998 botphys.qc
@@ -138,7 +141,7 @@ No announcement can be found of this release. I suspect much of the public annou
    4735  7 Jan  1998 subs.qc
   17554 26 Sep  1996 player.qc
   15088 26 Sep  1996 misc.qc
-
+```
 
 Reviewing a diff of this version to the previous version shows a one line change in the "botphys.qc" file related perhaps to the bot stepping out of water.
 
@@ -240,8 +243,10 @@ A copy of this release was donated to the Quake Bot Archive.
 
 The release contains a readme file (readme.txt) and a PAK file.
 
+```
    2130  9 Mar  1998 readme.txt
  370389  9 Mar  1998 pak0.pak
+```
 
 The PAK file contains the compiled game code (progs.dat) a config file (quake.rc) and sound files, the same general composition as the Frogbot Physics release.
 
@@ -381,8 +386,10 @@ A copy of this release was donated to the Quake Bot Archive.
 
 The release contains the same assortment of files as the previous two releases.
 
+```
  442191 29 Mar  1998 Pak0.pak
    4150 29 Mar  1998 readme.txt
+```
 
 The readme file lists the release date as March 29. This matches the timestamps of files in the release, and the release date on news sites.
 
@@ -501,6 +508,7 @@ It contains the compiled game code (progs.dat), a readme file (readme.txt), conf
 
 The .bot files are profiles for different bot "characters" supported in the game. Really, just configurable bot names.
 
+```
   14861 18 May  1998 readme.txt
    3006 18 May  1998 config.cfg
  436780 18 May  1998 progs.dat
@@ -525,6 +533,7 @@ The .bot files are profiles for different bot "characters" supported in the game
     480 17 May  1998 corpgrin.bot
     217 17 May  1998 bro.bot
     481 17 May  1998 add2quak.bot
+```
 
 The readme file lists the release date as May 18 1998. This matches the timestamps for the newest files in the zip file and the announcements on news sites.
 
@@ -584,6 +593,7 @@ A copy of this release was donated to the Quake Bot Archive.
 
 It contains a cleaner structure compared to the previous release. It is limited to the compiled game code for quake (progs.dat) and quake world (qwprogs.dat), a readme file (readme.txt), config files, and a bots directory for all of the bot profiles.
 
+```
 	   608 16 Dec 13:57 bots
 	 16675 15 Jul  1998 readme.txt
 	321888 15 Jul  1998 qwprogs.dat
@@ -591,6 +601,7 @@ It contains a cleaner structure compared to the previous release. It is limited 
 	   604 14 Jul  1998 frogbot.cfg
 	  2021 15 Jun  1998 quake.rc
 	  1808 12 Jun  1998 frontend.cfg
+```
 
 The readme lists the release date as Jul 14 1998. I believe this was for the previous release v0.11.
 
@@ -735,6 +746,7 @@ The release contains a src/ directory with the QuakeC source code and a bots/ di
 
 A new readme file is included describing the source code (srcnotes.txt)
 
+```
   	1120 16 Dec 13:59 src
     608 16 Dec 13:59 bots
 	360084 23 Oct  1998 progs.dat
@@ -744,6 +756,7 @@ A new readme file is included describing the source code (srcnotes.txt)
 	   338 16 Oct  1998 quake.rc
 	   122 14 Oct  1998 frontend.cfg
 	   604 14 Jul  1998 frogbot.cfg
+```
 
 The readme lists the release filename as frogbot012c.zip, although it was widely distributed as frogbot012.zip, the filename adopted on Metropolis.
 
@@ -883,7 +896,7 @@ As the last release of the bot, it remains widely available online.
 
 The release contains the same general assortment of files as previous releases, as well as a zip file for the source code (src.zip) and the bot profiles (bots.zip). The readme file for the previous release, v0.12c was also included as that was the last official release of the bot.
 
-
+```
    7072 26 Apr  1999 readme.txt
  418212 26 Apr  1999 qwprogs.dat
  491072 26 Apr  1999 progs.dat
@@ -896,7 +909,7 @@ The release contains the same general assortment of files as previous releases, 
     864 12 Nov  1998 console2.cfg
   20486 23 Oct  1998 readme012c.txt
     604 14 Jul  1998 frogbot.cfg
-
+```
 
 The readme for this test version lists the release date as April 26 1999. This is one day before the announcement on Blues News, although matches the timestamps of some of the newest files in the zip file and is the likely release date.
 

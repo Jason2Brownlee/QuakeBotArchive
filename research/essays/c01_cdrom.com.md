@@ -218,12 +218,9 @@ This means that webpages were archived that list the state of the quake archive 
 
 For example, archive.org has three useful archives of the website "http://www.cdrom.com/pub/idgames2/quakec/bots/" at the dates
 
-* 25 December 1996
-https://web.archive.org/web/19961225222455/http://www.cdrom.com/pub/idgames2/quakec/bots/
-* 09 June 1997
-https://web.archive.org/web/19970609212728/http://www.cdrom.com:80/pub/idgames2/quakec/bots/
-* 10 February 1998
-https://web.archive.org/web/19980210215654/http://www.cdrom.com:80/pub/idgames2/quakec/bots/
+* [25 December 1996](https://web.archive.org/web/19961225222455/http://www.cdrom.com/pub/idgames2/quakec/bots/)
+* [09 June 1997](https://web.archive.org/web/19970609212728/http://www.cdrom.com:80/pub/idgames2/quakec/bots/)
+* [10 February 1998](https://web.archive.org/web/19980210215654/http://www.cdrom.com:80/pub/idgames2/quakec/bots/)
 
 The timestamps can be taken as a good proxy for the date of release of a given file, as sharing a mod on ftp.cdrom.com was typically the main way files were distributed.
 
@@ -552,27 +549,27 @@ The archive was closed in 2001, shortly after the parent company was acquired.
 At first, the maintainers of the archive were locked out.
 
 
-	...
-
-	As of about the 21st of September, 2001, Digital River (the owners of the cdrom.com server) denied public access to the idgames/ (DOOM-engine games) and idgames2/ (Quake-engine games) archive file trees. This was, according to notes reflected on Doomworld (but not sent to us, the maintainers) a temporary condition due to unusual bandwidth needs. The expectation was that by early the following week, things would be back to normal.
-
-	Since then, we have been informed by Bill Dickson, Senior Manager, Download Technologies, Digital River that our maintenance accounts on cdrom.com are locked and will not be restored, and that the future of the archives (if any) will be handled by people who work for Digital River, outside the DOOM/Quake community. Unfortunately, he only told us this after several days of lockout and in response to email queries from us. Until that response, we had absolutely no idea what was going on.
-
-	...
+> ...
+>
+> As of about the 21st of September, 2001, Digital River (the owners of the cdrom.com server) denied public access to the idgames/ (DOOM-engine games) and idgames2/ (Quake-engine games) archive file trees. This was, according to notes reflected on Doomworld (but not sent to us, the maintainers) a temporary condition due to unusual bandwidth needs. The expectation was that by early the following week, things would be back to normal.
+>
+> Since then, we have been informed by Bill Dickson, Senior Manager, Download Technologies, Digital River that our maintenance accounts on cdrom.com are locked and will not be restored, and that the future of the archives (if any) will be handled by people who work for Digital River, outside the DOOM/Quake community. Unfortunately, he only told us this after several days of lockout and in response to email queries from us. Until that response, we had absolutely no idea what was going on.
+>
+> ...
 
 -- [Archive situation at cdrom.com](https://www.bluesnews.com/a/220/archive-situation-at-cdrom-com), October 1, 2001, by Ty Halderman & Frans P. de Vries.
 
 Later, the archive was shutdown and hosted and mirrored elsewhere.
 
-	As many of you may be aware, the master DOOM, Quake and Unreal community archives at ftp.cdrom.com were closed last month.
-
-	...
-
-	Our thanks go out to Walnut Creek and Digital River for hosting the archives on ftp.cdrom.com since late 1994, to all those who offered assistance during the transition (in particular IHETS), and further to all of you in the community who are making this all worth doing.
-
-	3D Gamers is now hosting the Community Archives for the DOOM-, Quake-, and Unreal-engine games.
-
-	...
+> As many of you may be aware, the master DOOM, Quake and Unreal community archives at ftp.cdrom.com were closed last month.
+>
+> ...
+>
+> Our thanks go out to Walnut Creek and Digital River for hosting the archives on ftp.cdrom.com since late 1994, to all those who offered assistance during the transition (in particular IHETS), and further to all of you in the community who are making this all worth doing.
+>
+> 3D Gamers is now hosting the Community Archives for the DOOM-, Quake-, and Unreal-engine games.
+>
+> ...
 
 -- [DOOM, Quake, Unreal archives re-opened](https://www.bluesnews.com/a/232/doom-quake-unreal-archives-re-opened), October 11, 2001, Ty Halderman & Frans P. de Vries.
 

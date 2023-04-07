@@ -6,7 +6,7 @@ Omicron can reasonably considered a successor in capability to the popular reape
 
 Jan Paul passed away in early 2017 and was well respected by John Carmack, himself perhaps one of the best programmers on the planet.
 
-	Jan Paul van Waveren passed away today. The best developer I ever worked with, my right hand, and a good friend. It was an honor.
+> Jan Paul van Waveren passed away today. The best developer I ever worked with, my right hand, and a good friend. It was an honor.
 
 -- [John Carmack](https://twitter.com/id_aa_carmack/status/826531007381794817), Twitter, Feb 01 2017.
 
@@ -30,24 +30,24 @@ In turn, they teased the release of the bot.
 
 Firstly, it resulted in an exclusive release of the bot by "Meanstryk" on the ramshackle website.
 
-	Latest News November 16th
-
-	Omicron Bot Update - I received an update by e-mail from MrElusive about the Omicron. This is what the bot prodigy said:
-
-		Everything has fallen into place the last weeks so it's going quite well. I still have to add some ai for rocket-jumping. Just so the bot will make the right decissions when to rocket-jump. The actual rocket-jumping has been implemented into the movement code. The full rocket-jump will be predicted and the bot will only jump if it is satified with the result. There is still one bug or better said an unwanted feature in the waypoint dropping algorithm. When jumping down there's often dropped a waypoint while it isn't really necessary. H2SO4 will replace two or three of the bot characters. I will adjust the bot skills so skill 3 will be even more deadly. The fuzzy logic needs some adjustment but I don't know if I will spend so much time on it.
-
-	Just to be clear how soon the release is, the rocket jumping was never a high priority on his list of things to do. Since it looks like it is now near the top of his list, this can only mean that the release is very soon. I hoped that the release can be tommorrow--the day that the final version of the Reaperbot was officially released. But MrElusive informs me that there is a strong possibility that he might not.
-
-	MrElusive also informed me that if everything goes to plan, then look for the first release at Ramshackle. They will get first crack of the exclusive from MrElusive. [legion]
+>	Latest News November 16th
+>
+>	Omicron Bot Update - I received an update by e-mail from MrElusive about the Omicron. This is what the bot prodigy said:
+>
+>		Everything has fallen into place the last weeks so it's going quite well. I still have to add some ai for rocket-jumping. Just so the bot will make the right decissions when to rocket-jump. The actual rocket-jumping has been implemented into the movement code. The full rocket-jump will be predicted and the bot will only jump if it is satified with the result. There is still one bug or better said an unwanted feature in the waypoint dropping algorithm. When jumping down there's often dropped a waypoint while it isn't really necessary. H2SO4 will replace two or three of the bot characters. I will adjust the bot skills so skill 3 will be even more deadly. The fuzzy logic needs some adjustment but I don't know if I will spend so much time on it.
+>
+>	Just to be clear how soon the release is, the rocket jumping was never a high priority on his list of things to do. Since it looks like it is now near the top of his list, this can only mean that the release is very soon. I hoped that the release can be tommorrow--the day that the final version of the Reaperbot was officially released. But MrElusive informs me that there is a strong possibility that he might not.
+>
+>	MrElusive also informed me that if everything goes to plan, then look for the first release at Ramshackle. They will get first crack of the exclusive from MrElusive. [legion]
 
 -- [http://www.inside3d.com/nov16-nov17.shtml](https://web.archive.org/web/19980614160135/http://www.inside3d.com/nov16-nov17.shtml) (archived June 14 1998)
 
 
 It also resulted in announcements that people were playing the beta version of the bot, and highlighting how amazing it was compared to other bots at the time.
 
-	Latest News November 18th
-
-	Omicron Bots ROCK! - The last 24 hours i've been playing the Omicron non-stop [xept for school, meals, sleep.. did i say non-stop? ;] and all i can say is: w0w!. This baby is so sweet, i'm almost.. no, i AM in love! You'll see a demo here [that is, if Mr Elusive says yes] with either me or legion playing it on dm4 , skill 3, timelimit 5. We're having this kind of a contest ;) [I'm surrently in the lead with 12 (me) - 2 (bot)] [Timm]
+>	Latest News November 18th
+>
+>	Omicron Bots ROCK! - The last 24 hours i've been playing the Omicron non-stop [xept for school, meals, sleep.. did i say non-stop? ;] and all i can say is: w0w!. This baby is so sweet, i'm almost.. no, i AM in love! You'll see a demo here [that is, if Mr Elusive says yes] with either me or legion playing it on dm4 , skill 3, timelimit 5. We're having this kind of a contest ;) [I'm surrently in the lead with 12 (me) - 2 (bot)] [Timm]
 
 -- [http://www.inside3d.com/nov18-nov19.shtml](https://web.archive.org/web/19980614160156/http://www.inside3d.com/nov18-nov19.shtml) (archived June 14 1998)
 
@@ -136,6 +136,7 @@ This version of the bot was donated to the Quake Bot Archive.
 
 The release contains the compiled game code (PROGS.DAT) a readme html file with images (OBOTS.HTM) and directories for the player sounds and models for the bots.
 
+```
   61848  4 Dec  1997 OBOTS.HTM
  859852  4 Dec  1997 PROGS.DAT
   78125  3 Dec  1997 OMICRON2.GIF
@@ -146,7 +147,7 @@ The release contains the compiled game code (PROGS.DAT) a readme html file with 
   29015  3 Dec  1997 ADMINIST.JPG
     128  6 May  1997 SOUND
     224  6 May  1997 PROGS
-
+```
 
 The readme HTML file lists the release date as December 12 1997, matching the dates of announcement on inside3d and Blues News.
 
@@ -166,7 +167,7 @@ The readme credits Jan Paul as the developer and Miklos for helping with ideas, 
 
 The name for the release "OBOTS" is taken as an acronym for "Omicron's Basically Obscure Training Scheme". The bot is described as being developed, at least initially, to train members of their quake clan.
 
-	Welcome to Omicron's Basically Obscure Training Scheme (OBOTS). Your mission, should you decide to accept, is to kill any- and everybody until you have acquired enough skill to challenge real persons over a LAN for a duel in quake. And will they be surprised by the way your skill has improved. Then you will be surprised. Because they have also downloaded this bot and improved their skill. Or perhaps they were so expert at quake they're already at the top, in which case you know they are bigger nerds than you thought they were.
+> Welcome to Omicron's Basically Obscure Training Scheme (OBOTS). Your mission, should you decide to accept, is to kill any- and everybody until you have acquired enough skill to challenge real persons over a LAN for a duel in quake. And will they be surprised by the way your skill has improved. Then you will be surprised. Because they have also downloaded this bot and improved their skill. Or perhaps they were so expert at quake they're already at the top, in which case you know they are bigger nerds than you thought they were.
 
 -- OBOTS.HTM
 
@@ -245,6 +246,7 @@ https://usuaris.tinet.cat/dummies/download/mods_es.shtml
 
 The zip file contained all the same files, although with updated readme html and compiled game code. It also included a text file commenting to read the html file.
 
+```
  873452 15 Dec  1997 PROGS.DAT
   76463 15 Dec  1997 OBOTS.HTM
     286 14 Dec  1997 README.TXT
@@ -256,6 +258,7 @@ The zip file contained all the same files, although with updated readme html and
   29015  3 Dec  1997 ADMINIST.JPG
     128  6 May  1997 SOUND
     224  6 May  1997 PROGS
+```
 
 The readme html file lists the release date as December 15 1997, 11 days after the first release. This matches the announcements on news websites and the timestamps of files n the zip.
 
@@ -350,7 +353,7 @@ The zip file contains the same files are previous release, with updated compiled
 
 The release also includes a readme file (KC18DOC.TXT) for the "Kasuha's DeathMatch Camera" mod, added in this release.
 
-
+```
  949720 24 Mar  1998 PROGS.DAT
    2370 24 Mar  1998 CONFIG.CFG
   79834 23 Mar  1998 OBOTS.HTM
@@ -364,7 +367,7 @@ The release also includes a readme file (KC18DOC.TXT) for the "Kasuha's DeathMat
    9140  6 Jul  1997 KC18DOC.TXT
     192  6 May  1997 SOUND
     256  6 May  1997 PROGS
-
+```
 
 The readme HTML lists the release date as March 23 1998, one day before the announcement on inside3d, and one day before the timestamp of files in the release. March 24 is taken as the release date.
 
@@ -436,24 +439,24 @@ In the following year, Jan Paul was hired by id software to help them with the b
 
 This was announced in a .plan file update by Graeme Devine on September 29 1999.
 
-	Mr. Elusive (aka Jan Paul) is over here from The Netherlands helping finalize the game. He is of course the famed author of the Gladiator bot for Quake II. As some of you have been guessing he's been working with John Cash on the bots in Q3A. We're very pleased to have Jan's expertise on Q3A.
+> Mr. Elusive (aka Jan Paul) is over here from The Netherlands helping finalize the game. He is of course the famed author of the Gladiator bot for Quake II. As some of you have been guessing he's been working with John Cash on the bots in Q3A. We're very pleased to have Jan's expertise on Q3A.
 
 -- [Graeme Devine](https://www.bluesnews.com/cgi-bin/finger.pl?id=279&time=20000508194059), .plan file [(#2)](https://www.shacknews.com/article/1869/devine-on-q3ctf-mrelusive)
 
 In an interview with John Callaham aka "JCal" on stomped.com in August 2000, he explained how he came to work at id software.
 
-	Stomped: How did you get the call to join id to work on Quake 3?
-
-	van Waveren: I did the Omicron Bot for Quake I and the Gladiator Bot for Quake II. (Former id programmer) John Cash was working on the Quake 3 Arena bots. He was pretty much going through the same path I was going through, but I've had a lot more experience from previous years doing AI stuff for Quake I and Quake II. At some point, they were interested in getting someone on board with a little more experience with doing all that stuff. So Graeme (Devine) emailed me and asked if I would be interested in coming over for a week or two weeks just to exchange ideas and exchange experiences and get some more stuff done with the Quake 3 bots. That was ok with me. (Laughs) I was still studying (in his home country of the Netherlands). I've had more job offers before that, but as I said I was still studying, but he was just proposing coming over for a week or two to exchange ideas, so that was fine with me. It was pretty cool, of course.
-
-	So I went over there and John Cash and I talked about some ideas, and we decided to try to implement my AI inside Quake 3 and see how it would run and see how it would work, and it worked pretty well. Within a few days, we had everything running. So we had two bots running at the same time, John Cash's work and my work, and at that point id was really interested in licensing my code and getting me to work on merging stuff and integrating stuff, so together with John Cash I worked on integrating my code more and also using some of his code and merging the whole thing and creating the best out of it.
+> Stomped: How did you get the call to join id to work on Quake 3?
+>
+> van Waveren: I did the Omicron Bot for Quake I and the Gladiator Bot for Quake II. (Former id programmer) John Cash was working on the Quake 3 Arena bots. He was pretty much going through the same path I was going through, but I've had a lot more experience from previous years doing AI stuff for Quake I and Quake II. At some point, they were interested in getting someone on board with a little more experience with doing all that stuff. So Graeme (Devine) emailed me and asked if I would be interested in coming over for a week or two weeks just to exchange ideas and exchange experiences and get some more stuff done with the Quake 3 bots. That was ok with me. (Laughs) I was still studying (in his home country of the Netherlands). I've had more job offers before that, but as I said I was still studying, but he was just proposing coming over for a week or two to exchange ideas, so that was fine with me. It was pretty cool, of course.
+>
+> So I went over there and John Cash and I talked about some ideas, and we decided to try to implement my AI inside Quake 3 and see how it would run and see how it would work, and it worked pretty well. Within a few days, we had everything running. So we had two bots running at the same time, John Cash's work and my work, and at that point id was really interested in licensing my code and getting me to work on merging stuff and integrating stuff, so together with John Cash I worked on integrating my code more and also using some of his code and merging the whole thing and creating the best out of it.
 
 -- [http://www.stomped.com/published/jcal9663531061.html](https://web.archive.org/web/20001212021400/http://www.stomped.com/published/jcal9663531061.html) (archived December 12 2000)
 
 The work became the basis for Jan Paul's master's thesis, accepted two years later in June 2001.
 
-	...
-	This thesis presents the Quake III Arena bot which is an intelligent artificial player emulating a human player in the game environment. This artificial player is often called a bot as an abbreviation for the word robot. With this bot everyone can enjoy the game and practice, without the need for a network connection to other people. The bot is an artificial player that only ‘lives’ inside the computer, side by side with the game. The bot receives information about the game environment directly from the game program as a set of variables. The game input from the bot is also sent directly to the game program. Although the bot only ‘lives’ inside the computer, the in-game behaviour of the bot has to be hard to distinguish from the behaviour of human players. To make the game more enjoyable and more versatile, a range of different bot characters is used that each play the game in their own style, and provide different challenges for the human player.
+> ...
+> This thesis presents the Quake III Arena bot which is an intelligent artificial player emulating a human player in the game environment. This artificial player is often called a bot as an abbreviation for the word robot. With this bot everyone can enjoy the game and practice, without the need for a network connection to other people. The bot is an artificial player that only ‘lives’ inside the computer, side by side with the game. The bot receives information about the game environment directly from the game program as a set of variables. The game input from the bot is also sent directly to the game program. Although the bot only ‘lives’ inside the computer, the in-game behaviour of the bot has to be hard to distinguish from the behaviour of human players. To make the game more enjoyable and more versatile, a range of different bot characters is used that each play the game in their own style, and provide different challenges for the human player.
 
 -- [The Quake III Arena Bot](http://www.kbs.twi.tudelft.nl/Publications/MSc/2001-VanWaveren-MSc.html), Jean Paul van Waveren, June 2001
 
