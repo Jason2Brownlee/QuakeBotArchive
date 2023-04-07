@@ -8,8 +8,7 @@ The "HoloSelf" mod is not a quake bot, but is an import precursor to some of the
 
 HoloSelf is a Quake modification for multiplayer that allows you to create a hologram of yourself briefly to fool other players.
 
-	Adopted from the holoduke idea, this mod allows you to create a clone image of yourself and briefly fool your opponents.
-
+>	Adopted from the holoduke idea, this mod allows you to create a clone image of yourself and briefly fool your opponents.
 -- Holo.txt, from holo1.zip.
 
 It was inspired by the hologram in Duke Nukem 3D called Holoduke that operated in the same way.
@@ -20,7 +19,6 @@ This mod was developed and released by Perecli Manole aka "Bort".
 
 > HoloSelf QuakeC Mod v1.0                   8/10/96
 > By: Perecli Manole AKA: Bort
-
 -- Holo.txt, from holo1.zip.
 
 The first version was distributed in the file holo1.zip on the public FTP site ftp.cdrom.com under the directory /pub/quake/misc/ that later became /pub/idgames2/quakec/misc/.
@@ -28,10 +26,11 @@ The first version was distributed in the file holo1.zip on the public FTP site f
 
 The release included the source code (Holo.qc), a compiled game code (progs.dat) file and a readme file (Holo.txt). The readme is dated August 10th 1996, although the timestamps of the files in the archive is August 11th which is taken as the release date.
 
+```
       642 11 Aug  1996 Holo.txt
    412168 11 Aug  1996 progs.dat
      2647 11 Aug  1996 Holo.qc
-
+```
 -- holo1.zip
 
 The hologram works by creating a new entity when he impulse command is issued. Ten cells (ammo for the lightning) gun are required to create the hologram and are deduced from the players ammo. The created entity uses the players model and a single specific frame of animation from the model. The entity does not think for ten seconds after which it is removed from the game.
@@ -46,10 +45,11 @@ This release contained the same files although is dated August 14th 1996. It was
 
 The readme was updated to reflect the change to v2.00, but the release date was not changed and the nature of the change was not described.
 
+```
      1094 14 Aug  1996 Holo.txt
    412744 14 Aug  1996 progs.dat
      3440 14 Aug  1996 Holo.qc
-
+```
 -- holo2.zip
 
 Reviewing a diff of the "Holo.qc" file with the same file in the previous version reveals the change.
