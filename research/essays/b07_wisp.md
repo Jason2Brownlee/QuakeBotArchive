@@ -6,16 +6,20 @@ A fun aspect of the bot is that you can ride the lava ball as it floats around t
 
 The Wisp mod was released by Iikka Paavolainen as the file "wisp.zip". The archive contained the source code (.qc files) and a readme (wisp.txt).
 
+```
   2417  1 Sep  1996 WISP.TXT
  14146  1 Sep  1996 WISP.QC
  18503 31 Aug  1996 DEFS.QC
    472 26 Aug  1996 PROGS.SRC
  25269 26 Aug  1996 WEAPONS.QC
+```
 
 The readme file does not list a release date, although the public FTP timestamp is listed as August. 31st 1996.
 
+```
 	wisp.txt               31-Aug-96 14:31     2k
 	wisp.zip               31-Aug-96 14:31    15k
+```
 
 -- [http://www.cdrom.com/pub/idgames2/quakec/bots/](https://web.archive.org/web/19961225222455/http://www.cdrom.com/pub/idgames2/quakec/bots/) (archived December 25 1996)
 
@@ -25,7 +29,7 @@ Iikka also announced the mod on the rec.games.computer.quake.editing Usenet grou
 
 The mod is described as a flying lava ball helper bot that you can also ride.
 
-	Wisp is an experimental flying bot/toy that can be used against monsters and players, and you can even ride with it through the air. It flies semi-intelligently hunting for targets; my main interest was to try to get a good flight model/intelligence when I started coding this bot. It can also be frozen or recalled.
+>	Wisp is an experimental flying bot/toy that can be used against monsters and players, and you can even ride with it through the air. It flies semi-intelligently hunting for targets; my main interest was to try to get a good flight model/intelligence when I started coding this bot. It can also be frozen or recalled.
 
 -- [Quake flying bot at ftp.cdrom.com](https://groups.google.com/g/rec.games.computer.quake.editing/c/7BxpmZzmsnc/m/4UFJVAw5AbcJ), rec.games.computer.quake.editing, 31 Aug 1996.
 

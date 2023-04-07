@@ -11,10 +11,12 @@ The archive contained the compiled game code (progs.dat), the source code for th
 
 I could not locate an original version of the distribution, only a redistributed version, the contents of which are listed below.
 
+```
 	  44381 29 Oct  1996 SOURCE.ZIP
 	     17 24 Aug  1996 FILE_ID.DIZ
 	   4787 21 Aug  1996 TMBOT1.TXT
 	 440272 21 Aug  1996 PROGS.DAT
+```
 
 -- tmbot1.zip
 
@@ -22,9 +24,9 @@ The version of the release that I acquired was probably uploaded to a BBS, where
 
 An unpacked version of the TMBot v1.0 is also provided on the "Eternal Darkness" CDROM in the directory mods/bot/. This was a CD of addons released in September 1996.
 
-
 The source.zip file contains 14 code files, all but one dated 21st of August.
 
+```
 	 11111 21 Aug  1996 WORLD.QC
 	 19619 21 Aug  1996 BOTAI.QC
 	  8469 21 Aug  1996 BOT.QC
@@ -39,6 +41,7 @@ The source.zip file contains 14 code files, all but one dated 21st of August.
 	   692 21 Aug  1996 PROGS.SRC
 	  1597 21 Aug  1996 BOT_EXT.QC
 	 24072 18 Aug  1996 WEAPONS.QC
+```
 
 -- tmbot1.zip/source.zip
 
@@ -145,15 +148,18 @@ I note, the readme lists the distribution filename as "tmbot1.zip" instead of "t
 
 Like the first version, the archive contains a readme (in this case tmbot11.txt), a zip with the game source code (source.zip), and a compiled version of the source code (progs.dat).
 
+```
 	  44173 26 Aug  1996 SOURCE.ZIP
 	 450104 26 Aug  1996 PROGS.DAT
 	   1185 26 Aug  1996 FEATURES.TXT
 	   5055 26 Aug  1996 TMBOT11.TXT
+```
 
 -- tmbot11.zip
 
 The source files appear to have been last touched the day before on August 25th.
 
+```
 	 14391 25 Aug  1996 BOT.QC
 	 16584 25 Aug  1996 BOTAI.QC
 	  2889 25 Aug  1996 BOT.H
@@ -170,6 +176,7 @@ The source files appear to have been last touched the day before on August 25th.
 	  2988 23 Aug  1996 BUTTONS.QC
 	 11111 21 Aug  1996 WORLD.QC
 	  7855 21 Aug  1996 PLATS.QC
+```
 
 -- tmbot11.zip/source.zip
 
@@ -182,8 +189,10 @@ Availability for the mod is listed at the end of the readme and includes be both
 
 Checking the archived URL cdrom.com/pub/idgames2/quakec/bots/, we can see that the upload timestamp for tmbot11.zip and tmbot11.txt matches the release date in the readme.
 
+```
 		tmbot11.txt            26-Aug-96 10:56     4k
 		tmbot11.zip            26-Aug-96 11:03   176k
+```
 
 As with v1.0, Michael posted to Usenet to announce the release, sharing the contents of the readme on rec.games.computer.quake.announce on August 27th with the title "TMBOT 1.1 ..Bot with Source.
 

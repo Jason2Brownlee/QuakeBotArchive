@@ -9,6 +9,7 @@ The "HoloSelf" mod is not a quake bot, but is an import precursor to some of the
 HoloSelf is a Quake modification for multiplayer that allows you to create a hologram of yourself briefly to fool other players.
 
 >	Adopted from the holoduke idea, this mod allows you to create a clone image of yourself and briefly fool your opponents.
+
 -- Holo.txt, from holo1.zip.
 
 It was inspired by the hologram in Duke Nukem 3D called Holoduke that operated in the same way.
@@ -19,6 +20,7 @@ This mod was developed and released by Perecli Manole aka "Bort".
 
 > HoloSelf QuakeC Mod v1.0                   8/10/96
 > By: Perecli Manole AKA: Bort
+
 -- Holo.txt, from holo1.zip.
 
 The first version was distributed in the file holo1.zip on the public FTP site ftp.cdrom.com under the directory /pub/quake/misc/ that later became /pub/idgames2/quakec/misc/.
