@@ -589,7 +589,7 @@ The announcement links to a locally mirrored version of the oak0855.zip release 
 	described as a half way build which includes new movement code. The update has
 	a new progs.dat, but if you don't already have it, the most recent version with
 	the .pak file (1 MB) is also required (thanks Night for reminding me to post
-		that).
+	that).
 
 -- [https://www.bluesnews.com/archives/aug97-1.html](https://web.archive.org/web/19980213035908/http://bluesnews.com/archives/aug97-1.html) (archived Feb 13 1998)
 

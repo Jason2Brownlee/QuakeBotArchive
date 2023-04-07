@@ -17,9 +17,10 @@ The zip file contains a readme file (BTHNT10.TXT) and the compiled game code (PR
 
 No source code is included in this release.
 
+```
    2449 18 Sep  1996 BTHNT10.TXT
  437460 18 Sep  1996 PROGS.DAT
-
+```
 
 The reamde lists the bot as version 1.0 and the release date as September 18 1996. This matches the timestamps of files in the zip and the timestamps of files uploaded to ftp.cdrom.com.
 

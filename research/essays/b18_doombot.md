@@ -201,6 +201,7 @@ This version was uploaded to ftp.cdrom.com into the /quakec/bots/ directory, whe
 
 The archive contains the compiled game code (PROGS.DAT), a readme file (DMBT21B3.TXT), configuration files, as well as sound and model files, presunably a subset of what was included in the original doombot.zip.
 
+```
   31509 14 Jun  1997 DMBT21B3.TXT
  662268 14 Jun  1997 PROGS.DAT
      96 12 Jun  1997 TEXT
@@ -209,6 +210,7 @@ The archive contains the compiled game code (PROGS.DAT), a readme file (DMBT21B3
     256 11 Jun  1997 PROGS
    1932 11 Jun  1997 CONFIG.CFG
     285  6 Jun  1997 BOT.CFG
+```
 
 The release date in the readme file is listed as June 14 1997. This matches the FTP file timestamps and the file date of the game code and readme in the zip file.
 
@@ -231,13 +233,17 @@ The release is still not complete, requiring the player model from the doombot.z
 	What's New v0.21b2 --> v0.21b3
 
 	...
-	I've changed the archive so that all the files you REALLY need is here.  Only the player.mdl is missing.  You'll need to download doombot.zip for that file.  Text files for the individual patches are also contained in doombot.zip so I suggest you get it.
+	I've changed the archive so that all the files you REALLY need is here.
+	Only the player.mdl is missing.  You'll need to download doombot.zip for
+	that file.  Text files for the individual patches are also contained in
+	doombot.zip so I suggest you get it.
 
 -- dmbt21b3.txt
 
 The requirement for the doombot.zip is mentioned right at the top of the readme file.
 
-	You'll need to download doombot.zip.  This contains the *.wav and *.mdl files not contained in this archive.  It also contains various text files, too.
+	You'll need to download doombot.zip.  This contains the *.wav and *.mdl files
+	not contained in this archive.  It also contains various text files, too.
 
 	The file can be downloaded from
 
@@ -255,8 +261,8 @@ It was not present in the next closest capture by archive.org eight months later
 Interestingly, this release also sees the re-addition of the cujo bot to the mod.
 
 	ADDED CujoBot back in.  Here is the reason:
-		- I was able to fix that crash problem whenever I spawned too many bots at once.
-		- Cujo no longer eats gibs as a result
+	- I was able to fix that crash problem whenever I spawned too many bots at once.
+	- Cujo no longer eats gibs as a result
 
 -- dmbt21b3.txt
 
@@ -264,7 +270,9 @@ Roscoe credits many other bot developers in the readme file, including Cameron N
 
 He describes his bot as a hybrid of the Roambot, itself based on the BGBot, and the Eliminator bot.
 
-	This is an Eliminatorbot/Roambot hybrid with added movement when attacking as well as additional search functions and attack functions not present in either of the original two bots.  Hope you like it.
+	This is an Eliminatorbot/Roambot hybrid with added movement when attacking as
+	well as additional search functions and attack functions not present in either
+	of the original two bots.  Hope you like it.
 
 -- dmbt21b3.txt
 
@@ -274,7 +282,11 @@ A message in the readme suggest that he had no intention of releasing the source
 
 He also suggests that the doombot might be part of a large mod in development called "legion of doom", however it does not appear to have been released publicly.
 
-	I will not be releasing the source until I am finish fine-tuning the essential elements of the package.  [...]  I originally planned to release the source along with the legion of doom modification but the progs.dat for this package alone is over 644k.  The progs.dat for the L.O.D. is over 1000k.  So right now, it appears I won't be combining the L.O.D. and this modification together.
+	I will not be releasing the source until I am finish fine-tuning the essential
+	elements of the package.  [...]  I originally planned to release the source
+	along with the legion of doom modification but the progs.dat for this package
+	alone is over 644k.  The progs.dat for the L.O.D. is over 1000k.  So right now,
+	it appears I won't be combining the L.O.D. and this modification together.
 
 -- dmbt21b3.txt
 
@@ -301,13 +313,23 @@ The code file provided a drop-in replacement for the "movetogoal", which he call
 
 The release was uploaded to ftp.cdrom.com into the incoming/ directory.
 
-	To everyone, I just released botmove.zip. It features a new movetogoal function to replace the original movetogoal. If you are thinking of making a bot of your own, I encourage you to download botmove.zip. It contains the source code for the function as well as three demos showing BGBot with its enhanced movement. You can download it at ftp.cdrom.com/pub/quake. It is currently in the incoming directory. I am not sure where the file would be placed but I think it will be moved to /pub/quake/quakec/bots.
+	To everyone, I just released botmove.zip. It features a new movetogoal
+	function to replace the original movetogoal. If you are thinking of making a
+	bot of your own, I encourage you to download botmove.zip. It contains the
+	source code for the function as well as three demos showing BGBot with its
+	enhanced movement. You can download it at ftp.cdrom.com/pub/quake. It is
+	currently in the incoming directory. I am not sure where the file would be
+	placed but I think it will be moved to /pub/quake/quakec/bots.
 
 -- [Roscoe A. Sincero](https://groups.google.com/g/rec.games.computer.quake.playing/c/7kJXfH-x7E4/m/SUYh339rV6UJ), rec.games.computer.quake.playing, 29 June 1997.
 
 The release also include demo files showing the behavior of the BGBot making use of the improvement movement.
 
-	... The package contains the source and three demos showing BGBot with the enhanced movement. The new movetogoal function (called norse_movetogoal) allows the bot to move on broken ground, swim in water, swim up for air, jump out of water easily and jump over gaps. It also allows the bot to move in one direction while simultaenously face another. See the demos for example.
+	... The package contains the source and three demos showing BGBot with the
+	enhanced movement. The new movetogoal function (called norse_movetogoal)
+	allows the bot to move on broken ground, swim in water, swim up for air,
+	jump out of water easily and jump over gaps. It also allows the bot to move
+	in one direction while simultaenously face another. See the demos for example.
 
 -- [Roscoe A. Sincero](https://groups.google.com/g/rec.games.computer.quake.quake-c/c/CLqxO5G7RWo/m/nNwYnadlynoJ), rec.games.computer.quake.quake-c, 29 June 1997.
 
@@ -323,14 +345,14 @@ Roscoe comments that he is collaborating on a new Quake bot project that will ma
 
 A few days later, the file was still not moved into the quakec/bots/ directory, and it is possible that it never made it.
 
-	The file to download is botmove.zip. As of today, the file can be downloaded even though it is not in the correct directory.
+	The file to download is botmove.zip. As of today, the file can be downloaded
+	even though it is not in the correct directory.
 
 -- [Roscoe A. Sincero](https://groups.google.com/g/rec.games.computer.quake.playing/c/jrL9Cs2jiOY/m/GkhEXpw0fZoJ), rec.games.computer.quake.playing, 1 July 1997
 
 THe next day on July 02 1997, Roscoe comments that he has sared working on a new version of the release.
 
 He also comments that he believes the next version of the Oak bot will make use of the new movement routine.
-
 
 	heheh. Well, they'll be using my new norse_movetogoal, I think. (Just
 	received e-mail, I think they were successful in integrating the
@@ -359,6 +381,7 @@ This release was uploaded to ftp.cdrom.com and made it into the quakec/bots/ dir
 
 The release contain the source code file (BOTMOVE.QC), readme file (BTMV31.TXT) and many demo files.
 
+```
   17022  4 Jul  1997 BTMV31.TXT
     192  4 Jul  1997 PROGS
   99570  3 Jul  1997 BOTMOVE.QC
@@ -372,7 +395,7 @@ The release contain the source code file (BOTMOVE.QC), readme file (BTMV31.TXT) 
  259402  3 Jul  1997 ZEUS2.DEM
  353165  3 Jul  1997 ZEUS1.DEM
  233513  3 Jul  1997 ZEUS0.DEM
-
+```
 
 The readme lists the release date as July 03 1997. This matches the timestamps of the demo files and code file in the zip file. The readme in the zip and the FTP file timestamps list July 04 1997 as release date, one day later.
 
@@ -393,7 +416,7 @@ The readme lists the release date as July 03 1997. This matches the timestamps o
 
 This release includes demos of the BGBot and ZeusBot making use of the new movement code, with demos of the Repaer and Roam bots as counter examples of less effective movement code.
 
-	This mod provides an alternative function to ID's movetogoal function.  This will allow any bot to swim, move on broken ground, jump over gaps and other "tricks" that the original movetogoal function could not do.  In short, if you are making a bot, this new function will give an appearance that your bot is intelligent.  Unlike most other bots, this new function will allow your bot to move in one direction while facing another.  The roambot demo features this ability.
+> This mod provides an alternative function to ID's movetogoal function.  This will allow any bot to swim, move on broken ground, jump over gaps and other "tricks" that the original movetogoal function could not do.  In short, if you are making a bot, this new function will give an appearance that your bot is intelligent.  Unlike most other bots, this new function will allow your bot to move in one direction while facing another.  The roambot demo features this ability.
 
 -- BTMV31.TXT
 
@@ -411,19 +434,19 @@ The first version was released as btsk22.zip.
 
 This was a project template for developing a quake bot and appears to be a morph and extension of his prior Doombot and Bot Movement projects.
 
-	My new bot project called the Doombot Bot Skeleton Project is now ready for its initial release. Its purpose is to help others make their own bot. The only thing missing is an AI to go along with the other functions.
+> My new bot project called the Doombot Bot Skeleton Project is now ready for its initial release. Its purpose is to help others make their own bot. The only thing missing is an AI to go along with the other functions.
 
 -- [To fellow Bot Makers](https://groups.google.com/g/rec.games.computer.quake.misc/c/emS920FQHOU/m/IhK8KXb0IYMJ), rec.games.computer.quake.misc, Roscoe A. Sincero, 17 July 1997
 
 The first version may not have been uploaded to ftp.cdrom.com, but was announced on Usenet on July 17 1997.
 
-	This bot patch is, however, a working skeleton. It contains a small portion of BGBot's AI so all you need to do is to compile it (the source is included) and play it. The modified BGBot will not search for items. I'll be uploading it to ftp.cdrom.com. I wanted to do it today but the archive maintainer will be at QuakeCon so all uploaded are disabled until Sunday at the earliest. When I finally upload it, the file should be in /pub/quake/quakec/bots directory.
+> This bot patch is, however, a working skeleton. It contains a small portion of BGBot's AI so all you need to do is to compile it (the source is included) and play it. The modified BGBot will not search for items. I'll be uploading it to ftp.cdrom.com. I wanted to do it today but the archive maintainer will be at QuakeCon so all uploaded are disabled until Sunday at the earliest. When I finally upload it, the file should be in /pub/quake/quakec/bots directory.
 
 -- [To fellow Bot Makers](https://groups.google.com/g/rec.games.computer.quake.misc/c/emS920FQHOU/m/IhK8KXb0IYMJ), rec.games.computer.quake.misc, Roscoe A. Sincero, 17 July 1997
 
 It included source code for getting started with a bot, including the movement code, as well as the demos like those that appeared in the Bot Movement project, perhaps some of the same files.
 
-	The file to look for is called btsk22.zip. It contains the source code and 10 demos showing off the new movement plus 4 demos of Zeus bot and 1 demo of the reaperbot. I suggest you take a look at the strafe1.dem and strafe2.dem for some real bot strafing without using walkmove.
+> The file to look for is called btsk22.zip. It contains the source code and 10 demos showing off the new movement plus 4 demos of Zeus bot and 1 demo of the reaperbot. I suggest you take a look at the strafe1.dem and strafe2.dem for some real bot strafing without using walkmove.
 
 -- [To fellow Bot Makers](https://groups.google.com/g/rec.games.computer.quake.misc/c/emS920FQHOU/m/IhK8KXb0IYMJ), rec.games.computer.quake.misc, Roscoe A. Sincero, 17 July 1997
 
@@ -431,7 +454,7 @@ A copy of this release cannot be located.
 
 It is possible that it never made it to cdrom.com, instead only offered for direct email distribution from Roscoe himself.
 
-	If you want to have a copy now, e-mail me and I will send it to you as an attachment. See .sig below for address.
+> If you want to have a copy now, e-mail me and I will send it to you as an attachment. See .sig below for address.
 
 -- [To fellow Bot Makers](https://groups.google.com/g/rec.games.computer.quake.misc/c/emS920FQHOU/m/IhK8KXb0IYMJ), rec.games.computer.quake.misc, Roscoe A. Sincero, 17 July 1997
 
@@ -455,6 +478,7 @@ The file was uploaded to ftp.cdrom.com in the bots/ directory, where it remains 
 
 The release contains source code for the project template (SRC.ZIP), a readme file (BTSK23.TXT), many demos and some model files and sounds required to support the template.
 
+```
   17094 23 Jul  1997 BTSK23.TXT
    1987 23 Jul  1997 CONFIG.CFG
   75476 23 Jul  1997 ATTACK2.DEM
@@ -475,7 +499,7 @@ The release contains source code for the project template (SRC.ZIP), a readme fi
  259402  3 Jul  1997 ZEUS2.DEM
  353165  3 Jul  1997 ZEUS1.DEM
  233513  3 Jul  1997 ZEUS0.DEM
-
+```
 
 The readme mentions the release date as July 22 1997, about 5 days after the first public release. Many files in the zip a have a similar timestamp, including the source. The FTP file timestamp is one day later on July 23 1997 and is taken as the release date.
 
@@ -491,13 +515,14 @@ The readme mentions the release date as July 22 1997, about 5 days after the fir
 
 The readme provides a good description of the project and its goals.
 
-	This package contains the source code for a skeleton code to help you make your own bot.  The only thing missing from the code is its own AI.  However, this is a working skeleton code.  I inserted a portion of BGBot's AI into the code.  (The bot will NOT search for items.)  It is assumed that you will add in your own AI and remove BGBot. Or if you wish, you can add the remaining portions of  BGBot's AI so it can search for items.  Just because it can't search for items like health or armor, don't assume it can't pick these items up by accident or that they can't fight very well.  (See attack.dem)
+> This package contains the source code for a skeleton code to help you make your own bot.  The only thing missing from the code is its own AI.  However, this is a working skeleton code.  I inserted a portion of BGBot's AI into the code.  (The bot will NOT search for items.)  It is assumed that you will add in your own AI and remove BGBot. Or if you wish, you can add the remaining portions of  BGBot's AI so it can search for items.  Just because it can't search for items like health or armor, don't assume it can't pick these items up by accident or that they can't fight very well.  (See attack.dem)
 
 -- btsk23.txt
 
 The readme includes a changelog, listing the changes in this release compared to the prior 0.22 version, mostly changes to the AI and bug fixes, many with reference to specific demo files to show off the result.
 
-	- added minor trap avoidance code.  Bot will attempt to avoid traps that shoot from ceiling.  (See bge1m5.dem)
+	- added minor trap avoidance code.  Bot will attempt to avoid traps that shoot
+	from ceiling.  (See bge1m5.dem)
 
 -- btsk23.txt
 
@@ -507,7 +532,8 @@ Features include Alan Kivlin's ranking code, Roscoe's own movement code, and muc
 
 It seems Roscoe intended to continue work on the Doombot, and a possible Norsebot, reserving them specifically in the readme file.
 
-	You are encouraged to add your AI into the code.  Please name your bot package to something OTHER than Doombot or Norsebot.
+	You are encouraged to add your AI into the code.  Please name your bot package
+	to something OTHER than Doombot or Norsebot.
 
 -- btsk23.txt
 
@@ -527,17 +553,17 @@ Around this time, there was active development decompiling and extending the rea
 
 Roscoe contributed to this effort, with frequent messages on Usenet, as well as start of a series of tutorial on Inside3D called the "Reaperbot Improvement Protocol v0.11 (RIP v0.11)"
 
-	This is apparently the first attempt in improving the reaperbot since December 1996. I have seen several people asking questions publically concerning the issue of making a compilable reaperbot source. Other than people misleading others (I hope it wasn't deliberate), I have not seen one individual actually provide concrete information on HOW to do this.
-
-	...
-
-	It is hoped that this how-to guide, this tutorial will help you in making YOUR copy of the reaperbot a better one. The emphasis here is on the word 'YOUR'.
+>	This is apparently the first attempt in improving the reaperbot since December 1996. I have seen several people asking questions publically concerning the issue of making a compilable reaperbot source. Other than people misleading others (I hope it wasn't deliberate), I have not seen one individual actually provide concrete information on HOW to do this.
+>
+>	...
+>
+>	It is hoped that this how-to guide, this tutorial will help you in making YOUR copy of the reaperbot a better one. The emphasis here is on the word 'YOUR'.
 
 -- [http://www.inside3d.com/qctut/rip1.html](https://web.archive.org/web/19980614164404/http://www.inside3d.com/qctut/rip1.html) (archived June 14 1998)
 
 Although these tutorials were posted on Inside3D, they may have originated on "The Scrap Heap", or syndicated to both sites simultaneously.
 
-	This tutorial is broken up into several parts. Each week a new part of the lesson will be posted. Visit Inside3D or Scrap Heap for your weekly reaperbot fix.
+>	This tutorial is broken up into several parts. Each week a new part of the lesson will be posted. Visit Inside3D or Scrap Heap for your weekly reaperbot fix.
 
 -- [http://www.inside3d.com/qctut/rip1.html](https://web.archive.org/web/19980614164404/http://www.inside3d.com/qctut/rip1.html) (archived June 14 1998)
 
@@ -571,7 +597,7 @@ It appeared to be a modified reaper bot that added elements from the reaper bot.
 
 Sadly, it does not appear that a public version of the bot was ever released.
 
-	The Final words - I think i can call this the best modified reaper. With all it's features, and bug fixes, it's a joy to play against. BUT, what i can do not like about this patch is that it is very slow with many bots, because of the new movement code. I guess all we can do is to wait for the dll's which are gonna run like 10 times faster than QC. Oh, and Steve, if you read this, please let Roscoe release this patch!! Thank you.
+>	The Final words - I think i can call this the best modified reaper. With all it's features, and bug fixes, it's a joy to play against. BUT, what i can do not like about this patch is that it is very slow with many bots, because of the new movement code. I guess all we can do is to wait for the dll's which are gonna run like 10 times faster than QC. Oh, and Steve, if you read this, please let Roscoe release this patch!! Thank you.
 
 -- [http://www.inside3d.com/qc/patch9-1.html](https://web.archive.org/web/19980614155325/http://www.inside3d.com/qc/patch9-1.html) (archived June 14 1998)
 

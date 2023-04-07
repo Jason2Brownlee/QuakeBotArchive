@@ -19,12 +19,14 @@ A copy of the release can be found on "Shareware Extravaganza 8 (Disk 8)" collec
 
 The release contains compiled game code (PROGS.DAT) a summary readme (README.TXT) a description of the mod (BOTSKN10.TXT), a player model file (PROGS/) and QuakeC source code (SRC.ZIP). A BBS file (FILE_ID.DIZ) was added later describing the contents of the zip file.
 
+```
  123608 28 Oct  1996 SRC.ZIP
      96 28 Oct  1996 PROGS
     160 28 Oct  1996 FILE_ID.DIZ
     415 19 Sep  1996 README.TXT
    3344 19 Sep  1996 BOTSKN10.TXT
  439812 19 Sep  1996 PROGS.DAT
+```
 
 The readme file lists the contents of the mod, including the BGBOT16.TXT file, which was not present in the release.
 
@@ -399,11 +401,12 @@ The same file was distributed on the The Dominion BBS.
 
 The release contains the compiled game code (PROGS.DAT), readme summary (README.TXT), detailed readme file (BOTSKN18.TXT) and the player model with multiskin support (PROGS/)
 
-
+```
      96 10 Dec 10:52 PROGS
    6672 18 Oct  1996 BOTSKN18.TXT
     326 18 Oct  1996 README.TXT
  440284 15 Oct  1996 PROGS.DAT
+```
 
 The readme file lists the release date as October 18, one day before the FTP timestamps.
 
@@ -523,11 +526,13 @@ It is surprising that v1.8 and 2.0 appear on the "Toolkit For Quake (QTool_0197)
 
 The zip file contains the compiled game code (PROGS.DAT), release summary (README.TXT), readme file (BOTSKN20.TXT), changelog (REVISION.TXT) and player model with multiskin support (PROGS/PLAYER.MDL)
 
+```
      96 10 Dec 10:52 PROGS
     373 27 Oct  1996 README.TXT
    7478 27 Oct  1996 BOTSKN20.TXT
    3900 27 Oct  1996 REVISION.TXT
  440788 27 Oct  1996 PROGS.DAT
+```
 
 The readme file lists the release date as October 27th. This matches the timestamps of the files in the zip file and the timestamps on various CDROMs on which the release was distributed.
 
@@ -599,11 +604,13 @@ The file also appears on the "Cream of the Crop 23" CDROM.
 
 The release contains the same assortment of compiled game code, readme files and player model with multiskin support.
 
+```
      96 10 Dec 10:52 PROGS
    7779  4 Nov  1996 BOTSKN22.TXT
    4521  4 Nov  1996 REVISION.TXT
     373  4 Nov  1996 README.TXT
  440796  4 Nov  1996 PROGS.DAT
+```
 
 The readme lists the release date as November 4th, one day after the v2.1 release. This is confirmed by the tiemstamps of files in the zip file, on the FTP, and in the changelog readme.
 
@@ -639,8 +646,13 @@ Reading new archives of later incarnations of the author's homepage, we can see 
 About one year later in September 1997, Warren started development on an advanced quake monster, which he dubbed "Qmon".
 
 	Sept 21 1997
+
 	A really Alpha Quake Monster Patch...
-	Yup, looks like I got around to doodling with my monster patch. Anyhow, there's some noticeably differences (heh heh...the fiends...) so I thought I may as well release version 0.01 of Qmon - the Monsters Strike Back! Look for the accelerated Ogres and the rearmed Fiends. Download the progs.dat here.
+	Yup, looks like I got around to doodling with my monster patch. Anyhow,
+	there's some noticeably differences (heh heh...the fiends...) so I thought
+	I may as well release version 0.01 of Qmon - the Monsters Strike Back!
+	Look for the accelerated Ogres and the rearmed Fiends. Download the progs.dat
+	here.
 
 -- [http://modena.intergate.ca/personal/wac/news/sept97.htm](https://web.archive.org/web/20010305112044/http://modena.intergate.ca/personal/wac/news/sept97.htm) (archived March 05 2001)
 
@@ -649,16 +661,32 @@ I suspect it was a smart monster that used ideas developed as part of his BotSki
 An update release for the bot was shared two days later.
 
 	Sept 23 1997
+
 	Alpha 2 of Qmon
-	Not much today other than homework, so I decided to post this second alpha of my quake mod. Grab Qmon ver 0.02 from here. Still no text file, but a couple additions. The grunts have a reloading frame (and an extra deathly action...), the Hell Knights have some more frames and so do the Ogre. Plus, you can attack Chthon...although he's on the tough side. I think I'll tone him down a bit...
+	Not much today other than homework, so I decided to post this second alpha of
+	my quake mod. Grab Qmon ver 0.02 from here. Still no text file, but a couple
+	additions. The grunts have a reloading frame (and an extra deathly
+	action...), the Hell Knights have some more frames and so do the Ogre.
+	Plus, you can attack Chthon...although he's on the tough side. I think I'll
+	tone him down a bit...
 
 -- [http://modena.intergate.ca/personal/wac/news/sept97.htm](https://web.archive.org/web/20010305112044/http://modena.intergate.ca/personal/wac/news/sept97.htm) (archived March 05 2001)
 
 The description suggest that the project involved updating all of the monsters in quake to be more challenging.
 
 	Sept 24 1997
+
 	QMon Alpha 3
-	OK... I here's another Alpha (notice I say alpha...that's because it's not really fully functional, or even half decent functional) version of my mod. This one has a fully working version of Chthon included, with the possibility of pain! So go jump to E1M7 and attack him with regular weapons!! He has about 3000 health, so about 30+ rockets... Anyhow, you can still use the lightning poles, but that's kinda cheap...they do about 1000 damage. Heh - the skill level makes a big difference. Easy is your regular old non-leading fire Chthon. Try out skill 1, skill 2 for a realy workout, and if you're really suicidal, it's pretty tough to get up to the 2nd floor on skill 3... Grab Qmon003 try him out!
+	OK... I here's another Alpha (notice I say alpha...that's because it's not
+	really fully functional, or even half decent functional) version of my mod.
+	This one has a fully working version of Chthon included, with the
+	possibility of pain! So go jump to E1M7 and attack him with regular
+	weapons!! He has about 3000 health, so about 30+ rockets... Anyhow, you
+	can still use the lightning poles, but that's kinda cheap...they do about
+	1000 damage. Heh - the skill level makes a big difference. Easy is your
+	regular old non-leading fire Chthon. Try out skill 1, skill 2 for a realy
+	workout, and if you're really suicidal, it's pretty tough to get up to the
+	2nd floor on skill 3... Grab Qmon003 try him out!
 
 A day later, and another update to the mod was released.
 
@@ -669,8 +697,16 @@ And again, another day later.
 The work probably provided a good distraction from homework.
 
 	Sept 25 1997
+
 	Qmon Alpha 4 is out
-	HAHA. Bluesnews would be having a fit with my daily patch updates. Anyhow, Qmon 0.04 has been released. Today's special effect is the destroyable door! Yes, almost all the doors (except the secret ones) can be DESTROYED! So if you just can't find that key, or happen to want to wreak some havok on the poor level designer's head, feel free to pump a couple rockets and vaporize the door. Each one can hold off about 4 rockets. And when I mean vaporize,, I literally mean vaporize. Haven't managed to get the door to gib or anything yet - it just pulls an Obi-wan Kenobi disappearing trick.
+	HAHA. Bluesnews would be having a fit with my daily patch updates. Anyhow,
+	Qmon 0.04 has been released. Today's special effect is the destroyable door!
+	Yes, almost all the doors (except the secret ones) can be DESTROYED! So if
+	you just can't find that key, or happen to want to wreak some havok on the
+	poor level designer's head, feel free to pump a couple rockets and vaporize
+	the door. Each one can hold off about 4 rockets. And when I mean vaporize,
+	I literally mean vaporize. Haven't managed to get the door to gib or anything
+	yet - it just pulls an Obi-wan Kenobi disappearing trick.
 
 -- [http://modena.intergate.ca/personal/wac/news/sept97.htm](https://web.archive.org/web/20010305112044/http://modena.intergate.ca/personal/wac/news/sept97.htm) (archived March 05 2001)
 
@@ -679,9 +715,17 @@ The mod seems to be moving away from smart monsters and more into a grab bag of 
 A fifth and final release of the patch was released 4 days later.
 
 	Sept 29 1997
+
 	Slow day, so you know what's coming
-	Okay, so you may not know. But anyhow, here's the new version 0.05 of my Qmon patch for downloading. As a bonus, here's a sample text file describing the progress so far. I think I'll hack up a page for it if this continues...
-	A little explanation for the Chthon changes...Tangmaster and I were discussing possible changes, so here he is. His missile is faster (but still has a tendency to slam into walls :( but so do your missiles ;) Anyhow, finally got the lightning things to make sense - they now HEAL him. Completely. I suggest you take them out if you really want to fight Chthon.
+	Okay, so you may not know. But anyhow, here's the new version 0.05 of my Qmon
+	patch for downloading. As a bonus, here's a sample text file describing the
+	progress so far. I think I'll hack up a page for it if this continues...
+
+	A little explanation for the Chthon changes...Tangmaster and I were
+	discussing possible changes, so here he is. His missile is faster (but still
+	has a tendency to slam into walls :( but so do your missiles ;) Anyhow,
+	finally got the lightning things to make sense - they now HEAL him.
+	Completely. I suggest you take them out if you really want to fight Chthon.
 
 -- [http://modena.intergate.ca/personal/wac/news/sept97.htm](https://web.archive.org/web/20010305112044/http://modena.intergate.ca/personal/wac/news/sept97.htm) (archived March 05 2001)
 
