@@ -13,7 +13,7 @@ Adopted from the holoduke idea, this mod allows you to create a clone image
 of yourself and briefly fool your opponents.
 ```
 
-- Holo.txt, from holo1.zip.
+-- Holo.txt, from holo1.zip.
 
 It was inspired by the hologram in Duke Nukem 3D called Holoduke that operated in the same way.
 
@@ -26,7 +26,7 @@ This mod was developed and released by Perecli Manole aka "Bort".
  By: Perecli Manole AKA: Bort
 ```
 
-- Holo.txt, from holo1.zip.
+-- Holo.txt, from holo1.zip.
 
 The first version was distributed in the file holo1.zip on the public FTP site ftp.cdrom.com under the directory /pub/quake/misc/ that later became /pub/idgames2/quakec/misc/.
 (how do you know this?)
@@ -38,7 +38,7 @@ The release included the source code (Holo.qc), a compiled game code (progs.dat)
    412168 11 Aug  1996 progs.dat
      2647 11 Aug  1996 Holo.qc
 ```
-- holo1.zip
+-- holo1.zip
 
 The hologram works by creating a new entity when he impulse command is issued. Ten cells (ammo for the lightning) gun are required to create the hologram and are deduced from the players ammo. The created entity uses the players model and a single specific frame of animation from the model. The entity does not think for ten seconds after which it is removed from the game.
 
@@ -57,7 +57,7 @@ The readme was updated to reflect the change to v2.00, but the release date was 
    412744 14 Aug  1996 progs.dat
      3440 14 Aug  1996 Holo.qc
 ```
-- holo2.zip
+-- holo2.zip
 
 Reviewing a diff of the "Holo.qc" file with the same file in the previous version reveals the change.
 
