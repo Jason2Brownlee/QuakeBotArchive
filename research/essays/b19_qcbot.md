@@ -27,15 +27,14 @@ The message appears to be a snippet of a conversation, probably taken from IRC o
 	>^^^^^^^^^^^^^^ ^^^^^^^^^^^^^^^^^^^^^^^^
 
 	After emailing QCBOT001.ZIP to Blue @ Blue's News (www.bluesnews.com - best
-		quake page in the world - heh I've followed blue a long time and I'm very
-		pleased to see him get the success he deserves), I noticed a bug in
-		clientNextAvailable(), its now fixed (I was allowing 17 clients instead of 16).
-		I also see a couple of bots have been released namely TheOak (heh this botis
-			very funny with all those Arnie wavs) and my original favorite bot of
-			alltime The Eliminator (Cameron Newham was one of the first that coded
-				any majorbot developments IMO) - I hope the authors will make use of
-				the information I'm making available. Happy bot making
-				- Quake Rules The Cosmos :)
+	quake page in the world - heh I've followed blue a long time and I'm very
+	pleased to see him get the success he deserves), I noticed a bug in
+	clientNextAvailable(), its now fixed (I was allowing 17 clients instead of 16).
+	I also see a couple of bots have been released namely TheOak (heh this botis
+	very funny with all those Arnie wavs) and my original favorite bot of
+	alltime The Eliminator (Cameron Newham was one of the first that coded any
+	majorbot developments IMO) - I hope the authors will make use of the
+	information I'm making available. Happy bot making - Quake Rules The Cosmos :)
 	=== Cut ===
 
 -- [BOTS!](https://groups.google.com/g/fido7.ru.game.doom/c/bpTlbP8dbdQ/m/JBYzyxY9LcMJ), fido7.ru.game.doom, Sasha Vinnikov, 11 May 1997 (updated for formatting)
@@ -206,7 +205,7 @@ He also authored a tutorial for inside3d in May 1997 that showed how to make gib
 	Would you like to see gibs, heads, dead bodies and backpacks float in water?
 	Now you can by following this tutorial and with a little extra programming
 	you could make other entities float (how about a grenade that starts to surface
-		after it reaches the floor of the water).
+	after it reaches the floor of the water).
 
 -- [http://www.inside3d.com/qctut/lesson-14.html](https://web.archive.org/web/19981203072824/http://www.inside3d.com/qctut/lesson-14.html) (archived December 03 1998)
 

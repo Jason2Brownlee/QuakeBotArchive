@@ -22,9 +22,17 @@ The release was announced on BluesNews on September 27th 1996, quoting an announ
 
 	It's the benign bot! I received the following email from Tony Tang:
 
-		"I just thought I might bring to your attention that since Quake seems like such a "satanic" and "evil" game (by parents), I thought I might make something that would make Quake seem a bit funnier. As a result, I managed to program VictimBot. The bot does not attack anyone. In fact, all he does is run around and get into the client's face, yelling "run away!" or "help me!" etc. The VictimBot is killable, and the killer loses a frag for killing the VictimBot; this, of course, creates an interesting twist to your typical Deathmatch."
+		"I just thought I might bring to your attention that since Quake seems like
+		such a "satanic" and "evil" game (by parents), I thought I might make
+		something that would make Quake seem a bit funnier. As a result, I managed
+		to program VictimBot. The bot does not attack anyone. In fact, all he does
+		is run around and get into the client's face, yelling "run away!" or
+		"help me!" etc. The VictimBot is killable, and the killer loses a frag for
+		killing the VictimBot; this, of course, creates an interesting twist to your
+		typical Deathmatch."
 
-		"My friends so far find that VictimBot is very fun to play with, even though it is a tad annoying at times."
+		"My friends so far find that VictimBot is very fun to play with, even though
+		it is a tad annoying at times."
 
 		"If you want to have a look, it's in FTP.CDROM.COM under VBOT1.ZIP"
 
@@ -159,7 +167,7 @@ Although the readme file did not list a personal homepage, Tony did get a univer
 
 On it, he listed his Victim bot with pride.
 
-	This was my most significant contribution to the gaming community as a whole. The "main gaming sites" in the day had entries about the mod, but only one entry remains archived (Blues' news).
+> This was my most significant contribution to the gaming community as a whole. The "main gaming sites" in the day had entries about the mod, but only one entry remains archived (Blues' news).
 
 -- [Projects](https://web.archive.org/web/20020907152520/http://www.sfu.ca/~tonyt/projects/vb.html), victimbot (Archived March 09 2009).
 

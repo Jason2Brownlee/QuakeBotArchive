@@ -25,22 +25,21 @@ The release was announced on BluesNews on October 3rd 1996.
 
 The announcement mentions the release being available via cdrom.com and a copy of the release readme file was hosted on bluesnews.com, although does not appear to have been captured by archive.org.
 
-	October 3rd
-	...
-
-	New 'Bot
-	Got an email from Steven Polge describing his new 'bot called The Reaper Bot. It sounds awesome (read the text file). The author is eager for feedback. I can't wait to get home Friday to try it, and give him some. On CDROM.COM.
+> October 3rd
+> ...
+>
+> New 'Bot
+> Got an email from Steven Polge describing his new 'bot called The Reaper Bot. It sounds awesome (read the text file). The author is eager for feedback. I can't wait to get home Friday to try it, and give him some. On CDROM.COM.
 
 -- [http://bluesnews.com/sept5.html](https://web.archive.org/web/19970204065158/http://bluesnews.com/sept5.html) (Archived February 04 1997)
 
 The release was also announced on "Gnowknayme's Quake Page" on October 3rd in a news post that links directly to "reaprb05.zip" hosted on ftp.cdrom.com in the /pub/idgames2/quakec/bots/ directory.
 
-
-	10/03/96
-
-	Reaper Bot
-
-	There's a new 'bot in town called the Reaper Bot. It sounds like the most advanced 'bot so far. It learns levels, has variable difficulty settings, understands doors, teleporters, triggers, and platforms. It won't keep trying to get something that it can't reach, and even runs away for health and ammo when it gnows it's in trouble. I can't wait to try this one out, but I'm in NT now, so Quake is a no-go. I'll get back on this one when I get into DOS. If you want to pick it up, it's on CDROM.COM.
+> 10/03/96
+>
+> Reaper Bot
+>
+> There's a new 'bot in town called the Reaper Bot. It sounds like the most advanced 'bot so far. It learns levels, has variable difficulty settings, understands doors, teleporters, triggers, and platforms. It won't keep trying to get something that it can't reach, and even runs away for health and ammo when it gnows it's in trouble. I can't wait to try this one out, but I'm in NT now, so Quake is a no-go. I'll get back on this one when I get into DOS. If you want to pick it up, it's on CDROM.COM.
 
 -- [http://www.geocities.com/TimesSquare/Arcade/1975/quake.htm](https://web.archive.org/web/19990203053917/http://www.geocities.com/TimesSquare/Arcade/1975/quake.htm) (archived February 03 1999).
 
@@ -59,8 +58,10 @@ This package was described as "Multiskinner pro" that includes a "very intellige
 
 Unzipping the files ultimately reveals a bot/ subdirectory that contains the compiled game code (PROGS.DAT) and readme (REAPRB05.TXT) for this version of the reaper bot. These files were re-packaged and added to the Quake Bot Archive.
 
+```
    7540  1 Sep  1996 REAPRB05.TXT
  490248  1 Sep  1996 PROGS.DAT
+```
 
 The release date for the bot described in the readme was September 16th 1996, which is surprising, given that the bot was released and announced on October 3rd 1996.
 
@@ -93,7 +94,7 @@ Steve does not hold back in his description of the bot.
 
 He describes it as the most advanced bot available, highlighting its ability to navigate and operate any given level, circle strafe (an intermediate skill in multiplayer), and to choose appropriate weapons while fighting.
 
-	This may be the most advanced bot opponent currently available.  It learns levels as it plays them, picks up and uses all items, roams around.  It understands doors, teleports, triggers, and buttons.  It will jump off ledges, and avoids landing in lava (understanding the gravity level).  When fighting you, it picks the best weapon it has, and strafes, circles or charges.  Variable skill levels are provided (skill 3 is very tough).
+> This may be the most advanced bot opponent currently available.  It learns levels as it plays them, picks up and uses all items, roams around.  It understands doors, teleports, triggers, and buttons.  It will jump off ledges, and avoids landing in lava (understanding the gravity level).  When fighting you, it picks the best weapon it has, and strafes, circles or charges.  Variable skill levels are provided (skill 3 is very tough).
 
 -- REAPRB05.TXT
 
@@ -109,7 +110,7 @@ This is more advanced than a simple monster code for fighting the player, such a
 
 The bot uses "dynamic waypoints" to navigate the level, a clever approach.
 
-	The roaming AI uses dynamically placed botpaths to move from place to place.  The botpath node placement is optimized to guarantee a valid path followable by the bot, while bounding the number of botpath nodes.  Botpath routes are dynamically merged to minimize the number of botpath nodes.  Multiple spanning trees point in the upstream route direction for routing updates.  These routes can be used to go to both static and moving goals (e.g. players).  Loop detection and avoidance is implemented both for bots following the paths, and for routing updates.  I'm currently implementing route caches to improve performance, and to instantly provide the bot with the route to the "best" (based on distance and type) item of a given class (e.g. health, armor, weapons).
+> The roaming AI uses dynamically placed botpaths to move from place to place.  The botpath node placement is optimized to guarantee a valid path followable by the bot, while bounding the number of botpath nodes.  Botpath routes are dynamically merged to minimize the number of botpath nodes.  Multiple spanning trees point in the upstream route direction for routing updates.  These routes can be used to go to both static and moving goals (e.g. players).  Loop detection and avoidance is implemented both for bots following the paths, and for routing updates.  I'm currently implementing route caches to improve performance, and to instantly provide the bot with the route to the "best" (based on distance and type) item of a given class (e.g. health, armor, weapons).
 
 -- REAPRB05.TXT
 
@@ -132,7 +133,7 @@ The bot also is more advanced in the way it fights the player, called "combat AI
 
 He describes the use of "fuzzy logic" for decision making within the bot.
 
-	The combat and local goal setting AI uses heuristics with fuzzy logic for decision making.  I am currently working on supporting learned behaviour based on combat success for the combat AI, as well as the hunting AI.
+>	The combat and local goal setting AI uses heuristics with fuzzy logic for decision making.  I am currently working on supporting learned behaviour based on combat success for the combat AI, as well as the hunting AI.
 
 -- REAPRB05.TXT
 
@@ -140,9 +141,9 @@ The bot was widely regarded immediately with comments on Usenet and on quake web
 
 This release was linked in the "Quake C Files" section on canvasnet.com with a local link to "reaprb05.zip" hosted on ftp.canvasnet.com. The bot was described as having "incredible AI" and perhaps "too good" even as a cheater. This notion of bots cheating and this bot in particular cheating, remained an often discussed point.
 
-	Reaper Bot 0.5
-
-	This patch has incredible AI which lets the bots actually figure out and understand the levels as they explore them. Unfortunately these bots are just tooooo good! Even at the easiest skill level, a one-on-one fight is very tough to win. The bots don't seem to act very naturally, moving quickly to dodge your fire and cut you down. If you think you're the Quake master, try this bot and you'll be humbled. Either that, or you'll be screaming "These bots CHEAT!!!!"
+> Reaper Bot 0.5
+>
+> This patch has incredible AI which lets the bots actually figure out and understand the levels as they explore them. Unfortunately these bots are just tooooo good! Even at the easiest skill level, a one-on-one fight is very tough to win. The bots don't seem to act very naturally, moving quickly to dodge your fire and cut you down. If you think you're the Quake master, try this bot and you'll be humbled. Either that, or you'll be screaming "These bots CHEAT!!!!"
 
 -- [http://canvasnet.com/quake/qc.htm](https://web.archive.org/web/19990116234332/http://canvasnet.com/quake/qc.htm) (archived January 16 1999)
 
@@ -150,9 +151,9 @@ Not all users had an early time with this release.
 
 A news post was shared on redwood news on October 6th, commenting that the v0.5 of the bot causes crashes.
 
-	==October 6== 11:35a.m. CDT
-
-	Anybody seen these bugs in the reaper bot .5? If I use it in single player, after a few minutes, it crashes out to DOS. In multiplayer, it locks up Quake after a little while. Also, on e1m1 I had this bot that was kind of flashing in and out of existence. He was stuck running around in an area but even though he could hurt me, I couldn't do a thing to him, so I just had to avoid him when I went by. Fortunately he'd run out of ammo and could only hurt me at close range. Also, it seems the bots are very jumpy, like one second they're (while strafing) they're in one spot and then they disappear and appear 5 feet over. Net play is better than that. It makes aiming difficult.
+> ==October 6== 11:35a.m. CDT
+>
+> Anybody seen these bugs in the reaper bot .5? If I use it in single player, after a few minutes, it crashes out to DOS. In multiplayer, it locks up Quake after a little while. Also, on e1m1 I had this bot that was kind of flashing in and out of existence. He was stuck running around in an area but even though he could hurt me, I couldn't do a thing to him, so I just had to avoid him when I went by. Fortunately he'd run out of ammo and could only hurt me at close range. Also, it seems the bots are very jumpy, like one second they're (while strafing) they're in one spot and then they disappear and appear 5 feet over. Net play is better than that. It makes aiming difficult.
 
 -- [http://redwood.gatsbyhouse.com/quake/1096.html](https://web.archive.org/web/19970327200948/http://redwood.gatsbyhouse.com/quake/1096.html) (archived March 27 1997)
 
@@ -198,7 +199,8 @@ The "Excalibur's Rumbles" quake page has a news section that mentions the releas
 
 	10-12-96
 
-	Reaper Bot 0.6: An update to one of the most popular bots is out. Get the Reaper Bot 0.6 here, or read the txt file.
+	Reaper Bot 0.6: An update to one of the most popular bots is out.
+	Get the Reaper Bot 0.6 here, or read the txt file.
 
 -- [http://www.geocities.com/TimesSquare/6514/oct3.htm](https://web.archive.org/web/20010505143115/http://www.geocities.com/TimesSquare/6514/oct3.htm) (archived May 05 2001)
 
@@ -206,7 +208,8 @@ The release was announced on Redwood news on October 13th 1996, with a link to a
 
 	==October 13== 9:00p.m. CDT
 
-	The Reaper Bot .6 has been released as well. Thanks to Kris Bowen for letting me know.
+	The Reaper Bot .6 has been released as well.
+	Thanks to Kris Bowen for letting me know.
 
 -- [http://redwood.gatsbyhouse.com/quake/1096.html](https://web.archive.org/web/19970327200948/http://redwood.gatsbyhouse.com/quake/1096.html) (archived March 27 1997)
 
@@ -219,9 +222,11 @@ A copy of this released was downloaded as an attachment on Usenet shared by Robe
 
 This release contains a readme file (Reaprb06.txt), compiled game code (Progs.dat) and a changelog that lists changes from the last version (B06chg.txt).
 
+```
    8674 11 Sep  1996 Reaprb06.txt
  500088 11 Sep  1996 Progs.dat
    1828  5 Jun  1996 B06chg.txt
+```
 
 The readme lists the release date as October 12th 1996, matching the announcement on "Excalibur's Rumbles" and is taken as the release date. The file timestamps in the release are a close match, listing September 11th, with one file having a release date of June 5th. Perhaps this file was prepared by Steve on a different system.
 
@@ -239,7 +244,7 @@ As such, there was much murmuring that the bots cheat.
 
 Steve addresses this directly in the readme file.
 
-	Note:  This bot does not cheat!  At higher skill levels, it rarely misses, and shoots at the maximum rate allowed to players, but it never shoots faster than allowed or causes more damage on hits than normal.  It also does not move faster than players.
+> Note:  This bot does not cheat!  At higher skill levels, it rarely misses, and shoots at the maximum rate allowed to players, but it never shoots faster than allowed or causes more damage on hits than normal.  It also does not move faster than players.
 
 -- Reaprb06.txt
 
@@ -304,7 +309,8 @@ This pre-release announcement was also shared on BluesNews five days later.
 	October 20th
 
 	Reaper 0.7
-	Kris Bowen of QHQ says that the new Reaper 'Bot will be released within the next week (on QHQ), and will feature more substantial changes than the 0.6 upgrade.
+	Kris Bowen of QHQ says that the new Reaper 'Bot will be released within the
+	next week (on QHQ), and will feature more substantial changes than the 0.6 upgrade.
 
 -- [http://bluesnews.com/oct3.html](https://web.archive.org/web/19970204064949/http://bluesnews.com/oct3.html) (Archived February 04 1997)
 
@@ -313,7 +319,8 @@ The release notes for this release where shared one day before the release on QH
 	October 23rd
 
 	Reaper Release Notes
-	There are release notes for the upcoming Reaper 'Bot 0.7 on QHQ. Thanks to Monty Gonzalez (FRAGaLOT) for the word.
+	There are release notes for the upcoming Reaper 'Bot 0.7 on QHQ.
+	Thanks to Monty Gonzalez (FRAGaLOT) for the word.
 
 -- [http://bluesnews.com/oct3.html](https://web.archive.org/web/19970204064949/http://bluesnews.com/oct3.html) (Archived February 04 1997)
 
@@ -324,7 +331,9 @@ The announcement includes links to the zip archive, changelog, and readme file a
 	October 24th
 
 	Reaper 0.7
-	Break out the root beer sCary, it's party time. The new beta of the Reaper, version 0.7, is out. Download it right here. Thanks to the author, Steven Polge for sending it along. Here's what's new, and here's the readme.
+	Break out the root beer sCary, it's party time. The new beta of the Reaper,
+	version 0.7, is out. Download it right here. Thanks to the author,
+	Steven Polge for sending it along. Here's what's new, and here's the readme.
 
 -- [http://bluesnews.com/oct3.html](https://web.archive.org/web/19970204064949/http://bluesnews.com/oct3.html) (Archived February 04 1997)
 
@@ -332,7 +341,8 @@ This release was also announced on Redwood news on October 24th with locally hos
 
 	==October 24== 10:19p.m. CDT
 
-	It's here! New Reaper Bot v.7. Check out the readme and find out what's new. Download reaprb07.zip.
+	It's here! New Reaper Bot v.7. Check out the readme and find out what's new.
+	Download reaprb07.zip.
 
 -- [http://redwood.gatsbyhouse.com/quake/1096.html](https://web.archive.org/web/19970327200948/http://redwood.gatsbyhouse.com/quake/1096.html) (archived March 27 1997)
 
@@ -351,11 +361,12 @@ All versions of the release have the same contents and files have the same unrel
 
 The release contained a readme (Reaprb07.txt), changelog (B07chg.txt), compiled game code (Progs.dat) and configuration file (Reaper.cfg).
 
-
+```
  463156  5 Sep  1996 Progs.dat
    3356 17 Jun  1996 B07chg.txt
    9930 15 Jun  1996 Reaprb07.txt
     572 15 Jun  1996 Reaper.cfg
+```
 
 The config file provided easy to remember alias commands for managing the bots and bindings for keyboard short cuts for the most common activities, such as adding bots and checking scores.
 
@@ -462,20 +473,22 @@ From this discussion was mention the possibility of the mod adding the popular g
 	October 31st
 
 	QHQ's Reaper Forum Pays Dividends
-	Kris Bowen of QHQ sends along word that QHQ's Message Forum has a response from Reaper Author Steve Polge describing possible future features of the Reaper bot as well as work being done on the 'bot currently. He says he hopes to support the grappling hook, and capture the flag in future versions!
+	Kris Bowen of QHQ sends along word that QHQ's Message Forum has a response
+	from Reaper Author Steve Polge describing possible future features of the
+	Reaper bot as well as work being done on the 'bot currently. He says he hopes
+	to support the grappling hook, and capture the flag in future versions!
 
 -- [http://bluesnews.com/oct4.html](https://web.archive.org/web/19970204065011/http://bluesnews.com/oct4.html) (Archived February 04 1997)
 
 The v0.75 version was announced on Blues News on November 2nd 1996. The news post shared a link to this version of the bot hosted on ftp.bluesnews.com which was not captured by archive.org.
 
-	November 2nd
-
-	Reaper Bot 0.75
-	The new Reaper bot is out, download it right here. Thanks to author Steven Polge for sending it, and for passing along some comments:
-
-		"Here's reaper v0.75. Much smoother strafing, and much better skill control. Skill 0 plays much easier now. With the new aiming, its possible to win shotgun battles with the bot (if you circle and strafe a lot) at most skills. I hope you enjoy..."
-
-	Sounds like a big step towards having play more like a human. Cool. I'm gonna wait till after my hardware project to check it out though: I'm replacing my IDE drive with SCSI (so if you never hear from me again, I'll just be another sad victim of an upgrade gone bad...).
+> November 2nd
+> Reaper Bot 0.75
+> The new Reaper bot is out, download it right here. Thanks to author Steven Polge for sending it, and for passing along some comments:
+>
+> 	"Here's reaper v0.75. Much smoother strafing, and much better skill control. Skill 0 plays much easier now. With the new aiming, its possible to win shotgun battles with the bot (if you circle and strafe a lot) at most skills. I hope you enjoy..."
+>
+> Sounds like a big step towards having play more like a human. Cool. I'm gonna wait till after my hardware project to check it out though: I'm replacing my IDE drive with SCSI (so if you never hear from me again, I'll just be another sad victim of an upgrade gone bad...).
 
 -- [http://bluesnews.com/nov1.html](https://web.archive.org/web/19970204064729/http://bluesnews.com/nov1.html) (archived February 04 1997)
 
@@ -483,7 +496,9 @@ The release was also announced on Redwood news on November 2nd, with locally hos
 
 	==November 2== 12:00p.m. CST
 
-	New Reaper Bot!!!! .75 of the Reaper Bot is out. Download reaprb75.zip now and enjoy. You can also read what's changed. Thanks to Chris Roberts of Seismic Spew for emailing me about it.
+	New Reaper Bot!!!! .75 of the Reaper Bot is out.
+	Download reaprb75.zip now and enjoy. You can also read what's changed.
+	Thanks to Chris Roberts of Seismic Spew for emailing me about it.
 
 -- [http://redwood.gatsbyhouse.com/quake/1196.html](https://web.archive.org/web/19970327200928/http://redwood.gatsbyhouse.com/quake/1196.html) (archived March 27 1997)
 
@@ -491,7 +506,8 @@ A copy of this release could not be located at the time of writing.
 
 The quakemecca.simplenet.com website had a page deviated to the reaper bot.
 
-	The Reaper Bot is another great Quake Bot. The magic behind this bot is that it learns the level as it plays!
+	The Reaper Bot is another great Quake Bot. The magic behind this bot is that
+	it learns the level as it plays!
 
 -- [http://quakemecca.simplenet.com/reaper.htm](https://web.archive.org/web/19970530185051/http://quakemecca.simplenet.com/reaper.htm) (archived May 30 1997)
 
@@ -528,10 +544,10 @@ The release of version 0.8 was pre-announced by Kris Bowen on QHQ and shared sec
 
 The news post links to a dedicated page for the reaper bot on QHQ, although no version of the page has survived.
 
-	November 12th
-
-	Reaper 0.8 This Weekend
-	Kris Bowen, one of the proprieters of QHQ informs me that there's exclusive info about version 0.8 of everybody's favorite bot, The Reaper. The new version is expected sometime this weekend...
+>	November 12th
+>
+>	Reaper 0.8 This Weekend
+>	Kris Bowen, one of the proprieters of QHQ informs me that there's exclusive info about version 0.8 of everybody's favorite bot, The Reaper. The new version is expected sometime this weekend...
 
 -- [http://bluesnews.com/nov2.html](https://web.archive.org/web/19970204064756/http://bluesnews.com/nov2.html) (archived February 04 1997)
 
@@ -539,18 +555,18 @@ The version 0.8 of the reaper bot was announced on Blues News on November 16th.
 
 The announcement links to a version of the zip (reaprb80.zip) hosted on ftp.bluesnews.com, as well as the readme file (reaprb80.txt) and changelog (b08chg.txt) hosted on the http website. The readme and changelog were captured by archive.org.
 
-	November 16th
-
-	Reaper 0.8
-	The new version of everyone's favorite playmate Steven Polge's fabulous Reaper bot 0.8.Thanks to Immortal for letting me know. Here the text file, and here's what's new.
+>	November 16th
+>
+>	Reaper 0.8
+>	The new version of everyone's favorite playmate Steven Polge's fabulous Reaper bot 0.8.Thanks to Immortal for letting me know. Here the text file, and here's what's new.
 
 -- [http://bluesnews.com/nov3.html](https://web.archive.org/web/19970204064809/http://bluesnews.com/nov3.html) (archived February 04 1997)
 
 This release was announced on Redwood Quake on November 16th with locally hosted links to the zip file, readme and changelog.
 
-	==November 16== 11:55a.m. CST
-
-	New Reaper Bot is out. Here are the changes. You can download reaprb80.zip from here. Thanks to Kris Bowen for telling me.
+>	==November 16== 11:55a.m. CST
+>
+>	New Reaper Bot is out. Here are the changes. You can download reaprb80.zip from here. Thanks to Kris Bowen for telling me.
 
 -- [http://redwood.gatsbyhouse.com/quake/1196.html](https://web.archive.org/web/19970327200928/http://redwood.gatsbyhouse.com/quake/1196.html) (archived March 27 1997)
 
@@ -562,12 +578,14 @@ A copy of this release was located on cd.textfiles.com in the directory /thegrea
 
 The release contains the same files as the 0.7 release, with the addition of a spin specification text file (Skinspec.txt) and a text file describing how to setup a dedicated server for the mod (Dedserv.txt). The configuration file was changed to "Autoexec.cfg", the convension for additional commands to be loaded by the mod, instead of "config.cfg", the main configuration file.
 
+```
  479616 15 Nov  1996 Progs.dat
   11385 14 Nov  1996 Reaprb80.txt
    1915 14 Nov  1996 B08chg.txt
    1481 12 Nov  1996 Skinspec.txt
     582 19 Aug  1996 Autoexec.cfg
    1382  1 Jul  1996 Dedserv.txt
+```
 
 The timestamps for the files are listed as the November 1996, with the latest date being the 15th. This matches the release date in the readme file and is close to the actual release date on the 16th announced on quake news sites.
 
@@ -584,11 +602,11 @@ Steve Gibson aka "sCary" on the "Quakeholio" Quake news website corresponded wit
 
 The comments suggest that the discuss occurred before the v0.8 release was distributed, e.g. he says "In version 0.8, I'll add a special intermediate strafe think ...". Perhaps this email conversation occurred prior to the 15th of November, and was shared 10 days layer by Steve Gibson on the site, probably with permission.
 
-	Reaper 0.8 10/25/96 8:35pm
-
-	As all of you guys who play with the reaper bot know, *the* largest problem with the bot is the strafe movements. I asked Steve Polge about this and what his plans were, here is part of what he said:
-
-		So far, my strafing fixes have focused on unnatural strafing (e.g. the bot changing directions faster than physics allow). The other strafing problem is that strafing uses a different quake move call (walkmove() instead of movetogoal()). This is because I can control the direction the bot is facing when I use walkmove(). However, walkmove is an instantaneous move (no intervening frames). Therefore, since the bot thinks every 0.1 seconds, his strafing gets updated at 10 fps. In version 0.8, I'll add a special intermediate strafe think, to increase the strafing updates to 20 fps, which should be adequate...
+> Reaper 0.8 10/25/96 8:35pm
+>
+> As all of you guys who play with the reaper bot know, *the* largest problem with the bot is the strafe movements. I asked Steve Polge about this and what his plans were, here is part of what he said:
+>
+> 	So far, my strafing fixes have focused on unnatural strafing (e.g. the bot changing directions faster than physics allow). The other strafing problem is that strafing uses a different quake move call (walkmove() instead of movetogoal()). This is because I can control the direction the bot is facing when I use walkmove(). However, walkmove is an instantaneous move (no intervening frames). Therefore, since the bot thinks every 0.1 seconds, his strafing gets updated at 10 fps. In version 0.8, I'll add a special intermediate strafe think, to increase the strafing updates to 20 fps, which should be adequate...
 
 -- [http://www.quakehole.com/frames/oldnews.html](https://web.archive.org/web/19971210064427/http://www.quakehole.com/frames/oldnews.html) (archived December 10 1997)
 
@@ -648,18 +666,18 @@ This version of the reaper bot was announced on BluesNews on November 17th, one 
 
 A copy of the zip file (reaprb81.zip) was linked to on ftp.bluewsnews.com and was not captured by archive.org.
 
-	November 17th
-
-	Don't Fear The Reaper
-	Nothing to be afraid of, his bugs have been fixed (you knew I'd work that headline in some day, didn't you?). Here's Reaper bot 0.81. Thanks to Steven Polge, the Dr. Frankenstein of the Reaper (Dr. Reaperstein?) for sending it along.
+> November 17th
+>
+> Don't Fear The Reaper
+> Nothing to be afraid of, his bugs have been fixed (you knew I'd work that headline in some day, didn't you?). Here's Reaper bot 0.81. Thanks to Steven Polge, the Dr. Frankenstein of the Reaper (Dr. Reaperstein?) for sending it along.
 
 -- [http://bluesnews.com/nov3.html](https://web.archive.org/web/19970204064809/http://bluesnews.com/nov3.html) (archived February 04 1997)
 
 This release was also mentioned on Redwood news on November 17th linking to a local version of the zip file (reaprb81.zip).
 
-	==November 17== 10:00p.m. CST
-
-	Also from blue's (I figure everybody knows the URL by now so I'm being lazy). The bugs in Reaper Bot .8 have been fixed in Reaper Bot .81.
+> ==November 17== 10:00p.m. CST
+>
+> Also from blue's (I figure everybody knows the URL by now so I'm being lazy). The bugs in Reaper Bot .8 have been fixed in Reaper Bot .81.
 
 -- [http://redwood.gatsbyhouse.com/quake/1196.html](https://web.archive.org/web/19970327200928/http://redwood.gatsbyhouse.com/quake/1196.html) (archived March 27 1997)
 
@@ -683,12 +701,14 @@ The v0.81 release of the bot was placed in this directory where it remained and 
 
 The release contains all the same files as the previous release without change, except the compiled game code.
 
+```
  481376 17 Nov  1996 PROGS.DAT
   11385 14 Nov  1996 Reaprb80.txt
    1915 14 Nov  1996 B08chg.txt
    1481 12 Nov  1996 Skinspec.txt
     582 19 Aug  1996 Autoexec.cfg
    1382  1 Jul  1996 Dedserv.txt
+```
 
 In fact, even the readme and changelog were not touched for this release.
 
@@ -706,11 +726,11 @@ This final version of the bot became the de facto recommended bot for many years
 
 Blues News made it the feature bot on their bot guide webpage, where it remains so even today.
 
-	Spotlight
-
-	The Reaper Bot
-
-	The ReaperBot, by Stephen Polge, is by far the best bot available. The superior AI of the Reaper allows it to learn your particular style of play and adapt to take advantages of your weaknesses. The Reaper is difficult to kill because it is excellent at avoiding your shots, but is then deadly accurate with the placement of its own shots. Poolge ceased development of the Reaper at version 0.81, but it is still the best bot available. Poolge is now working for Epic on their much anticipated release, Unreal.
+>	Spotlight
+>
+>	The Reaper Bot
+>
+>	The ReaperBot, by Stephen Polge, is by far the best bot available. The superior AI of the Reaper allows it to learn your particular style of play and adapt to take advantages of your weaknesses. The Reaper is difficult to kill because it is excellent at avoiding your shots, but is then deadly accurate with the placement of its own shots. Poolge ceased development of the Reaper at version 0.81, but it is still the best bot available. Poolge is now working for Epic on their much anticipated release, Unreal.
 
 -- [https://www.bluesnews.com/guide/bots.htm](https://web.archive.org/web/19980129073716/https://www.bluesnews.com/guide/bots.htm) (archived January 29 1998)
 
@@ -725,10 +745,10 @@ Development on the reaper bot halted abruptly because Steven Polge was hired awa
 
 A message on the 9th of December 1996 shared on Blues News commented that Steve had been hired by Epic Megagames to work on their upcoming game Unreal.
 
-	December 9th
-
-	Don't Fear the Reaper: Hire His Creator
-	Steven Polge, author of the famed Reaper Bot, has been hired by Epic Megagames to do enemy AI programming for their upcoming Quake competitor, Unreal. This is according to Shadows (thanks to Brad Dietz aka Nighthawk).
+> December 9th
+>
+> Don't Fear the Reaper: Hire His Creator
+> Steven Polge, author of the famed Reaper Bot, has been hired by Epic Megagames to do enemy AI programming for their upcoming Quake competitor, Unreal. This is according to Shadows (thanks to Brad Dietz aka Nighthawk).
 
 -- [http://bluesnews.com/dec1.html](https://web.archive.org/web/19970204064557/http://bluesnews.com/dec1.html) (archived February 04 1997)
 
@@ -736,7 +756,7 @@ This was a secondhand message, originally posed on another gaming website focuse
 
 Discussion by Cliff Bleszinski in his book "Control Freak" comments that Unreal did not have any AI at the time and that he was responsible for finding and hiring Steve to join Epic to add AI to the game.
 
-	There's no better example than the arrival of brainy computer engineer Steve Polge. At this point in development, we didn't have any artificial intelligence for the baddies who roamed our dangerous planet.
+> There's no better example than the arrival of brainy computer engineer Steve Polge. At this point in development, we didn't have any artificial intelligence for the baddies who roamed our dangerous planet.
 
 -- Page 97, [Control Freak](https://www.google.com/books/edition/Control_Freak/yZ-SEAAAQBAJ), Cliff Bleszinski, 2022.
 
@@ -744,28 +764,28 @@ This move to Epic was eventually confirmed by Steve himself with a message to Bl
 
 In his message, Steve comments that he will not be working on the Reaper Bot any more or releasing any further versions as he might be using some of the ideas in his work at Epic.
 
-	December 11th
+> December 11th
+>
+> End of the Reaper Bot Line
+>
+> The father of the famed Reaper Bot, Steven Polge (Dr. Reaperstein), sends along word that he will no longer have time to update the Reaper Bot, now that he had signed on with Epic (makes sense).
+>
+> 	"...I am really looking forward to this opportunity. I was only able to spend a relatively small amount of time on the reaper, because of work and life. I hope to be able to do some really cool stuff, and make single player (and multiplayer) more immersive and more fun. BTW, I am very impressed with the Unreal engine and editor.
 
-	End of the Reaper Bot Line
-
-	The father of the famed Reaper Bot, Steven Polge (Dr. Reaperstein), sends along word that he will no longer have time to update the Reaper Bot, now that he had signed on with Epic (makes sense).
-
-		"...I am really looking forward to this opportunity. I was only able to spend a relatively small amount of time on the reaper, because of work and life. I hope to be able to do some really cool stuff, and make single player (and multiplayer) more immersive and more fun. BTW, I am very impressed with the Unreal engine and editor.
-
-	Best of luck, Steven.
+> Best of luck, Steven.
 
 -- [http://bluesnews.com/dec1.html](https://web.archive.org/web/19970204064557/http://bluesnews.com/dec1.html) (archived February 04 1997)
 
 
 A day later he commented later in December 1996 that he has no plans to release the source code for the bot.
 
-	December 12th
-
-	No Plans to Release Reaper Source
-
-	I got a response from Reaper Bot author Steven Polge to my question about whether he was planning to release the source to his "baby," and this was his response:
-
-		"I have not released the source for the reaper bot, and at this point I will probably not do so..."
+> December 12th
+>
+> No Plans to Release Reaper Source
+>
+> 	I got a response from Reaper Bot author Steven Polge to my question about whether he was planning to release the source to his "baby," and this was his response:
+>
+> 	"I have not released the source for the reaper bot, and at this point I will probably not do so..."
 
 -- [http://bluesnews.com/dec1.html](https://web.archive.org/web/19970204064557/http://bluesnews.com/dec1.html) (archived February 04 1997)
 
@@ -783,16 +803,16 @@ Decompiling the reaper source code was being discussed and performed by develope
 
 For example, in reply to a question on how to decompile the reaper bot into source, Ken Alverson replied on 12 June 1997 that indeed he had done it.
 
-	>Hello there..
-	>
-	>Does anyone of you know how to de-compile Reaper bots, without any
-	>errors when compiling??
-	>Please answer!! :o)
-
-	Yes.
-	Ken
-
-	On the other hand, I know Steven Polge, and I don't want to give out his code if he does not want it given out. Decompiling the code is not hard. Yes, even decompiling it to a compilable form.
+> >Hello there..
+> >
+> >Does anyone of you know how to de-compile Reaper bots, without any
+> >errors when compiling??
+> >Please answer!! :o)
+>
+> Yes.
+> Ken
+>
+> On the other hand, I know Steven Polge, and I don't want to give out his code if he does not want it given out. Decompiling the code is not hard. Yes, even decompiling it to a compilable form.
 
 -- [Ken Alverson](https://groups.google.com/g/rec.games.computer.quake.quake-c/c/pb_PTSRMLts/m/ZU7OrEA7BycJ), rec.games.computer.quake.quake-c, 12 June 1997.
 
@@ -820,15 +840,15 @@ Word reached Steve Polge at Epic perhaps around early September 1997, who was ve
 Stephen Heaslip aka "Blue" from Blues News reached out to Steven for comment.
 
 
-	Friday, September 5, 1997
-
-	Reaping the Reaper
-
-	Though the last version was released quite some time ago, impressively, the Reaper still represents the state of the art in bot AI (reinforcing the impression that Epic made a savvy move hiring Reaper author Steven Polge). Recent days have seen a rush of announced modified versions of the Reaper Bot, as well as the addition of Reaper-esque AI to other bots, and the announcement by someone that he was working on the "next version of the Reaper." It is pretty safe to say that it is not a coincidence that this comes shortly after the source code for the Reaper had been successfully reverse-compiled. Though it is nice to think of the state of the Reaper being advanced, Steven Polge never did want to release the source. I wrote Dr Reaperstein and asked for his reaction to the modified versions of his work, and whether he would now release the Reaper source:
-
-		It's unfortunate that many people have little respect for the work and stated position of others. The documentation included with the Reaper bot mod clearly states that it is not to be modified, and I have never authorized anyone to release any modifications. I appreciate the many individuals who have requested to release mods but have not done so in regard to my wishes. The reaper bot code is very much incomplete and unfinished, and as I will soon be releasing the source to a much better AI in Unreal, I still do not intend to release the reaper bot source.
-
-	I'm sure that it will eventually become an impossible policy to follow, but I'll try and comply with Steven's wishes and not help publicize projects that have used his work against his wishes.
+> Friday, September 5, 1997
+>
+> Reaping the Reaper
+>
+> Though the last version was released quite some time ago, impressively, the Reaper still represents the state of the art in bot AI (reinforcing the impression that Epic made a savvy move hiring Reaper author Steven Polge). Recent days have seen a rush of announced modified versions of the Reaper Bot, as well as the addition of Reaper-esque AI to other bots, and the announcement by someone that he was working on the "next version of the Reaper." It is pretty safe to say that it is not a coincidence that this comes shortly after the source code for the Reaper had been successfully reverse-compiled. Though it is nice to think of the state of the Reaper being advanced, Steven Polge never did want to release the source. I wrote Dr Reaperstein and asked for his reaction to the modified versions of his work, and whether he would now release the Reaper source:
+>
+> 	It's unfortunate that many people have little respect for the work and stated position of others. The documentation included with the Reaper bot mod clearly states that it is not to be modified, and I have never authorized anyone to release any modifications. I appreciate the many individuals who have requested to release mods but have not done so in regard to my wishes. The reaper bot code is very much incomplete and unfinished, and as I will soon be releasing the source to a much better AI in Unreal, I still do not intend to release the reaper bot source.
+>
+> I'm sure that it will eventually become an impossible policy to follow, but I'll try and comply with Steven's wishes and not help publicize projects that have used his work against his wishes.
 
 -- <https://www.bluesnews.com/archives/aug97-5.html>
 
@@ -839,11 +859,11 @@ In a reply a few days later, he commented that he did not have a problem with pe
 
 This was shared publicly, such as on blues news and became de facto permission for people to modify the bot for themselves.
 
-	Sunday, September 7, 1997
-
-	A brief follow up to yesterdays barrage of electronic opinions on the Reaper de-compiling issue: Drywall of Inside3D.wrote Reaper author Steven Polge and determined that there was no problem with his site's Improving the Reaper series because:
-
-		"I don't have any problem with people modifying the reaper bots for their own personal use"
+> Sunday, September 7, 1997
+>
+> A brief follow up to yesterdays barrage of electronic opinions on the Reaper de-compiling issue: Drywall of Inside3D.wrote Reaper author Steven Polge and determined that there was no problem with his site's Improving the Reaper series because:
+>
+> 	"I don't have any problem with people modifying the reaper bots for their own personal use"
 
 -- <https://www.bluesnews.com/archives/sept97-1.html>
 
@@ -852,30 +872,29 @@ Shortly after, there were rumors that Quake 2, which was in development, was usi
 
 It's a strange rumor and was quickly disabused by Christian Antkow aka "Disruptor" from id software via email.
 
-	Tuesday, September 9, 1997
-
-	though I don't believe for a second the rumor in their Day Two coverage saying the Quake II monster AI was "ripped" from the Reaper source (thanks BlindSide.BC). I was going to contact Disruptor to ask him to respond to this, and then I received mail from Oblivius, who had already asked him this very question. Here is Disruptor's reply to the question of whether there was any truth to that rumor:
-	...No. Considering that;
-
-		a) We've never seen the reaper bot source and
-		b) Quake II doesn't use QuakeC
+> Tuesday, September 9, 1997
+>
+> though I don't believe for a second the rumor in their Day Two coverage saying the Quake II monster AI was "ripped" from the Reaper source (thanks BlindSide.BC). I was going to contact Disruptor to ask him to respond to this, and then I received mail from Oblivius, who had already asked him this very question. Here is Disruptor's reply to the question of whether there was any truth to that rumor:
+> ...No. Considering that;
+>
+> 	a) We've never seen the reaper bot source and
+> 	b) Quake II doesn't use QuakeC
 
 -- <https://www.bluesnews.com/archives/sept97-1.html>
 
 The mystery deepened, when it was revealed by John Cash at id software, that he had received a copy of the source code for the reaper bot from Steve Polge, but deleted it when Steve started working for Epic.
 
-
-	Tuesday, September 9, 1997
-
-	John Cash
-
-	...
-
-	Also, John sent along an email to completely clarify the Reaper bot AI issue:
-
-	Actually Disruptor wasn't totally correct, but it was just because of something he didn't know.
-
-	I was talking with Steve Polge back when he was still with IBM. He did send me a version of the Reaper bot source at that time. We agreed that it was for research only and that I would not release or use it without his permission. When he changed jobs shortly thereafter I figured it was best for both of us if I didn't even use it as a research base. So, even though I did have the source I never inhaled.. ummm, used it. Nobody else here even had access to it so I can safely state that nobody at id has ever seen the source (I hadn't yet had the time to look at it when he made his job change). I just wanted to make this clear so that Steve doesn't think that there's something fishy going on. He's a good guy doing good work.
+> Tuesday, September 9, 1997
+>
+> John Cash
+>
+> ...
+>
+> Also, John sent along an email to completely clarify the Reaper bot AI issue:
+>
+> Actually Disruptor wasn't totally correct, but it was just because of something he didn't know.
+>
+> I was talking with Steve Polge back when he was still with IBM. He did send me a version of the Reaper bot source at that time. We agreed that it was for research only and that I would not release or use it without his permission. When he changed jobs shortly thereafter I figured it was best for both of us if I didn't even use it as a research base. So, even though I did have the source I never inhaled.. ummm, used it. Nobody else here even had access to it so I can safely state that nobody at id has ever seen the source (I hadn't yet had the time to look at it when he made his job change). I just wanted to make this clear so that Steve doesn't think that there's something fishy going on. He's a good guy doing good work.
 
 -- <https://www.bluesnews.com/archives/sept97-1.html>
 
@@ -883,9 +902,9 @@ All of this discussion on quake news sites resulted in a lot of public attention
 
 As such, it resulted in a flurry of reaper bot extensions, called "reaper bot hacks" were released through the end of 1997.
 
-	Latest News November 8th
-
-	Reaper Bot Hacks - Here is a list of urls to the various reaperbot hacks that can be downloaded from the Internet. These are the ones I know about, and so it may not be complete. If you know others, please do not hesitate to e-mail me the complete url. Make sure that the hack is PUBLICALLY available and not a private copy meant for personal use. You will probably not see this list posted at any of the "official" news web sites. Some might call it a "news" blackout on the reaperbot hacks. Since some of the hacks are already available at CDROM.COM and have been for MONTHS (like the Hipnotic-Reaperbot hack), it is quite silly to try to keep it a secret.
+> Latest News November 8th
+>
+> Reaper Bot Hacks - Here is a list of urls to the various reaperbot hacks that can be downloaded from the Internet. These are the ones I know about, and so it may not be complete. If you know others, please do not hesitate to e-mail me the complete url. Make sure that the hack is PUBLICALLY available and not a private copy meant for personal use. You will probably not see this list posted at any of the "official" news web sites. Some might call it a "news" blackout on the reaperbot hacks. Since some of the hacks are already available at CDROM.COM and have been for MONTHS (like the Hipnotic-Reaperbot hack), it is quite silly to try to keep it a secret.
 
 	...
 
@@ -893,21 +912,21 @@ As such, it resulted in a flurry of reaper bot extensions, called "reaper bot ha
 
 One year after the release of reaper v0.81, Roscoe Sincero aka "Legion" posted an update on inside3d.com celebrating the release and sharing code on how to fix the two most infamous bugs in the final release of the bot: the "disappearing weapons bug" and the "silent jumping bug".
 
-	Latest News November 17th
-
-	Happy Birthday - Today is the 1 year anniversary of the release of v0.81, the final version, of the famed Reaperbot. It was the first bot to feature dynamic waypoint spawning--this means that the bot can "learn" the map as it roams. To celebrate its birthday, here are the corrections to two of the most famous bugs ever seen in any bot:
-
-		Disappearing weapons bug: Look for the function weapon_touch in the file called items.qc. After the declarations of the variables, add this following line of code:
-
-			if (other.classname != "player" && other.classname !="dmbot") return;
-
-		Silent Jumping: Look for the function BotJump in the file called botmove.qc. Near the bottom of this function but BEFORE the line that says "return ( TRUE );" add this line of code:
-
-			if (jmpv_z > 200) sound (self, CHAN_BODY, "player/plyrjmp8.wav", 1, ATTN_NORM);
-
-		Note: the check for the z component of the velocity is not really necessary, but to paraphrase what a true QuakeC guru once told me: "It is good programming style to check for certain things even if you think it won't happen."
-
-	Of course, this requires you to decompile the reaperbot since Polge stated at least twice that he will not release the source code. He also said that it is okay for you to modify your personal copy of the reaperbot for personal use. This means that he is not authorizing you to release your changes to the public. Naturally, the geniuses among us who appointed themselves the ethical guardians of the Quake community will tell you that this means you can not decompile the reaperbot. I will let you decide. I am not delusional enough to think that I should decide what you can do in the privacy of your own home. We have tutorials on decompiling the reaperbot if you are interested.
+> Latest News November 17th
+>
+> Happy Birthday - Today is the 1 year anniversary of the release of v0.81, the final version, of the famed Reaperbot. It was the first bot to feature dynamic waypoint spawning--this means that the bot can "learn" the map as it roams. To celebrate its birthday, here are the corrections to two of the most famous bugs ever seen in any bot:
+>
+> 	Disappearing weapons bug: Look for the function weapon_touch in the file called items.qc. After the declarations of the variables, add this following line of code:
+>
+> 		if (other.classname != "player" && other.classname !="dmbot") return;
+>
+> 	Silent Jumping: Look for the function BotJump in the file called botmove.qc. Near the bottom of this function but BEFORE the line that says "return ( TRUE );" add this line of code:
+>
+> 		if (jmpv_z > 200) sound (self, CHAN_BODY, "player/plyrjmp8.wav", 1, ATTN_NORM);
+>
+> 	Note: the check for the z component of the velocity is not really necessary, but to paraphrase what a true QuakeC guru once told me: "It is good programming style to check for certain things even if you think it won't happen."
+>
+> Of course, this requires you to decompile the reaperbot since Polge stated at least twice that he will not release the source code. He also said that it is okay for you to modify your personal copy of the reaperbot for personal use. This means that he is not authorizing you to release your changes to the public. Naturally, the geniuses among us who appointed themselves the ethical guardians of the Quake community will tell you that this means you can not decompile the reaperbot. I will let you decide. I am not delusional enough to think that I should decide what you can do in the privacy of your own home. We have tutorials on decompiling the reaperbot if you are interested.
 
 -- [http://www.inside3d.com/nov16-nov17.shtml](https://web.archive.org/web/19980614160135/http://www.inside3d.com/nov16-nov17.shtml) (archived June 14 1998)
 
