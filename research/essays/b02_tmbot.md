@@ -65,22 +65,23 @@ The mod is described as an automated helper bot for single player.
 
 The readme directly credits Perecli Manole aka "Bort", author of the HoloSelf mod, version 1.0. At the time of release a second version of the HoloSelf mod had been released, but perhaps the brothers development had begun with the first version and there was little need to adapt it after the second version was released.
 
+```
+	Title    : TM Bot
+	Filename : tmbot1.zip
+	Version  : 1.00
+	Date     : 96/8/21
+	Author(s): Micheal Polucha (co-designer, coder)
+	           Tim Polucha (co-designer, playtester)
+	Email    : mpolucha@earthlink.net
 
->	Title    : TM Bot
->	Filename : tmbot1.zip
->	Version  : 1.00
->	Date     : 96/8/21
->	Author(s): Micheal Polucha (co-designer, coder)
->	           Tim Polucha (co-designer, playtester)
->	Email    : mpolucha@earthlink.net
->
->	Credits  : HoloSelf v1.0
->	            by Perecli Manole
->	            Perecli@ix.netcom.com
->
->	           Quake-C specification and HTML version.
->	 	    by Olivier Montanuy
->	            Olivier.Montanuy@wanadoo.fr
+	Credits  : HoloSelf v1.0
+	            by Perecli Manole
+	            Perecli@ix.netcom.com
+
+	           Quake-C specification and HTML version.
+	 	    by Olivier Montanuy
+	            Olivier.Montanuy@wanadoo.fr
+```
 
 -- tmbot1.txt
 
@@ -94,25 +95,29 @@ It is interesting that the Usenet post has "Bot-Like Features" in the title of t
 
 He also posted a message on the same day in rec.games.computer.quake.editing with the title "TM Bot 1 - Quake C AI" asking if anyone else is working on advanced artificial intelligence.
 
->	I've just finished version 1.00 of a Quake C Bot/Companion.
->	Check it out at:
->
->	ftp://ftp.cdrom.com/.5/idgames2/quake/quakec/bots/tmbot1.txt
->	ftp://ftp.cdrom.com/.5/idgames2/quake/quakec/bots/tmbot1.zip
->
->	Has anyone else been working on improving the AI of the monsters/bots
->	using Quake C?
->
->	-Micheal Polucha
+```
+	I've just finished version 1.00 of a Quake C Bot/Companion.
+	Check it out at:
+
+	ftp://ftp.cdrom.com/.5/idgames2/quake/quakec/bots/tmbot1.txt
+	ftp://ftp.cdrom.com/.5/idgames2/quake/quakec/bots/tmbot1.zip
+
+	Has anyone else been working on improving the AI of the monsters/bots
+	using Quake C?
+
+	-Micheal Polucha
+```
 
 -- [TM Bot 1 - Quake C AI](https://groups.google.com/g/rec.games.computer.quake.editing/c/CCoT-6kWaeM/m/HKsXcHuq-kcJ), rec.games.computer.quake.editing, Micheal Polucha, 22 Aug 1996.
 
 In a follow-up message, he corrects the download links for the bot on the cdrom.com public FTP server:
 
->	Sorry, the actual links are:
->
->	ftp://ftp.cdrom.com/.5/idgames2/quakec/bots/tmbot1.txt
->	ftp://ftp.cdrom.com/.5/idgames2/quakec/bots/tmbot1.zip
+```
+	Sorry, the actual links are:
+
+	ftp://ftp.cdrom.com/.5/idgames2/quakec/bots/tmbot1.txt
+	ftp://ftp.cdrom.com/.5/idgames2/quakec/bots/tmbot1.zip
+```
 
 -- [TM Bot 1 - Quake C AI](https://groups.google.com/g/rec.games.computer.quake.editing/c/CCoT-6kWaeM/m/HKsXcHuq-kcJ), rec.games.computer.quake.editing, Micheal Polucha, 22 Aug 1996.
 
@@ -137,10 +142,12 @@ A second version of the mode was released a few days later with the file tmbot11
 
 The readme lists the version as v1.1 and the release date as August 26th 1996, five days after the first release, and the timestamps of the files in the archive match this release date.
 
->	Title    : TM Bot
->	Filename : tmbot1.zip
->	Version  : 1.1
->	Date     : 96/8/26
+```
+	Title    : TM Bot
+	Filename : tmbot1.zip
+	Version  : 1.1
+	Date     : 96/8/26
+```
 
 -- tmbot11.txt
 
@@ -182,8 +189,10 @@ The source files appear to have been last touched the day before on August 25th.
 
 Availability for the mod is listed at the end of the readme and includes be both ftp.cdrom.com in the bots/ directory, and at www.stomped.com.
 
->	ftp://ftp.cdrom.com/.5/idgames2/quakec/bots/
->	http://www.stomped.com/files.htm
+```
+	ftp://ftp.cdrom.com/.5/idgames2/quakec/bots/
+	http://www.stomped.com/files.htm
+```
 
 -- tmbot11.txt
 
@@ -198,40 +207,42 @@ As with v1.0, Michael posted to Usenet to announce the release, sharing the cont
 
 The distribution includes a new file that lists the features and known bugs (features.txt).
 
->	TM Bot v 1.1
->
->	Features:
->
->		1. Manual or automatic control of the bot.
->		2. Bot can draw enemy fire.
->		3. Seeks out monsters and attacks them.
->		4. Can activate trigger fields on the floor (like
->		   the lights on E1M1 when going down the spiral ramp).
->		5. Can trigger some platforms.
->		6. Can open doors.
->		7. Can go through teleport portals.
->		8. Tries to return to player when player gets too
->		   far away.
->		9. DM/Co-op mode toggle.
->
->	Bugs:
->
->		1. Bot will sometimes shoot you in the back.
->		2. Bot cannot push buttons on the wall.
->		3. Bot cannot jump.
->		4. Bot cannot walk over broken ground.
->		5. Bot sometimes gets lost.
->		6. Certain functions (i.e. teleport, move, etc.)
->		   interrupt the dying process giving you a ghost bot
->		   that is insubstantial and unkillable.
->		7. Level changes may not be handled correctly by my code
->		   (Bot may not be deactivated, just lost).
->
->	If you find a new bug that is not listed here, please send the bug
->	report to mpolucha@earthlink.net. If yours is the first report for the
->	bug, we'll give you credit for reporting it. Also, if you have a
->	solution for a known or newly discovered bug, please feel free to
->	submit that as well.
+```
+	TM Bot v 1.1
+
+	Features:
+
+		1. Manual or automatic control of the bot.
+		2. Bot can draw enemy fire.
+		3. Seeks out monsters and attacks them.
+		4. Can activate trigger fields on the floor (like
+		   the lights on E1M1 when going down the spiral ramp).
+		5. Can trigger some platforms.
+		6. Can open doors.
+		7. Can go through teleport portals.
+		8. Tries to return to player when player gets too
+		   far away.
+		9. DM/Co-op mode toggle.
+
+	Bugs:
+
+		1. Bot will sometimes shoot you in the back.
+		2. Bot cannot push buttons on the wall.
+		3. Bot cannot jump.
+		4. Bot cannot walk over broken ground.
+		5. Bot sometimes gets lost.
+		6. Certain functions (i.e. teleport, move, etc.)
+		   interrupt the dying process giving you a ghost bot
+		   that is insubstantial and unkillable.
+		7. Level changes may not be handled correctly by my code
+		   (Bot may not be deactivated, just lost).
+
+	If you find a new bug that is not listed here, please send the bug
+	report to mpolucha@earthlink.net. If yours is the first report for the
+	bug, we'll give you credit for reporting it. Also, if you have a
+	solution for a known or newly discovered bug, please feel free to
+	submit that as well.
+```
 
 The update contains a number of changes, interesting changes which can be summarized as:
 
@@ -255,9 +266,13 @@ Although simple, the TM Bot provides a important basis for a large family tree o
 
 In a note on Usenet by Tim (under Michael's account) on September 5th 1996, it is clear there is already a burgeoning deathmatch bot mod community.
 
->	... My brother and I are working on our own patch that will have some of the features other DM bots have and maybe a few they don't.
->
->	- Tim Polucha
+
+```
+	... My brother and I are working on our own patch that will have some of the
+	features other DM bots have and maybe a few they don't.
+
+	- Tim Polucha
+```
 
 The brothers decision to upload it to public locations (cdrom.com and stomped.com) announcement of the bot in multiple Usenet groups (rec.games.computer.quake.announce amd rec.games.computer.quake.editing) helped with adoption and subsequent extensions of the bot, founding a whole linage of bots.
 
@@ -267,22 +282,24 @@ I don't believe either brother continued their efforts on Quake development, at 
 
 A few months later, Tim commented that he'd like to collaborate on more mods, but he does not know QuakeC programming.
 
->	...
->	My brother and I created
->	TMBOT...though now he hasn't got the time to work on it anymore :(. I'd
->	still like to work on quakec stuff but I really don't have much
->	programming knowledge. Anybody want to work on QuakeC..ie a group of
->	people? Mostly all that I could do would be to help with design concepts
->	(and boy do I have a lot of concepts...hmm) I believe a few people have
->	written us already...but I really haven't said yes or no...I'd like to
->	get a whole lot of people working on this..Some people for bots, others
->	for levels...graphics...models etc.. Anybody interested?
->
->	If interested please reply to this in news and to my email address at:
->	Mpol...@earthlink.net
->
->	Thanks in advance,
->	Tim Polucha
+```
+	...
+	My brother and I created
+	TMBOT...though now he hasn't got the time to work on it anymore :(. I'd
+	still like to work on quakec stuff but I really don't have much
+	programming knowledge. Anybody want to work on QuakeC..ie a group of
+	people? Mostly all that I could do would be to help with design concepts
+	(and boy do I have a lot of concepts...hmm) I believe a few people have
+	written us already...but I really haven't said yes or no...I'd like to
+	get a whole lot of people working on this..Some people for bots, others
+	for levels...graphics...models etc.. Anybody interested?
+
+	If interested please reply to this in news and to my email address at:
+	Mpol...@earthlink.net
+
+	Thanks in advance,
+	Tim Polucha
+```
 
 -- [rec.games.computer.quake.editing, Micheal Polucha, 1 Oct 1996](https://groups.google.com/g/rec.games.computer.quake.editing/c/oBId-aNBplM/m/uTZKX5CJFSwJ).
 

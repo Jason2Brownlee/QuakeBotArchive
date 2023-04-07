@@ -98,7 +98,9 @@ This may be the first publicly released extension of the MyBot, appearing two da
 
 The mod is described as a simple modification of the TMBot that will fire grenades at zombies.
 
->	I modified the tmbot qc mod to shoot grenades at zombies.
+```
+I modified the tmbot qc mod to shoot grenades at zombies.
+```
 
 -- readme.txt, mybot.zip
 
@@ -120,12 +122,14 @@ A follow-up MyBot release had the filename mybot11.zip, containing theme same fi
 
 The changelog indicates minor changes such as the bot being stronger and going into pain less often, as well as a tweak to the AI to change targets when injured by another monster during an attack.
 
->	New features since my first mod.
->	1. The bot goes into pain a lot less often
->	2. If the bot is attacking a target and is hit by
->	another target then the bot attacks the new attacker
->	(phew)
->	3. The bot is three times stronger!
+```
+New features since my first mod.
+1. The bot goes into pain a lot less often
+2. If the bot is attacking a target and is hit by
+another target then the bot attacks the new attacker
+(phew)
+3. The bot is three times stronger!
+```
 
 -- readme.txt, mybot11.zip
 
@@ -136,25 +140,26 @@ His email, retrieved from the mailing list archive, appears to be a reply to Nat
 
 There is evidence that both authors were active on this mailing list.
 
->	check out mybot11.zip on ftp.cdrom.com
->	Its a mod of the same tmbot your bot is based on.
->	Ive done some interesting stuff with it.
->	Its harder to kill (life 300), it goes into pain less (great for fighting
->	fiends and ogres)
->	Right now i have it so impulse 105 reports the bots health. but thats not
->	in mybot11.zip
->	It also recognizes when it has been hit.
->	It is also set to say target terminated when it kills a target. But i
->	noticed a bug.
->	It reports target terminated when the target is lost from view :(.
->	I was trying to set it to search for health when it has less then 50 out of
->	its total 300 hit points, but i can't get it to do it.
->	If you like it please tell me!
->
->	If you use the stuff i did Or my idea, please tell me.
->	and please  e-mail me updates on the bot before you release it publically
->	:)!
->	I might come up with some ideas!
+```
+check out mybot11.zip on ftp.cdrom.com
+Its a mod of the same tmbot your bot is based on.
+Ive done some interesting stuff with it.
+Its harder to kill (life 300), it goes into pain less (great for fighting
+fiends and ogres)
+Right now i have it so impulse 105 reports the bots health. but thats not
+in mybot11.zip
+It also recognizes when it has been hit.
+It is also set to say target terminated when it kills a target. But i
+noticed a bug.
+It reports target terminated when the target is lost from view :(.
+I was trying to set it to search for health when it has less then 50 out of
+its total 300 hit points, but i can't get it to do it.
+If you like it please tell me!
+If you use the stuff i did Or my idea, please tell me.
+and please  e-mail me updates on the bot before you release it publically
+:)!
+I might come up with some ideas!
+```
 
 -- Quake C Mailing List Archive, August 26 to August 28 1996 (archive)
 https://web.archive.org/web/19990427113042/http://www2.csn.net/~rudeseal/quakec/quakeclist826-828.zip
@@ -213,13 +218,15 @@ The readme makes it clear that the focus of the mod has shifted from a helper bo
 
 Step-by-step instructions are provided for starting a deathmatch game and spawning a bot to fight against.
 
->	*****INSTRUCTIONS*****
->	To play deathmatch against the bot,
->	while the demo is playing, bring down the console (~),
->	then type DEATHMATCH 1
->	then type MAP "MAPNAME"    (eg: e1m2)
->	the e1 represents the episode 1
->	and m2 represents the  second mission
+```
+*****INSTRUCTIONS*****
+To play deathmatch against the bot,
+while the demo is playing, bring down the console (~),
+then type DEATHMATCH 1
+then type MAP "MAPNAME"    (eg: e1m2)
+the e1 represents the episode 1
+and m2 represents the  second mission
+```
 
 The important changes in this release are the faster movement and firing by the bot (no doubt to increase its difficulty) and the automatic respawning of the bot after it dies or is killed in deathmatch.
 
@@ -238,39 +245,45 @@ This release included the same files although did not include a zip file of the 
 Also, the readme file was renamed "mybot14.txt" suggesting that perhaps a version 1.4 was publicly released or used as a private beta release, although no record of a "mybot14.zip" can be found.
 
 ```
-   7060  2 Sep  1996 Shelcase.mdl
-   2003 27 Jul  1996 mybot14.txt
- 458508 27 Jul  1996 progs.dat
-   5040 23 Jul  1996 Tmbot11.txt
+ 7060  2 Sep  1996 Shelcase.mdl
+ 2003 27 Jul  1996 mybot14.txt
+458508 27 Jul  1996 progs.dat
+ 5040 23 Jul  1996 Tmbot11.txt
 ```
 
 The oldest timestamp of files the archive is September 2nd 1996. This matches the FTP timestamp from the archive of cdrom.com/pub/idgames2/quakec/bots/ and can be taken as the release date.
 
 ```
-	mybot16.txt            02-Sep-96 15:52     1k
-	mybot16.zip            02-Sep-96 15:52   139k
+mybot16.txt            02-Sep-96 15:52     1k
+mybot16.zip            02-Sep-96 15:52   139k
 ```
 
 The changelog in the readme file highlights important additions for deathmatch, including the ability to compete against more than one bot at a time.
 
-	... multiple bots allowed!
+```
+	multiple bots allowed!
+```
 
 The bot AI was also improved allow it to seek out and acquire additional health and armor during a deathmatch fight, and to fire its weapon while moving.
 
->	bot can pick up health and armour
->	bot searches for health while no enemys targeted
->	moves WHILE FIRING!
+```
+bot can pick up health and armour
+bot searches for health while no enemys targeted
+moves WHILE FIRING!
+```
 
 Interestingly, the readme now lists 7 tests of the bot, suggesting that a small community had developed around the releases and were sending Stephen feedback.
 
->	testers:
->	FRAGNSTIN
->	darkvampirehunter
->	evilive
->	fragnstin
->	macdaddy
->	tasslehoff
->	nightpup
+```
+testers:
+FRAGNSTIN
+darkvampirehunter
+evilive
+fragnstin
+macdaddy
+tasslehoff
+nightpup
+```
 
 The feedback was probably private, e.g. direct via email. I cannot find any discussion of the mod on usenet and no reference to the testers in the archive of the quake-c mailing list that survived.
 

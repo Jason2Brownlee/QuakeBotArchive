@@ -18,11 +18,13 @@ The archive contains the compiled game code (progs.dat), a readme file (roambot1
 
 The readme file lists the release date as September 3rd 1998 and this matches the timestamps of files in the archive.
 
->	Title    : roamBot
->	Filename : roambot1.zip
->	Version  : 0.9
->	Date     : 96/9/3, 12:15am MDT.
->	Author   : CARSON SUTTON ("Gwynn" on irc, "Crimson" to quake victims)
+```
+Title    : roamBot
+Filename : roambot1.zip
+Version  : 0.9
+Date     : 96/9/3, 12:15am MDT.
+Author   : CARSON SUTTON ("Gwynn" on irc, "Crimson" to quake victims)
+```
 
 This also matches the FTP file timestamp on cdrom.com. The release was not announced on Usenet.
 
@@ -45,24 +47,26 @@ The roaming behaviour is described at length in the readme.
 
 In addition to better roaming, it offers better AI behavior such as target management, the ability to run and turn, support for doors and teleporters, and the ability to give up after a time limit of five seconds. The mod also supports ejecting shotgun shells "for fun".
 
->	- Bot follows its OWN target entity while roaming,
->	  thus direction of roaming bot not tied to
->	  creator or (last) target entity.  "Leader" entity
->	  assigned pseudo-random directional and "dead end"
->	  detection routines.  Standard turn left, turn right
->	  AI too predictable, so bot pulls a u-turn or heads
->	  off-center at obstacles.
->	- Bot RUNS instead of walks while roaming.  Makes
->	  them much more effective.
->	- Bot will turn around (180) at ledges/obstacles
->	  after timeout.
->	- Bot will go through doors and teleporters.
->	- Bot only hunts detected items if visible.
->	- Bot gives up hunting target after 5 secs. if
->	  no longer visible.
->	- Better heath, less idle noise, a little near-sighted
->	  (for game speed with more bots), etc.
->	- Added shotgun shells ejecting just for fun.
+```
+- Bot follows its OWN target entity while roaming,
+  thus direction of roaming bot not tied to
+  creator or (last) target entity.  "Leader" entity
+  assigned pseudo-random directional and "dead end"
+  detection routines.  Standard turn left, turn right
+  AI too predictable, so bot pulls a u-turn or heads
+  off-center at obstacles.
+- Bot RUNS instead of walks while roaming.  Makes
+  them much more effective.
+- Bot will turn around (180) at ledges/obstacles
+  after timeout.
+- Bot will go through doors and teleporters.
+- Bot only hunts detected items if visible.
+- Bot gives up hunting target after 5 secs. if
+  no longer visible.
+- Better heath, less idle noise, a little near-sighted
+  (for game speed with more bots), etc.
+- Added shotgun shells ejecting just for fun.
+```
 
 -- roambot1.txt
 

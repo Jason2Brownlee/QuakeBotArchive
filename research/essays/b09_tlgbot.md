@@ -11,23 +11,27 @@ It was probably released on August 27th 1996.
 
 This date is listed as the release date in a later release, version 1.2a.
 
->	Title    : The Lone Gunmen QuakeBOT - Larva
->	Filename : tlgbot.zip
->	Version  : 1.2a
->	Date     : 96/27/8
+```
+Title    : The Lone Gunmen QuakeBOT - Larva
+Filename : tlgbot.zip
+Version  : 1.2a
+Date     : 96/27/8
+```
 
 -- tlgbot.txt
 
 It is also the date of an announcement by one of the authors, James 'Jaymz' Cullen.
 
->	Just a note to let all those people out there that The Lone Gunmen have
->	updated their page yet again. We now have our files section online, and
->	have our first add-on publicly available from our page: Larva, our
->	QuakeBOT mascot. So check out the page of one of the first original
->	clans, and perhaps the only clan that offers NO rules, regulations, or
->	anything. The leaderless clan: The Lone Gunmen
->	The Lone Gunmen:
->	http://www2.eis.net.au/~lcullen/tlg/index.html
+```
+Just a note to let all those people out there that The Lone Gunmen have
+updated their page yet again. We now have our files section online, and
+have our first add-on publicly available from our page: Larva, our
+QuakeBOT mascot. So check out the page of one of the first original
+clans, and perhaps the only clan that offers NO rules, regulations, or
+anything. The leaderless clan: The Lone Gunmen
+The Lone Gunmen:
+http://www2.eis.net.au/~lcullen/tlg/index.html
+```
 
 -- [THE LONE GUNMEN PAGE UPDATED](https://groups.google.com/g/rec.games.computer.quake.announce/c/-RNQqowJzEc/m/cCx8w6BXQucJ), rec.games.computer.quake.announce, James 'Jaymz' Cullen, 27 Aug 1996.
 
@@ -68,21 +72,21 @@ It contained a readme (tlgbot.txt), a batch file for running the mod (tlgbot.bat
 The PAK file contains a model for the bot as well as custom sounds and the compiled game code.
 
 ```
-	progs.dat
-	progs/larvabot.mdl
-	sound/qbot/death1.wav
-	sound/qbot/idle1.wav
-	sound/qbot/idle2.wav
-	sound/qbot/idle3.wav
-	sound/qbot/pain1.wav
-	sound/qbot/pain2.wav
-	sound/qbot/shot1.wav
-	sound/qbot/shot2.wav
-	sound/qbot/shot3.wav
-	sound/qbot/sight1.wav
-	sound/qbot/sight2.wav
-	sound/qbot/sight3.wav
-	tlg.txt
+progs.dat
+progs/larvabot.mdl
+sound/qbot/death1.wav
+sound/qbot/idle1.wav
+sound/qbot/idle2.wav
+sound/qbot/idle3.wav
+sound/qbot/pain1.wav
+sound/qbot/pain2.wav
+sound/qbot/shot1.wav
+sound/qbot/shot2.wav
+sound/qbot/shot3.wav
+sound/qbot/sight1.wav
+sound/qbot/sight2.wav
+sound/qbot/sight3.wav
+tlg.txt
 ```
 
 The readme lists the release date as the 27th of August 1996, the date of the first release, suggesting that the same readme file was used and not fully updated.
@@ -106,13 +110,13 @@ These dates also match the Usenet post announcing the bot and posting the comple
 
 The readme file does list both the authors homepage and cdrom.com as a source to download the bot, highlighting that this release was distributed using the popular quake archive. This information was in the Usenet announcement, but not in the text file distributed in the zip file.
 
->	This modification is available from the following places:
->
->	The Lone Gunmen homepage:
->	http://www2.eis.net.au/~lcullen/tlg/index.html
->
->	ftp.cdrom.com's /.5/idgames2/newstuff or /.5/idgames2/quakec/bots
->	directory.
+```
+This modification is available from the following places:
+The Lone Gunmen homepage:
+http://www2.eis.net.au/~lcullen/tlg/index.html
+ftp.cdrom.com's /.5/idgames2/newstuff or /.5/idgames2/quakec/bots
+directory.
+```
 
 -- [The Lone Gunmen QuakeBOT 1.2a](https://groups.google.com/g/rec.games.computer.quake.announce/c/41KiUN_xgVU/m/SKc8W_I5fcQJ), rec.games.computer.quake.announce, James 'Jaymz' Cullen, 4 Sept 1996.
 
@@ -124,13 +128,17 @@ The bot extends the TMBot. And like the TMBot, the authors are two brothers, Jam
 
 They refer to the bot as "Larva", the mascot off their clan, although the file and directory names suggest a name using the acronym for their clan, that is TLGBot.
 
->	Yet another variation of TMBot, it gives you our mascot bot 'Larva'.
+```
+Yet another variation of TMBot, it gives you our mascot bot 'Larva'.
+```
 
 -- tlgbot.txt
 
 The source code was not included in the release and may be lost to time, given a comment on an archived version of the clans website:
 
->	... The Source Code for the Larva Bot was lost in transit and is unavailable.
+```
+... The Source Code for the Larva Bot was lost in transit and is unavailable.
+```
 
 -- [The Lone Gunman Homepage Files Page](https://web.archive.org/web/19970131214954fw_/http://www2.eis.net.au/~lcullen/tlg/files.html) (archived January 31 1997).
 
@@ -144,17 +152,18 @@ Unlike the TMBot, TLGBot has a modified model file and skin and uses ether the r
 
 The quake.rc script provided with the mod binds a number of commands for manually controlling the bot and echos information about the bot to the console when the game starts.
 
->	 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
->	  Using Larva - TLG QuakeBOT v1.2a
->	 Written by Micheal and Tim Polucha
->	  Heavily Modified by Jaymz of TLG
->
->	 TmBOT Code by Micheal & Tim Polucha
->	  Larva's texture - The Lone Gunmen
->	 Sounds taken from the Movie Aliens
->	  Extra weapons code and Deathmatch
->	        enhancements by Jaymz
->	 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+```
+ -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+  Using Larva - TLG QuakeBOT v1.2a
+ Written by Micheal and Tim Polucha
+  Heavily Modified by Jaymz of TLG
+ TmBOT Code by Micheal & Tim Polucha
+  Larva's texture - The Lone Gunmen
+ Sounds taken from the Movie Aliens
+  Extra weapons code and Deathmatch
+        enhancements by Jaymz
+ -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+```
 
 -- quake.rc
 
@@ -184,17 +193,19 @@ This was released as placebot.zip and pbot_src.zip for the source code. Although
 
 It was placed in that directory because a bot was used to achieve the desired result.
 
->	Source code is availiable for those who want it.  The code's nothing
->	special, basically it is just a bot that can't move or shoot.  Perfect
->	for those lamers who need to practise gibbing players.. :)
+```
+Source code is availiable for those who want it.  The code's nothing
+special, basically it is just a bot that can't move or shoot.  Perfect
+for those lamers who need to practise gibbing players.. :)
+```
 
 -- placebot.txt
 
 An updated version of the placebot was created and released as place2.zip in early February 1997 which was also added to the Quake Archive, where it remained as part of the modern representation of the archive.
 
 ```
-	place2.txt             08-Feb-97 19:32     3k
-	place2.zip             08-Feb-97 19:35   283k
+place2.txt             08-Feb-97 19:32     3k
+place2.zip             08-Feb-97 19:35   283k
 ```
 
 -- [http://www.cdrom.com/pub/idgames2/quakec/bots/](https://web.archive.org/web/19970609212728/http://www.cdrom.com:80/pub/idgames2/quakec/bots/) (archived June 9th 1997)

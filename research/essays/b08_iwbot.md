@@ -215,26 +215,28 @@ Interestingly, this version does not include source code, although a note that f
 
 The readme lists the archive filename as "iwbot16.zip" (the prior public release), and the version as 0.20. The Quake startup script lists the version as v0.20. This may suggest that a v0.20 was publicly released and that this v0.21 release was made quickly to fix a bug.
 
->	Title    : IronWulvt's Deathmatch Bot
->	Filename : IWBOT16.zip
->	Version  : 0.20
->	Date     : 96/30/9
->	Author   : Ben Garrod (IRONWULVT)
+```
+Title    : IronWulvt's Deathmatch Bot
+Filename : IWBOT16.zip
+Version  : 0.20
+Date     : 96/30/9
+Author   : Ben Garrod (IRONWULVT)
+```
 
 -- iwbot21.txt
 
 The readme lists the release date as September 30th, and the timestamp of most the files in the archive is October 1st. The FTP timestamp is also October 1st and is taken as the release date, although the small difference in date-times may be due to differing timezones.
 
 ```
-	iwbot21.txt            30-Sep-96 15:09     9k
-	iwbot21.zip            30-Sep-96 15:10   127k
+iwbot21.txt            30-Sep-96 15:09     9k
+iwbot21.zip            30-Sep-96 15:10   127k
 ```
 
 -- [http://www.cdrom.com/pub/idgames2/quakec/bots/](https://web.archive.org/web/19961225222455/http://www.cdrom.com/pub/idgames2/quakec/bots/) (archived December 25 1996)
 
 In addition to the TMBot and BGBot, the readme file also gives credit to the author of the Eliminator bot (Cameron Newham), suggesting that the IMBot may incorporate waypoints in this or a planned future versions.
 
-	Author of C-BOT Engine Eliminator bot. He proved to me with his bot that waypoint/pathways are a necessary thing and they have since become top priority on the IWBOT.
+> Author of C-BOT Engine Eliminator bot. He proved to me with his bot that waypoint/pathways are a necessary thing and they have since become top priority on the IWBOT.
 
 -- iwbot21.txt
 
