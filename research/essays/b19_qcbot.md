@@ -21,11 +21,21 @@ The message appears to be a snippet of a conversation, probably taken from IRC o
 
 	=== Cut ===
 	QCBOT002.ZIP5 / MAY / 1997
-	Information and demo on getting QuakeC bots onto the rankings screen as well as changing the bots color!by Alan Kivlin (aka Virtuoso)
+	Information and demo on getting QuakeC bots onto the rankings screen as well
+	as changing the bots color!by Alan Kivlin (aka Virtuoso)
 
 	>^^^^^^^^^^^^^^ ^^^^^^^^^^^^^^^^^^^^^^^^
 
-	After emailing QCBOT001.ZIP to Blue @ Blue's News (www.bluesnews.com - best quake page in the world - heh I've followed blue a long time and I'm very pleased to see him get the success he deserves), I noticed a bug in clientNextAvailable(), its now fixed (I was allowing 17 clients instead of 16).I also see a couple of bots have been released namely TheOak (heh this botis very funny with all those Arnie wavs) and my original favorite bot of alltime The Eliminator (Cameron Newham was one of the first that coded any majorbot developments IMO) - I hope the authors will make use of the information I'm making available. Happy bot making - Quake Rules The Cosmos :)
+	After emailing QCBOT001.ZIP to Blue @ Blue's News (www.bluesnews.com - best
+		quake page in the world - heh I've followed blue a long time and I'm very
+		pleased to see him get the success he deserves), I noticed a bug in
+		clientNextAvailable(), its now fixed (I was allowing 17 clients instead of 16).
+		I also see a couple of bots have been released namely TheOak (heh this botis
+			very funny with all those Arnie wavs) and my original favorite bot of
+			alltime The Eliminator (Cameron Newham was one of the first that coded
+				any majorbot developments IMO) - I hope the authors will make use of
+				the information I'm making available. Happy bot making
+				- Quake Rules The Cosmos :)
 	=== Cut ===
 
 -- [BOTS!](https://groups.google.com/g/fido7.ru.game.doom/c/bpTlbP8dbdQ/m/JBYzyxY9LcMJ), fido7.ru.game.doom, Sasha Vinnikov, 11 May 1997 (updated for formatting)
@@ -47,13 +57,15 @@ Like the first version, we know of its existence given the reposting of a messag
 
 The second version appears to fix a bug in the firs version.
 
-	I noticed a bug in clientNextAvailable(), its now fixed (I was allowing 17 clients instead of 16
+	I noticed a bug in clientNextAvailable(), its now fixed
+	(I was allowing 17 clients instead of 16
 
 -- [BOTS!](https://groups.google.com/g/fido7.ru.game.doom/c/bpTlbP8dbdQ/m/JBYzyxY9LcMJ), fido7.ru.game.doom, Sasha Vinnikov, 11 May 1997
 
 The message also suggest that bots had started using the release by this time, such as the Oak bot.
 
-	I also see a couple of bots have been released namely TheOak (heh this botis very funny with all those Arnie wavs)
+	I also see a couple of bots have been released namely TheOak (heh this botis
+	very funny with all those Arnie wavs)
 
 -- [BOTS!](https://groups.google.com/g/fido7.ru.game.doom/c/bpTlbP8dbdQ/m/JBYzyxY9LcMJ), fido7.ru.game.doom, Sasha Vinnikov, 11 May 1997
 
@@ -83,12 +95,14 @@ I suspect the eariler versions were also uploaded to ftp.cdrom.com, although no 
 
 The archive contains the source code that provides the bot client capabilities (RANKINGS.QC), a readme file (README.TXT) and demos of the capabilities that the release supports for the bots.
 
+```
   685768  7 Jun  1997 50BOTS.DEM
   626943  7 Jun  1997 CLSTART1.DEM
   849469  7 Jun  1997 CLSTART2.DEM
    12716  7 Jun  1997 RANKINGS.QC
     7685  7 Jun  1997 README.TXT
  1515028  7 Jun  1997 SVSTART.DEM
+```
 
 The readme file distributed with the zip archive gives a terse summary of the release.
 
@@ -121,7 +135,8 @@ The readme file in the zip contains an extensive description of the release.
 
 Firstly, it comments that it is an update over previous release, giving credence to the snippet reposted on Usenet regarding previous releases.
 
-	This is an update of my previously released information on implementing bots on the quake rankings screen.
+	This is an update of my previously released information on implementing bots
+	on the quake rankings screen.
 
 -- README.TXT
 
@@ -188,7 +203,10 @@ He also authored a tutorial for inside3d in May 1997 that showed how to make gib
 
 	FLOATING QUAKE ENTITIES
 
-	Would you like to see gibs, heads, dead bodies and backpacks float in water? Now you can by following this tutorial and with a little extra programming you could make other entities float (how about a grenade that starts to surface after it reaches the floor of the water).
+	Would you like to see gibs, heads, dead bodies and backpacks float in water?
+	Now you can by following this tutorial and with a little extra programming
+	you could make other entities float (how about a grenade that starts to surface
+		after it reaches the floor of the water).
 
 -- [http://www.inside3d.com/qctut/lesson-14.html](https://web.archive.org/web/19981203072824/http://www.inside3d.com/qctut/lesson-14.html) (archived December 03 1998)
 
@@ -221,19 +239,29 @@ Terry Hendrix, author of the Darkbot and editor behind the botshop website liste
 
 	Quake Client Emu Source
 	Author: Alan Kivlin
-	Our friend in the UK brought us the most widely known QuakeC bot hack, adding bots to the client scoreboard. I can't say how much this helped client emulation.
+
+	Our friend in the UK brought us the most widely known QuakeC bot hack, adding
+	bots to the client scoreboard. I can't say how much this helped client emulation.
 
 -- [http://www.planetquake.com/botshop/code.html](https://web.archive.org/web/20000417184231/http://www.planetquake.com/botshop/code.html) (April 17 1999)
 
 It also appears as an entryt in the popular QuakeC Reference Manual developed by David Hesprich.
 
-	Can QuakeC bots be listed in the player rankings, or have proper shirt and pants colors?
+	Can QuakeC bots be listed in the player rankings, or have proper shirt and
+	pants colors?
 
-	Yes, but it requires a hack of the Quake network protocol. The bot must be assigned a client number from the pool available (there are maxplayers client numbers). The obvious downside to this is that is requires the bot to take a slot that ordinarily would be available for a human player.
+	Yes, but it requires a hack of the Quake network protocol. The bot must be
+	assigned a client number from the pool available (there are maxplayers client
+	numbers). The obvious downside to this is that is requires the bot to take a
+	slot that ordinarily would be available for a human player.
 
-	Once the bot has it’s own client number, it can be assigned it’s own colormap and broadcast it’s name and frags to the clients. Note that since the bot is not really a client, every time the bot’s colors, name, or frag count changes, the change must be forced by sending out another broadcast message.
+	Once the bot has it’s own client number, it can be assigned it’s own colormap
+	and broadcast it’s name and frags to the clients. Note that since the bot is
+	not really a client, every time the bot’s colors, name, or frag count changes,
+	the change must be forced by sending out another broadcast message.
 
-	Alan Kivlin (alan.kivlin@cybersurf.co.uk) has an example of how this might be accomplished in his QCBot.
+	Alan Kivlin (alan.kivlin@cybersurf.co.uk) has an example of how this might be
+	accomplished in his QCBot.
 
 -- Page 58, [QuakeC Reference Manual](https://pages.cs.wisc.edu/~jeremyp/quake/quakec/quakec.pdf), David Hesprich aka "DarkGrue", February 4, 1998.
 

@@ -38,11 +38,13 @@ The release contains a readme file (VBOT10.TXT), the source code (SRC.ZIP), a pl
 
 A compiled version of the game code was not provided, making the first version challenging to use for non-technical players.
 
+```
    2915 24 Sep  1996 VBOT10.TXT
  115178 24 Sep  1996 SRC.ZIP
    3115 24 Sep  1996 CONFIG.CFG
      96 24 Sep  1996 PROGS
     224 24 Sep  1996 SOUND
+```
 
 The readme lists the release date as September 24th 1996, which is confirmed by the timestamps of files in the zip file.
 
@@ -119,12 +121,14 @@ It remained as part of the directory and still exists there in modern mirrors.
 
 The archive contains the same assortment of files as the first version, with the addition of a compiled version of the game code (prods.dat) and a configuration file.
 
+```
    3229 26 Oct  1996 VBOT11.TXT
      96 26 Oct  1996 PROGS
     224 26 Oct  1996 SOUND
  430344 18 Oct  1996 PROGS.DAT
  115178 24 Sep  1996 SRC.ZIP
    3115 24 Sep  1996 CONFIG.CFG
+```
 
 The readme file lists the release date as September 24th and the same zip file as the first version "vbot10.zip". I suspect this part of the file was left unchanged.
 
@@ -161,7 +165,7 @@ On it, he listed his Victim bot with pride.
 
 On the page, tony linked to the announcement of the bot on BluesNews, an interview in PC Gamer magazine (Sept, 1996), and the entry of the bot in "Quake History In A Nutshell", shared on methosq.com on June 22nd 2001, stating:
 
-	"My favorite Quake bot was the VictimBot which didn't shoot at you but, ran around in free for all games and stood right in your face yelling "Help Me!" and "Run AWAY!" over and over. If you killed it, you would lose a frag from your score."
+> "My favorite Quake bot was the VictimBot which didn't shoot at you but, ran around in free for all games and stood right in your face yelling "Help Me!" and "Run AWAY!" over and over. If you killed it, you would lose a frag from your score."
 
 -- [Quake History In A Nutshell](https://web.archive.org/web/20020207023351/http://methosq.com/newsjuly01.htm), archived February 07, 2002.
 

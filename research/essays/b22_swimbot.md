@@ -84,11 +84,13 @@ A copy of this release was found on the "Shareware Extravaganza 8" CDROM on CD 2
 
 It includes a zip summary (FILE_ID.DIZ), a readme (README.TXT), compiled game code (PROGS.DAT), player model (PROGS/ directory) and shell casing sounds (SOUNDS/). It also contains the source code for the release, provided as SRC.ZIP in the PROGS/ directory.
 
+```
      96 18 Nov  1996 SOUND
     160 18 Nov  1996 PROGS
    7104 29 Sep  1996 README.TXT
     790 29 Sep  1996 FILE_ID.DIZ
  470444 29 Sep  1996 PROGS.DAT
+```
 
 The release date in the summary file was listed as September 29 1996.
 
@@ -198,9 +200,11 @@ The release is smaller, containing only the summary readme, the readme file, and
 
 This makes the mod challenging to use, requiring that the user copy the files from the previous release or locate the files from other mods and copy them over.
 
+```
    3525 10 Oct  1996 readme.txt
     657 10 Oct  1996 file_id.diz
  476008 10 Oct  1996 progs.dat
+```
 
 This release does not include the model files or sound files required to use the mod. It also does not include the source code.
 
@@ -253,9 +257,13 @@ This appears to be Greg Fukui's first and last quake mod, although it made an im
 
 	Swim Bot, by Greg Fukui.
 
-	Well, just for something different, these bots can swim, which is not an ability of all bots around. Of more merit though, is their great dress sense. Have you ever wanted to go head to head with Judge Dred, Duke Nukem (who?...), Predator or the Terminator? Well, here is your chance.
+	Well, just for something different, these bots can swim, which is not an
+	ability of all bots around. Of more merit though, is their great dress sense.
+	 Have you ever wanted to go head to head with Judge Dred, Duke Nukem (who?...),
+	 Predator or the Terminator? Well, here is your chance.
 
-	As well as swimming, and great looks, these bots play well to boot. Like BG and Reaper, any level can be used to interact with your old mates.
+	As well as swimming, and great looks, these bots play well to boot. Like BG
+	and Reaper, any level can be used to interact with your old mates.
 
 -- [http://www.iinet.net.au/~den/swimbot.html](https://web.archive.org/web/19990223195820/http://www.iinet.net.au/~den/swimbot.html) (Archived February 23 1999)
 

@@ -45,7 +45,11 @@ A message on the site captured at that time, dated April 1998 suggests downloadi
 
 	Many of the files not available here are now available through links in my Home Page
 
-	Well, after nearly 20 months I'm STILL getting accesses to this page! Unfortunately I no longer have the space to store any Quake C stuff on here, and besides, Eliminator is very old. The files have been deleted. Please see the links on my home page or go to one of the many Quake FTP sites to find the Eliminator files.
+	Well, after nearly 20 months I'm STILL getting accesses to this page!
+	Unfortunately I no longer have the space to store any Quake C stuff on here,
+	and besides, Eliminator is very old. The files have been deleted. Please
+	see the links on my home page or go to one of the many Quake FTP sites to
+	find the Eliminator files.
 
 	Thank you.
 
@@ -75,7 +79,6 @@ The next version of the Eliminator bot was released as elim11.zip.
 
 Like the first version, it was announced on Usenet, in this case on the rec.games.computer.quake.misc group.
 
-
 	Title : Eliminator CBot Engine
 	Filename : elim11.zip
 	Version : 1.1
@@ -88,12 +91,14 @@ A copy of the release was located on the "Nightowl 23" CDROM of BBS software rel
 
 The contents list two readme files, the compiled game code and two .map files. This version of the release also has a "FILE_ID.DIZ" file, added later for describing the file on BBSs.
 
+```
      78 29 Sep  1996 FILE_ID.DIZ
    2126 15 Sep  1996 ELIM10.TXT
  457232 15 Sep  1996 PROGS.DAT
   36242 15 Sep  1996 START.MAP
   57188 15 Sep  1996 E1M5.MAP
    9204 15 Sep  1996 README.TXT
+```
 
 Source code for the release was not distributed.
 
@@ -230,9 +235,9 @@ This release was announced on Usenet in the rec.games.computer.quake.editing gro
 
 The elimtst1.zip, readme (elimtst1.txt), and waypoint readme (elimwpt.txt) were placed in the bots/eliminator/ subdirectory on ftp.cdrom.com with a timestamp of September 19th. Here the files remained, even in modern mirrors of the directory
 
-	elimtst1.txt	1996-Sep-19 00:00:00	1.9K	text/plain
+	elimtst1.txt	1996-Sep-19 00:00:00	1.9K		text/plain
 	elimtst1.zip	1996-Sep-19 00:00:00	152.1K	application/zip
-	elimwpt.txt		1996-Sep-19 00:00:00	14.8K	text/plain
+	elimwpt.txt	1996-Sep-19 00:00:00	14.8K	text/plain
 
 -- [https://www.quaddicted.com/files/idgames2/quakec/bots/eliminator/](https://www.quaddicted.com/files/idgames2/quakec/bots/eliminator/)
 
@@ -240,12 +245,13 @@ A copy of the release was located on the "Shareware Extravaganza 8 (Disk 8)" col
 
 It contains a readme file describing the release (readme.txt), a high-level summary readme that was also shared on Usenet (elimtst1.txt), waypoint documentation (elimwpt.txt), and example map file containing waypoints for the start map (examp.map), and a compiled version of the bot intended for debugging waypoints for maps (progs.dat)
 
-
+```
    5069 15 Sep  1996 readme.txt
   15137 15 Sep  1996 elimwpt.txt
    1946 15 Sep  1996 elimtst1.txt
   31040 15 Sep  1996 examp.map
  457256 15 Sep  1996 progs.dat
+```
 
 The readme lists the release date as September 16th, one day after the version 1.1. release of the bot. The Usenet post and file stamps list the 15th of September, the same day as the previous release. The difference may be due to the differences in local timezone (Australia) compared to the Usenet and server timestamps in the United States.
 
@@ -454,11 +460,13 @@ The release contains the same assortment of readme, map files and the compiled g
 
 No source code is included in this final release, nor is the construction set included in the release.
 
+```
  461796 19 Sep  1996 progs.dat
   11398 19 Sep  1996 readme.txt
    3146 19 Sep  1996 elim14.txt
   36242 15 Sep  1996 start.map
   57188 15 Sep  1996 e1m5.map
+```
 
 The release date in the readme file is listed as the 19th of September 1996. This matches the timestamps of files in the zip and the recovered FTP timestamps.
 
@@ -506,7 +514,6 @@ This directory is reported as being created on the 20th of September, one day af
 More tan 40 map files were released and placed in the eliminator/ subdirectory, where they remained, even in modern mirrors of the directory.
 
 For example:
-
 
 	Name↓	Last Modified:	Size:	Type:
 	../	 	-  	Directory
@@ -560,7 +567,7 @@ For example:
 
 A re-packaged version of the release was made and released as "elim14pk.zip" by "Moraca".
 
-	        This is the latest version of ELIM 1.4.  I have placed this is a pak
+	This is the latest version of ELIM 1.4.  I have placed this is a pak
 	file for those who are having trouble and for convience.  I have also included
 	Multiskin Pro with head gibs.  To install this, do the following:
 
@@ -588,6 +595,7 @@ The release was made as elimsrc.zip.
 It was not announced on Usenet and may not have been uploaded to ftp.cdrom.com as no record of it can be found.
 
 This released was shared on the authors personal homepage and the release was picked up and shared on bluesnews on December 27th.
+
 	December 27, 1996
 
 	Cameron Newham has released his source code for the Eliminator Bot (124 KB) on his homepage.
@@ -601,6 +609,7 @@ The release also appears on the "CD Zone Issue #48" magazine CD released on Marc
 The release contains simply a readme file (README.NOW) and the QuakeC source code files.
 
 
+```
    960 25 Dec  1996 README.NOW
   2598 19 Sep  1996 progdefs.h
  12408 19 Sep  1996 world.qc
@@ -643,7 +652,7 @@ The release contains simply a readme file (README.NOW) and the QuakeC source cod
  10279 25 Jul  1996 demon.qc
   9917 25 Jul  1996 dog.qc
   7617 25 Jul  1996 fight.qc
-
+```
 
 The timestamps of the file suggest that this version of the code that was released was not touched since the version 1.4 release.
 
@@ -737,7 +746,7 @@ One example was the QuakeWiki that added a page to list quake bots and hosted a 
 Cameron left a comment on this page, highlighting the early capabilities of the Eliminator bot compared to the much famed Reaper bot.
 
 
-	I see you have the archive of BotArea 51 and my bot Eliminator. Very useful as it gives the date when it was released – 19 Sept 1996 – which means it was the first level-aware bot to be created and beat Steve Polge’s “Reaper Bot” by several weeks. Indeed, mine was also the first to use map waypoints for bot navigation and the first bot which presented a real challenge to human players. Sadly I only got three weeks to work on it before moving to another country and having no time to improve it, so it’s almost forgotten about now. However it’s nice to see it has been archived after all these years!
+> I see you have the archive of BotArea 51 and my bot Eliminator. Very useful as it gives the date when it was released – 19 Sept 1996 – which means it was the first level-aware bot to be created and beat Steve Polge’s “Reaper Bot” by several weeks. Indeed, mine was also the first to use map waypoints for bot navigation and the first bot which presented a real challenge to human players. Sadly I only got three weeks to work on it before moving to another country and having no time to improve it, so it’s almost forgotten about now. However it’s nice to see it has been archived after all these years!
 
 -- [Quake 1 Bots](https://www.quakewiki.net/quake-1-bots/), QuakeWiki.
 
