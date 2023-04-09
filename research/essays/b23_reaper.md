@@ -2,7 +2,7 @@
 
 The Reaper Bot may be the most popular, widely used, and celebrated quake bots.
 
-It can be argued that good bots were developed before the reaper (e.g. the BGBot and Eliminator bots), and perhaps better bots were developed after the reaper (e.g. Omicron, Frogbot, and Frikbot), but the impact of the bot was so great that it is still preferred by may players even 25 years later.
+It can be argued that good bots were developed before the reaper (e.g. the BGBot and Eliminator bots), and perhaps better bots were developed after the reaper (e.g. Omicron, Frogbot, and Frikbot), but the impact of the bot was so great that it is still preferred by many players even 25 years later.
 
 The reaper bot was developed by Steven Polge, then a programmer at IBM.
 
@@ -11,7 +11,7 @@ The reaper bot was developed by Steven Polge, then a programmer at IBM.
 
 -- REAPRB05.TXT
 
-He was later hired by Epic Megagames to bring his advanced AI to Unreal which put a halt to the development of the bot, at least by Steve. The bot lived on by tenacious engineers that reversed engineered the source code and updated it further, causing further controversy.
+He was later hired by Epic Megagames to bring his advanced AI to Unreal which put a halt to the development of the bot, at least by Steve. The bot lived on by tenacious engineers that reversed engineered the source code and updated it further, resulting in controversy.
 
 
 
@@ -43,9 +43,19 @@ The release was also announced on "Gnowknayme's Quake Page" on October 3rd in a 
 
 -- [http://www.geocities.com/TimesSquare/Arcade/1975/quake.htm](https://web.archive.org/web/19990203053917/http://www.geocities.com/TimesSquare/Arcade/1975/quake.htm) (archived February 03 1999).
 
-A copy of this release has not been located at the time of writing.
+A copy of this release can be found on the "[DP Tool Club CD ASC #03, 08, 31-34](https://archive.org/details/dptoolclub-cdasc)" CDROM in the /vrac/ directory.
 
-Helpfully, a version of the release was packaged with another release called "MSKIN" and released in 4 parts and distributed on BBSs. A copy of this release can be located on "Shareware Extravaganza 8 (Disk 8)" collection on CD 2, archived on textfiles.com in the files MSKIN1.ZIP, MSKIN2.ZIP, MSKIN3.ZIP, MSKIN4.ZIP.
+The reaprb05.zip release contains the compiled game code (progs.dat) and a readme file (reaprb05.txt). It also contains a file_id.diz, suggesting that this version of the release was distributed via BBS before distribution on the CDROM.
+
+```
+     70  1 Sep  1996 FILE_ID.DIZ
+ 490248  1 Sep  1996 PROGS.DAT
+   7540  1 Sep  1996 REAPRB05.TXT
+```
+
+The files in the archive are dated September 01 1996. This is different from the release date in the readme file.
+
+Additionally, a version of the release was packaged with another release called "MSKIN" and released in 4 parts and distributed on BBSs. A copy of this release can be located on "Shareware Extravaganza 8 (Disk 8)" collection on CD 2, archived on textfiles.com in the files MSKIN1.ZIP, MSKIN2.ZIP, MSKIN3.ZIP, MSKIN4.ZIP.
 
 This package was described as "Multiskinner pro" that includes a "very intelligent" quake bot.
 
@@ -56,7 +66,9 @@ This package was described as "Multiskinner pro" that includes a "very intellige
 
 -- FILE_ID.DIZ
 
-Unzipping the files ultimately reveals a bot/ subdirectory that contains the compiled game code (PROGS.DAT) and readme (REAPRB05.TXT) for this version of the reaper bot. These files were re-packaged and added to the Quake Bot Archive.
+Unzipping the files ultimately reveals a bot/ subdirectory that contains the compiled game code (PROGS.DAT) and readme (REAPRB05.TXT) for this version of the reaper bot.
+
+These files too are dated September 01 1996.
 
 ```
    7540  1 Sep  1996 REAPRB05.TXT
@@ -82,7 +94,7 @@ In the readme, Steve comments that he has been working on the bot for about 3 we
 
 -- REAPRB05.TXT
 
-This puts the 16th of September about 17 days before the first public release date. This, and the fact the version number for the release was v0.5 suggests that there were probably at least 4 private releases of the bot, perhaps shared with a small group of friends or beta testers.
+This puts the 16th of September about 17 days before the first public release date in early October. This, and the fact the version number for the release was v0.5 suggests that there were probably at least 4 private releases of the bot, perhaps shared with a small group of friends or beta testers.
 
 No credits to beta testers or other source code is given in the readme. In fact, he is clear to comment that all code was entirely his own.
 

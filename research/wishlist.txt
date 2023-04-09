@@ -429,8 +429,6 @@ maniacbt12.txt
 qcbot001.txt
 qcbot002.txt
 rbot.txt
-reaprb05.txt
-reaprb06.txt
 req.txt
 req105c.txt
 sbotstuf.txt
