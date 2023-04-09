@@ -55,7 +55,7 @@ The reaprb05.zip release contains the compiled game code (progs.dat) and a readm
 
 The files in the archive are dated September 01 1996. This is different from the release date in the readme file.
 
-Additionally, a version of the release was packaged with another release called "MSKIN" and released in 4 parts and distributed on BBSs. A copy of this release can be located on "Shareware Extravaganza 8 (Disk 8)" collection on CD 2, archived on textfiles.com in the files MSKIN1.ZIP, MSKIN2.ZIP, MSKIN3.ZIP, MSKIN4.ZIP.
+Additionally, a version of the release was packaged with another release called "MSKIN" and released in 4 parts (MSKIN1.ZIP, MSKIN2.ZIP, MSKIN3.ZIP, MSKIN4.ZIP) and distributed on BBSs. A copy of this release can be located on "[Shareware Extravaganza 8](https://archive.org/details/Shareware_Extravaganza_8_Most_Significant_Bits)" in the /g_quake/ directory and "[The Arsenal Files Collection #8](https://archive.org/details/The_Arsenal_Files_Collection_8_Arsenal_Computer_1996)" in the /g_quake/ directory.
 
 This package was described as "Multiskinner pro" that includes a "very intelligent" quake bot.
 
@@ -159,7 +159,7 @@ This release was linked in the "Quake C Files" section on canvasnet.com with a l
 
 -- [http://canvasnet.com/quake/qc.htm](https://web.archive.org/web/19990116234332/http://canvasnet.com/quake/qc.htm) (archived January 16 1999)
 
-Not all users had an early time with this release.
+Not all users had an easy time with this release.
 
 A news post was shared on redwood news on October 6th, commenting that the v0.5 of the bot causes crashes.
 
@@ -180,7 +180,7 @@ The next version of the reaper bot was released as reaprb06.zip.
 
 The release was anticipated at QuakeC Headquarters (QHQ).
 
-A pre-release announcement was shared by Mouser on Usenet in the group rec.games.computer.quake.playing sat that the next release of the reaper bot, version 0.6 was due to be released that week.
+A pre-release announcement was shared by Mouser on Usenet in the group rec.games.computer.quake.playing suggesting that the next release of the reaper bot, version 0.6, was due to be released that week.
 
 	Hello Quakematchers,
 	---QHQ Exclusive------QHQ Exclusive------QHQ Exclusive---
@@ -203,7 +203,7 @@ A pre-release announcement was shared by Mouser on Usenet in the group rec.games
 
 -- [*New Reaper Bot Beta v0.6 info at QHQ!*](https://groups.google.com/g/rec.games.computer.quake.playing/c/3Zhx62Et-O4/m/mrf3h8CuKJAJ), rec.games.computer.quake.playing, Mouser, 9 Oct 1996.
 
-Sadly the QHQ was not captured by archive.org and all of the news, reaper-specific webpages, and forums discussion the reaper bot have been lost.
+Sadly the QHQ was not captured by archive.org and all of the news, reaper-specific webpages, and forum discussion the reaper bot have been lost.
 
 This version of the bot does not appear to have been announced on BluesNews, although all other versions were.
 
@@ -225,7 +225,9 @@ The release was announced on Redwood news on October 13th 1996, with a link to a
 
 -- [http://redwood.gatsbyhouse.com/quake/1096.html](https://web.archive.org/web/19970327200948/http://redwood.gatsbyhouse.com/quake/1096.html) (archived March 27 1997)
 
-A copy of this released was downloaded as an attachment on Usenet shared by Robert Heaney on 25 Oct 1996.
+A copy of this release was distributed via CDROM, including "[PC FORMAT #5 1997 CD 1](https://archive.org/details/pcformat-5)" in the /quake/ directory, "[PC Format Christmas 1996 CD-38](https://archive.org/details/pcf-cd-38)" in the /quake/ directory, "[PCGamer UK Coverdisk CD41](https://archive.org/details/pcgamer-uk-coverdisk-cd41)" in the /shware/reaper/ directory, and "[PCGamer UK Coverdisk CD42](https://archive.org/details/pcgamer-uk-coverdisk-cd42)" in the /quake/reaper/ directory. A copy also appears on the "[DP Tool Club CD ASC #03, 08, 31-34](https://archive.org/details/dptoolclub-cdasc)" CDROM in the /dos/games/4quake/ directory with the filename reaper.zip.
+
+A copy of this released can also be downloaded as an attachment on Usenet, shared by Robert Heaney on 25 Oct 1996.
 
 	Hey, Steve. Here's the latest Reaper Bot that I found over at Stomped.
 	It's a pretty cool enemy bot for DM practice.
@@ -240,7 +242,7 @@ This release contains a readme file (Reaprb06.txt), compiled game code (Progs.da
    1828  5 Jun  1996 B06chg.txt
 ```
 
-The readme lists the release date as October 12th 1996, matching the announcement on "Excalibur's Rumbles" and is taken as the release date. The file timestamps in the release are a close match, listing September 11th, with one file having a release date of June 5th. Perhaps this file was prepared by Steve on a different system.
+The readme lists the release date as October 12th 1996, matching the announcement on "Excalibur's Rumbles" and is taken as the release date. The file timestamps in the release are very different, listing September 11th, with one file having a release date of June 5th. Perhaps this and the previous release were prepared by Steve on a different system with messed-up date-time configuration.
 
 	Title    : The Reaper Bot
 	Filename : reaprb06.zip
@@ -358,14 +360,14 @@ This release was also announced on Redwood news on October 24th with locally hos
 
 -- [http://redwood.gatsbyhouse.com/quake/1096.html](https://web.archive.org/web/19970327200948/http://redwood.gatsbyhouse.com/quake/1096.html) (archived March 27 1997)
 
-This version of the bot was shared on the "Toolkit For Quake (QTool_0197)" CDROM in the /QUAKEC/BOTS/ directory.
+This version of the bot was shared on the "[Toolkit For Quake (QTool_0197)](https://www.quaddicted.com/files/commercial/)" CDROM in the /QUAKEC/BOTS/ directory.
 
 The "/QUAKEC/BOTS/00_INDEX.TXT" file on the CD records the timestamps of the file, likely matching the timestamps of the files when uploaded to ftp.cdrom.com.
 
 	reaprb07.txt    9930 10-25-96  Description for reaprb07.zip
 	reaprb07.zip  157750 10-25-96  See description above.
 
-A copy of this release is also on the "Shareware Extravaganza 8 (Disk 8)" CDROM collection on CD 2, archived on textfiles.com.
+A copy of this release is also on the "[Shareware Extravaganza 8 (Disk 8)](https://archive.org/details/Shareware_Extravaganza_8_Most_Significant_Bits)" CDROM collection on CD 2 in the /gamapog2/ directory.
 
 Other BBS-based released of quake mods include this release including BOTZQU released as BOTZQU01.ZIP and BOTZQU02.ZIP that contains the reaper, zeus bot, and other mods, described as "BOTZ 'N STUFF FOR QUAKE". It is also included in QLAB released in a series of files from QLAB01.ZIP to QLAB07.ZIP, described as "QUAKE-LAB".
 
@@ -473,22 +475,19 @@ On October 26th, it was reported that Steve was gathering feedback and suggestio
 
 Given that the reaper was taking off, having the discussion happen on QHQ was really a coop for the owners of the site.
 
-	October 26th
-
-	QHQ's Reaper Forum
-	QHQ and Reaper 'bot author Steven Polge have put up a message forum for everyone to post their thoughts on the Reaper. You can go and post what you think would be an improvement, and just maybe your idea could be in a future release of the Reaper bot.
+> October 26th
+>
+> QHQ's Reaper Forum
+> QHQ and Reaper 'bot author Steven Polge have put up a message forum for everyone to post their thoughts on the Reaper. You can go and post what you think would be an improvement, and just maybe your idea could be in a future release of the Reaper bot.
 
 -- [http://bluesnews.com/oct4.html](https://web.archive.org/web/19970204065011/http://bluesnews.com/oct4.html) (Archived February 04 1997)
 
 From this discussion was mention the possibility of the mod adding the popular grappling hook, shared again second hand on Blues News 5 days later.
 
-	October 31st
-
-	QHQ's Reaper Forum Pays Dividends
-	Kris Bowen of QHQ sends along word that QHQ's Message Forum has a response
-	from Reaper Author Steve Polge describing possible future features of the
-	Reaper bot as well as work being done on the 'bot currently. He says he hopes
-	to support the grappling hook, and capture the flag in future versions!
+> October 31st
+>
+> QHQ's Reaper Forum Pays Dividends
+> Kris Bowen of QHQ sends along word that QHQ's Message Forum has a response from Reaper Author Steve Polge describing possible future features of the Reaper bot as well as work being done on the 'bot currently. He says he hopes to support the grappling hook, and capture the flag in future versions!
 
 -- [http://bluesnews.com/oct4.html](https://web.archive.org/web/19970204065011/http://bluesnews.com/oct4.html) (Archived February 04 1997)
 
@@ -514,16 +513,27 @@ The release was also announced on Redwood news on November 2nd, with locally hos
 
 -- [http://redwood.gatsbyhouse.com/quake/1196.html](https://web.archive.org/web/19970327200928/http://redwood.gatsbyhouse.com/quake/1196.html) (archived March 27 1997)
 
-A copy of this release could not be located at the time of writing.
+A copy of this release was distributed on the "[CD Action Coverdisc #16a](https://archive.org/details/cdrom-cdaction16a)" CDROM in the /bonus/qu&dn/ directory as the file quake.rar. Within this archive, the reaprb75.zip file is in the /progs/ directory.
 
-The quakemecca.simplenet.com website had a page deviated to the reaper bot.
+
+The release contains the same assortment of files with dates that are inconsistent with the time of releaes or release date in the readme file.
+
+```
+   3407 25 Jun  1996 B75chg.txt
+ 463124 14 Sep  1996 Progs.dat
+    566 14 Sep  1996 Reaper.cfg
+  10679 26 Jun  1996 Reaprb75.txt
+   1177 25 Jun  1996 Skinspec.txt
+```
+
+The quakemecca.simplenet.com website had a page dedicated to the reaper bot.
 
 	The Reaper Bot is another great Quake Bot. The magic behind this bot is that
 	it learns the level as it plays!
 
 -- [http://quakemecca.simplenet.com/reaper.htm](https://web.archive.org/web/19970530185051/http://quakemecca.simplenet.com/reaper.htm) (archived May 30 1997)
 
-The page must have been updated as different versions of the bot were released because by the time it was captured by archive,rg in 1997, it had a link to the last version of the bot, yet kept a link to the readme file for the v0.75 release. Thankfully, this readme file was captured by archive.org.
+The page must have been updated as different versions of the bot were released because by the time it was captured by archive.org in 1997, it had a link to the last version of the bot, yet kept a link to the readme file for the v0.75 release. Thankfully, this readme file was captured by archive.org.
 
 The readme file listed the release date as November 2nd, matching the announcement on Blues News and Redwood Quake.
 
@@ -536,15 +546,30 @@ The readme file listed the release date as November 2nd, matching the announceme
 
 -- reaprb75.txt
 
-It is interesting that Steve chose to release this version as 0.75 instead of 0.80. It suggests that it have been a smaller release, perhaps just bug fixes.
 
-Although the readme file for the release has been located, the changelog file (B75chg.txt) has not, so we don't know the full extent of the changes in this release.
+It is interesting that Steve chose to release this version as 0.75 instead of 0.80. It suggests that it have been a smaller release, perhaps just bug fixes.
 
 	Changes from Beta 0.7 to Beta 0.75 are described in B75CHG.TXT, included in this archive.
 
 -- reaprb75.txt
 
-(UPDATE: A copy of this file has been located. This section will be updated ASAP)
+The changelog suggests that most changes in this this release are minor, rationalizing the minor version change.
+
+
+```
+Most of the changes in this version are
+relatively superficial (although they will
+make a noticeable difference in game
+play).  The next release (0.8) will have
+some substantial improvements in AI,
+which should make the bot a much more
+interesting opponent.
+```
+
+-- B75chg.txt
+
+
+
 
 
 
@@ -582,13 +607,15 @@ This release was announced on Redwood Quake on November 16th with locally hosted
 
 -- [http://redwood.gatsbyhouse.com/quake/1196.html](https://web.archive.org/web/19970327200928/http://redwood.gatsbyhouse.com/quake/1196.html) (archived March 27 1997)
 
-A copy of this release was located on cd.textfiles.com in the directory /thegreatunsorted/old_apps/dos_games/. This was clearly a collection of files acquired from various locations and not yet organized.
+A copy of this release was distributed on the "[PC Format (Portugal) 4](https://archive.org/details/pc-format-portugal-4)" CDROM in the /quake/ directory, and "[CD Action Coverdisc #14-15a]"(https://archive.org/details/cdrom-cdaction1415a) CDROM in the  /bonus/ directory in file quake.rar, then in the /QSTUFF/C/BOTS/ directory in the unzipped file.
+
+A copy of this release was also located on cd.textfiles.com in the directory /thegreatunsorted/old_apps/dos_games/. This was clearly a collection of files acquired from various locations and not yet organized.
 
 	The Unsorted Collection
 
 -- <http://cd.textfiles.com/thegreatunsorted/.name>
 
-The release contains the same files as the 0.7 release, with the addition of a spin specification text file (Skinspec.txt) and a text file describing how to setup a dedicated server for the mod (Dedserv.txt). The configuration file was changed to "Autoexec.cfg", the convension for additional commands to be loaded by the mod, instead of "config.cfg", the main configuration file.
+The release contains the same files as the 0.7 release, with the addition of a spin specification text file (Skinspec.txt) and a text file describing how to setup a dedicated server for the mod (Dedserv.txt). The configuration file was changed to "Autoexec.cfg", the conversion for additional commands to be loaded by the mod, instead of "config.cfg", the main configuration file.
 
 ```
  479616 15 Nov  1996 Progs.dat
@@ -612,7 +639,7 @@ The timestamps for the files are listed as the November 1996, with the latest da
 
 Steve Gibson aka "sCary" on the "Quakeholio" Quake news website corresponded with Steven Polge about the bot's strafing behavior. Steven Polge responded with technical details about the functions he is calling in QuakeC to allow the bot to strafe.
 
-The comments suggest that the discuss occurred before the v0.8 release was distributed, e.g. he says "In version 0.8, I'll add a special intermediate strafe think ...". Perhaps this email conversation occurred prior to the 15th of November, and was shared 10 days layer by Steve Gibson on the site, probably with permission.
+The comments suggest that the discussion occurred before the v0.8 release was distributed, e.g. he says "In version 0.8, I'll add a special intermediate strafe think ...". Perhaps this email conversation occurred prior to the 15th of November, and was shared 10 days layer by Steve Gibson on the site, probably with permission.
 
 > Reaper 0.8 10/25/96 8:35pm
 >
@@ -809,7 +836,7 @@ Although development by Steve stopped, development on the reaper bot did not.
 
 Tenacious programmers started to use the decompile capability of some of the modern QuakeC compilers to reverse engineer compiled game code back into .qc files for some mods.
 
-This method was applied to the reaper bot, initially to fix bugs in the code, specifically the infamous disappearing weapons bug.
+This method was applied to the reaper bot, initially to fix bugs in the code, specifically the infamous disappearing weapons bug present in QuakeC v1.05.
 
 Decompiling the reaper source code was being discussed and performed by developers on Usenet.
 
@@ -830,10 +857,10 @@ For example, in reply to a question on how to decompile the reaper bot into sour
 
 Bent Svendsen aka "Decker" also replied that he had done it also.
 
-	>>>Does anyone of you know how to de-compile Reaper bots, without any
-	>>>errors when compiling??
-	>>You won't give up, eh?! ;-)
-	>well, it's simple enough, you've just got to know how to fix the code
+	>>> Does anyone of you know how to de-compile Reaper bots, without any
+	>>> errors when compiling??
+	>> You won't give up, eh?! ;-)
+	> well, it's simple enough, you've just got to know how to fix the code
 	I know, I've already done it. I was just teasing him :-) He've got my
 	code by now, so that should shut him up.
 
