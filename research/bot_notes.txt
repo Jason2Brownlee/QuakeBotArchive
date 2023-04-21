@@ -2892,6 +2892,15 @@ void mod (frikbots)
 		110
 	https://web.archive.org/web/20060622081457/http://quake.errorabove.com/QuakeC/Combos/voidm110.txt
 	related to "best of void" ????
+Kinobot
+	v4
+	other versions?
+	http://discmaster.textfiles.com/browse/12525/PCMania%20CD65_1.iso/pcmania/treal65/foro/barroso/kinobot.zip
+		kinobot.zip
+	Vicente Catalß Barroso (  SKON[DEM]  )
+	no url/website
+	spanish
+
 
 
 
