@@ -2900,7 +2900,12 @@ Kinobot
 	Vicente Catalß Barroso (  SKON[DEM]  )
 	no url/website
 	spanish
-
+rpbot.zip
+	http://discmaster.textfiles.com/browse/12525/PCMania%20CD65_1.iso/pcmania/treal65/foro/barroso/rpbot.zip
+	rpbot.zip
+	spanish
+	ripper or ripper bot (based on config)
+	language: krio
 
 
 
