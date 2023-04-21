@@ -114,7 +114,13 @@ QuakeBot
 	https://sourceforge.net/u/printz/profile/
 	Ioan Chera
 	no release...
-
+AnSer Bot
+	https://www.angelfire.com/de/velliyams/images/games.html
+	http://sql.download.ru/cgi-bin/download.cgi?1386&eng
+	http://anser.webjump.com/
+	Andrey Sergienko
+	filename?
+	"Most cool bot for quake-1. new sounds, models, hook, multiskin, multiname, coll worked, scorebar, ai like Ripper bot."
 
 
 
