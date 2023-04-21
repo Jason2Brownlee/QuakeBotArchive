@@ -17,7 +17,6 @@ ftp://ftp.cdrom.com/pub/quake/quakec/compilations/wyrmb2.txt
 ftp://ftp.cdrom.com/pub/quake/quakec/misc/req106a.zip
 ftp://ftp.compulink.co.uk/mirrors/ftp.cdrom.com/pub/planetquake/holywars/hwqwbotv101c.zip
 ftp://ftp.dragonfire.net/users/kkembel/QuakeC/bots/elim13.zip
-ftp://ftp.elogica.com.br/pub/warlock/brbot.exe
 ftp://ftp.epix.net/pub/idgames2/planetquake/holywars/hwqwbotv101c.zip
 ftp://ftp.epix.net/pub/telefragged/be/fmods/Accuracy.zip
 ftp://ftp.epix.net/pub/telefragged/be/fmods/demos/frogbot_demo.zip

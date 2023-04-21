@@ -53,7 +53,7 @@ Bot Hunt | Douglas H. King aka "Sea4" | [bthnt10.zip](bin/bthnt10.zip) ([txt](bi
 Bot Player (BPlayer) | Wolfgang Lehrach aka "Wolf" | [bplayer2.zip](bin/bplayer2.zip)<br>bplayer1.zip ([txt](bin/bplayer1.txt))
 BotArena (FrikBot) | Fabiano D. Amorim aka "Vegetous" | [botarena.zip](bin/botarena.zip)<br>[bt_scr.zip](bin/bt_scr.zip)
 BotSkin | Warren Cheung aka "WACko" | [btskn22.zip](bin/btskn22.zip) ([txt](bin/btskn22.txt))<br>botskn21.zip<br>[botskn20.zip](bin/botskn20.zip) ([txt](bin/botskn20.txt))<br>botskn19.zip<br>[botskn18.zip](bin/botskn18.zip) ([txt](bin/botskn18.txt))<br>botskn17.zip<br>botskn16.zip<br>botskn15.zip<br>botskn14.zip<br>botskn13.zip<br>botskn12.zip<br>botskn11.zip<br>[botskn10.zip](bin/botskn10.zip)
-BrBot | "DRaKuLL" | [brbot.7z](bin/brbot.7z) <br>[brbotqc.zip](bin/brbotqc.zip)<br>[brbot.exe](bin/brbot.exe)
+BrBot (Reaper) | "DRaKuLL" | [brbot.7z](bin/brbot.7z) <br>[brbotqc.zip](bin/brbotqc.zip)<br>[brbot.exe](bin/brbot.exe)
 BuddyBot | Chris Steegmans aka "Parsec" | [bbot_b1.zip](bin/bbot_b1.zip) <br>[bbot_b11.zip](bin/bbot_b11.zip)
 CTF Bot | Drew Davidson aka "BZ" | [ctfbot13b1.zip](bin/ctfbot13b1.zip) ([txt](bin/ctfbot13b1.txt))<br>[newctf12.zip](bin/newctf12.zip) ([txt](bin/newctf12.txt))<br>[ctfbot12.zip](bin/ctfbot12.zip) ([txt](bin/ctfbot12.txt))<br>[ctfbot11.zip](bin/ctfbot11.zip) ([txt](bin/ctfbot11.txt))
 CTF Plugin (Frikbot) | Dan Hale aka "Wazat" | [ctfprogs.zip](bin/ctfprogs.zip)<br>[ctfplug2.zip](bin/ctfplug2.zip)

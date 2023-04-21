@@ -36,7 +36,6 @@ botskn17.zip
 botskn19.zip
 botskn21.zip
 bplayer.zip
-brbot.exe
 btmv10.zip
 btmv20.zip
 btmv30.zip
