@@ -127,7 +127,7 @@ Frogbot | Robert Field aka "Frog" | [frogbot013.zip](bin/frogbot013.zip)<br>[fro
 Fun With Dogz (BGBot, Cujo) | Thomas Hansen | [dogfun20.zip](bin/dogfun20.zip) ([txt](bin/dogfun20.txt))<br>dogfun19.zip<br>dogfun18.zip<br>dogfun17.txt<br>[dogfun16.zip](bin/dogfun16.zip) ([txt](bin/dogfun16.txt))<br>dogfun14.zip<br>[dogfun13.zip](bin/dogfun13.zip) ([txt](bin/dogfun13.txt))
 Gideon Bot | Matthew Turvey | [gidbot.zip](bin/gidbot.zip) ([txt](bin/gidbot.txt))
 GlacierBot | Rainier Rapera aka "IceDagger" | [gb027b.zip](bin/gb027b.zip)<br>gbped10.zip
-Glyde Quake (cujo, wisp) | Randy D. Shoultz | [glydeqk.zip](bin/glydeqk.zip) ([glyde.txt](bin/glyde.txt))
+Glyde Quake (cujo, wisp) | Randy D. Shoultz | [glydeqk.zip](bin/glydeqk.zip) ([txt](bin/glyde.txt))
 GuardBot | Peter van Wingerden | [grdbot23.zip](bin/grdbot23.zip) ([txt](bin/grdbot23.txt))<br>grdbot13.zip<br>[guardbot.zip](bin/guardbot.zip)
 GYPObot | Stephen Dobbs | [gypobot.zip](bin/gypobot.zip)
 Hellsmash (Frikbot) | Khin Mannering aka "Dr. Shadowborg" | [qsr04apatch1.7z](bin/qsr04apatch1.7z)<br>[qsr04a.7z](bin/qsr04a.7z)<br>[qsrbeta3a.zip](bin/qsrbeta3a.zip)<br>[qsrbeta3a_src.zip](bin/qsrbeta3a_src.zip)<br>[qsrbeta3x.zip](bin/qsrbeta3x.zip)<br>[qsrbeta3.zip](bin/qsrbeta3.zip)<br>qsrbeta1b.zip<br>qsrbeta1.zip

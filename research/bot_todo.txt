@@ -105,7 +105,10 @@ quaketastic multiplayer
 		https://www.quaketastic.com/files/multiplayer/mods/dodgeball_01.zip
 		https://www.quaketastic.com/files/multiplayer/mods/dodgeball_patch.zip
 			processed...
-
+Legion of Doom
+	has bgbots and cujo
+	http://discmaster.textfiles.com/view/22092/SSERVCD_50B.bin/3d_extra/quake-tc/lodoom/lodb1.txt
+	Roscoe A. Sincero
 
 
 David Love
