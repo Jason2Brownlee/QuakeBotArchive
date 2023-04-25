@@ -48,3 +48,7 @@ usenet archives
 	https://www.livinginternet.com/u/uu_arch.htm
 	blah
 
+
+all quakec usenet posts (including uuencoded bits)
+	http://discmaster.textfiles.com/browse/22004/Qoole%20for%20Quake%20(USA).7z/Qoole%20for%20Quake%20(USA).bin/Newsgrps
+	http://discmaster.textfiles.com/browse/22004/Qoole%20for%20Quake%20(USA).7z/Qoole%20for%20Quake%20(USA).bin/Newsgrps/quake_c
