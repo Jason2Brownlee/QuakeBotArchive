@@ -426,7 +426,6 @@ killer86b.txt
 killer87.txt
 knbot01.txt
 knbot02.txt
-knbot03.txt
 kqcbotsource.txt
 madness10.txt
 madness20.txt
@@ -491,7 +490,6 @@ voidm105.txt
 voidm106.txt
 voidm107.txt
 voidm108.txt
-voidm110.txt
 voidm111.txt
 voidm112.txt
 voidm113.txt

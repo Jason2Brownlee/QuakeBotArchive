@@ -1,0 +1,134 @@
+Title    : KarNag Bot
+Filename : knbot03.zip
+Version  : 0.3
+Date     : 97/2/28
+Author   : Ken Madlener aka kenzer
+Email    : madlener@pi.net
+Server   : -> 145.89.206.20 <-
+Credit   : .Punisher for the original BG-BOT v1.6
+           .Micheal Polucha (co-designer of Original TM bot)
+           .Tim Polucha (co-designer of Original TM bot)
+           .Nathaniel Gorham (Original DM bot)
+           .Carson Sutton for the better roaming AI
+           .my friends for giving me some advises (mostly useless)
+
+Type of Mod
+-----------
+Quake C  : yes
+Sound    : no
+MDL      : no (skins mode is supported)
+
+
+Format of QuakeC
+----------------
+unified diff  : no
+context diff  : no
+.qc files     : yes (but it's shit)
+progs.dat     : yes
+
+
+Description of the Modification
+-------------------------------
+This is my first publically release of the KNBot. I wanted to create a
+bot for my server. Yeah it's always empty. Well, after a time I couldn't
+figure out how to add names and colors to the scores of the bot so I
+decided to create this bot for the people playing Quake..
+I hope you'll like this bot, because I spent a lot of time on making this
+thing, but hey, I'm 14 years old!
+Don't expect too much from this beta version, but I think this bot is
+already cool. (except for the Reaper and the Zeus bot, wow these are just
+the cewlezt bots I've ever seen!)
+I think this is not a bad start for a bot, and I've got plenty ideas for
+the next versions! *Please e-mail me your suggestions, bug reports, etc.*
+
+How to Install the Modification
+-------------------------------
+Uhm it's the same ol' Quake patch joke, but here ya go..
+1. create a dir in your Quake directory where you put this patch in (knbot)
+2. start Quake with -game knbot and start a multiplayer game
+3. type impulse 100 on the console..
+
+Technical Details
+-----------------
+does:
+-> hunt everything in DM
+-> hunt only monsters in COOP (currently monsters aren't working, messed ai.qc)
+-> pickup stuff
+-> pick up the best he can find
+-> use intelligent roaming AI, it won't happen bots trying to walk
+   into walls everytime (used the code from roambot)
+-> use sidesteps
+-> walk faster
+-> not jump randomly (into walls & kinda stuff)
+-> jump in fight mode to confuse other players
+-> can use all weapons: axe, grenade launcher, thunderbolt added
+-> understand the range for the gren. launcher & thunderbolt
+-> walk to enemy if he has no better weapon than gr.lnchr or thndrblt
+-> pickup only health, armor, rocketlauncher when he has lower health
+   than his enemy
+-> follow enemies (especially when he as an axe)
+-> try to leave when player has godmode (but shoots again)
+-> search for stuff if he has lower health than enemy
+-> not stand on one place to fight the enemy
+-> use almost all player frames
+-> use rapidly nailgun shots
+-> avoid grenades and sometimes rockets
+-> respawn after death
+-> almost never get stuck
+-> he will look if there isn't another enemy firing at him 
+-> skins support (up to 16 skins, bot respawns in same skin (messy))
+-> funny comments (bots send messages)
+
+still needs:
+-> code to swim in water
+-> ability to die in water
+-> smoother moving
+-> walk over cracked floor
+-> _real_ search for triggers (working on it)
+-> pickup sounds
+-> better roaming ai (why not?)
+-> a major code-cleanup
+
+History
+-------
+version:
+-> 0.3: cleaned up the code
+        added some extra ai stuff
+        killed the "fire when alone"-bug
+        added comments
+        first public release
+
+-> 0.2: added Carson's roaming ai
+        improved jumping ai
+        all little stuff
+        not released
+
+-> 0.1: uses all weapons
+        faster movement
+        not released because of bad ai!
+
+Author Information
+------------------
+Kenzer: 14 years old. Own Quake server at -> 145.89.206.20 <-
+        live in The Netherlands, Tiel
+        real name: Ken Madlener
+        working time: +50 hours, yes I'm slow
+
+Copyright and Distribution Permissions
+--------------------------------------
+Authors MAY use these modifications as a HELP for other
+publically available work, but you MUST give me some credits.
+(it's nice to be credited :))
+
+You may do whatever you please with the contents of this archive,
+but give me credits and please mail me.
+
+Availability
+------------
+
+This modification is available from the following places: (I hope)
+
+FTP   : ftp.cdrom.com (walhalla of Quake)
+FTP   : ftp.stomped.com (good Quake archive)
+FTP   : ftp.canvasnet.com
+
