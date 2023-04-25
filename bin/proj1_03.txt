@@ -1,0 +1,54 @@
+Okey. It's my QUAKE Project1 v0.2 - test version.
+ Several QuakeC patches in one.
+
+ What we have now?
+
+ v0.1
+     All powerups (except biosuit) we can switch ON/OFF by "impulse 133"
+  (don't forget bind it to your favorite key).
+     When powerup switched OFF - it's still with us until we not die and
+  we can switch it ON at any time.
+     When we get "QUAD damage" but holding it OFF - AXE has quad power.
+     Backpacks can now exploding and explosing size/damage based on number
+  of rockets in.
+     YOUR backpack can now exploding - in case you have rockets in it -
+  with probability 2%. Explosing size/damage based on number of rockets in
+  your backpack.
+
+ v0.2
+     Probability of YOUR backpack exploding depending now from attacker weapon.
+  (from 1.5% SuperNailGun, Lightning - to 5% SuperShotGun).
+     When Quad damage turned OFF - no Quad sound.
+     ShotGun powered up.
+     SuperShotGun powered up, but reload time increased (DOOM style).
+     Added reload SOUND (temporary it's ammo touch sound).
+     Now we can see more blood.
+
+ v0.3
+     Added several new sounds and new sound events.
+     Added SuperShotGun reload sound from DOOM II (C) IdSoftware.
+
+
+ How to install it?
+   Copy zip file to your Quake directory. Unzip with key "-d".
+ Delete zip file and run "quake.exe -game project1".
+
+ Where you can get source code? In final release I'll include it.
+
+ Future plans:
+ New "player_run" model based on health and ammo quantity;
+ New weapon - BFG9000 model (I hope, I hope!);
+ Deathmatch 3 by Avatar
+ Teamplay -1
+ Pipebombs and HoloQuaker (such in Duke3D).
+ New additional sounds on many events.
+ Rockets and grenades can path throuth teleports.
+
+ May be you have several interesting ideas? Mail me -
+ peter@softjoys.ru
+
+
+                        Sincerely your Peter (Dragon__#quake)
+
+ P.S. Sorry for my english... From Russia with love.
+
