@@ -1,0 +1,83 @@
+ษอออออออออออออออออออออออออป
+บ  Title: Quake Project1  บ
+ศอออออออออออออออออออออออออผ
+
+Filename : proj1_16.zip
+Version  : 1.6
+
+Date     : 22/10/97
+
+Author   : Peter Porai-Koshits
+
+Email    : ppk@pop.convey.ru
+
+Credits  : ID Software for desiging Doom first and then bringing us Quake!
+
+
+ษอออออออออออออออป
+บ  Type of Mod  บ
+ศอออออออออออออออผ
+
+Quake C  : yes
+Sound    : yes
+MDL      : yes
+
+
+ษอออออออออออออออออออออป
+บ  Format of Quake C  บ
+ศอออออออออออออออออออออผ
+
+unified diff  : no
+context diff  : no
+.qc files     : yes
+progs.dat     : yes
+
+
+ษอออออออออออออออออออออออออออออออออออป
+บ  Description of the Modification  บ
+ศอออออออออออออออออออออออออออออออออออผ
+
+ Read manual.eng (english) or manual.rus (russian) for details.
+
+
+ษอออออออออออออออออออออออออออออออออออป
+บ  How to Install the Modification  บ
+ศอออออออออออออออออออออออออออออออออออผ
+
+Put proj1_16.zip to the same directory with quake.exe.
+Run "pkunzip -d proj1_16.zip"
+If you do not use the -d option the mod will not work correctly, if at all.
+If you are using WinZip, it is normally set to do this automatically.
+
+ษอออออออออออออออออออออออออออป
+บ  How to use Modification  บ
+ศอออออออออออออออออออออออออออผ
+
+Start your game with quake -game PROJECT1.
+
+ษออออออออออออออออออออป
+บ  Revision History  บ
+ศออออออออออออออออออออผ
+
+ See history.txt for details.
+
+ษออออออออออออออออออออออออออออออออออออออออออป
+บ  Copyright and Distribution Permissions  บ
+ศออออออออออออออออออออออออออออออออออออออออออผ
+
+Authors MAY use these modifications as a basis for other publically
+available, not-for-profit work, provided they inform the author of any
+modifications which are made.
+
+You may distribute this Quake modification in any electronic
+format as long as this description file remains intact and unmodified,
+is retained along with all of the files in the archive and the
+author's name and email address are never removed from the code,
+despite other modifications which might be made.
+
+If anyone would like to include this modification in a collection of Quake 
+modifications, whether for sale or otherwise, please contact me and let me 
+know about it.
+
+
+                                  Peter (Dragon) Porai-Koshits

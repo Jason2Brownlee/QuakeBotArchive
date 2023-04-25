@@ -214,6 +214,21 @@ pak2pak.zip
 placebot.zip
 prodigy35b1.zip
 progdet.zip
+proj1_01.zip
+proj1_02.zip
+proj1_03.zip
+proj1_04.zip
+proj1_06.zip
+proj1_09.zip
+proj1_10.zip
+proj1_11.zip
+proj1_12.zip
+proj1_14.zip
+proj1_15.zip
+proj1_92.zip
+proj1_93.zip
+proj1_99.zip
+proj1_qw_12beta.zip
 qcbot001.zip
 rakoolio.zip
 rbot.zip
@@ -343,6 +358,7 @@ zeus201b.zip
 zeus202b.zip
 zeus20b.zip
 
+
 # mac stuff
 frogbot012.sit
 hwqwbot.sit
@@ -425,6 +441,21 @@ maniac53.txt
 maniac54.txt
 maniac56.txt
 maniacbt12.txt
+proj1_01.txt
+proj1_02.txt
+proj1_03.txt
+proj1_04.txt
+proj1_06.txt
+proj1_09.txt
+proj1_10.txt
+proj1_11.txt
+proj1_12.txt
+proj1_14.txt
+proj1_15.txt
+proj1_92.txt
+proj1_93.txt
+proj1_99.txt
+proj1_qw_12beta.txt
 qcbot001.txt
 qcbot002.txt
 rbot.txt

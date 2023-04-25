@@ -2905,6 +2905,44 @@ rpbot.zip
 	rpbot.zip
 	ripper or ripper bot (based on config)
 	language: krio
+Quake Project1
+	https://groups.google.com/g/rec.games.computer.quake.quake-c/c/iaZWw_vQY2E/m/5m9xrdaE_L4J
+		ftp.softjoys.ru/entert/3d_games/newstuff/proj1_14.zip
+		proj1_14.zip
+	reaper bot extension
+	https://groups.google.com/g/fido7.kharkov.files/c/QTQZW_or8sw/m/jD0pCX9vWUMJ
+		PROJ1_14.RAR
+	https://groups.google.com/g/relcom.games/c/udfrJAu4pEM/m/fYTY1QHkUi4J
+		Reaper_Project1
+		PROJ1_14.TXT
+		PROJ1_14.ZIP
+		PROJPROG.TXT
+		PROJPROG.ZIP
+	http://discmaster.textfiles.com/browse/14534/IMAGE.img/quake/niveles/addons/proj1_13.zip
+		proj1_13.zip
+		QUAKE Project1 v1.3
+		no bot in this version...
+	https://groups.google.com/g/fido7.ru.game.doom/c/e3cshpCpVmM/m/Jos2AmjCEcMJ
+		ftp://pcweek-2.wave.ras.ru/pub/id/quake/proj1_14.zip
+	https://groups.google.com/g/fido7.dn.fileecho/c/LrL0VVLi3sI/m/qL2JWGYZ3l0J
+		PROJ1_14.ZIP 958311 06-Apr-97 Quake Project1 v1.4b (C) Peter Porai-Koshits
+	https://groups.google.com/g/relcom.games/c/IdpLEane6l8/m/lG5j9FobEEIJ
+		ftp://ftp.convey.ru/pub/quake/proj1_14.zip
+	https://groups.google.com/g/fido7.dn.games/c/fTkKMROX-po/m/FBe0Xxxc1bkJ
+		proj1_14.zip - последняя веpсия
+		proj_tmp.zip - текущая бета (только изменившиеся файлы)
+		http://www.frag.com/qchq/project1.html
+	https://www.quaddicted.com/files/idgames2/quakec/compilations/proj1_16.txt
+	https://www.quaddicted.com/files/idgames2/quakec/compilations/proj1_16.zip
+		reaper
+	http://annex.retroarchive.org/cdrom/cotc-21/DOOM/PROJ1_05.ZIP
+	http://www.cdrom.com:80/pub/idgames2/quakec/compilations/
+		https://web.archive.org/web/19970609212946/http://www.cdrom.com:80/pub/idgames2/quakec/compilations/
+			proj1_13.txt
+			proj1_13.zip
+			proj1_qw_12beta.txt
+			proj1_qw_12beta.zip
+
 
 
 
