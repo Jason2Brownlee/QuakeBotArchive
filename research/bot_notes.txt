@@ -2906,6 +2906,7 @@ rpbot.zip
 	ripper or ripper bot (based on config)
 	language: krio
 Quake Project1
+	Peter Porai-Koshits
 	https://groups.google.com/g/rec.games.computer.quake.quake-c/c/iaZWw_vQY2E/m/5m9xrdaE_L4J
 		ftp.softjoys.ru/entert/3d_games/newstuff/proj1_14.zip
 		proj1_14.zip
@@ -2942,9 +2943,15 @@ Quake Project1
 			proj1_13.zip
 			proj1_qw_12beta.txt
 			proj1_qw_12beta.zip
-
-
-
+	https://groups.google.com/g/fido7.game.doom/c/eX6t0JwlUg0/m/YMhd9T7BflEJ
+		ftp://ftp.softjoys.ru/entert/3d_games/newstuff/
+	https://groups.google.com/g/fido7.game.doom/c/czbn22-pIxo/m/3t4RgV_P50QJ
+	https://groups.google.com/g/relcom.netnews.big/c/-y42CDqVITY/m/Qgx8mQ5yOGAJ
+	https://groups.google.com/g/relcom.games/c/beewRwIiijw/m/u33wy709y5YJ
+	https://groups.google.com/g/relcom.games/c/Be6cEhHbZQ4/m/3T1z6lgI4fEJ
+	https://groups.google.com/g/relcom.games/c/udfrJAu4pEM/m/fYTY1QHkUi4J
+	https://groups.google.com/g/relcom.games/c/IdpLEane6l8/m/lG5j9FobEEIJ
+	https://web.archive.org/web/19981205124843/http://www.quake.convey.ru/
 
 
 

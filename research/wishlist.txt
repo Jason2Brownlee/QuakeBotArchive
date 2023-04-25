@@ -355,6 +355,7 @@ zeus201.zip
 zeus201b.zip
 zeus202b.zip
 zeus20b.zip
+proj_tmp.zip
 
 
 # mac stuff
@@ -456,7 +457,6 @@ proj1_16.txt
 proj1_92.txt
 proj1_93.txt
 proj1_99.txt
-proj1_qw_12beta.txt
 qcbot001.txt
 qcbot002.txt
 rbot.txt

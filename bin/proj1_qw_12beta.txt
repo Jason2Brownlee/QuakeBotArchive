@@ -1,0 +1,46 @@
+         proj1_qv_12beta.zip  -  QUAKE Project1 for QuakeWorld v 1.2 beta
+
+
+Okay. It's my QUAKE Project1 for QuakeWorld v1.2beta 
+Way beta? Cause I don't have QuakeWorld client software. If You have -
+ please test it and mail me.
+
+    Dozens of QuakeC patches in one. Deathmatch code completely rewritten!
+
+=============================================================================
+    New weapons: BFG and Throwing Axes (with several new features).
+    Exploding backpacks (lots of features and effects).
+    Drop/Trade backpacks feature for deathmatch/teamplay.
+    All powerups can be switched ON/OFF.
+    MultiSkin 1.1 (with Dead body MultiSkin!).
+    Rockets/Nails/etc. can pass through teleports.
+    There are several blood effects with dead bodies - blood trails when you 
+    walk/run over someone, and when you kill someone in the water they float 
+    to the top leaving a blood trail.
+    Weapons are more like in DOOM - SSG's powered up significantly. Rockets 
+    slowed down. All weapon critically pretuned - lot's hours of net playtesting.
+    Game speeded up, etc.
+    "Deathmatch 3", "deathmatch 69", "teamplay 2" added.
+    Observer mode.
+    Nails ricochet from walls.
+    You can edit deathmatch maps "on the fly" - during the game (Admin mode).
+    You can save your edited levels for future games.
+    Grappling Hook v2.3
+    Many new deathmatch messages (you can switch part of messages ON/OFF)
+    Many new cool sounds.
+    Lots of other effects and features.
+    You can switch off several parts of Project1.
+    You can disable all external models/sounds - for running Project1 server
+     in Internet.
+    Fully addopted for QuakeWorld!
+
+    Sorry, I don't have time to write a manual, for more details please
+    read history.txt (english). 
+
+
+                        Sincerely yours Peter (Dragon__#quake)
+                                                        
+    Peter Porai-Koshits
+    peter@softjoys.ru
+    2:5030/133.8
+                                          
