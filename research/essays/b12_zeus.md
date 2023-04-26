@@ -193,20 +193,21 @@ It also appears in the bots directory.
 
 A copy of the zip for this release cannot be located.
 
-The readme lists the release date as the 20th of December, 1996.
+The readme lists the release date as the 19th of December, 1996.
 
 ```
 =============================
-Title    : ZEUSbot 2.03 beta
+Title    : ZEUSbot 2.02 beta
 =============================
 
-Filename : ZEUS203B.ZIP
-Version  : 2.03
-Date     : 12/20/96
+Filename : ZEUS202B.ZIP
+Version  : 2.02
+Date     : 12/19/96
 Author   : Jonathan E. Wright aka Nelno the Amoeba
+...
 ```
 
--- zeus203b.txt
+-- zeus202b.txt
 
 The file timestamps on ftp.cdrom.com suggest one day earlier on the 19th, and is taken as the release date.
 
@@ -224,7 +225,7 @@ Home Page: http://trailerpark.com/phase1/nelno
            that you don't have the latest version.
 ```
 
--- zeus203b.txt
+-- zeus202b.txt
 
 The author also does not list the TMBot and DMBot in the credit sections, highlighting the entirely new direction he had taken with the project, starting in version 2.
 
@@ -233,7 +234,7 @@ Credits  : ID Software for designing Quake with Quake C!
            Otherwise, this bot was built from scratch.
 ```
 
--- zeus203b.txt
+-- zeus202b.txt
 
 
 The version 2 of the mod was a major rewrite and it appears that the code for this version was being withheld.
@@ -246,7 +247,7 @@ source WILL BE RELEASED, but until then, you'll have to get your tidbits
 from the next release of Cujo.
 ```
 
--- zeus203b.txt
+-- zeus202b.txt
 
 Jonathan had doubled down on the bot as a deathmatch opponent, although still supports the bot as a single player helper.
 
@@ -256,15 +257,18 @@ he will effectively annihilate just about anything that get's in his way,
 and you'll be lucky if you can pick anything up before he does.
 ```
 
+-- zeus202b.txt
+
 He also calls out the Reaper Bot by name as another top-level bot at this time and perhaps a peer with the ZeusBot in terms of capabilities at the time.
 
 ```
 The ZEUSbot's death match capabilities are currently under development, but
 it's still probably the most intelligent bot available, excepting Steven
-Polge's excellent Reaper bot.
+Polge's excellent Reaper bot.  Please see the list of future enhancements
+for an idea of features that will be added to the ZEUSbot.
 ```
 
--- zeus203b.txt
+-- zeus202b.txt
 
 This release lists many features of the bot including being able to use all weapons, pick up all items, jump into water, and much more.
 
@@ -275,7 +279,7 @@ Has *totally new* movement code which makes it the smoothest bot ever
 made --   just as smooth as a player character, no jumpiness or blitting.
 ```
 
--- zeus203b.txt
+-- zeus202b.txt
 
 The changelog for this release is extensive, listing many bug fixes and features.
 
@@ -285,7 +289,7 @@ It does include some of the authors other mods, such as the plasma gun weapon mo
 can fire all of the standard weapons, plus the plasma gun (included in this mod).
 ```
 
--- zeus203b.txt
+-- zeus202b.txt
 
 The readme also includes details about the author.
 
@@ -301,7 +305,7 @@ proficient in several programming languages -- 80x86 assembly, C and Pascal
 being the most notable -- I also draw and write music in my spare time.
 ```
 
--- zeus203b.txt
+-- zeus202b.txt
 
 
 
@@ -336,6 +340,7 @@ A copy of the release was donated to the Quake Bot Archive.
 
 The version donated appeared to have been taken from a BBS as it had the telltale FILE_ID.DIZ file, added on the 26th of December and a "TMP.OUT" file added 6 months later. Also, the directory structure for the mod had been removed, where sound files, sprites and model files were all placed in the root directory instead of subdirectories.
 
+```
     528 24 Jul  1997 TMP.OUT
      73 26 Dec  1996 FILE_ID.DIZ
    6515 20 Dec  1996 CONFIG.CFG
@@ -348,12 +353,14 @@ The version donated appeared to have been taken from a BBS as it had the telltal
    5560  5 Dec  1996 S_PLASMA.SPR
   11828  5 Dec  1996 PLASEXPL.WAV
    5780  5 Dec  1996 PLASMA.WAV
+```
 
 The readme file now has the filename "zeus.txt" instead of the expected "zeus203b.txt"
 
 The source code is also missing from the release, as mentioned in the readme for the previous release.
 
 
+```
     =============================
     Title    : ZEUSbot 2.03 beta
     =============================
@@ -362,6 +369,7 @@ The source code is also missing from the release, as mentioned in the readme for
     Version  : 2.03
     Date     : 12/20/96
     Author   : Jonathan E. Wright aka Nelno the Amoeba
+```
 
 -- zeus.txt
 
@@ -404,9 +412,11 @@ BluesNews was, and remains, a popular gaming news website. It announced the rele
 
 The archive contains a readme file, a changelog and a PACK file.
 
+```
  944154  8 Jan  1997 PAK0.PAK
    3217  8 Jan  1997 WHATSNEW.TXT
   23829  8 Jan  1997 ZEUS.TXT
+```
 
 This shows a simplified layout to the mod, matching the  layout of the cujo bot mod by the same author, released around the same time (e.g. cujo v1.4.).
 
@@ -499,9 +509,11 @@ This version too must have been announced on bluesnews, but the announcement was
 
 The zip contains the three same files as the previous release.
 
+```
  944306  9 Jan  1997 PAK0.PAK
   23910  9 Jan  1997 ZEUS.TXT
    3217  8 Jan  1997 WHATSNEW.TXT
+```
 
 The date in the readme file is listed as the 8th, the same as the previous release, although the timestamp of the files suggest perhaps the 9th, one day later.
 
@@ -547,9 +559,11 @@ It was also the last release of the bot for some time. As such it was archived i
 
 The archive contained the same 3 files.
 
+```
    9549  9 Jan  1997 WHATSNEW.TXT
  944278  9 Jan  1997 PAK0.PAK
   24405  9 Jan  1997 ZEUS.TXT
+```
 
 The file time stamp was the same as the previous bug fix release, suggesting that bluesnews probably announced the first bug fix release, then updated it to refer to the second bug fix releases on the same day.
 
@@ -611,19 +625,23 @@ It was released as zeus205.zip and zeus205s.zip.
 
 It was on ftp.cdrom.com, where it remained a part of the archive.
 
-    zeus205.txt            03-Jun-97 18:50     1k
-    zeus205.zip            03-Jun-97 18:47   370k
-    zeus205s.txt           03-Jun-97 18:50     1k
-    zeus205s.zip           03-Jun-97 18:47   213k
+```
+zeus205.txt            03-Jun-97 18:50     1k
+zeus205.zip            03-Jun-97 18:47   370k
+zeus205s.txt           03-Jun-97 18:50     1k
+zeus205s.zip           03-Jun-97 18:47   213k
+```
 
 -- [http://www.cdrom.com:80/pub/idgames2/quakec/bots/](https://web.archive.org/web/19970609212728/http://www.cdrom.com:80/pub/idgames2/quakec/bots/) (archived June 09 1997)
 
 The file contained the the readme, changelog, the PAK file containing the models, sounds, sprites and compiled game code. A separate progs directory was created for the payer model, allowing users to modify it for multi-skin support.
 
+```
  746442  3 Jun  1997 PAK0.PAK
      96  3 Jun  1997 PROGS
    3542  3 Jun  1997 WHATSNEW.TXT
   30473  3 Jun  1997 ZEUS.TXT
+```
 
 The release date indicates the release was made on June 3rd, and this date matches the timestamps of files in the zip and the FTP timestamps.
 
@@ -681,9 +699,11 @@ This allows the bot to be enjoyed by players by connecting to a server running t
 
 The server version is simpler, containing just the compiled game code, release notes and changelog.
 
+```
  639992  3 Jun  1997 PROGS.DAT
   30820  3 Jun  1997 ZEUS.TXT
    7496  3 Jun  1997 WHATSNEW.TXT
+```
 
 The following day, bluesnews reported that Jonathan's .plan file had been updated to report a bug about a crashing bug when running the bot on very large maps.
 
@@ -844,8 +864,8 @@ He comments that the had not looked at the code for a long time, and just wanted
 ## Release Timeline
 
 * ZeusBot v1.0, zeus10.zip, September 28 1996
-* ZeusBot v2.0, zeus20.zip, 1996
-* ZeusBot v2.01, zeus201.zip, 1996
+* ZeusBot v2.0, ?, ? 1996
+* ZeusBot v2.01, ?, ? 1996
 * ZeusBot v2.02b, zeus202b.zip, December 19 1996
 * ZeusBot v2.03b, zeus203b.zip, December 20 1996
 * ZeusBot v2.04, zeus204.zip, January 08 1997
