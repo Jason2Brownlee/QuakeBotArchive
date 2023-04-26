@@ -1,0 +1,20 @@
+Do-it-yourself Reaper
+
+I am sure most of you know this already, but I will tell you how to obtain the Reaper Source code.
+
+First - download the Reaper Bot ver 0.81. I have it here. (164 KB)
+http://www.mindspring.com/~win32ch/reaprb81.zip
+
+Second - download the ProQcc compiler/decompiler. I have it here. (87 KB)
+http://www.mindspring.com/~win32ch/proqc160.zip
+
+Third - download the rip011a.txt file. I have it here. (34 KB) This text file will instruct you on how to decompile and create a readable, compilable Reaper source.
+http://www.mindspring.com/~win32ch/rip011a.txt
+
+If this seems like too much work, here is the decompiled Reaper Bot source code (compressed down to 106 KB).
+http://www.mindspring.com/~win32ch/Source.zip
+
+
+http://www.mindspring.com/~win32ch/Reaper.htm
+https://web.archive.org/web/20000117231057/http://www.mindspring.com/~win32ch/Reaper.htm (archived Jan 17 2000)
+
