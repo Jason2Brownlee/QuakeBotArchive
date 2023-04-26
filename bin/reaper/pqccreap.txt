@@ -1,0 +1,15 @@
+Hopefully this will shut you up, I included the decompiled code. It is
+complete, and nearly accurate to the original, however the decompiler can't
+differenciate global constants, so those are often misnamed. It took about
+twice as long to do with PQCC than it did with ACCQC, but I figured you
+wanted "C" like code, not QuakePascal. Still, it was only about 4 minutes
+of work on my part. No code is missing, nothing is commented out. And if
+you use this for purposes other than personal education without Steven
+Polge's permission, well, bad things will happen.
+
+Ken
+
+
+Ken Alverson
+21 June 1997
+https://groups.google.com/g/rec.games.computer.quake.quake-c/c/pb_PTSRMLts/m/GQ8zk8xW35AJ
