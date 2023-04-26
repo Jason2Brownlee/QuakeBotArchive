@@ -15,6 +15,9 @@ If this seems like too much work, here is the decompiled Reaper Bot source code 
 http://www.mindspring.com/~win32ch/Source.zip
 
 
+From:
+
+win32ch
 http://www.mindspring.com/~win32ch/Reaper.htm
 https://web.archive.org/web/20000117231057/http://www.mindspring.com/~win32ch/Reaper.htm (archived Jan 17 2000)
 
