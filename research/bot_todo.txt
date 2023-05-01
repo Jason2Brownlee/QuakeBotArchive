@@ -109,6 +109,10 @@ Legion of Doom
 	has bgbots and cujo
 	http://discmaster.textfiles.com/view/22092/SSERVCD_50B.bin/3d_extra/quake-tc/lodoom/lodb1.txt
 	Roscoe A. Sincero
+Pro-X
+	frikbots
+	https://web.archive.org/web/20040213091151/http://www.qexpo.com/booths.php?id=25
+	https://web.archive.org/web/20040119224836/http://www.qexpo.com/uploaded/25/readme.txt
 
 
 David Love

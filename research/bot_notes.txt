@@ -1850,10 +1850,23 @@ The Alf
 	https://web.archive.org/web/19990125093758/http://www.botepidemic.com/
 	http://members.xoom.com/the_alf
 		https://web.archive.org/web/19990125093758/http://members.xoom.com/the_alf
+		https://web.archive.org/web/20010626222706/http://members.nbci.com/the_alf
 	Bjorn-Erik Solli aka "Jack O. Trade"
 	http://members.nbci.com/nnctf.zip
+		nnctf.zip
 	http://members.nbci.com/nnsource.zip
+		nnsource.zip
 	extends dark ctf
+	clan
+		http://www.nerds.with.no.net/
+		https://web.archive.org/web/19981205064607/http://www.nerds.with.no.net/
+	homepage
+		http://home.sol.no/~the_alf/
+		https://web.archive.org/web/19981202013226/http://home.sol.no/~the_alf/
+	not related to "noname ctf" for unreal
+		http://www.captured.com/nonamectf/
+		https://web.archive.org/web/19981206101743/http://www.captured.com/nonamectf/
+		http://discmaster.textfiles.com/view/23199/Gamestar_05_1999-05_cd1.bin/cdstar/unreal/mods/ctf/NnCTF051.exe/SYSTEM/nnctf_readme.txt
 FrikBot + Rocket Arena / BotArena
 	botarena.zip (compiled) and ba_scr.zip (source)
 	https://web.archive.org/web/20031223065821/http://www.vegetous.cjb.net/

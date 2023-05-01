@@ -1,0 +1,157 @@
+
+
+	T E A M   F O R T R E S S   B O T S
+	----------------------------------------------------------
+
+
+	Beta v0.7    7.12.03
+
+	Team Fortress by Robin Walker, John Cook, Ian Caughley
+
+	Maps by the map authors
+
+	Models by Dox
+
+	Bots by Darryl 'coffee' Atchison
+
+
+
+ 
+
+QUICK START:
+
+
+1) Make sure you have TomazQuake 1.46
+2) Make sure you have Team Fortress 2.8 which can be found here:
+
+	http://www.thegamebox.net/files/Planet_Quake/teamfortress/tf28inst.exe
+
+	or here:
+
+	http://www.fileplanet.com/index.asp?section=618&file=27370
+
+
+3) Unzip my TFBots07 into your TF directory
+4) Start a game with a command line like this:
+
+	C:\Quake\TQ146.exe -game fortress +deathmatch 1 -listen 16
+
+5) To start a game type 'map begin' in the console 
+
+ 
+
+ 
+IMPORTANT NOTE:
+
+
+Make sure your pak files are numbered sequentially. 
+Some things are different in this Team Fortress. That is, some rules and
+entities have been slightly altered to deliver a solid single player experience.
+I have not does this because I wanted to; simply put, this is the version of TF that
+I am capable of coding, and the version of TF that the bots are capable of playing.
+
+If you are skeptical or cynical about this, you won't have any fun. But if you keep
+an open mind and you enjoy QuakeC bot mods, you will have a good time.
+Perhaps a very good time. Indeed, I think this is my finest work. These bots will
+capture flags, kill presidents, and in general kick yo skinny white ass.
+
+ 
+GAMEPLAY MODES:
+
+
+Deathmatch 1:	Cature the Flag: snatch the enemy flag and bring it back to yours.
+		Capture points have been removed for now.
+
+Deathmatch 3:	Assassination: each team has a president in their fort. Kill the
+		enemy chief executive to score. He will respawn in 30 seconds.
+
+Deathmatch 4:	One-Flag Domination: a flag is spawned in the middle of the map.
+		Touch it to take control and earn points.
+
+Deathmatch 5:	Occupation: one team is chosen to defend their base, while the
+		other must attack it. Penetrate to the core of the base, and stay there
+		as long as possible. The attackers get points for each teammate that
+		occupies the defender base core.
+
+Deathmatch 6:	Sabotage: each team has a generator in their base. Destroy it to
+		score. The fastest way is to detpack it.
+
+Deathmatch 7:	FortBall: like football, a ball will spawn in the middle of the map. grab
+		it and run it deep into the enemy fort to earn a touchdown
+
+Canal Zone 2K:	There are four command points throughout the map. Take control
+		of these to score points.
+
+The Rock:		Flip the switch in the enemy fortress to execute their team.
+
+ 
+TIPS:
+
+* try all bot skill settings
+* bind important commands to keys!
+* turn on the status bar with "sbar_on"
+* for the sniper, turn on autozoom with "autozoom"
+* some of the maps astounded me. even if you are a longtime TF fan, you
+should check out as many as you can
+* mix and match gameplay modes and maps. you'll get interesting situations
+
+ 
+COMMANDS:
+
+These can be typed into the console but I recommend binding
+them, for example bind n "nextbot"
+
+addbot: bring up bot menu
+botteam: change their team
+botskill: change their skill
+botspeed: adjust bot speed
+nextbot: create a random bot (teams will be evened)
+attack: order a bot to attack enemy base
+defend: order a bot to defend your fort
+escort: tell a bot to escort you
+report: see what bots are doing
+heal: ask a medic to heal you
+
+
+
+FILE CONTENTS:
+
+wpts		waypoint files
+(pak0		should be TF stuff)
+pak1		dox's weapons
+pak2		dox's sniper
+pak3		bot support files
+(pak4		should be map pack 1)
+progs.dat		bot program
+
+
+ 
+PLAYTESTING AND VERSION NOTES:
+
+
+* keep in mind that this is a beta version, so everything will improve
+* i hope you can send me some of your thoughts on the TFBots
+* i'm sure there are many little discrepancies, but i'd rather hear what you
+think is fun or dull
+* please keep remarks constructive
+* remember that these guys aren't Unreal Tournament bots, this is good old-
+fashioned QuakeC stuff. i also had no help at all
+* if you want to see new features or changes, tell me! i will pay attention
+* if you have anything to say all, send email or a message over ICQ
+* i will release waypointing info in a future version
+* thanks to anyone who has downloaded this file
+* thanks to JLSoft and Rocko for great playtesting remarks
+* thanks to scar3crow for the booze, drugs and hookers. oh, and the moral 
+support
+* fyi, i've been working on this on-and-off for about five years
+
+ 
+CONTACT INFO:
+
+
+Please do not modify or redistribute this source code. Thanks.
+Darryl 'coffee' Atchison
+Email:coffee@planetquake.com
+Url: http://www.planetquake.com/minion
+ICQ: 2716002
+

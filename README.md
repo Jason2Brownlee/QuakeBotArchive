@@ -223,7 +223,7 @@ Team Fortress (TFBot) | Jeff aka "wattsup" | [tfbot077.zip](bin/tfbot077.zip)<br
 Team Fortress (TFBot) | Joern Strombach aka "Nexus" | [tfbot080.zip](bin/tfbot080.zip)
 Team Fortress (TFBot) | Wolfgang Lehrach aka "RainKing" | tfb-v07.zip ([txt](bin/tfb-v07.txt))
 Team Fortress + Frikbot (Frik-TF) | Raymond Martineau | friktf-051901.zip<br>[friktf-092800.zip](bin/friktf-092800.zip)<br>[friktf-092800-src.zip](bin/friktf-092800-src.zip)<br>friktf-092800-qw.zip<br>friktf-092800.tar.gz<br>[friktf-051800.zip](bin/friktf-051800.zip)<br>[friktf-051800-qw.zip](bin/friktf-051800-qw.zip)<br>[friktf-051800-src.zip](bin/friktf-051800-src.zip)<br>frik-tf.zip<br>[friktfqw.zip](bin/friktfqw.zip)
-Team Fortress + Tutor | Darryl Atchison aka "coffee" | [tf_bots07.zip](bin/tf_bots07.zip)
+Team Fortress + Tutor | Darryl Atchison aka "coffee" | [tf_bots07.zip](bin/tf_bots07.zip) ([txt](bin/tf_bots07.txt))
 Team Fortress Bot  | Valery Schedrin aka "Forthpick" | [teamfbot.zip](bin/teamfbot.zip)
 TeamTalk+ FMOD (Frogbot) | Algirdas Kepezinskas aka "ZeCybEr" | [ttalk.zip](bin/ttalk.zip)
 The Alf | Bjorn-Erik Solli aka "Jack O. Trade" | nnctf.zip<br>nnsource.zip
