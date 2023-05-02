@@ -1,0 +1,117 @@
+Okey. It's my QUAKE Project1 v0.5 - test version.
+ Several QuakeC patches in one.
+
+=============================================================================
+
+ What we have now?
+
+ v0.1
+     All powerups (except biosuit) we can switch ON/OFF by "impulse 133"
+     (don't forget bind it to your favorite key).
+     When powerup switched OFF - it's still with us until we not die and
+     we can switch it ON at any time.
+     When we get "QUAD damage" but holding it OFF - AXE has quad power.
+     Backpacks can now exploding and explosing size/damage based on number
+     of rockets in.
+     YOUR backpack can now exploding - in case you have rockets in it -
+     with probability 2%. Explosing size/damage based on number of rockets 
+     in your backpack.
+
+ v0.2
+     Probability of YOUR backpack exploding depending now from attacker weapon.
+     (from 1.5% SuperNailGun, Lightning - to 5% SuperShotGun).
+     When Quad damage turned OFF - no Quad sound.
+     ShotGun powered up.
+     SuperShotGun powered up, but reload time increased (DOOM style).
+     Added reload SOUND (temporary it's ammo touch sound).
+     Now we can see more blood.
+
+ v0.3
+     Added several new sounds and new sound events.
+     Added SuperShotGun reload sound from DOOM II (C) IdSoftware.
+
+ v0.4
+     Added Multiskin v1.1
+     Fixed SuperShotGun "overflow" bug.
+     Fixed SuperShotGun "sound" bug.
+     SuperShotGun now can't GIB player.
+     Pretuned several internal constants.
+     Changed missile model (slowed down, damage range changed from 100-120%
+     to 90-150%).
+     Rockets, grenades, nails now can pass trhough teleports (not always).
+ 
+ v0.5
+     "Rocket vector after teleport" bug fixed.
+     You wanted "gibing" player body's? I did it. 
+     Another one "bloodest" effect added... Sure, you will see it. 
+     Added "deathmatch 3" by Avatar (with minor changes). 
+     What is it :
+--------------------------------------------------------------------------
+        Deathmatch3 includes the following changes:
+
+        Weapons act like they do in deathmatch 2, each player can pick them
+        up one time per life.
+        Health and ammo respawning after random period of time 20-40 gametics. 
+        Armor and MegaHealth spawns after 20-50 gametics.
+        Quad damage and biosuit spawns at 10-110 gametics, and the other 
+        power ups in 10-510 gametics.
+
+        To use deathmatch3 in the game, the server must type deathmatch 3
+        at the console (or +deathmatch 3 at startup) and then start a new
+        level.
+
+        Thanks to -*Avatar*-
+--------------------------------------------------------------------------
+  
+     "teamplay 69" added. What is it:
+        Player can damage/kill his teammate and loosing one frag in
+        this case. No stupid "no friends damage" now. 
+     Several new "teamplay 69" messages added.
+     To use "teamplay 69" in the game, the server must type "teamplay 69"
+     at the console (or +teamplay 69 at startup) and then start a new
+     level.
+
+=========================================================================
+
+ How to install it?
+     Copy zip file to your Quake directory. Unzip with key "-d".
+     Delete zip file and run "quake.exe -game project1".
+
+ Containing files:
+ \PROJECT1\progs.dat
+ \PROJECT1\PROGS\player.mdl
+ \ID1\SOUND\PROJECT1\billy.wav
+ \ID1\SOUND\PROJECT1\deathhi.wav
+ \ID1\SOUND\PROJECT1\haha.wav
+ \ID1\SOUND\PROJECT1\pain.wav
+ \ID1\SOUND\PROJECT1\reload.wav
+
+ You CAN play on Project1 Quake servers WITH OUT this files, but 
+ you will receive warning messages (Coudn't load /sound/project1/*.wav).
+
+============================================================================
+
+ If You will run your own Quake server with Project1 patch connected to
+ Internet - please include to your hostname something as "Project1_v0.5". 
+ For example:
+ quake -dedicated 16 -game project1 +hostname Texas_Project1_v0.5 +map start
+
+============================================================================
+
+ Where you can get source code? In final release I'll include it.
+
+ Future plans:
+
+ New weapon - BFG9000 model (I hope, I hope!);
+ Deathmatch 69 (my own version)
+ Pipebombs and HoloQuaker (such in Duke3D).
+
+
+ May be you have several interesting ideas? Mail me -
+ peter@softjoys.ru
+
+
+                        Sincerely yours Peter (Dragon__#quake)
+
+ P.S. Sorry for my english... From Russia with love.
+
