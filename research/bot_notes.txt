@@ -1509,41 +1509,93 @@ TFBots (coffee)
 		JLsoft was a play tester...
 		https://www.reddit.com/user/JLsoft/
 		contacted on reddit re older versions
-TFBot (RainKing / GentleMan / Hoerno/Nexus)
-	GentleMan, formerly known as RainKing
-		https://web.archive.org/web/19980614160135/http://www.inside3d.com/nov16-nov17.shtml
-	https://web.archive.org/web/20000831165233/http://planetquake.com/botshop/quake.html
-	http://www.planetquake.com/tfbot
-	https://web.archive.org/web/20000303070145/http://www.botepidemic.com/bots/quake.shtml
-	"RainKing"
-	bot for team fortress...
-	https://web.archive.org/web/19990203170848/http://planetquake.com/tfbot/
-	https://web.archive.org/web/19991009024128/ftp://ftp.cdrom.com/pub/idgames2/planetquake/tfbot/tfbot080.zip
-	https://dukeworld.com/planetquake/tfbot/
-	does not unzip, had to use another program
-	no source or readme, not sure what it's based on...
-	older versions have src
-		https://dukeworld.com/planetquake/tfbot/TFBot076.zip
-		based on not skeleton
-	"GentleMan"
-	http://www.pro-net.co.uk/home/wolfg_l/
-	https://web.archive.org/web/19990127110318/http://www.pro-net.co.uk/home/wolfg_l/
-	https://www.quakewiki.net/archives/botarea51/main/qbot2e5f.html?id=22
-	Hoerno/Nexus ?
-		Joern Strombach /
-		maybe a fix for the prior version by "GentleMan"?
-	https://web.archive.org/web/19990218040426/http://www.planetquake.com/qca/reviews/patch107.htm
-	https://web.archive.org/web/20001011101258/ftp://ftp.cdrom.com/pub/quake/planetquake/qca/tfb-v07.zip
+TFBOTS (tfb-v07.zip, tfb-v076.zip)
+	https://www.bluesnews.com/archives/aug97-1.html
+		Sunday, August 3, 1997
+		The TeamFortress Bot page has news on the progress of the TF Bot...
+		http://www.pro-net.co.uk/home/wolfg_l/
+	https://www.bluesnews.com/archives/aug97-4.html
+		Monday, August 25, 1997
+		The TeamFortress Bot Project is now at www.lockandload.com/tfbot/.
+	https://www.bluesnews.com/archives/sept97-4.html
+		Tuesday, September 30, 1997
+		Replacing version 0.75 !?
+		https://www.bluesnews.com/files/patches/bots/tfb-v076.zip
+			tfb-v076.zip
+			not archived
+		https://www.bluesnews.com/files/patches/bots/tfb-v076.txt
+			tfb-v076.txt
+			not archived
+	http://www.planetquake.com/qca/reviews/patch107.htm
+		https://web.archive.org/web/20001011101258/http://www.planetquake.com/qca/reviews/patch107.htm
+		http://www.lockandload.com/tfbot/
+		TF Bot Beta
+		by RainKing
+		http://www.planetquake.com/qca/reviews/patch107.txt
+			patch107.txt
+			https://web.archive.org/web/20010526215517/http://www.planetquake.com/qca/reviews/patch107.txt
+		ftp://ftp.cdrom.com/pub/quake/planetquake/qca/tfb-v07.zip
+			tfb-v07.zip
+			not available...
 	http://www.lockandload.com/tfbot/
-	tfb-v07.zip
-		???
+		homepage
+		not archived
+	http://planetquake.com/botshop/quake.html
+		https://web.archive.org/web/20000831165233/http://planetquake.com/botshop/quake.html
 		RainKing
-	are there two tfbots???? or three
-	https://www.bluesnews.com/files/patches/bots/tfb-v076.zip
-	more research to do here...
-	Wolfgang Lehrach / RainKing
-		moved on from the project around: Sunday, November 16, 1997
-		https://www.bluesnews.com/archives/nov97-3.html
+	http://www.pro-net.co.uk/home/wolfg_l/
+		https://web.archive.org/web/19990127110318/http://www.pro-net.co.uk/home/wolfg_l/
+		nothing
+	http://www.inside3d.com/nov16-nov17.shtml (1997)
+		https://web.archive.org/web/19980614160135/http://www.inside3d.com/nov16-nov17.shtml
+		https://web.archive.org/web/19980614160114/http://www.inside3d.com/nov14-nov15.shtml
+		by GentleMan aka RainKing, wolfg_l@pro-net.co.uk
+		Looking for someone to takeover the project
+	https://www.bluesnews.com/archives/nov97-3.html
+		Sunday, November 16, 1997
+		The following post on the TeamFortress Bot page reveals the author Wolfgang Lehrach is looking to pass along the reigns ...
+	https://gynkillers.tripod.com/arquivos.htm
+		http://www.lockandload.com/tfbot/tfb-v076.zip
+		ftp://ftp.cdrom.com/pub/idgames2/planetquake/tfbot/tfbot077.zip
+	usenet
+		https://groups.google.com/g/fido7.ru.game.quake/c/VA6ojfM26z8/m/lKJqAe5U3RUJ
+			TFB-V076.ZIP Боты для TeamFortress
+		https://groups.google.com/g/fido7.spb.files/c/R8lUtwQNrLM/m/SYHR84f7ezMJ
+			TFB-V076.ZIP 766K 13-04-98 Боты для TeamFortress v0.76
+			TFBOT080.ZIP 475K 17-03-98 Боты для TeamFortress v0.80
+		https://groups.google.com/g/pl.rec.gry.komputerowe/c/-FpULpXetk4/m/qWY57RoXnkkJ
+			http://www.lockandload.com/tfbot/tfb-v076.zip
+		https://groups.google.com/g/fido7.ru.game.quake/c/8lPnjEWtZp0/m/FzpmiP9bgRgJ
+			20 Nov 199
+			tfb-v07.zip
+		https://groups.google.com/g/fido7.ru.internet.chainik/c/fM0Sz8vR5fs/m/NRxb43qWsp8J
+			ftp ftp 801709 Jul 7 1999 tfb-v07.zip
+TFBOTS (TFBot076.zip, tfbot077.zip, tfbot080.zip)
+	http://www.botepidemic.com/bots/quake.shtml
+		https://web.archive.org/web/20000303070145/http://www.botepidemic.com/bots/quake.shtml
+		author: 666, 666@planetquake.com
+	http://www.planetquake.com/tfbot
+		new home, where was the old home?
+		1997-1998
+	http://www.planetquake.com/tfbot/news.htm
+		https://web.archive.org/web/19981202163448fw_/http://www.planetquake.com/tfbot/news.htm
+		ftp://ftp.cdrom.com/pub/idgames2/planetquake/tfbot/tfbot077.zip
+		ftp://ftp.planetquake.com/planetquake/tfbot/tfbot080.zip
+		wattsup@cedar.alberni.net
+	http://www.planetquake.com/tfbot/down.htm
+		https://web.archive.org/web/19981201092556fw_/http://planetquake.com/tfbot/down.htm
+	http://planetquake.com/tfbot/faq.html
+		https://web.archive.org/web/19981203033607fw_/http://planetquake.com/tfbot/faq.html
+	https://dukeworld.com/planetquake/tfbot/
+		https://dukeworld.com/planetquake/tfbot/TFBot076.zip
+		https://dukeworld.com/planetquake/tfbot/tfbot077.zip
+		https://dukeworld.com/planetquake/tfbot/tfbot080.zip
+	TFBot076.zip
+		just a renamed tfb-v076.zip
+	tfbot080
+		fixes from someone else
+		Hoerno / Nexus, Joern Strombach / Hoerno@o-online.de
+		maintainer is "jeff"
 POXbot / Paroxysm
 	based on tutor
 	https://www.quaddicted.com/files/idgames2/planetquake/paroxysm/pox04doc.htm

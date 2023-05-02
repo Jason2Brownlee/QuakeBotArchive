@@ -227,6 +227,7 @@ proj1_92.zip
 proj1_93.zip
 proj1_99.zip
 proj1_qw_12beta.zip
+proj_tmp.zip
 qcbot001.zip
 rakoolio.zip
 rbot.zip
@@ -254,7 +255,14 @@ swbot102.zip
 tballman097.zip
 tdbot1_0.zip
 tfb-v07.zip
+tfb-v070.zip
+tfb-v071.zip
+tfb-v072.zip
+tfb-v073.zip
+tfb-v074.zip
+tfb-v075.zip
 tfbot070.zip
+tfbot078.zip
 ud120.zip
 ud130.zip
 ud140.zip
@@ -354,7 +362,9 @@ zeus201.zip
 zeus201b.zip
 zeus202b.zip
 zeus20b.zip
-proj_tmp.zip
+
+
+
 
 
 # mac stuff
@@ -451,7 +461,6 @@ proj1_11.txt
 proj1_12.txt
 proj1_14.txt
 proj1_15.txt
-proj1_16.txt
 proj1_92.txt
 proj1_93.txt
 proj1_99.txt
@@ -466,6 +475,12 @@ swbot101.txt
 swbot102.txt
 swbot103.txt
 tballman097.txt
+tfb-v071.txt
+tfb-v072.txt
+tfb-v073.txt
+tfb-v074.txt
+tfb-v075.txt
+tfb-v076.txt
 udm12-15b.txt
 udm15-15b.txt
 udmsrc.txt

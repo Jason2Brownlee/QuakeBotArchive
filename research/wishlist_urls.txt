@@ -8,6 +8,7 @@ ftp://ftp.cdrom.com/pub/idgames2/telefragged/epidemic/frogbot012a.zip
 ftp://ftp.cdrom.com/pub/idgames2/telefragged/metro/frogbot007.zip
 ftp://ftp.cdrom.com/pub/planetquake/holywars/hw_frogbot.zip
 ftp://ftp.cdrom.com/pub/planetquake/holywars/hwqwbotv101c.zip
+ftp://ftp.cdrom.com/pub/quake/planetquake/qca/tfb-v07.zip
 ftp://ftp.cdrom.com/pub/quake/quakec/bots/btsk22.zip
 ftp://ftp.cdrom.com/pub/quake/quakec/bots/darkbt08.zip
 ftp://ftp.cdrom.com/pub/quake/quakec/bots/dmbt21b1.zip
@@ -28,10 +29,10 @@ ftp://ftp.saix.net/pub/telefragged/be/fmods/Accuracy.zip
 ftp://ftp.saix.net/pub/telefragged/be/fmods/demos/frogbot_demo.zip
 ftp://ftp.softjoys.ru/entert/3d_games/newstuff/proj1_14.zip
 ftp://ftp.stomped.com/pub/redwood/bots/oak0855.zip
-ftp://ftp.sunet.se/pub/pc/games/idgames2//planetquake/qca/tfb-v07.zip
 ftp://ftp.sunet.se/pub/pc/games/idgames2/incoming/darkbt10.zip
 ftp://ftp.sunet.se/pub/pc/games/idgames2/incoming/dmbt20b3.zip
 ftp://ftp.sunet.se/pub/pc/games/idgames2/newstuff/dmbt20b2.zip
+ftp://ftp.sunet.se/pub/pc/games/idgames2/planetquake/qca/tfb-v07.zip
 ftp://ftp.telefragged.com/be/fmods/Accuracy.zip
 ftp://ftp.telefragged.com/be/fmods/demos/frogbot_demo.zip
 ftp://ftp.telefragged.com/pub/metro/frogbot007.zip

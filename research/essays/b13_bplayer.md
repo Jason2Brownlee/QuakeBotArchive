@@ -111,8 +111,8 @@ Nevertheless, Wolfgang did revisit quake bot developer later with his TFBot, a b
 
 ## Release Timeline
 
-* bplayer v1.00, bplayer1.zip, September 06 1998.
-* bplayer v2.00, bplayer2.zip, September 21 1998.
+* bplayer v1.00, bplayer1.zip, September 06 1996.
+* bplayer v2.00, bplayer2.zip, September 21 1996.
 
 
 ## References
