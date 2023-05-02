@@ -1968,9 +1968,10 @@ TeamFortress Bot
 		https://web.archive.org/web/20010301205408/http://www.forthpick.kiev.ua/
 	https://groups.google.com/g/fido7.ru.game.doom/c/_PkycS-xNJc/m/50MScVRdSKMJ
 	https://groups.google.com/g/fido7.ru.game.fortress/c/L0pl32cgI1o/m/zC06oYuiIrwJ
+	http://game.mari-el.ru/files.html
+		ftp://ftp.mari.ru/pub/games/quake/fortress/teamfbot/teamfbot.zip
 	teamfbot.zip
 		ftp://quake.demos.su/pub/patches/fortress/teamfbot.zip
-		ftp://ftp.mari.ru/pub/games/quake/fortress/teamfbot/teamfbot.zip
 		ftp://ftp.gamesnet.ru/pub/quake/fortress/teamfbot/
 TD-BOT
 	https://eluancm.net/_misc/spinal/n012000.htm

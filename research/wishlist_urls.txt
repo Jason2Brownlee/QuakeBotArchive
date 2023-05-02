@@ -148,6 +148,7 @@ http://ssj4death.condemned.com/gb/gbped10.zip
 http://sunsite.org.uk/packages/idgames2/planetquake/holywars/hw_frogbot.exe
 http://sunsite.org.uk/packages/idgames2/planetquake/holywars/hw_frogbot.sit.bin
 http://sunsite.org.uk/packages/idgames2/planetquake/holywars/hw_frogbot.zip
+http://tfa.spb.ru/aliasforge/frikwayeditor11.zip
 http://tlb.quakedev.com/files/fbxways/omega.zip
 http://tlb.quakedev.com/files/fbxways/variants/fbxdoom.rar
 http://tlb.quakedev.com/files/fbxways/variants/fbxpk.zip

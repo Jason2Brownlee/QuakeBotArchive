@@ -219,7 +219,7 @@ TM Bot | Micheal Polucha and Tim Polucha | [tmbot11.zip](bin/tmbot11.zip) ([txt]
 Target Player Place (Place Bot) | Steve Winston-Brown aka "Vengence" | [place2.zip](bin/place2.zip) ([txt](bin/place2.txt))<br>[pbot_src.zip](bin/pbot_src.zip) ([txt](bin/pbot_src.txt))
 Tballman | Jeff Curley aka "Mother" | tballman097.zip<br>[tballman.zip](bin/tballman.zip) ([txt](bin/tballman.txt))
 Team FMOD (Frogbot) | "Shelob" | stfm10.zip
-Team Fortress Bots (TFBOTS) | Jeff aka "wattsup" and Joern Strombach aka "Hoerno / Nexus" | [tfbot080.zip](bin/tfbot080.zip)<br>[tfbot077.zip](bin/tfbot077.zip)<br>[tfbot076.zip](bin/tfbot076.zip)
+Team Fortress Bots (TFBOTS) | Jeffery Watts aka "wattsup" and Joern Strombach aka "Hoerno / Nexus" | [tfbot080.zip](bin/tfbot080.zip)<br>[tfbot077.zip](bin/tfbot077.zip)<br>[tfbot076.zip](bin/tfbot076.zip)
 Team Fortress Bots (TFBOTS) | Wolfgang Lehrach aka "RainKing" aka "GentleMan" | [tfb-v076.zip](bin/tfb-v076.zip)<br>tfb-v075.zip<br>tfb-v07.zip ([txt](bin/tfb-v07.txt))
 Team Fortress + Frikbot (Frik-TF) | Raymond Martineau | friktf-051901.zip<br>[friktf-092800.zip](bin/friktf-092800.zip)<br>[friktf-092800-src.zip](bin/friktf-092800-src.zip)<br>friktf-092800-qw.zip<br>friktf-092800.tar.gz<br>[friktf-051800.zip](bin/friktf-051800.zip)<br>[friktf-051800-qw.zip](bin/friktf-051800-qw.zip)<br>[friktf-051800-src.zip](bin/friktf-051800-src.zip)<br>frik-tf.zip<br>[friktfqw.zip](bin/friktfqw.zip)
 Team Fortress + Tutor | Darryl Atchison aka "coffee" | [tf_bots07.zip](bin/tf_bots07.zip) ([txt](bin/tf_bots07.txt))
