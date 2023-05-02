@@ -1566,7 +1566,6 @@ TFBOTS (tfb-v07.zip, tfb-v076.zip)
 		https://groups.google.com/g/pl.rec.gry.komputerowe/c/-FpULpXetk4/m/qWY57RoXnkkJ
 			http://www.lockandload.com/tfbot/tfb-v076.zip
 		https://groups.google.com/g/fido7.ru.game.quake/c/8lPnjEWtZp0/m/FzpmiP9bgRgJ
-			20 Nov 199
 			tfb-v07.zip
 		https://groups.google.com/g/fido7.ru.internet.chainik/c/fM0Sz8vR5fs/m/NRxb43qWsp8J
 			ftp ftp 801709 Jul 7 1999 tfb-v07.zip
@@ -1580,13 +1579,18 @@ TFBOTS (TFBot076.zip, tfbot077.zip, tfbot080.zip)
 	http://www.planetquake.com/tfbot/news.htm
 		https://web.archive.org/web/19981202163448fw_/http://www.planetquake.com/tfbot/news.htm
 		ftp://ftp.cdrom.com/pub/idgames2/planetquake/tfbot/tfbot077.zip
+			December 21 1997
 		ftp://ftp.planetquake.com/planetquake/tfbot/tfbot080.zip
+			January 7 1998
 		wattsup@cedar.alberni.net
 	http://www.planetquake.com/tfbot/down.htm
 		https://web.archive.org/web/19981201092556fw_/http://planetquake.com/tfbot/down.htm
 	http://planetquake.com/tfbot/faq.html
 		https://web.archive.org/web/19981203033607fw_/http://planetquake.com/tfbot/faq.html
 	https://dukeworld.com/planetquake/tfbot/
+	https://ftp.zx.net.nz/pub/archive/ftp.gamers.org/pub/mirrors/ftp.planetquake.com/tfbot/
+	https://www.quaddicted.com/files/idgames2/planetquake/tfbot/
+	https://www.gamers.org/pub/idgames2/planetquake/tfbot/
 		https://dukeworld.com/planetquake/tfbot/TFBot076.zip
 		https://dukeworld.com/planetquake/tfbot/tfbot077.zip
 		https://dukeworld.com/planetquake/tfbot/tfbot080.zip
@@ -1596,6 +1600,10 @@ TFBOTS (TFBot076.zip, tfbot077.zip, tfbot080.zip)
 		fixes from someone else
 		Hoerno / Nexus, Joern Strombach / Hoerno@o-online.de
 		maintainer is "jeff"
+	https://www.moddb.com/mods/team-fortress/downloads/tf-bot-version-8
+		tfbot080.zip
+	https://obq.tripod.com/arquivosq.html
+		ftp://ftp.elogica.com.br/pub/warlock/tfbot077.zip
 POXbot / Paroxysm
 	based on tutor
 	https://www.quaddicted.com/files/idgames2/planetquake/paroxysm/pox04doc.htm
