@@ -251,7 +251,7 @@ WLBot | Kualker Koisa aka "Matador" | [wlbot21.7z](bin/wlbot21.7z)<br>wlbot1.9.z
 WarBot | Muhammad Hidayat Bin Sman aka "Grinder" | [warbot2.zip](bin/warbot2.zip) ([txt](bin/warbot2.txt))<br>[warbot14.zip](bin/warbot14.zip)<br>warbot14_dat.zip<br>warbot14_pak.zip<br>warbt13a.zip ([txt](bin/warbt13a.txt))<br>warbotpk.zip
 Wisp | Iikka Paavolainen | [wisp.zip](bin/wisp.zip) ([txt](bin/wisp.txt))
 Wyrm (Cujo) | Josep del Rio | [wyrmb2final.zip](bin/wyrmb2final.zip) ([txt](bin/wyrmb2final.txt))<br>[wyrmb2fix.zip](bin/wyrmb2fix.zip) ([txt](bin/wyrmb2fix.txt))<br>[wyrmb2.zip](bin/wyrmb2.zip)<br>wyrmb15.zip ([txt](bin/wyrmb15.txt))<br>wyrmb11.zip<br>wyrmb1.zip
-XKteams (Frikbot) | Mark | xkteams2.zip<br>xkteams1705.zip<br>xkteams1705s.zip
+XKteams (Frikbot) | Mark aka "Airconditioning" | xkteams2.zip<br>xkteams1705.zip<br>xkteams1705s.zip
 Xreaper | Ruud Heemskerk aka "Mephisto" | [xreaperb130.zip](bin/xreaperb130.zip)<br>xreaperb123.zip<br>xreaperb122.zip<br>xreaperb121.zip<br>xreaperb120.zip<br>xreaperb110.zip<br>xreaperb100.zip
 Zeus Bot | Jonathan E. Wright aka "Nelno the Amoeba" | [zeus205s.zip](bin/zeus205s.zip) ([txt](bin/zeus205s.txt))<br>[zeus205.zip](bin/zeus205.zip) ([txt](bin/zeus205.txt))<br>[zeus_src.zip](bin/zeus_src.zip) ([txt](bin/zeus_src.txt))<br>[zeus2042.zip](bin/zeus2042.zip)<br>[zeus2041.zip](bin/zeus2041.zip)<br>[zeus204.zip](bin/zeus204.zip)<br>[zeus203b.zip](bin/zeus203b.zip) ([txt](bin/zeus203b.txt))<br>zeus202b.zip ([txt](bin/zeus202b.txt))<br>zeus201.zip<br>zeus20.zip<br>[zeus10.zip](bin/zeus10.zip) ([txt](bin/zeus10.txt))
 Zeus Hunt (Rumble) | Christopher Dozier "Arwing-X" | [rumble1.zip](bin/rumble1.zip) ([txt](bin/rumble1.txt))<br>[rumble.zip](bin/rumble.zip) ([txt](bin/rumble.txt))

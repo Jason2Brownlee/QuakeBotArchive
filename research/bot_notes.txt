@@ -1583,6 +1583,8 @@ TFBOTS (TFBot076.zip, tfbot077.zip, tfbot080.zip)
 		ftp://ftp.planetquake.com/planetquake/tfbot/tfbot080.zip
 			January 7 1998
 		wattsup@cedar.alberni.net
+		handed over to others...
+			o_some@hotmail.com
 	http://www.planetquake.com/tfbot/down.htm
 		https://web.archive.org/web/19981201092556fw_/http://planetquake.com/tfbot/down.htm
 	http://planetquake.com/tfbot/faq.html
