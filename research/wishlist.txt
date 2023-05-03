@@ -149,6 +149,7 @@ frikbt03.zip
 friktf-051901.zip
 friktf-092800-qw.zip
 friktf-092800.tar.gz
+frikwayeditor11.zip
 frkbt09a.zip
 frog_src.zip
 frogbot.rar
@@ -246,6 +247,7 @@ sqdbt201.zip
 squirt10.zip
 squirt12b.zip
 src_fbca092.zip
+src_fbca099.zip
 src_fbca100.zip
 stfm10.zip
 superman11.zip
@@ -362,7 +364,6 @@ zeus201.zip
 zeus201b.zip
 zeus202b.zip
 zeus20b.zip
-frikwayeditor11.zip
 
 
 

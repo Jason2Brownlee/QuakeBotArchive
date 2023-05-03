@@ -74,6 +74,7 @@ ftp://quake.mtu.ru/pub/quake/bots/zeusbot.zip
 ftp://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/idgames2/telefragged/epidemic/frogbot012a.zip
 ftp://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/idgames2/telefragged/metro/frogbot007.zip
 ftp://sunsite.doc.ic.ac.uk/packages/idgames2/planetquake/holywars/hwqwbotv101c.zip
+ftp://www.clan-rum.org/quake/bots/src_fbca099.zip
 http://203.32.12.18/project/placebot.zip
 http://asp.planetquake.com/dl/dl.asp?/holywars/hwqwbot.exe
 http://asp.planetquake.com/dl/dl.asp?/holywars/hwqwbot.sit
