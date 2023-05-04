@@ -5,18 +5,7 @@ OUT OF SCOPE
 - Monsters are out of scope.
 
 
-GeneBot / Gene Bot
-	quakeworld
-	http://www.randars.com/bots/bots1.html
-	http://www.atomicgamer.com/files/14507/release-3-of-the-quakeworld-genebot-server
-	https://web.archive.org/web/20010124062700/http://www.telefragged.com/thefatal/
-	https://web.archive.org/web/20010113234600/http://www.telefragged.com/thefatal/cgi-bin/download.pl?genbot03.zip
-	https://www.richwhitehouse.com/filemirror/genbot03.zip
-	genbot01.zip
-	genbot02.zip
-	genbot03.zip
-	quake world
-	engine bot I believe...
+
 Minion
 	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/minion.htm
 	monster

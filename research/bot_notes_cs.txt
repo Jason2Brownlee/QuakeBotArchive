@@ -384,7 +384,25 @@ QW Bot Project / QuakeForge QW bot server
 		https://www.quakewiki.net/archives/botshop/
 	based on GeneBot I think
 	engine bot?
-
+GenBot
+	http://www.atomicgamer.com/thefatal/old/genebot.shtml
+		https://web.archive.org/web/20150729175854/http://www.atomicgamer.com/thefatal/old/genebot.shtml
+			https://web.archive.org/web/20150729175854/http://www.telefragged.com/thefatal/cgi-bin/download.pl?genbot03.zip
+			https://web.archive.org/web/20070321213854/http://www.telefragged.com/thefatal/cgi-bin/download.pl?filename=genbsrc3.zip
+	http://telefragged.com/thefatal/old/genebot.shtml
+		https://web.archive.org/web/20050410090738/http://telefragged.com/thefatal/old/genebot.shtml
+		https://web.archive.org/web/20050410090738/http://www.telefragged.com/thefatal/cgi-bin/download.pl?genbot03.zip
+		https://web.archive.org/web/20050410090738/http://www.telefragged.com/thefatal/cgi-bin/download.pl?filename=genbsrc3.zip
+	quakeworld, engine bot
+	http://www.randars.com/bots/bots1.html
+	http://www.atomicgamer.com/files/14507/release-3-of-the-quakeworld-genebot-server
+	https://www.richwhitehouse.com/index.php?content=inc_res.php
+		https://www.richwhitehouse.com/filemirror/genbot01.zip
+		https://www.richwhitehouse.com/filemirror/genbot02.zip
+		https://www.richwhitehouse.com/filemirror/genbot03.zip
+		https://www.richwhitehouse.com/filemirror/genbsrc.zip
+		https://www.richwhitehouse.com/filemirror/genbsrc2.zip
+		https://www.richwhitehouse.com/filemirror/genbsrc3.zip
 
 
 

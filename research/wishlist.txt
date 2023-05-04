@@ -615,6 +615,7 @@ qb16.zip
 qb16src.zip
 qb17.zip
 quakeworld-20000102.tar.gz
+quakeworld-991229.tar.gz
 slugaxbotVf.zip
 termslug.zip
 termslugv1.27.zip
@@ -642,4 +643,3 @@ wqb17.zip
 wqb_beta.zip
 zbot9504.zip
 zbotdem.zip
-

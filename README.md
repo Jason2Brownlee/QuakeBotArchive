@@ -282,6 +282,7 @@ Bot Name | Bot Author(s) | File
 BioBots | Tom Hartley | n/a
 Booger | "Demonstar" | [booger.zip](bin/booger.zip)<br>[aimbot.zip](bin/aimbot.zip)<br>boognaut.zip ([txt](bin/boogfeat.txt))
 Bottim | Tim Ferguson | [linux-elf-bottim0.1.tar.gz](bin/linux-elf-bottim0.1.tar.gz)<br>[solaris-bottim0.1.tar.gz](bin/solaris-bottim0.1.tar.gz)
+GenBot | Rich Whitehouse | [genbot03.zip](bin/genbot03.zip)<br>[genbsrc3.zip](bin/genbsrc3.zip)<br>[genbot02.zip](bin/genbot02.zip)<br>[genbsrc2.zip](bin/genbsrc2.zip)<br>[genbot01.zip](bin/genbot01.zip)<br>[genbsrc.zip](bin/genbsrc.zip)
 HPB Proxy | Chad Dreveny | [hpb-proxy-0.992b-linux.tar.gz](bin/hpb-proxy-0.992b-linux.tar.gz) ([txt](bin/hpb-proxy-0.992b.txt))<br>[hpb-proxy-0.991b-linux.tar.gz](bin/hpb-proxy-0.991b-linux.tar.gz)<br>[hpb-proxy-0.99b-linux.tar.gz](bin/hpb-proxy-0.99b-linux.tar.gz)<br>[hpb-proxy-0.9b-linux.tar.gz](bin/hpb-proxy-0.9b-linux.tar.gz) ([txt](bin/hpb-proxy-0.9b.txt))<br>[hpb-proxy-0.9b-aix.tar.gz](bin/hpb-proxy-0.9b-aix.tar.gz)
 Itchy QuakeBot | Chad Dreveny | n/a
 LoefBot | James Loe | loefsrc.zip<br>[loefbot5.zip](bin/loefbot5.zip)<br>loefbot4.zip<br>loefbot3.zip<br>loefbot2.zip<br>[loefbot.zip](bin/loefbot.zip) ([txt](bin/loefbot.txt))
@@ -291,7 +292,7 @@ PingBot | James Loe | pingsrc.zip<br>pingbot2.zip<br>[pingbot.zip](bin/pingbot.z
 Playmate | Aesir Clan | n/a
 Quake Client-Side Bot | "Mudge" | csbot6703.zip<br>csbot1.dem
 QuakeBot C/S | Jim Rorie and John Simmerman | [qbcsalph.zip](bin/qbcsalph.zip)<br>[qbcs082.zip](bin/qbcs082.zip)<br>[qbcs081.zip](bin/qbcs081.zip)<br>[qbcs080.zip](bin/qbcs080.zip)<br>[qbcs079.zip](bin/qbcs079.zip)<br>[qbcs075.zip](bin/qbcs075.zip)<br>[qbcs07.zip](bin/qbcs07.zip)
-QW Bot Project | Terry Hendrix aka "Mongoose" | quakeworld-20000102.tar.gz<br>[quakeworld-991230.tar.gz](bin/quakeworld-991230.tar.gz)<br>quakeworld-991229.tar.gz<br>[bug.qwd.gz](bin/bug.qwd.gz)<br>[qw-991226.tar.gz](bin/qw-991226.tar.gz)
+QW Bot Project (GenBot) | Terry Hendrix aka "Mongoose" | quakeworld-20000102.tar.gz<br>[quakeworld-991230.tar.gz](bin/quakeworld-991230.tar.gz)<br>quakeworld-991229.tar.gz<br>[bug.qwd.gz](bin/bug.qwd.gz)<br>[qw-991226.tar.gz](bin/qw-991226.tar.gz)
 RichMark's QuakeBot | Rich Kroeker aka "Rich Mark" | [quakebot.zip](bin/quakebot.zip)<br>qb17f.zip<br>wqb17f.zip<br>glqb17f.zip<br>qb17.zip<br>glqb17.zip<br>glqwb17.zip<br>wqb17.zip<br>glqbbeta.zip<br>wqb_beta.zip<br>qb16src.zip<br>qb16.zip<br>qb15.zip
 SlugBot | "slug" | [termslugv1.30.zip](bin/termslugv1.30.zip)<br>termslugv1.29.zip<br>termslugv1.28.zip<br>termslugv1.27.zip<br>[slugaxbotVh.zip](bin/slugaxbotVh.zip)<br>slugaxbotVf.zip<br>[slugaxbot.zip](bin/slugaxbot.zip)<br>termslug.zip
 StoogeBot | Kekoa Proudfoot, Matthew Eldridge, and Craig Kolb | [winstoog.zip](bin/winstoog.zip) ([txt](bin/stoogebot.txt))<br>[linstooge.tar.gz](bin/linstooge.tar.gz)<br>[sgistooge.tar.gz](bin/sgistooge.tar.gz)
