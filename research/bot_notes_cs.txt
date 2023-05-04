@@ -24,6 +24,8 @@ Resources / Links
 	http://www-mddsp.enel.ucalgary.ca/People/dreveny/itchy/botlinks.html
 	https://www.geocities.ws/oldquaker/lairofquakebot/
 	http://graphics.stanford.edu/~quake/resources.html
+	http://www.botepidemic.com/bots/quake.shtml
+		https://web.archive.org/web/20000303070145/http://www.botepidemic.com/bots/quake.shtml
 
 --------------------------------------------------------------------------------
 
@@ -197,10 +199,29 @@ StoogeBot
 		http://graphics.stanford.edu/~kekoa/stoogebot/download/stooge/winstoog.zip
 		http://graphics.stanford.edu/~kekoa/stoogebot/download/stooge/linstooge.tar.gz
 		http://graphics.stanford.edu/~kekoa/stoogebot/download/stooge/sgistooge.tar.gz
-
-
-
-
-
-
+tEdbot
+	http://www.labyrinth.net.au/~adsoft/
+		https://web.archive.org/web/19980205121946/http://www.labyrinth.net.au/~adsoft/
+		https://web.archive.org/web/20010607082935/http://www.labyrinth.net.au/~adsoft/tedbot/
+	Grant Davies and Ramanan Rajeswaran
+	demos
+		https://web.archive.org/web/19990204002002/http://www.labyrinth.net.au/~adsoft/dem1.zip
+		https://web.archive.org/web/19990204002002/http://www.labyrinth.net.au/~adsoft/dem2.zip
+		https://web.archive.org/web/19990204002002/http://www.labyrinth.net.au/~adsoft/dem3.zip
+		https://web.archive.org/web/19990204002002/http://www.labyrinth.net.au/~adsoft/dem4.zip
+	navtest
+		https://web.archive.org/web/19990204002002/http://www.labyrinth.net.au/~adsoft/navtest1.zip
+		https://web.archive.org/web/19990204002002/http://www.labyrinth.net.au/~adsoft/navtest2.zip
+	http://www.botepidemic.com/bots/quake.shtml
+		https://web.archive.org/web/20000303070145/http://www.botepidemic.com/bots/quake.shtml
+	https://www.geocities.ws/oldquaker/tedbot/
+	no releases?
+Itchy QuakeBot
+	http://www-mddsp.enel.ucalgary.ca/People/dreveny/itchy/index.html
+		Chad Dreveny
+	http://www-mddsp.enel.ucalgary.ca/People/dreveny/itchy/itchy.html
+	http://www-mddsp.enel.ucalgary.ca/People/dreveny/itchy/botprog.html
+	no downloads
+	http://www-mddsp.enel.ucalgary.ca/People/dreveny/hpb/index.html
+		HPB Proxy
 

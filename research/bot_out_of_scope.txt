@@ -24,12 +24,6 @@ dragon
 	http://www.insideqc.com/modindex/qreview/drag.shtml
 	https://web.archive.org/web/19990125075903/http://203.32.12.18/
 	monster
-tEdBot
-	https://web.archive.org/web/20000303070145/http://www.botepidemic.com/bots/quake.shtml
-	Grant Davies & Ramanan Rajeswaran
-	http://www.labyrinth.net.au/~adsoft
-	https://web.archive.org/web/19990204002002/http://www.labyrinth.net.au/~adsoft/
-	client side
 Requiem QW Bot
 	https://web.archive.org/web/20000303070145/http://www.botepidemic.com/bots/quake.shtml
 	Requiem
@@ -37,10 +31,6 @@ Requiem QW Bot
 	https://web.archive.org/web/19981206204028/http://www.planetquake.com/requiem/
 	https://www.quakeworld.nu/wiki/Requiem
 	bots added to a mod I believe
-Itchy Bot
-	https://web.archive.org/web/20001027075424/http://www.botepidemic.com/bots/quake.shtml
-	https://web.archive.org/web/20000818034616/http://www-mddsp.enel.ucalgary.ca/People/dreveny/itchy/index.html
-	client side
 PandoraBot
 	https://web.archive.org/web/20001027075424/http://www.botepidemic.com/bots/quake.shtml
 	client side

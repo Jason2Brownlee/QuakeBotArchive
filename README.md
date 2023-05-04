@@ -279,12 +279,15 @@ Alphabetical list of Quake bot names, authors, and local download links for all 
 Bot Name | Bot Author(s) | File
 --- | --- | ---
 Booger | "Demonstar" | [booger.zip](bin/booger.zip)<br>[aimbot.zip](bin/aimbot.zip)<br>boognaut.zip ([txt](bin/boogfeat.txt))
+Itchy QuakeBot | Chad Dreveny | n/a
 LoefBot | James Loe | loefsrc.zip<br>[loefbot5.zip](bin/loefbot5.zip)<br>loefbot4.zip<br>loefbot3.zip<br>loefbot2.zip<br>[loefbot.zip](bin/loefbot.zip) ([txt](bin/loefbot.txt))
-MikeBot | Mike Warren | [mbcs040.zip](bin/mbcs040.zip)<br>mikebot95.zip<br>mikebot-linux.tar.gz<br>mikebot-SunOS.tar.gz<br>mikebot-AIX.tar.gz<br>mikebot-Solaris.tar.gz<br>mikebot-IRIX.tar.gz<br>[mbcs031.zip](bin/mbcs031.zip)<br>[mbcs031.zip](bin/mbcs031.zip)<br>[mbcs03.zip](bin/mbcs03.zip) ([txt](bin/mbcs03.txt))<br>[mbcs02.zip](bin/mbcs02.zip)
+MikeBot | Mike Warren | [mbcs040.zip](bin/mbcs040.zip)<br>mikebot95.zip<br>mikebot-linux.tar.gz<br>mikebot-sunos.tar.gz<br>mikebot-aix.tar.gz<br>mikebot-solaris.tar.gz<br>mikebot-irix.tar.gz<br>[mbcs031.zip](bin/mbcs031.zip)<br>[mbcs031.zip](bin/mbcs031.zip)<br>[mbcs03.zip](bin/mbcs03.zip) ([txt](bin/mbcs03.txt))<br>[mbcs02.zip](bin/mbcs02.zip)
 Mystery Bot | Aaron Drew aka "ripper" | [mystery0.67.zip](bin/mystery0.67.zip)<br>[linux-elf-myst0.66.tar.gz](bin/linux-elf-myst0.66.tar.gz)
 PingBot | James Loe | pingsrc.zip<br>pingbot2.zip<br>[pingbot.zip](bin/pingbot.zip)
+Playmate | Aesir Clan | n/a
 QuakeBot C/S | Jim Rorie and John Simmerman | [qbcsalph.zip](bin/qbcsalph.zip)<br>[qbcs082.zip](bin/qbcs082.zip)<br>[qbcs081.zip](bin/qbcs081.zip)<br>[qbcs080.zip](bin/qbcs080.zip)<br>[qbcs079.zip](bin/qbcs079.zip)<br>[qbcs075.zip](bin/qbcs075.zip)<br>[qbcs07.zip](bin/qbcs07.zip)
 StoogeBot | Kekoa Proudfoot, Matthew Eldridge, and Craig Kolb | [winstoog.zip](bin/winstoog.zip) ([txt](bin/stoogebot.txt))<br>[linstooge.tar.gz](bin/linstooge.tar.gz)<br>[sgistooge.tar.gz](bin/sgistooge.tar.gz)
+tEdbot | Grant Davies and Ramanan Rajeswaran | n/a
 Terminator Bot | Olivier Montanuy | [trmbot09.zip](bin/trmbot09.zip) ([txt](bin/trmbot09.txt))<br>[trmbot09.tgz](bin/trmbot09.tgz)<br>[botsrc09.zip](bin/botsrc09.zip)<br>[botsrc09.tgz](bin/botsrc09.tgz)<br>trmbot08.zip
 
 
