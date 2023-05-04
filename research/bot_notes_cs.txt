@@ -291,14 +291,21 @@ Bottim
 	http://www.dgs.monash.edu.au/~timf/bottim/
 		https://web.archive.org/web/19970102100127/http://www.dgs.monash.edu.au/~timf/
 		https://web.archive.org/web/19981206053514/http://www.dgs.monash.edu.au/~timf/bottim/
-	Tim F
+	Tim Ferguson
 		timf@dgs.monash.edu.au
 	https://www.quakeworld.nu/forum/topic/3399/quakeworld-network-protocol
 		bottim-quakeworld-fvh.tgz
 		related?
 	https://www.gamers.org/pub/idgames2/quake2/demos/movies/quake_cin.txt
+Quake 1 client side bot
+	https://www.geocities.ws/oldquaker/csbot/
+		https://www.geocities.ws/oldquaker/csbot/files/csbot1.dem
+		https://www.geocities.ws/oldquaker/csbot/files/csbot6703.zip
+		https://www.geocities.ws/oldquaker/csbot/readme.txt
+	https://www.geocities.ws/oldquaker/pres1.html
+		Not much is known about this one. With a generic name and generic website, nothing is really explained. It was made by some guy named "Mudge" back in late 1997 and the file wasn't available, but a demo was.
 
-Bottim | Tim F. | [linux-elf-bottim0.1.tar.gz](bin/linux-elf-bottim0.1.tar.gz)<br>[solaris-bottim0.1.tar.gz](bin/solaris-bottim0.1.tar.gz)
+
 
 
 
