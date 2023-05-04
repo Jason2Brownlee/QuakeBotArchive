@@ -43,15 +43,18 @@ TomazQuake Bot
 	out of scope?
 	addition of Tsumi to Botsu to an engine
 	engine bot
-QW Bot Project / QuakeForge QW bot server
-	https://web.archive.org/web/20100123221300/http://botepidemic.no-origin.net/quake.shtml.htm
-	Mongoose / botshop (Terry Hendrix II )
-	http://darkskye.home.mindspring.com/quakeworld-20000102.tar.gz
-	http://asp.planetquake.com/dl/dl.asp?/botshop/quakeworld-20000102.tar.gz
-	http://asp.planetquake.com/dl/dl.asp?/botshop/quakeworld-991230.tar.gz
-	https://www.quakewiki.net/archives/botshop/news.html
-	https://www.quakewiki.net/archives/botshop/
-	looks like an engine bot... based on GeneBot I think
+SABIN
+	quake2?
+	https://web.archive.org/web/20060620085755/http://botshop.planetquake.gamespy.com/news/1998-07.html
+		https://web.archive.org/web/20060620085755/ftp://ftp.cdrom.com/pub/idgames2/planetquake/botshop/sabin/test/sabin980723-test.exe
+	https://web.archive.org/web/20060620085743/http://botshop.planetquake.gamespy.com/news/1998-06.html
+		https://web.archive.org/web/20060620085743/ftp://ftp.cdrom.com/pub/idgames2/planetquake/botshop/sabin_ctf_demo.zip
+	https://web.archive.org/web/20060620085731/http://botshop.planetquake.gamespy.com/news/1998-05.html
+		https://web.archive.org/web/20060620085731/ftp://ftp.cdrom.com/pub/idgames2/planetquake/botshop/sabin_demo.zip
+	https://web.archive.org/web/20060617154749/http://botshop.planetquake.gamespy.com/sabin.html
+		DarkBot II
+		https://web.archive.org/web/20060617154749/http://asp.planetquake.com/dl/dl.asp?/botshop/Registry-990713.tar.gz
+		https://web.archive.org/web/20060617154749/http://asp.planetquake.com/dl/dl.asp?/botshop/Registry-990713.zip
 Quakabiltiy: Bot Arena
 	https://web.archive.org/web/20020408101357/http://www.botepidemic.com:80/quake.shtml
 	http://www.crosswinds.net/~noricoco/neurotic-homepage.htm

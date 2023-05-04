@@ -596,6 +596,7 @@ botsrc08.tgz
 glqb17.zip
 glqbbeta.zip
 glqwb17.zip
+hackstooge.zip
 loefbot2.zip
 loefbot3.zip
 loefbot4.zip
@@ -613,6 +614,7 @@ qb15.zip
 qb16.zip
 qb16src.zip
 qb17.zip
+quakeworld-20000102.tar.gz
 slugaxbotVf.zip
 termslug.zip
 termslugv1.27.zip

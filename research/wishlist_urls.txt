@@ -76,6 +76,7 @@ ftp://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/idgames2/telefragged/metro/
 ftp://sunsite.doc.ic.ac.uk/packages/idgames2/planetquake/holywars/hwqwbotv101c.zip
 ftp://www.clan-rum.org/quake/bots/src_fbca099.zip
 http://203.32.12.18/project/placebot.zip
+http://asp.planetquake.com/dl/dl.asp?/botshop/quakeworld-20000102.tar.gz
 http://asp.planetquake.com/dl/dl.asp?/holywars/hwqwbot.exe
 http://asp.planetquake.com/dl/dl.asp?/holywars/hwqwbot.sit
 http://asp.planetquake.com/dl/dl.asp?/holywars/hwqwbot.zip
@@ -85,6 +86,7 @@ http://asp.planetquake.com/dl/dl.asp?/holywars/quake/hw_frogbot14f.zip
 http://asp.planetquake.com/dl/dl.asp?requiem/reqqwsrc.zip
 http://aswp.tzo.net/maleficus/setup.zip
 http://botarea51.impulse9.net/mirror/bot/elimpack.zip
+http://darkskye.home.mindspring.com/quakeworld-20000102.tar.gz
 http://dmsoul.mailru.com/botmatch/bm119gl.zip
 http://first.quakegate.ru/bots/frogbot.rar
 http://ftp.gamers.org/pub/games/idgames2/planetquake/hwqwbot.exe
@@ -286,4 +288,3 @@ http://www.users.bigpond.com/clanslug/termslugv1.29.zip
 http://xmark.ausgamers.com/xkteams/xkteams1705.zip
 http://xmark.ausgamers.com/xkteams/xkteams1705s.zip
 http://xmark.ausgamers.com/xkteams/xkteams2.zip
-

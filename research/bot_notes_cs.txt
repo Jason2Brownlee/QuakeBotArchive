@@ -113,7 +113,7 @@ Terminator Bot
 		ftp://bluesnews.com/pub/client_bots/botsrc08.zip
 	https://www.bluesnews.com/archives/dec96-3.html
 		Terminator to version 0.91
-	https://web.archive.org/web/19970503225814/http://www.bluesnews.com/files/
+	http://www.bluesnews.com/files/
 		https://web.archive.org/web/19970503225814/http://www.bluesnews.com/files/bot.txt
 		https://web.archive.org/web/19970503225814/http://www.bluesnews.com/files/bot091.txt
 		https://web.archive.org/web/19970503225814/http://www.bluesnews.com/files/botsrc08.zip
@@ -210,14 +210,26 @@ MikeBot
 		https://www.geocities.ws/oldquaker/lairofquakebot/
 		"The Lair of the QuakeBot"
 StoogeBot
+	http://graphics.stanford.edu/~quake
+		https://web.archive.org/web/20000829032007/http://graphics.stanford.edu/~quake/
+		https://web.archive.org/web/19990117001618/http://graphics.stanford.edu/~quake/download.html
 	https://graphics.stanford.edu/~kekoa/
 		https://web.archive.org/web/20000817012152/http://graphics.stanford.edu/~kekoa/
+		Kekoa Proudfoot
 	http://graphics.stanford.edu/~kekoa/stoogebot/
 	http://graphics.stanford.edu/~kekoa/stoogebot/download.html
 		http://graphics.stanford.edu/~kekoa/stoogebot/download/stooge/stoogebot.txt
 		http://graphics.stanford.edu/~kekoa/stoogebot/download/stooge/winstoog.zip
 		http://graphics.stanford.edu/~kekoa/stoogebot/download/stooge/linstooge.tar.gz
 		http://graphics.stanford.edu/~kekoa/stoogebot/download/stooge/sgistooge.tar.gz
+	usenet
+		https://groups.google.com/g/rec.games.computer.quake.announce/c/s9btnzub3xs/m/ugjnCPhoUyQJ
+			Under hush-hush development since August 20th, and enjoying extensive play testing since mid-September...
+			December 1996
+		https://groups.google.com/g/rec.games.computer.quake.announce/c/J9ja6KG_TDM/m/75q8vVmhkA8J
+			Stanford StoogeBot 1.0, feb 1997
+		https://groups.google.com/g/alt.games.quake/c/_u416oETgzU/m/Q7Ux_MQHJAQJ
+			hackstooge.zip
 tEdbot
 	http://www.labyrinth.net.au/~adsoft/
 		https://web.archive.org/web/19980205121946/http://www.labyrinth.net.au/~adsoft/
@@ -351,6 +363,29 @@ HPB Proxy
 		https://web.archive.org/web/19971021180627/http://www-mddsp.enel.ucalgary.ca/People/dreveny/hpb/hpb-proxy-0.9b-aix.tar.gz
 		https://web.archive.org/web/19971021180627/http://www-mddsp.enel.ucalgary.ca/People/dreveny/hpb/README
 	Chad Dreveny
+QW Bot Project / QuakeForge QW bot server
+	https://web.archive.org/web/20060614013011/http://botshop.planetquake.gamespy.com/
+		https://web.archive.org/web/20060614013011/http://darkskye.home.mindspring.com/quakeworld-20000102.tar.gz
+		https://web.archive.org/web/20060614013011/http://asp.planetquake.com/dl/dl.asp?/botshop/quakeworld-20000102.tar.gz
+		https://web.archive.org/web/20060614013011/http://asp.planetquake.com/dl/dl.asp?/botshop/quakeworld-991230.tar.gz
+		https://web.archive.org/web/20060614013011/http://asp.planetquake.com/dl/dl.asp?/botshop/quakeworld-991229.tar.gz
+		https://web.archive.org/web/20060620090036/http://asp.planetquake.com/dl/dl.asp?/botshop/bug.qwd.gz
+	https://web.archive.org/web/20060620090036/http://botshop.planetquake.gamespy.com/news/1999-12.html
+		https://web.archive.org/web/20060620090036/http://asp.planetquake.com/dl/dl.asp?/botshop/qw-991226.tar.gz
+	https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/botshop/
+		https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/botshop/quakeworld-991230.tar.gz
+		https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/botshop/bug.qwd.gz
+		https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/botshop/qw-991226.tar.gz
+	https://ftp.zx.net.nz/pub/archive/ftp.gamers.org/pub/mirrors/ftp.planetquake.com/botshop/
+		https://ftp.zx.net.nz/pub/archive/ftp.gamers.org/pub/mirrors/ftp.planetquake.com/botshop/quakeworld-991230.tar.gz
+	https://web.archive.org/web/20100123221300/http://botepidemic.no-origin.net/quake.shtml.htm
+	Mongoose / botshop (Terry Hendrix II )
+	https://www.quakewiki.net/archives/botshop/news.html
+		https://www.quakewiki.net/archives/botshop/
+	based on GeneBot I think
+	engine bot?
+
+
 
 
 --------------------------------------------------------------------------------
