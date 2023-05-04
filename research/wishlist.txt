@@ -182,6 +182,8 @@ hwqwbot.exe
 hwqwbot.zip
 hwqwbotv101b.exe
 hwqwbotv101c.zip
+intarena.zip
+interbotdm79z.zip
 iwbot15.zip
 iwbot2.zip
 iwbot20.zip
@@ -378,7 +380,6 @@ zeus201.zip
 zeus201b.zip
 zeus202b.zip
 zeus20b.zip
-
 
 
 

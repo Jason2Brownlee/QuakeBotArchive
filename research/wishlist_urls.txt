@@ -154,6 +154,8 @@ http://tlb.quakedev.com/files/fbxways/omega.zip
 http://tlb.quakedev.com/files/fbxways/variants/fbxdoom.rar
 http://tlb.quakedev.com/files/fbxways/variants/fbxpk.zip
 http://trinca.no.sapo.pt/temp/waypoints_maker.rar
+http://tux.telefragged.com/download.pl?dir=telefragged/be/&filename=intarena.zip&dl=local
+http://tux.telefragged.com/download.pl?dir=telefragged/be/&filename=interbotdm79z.zip&dl=local
 http://tux.telefragged.com/file.pl?filename=f2k001a.zip
 http://tux.telefragged.com/file.pl?filename=fbca084.zip
 http://tux.telefragged.com/file.pl?filename=fbctf014.zip

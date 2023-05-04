@@ -31,15 +31,6 @@ Requiem QW Bot
 	https://web.archive.org/web/19981206204028/http://www.planetquake.com/requiem/
 	https://www.quakeworld.nu/wiki/Requiem
 	bots added to a mod I believe
-Interference Bot
-	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/news.htm
-	http://tux.telefragged.com/download.pl?dir=telefragged/be/&filename=interbotdm79z.zip&dl=local
-	interbotdm79z.zip
-	http://tux.telefragged.com/download.pl?dir=telefragged/be/&filename=intarena.zip&dl=local
-	intarena.zip
-	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/inter.htm
-	Chris "ArwingX" Dozier
-	monster bot
 Tsumi to Botsu
 	https://web.archive.org/web/20020408101357/http://www.botepidemic.com:80/quake.shtml
 	https://web.archive.org/web/20020408101357/http://www.telefragged.com/thefatal/tsumi.shtml
@@ -68,16 +59,6 @@ QW Bot Project / QuakeForge QW bot server
 	https://www.quakewiki.net/archives/botshop/news.html
 	https://www.quakewiki.net/archives/botshop/
 	looks like an engine bot... based on GeneBot I think
-Interference Bot / Monster Mash 2 DM Interference Bot / Interference Bot Arena
-	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/news.htm
-	ArwingX
-	Chris "ArwingX" Dozier
-	http://tux.telefragged.com/download.pl?dir=telefragged/be/&filename=interbotdm79z.zip
-	interbotdm79z.zip
-	http://tux.telefragged.com/download.pl?dir=telefragged/be/&filename=intarena.zip
-	intarena.zip
-	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/inter.htm
-	monster bot..
 Quakabiltiy: Bot Arena
 	https://web.archive.org/web/20020408101357/http://www.botepidemic.com:80/quake.shtml
 	http://www.crosswinds.net/~noricoco/neurotic-homepage.htm
