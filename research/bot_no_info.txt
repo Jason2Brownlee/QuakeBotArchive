@@ -121,6 +121,12 @@ AnSer Bot
 	Andrey Sergienko
 	filename?
 	"Most cool bot for quake-1. new sounds, models, hook, multiskin, multiname, coll worked, scorebar, ai like Ripper bot."
-
+https://webjc.com/zone51/jeux/Qbots3.htm
+	GOATBOT
+	quake2?
+	http://www.underramp.com/~mikej/lab.html
+	http://underramp.com/~mikej/slayco/
+	http://underramp.com/~mikej/
+		not archived
 
 

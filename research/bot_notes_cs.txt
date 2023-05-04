@@ -382,8 +382,8 @@ QW Bot Project / QuakeForge QW bot server
 	Mongoose / botshop (Terry Hendrix II )
 	https://www.quakewiki.net/archives/botshop/news.html
 		https://www.quakewiki.net/archives/botshop/
-	based on GeneBot I think
-	engine bot?
+	based on GenBot
+	engine bot
 GenBot
 	http://www.atomicgamer.com/thefatal/old/genebot.shtml
 		https://web.archive.org/web/20150729175854/http://www.atomicgamer.com/thefatal/old/genebot.shtml
