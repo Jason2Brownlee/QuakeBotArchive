@@ -248,4 +248,27 @@ ZaphBot
 	https://web.archive.org/web/20000616111844/http://www.geocities.com/SiliconValley/Vista/1052/ClanCthugha.html
 		Kevin Burfitt aka "Zaph"
 	https://www.geocities.ws/oldquaker/zaphbot/
+Pandora Bot (quake2)
+	http://www.optics.arizona.edu/Pandora/Downloads/
+		https://web.archive.org/web/20001007220912/http://www.optics.arizona.edu/Pandora/Downloads/default.asp
+		https://web.archive.org/web/20001007220912/http://www.optics.arizona.edu/Pandora/Downloads/pandora200_source.zip
+		https://web.archive.org/web/20001007220912/http://www.optics.arizona.edu/Pandora/Downloads/PandoraSkin.zip
+	http://www.cullop.org/Darrin/
+		https://web.archive.org/web/20010514123607/http://www.cullop.org/Darrin/
+	Darrin W. Cullop
+	Quake2
+	https://web.archive.org/web/20001213102600/http://www.optics.arizona.edu/Pandora/stats.asp
+	https://www.gamers.org/pub/idgames2/quake2/graphics/skins/p-r/pandoraskin.txt
+	https://www.gamers.org/pub/idgames2/quake2/graphics/skins/p-r/pandoraskin.zip
+	http://www.opt-sci.Arizona.EDU/Pandora/
+		redirects
+	https://web.archive.org/web/20001006215532/http://www.botepidemic.com/interviews/dvcint.shtml
+BioBots
+	http://coriander.psychol.ucl.ac.uk/fw/quakebot1.html
+		https://web.archive.org/web/19971017015410/http://coriander.psychol.ucl.ac.uk/fw/quakebot1.html
+	Tom Hartley
+	no release...
+
+
+
 

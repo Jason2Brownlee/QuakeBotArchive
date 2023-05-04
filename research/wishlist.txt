@@ -573,5 +573,50 @@ smallbots.zip
 
 
 
-
-
+# client side bots
+boognaut.zip
+loefsrc.zip
+loefbot4.zip
+loefbot3.zip
+loefbot2.zip
+mikebot95.zip
+mikebot-linux.tar.gz
+mikebot-sunos.tar.gz
+mikebot-aix.tar.gz
+mikebot-solaris.tar.gz
+mikebot-irix.tar.gz
+pingsrc.zip
+pingbot2.zip
+trmbot07.zip
+trmbot06.zip
+trmbot05.zip
+trmbot04.zip
+trmbot03.zip
+trmbot02.zip
+trmbot01.zip
+trmbot06.tgz
+trmbot07.tgz
+trmbot06.tgz
+trmbot05.tgz
+trmbot04.tgz
+trmbot03.tgz
+trmbot02.tgz
+trmbot01.tgz
+botsrc07.zip
+botsrc06.zip
+botsrc05.zip
+botsrc04.zip
+botsrc03.zip
+botsrc02.zip
+botsrc01.zip
+botsrc08.tgz
+botsrc07.tgz
+botsrc06.tgz
+botsrc05.tgz
+botsrc04.tgz
+botsrc03.tgz
+botsrc02.tgz
+botsrc01.tgz
+zbot9504.zip
+zbotdem.zip
+navtest2.zip

@@ -278,10 +278,11 @@ Alphabetical list of Quake bot names, authors, and local download links for all 
 
 Bot Name | Bot Author(s) | File
 --- | --- | ---
+BioBots | Tom Hartley | n/a
 Booger | "Demonstar" | [booger.zip](bin/booger.zip)<br>[aimbot.zip](bin/aimbot.zip)<br>boognaut.zip ([txt](bin/boogfeat.txt))
 Itchy QuakeBot | Chad Dreveny | n/a
 LoefBot | James Loe | loefsrc.zip<br>[loefbot5.zip](bin/loefbot5.zip)<br>loefbot4.zip<br>loefbot3.zip<br>loefbot2.zip<br>[loefbot.zip](bin/loefbot.zip) ([txt](bin/loefbot.txt))
-MikeBot | Mike Warren | [mbcs040.zip](bin/mbcs040.zip)<br>mikebot95.zip<br>mikebot-linux.tar.gz<br>mikebot-sunos.tar.gz<br>mikebot-aix.tar.gz<br>mikebot-solaris.tar.gz<br>mikebot-irix.tar.gz<br>[mbcs031.zip](bin/mbcs031.zip)<br>[mbcs031.zip](bin/mbcs031.zip)<br>[mbcs03.zip](bin/mbcs03.zip) ([txt](bin/mbcs03.txt))<br>[mbcs02.zip](bin/mbcs02.zip)
+MikeBot | Mike Warren | [mbcs040.zip](bin/mbcs040.zip)<br>mikebot95.zip<br>mikebot-linux.tar.gz<br>mikebot-sunos.tar.gz<br>mikebot-aix.tar.gz<br>mikebot-solaris.tar.gz<br>mikebot-irix.tar.gz<br>[mbcs031.zip](bin/mbcs031.zip)<br>[mbcs03.zip](bin/mbcs03.zip) ([txt](bin/mbcs03.txt))<br>[mbcs02.zip](bin/mbcs02.zip)
 Mystery Bot | Aaron Drew aka "ripper" | [mystery0.67.zip](bin/mystery0.67.zip)<br>[linux-elf-myst0.66.tar.gz](bin/linux-elf-myst0.66.tar.gz)
 PingBot | James Loe | pingsrc.zip<br>pingbot2.zip<br>[pingbot.zip](bin/pingbot.zip)
 Playmate | Aesir Clan | n/a

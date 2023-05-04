@@ -31,9 +31,6 @@ Requiem QW Bot
 	https://web.archive.org/web/19981206204028/http://www.planetquake.com/requiem/
 	https://www.quakeworld.nu/wiki/Requiem
 	bots added to a mod I believe
-PandoraBot
-	https://web.archive.org/web/20001027075424/http://www.botepidemic.com/bots/quake.shtml
-	client side
 Interference Bot
 	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/news.htm
 	http://tux.telefragged.com/download.pl?dir=telefragged/be/&filename=interbotdm79z.zip&dl=local
@@ -43,9 +40,6 @@ Interference Bot
 	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/inter.htm
 	Chris "ArwingX" Dozier
 	monster bot
-BioBots
-	https://web.archive.org/web/19971017015410/http://coriander.psychol.ucl.ac.uk/fw/quakebot1.html
-	client bot
 Tsumi to Botsu
 	https://web.archive.org/web/20020408101357/http://www.botepidemic.com:80/quake.shtml
 	https://web.archive.org/web/20020408101357/http://www.telefragged.com/thefatal/tsumi.shtml
