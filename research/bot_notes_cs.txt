@@ -30,6 +30,8 @@ Resources / Links
 	https://drive.google.com/drive/folders/12sgmo96ezEeZLie6SXjUunHRW78sCzhM
 	https://web.archive.org/web/20001212211500/http://www.gamescenter.de/uqc/proxy.htm
 		https://web.archive.org/web/20001212154800/http://www.gamescenter.de/uqc/download.htm
+	http://members.tripod.com/clanllama/
+		https://web.archive.org/web/19991002164058/http://members.tripod.com/clanllama/
 
 --------------------------------------------------------------------------------
 
@@ -260,6 +262,9 @@ ZaphBot
 	https://web.archive.org/web/20000616111844/http://www.geocities.com/SiliconValley/Vista/1052/ClanCthugha.html
 		Kevin Burfitt aka "Zaph"
 	https://www.geocities.ws/oldquaker/zaphbot/
+	http://torps.com/
+		https://web.archive.org/web/20010401024046/http://torps.com/
+
 Pandora Bot (quake2)
 	http://www.optics.arizona.edu/Pandora/Downloads/
 		https://web.archive.org/web/20001007220912/http://www.optics.arizona.edu/Pandora/Downloads/default.asp
@@ -281,6 +286,7 @@ BioBots
 	Tom Hartley
 	no release...
 RichMark's QuakeBot
+	Rich Kroeker
 	http://www.geocities.ws/oldquaker/richmark/
 		http://www.geocities.ws/oldquaker/richmark/files/glkolor.zip
 		http://www.geocities.ws/oldquaker/richmark/files/qb17f.zip
@@ -355,9 +361,44 @@ SlugBot
 		https://www.geocities.ws/oldquaker/clanbot/files/termslugv1.30.zip
 		https://www.geocities.ws/oldquaker/clanbot/files/slugaxbotVh.zip
 		https://www.geocities.ws/oldquaker/clanbot/files/slugaxbot.zip
-
-
-
+AdminBot
+	https://web.archive.org/web/19990220164340/http://www.coe.uncc.edu/~jfrorie/QuakeBotLinks.htm
+	http://www.x-comm.co.nz/adminbot/
+		not archived
+	???
+JavaBot
+	https://web.archive.org/web/19990220164340/http://www.coe.uncc.edu/~jfrorie/QuakeBotLinks.htm
+		http://www.cis.ohio-state.edu/~swartzla
+		not archived
+	https://graphics.stanford.edu/~kekoa/stoogebot/resources.html
+		http://www.cis.ohio-state.edu/~swartzla
+		Ben Swartlander
+	http://www.diva-portal.org/smash/get/diva2:831590/FULLTEXT01
+		Ben Swartzlander. Quake 2 bot core, 1998.
+	Quake 2
+	https://www.gamers.org/pub/idgames2/planetquake/javabot/JavaBot112.zip
+		not related
+	???
+SeismoBot
+	https://web.archive.org/web/19990220164340/http://www.coe.uncc.edu/~jfrorie/QuakeBotLinks.htm
+	http://www.cloud9.net/~kfurphy
+		The Tinker's Tavern
+		https://web.archive.org/web/19990220164340/http://www.cloud9.net/~kfurphy
+	http://www.users.cloud9.net/~kfurphy
+		https://web.archive.org/web/20010419081905/http://www.users.cloud9.net/~kfurphy
+	kevin furphy ?
+	https://web.archive.org/web/20060222102430/http://www.planetquake.com/botarea51/main/history.asp
+		SeismoBot and SeismoGraph Clientside bot/stats
+LlamaBot
+	https://web.archive.org/web/19990220164340/http://www.coe.uncc.edu/~jfrorie/QuakeBotLinks.htm
+	http://www.netside.com/~csbailey/quake/
+		not archived
+	https://www.adamspiers.org/computing/quake/
+		http://www.netside.com/~csbailey/quake/
+	https://groups.google.com/g/alt.games.descent/c/3gLtZ3OYPgw/m/udCeUczqUMgJ
+		Chris Bailey
+	Not a real bot?
+	???
 
 
 
