@@ -1,0 +1,268 @@
+
+                        LoefBot
+             
+     A Client-Side Proxy-Only Deathmatch Assistant Bot
+                          by 
+            James Loe  (jamesloe@mindspring.com)
+       Olivier Montanuy     (Olivier.Montanuy@wanadoo.fr)
+
+
+	              Version 0.1     
+
+LIST OF FILES:
+
+
+  Loefbot.exe		program for a PC under Windows 95
+  Loefbot.txt		this file
+
+
+
+ABOUT LOEFBOT:
+
+The LoefBot borrows heavily upon the Terminator Bot by Olivier Montanuy, 
+which is why he is listed as co-author of this bot.  You might notice
+that this text file is very similar to the one distributed with the 
+Terminator bot, and that is because it is.  I cannot thank Olivier 
+enough for letting me use his code in the LoefBot, and he deserves
+alot of praise for his excellent work on the Terminator Bot.  While the
+AI of this bot may have been written by me, the LoefBot would not be in
+existence without the support of Olivier Montanuy.  Much thanx goes out 
+to him........
+
+NOW ON TO THE GOOD STUFF!
+
+
+The LoefBot has some very simple protocol and command line options, as follows
+
+First, you must connect to a server you wish to play on. Right now the LoefBot only works on TCP/IP networks. Simply type in the server like the following 
+example illustrates:
+
+
+loefbot.exe connect (server) 
+(ie. loefbot connect 72.72.72.72 *or* loefbot connect quake.kewl.net:26000)
+
+
+
+
+Now the bot is ready to go. All you need to do now is run Quake, join a TCP/IP Multiplayer game, and type in YOUR OWN IP ADDRESS in the "Join game at" 
+box at the bottom of the screen.
+
+That's all there is to it!
+
+I hope you enjoy the LoefBot. IT WILL RESPOND TO "NO BOTS PLEASE" AND "I LOVE BOTS". This is the only way I could come up with to successfully 
+control the use of this bot where it is unwanted.  Keep reading for more detailed info.
+
+
+
+This program is copyright (c) 1996 James Loe and Olivier Montanuy.
+YOU ARE NOT ALLOWED TO DISTRIBUTE IT FOR ANY COMMERCIAL PURPOSE.
+Use of this program is free.
+
+Quake is a registered trademark of id software, Mesquite, Texas.
+
+
+SYSTEM REQUIREMENTS:
+
+You must have... some machine with a TCP/IP network enabled
+(actually, UDP/IP). That can be a PC, a workstation, or anything 
+that can run either Linux, Unix, Windows NT or Windows95.                
+CPU and memory are not a problem. The bots are the only Quake
+client that accept to run a low-end 486 (maybe even on a 386).
+
+To enable TCP/IP, you must have some kind of network. It can be
+the Internet, via PPP or via a LAN, a standalone local network,
+or even a simple network card connected to nothing (loopback).
+Please do not ask me how to setup such a network.
+                
+Also, you must have Quake registered. This is not a system 
+requirement, but a moral requirement.
+     
+
+STARTING THE BOT:
+
+
+
+ Command line examples:
+
+   bot -h
+ 	Get some help.
+   bot quake.best.com:22000
+ 	Connect to server quake.best.com port 22000
+   bot quake.best.com:22000  -name llama -color 1 2
+ 	Same as above, but the bot name is "llama",
+ 	the pants color is 1, shirt color is 2.
+   bot quake.best.com  -game  mods
+ 	Connect to server quake.best.com port 26000
+ 	Detect existing model/sound files in:
+ 	 id1/pak0.pak
+         id1/pak1.pak
+         mods/*
+        There will be a warning for each missing file.
+ 
+ 
+
+
+COMMANDS FOR THE BOT:
+
+        
+ The bot console is a bit like the Quake console. 
+ You write a command, then a space, then the eventual command parameters.
+ Then you press RETURN and the command is executed. Fairly simple, indeed.
+
+ The name of the commands sometime look like those in Quake, but actually
+ only the first character is significant.
+ 
+ Bot commands, before the bot begins playing:
+
+ quit			= quit the bot
+ info			= request game infos
+ player			= request the list of players
+ rule			= request the list of rules
+ connect IPADDRESS:PORT	= connect to a server (IPADDRESS:PORT is optional)
+
+ Bot Keyboard commands, while the bot is playing:
+
+ quit			= disconnect and quit
+ player			= list of players names, frags (and hate level)
+ say     MESSAGE	= say MESSAGE to all the players
+  
+ Bot debug commands:
+ 
+ a			= list of all players positions
+ danger			= coordinates of all dangerous thingy
+ x			= coordinates of all entities in the game
+ entities		= infos on all entities in the game
+
+
+
+PLAYING IN PROXY MODE:
+
+
+ Proxy mode enables you to see through the eyes of the bot... or actually,
+ to play a normal game, but with some automatic reflexes handled by the bot.
+
+
+ Regular procedure:
+
+ . Launch the bot on a machine situated on your local network.
+   Send command 'i' (server infos) to check if the Quake server replies.
+   If the server doesn't reply, you better restart your bot.
+
+ . Launch a regular Quake Client, for Windows 95 (i.e. with TCP/IP enabled).
+   Go to menu: MULTIPLAYER | JOIN GAME | TCP/IP
+   Select SEARCH FOR LOCAL GAMES
+   Normally, the bot will reply to this search, and in the list of
+   servers, you should see one server called LOEFBOT: it's the bot, 
+   waiting for you. So connect to LOEFBOT, and play as usual.
+
+ Procedure for the UDP challenged:
+
+   If the bot is on the same machine as the Quake client, or not on your local 
+   network, of if it's running on some pervert O/S, the bot will be unable to 
+   reply to SEARCH FOR LOCAL GAMES.
+ 
+   If so, select JOIN GAME AT and enter the internet address of the bot (IP address).
+   Normally, the bot should answer. 
+   
+   If it doesn't work, please check the IP address you used, and the port number
+   of the bot (26000 by default, like Quake).
+ 
+ 
+
+BOT IMPULSE COMMANDS:
+
+ 
+  The bot catches some impulses, so that you can send simple command to it.
+ 
+  keys 2 to 8  (impulses 2 to 8):
+    If you press on a weapon you don't have, instead of saying "no weapon",
+    the bot will orient your view toward the closest weapon of that kind, and 
+    gives you the distance to this weapon, and the time since it was last seen.
+  
+  impulse 72:   
+    This command toggles the bot automatic movements (disable/enable).
+    Since the bot doesn't see the level yet, some of his moves are real stupid,
+    and you'd better bind this impulse to an easily reached key, like P (pause).
+ 
+        
+
+BOT POLITENESS:
+
+
+ Some people rightfully consider that playing with bots is cheating.
+
+ So if you don't like the idea of playing against this bot:
+
+  - Type the message "No bots please"
+    and the bot will immediatly disconnect.
+
+  - Type the message "I love bots"
+    and the bot will stop hating you (i.e. it will stop firing on you 
+    and will not avoid your line of sight anymore).
+
+ If you manage a server, and don't want bots on this server, please have 
+ your server print the sentence "No bots please" when a client connects.    
+
+
+
+THE BEHAVIOR OF THE BOT:
+
+ 
+ Technical Note:
+ 
+  - the proxy bot can only handle ONE QUAKE CLIENT.
+  - it will usually connect ONCE to a server. Kill him after that.
+  - under Win95, you might experience a 2 MINUTE DELAY when the quake 
+    client connects to the proxy bot. This is a bug in the windows TCP/IP
+    stack. The only solution is to reinstall your network from scratch
+    (well that's what I did, and now it works fine).
+    This is not a bug in the bot. It doesn't happen with the SUN version.
+  - currently, no file is read. The bot is wall-blind
+  - a bot doesn't see every entity in the level. If a player is out of sight,
+    the bot cannot know where he is... until he makes a noise (even a faint one).
+
+
+MISC STUFF:
+  
+  - If you do not run the bot from the Quake directory, then it CANNOT see
+    the walls. In that case, it will often kill himself with the rocket
+    launcher.
+  - When the level can be loaded, the bot is supposed to see the walls. Well,
+    sort of. Actually, it doesn't really use that information yet, because the
+    AI is really deficient. It won't avoid lava pits, for instance.
+  - Normally, the bot should not fire rockets at close range. But it happens
+    very often. There must be a bug somewhere in the weapon switching code.
+  - The bot will show the forecast position of the player with a cloud 
+    of red dots. That's the point where you should fire, if you had a 
+    rocket launcher. Unfortunately, the bot will refuse to let you use one.
+    So this feature is here only to increase your frustration... for the moment.
+  - The bot sees you before he should (because the server sends him
+    updates even when he has no direct line of sight)
+  - The bot is stupidly static, when no players are around.
+    (well, actually, it makes some random moves)
+  - The bot ignores the static entities (like weapons, armors,
+    and stuff) to avoid wasting too much time.
+    
+
+KNOWN PROBLEMS:
+
+
+ - The bot can play fine on a TCP/IP local network. However, if you
+   put it in your dinning room (like me), then chances are that you
+   don't have a Domain Name Server (DNS) ready. Then a 2-3 minute 
+   delay can happen, when the bot start.
+   
+ - The console of the bot will always think you use an English keyboard.
+   Don't ask me why. Quake does the same.     
+
+
+CONCLUSION:
+
+ 
+This is an advanced Deathmatch Assistant bot.  I hope that you have fun using it!
+
+      James Loe
+   
+      
+      
+ 	

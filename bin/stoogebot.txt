@@ -1,0 +1,288 @@
+The Stanford StoogeBot, v1.00         [readme.txt]                 20-FEB-1997
+
+
+NOTE: TO USE THE BOT EFFECTIVELY, YOU WILL NEED TO READ THE "LATENCY" SECTION.
+
+
+FILES
+
+  README.TXT   -- this file
+  COPYING.TXT  -- copyright and redistribution information
+  FAQ.TXT      -- answers to some frequently asked questions
+  stoogek.cfg  -- StoogeBot config file for keyboard-bound users
+  stoogem.cfg  -- StoogeBot config file for mousers
+
+  stooge.exe   -- StoogeBot executable
+  or
+  stooge       -- StoogeBot executable
+
+INSTALLATION:
+
+  The stooge must be able to find the Quake data files to operate.
+  You can either:
+
+     1. place the StoogeBot executable in your Quake directory (in the
+        same directory as quake.exe)
+
+     2. or, place the executable wherever you'd like, and set
+        the PAKDIR environment variable to point to your data files:
+
+        Win95:
+           set PAKDIR=c:\quake\ctf;c:\quake\id1
+
+        Irix/Linux:
+           setenv PAKDIR /tmp/quake/ctf:/tmp/quake/id1
+
+  The StoogeBot also has a menuing system for controlling the bot via
+  your Quake client.  See the MENU SYSTEM section for the details.
+
+RUNNING THE STOOGEBOT:
+
+  The StoogeBot is a command line program, invoked as:
+
+        stooge [options] <server[:port]>
+
+  The StoogeBot acts as a proxy between your local Quake client and
+  the server, so when you run Quake, connect to the machine the stooge
+  is running on, not to the remote server you'll eventually play on.
+
+  For example, to start a game on our bot-friendly server, type:
+
+        stooge kitty1.stanford.edu:26003
+
+  in a command shell and then start Quake as you normally would.
+  Bring up the Quake console (press ` to expose it) and type:
+
+        connect localhost
+
+  or whatever the name is of the machine on which you are running
+  the StoogeBot.
+
+  When choosing a machine to run the StoogeBot on, try to choose a
+  machine which has a fast internet connection, regardless of whether
+  or not you will be connecting to this machine through a fast
+  connection or a slow connection.  If your ISP will let you run the
+  StoogeBot on their server (on the "fast" side of the modem), do it.
+  If the StoogeBot must go through a slow connection to reach the internet,
+  try to place the bot as close to the internet as possible.  Usually, this
+  means running the StoogeBot on the machine which has the modem.
+
+  The StoogeBot requires a couple of megabytes of RAM and a small
+  amount of CPU power while running.  If your machine has enough memory
+  and a fast enough processor, you should be able to run Quake and
+  the StoogeBot on the same machine.
+
+  Note that the StoogeBot tries to be polite, and will honor the request
+  of any server that says "no bots please" by disconnecting.  In
+  addition, the StoogeBot is only compatible with the registered
+  version of Quake.  If you want to play with the StoogeBot and don't
+  own the registered version of Quake, buy it.
+
+USING THE STOOGEBOT:
+
+  After successfully connecting to the StoogeBot, you may begin
+  playing.  In order to do this effectively, however, it helps to
+  understand a few of the principles which guide the StoogeBot.
+
+  First and foremost, the StoogeBot splits the work of playing Quake
+  between the StoogeBot and its human driver.  The StoogeBot controls
+  almost all aspects of aiming and firing, while its human driver
+  controls most of the other aspects of the game, including
+  navigation, projectile avoidance, goal completion, and communication
+  with other players.  Secondly, the StoogeBot decouples movement from
+  aiming and firing.  This allows the StoogeBot to provide its human
+  driver with the illusion that the bot is facing and moving in one
+  direction, while in reality, the StoogeBot is facing in some other
+  direction, aiming and shooting at various targets.
+
+  Once you enter the game, it is your responsibility to navigate the
+  level, gather items, hunt enemies, dodge shots, and so on, while the
+  StoogeBot works somewhat independently to track and shoot at
+  targets.  Often when the bot fires, you'll see your weapon animate
+  but nothing emerge.  This is just because the bot is shooting in
+  another direction.
+
+  Although the StoogeBot tracks and shoots targets, it will never
+  switch weapons unless you tell it to do so by hitting one of the
+  number keys.  In addition, the StoogeBot will never fire if it
+  detects that you are wielding either the axe or the grappling hook,
+  or if it detects that you are have the lightning gun underwater.  In
+  order to fire any of these weapons, you must aim and shoot them
+  yourself.  When the StoogeBot detects that you are trying to shoot a
+  weapon, it will give the you priority, shooting the weapon
+  immediately after reorienting itself to face in the direction you've
+  specified.
+
+MENU SYSTEM:
+
+  The menu system is operated by 5 impulses, which can be configured
+  by either stoogem.cfg, for mouse players, or stoogek.cfg for
+  keyboarders:
+
+                                      key bindings 
+      impulse function          stoogem.cfg   stoogek.cfg
+      ------- ---------------   -----------   ----------- 
+        128   open/close menu   insert        F8
+        129   previous item     up arrow      F9 
+        130   next item         down arrow    F10
+        131   prev value        left arrow    F11
+        132   next value        right arrow   F12
+
+  Copy the .cfg files to your id1 directory to use them, and exec them
+  from the console, for example:
+
+    exec stoogem.cfg  
+
+MENU ITEMS:
+
+  STOOGE MODE:
+
+    The stooge has 5 modes:
+
+       LARRY: Larry is ruthless; he takes a look at all the players he
+         can see, and shoots at whoever has the highest number of
+         frags.  If that player runs behind a wall for a split second,
+         Larry immediately starts shooting at the next most highly
+         ranked player, etc.  Larry is always looking for a better
+         target.
+
+       CURLY: Curly is a numbskull.  He spins around like a maniac,
+         taking turns shooting at everyone he can see.  It may take
+         him a while to kill everyone, but he sure is impressive.
+
+       MOE: Moe is the determined ringleader.  When he doesn't have a
+         target he selects the player with the most frags that he can
+         currently see, and will stubbornly only fire at them.  Moe
+         will only choose a new target if he hasn't been able to see
+         his chosen target for more than second or so.  Moe is pretty
+         good at approximating human behavior.
+
+       SHEMP: Shemp is the Dark Stooge.  Shemp is completely inert,
+         and won't do anything until you shoot at somebody manually.
+         That player then becomes Shemp's mortal enemy, and he will
+         hunt no other until you fire at somebody else.
+
+       STOOGELESS: The StoogeBot is disabled and won't do any firing.
+         Now why would you want to do that?
+
+  LATENCY:
+
+    In order for the StoogeBot to work effectively, YOU MUST SET THE
+    BOT-TO-SERVER LATENCY, especially if you are on a slow connection.
+
+    Your latency is the delay between when the StoogeBot asks the
+    server to fire a shot and when the server actually takes the shot.
+    Your latency is generally about half of your ping.  If your
+    latency is set too low, your shots will tend to fall behind your
+    target; if your latency is set too high your shots will lead your
+    target.  When you start the StoogeBot it assumes a latency of 0
+    milliseconds, which is definitely too low.
+
+    Latency is adjustable in 5 millisecond increments, up to half a
+    second.  If the StoogeBot is trying to predict that far ahead it
+    probably won't help you much.
+
+  TEAM PLAY:
+
+    By default team play is ON and the StoogeBot won't fire at players
+    with the same color pants as you.  Turn it off to go hog wild.
+
+  SPLASH THRESHOLD:
+
+    The StoogeBot trys to use the rocket launcher with some savvy.
+    The splash threshold tries to prevent the StoogeBot from using the
+    rocket launcher when the splash damage would reduce your health
+    below the threshold.  The StoogeBot doesn't completely understand
+    splash damage, and you should be wary of teammates running between
+    you and your target when you are low on health...
+
+  UNDERWATER LIGHTNING:
+
+    The StoogeBot knows when you are underwater, and by default won't
+    won't discharge into the water.  If you want to convince it
+    otherwise, turn underwater lightning 'ON'.
+
+COMMAND LINE:
+
+  In addition to the menu system, the StoogeBot also has a number of
+  optional command-line arguments:
+
+    -port X : Specifies that the StoogeBot should listen for a
+       connection from the Quake client on port number X.  If you are
+       running the bot and a Quake server on the same machine, you may
+       have to change the port from the default 26000.  If you do so,
+       be sure to also set the port number in Quake by using the
+       "port" console command.
+
+    -noteam : Starts the bot in non-teammode.  Can also be toggled in
+       the menu.  By default, the StoogeBot will not fire at players
+       whose pants are the same color as yours.
+
+    -grapple X : Specify that the grappling hook is selected by
+       impulse X. The default value is 22.   Why the StoogeBot needs to
+       know this is a long, boring story.
+
+    -game dir : Specifies an additional directory to be searched for
+       pak files.
+
+    -latency X : Sets the initial latency estimate to X milliseconds.
+
+    -splash n : Sets the initial "minimum splash damage health" to X.
+       The default value is 50.
+
+FINDING A GAME:
+
+  Currently there aren't a whole lot of servers that explicitly
+  welcome bots. However, we'll always have a bot-friendly server up on
+  port 26003 (the 3 is for The Three Stooges, of course!) of
+  kitty1.stanford.edu, which can be reached with:
+
+      stooge kitty1.stanford.edu:26003
+
+  and of course, you can always play on any server which doesn't
+  explicitly forbid bots.
+
+  You can also check out
+
+      http://www-graphics.stanford.edu/~quake/servers.html
+
+  for a somewhat larger list of bot-friendly servers.
+
+FAQ:
+
+  The StoogeBot is complicated, full of subtleties, and positively
+  strange at times.  Please read the FAQ (faq.txt) if you have any
+  questions.
+
+  You can always get the most up to date and complete documentation
+  from the StoogeBot web site:
+
+       http://www-graphics.stanford.edu/~quake
+
+  The most current version of the FAQ is at:
+
+       http://www-graphics.stanford.edu/~quake/faq.html
+
+CREDITS:
+
+  Kekoa Proudfoot  - networking and proxy development
+  Matthew Eldridge - primary stooge AI (prediction, targeting, fire control)
+  Craig Kolb       - secondary AI, feature mongering, StoogeBot release
+  Joel Baxter      - Quake C deconstruction, brainstorming, Server Diety
+
+  Playtesting and invaluable suggestions by Matt Pharr, John Owens,
+  and Gordon Stoll.
+
+  Thanks to id Software for Quake, Nat Friedman ("Suck") for allowing
+  and encouraging us to test on his server (linux.mit.edu), our good
+  friends at Clan9 (oppressive alien infiltrators though they may be),
+  everybody at the Stanford Graphics Laboratory, the many authors who
+  contributed to the Quake Developer's Pages, and all the players who
+  good-naturedly (?) played against the StoogeBot as it was being
+  tested on public servers.  Hearty thanks and a big "Nyuk!" from
+  Moe.3S, Larry.3S, Curly.3S, and Shemp.3S.
+
+Copyright (C) 1996,1997, Kekoa Proudfoot, Matthew Eldridge, Craig Kolb
+All Rights Reserved.
+
+See the file "COPYING.TXT" for detailed Copyright information.

@@ -1,0 +1,206 @@
+Quake Client-Side Bots - Research Notes
+
+--------------------------------------------------------------------------------
+
+Resources / Links
+	https://www.geocities.ws/oldquaker/pres1.html
+	http://www.stomped.com/quakebot/index.html
+		https://web.archive.org/web/19961121230808/http://www.stomped.com/quakebot/index.html
+	http://www.coe.uncc.edu/~jfrorie/QuakeBotLinks.htm
+		https://web.archive.org/web/19990220164340/http://www.coe.uncc.edu/~jfrorie/QuakeBotLinks.htm
+	https://www.bluesnews.com/guide/bots.htm
+		https://web.archive.org/web/20001101045454/http://www.bluesnews.com/guide/bots.htm
+	http://www.randars.com/bots/proxies.html
+	https://mrl.cs.nyu.edu/~perlin/bots/
+	http://www.slipgatecentral.com/Addons/Bots/
+		https://web.archive.org/web/19971210230311/http://www.slipgatecentral.com/Addons/Bots/
+	http://www.mindspring.com/~jamesloe/links.html
+		https://web.archive.org/web/19981205132339fw/http://www.mindspring.com/~jamesloe/links.html
+	https://webjc.com/zone51/jeux/Qbots3.htm
+	https://grahamrat.fortunecity.ws/
+	http://www.quakecas.freeservers.com/quake1news.htm
+	http://www.planetquake.com/mikebot/remote-resources.html
+		https://web.archive.org/web/19981201235331fw_/http://www.planetquake.com/mikebot/remote-resources.html
+	http://www-mddsp.enel.ucalgary.ca/People/dreveny/itchy/botlinks.html
+	https://www.geocities.ws/oldquaker/lairofquakebot/
+	http://graphics.stanford.edu/~quake/resources.html
+
+--------------------------------------------------------------------------------
+
+QuakeBot C/S
+	http://www.coe.uncc.edu/~jfrorie/quakebot.htm
+		https://web.archive.org/web/19970514150137/http://www.coe.uncc.edu/~jfrorie/quakebot.htm
+		https://web.archive.org/web/19990220140653/http://www.coe.uncc.edu/~jfrorie/QuakeBotFiles.htm
+	Jim Rorie and John Simmerman
+	stand alone Client/Server QuakeBot for TCP/IP Internet play
+	files
+		https://web.archive.org/web/19970514150223fw_/http://www.coe.uncc.edu/~jfrorie/qbcs07.zip
+		https://web.archive.org/web/19970514150223fw_/http://www.coe.uncc.edu/~jfrorie/qbcs075.zip
+		https://web.archive.org/web/19970514150223fw_/http://www.coe.uncc.edu/~jfrorie/qbcs079.zip
+		https://web.archive.org/web/19970514150223fw_/http://www.coe.uncc.edu/~jfrorie/qbcs080.zip
+		https://web.archive.org/web/19970514150223fw_/http://www.coe.uncc.edu/~jfrorie/qbcs081.zip
+		https://web.archive.org/web/19990220140653/http://www.coe.uncc.edu/~jfrorie/qbcs082.zip
+		https://web.archive.org/web/19990220140653/http://www.coe.uncc.edu/~jfrorie/qbcsalph.zip
+		prior versions?
+LoefBot / PingBot
+	http://www.mindspring.com/~jamesloe/
+		https://web.archive.org/web/19981202215045/http://www.mindspring.com/~jamesloe/
+	James Loe
+	http://www.mindspring.com/~jamesloe/files.html
+		https://web.archive.org/web/19990202023247fw/http://www.mindspring.com/~jamesloe/files.html
+		https://web.archive.org/web/19990202023247fw/http://www.mindspring.com/~jamesloe/pingbot2.zip
+		https://web.archive.org/web/19990202023247fw/http://www.mindspring.com/~jamesloe/boognaut.zip
+		https://web.archive.org/web/19990202023247fw/http://www.mindspring.com/~jamesloe/boogfeat.txt
+		https://web.archive.org/web/19990202023247fw/http://www.mindspring.com/~jamesloe/pingsrc.zip
+		https://web.archive.org/web/19990202023247fw/http://www.mindspring.com/~jamesloe/pingbot.zip
+		https://web.archive.org/web/19990202023247fw/http://www.mindspring.com/~jamesloe/Loefsrc.zip
+		https://web.archive.org/web/19990202023247fw/http://www.mindspring.com/~jamesloe/loefbot.zip
+		https://web.archive.org/web/19990202023247fw/http://www.mindspring.com/~jamesloe/loefbot2.zip
+		https://web.archive.org/web/19990202023247fw/http://www.mindspring.com/~jamesloe/loefbot3.zip
+		https://web.archive.org/web/19990202023247fw/http://www.mindspring.com/~jamesloe/loefbot4.zip
+		https://web.archive.org/web/19990202023247fw/http://www.mindspring.com/~jamesloe/loefbot5.zip
+		https://web.archive.org/web/19990202023247fw/http://www.mindspring.com/~jamesloe/loefbot.txt
+	usenet
+		https://groups.google.com/g/alt.games.quake/c/WfEbuu8f17M/m/34i1nqAtxDsJ
+	https://www.geocities.ws/oldquaker/loefbot/
+		https://www.geocities.ws/oldquaker/loefbot/files/aimbot.zip
+		https://www.geocities.ws/oldquaker/loefbot/files/loefbot5.zip
+	https://webjc.com/zone51/jeux/Qbots3.htm
+		http://www.mindspring.com/~jamesloe/
+		http://www.mindspring.com/~jamesloe/Loefsrc.zip
+		http://www.mindspring.com/~jamesloe/Loefsrc.zip
+Boognaut / Booger
+	http://www.mindspring.com/~jamesloe/files.html
+		https://web.archive.org/web/19990202023247fw/http://www.mindspring.com/~jamesloe/boognaut.zip
+		https://web.archive.org/web/19990202023247fw/http://www.mindspring.com/~jamesloe/boogfeat.txt
+	Demonstar?
+	https://www.geocities.ws/oldquaker/loefbot/
+		https://www.geocities.ws/oldquaker/loefbot/files/aimbot.zip
+			booger.exe
+Terminator Bot
+	http://www.ens.fr/~cridlig/bot/
+		not archived
+	https://www.gamers.org/dEngine/quake/Qbot/
+		https://web.archive.org/web/19970124133740/http://www.gamers.org/dEngine/quake/Qbot/
+	Olivier Montanuy
+	files
+		https://www.gamers.org/dEngine/quake/Qbot/bot.txt
+		https://www.gamers.org/dEngine/quake/Qbot/trmbot09.zip
+		https://www.gamers.org/dEngine/quake/Qbot/trmbot09.tgz
+		https://www.gamers.org/dEngine/quake/Qbot/botsrc09.zip
+		https://www.gamers.org/dEngine/quake/Qbot/botsrc09.tgz
+	old versions?
+	https://www.geocities.ws/oldquaker/terminator/
+	https://grahamrat.fortunecity.ws/
+		https://grahamrat.fortunecity.ws/trmbot09.zip
+	https://quakeone.com/forum/quake-talk/quake-central/9619-torrent-of-900-quake-editors-mods-etc
+		Quake 1 Bots/Quake 1 Bots/trmbot08.zip 126.57 KiB
+		trmbot08.zip
+	usenet
+		https://groups.google.com/g/rec.games.computer.quake.announce/c/2wZZQ-nVdEk/m/NMk6le5f1fkJ
+			http://www.worldnet.net/~edwin/quake/quake.htm
+Playmate / AE_playmate
+	https://www.bluesnews.com/archives/august96.html
+	http://www.tf.hut.fi/~ath/Aesir/bot.html
+		https://web.archive.org/web/19970617174134/http://www.tf.hut.fi/~ath/Aesir/bot.html
+		https://web.archive.org/web/19970617164411/http://www.tf.hut.fi/~ath/Aesir/
+		https://web.archive.org/web/19970617193202/http://www.tf.hut.fi/~ath/Aesir/Download/
+		https://web.archive.org/web/19971010235839/http://www.tf.hut.fi:80/~ath/Aesir/news.html
+	https://poltsi.fi/Archives/Aesir/bot.html
+	no files...
+Mystery Bot
+	http://www.wollongong.starway.net.au/~ripper/info.htm
+		not archived
+	http://mystery.telefragged.com/
+		https://web.archive.org/web/19971222022816/http://mystery.telefragged.com/
+		https://web.archive.org/web/19971222023208fw/http://mystery.telefragged.com/dl.shtml
+		https://web.archive.org/web/19971222023208fw/http://mystery.telefragged.com/mystery.zip
+			v0.67
+		https://web.archive.org/web/19971222023208fw/http://mystery.telefragged.com/linux-elf-myst0.66.tar.gz
+	multiple versions with the same release filename?
+		mystery.zip
+	based on QuakeBot C/S code
+	downloads
+		http://www2.telefragged.com/mystery/mystery.zip
+		http://www.wollongong.starway.net.au/~ripper/mystery.zip
+	Aaron Drew aka "ripper"
+	prior versions
+		v0.67, v0.66, v0.65, v0.6, v0.5
+	http://www.geocities.ws/oldquaker/pres1.html
+		http://www.geocities.ws/oldquaker/mbot2.zip
+		http://www.geocities.ws/oldquaker/mbot4.zip
+		http://www.geocities.ws/oldquaker/mystery.zip
+	http://www.geocities.ws/oldquaker/mystery/dl.shtml
+		http://www.geocities.ws/oldquaker/mystery/files/mystery.zip
+		http://www.geocities.ws/oldquaker/mystery/files/linux-elf-myst0.66.tar.gz
+	https://www.bluesnews.com/archives/march97-1.html
+		version 0.65 of the Mystery Bot
+	https://www.bluesnews.com/archives/april97-1.html
+		Linux Version of the Mystery Bot
+	https://www.bluesnews.com/archives/march97-4.html
+		homepage of the Mystery Bot
+	https://www.bluesnews.com/archives/march97-3.html
+		 Mystery Bot
+	https://webjc.com/zone51/jeux/Qbots3.htm
+		http://mystery.telefragged.com/mystery.zip
+	http://www.insideqc.com/modindex/qreview/mys.shtml
+		http://mystery.telefragged.com/mystery.zip
+		https://www.insideqc.com/modindex/qreview/demo.zip
+MikeBot
+	http://www.ucalgary.ca/~mbwarren
+		redirects
+		https://web.archive.org/web/19981202082158/http://www.planetquake.com/mikeBot/
+	http://www.planetquake.com/mikeBot/
+		https://web.archive.org/web/19980113013337/http://www.planetquake.com/mikeBot/
+		https://web.archive.org/web/19981205125046fw_/http://www.planetquake.com/mikebot/code.html
+		https://web.archive.org/web/19990209193820/http://www.planetquake.com/mikebot/binary/documentation/index.html
+		https://web.archive.org/web/19990209185610fw_/http://planetquake.com/mikebot/documentation/version.html
+			v0.40, v0.31, v0.30, v0.20, v0.10
+		https://web.archive.org/web/19990209173106/http://www.planetquake.com/mikebot/binary/documentation/files.html
+			https://web.archive.org/web/19990209173106/ftp://ftp.cdrom.com/pub/idgames2/planetquake/mikebot/binary/documentation.zip
+			documentation.zip
+			mikeBot95.zip
+	Mike Warren
+	https://web.archive.org/web/19981205111443fw/http://www.planetquake.com/mikebot/files.html
+		https://web.archive.org/web/19981205111443/ftp://ftp.cdrom.com/pub/idgames2/planetquake/mikebot/binary/mikebot-linux.tar.gz
+		https://web.archive.org/web/19981205111443/ftp://ftp.cdrom.com/pub/idgames2/planetquake/mikebot/binary/mikebot-SunOS.tar.gz
+		https://web.archive.org/web/19981205111443/ftp://ftp.cdrom.com/pub/idgames2/planetquake/mikebot/binary/mikebot-AIX.tar.gz
+		https://web.archive.org/web/19981205111443/ftp://ftp.cdrom.com/pub/idgames2/planetquake/mikebot/binary/mikebot-Solaris.tar.gz
+		https://web.archive.org/web/19981205111443/ftp://ftp.cdrom.com/pub/idgames2/planetquake/mikebot/binary/mikebot-IRIX.tar.gz
+		https://web.archive.org/web/19981205111443/ftp://ftp.cdrom.com/pub/idgames2/planetquake/mikebot/binary/mikeBot95.zip
+		https://web.archive.org/web/19981205111443/ftp://ftp.cdrom.com/pub/idgames2/planetquake/mikebot/binary/documentation.zip
+		https://web.archive.org/web/19981205111443/ftp://ftp.cdrom.com/pub/idgames2/planetquake/mikebot/mikebot2.zip
+		https://web.archive.org/web/19981205111443/ftp://ftp.cdrom.com/idgames2/planetquake/mikebot/mikebot3.zip
+		https://web.archive.org/web/19981205111443/ftp://ftp.cdrom.com/pub/idgames2/planetquake/mikebot/mikebot4.zip
+		https://web.archive.org/web/19981205111443/ftp://ftp.cdrom.com/pub/idgames2/planetquake/mikebot/target.zip
+		https://web.archive.org/web/19981205111443/ftp://ftp.cdrom.com/pub/idgames2/planetquake/mikebot/mikebot5.zip
+		https://web.archive.org/web/19981205111443/ftp://ftp.cdrom.com/pub/idgames2/planetquake/mikebot/mbcs02.zip
+		https://web.archive.org/web/19981205111443/ftp://ftp.cdrom.com/pub/idgames2/planetquake/mikebot/mbcs03.zip
+		https://web.archive.org/web/19981205111443/ftp://ftp.cdrom.com/pub/idgames2/planetquake/mikebot/mbcs031.zip
+		https://web.archive.org/web/19981205111443/ftp://ftp.cdrom.com/pub/idgames2/planetquake/mikebot/documentation.zip
+		https://web.archive.org/web/19981205111443/ftp://ftp.cdrom.com/pub/idgames2/planetquake/mikebot/site.zip
+	http://www.mike-warren.com/mike/the-mikebot-project.html
+	https://www.gamers.org/pub/idgames2/planetquake/mikebot/
+	https://www.quaddicted.com/files/idgames2/planetquake/mikebot/
+	https://dukeworld.com/planetquake/mikebot/
+		files...
+		https://www.gamers.org/pub/idgames2/planetquake/mikebot/mbcs040.zip
+	http://www.geocities.ws/oldquaker/pres1.html
+		https://www.geocities.ws/oldquaker/lairofquakebot/
+		"The Lair of the QuakeBot"
+StoogeBot
+	https://graphics.stanford.edu/~kekoa/
+		https://web.archive.org/web/20000817012152/http://graphics.stanford.edu/~kekoa/
+	http://graphics.stanford.edu/~kekoa/stoogebot/
+	http://graphics.stanford.edu/~kekoa/stoogebot/download.html
+		http://graphics.stanford.edu/~kekoa/stoogebot/download/stooge/stoogebot.txt
+		http://graphics.stanford.edu/~kekoa/stoogebot/download/stooge/winstoog.zip
+		http://graphics.stanford.edu/~kekoa/stoogebot/download/stooge/linstooge.tar.gz
+		http://graphics.stanford.edu/~kekoa/stoogebot/download/stooge/sgistooge.tar.gz
+
+
+
+
+
+
+

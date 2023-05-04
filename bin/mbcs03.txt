@@ -1,0 +1,74 @@
++--------------------------------------------------------+
+|    mikeBot Client-Server Bot Base Code version 0.30    |
++--------------------------------------------------------+
+|                                                        |
+|   copyright (c) 1997 Mike Warren. All rights reserved  |
+|                                                        |
+|   Web   *   http://www.planetquake.com/mikebot         |
+| email   *   mbwarren@acs.ucalgary.ca                   |
+|             mike@botauthors.org                        |
+|                                                        |
++--------------------------------------------------------+
+
+1.0  Copyright
+
+	This code and the accompaning documentation is copyright
+1997 Mike Warren. You may not distribute it, sell it or in any 
+way make money off it without the written consent of the author.
+
+
+2.0  Introduction
+
+	This code will allow you to easily create a client-side 
+autonomous quake-bot. I do not support the creation of cyborg bots
+such as Stooge Bot and Loef Bot (however, Stooge Bot is very well done
+and has many safeties to make it "nice". LoefBot is not so well 
+behaved).
+
+	There are "TODO" comments throught the AI classes (mbnav, mbfire
+and mbtalk) telling you what you need to do to make a working bot. (That
+said, however, this code will compile and connect "out of the box" but
+will just run at the nearest wall :) )
+
+
+3.0  Compatability
+
+	I have compiled this code successfully on Windows 95 with 
+Microsoft Visual C++ 4.0, SunOS with g++ and CC and AIX 4.1.4 with
+xlC. I presume it will compile with Linux since g++ (GNU C++) compiles
+it.
+
+	If anyone has problems compiling on these systems, or has success
+compiling it on the same or different systems with different compilers, 
+*please* mail me about it.
+
+
+4.0  Installation
+
+	Unzip the "code.zip" file into a fresh directory. Unzip the
+"documentation.zip" file into its own directory. Using your favorite
+web browser (I recomment Internet Explorer) open the "csbase.html"
+file in the documentation directory and click on the "setup" heading
+in the left-most frame. This will explain how to compile with
+Unix and Microsoft Visual C++ 4.0. (NB: If you don't have a frames-compliant
+web browser, open the file "setup.html")
+
+
+5.0  Documentation
+
+	If you have any questions about or problems with the documentation, 
+*please* tell me. There is no point in having documentation if it is unclear 
+or doesn't answer your questions. Be sure to check the web page also (under "C++ Source Code"
+and "Source Feedback") for more information. Don't be afraid to email me, though.
+
+
+6.0  Author/Support
+
+	Please email me any questions or comments you have about the
+code (good or bad). There is a source code feedback/question and answer
+page on my web page (http://www.planetquake.com/mikebot), so look there
+for an answer first. However, don't be afraid to email me; I don't bite :)
+
+	
+	
+	

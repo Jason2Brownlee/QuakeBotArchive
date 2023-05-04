@@ -1,0 +1,21 @@
+
+* Fixed offline player list (doesn't scroll off the screen now)
+
+* Fixed aiming (kinda; it's at least 100% more accurate than before
+anyway; it leads based on lag [the bot's], your victim's velocity, and your
+velocity).  Anyway, it's sharp enough to beat most humans most of the time
+:).
+
+* "Fixed" targeting.  It now concentrates on a single target until
+that target is either dead or not in the line of sight.  This breaks a lot
+because I did it real sloppy.
+
+* Bot just aims.  The only time the bot does anything is when you
+push fire.  It then proceeds to find an enemy and lock on his expected
+location.  It does actually turn you, partly because it's easier to
+dodge/circle strafe that way, and partly to circumvent "Stooge detectors"
+that kick you off if you maintain constant velocity while changing angles.
+
+* Removed a bunch of code I didn't want.  (My intent was to make a
+proxy-only bot, removing the autonomous code.  But I burnt out before doing
+that.)

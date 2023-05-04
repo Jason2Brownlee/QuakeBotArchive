@@ -24,24 +24,11 @@ dragon
 	http://www.insideqc.com/modindex/qreview/drag.shtml
 	https://web.archive.org/web/19990125075903/http://203.32.12.18/
 	monster
-Mystery Bot
-	http://www.insideqc.com/modindex/qreview/mys.shtml
-	http://mystery.telefragged.com/
-	https://web.archive.org/web/19971222022816/http://mystery.telefragged.com/
-	https://webjc.com/zone51/jeux/Qbots3.htm
-	client-side
 tEdBot
 	https://web.archive.org/web/20000303070145/http://www.botepidemic.com/bots/quake.shtml
 	Grant Davies & Ramanan Rajeswaran
 	http://www.labyrinth.net.au/~adsoft
 	https://web.archive.org/web/19990204002002/http://www.labyrinth.net.au/~adsoft/
-	client side
-mikeBot
-	https://web.archive.org/web/19990204002855/http://www.planetquake.com/mikeBot/
-	https://web.archive.org/web/19990127170703/http://www.planetquake.com/mikeBot/table-index.html
-	client side
-stooge bot
-	https://graphics.stanford.edu/~kekoa/stoogebot/about.html
 	client side
 Requiem QW Bot
 	https://web.archive.org/web/20000303070145/http://www.botepidemic.com/bots/quake.shtml
@@ -57,13 +44,6 @@ Itchy Bot
 PandoraBot
 	https://web.archive.org/web/20001027075424/http://www.botepidemic.com/bots/quake.shtml
 	client side
-AE_Playmate
-	https://www.bluesnews.com/archives/august96.html
-	http://www.tf.hut.fi/~ath/Aesir/
-	"Clan Aesir"
-	http://www.tf.hut.fi/~ath/Aesir/bot.html
-	https://web.archive.org/web/19990117030446/http://www.tf.hut.fi/~ath/Aesir/bot.html
-	client side bot, it looks like
 Interference Bot
 	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/news.htm
 	http://tux.telefragged.com/download.pl?dir=telefragged/be/&filename=interbotdm79z.zip&dl=local
@@ -73,16 +53,6 @@ Interference Bot
 	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/inter.htm
 	Chris "ArwingX" Dozier
 	monster bot
-loefbot
-	https://webjc.com/zone51/jeux/Qbots3.htm
-	http://www.mindspring.com/~jamesloe/Loefsrc.zip
-	http://www.mindspring.com/~jamesloe/
-	http://www.geocities.ws/oldquaker/loefbot/
-	https://www.quakewiki.net/archives/mikebot/faq.html#2.7
-	client side
-Terminator bot
-	https://www.gamers.org/dEngine/quake/Qbot/
-	client side
 ZaphBot
 	https://web.archive.org/web/20010408210009/http://www.geocities.com/SiliconValley/Vista/1052/zaphbot.html
 	client bot
@@ -135,11 +105,6 @@ Quakabiltiy: Bot Arena
 	https://www.quaketastic.com/files/multiplayer/mods/Quakability_2.1_-_NoMusicRepack.zip
 	total conversion
 	engine bots I believe...
-Void Mod
-	https://web.archive.org/web/20020408101357/http://www.botepidemic.com:80/quake.shtml
-	http://www.mdqnet.net/dept187/
-	made by ryan too...
-	monster bots I think...
 Quake 1 Arena
 	https://www.moddb.com/mods/quake-1-arena
 	https://www.quaketerminus.com/addon.shtml
@@ -184,6 +149,10 @@ SuperDuper / Bondo's SuperDuper Quake / SDQ
 	many versions
 	really large files...
 	basically a TC
-Quake Bot C/S
-	https://web.archive.org/web/19990427091206/http://www.coe.uncc.edu:80/~jfrorie/quakebot.htm
+Quake client bot
+	http://granttheant.com/products/quakebot/
+	Grant Davies
+Quakebot the Netquake & Quakeworld Proxy Bot
+	https://www.quaketerminus.com/rminterview.shtml
+	Rick Mark
 
