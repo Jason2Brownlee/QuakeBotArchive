@@ -282,6 +282,7 @@ Bot Name | Bot Author(s) | File
 BioBots | Tom Hartley | n/a
 Booger | "Demonstar" | [booger.zip](bin/booger.zip)<br>[aimbot.zip](bin/aimbot.zip)<br>boognaut.zip ([txt](bin/boogfeat.txt))
 Bottim | Tim Ferguson | [linux-elf-bottim0.1.tar.gz](bin/linux-elf-bottim0.1.tar.gz)<br>[solaris-bottim0.1.tar.gz](bin/solaris-bottim0.1.tar.gz)
+HPB Proxy | Chad Dreveny | [hpb-proxy-0.992b-linux.tar.gz](bin/hpb-proxy-0.992b-linux.tar.gz) ([txt](bin/hpb-proxy-0.992b.txt))<br>[hpb-proxy-0.991b-linux.tar.gz](bin/hpb-proxy-0.991b-linux.tar.gz)<br>[hpb-proxy-0.99b-linux.tar.gz](bin/hpb-proxy-0.99b-linux.tar.gz)<br>[hpb-proxy-0.9b-linux.tar.gz](bin/hpb-proxy-0.9b-linux.tar.gz) ([txt](bin/hpb-proxy-0.9b.txt))<br>[hpb-proxy-0.9b-aix.tar.gz](bin/hpb-proxy-0.9b-aix.tar.gz)
 Itchy QuakeBot | Chad Dreveny | n/a
 LoefBot | James Loe | loefsrc.zip<br>[loefbot5.zip](bin/loefbot5.zip)<br>loefbot4.zip<br>loefbot3.zip<br>loefbot2.zip<br>[loefbot.zip](bin/loefbot.zip) ([txt](bin/loefbot.txt))
 MikeBot | Mike Warren | [mbcs040.zip](bin/mbcs040.zip)<br>mikebot95.zip<br>mikebot-linux.tar.gz<br>mikebot-sunos.tar.gz<br>mikebot-aix.tar.gz<br>mikebot-solaris.tar.gz<br>mikebot-irix.tar.gz<br>[mbcs031.zip](bin/mbcs031.zip)<br>[mbcs03.zip](bin/mbcs03.zip) ([txt](bin/mbcs03.txt))<br>[mbcs02.zip](bin/mbcs02.zip)

@@ -1,0 +1,151 @@
+================================
+HPB Quake Proxy (version 0.992b)
+================================
+
+HPB Proxy is a Quake Proxy that you can play through in order to
+physically increase your ping (delay in sending/receiving updates).
+Unlike some other proxies, HPB Proxy does NOT give the user a
+"fake" ping.  It provides an interface to the connecting client
+via the "say" Quake console command.  Thus, no messy impulses
+are required.  HPB Proxy has a console of its own for controlling
+settings.
+
+Currently it is available for the following platforms:
+
+ Linux 2.0.24 (Intel i486)
+ IBM AIX 4.1 (HPB Proxy Version 0.9b only)
+
+I believe it could be fashioned for other UNIX platforms.  I tried
+porting it to Windoze but access to the timers seemed like a
+real pain.
+
+HPB Proxy is currently in its testing phase (and it may be that
+way forever) so it may not be entirely stable.  If you want to 
+ask questions, leave comments, or indicate problems with the 
+program (or its documentation), email me at:
+dreveny@enel.ucalgary.ca
+
+Change Log
+----------
+Keep an eye out for updates on the official HPB Proxy home page:
+http://www-mddsp.enel.ucalgary.ca/People/dreveny/hpb 
+(although I am not planning any new releases anytime soon -- I do 
+have "real" work to do).
+
+version 0.992b -- Big bug fixes (version 0.991b didn't work at all!)
+   Also fixed some command line option stuff.  Thanks again to Frank
+   for the quick feedback and beta testing.
+
+version 0.991b -- Small bug fixes.  Also fixed a somewhat big problem 
+   with the model precaching routine.  Somehow a target box model got 
+   in there (leftover from the Itchy Bot source code).  This would 
+   cause a Quake client crash if the client did not have the target 
+   box model -- which hasen't been released yet.  
+   Thanx to Frank Steiner for making me aware of this problem.
+   I also made this version statically linked to avoid library
+   inconsistancies on different systems.
+ 
+version 0.99b -- Complete re-write of all the code.  This (hopefully)
+   should make the proxy somewhat more stable.  Due to circumstances
+   beyond my control, an AIX version will not be available (the
+   AIX machine I have access to does not compile C++ easily -- too
+   many changes to the rewritten code would be necessary).  But who
+   uses AIX machines anyway? :)  Maybe someday I will re-write it again...
+
+version 0.9b -- First public release of the proxy.
+
+
+Who should use HPB Proxy?
+-------------------------
+Everyone who is tired of hearing other players say: "You damn LPB,
+if your ping was as high as mine I would be wiping the floor with
+you!"  If you have a good connection to a server (like being on 
+the same LAN) you can now put yourself on the same playing field
+as other players and show them who is the real better player.  
+If you find networked Quake becoming boring because you are soooo 
+good, you can use HPB Proxy to make a game with some newbies 
+more interesting.
+
+
+Usage
+-----
+     hpb [-port number] [-delay amount] [-verbose] server
+
+Options
+-------
+     -port   number
+         Specifies which port the proxy should listen for
+         connections on.  Default = 26000.
+
+     -delay  amount
+         Sets the amount of desired delay (in milliseconds).  This
+         corresponds to the amount of increase in client's ping.
+         The delay can be set from the console as well as from
+         the client.
+
+     -verbose
+         Turns verbose error messaging on.  (Used mostly for 
+         debugging purposes.)  This can be toggled from both
+         the console and the client.
+
+The desired Quake server is also given on the command line in the 
+format: quake.server.name:port.  Specifying the server port (i.e.
+the ":port" part) is optional and defaults to the Quake standard
+of 26000.  The server can also be set from the console (but not
+while connected).
+
+
+The HPB Console
+---------------
+After starting the program, HPB Proxy provides a console interface
+allowing the user to set various variables without having to restart
+the proxy.  The delay, quake server, and verbose messaging can be
+set from the console.  The console commands are:
+
+help
+   This will give a printout of all the available console commands.
+
+set server [server_name:port]
+   Sets the current Quake server address.  If no server is given,
+   it will echo the current Quake server.  This can only be done
+   if the proxy is not currently connected to a Quake server.
+
+set delay [amount]
+   Sets the amount of delay (in milliseconds) which will result in
+   a higher ping (by approximately the same amount).  If no amount
+   is given, the current delay amount will be echoed.
+
+set verbose [0/1]
+   Specifies if extended error messages should be displayed.
+   0 for off, 1 for on.  If no argument is given the current verbose
+   setting will be printed.
+
+disconnect
+   Disconnects from the Quake server.
+
+quit
+   Disconnects from the Quake server, and exits the program.
+
+
+HPB Proxy Client Commands
+-------------------------
+After connecting to the proxy (which in turn connects to the Quake
+server), the client has access to the HPB Proxy Console commands.
+To use the commands simply use the "say" command or just hit
+'t' (unless you have bound 't' to something else).  To specify a
+HPB Proxy command simply start your message with a backslash '\'
+character.  The proxy will then interpret the remaining as if it
+were a HPB Proxy command.  For example:
+
+say \set delay 100
+
+will set the delay to 100ms (or increase the base ping by 100).
+NOTE: Command messages will NOT be broadcast to other players.
+
+====================================================================
+
+Copyright (C) 1997 by Chad Dreveny.  (dreveny@enel.ucalgary.ca)
+
+Permission to use, and copy this software without fee is hereby 
+granted provided that the original documentation is included.  
+This software is provided "as is" without express or implied warranty.

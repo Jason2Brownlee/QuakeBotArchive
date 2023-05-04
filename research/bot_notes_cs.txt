@@ -129,16 +129,6 @@ Terminator Bot
 		https://web.archive.org/web/20011121150058/http://perso.wanadoo.fr/montanuy/bot/quake-termbot-0.96-1.i386.rpm
 		https://web.archive.org/web/20011121150058/http://perso.wanadoo.fr/montanuy/bot/termbot-src-096.tar.gz
 		https://web.archive.org/web/20011121150058/http://perso.wanadoo.fr/montanuy/bot/quake-termbot-0.96-1.src.rpm
-
-Playmate / AE_playmate
-	https://www.bluesnews.com/archives/august96.html
-	http://www.tf.hut.fi/~ath/Aesir/bot.html
-		https://web.archive.org/web/19970617174134/http://www.tf.hut.fi/~ath/Aesir/bot.html
-		https://web.archive.org/web/19970617164411/http://www.tf.hut.fi/~ath/Aesir/
-		https://web.archive.org/web/19970617193202/http://www.tf.hut.fi/~ath/Aesir/Download/
-		https://web.archive.org/web/19971010235839/http://www.tf.hut.fi:80/~ath/Aesir/news.html
-	https://poltsi.fi/Archives/Aesir/bot.html
-	no files...
 Mystery Bot
 	http://www.wollongong.starway.net.au/~ripper/info.htm
 		not archived
@@ -245,14 +235,6 @@ tEdbot
 		https://web.archive.org/web/20000303070145/http://www.botepidemic.com/bots/quake.shtml
 	https://www.geocities.ws/oldquaker/tedbot/
 	no releases?
-Itchy QuakeBot
-	http://www-mddsp.enel.ucalgary.ca/People/dreveny/itchy/index.html
-		Chad Dreveny
-	http://www-mddsp.enel.ucalgary.ca/People/dreveny/itchy/itchy.html
-	http://www-mddsp.enel.ucalgary.ca/People/dreveny/itchy/botprog.html
-	no downloads
-	http://www-mddsp.enel.ucalgary.ca/People/dreveny/hpb/index.html
-		HPB Proxy
 ZaphBot
 	http://www.geocities.com/SiliconValley/Vista/1052/zaphbot.html
 		https://web.archive.org/web/19990117014403/http://www.geocities.com/SiliconValley/Vista/1052/zaphbot.html
@@ -280,11 +262,6 @@ Pandora Bot (quake2)
 	http://www.opt-sci.Arizona.EDU/Pandora/
 		redirects
 	https://web.archive.org/web/20001006215532/http://www.botepidemic.com/interviews/dvcint.shtml
-BioBots
-	http://coriander.psychol.ucl.ac.uk/fw/quakebot1.html
-		https://web.archive.org/web/19971017015410/http://coriander.psychol.ucl.ac.uk/fw/quakebot1.html
-	Tom Hartley
-	no release...
 RichMark's QuakeBot
 	Rich Kroeker
 	http://www.geocities.ws/oldquaker/richmark/
@@ -361,6 +338,49 @@ SlugBot
 		https://www.geocities.ws/oldquaker/clanbot/files/termslugv1.30.zip
 		https://www.geocities.ws/oldquaker/clanbot/files/slugaxbotVh.zip
 		https://www.geocities.ws/oldquaker/clanbot/files/slugaxbot.zip
+HPB Proxy
+	http://www-mddsp.enel.ucalgary.ca/People/dreveny/hpb/index.html
+		http://www-mddsp.enel.ucalgary.ca/People/dreveny/hpb/hpb-proxy-0.992b-linux.tar.gz
+		http://www-mddsp.enel.ucalgary.ca/People/dreveny/hpb/hpb-proxy-0.991b-linux.tar.gz
+		http://www-mddsp.enel.ucalgary.ca/People/dreveny/hpb/hpb-proxy-0.99b-linux.tar.gz
+		http://www-mddsp.enel.ucalgary.ca/People/dreveny/hpb/hpb-proxy-0.9b-linux.tar.gz
+		http://www-mddsp.enel.ucalgary.ca/People/dreveny/hpb/hpb-proxy-0.9b-aix.tar.gz
+		http://www-mddsp.enel.ucalgary.ca/People/dreveny/hpb/README
+	https://web.archive.org/web/19971021180627/http://www-mddsp.enel.ucalgary.ca/People/dreveny/hpb/index.html
+		https://web.archive.org/web/19971021180627/http://www-mddsp.enel.ucalgary.ca/People/dreveny/hpb/hpb-proxy-0.9b-linux.tar.gz
+		https://web.archive.org/web/19971021180627/http://www-mddsp.enel.ucalgary.ca/People/dreveny/hpb/hpb-proxy-0.9b-aix.tar.gz
+		https://web.archive.org/web/19971021180627/http://www-mddsp.enel.ucalgary.ca/People/dreveny/hpb/README
+	Chad Dreveny
+
+
+--------------------------------------------------------------------------------
+Not enough info
+
+
+Playmate / AE_playmate
+	https://www.bluesnews.com/archives/august96.html
+	http://www.tf.hut.fi/~ath/Aesir/bot.html
+		https://web.archive.org/web/19970617174134/http://www.tf.hut.fi/~ath/Aesir/bot.html
+		https://web.archive.org/web/19970617164411/http://www.tf.hut.fi/~ath/Aesir/
+		https://web.archive.org/web/19970617193202/http://www.tf.hut.fi/~ath/Aesir/Download/
+		https://web.archive.org/web/19971010235839/http://www.tf.hut.fi:80/~ath/Aesir/news.html
+	https://poltsi.fi/Archives/Aesir/bot.html
+	real bot, no release...
+	???
+Itchy QuakeBot
+	http://www-mddsp.enel.ucalgary.ca/People/dreveny/itchy/index.html
+		Chad Dreveny
+	http://www-mddsp.enel.ucalgary.ca/People/dreveny/itchy/itchy.html
+	http://www-mddsp.enel.ucalgary.ca/People/dreveny/itchy/botprog.html
+	no downloads
+	real bot, no release...
+	???
+BioBots
+	http://coriander.psychol.ucl.ac.uk/fw/quakebot1.html
+		https://web.archive.org/web/19971017015410/http://coriander.psychol.ucl.ac.uk/fw/quakebot1.html
+	Tom Hartley
+	real bot, no release...
+	???
 AdminBot
 	https://web.archive.org/web/19990220164340/http://www.coe.uncc.edu/~jfrorie/QuakeBotLinks.htm
 	http://www.x-comm.co.nz/adminbot/
@@ -399,6 +419,7 @@ LlamaBot
 		Chris Bailey
 	Not a real bot?
 	???
+
 
 
 
