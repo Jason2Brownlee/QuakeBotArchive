@@ -118,6 +118,14 @@ Terminator Bot
 		https://web.archive.org/web/19970503225814/http://www.bluesnews.com/files/trmbot08.zip
 		https://web.archive.org/web/19970503225814/http://www.bluesnews.com/files/trmbot09.tgz
 		https://web.archive.org/web/19970503225814/http://www.bluesnews.com/files/trmbot09.zip
+	http://perso.wanadoo.fr/montanuy/bot/
+		https://web.archive.org/web/20011121150058/http://perso.wanadoo.fr/montanuy/bot/
+		https://web.archive.org/web/20011121150058/http://perso.wanadoo.fr/montanuy/bot/bot.txt
+		https://web.archive.org/web/20011121150058/http://perso.wanadoo.fr/montanuy/bot/trmbot96.zip
+		https://web.archive.org/web/20011121150058/http://perso.wanadoo.fr/montanuy/bot/quake-termbot-0.96-1.i386.rpm
+		https://web.archive.org/web/20011121150058/http://perso.wanadoo.fr/montanuy/bot/termbot-src-096.tar.gz
+		https://web.archive.org/web/20011121150058/http://perso.wanadoo.fr/montanuy/bot/quake-termbot-0.96-1.src.rpm
+
 Playmate / AE_playmate
 	https://www.bluesnews.com/archives/august96.html
 	http://www.tf.hut.fi/~ath/Aesir/bot.html
@@ -304,6 +312,27 @@ Quake 1 client side bot
 		https://www.geocities.ws/oldquaker/csbot/readme.txt
 	https://www.geocities.ws/oldquaker/pres1.html
 		Not much is known about this one. With a generic name and generic website, nothing is really explained. It was made by some guy named "Mudge" back in late 1997 and the file wasn't available, but a demo was.
+SlugBot
+	https://www.geocities.ws/oldquaker/clanbot/index2.html
+	proxybot
+	termslug.exe
+		https://www.geocities.ws/oldquaker/clanbot/files/termslug.zip
+		https://www.geocities.ws/oldquaker/clanbot/files/slugaxbot.zip
+	https://www.geocities.ws/oldquaker/clanbot/index.html
+		https://www.geocities.ws/oldquaker/clanbot/files/termslugv1.29.zip
+		https://www.geocities.ws/oldquaker/clanbot/files/termslugv1.27.zip
+		https://www.geocities.ws/oldquaker/clanbot/files/slugaxbot.zip
+		https://www.geocities.ws/oldquaker/clanbot/files/slugaxbotVf.zip
+	https://www.geocities.ws/oldquaker/clanbot/index3.html
+		http://www.users.bigpond.com/clanslug/termslugv1.30.zip
+		http://www.users.bigpond.com/clanslug/termslugv1.29.zip
+		http://www.users.bigpond.com/clanslug/slugaxbotVf.zip
+		http://www.users.bigpond.com/clanslug/slugaxbot.zip
+	https://www.geocities.ws/oldquaker/clanbot/index4.html
+		https://www.geocities.ws/oldquaker/clanbot/files/termslugv1.30.zip
+		https://www.geocities.ws/oldquaker/clanbot/files/slugaxbotVh.zip
+		https://www.geocities.ws/oldquaker/clanbot/files/slugaxbot.zip
+
 
 
 

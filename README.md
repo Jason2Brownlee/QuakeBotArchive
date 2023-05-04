@@ -291,9 +291,10 @@ Playmate | Aesir Clan | n/a
 Quake Client-Side Bot | "Mudge" | csbot6703.zip<br>csbot1.dem
 QuakeBot C/S | Jim Rorie and John Simmerman | [qbcsalph.zip](bin/qbcsalph.zip)<br>[qbcs082.zip](bin/qbcs082.zip)<br>[qbcs081.zip](bin/qbcs081.zip)<br>[qbcs080.zip](bin/qbcs080.zip)<br>[qbcs079.zip](bin/qbcs079.zip)<br>[qbcs075.zip](bin/qbcs075.zip)<br>[qbcs07.zip](bin/qbcs07.zip)
 RichMark's QuakeBot | Rich Mark | [quakebot.zip](bin/quakebot.zip)<br>qb17f.zip<br>wqb17f.zip<br>glqb17f.zip
+SlugBot | "slug" | [termslugv1.30.zip](bin/termslugv1.30.zip)<br>termslugv1.29.zip<br>termslugv1.28.zip<br>termslugv1.27.zip<br>[slugaxbotVh.zip](bin/slugaxbotVh.zip)<br>slugaxbotVf.zip<br>[slugaxbot.zip](bin/slugaxbot.zip)<br>termslug.zip
 StoogeBot | Kekoa Proudfoot, Matthew Eldridge, and Craig Kolb | [winstoog.zip](bin/winstoog.zip) ([txt](bin/stoogebot.txt))<br>[linstooge.tar.gz](bin/linstooge.tar.gz)<br>[sgistooge.tar.gz](bin/sgistooge.tar.gz)
 tEdbot | Grant Davies and Ramanan Rajeswaran | n/a
-Terminator Bot | Olivier Montanuy | [trmbot09.zip](bin/trmbot09.zip) ([txt](bin/trmbot09.txt))<br>[trmbot09.tgz](bin/trmbot09.tgz)<br>[botsrc09.zip](bin/botsrc09.zip)<br>[botsrc09.tgz](bin/botsrc09.tgz)<br>[trmbot08.zip](bin/trmbot08.zip) ([txt](bin/trmbot08.txt))<br>[botsrc08.zip](bin/botsrc08.zip)<br>trmbot07.zip
+Terminator Bot | Olivier Montanuy |  trmbot96.zip ([txt](bin/trmbot96.txt))<br>[quake-termbot-0.96-1.i386.rpm](bin/quake-termbot-0.96-1.i386.rpm)<br>[quake-termbot-0.96-1.src.rpm](bin/quake-termbot-0.96-1.src.rpm)<br>termbot-src-096.tar.gz<br>[trmbot09.zip](bin/trmbot09.zip) ([txt](bin/trmbot09.txt))<br>[trmbot09.tgz](bin/trmbot09.tgz)<br>[botsrc09.zip](bin/botsrc09.zip)<br>[botsrc09.tgz](bin/botsrc09.tgz)<br>[trmbot08.zip](bin/trmbot08.zip) ([txt](bin/trmbot08.txt))<br>[botsrc08.zip](bin/botsrc08.zip)<br>trmbot07.zip
 ZaphBot | Kevin Burfitt aka "Zaph" | zbot9504.zip<br>zbotdem.zip
 
 ## Help

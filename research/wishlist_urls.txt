@@ -213,6 +213,10 @@ http://www.gameaholic.com/deicide/download.cgi?/quakec/bots/rbot.zip
 http://www.geocities.com/TimesSquare/Fortress/7565/superman11.zip
 http://www.geocities.com/TimesSquare/Hangar/8961/sq12to13.zip
 http://www.geocities.com/TimesSquare/Hangar/8961/squirt12b.zip
+http://www.geocities.ws/oldquaker/richmark/files/glkolor.zip
+http://www.geocities.ws/oldquaker/richmark/files/glqb17f.zip
+http://www.geocities.ws/oldquaker/richmark/files/qb17f.zip
+http://www.geocities.ws/oldquaker/richmark/files/wqb17f.zip
 http://www.home.earthlink.net/~pentm450/hhbot.zip
 http://www.home.earthlink.net/~pentm450/rnbt3.4.zip
 http://www.home.earthlink.net/~pentm450/rnbt3.6.zip
@@ -265,11 +269,12 @@ http://www.users.bigpond.com/clanslug/ClanbotV0.9b.zip
 http://www.users.bigpond.com/clanslug/ClanV0.5Auto.zip
 http://www.users.bigpond.com/clanslug/ClanV0.6Auto.zip
 http://www.users.bigpond.com/clanslug/ClanV0.7HMan.zip
+http://www.users.bigpond.com/clanslug/slugaxbotVf.zip
+http://www.users.bigpond.com/clanslug/termslug.zip
+http://www.users.bigpond.com/clanslug/termslugv1.27.zip
+http://www.users.bigpond.com/clanslug/termslugv1.29.zip
 http://xmark.ausgamers.com/xkteams/xkteams1705.zip
 http://xmark.ausgamers.com/xkteams/xkteams1705s.zip
 http://xmark.ausgamers.com/xkteams/xkteams2.zip
-http://www.geocities.ws/oldquaker/richmark/files/glkolor.zip
-http://www.geocities.ws/oldquaker/richmark/files/qb17f.zip
-http://www.geocities.ws/oldquaker/richmark/files/wqb17f.zip
-http://www.geocities.ws/oldquaker/richmark/files/glqb17f.zip
+
 
