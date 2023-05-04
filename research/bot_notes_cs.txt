@@ -411,6 +411,21 @@ GenBot
 		https://www.richwhitehouse.com/filemirror/genbsrc.zip
 		https://www.richwhitehouse.com/filemirror/genbsrc2.zip
 		https://www.richwhitehouse.com/filemirror/genbsrc3.zip
+Kl33n3x
+	https://botsquake.fortunecity.ws/
+		https://botsquake.fortunecity.ws/kl33n3x.html
+	https://grahamrat.fortunecity.ws/
+		https://grahamrat.fortunecity.ws/kl33n3x.zip
+	QuakeWorld
+	https://members.tripod.com/tf_cheats/autoaim.html
+		https://members.tripod.com/tf_cheats/kl33n3x-cfg.zip
+		https://members.tripod.com/tf_cheats/kl33n3x.zip
+	https://www.unknowncheats.me/forum/downloads.php?do=file&title=kl33n3x.cfg&cid=56&ctitle=Quake%201&id=2400
+	http://come.to/tfcheats
+		not archived
+	auto-aim proxy / aimbot
+	"d0peman"
+
 
 
 
@@ -480,7 +495,11 @@ LlamaBot
 		Chris Bailey
 	Not a real bot?
 	???
-
+QWProxy
+	https://botsquake.fortunecity.ws/
+		https://botsquake.fortunecity.ws/qwproxy.zip
+	QuakeWorld
+	???
 
 
 

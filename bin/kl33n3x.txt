@@ -1,0 +1,83 @@
+---------------------------------------------------------------
+How to use Kl33n3x, to ease your headache and mine.
+---------------------------------------------------------------
+
+start by launching the kl33n3x program. move your cursor over the
+dos box and do not open QuakeWorld until the busy cursor goes away.
+
+now open QuakeWorld. a fault in kl33n3x is that it stops listening
+for a -connect server command after a short time, to make sure this
+doesn't happen, before anything else in QW, type "-connect ip:port"
+without qoutes and replace ip:port with the numerical server address
+(i.e. 192.168.123.69) AND THE PORT (default is 27500). So the full
+line should look like this:
+	-connect 192.168.123.69:27500
+then press enter. it'll say something like "invalid command" or the
+like.  Now type "connect localhost" (without quotes) and press enter.
+what this does is connect QW to the proxy (kl33n3x). instead of typing
+the -connect string now, jes press up twice and there it is, press enter
+and kl33n3x should connect to the server. if not close BOTH kl33n3x and
+QW and try again.
+
+i've included a sample script (kl33n3x.cfg) that controls the autoaim.
+this is what is there:
+
+	alias +autoaim "say -aim f"
+	alias -autoaim "say -aim s"
+	bind space "+autoaim"
+
+before playing around with aliases to your liking, remember to but "say"
+before any proxy commands, kl33n3x moniters the say command and intercepts
+the commands for it (i.e. "-aim f" will not be broadcast to the server).
+here are the basic commands:
+
+	-aim [1-31] = the bot give each person a number, u can specifically
+		 lock onto that person. (i.e. if i was 5, -aim 5 would lock
+		 onto just me) the assigned number lasts the entire match,
+		 when u lock onto the person nearest to you, the bot
+		 echo "Tracking: [#]". jes find the person (sniper :P) u want
+		 and remember that number :)
+
+	-aim f = locks onto the nearst person in front of you
+
+	-aim n = locks onto the nearst person (that person could be behind
+		 you, below you, etc)
+
+	-aim s = deactivates the lock on the targeted player
+
+	-f = the built in "FPS Enhancement." -f followed by eight, spaced,
+		 single digit numbers change the options. the features are
+		 as follows: (these only effect YOU)
+
+			+Explosions: Normal, Tarbaby, Teleport, Blood, Nothing, Shotgun
+			  Changes the explosion sprite to the new effect
+			+Powerup Glow: Normal, Own Off, All Off
+			  Own off turns off your glowing effect when u have the quad, etc.
+			  All off removes the glowing effect from other players carring an item
+			+Muzzle Flash: Normal, Remove Own, Remove All
+			  When u fire your weapons, the end glows depicting the fire discharge,
+			  you can remove seeing it
+			+Gib/Bodies: -
+			  Doesn't Change anything
+			+Rockets: -
+			  Doesn't Change anything
+			+Setinfo: Not Supported
+			+Nails: All, 1/4, 1/2, 3/4
+			  How many nails u see coming at you
+			+Damage Flash: On, Off
+			  i.e. when your on fire, thats damage flash
+
+
+
+
+did i loose ya? if so, stop reading! now, each of those is given a number (all start at 0)
+so the default string is "-f 0 0 0 0 0 0 0 0" if u understand this, u understand the system.
+"-f 1" would move the 'Explosions' value up one to 'Tarbaby'. "-f 2" would change 'Explosions'
+to 'Teleport'. etc, thats all i'm gonna explain. if u don't get it, tough.
+
+NOTE: After the Nails option it says "Not SupportedAll" this is a typo the author made, the Nails
+option is in fact supported.
+
+well, this is the kl33n3x proxy. its not great but it has it's uses. hope this text is useful
+(if not SCREW YOU!!) enjoy kl33n3x
+
