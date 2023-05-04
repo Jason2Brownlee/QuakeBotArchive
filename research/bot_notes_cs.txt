@@ -101,6 +101,21 @@ Terminator Bot
 	usenet
 		https://groups.google.com/g/rec.games.computer.quake.announce/c/2wZZQ-nVdEk/m/NMk6le5f1fkJ
 			http://www.worldnet.net/~edwin/quake/quake.htm
+	https://www.bluesnews.com/archives/oct96-2.html
+		ftp://bluesnews.com/pub/client_bots/trmbot07.zip
+		ftp://bluesnews.com/pub/client_bots/trmbot08.zip
+		ftp://bluesnews.com/pub/client_bots/botsrc08.zip
+	https://www.bluesnews.com/archives/dec96-3.html
+		Terminator to version 0.91
+	https://web.archive.org/web/19970503225814/http://www.bluesnews.com/files/
+		https://web.archive.org/web/19970503225814/http://www.bluesnews.com/files/bot.txt
+		https://web.archive.org/web/19970503225814/http://www.bluesnews.com/files/bot091.txt
+		https://web.archive.org/web/19970503225814/http://www.bluesnews.com/files/botsrc08.zip
+		https://web.archive.org/web/19970503225814/http://www.bluesnews.com/files/botsrc09.tgz
+		https://web.archive.org/web/19970503225814/http://www.bluesnews.com/files/botsrc09.zip
+		https://web.archive.org/web/19970503225814/http://www.bluesnews.com/files/trmbot08.zip
+		https://web.archive.org/web/19970503225814/http://www.bluesnews.com/files/trmbot09.tgz
+		https://web.archive.org/web/19970503225814/http://www.bluesnews.com/files/trmbot09.zip
 Playmate / AE_playmate
 	https://www.bluesnews.com/archives/august96.html
 	http://www.tf.hut.fi/~ath/Aesir/bot.html
@@ -224,4 +239,13 @@ Itchy QuakeBot
 	no downloads
 	http://www-mddsp.enel.ucalgary.ca/People/dreveny/hpb/index.html
 		HPB Proxy
+ZaphBot
+	http://www.geocities.com/SiliconValley/Vista/1052/zaphbot.html
+		https://web.archive.org/web/19990117014403/http://www.geocities.com/SiliconValley/Vista/1052/zaphbot.html
+		https://web.archive.org/web/19990117014403/http://www.geocities.com/SiliconValley/Vista/1052/zbotdem.zip
+		https://web.archive.org/web/19990117014403/http://www.geocities.com/SiliconValley/Vista/1052/zbot9504.zip
+	Clan Cthugha
+	https://web.archive.org/web/20000616111844/http://www.geocities.com/SiliconValley/Vista/1052/ClanCthugha.html
+		Kevin Burfitt aka "Zaph"
+	https://www.geocities.ws/oldquaker/zaphbot/
 

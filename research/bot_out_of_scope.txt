@@ -43,9 +43,6 @@ Interference Bot
 	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/inter.htm
 	Chris "ArwingX" Dozier
 	monster bot
-ZaphBot
-	https://web.archive.org/web/20010408210009/http://www.geocities.com/SiliconValley/Vista/1052/zaphbot.html
-	client bot
 BioBots
 	https://web.archive.org/web/19971017015410/http://coriander.psychol.ucl.ac.uk/fw/quakebot1.html
 	client bot
