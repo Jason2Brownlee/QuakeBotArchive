@@ -283,9 +283,22 @@ RichMark's QuakeBot
 		http://www.geocities.ws/cheatatquake/quakebot.zip
 	http://webpages.charter.net/kroeker/quake/
 		not archived
+Bottim
+	https://www.geocities.ws/oldquaker/bottim/
+	QuakeWorld bot
+		https://www.geocities.ws/oldquaker/bottim/files/linux-elf-bottim0.1.tar.gz
+		https://www.geocities.ws/oldquaker/bottim/files/solaris-bottim0.1.tar.gz
+	http://www.dgs.monash.edu.au/~timf/bottim/
+		https://web.archive.org/web/19970102100127/http://www.dgs.monash.edu.au/~timf/
+		https://web.archive.org/web/19981206053514/http://www.dgs.monash.edu.au/~timf/bottim/
+	Tim F
+		timf@dgs.monash.edu.au
+	https://www.quakeworld.nu/forum/topic/3399/quakeworld-network-protocol
+		bottim-quakeworld-fvh.tgz
+		related?
+	https://www.gamers.org/pub/idgames2/quake2/demos/movies/quake_cin.txt
 
-
-
+Bottim | Tim F. | [linux-elf-bottim0.1.tar.gz](bin/linux-elf-bottim0.1.tar.gz)<br>[solaris-bottim0.1.tar.gz](bin/solaris-bottim0.1.tar.gz)
 
 
 

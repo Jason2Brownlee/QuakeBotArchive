@@ -281,6 +281,7 @@ Bot Name | Bot Author(s) | File
 --- | --- | ---
 BioBots | Tom Hartley | n/a
 Booger | "Demonstar" | [booger.zip](bin/booger.zip)<br>[aimbot.zip](bin/aimbot.zip)<br>boognaut.zip ([txt](bin/boogfeat.txt))
+Bottim | Tim F. | [linux-elf-bottim0.1.tar.gz](bin/linux-elf-bottim0.1.tar.gz)<br>[solaris-bottim0.1.tar.gz](bin/solaris-bottim0.1.tar.gz)
 Itchy QuakeBot | Chad Dreveny | n/a
 LoefBot | James Loe | loefsrc.zip<br>[loefbot5.zip](bin/loefbot5.zip)<br>loefbot4.zip<br>loefbot3.zip<br>loefbot2.zip<br>[loefbot.zip](bin/loefbot.zip) ([txt](bin/loefbot.txt))
 MikeBot | Mike Warren | [mbcs040.zip](bin/mbcs040.zip)<br>mikebot95.zip<br>mikebot-linux.tar.gz<br>mikebot-sunos.tar.gz<br>mikebot-aix.tar.gz<br>mikebot-solaris.tar.gz<br>mikebot-irix.tar.gz<br>[mbcs031.zip](bin/mbcs031.zip)<br>[mbcs03.zip](bin/mbcs03.zip) ([txt](bin/mbcs03.txt))<br>[mbcs02.zip](bin/mbcs02.zip)
@@ -293,7 +294,6 @@ StoogeBot | Kekoa Proudfoot, Matthew Eldridge, and Craig Kolb | [winstoog.zip](b
 tEdbot | Grant Davies and Ramanan Rajeswaran | n/a
 Terminator Bot | Olivier Montanuy | [trmbot09.zip](bin/trmbot09.zip) ([txt](bin/trmbot09.txt))<br>[trmbot09.tgz](bin/trmbot09.tgz)<br>[botsrc09.zip](bin/botsrc09.zip)<br>[botsrc09.tgz](bin/botsrc09.tgz)<br>[trmbot08.zip](bin/trmbot08.zip) ([txt](bin/trmbot08.txt))<br>[botsrc08.zip](bin/botsrc08.zip)<br>trmbot07.zip
 ZaphBot | Kevin Burfitt aka "Zaph" | zbot9504.zip<br>zbotdem.zip
-
 
 ## Help
 
