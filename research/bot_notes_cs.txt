@@ -26,6 +26,8 @@ Resources / Links
 	http://graphics.stanford.edu/~quake/resources.html
 	http://www.botepidemic.com/bots/quake.shtml
 		https://web.archive.org/web/20000303070145/http://www.botepidemic.com/bots/quake.shtml
+	http://www.geocities.ws/cheatatquake/home.html
+	https://drive.google.com/drive/folders/12sgmo96ezEeZLie6SXjUunHRW78sCzhM
 
 --------------------------------------------------------------------------------
 
@@ -268,6 +270,19 @@ BioBots
 		https://web.archive.org/web/19971017015410/http://coriander.psychol.ucl.ac.uk/fw/quakebot1.html
 	Tom Hartley
 	no release...
+RichMark's QuakeBot
+	http://www.geocities.ws/oldquaker/richmark/
+		http://www.geocities.ws/oldquaker/richmark/files/glkolor.zip
+		http://www.geocities.ws/oldquaker/richmark/files/qb17f.zip
+		http://www.geocities.ws/oldquaker/richmark/files/wqb17f.zip
+		http://www.geocities.ws/oldquaker/richmark/files/glqb17f.zip
+	prior versions 1.7a to 1.7f
+	https://www.quaketerminus.com/rminterview.shtml
+		Interview: RichMark, bot programmer & creator of Quakebot
+	http://www.geocities.ws/cheatatquake/home.html
+		http://www.geocities.ws/cheatatquake/quakebot.zip
+	http://webpages.charter.net/kroeker/quake/
+		not archived
 
 
 

@@ -24,13 +24,6 @@ dragon
 	http://www.insideqc.com/modindex/qreview/drag.shtml
 	https://web.archive.org/web/19990125075903/http://203.32.12.18/
 	monster
-Requiem QW Bot
-	https://web.archive.org/web/20000303070145/http://www.botepidemic.com/bots/quake.shtml
-	Requiem
-	http://www.planetquake.com/requiem
-	https://web.archive.org/web/19981206204028/http://www.planetquake.com/requiem/
-	https://www.quakeworld.nu/wiki/Requiem
-	bots added to a mod I believe
 Tsumi to Botsu
 	https://web.archive.org/web/20020408101357/http://www.botepidemic.com:80/quake.shtml
 	https://web.archive.org/web/20020408101357/http://www.telefragged.com/thefatal/tsumi.shtml
@@ -93,17 +86,6 @@ Monster Deathmatch
 	http://www.quaketastic.com/upload/files/multiplayer/mods/monsterdm_vmodels.zip
 	"Orion"
 	play as monsters in deathmatch...
-Decoyz
-	singleplayer bot
-	https://web.archive.org/web/19961121231508/http://www.stomped.com/files.quakec.html
-	https://web.archive.org/web/19961121231508/ftp://ftp.stomped.com/pub/quake/quakec/bots/decoyz.zip
-	http://cd.textfiles.com/swextrav8/swextrav8-2/gamapog1/decoyz.zip
-	also on the power tools cd...
-	Sam Shockey
-	decoyz2.txt
-	http://cd.textfiles.com/pdsl/HELP/GAMERTK.TXT
-	also in cdrom.com all .txt files from archive.org
-	nope, just a hologram type mod
 SuperDuper / Bondo's SuperDuper Quake / SDQ
 	has frikbots
 	https://quakeone.com/forum/quake-mod-releases/finished-works/12534-superduper-3-21
@@ -114,7 +96,4 @@ SuperDuper / Bondo's SuperDuper Quake / SDQ
 Quake client bot
 	http://granttheant.com/products/quakebot/
 	Grant Davies
-Quakebot the Netquake & Quakeworld Proxy Bot
-	https://www.quaketerminus.com/rminterview.shtml
-	Rick Mark
 

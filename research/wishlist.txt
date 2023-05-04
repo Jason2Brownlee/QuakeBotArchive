@@ -380,7 +380,9 @@ zeus201.zip
 zeus201b.zip
 zeus202b.zip
 zeus20b.zip
-
+qb17f.zip
+wqb17f.zip
+glqb17f.zip
 
 
 # mac stuff
