@@ -593,6 +593,9 @@ botsrc06.zip
 botsrc07.tgz
 botsrc07.zip
 botsrc08.tgz
+glqb17.zip
+glqbbeta.zip
+glqwb17.zip
 loefbot2.zip
 loefbot3.zip
 loefbot4.zip
@@ -606,6 +609,10 @@ mikebot95.zip
 navtest2.zip
 pingbot2.zip
 pingsrc.zip
+qb15.zip
+qb16.zip
+qb16src.zip
+qb17.zip
 slugaxbotVf.zip
 termslug.zip
 termslugv1.27.zip
@@ -629,6 +636,8 @@ trmbot07.zip
 trmbot94.zip
 trmbot95.zip
 trmbot96.zip
+wqb17.zip
+wqb_beta.zip
 zbot9504.zip
 zbotdem.zip
 

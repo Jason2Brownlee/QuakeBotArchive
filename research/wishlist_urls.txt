@@ -128,6 +128,16 @@ http://parboil.quakeworld.ru/parboil/fbca86se.zip
 http://parboil.quakeworld.ru/parboil/src_fbca092.zip
 http://parboil.quakeworld.ru/parboil/src_fbca100.zip
 http://parboil.quakeworld.ru/tappak/fbca102kt-rc1.zip
+http://perso.wanadoo.fr/montanuy/bot/trmbot96.zip
+http://pw2.netcom.com/~kroeker/glqb17.zip
+http://pw2.netcom.com/~kroeker/GLQBbeta.zip
+http://pw2.netcom.com/~kroeker/glqwb17.zip
+http://pw2.netcom.com/~kroeker/qb15.zip
+http://pw2.netcom.com/~kroeker/qb16.zip
+http://pw2.netcom.com/~kroeker/qb16src.zip
+http://pw2.netcom.com/~kroeker/qb17.zip
+http://pw2.netcom.com/~kroeker/wqb17.zip
+http://pw2.netcom.com/~kroeker/WQB_beta.zip
 http://quake.org.pl/files/quake/boty/frogboteditor/fbedit17.zip
 http://quake.tronet.troitsk.ru/download/Accuracy.zip
 http://quake.tronet.troitsk.ru/download/fbedit17.zip
@@ -276,5 +286,4 @@ http://www.users.bigpond.com/clanslug/termslugv1.29.zip
 http://xmark.ausgamers.com/xkteams/xkteams1705.zip
 http://xmark.ausgamers.com/xkteams/xkteams1705s.zip
 http://xmark.ausgamers.com/xkteams/xkteams2.zip
-
 

@@ -28,6 +28,8 @@ Resources / Links
 		https://web.archive.org/web/20000303070145/http://www.botepidemic.com/bots/quake.shtml
 	http://www.geocities.ws/cheatatquake/home.html
 	https://drive.google.com/drive/folders/12sgmo96ezEeZLie6SXjUunHRW78sCzhM
+	https://web.archive.org/web/20001212211500/http://www.gamescenter.de/uqc/proxy.htm
+		https://web.archive.org/web/20001212154800/http://www.gamescenter.de/uqc/download.htm
 
 --------------------------------------------------------------------------------
 
@@ -291,6 +293,27 @@ RichMark's QuakeBot
 		http://www.geocities.ws/cheatatquake/quakebot.zip
 	http://webpages.charter.net/kroeker/quake/
 		not archived
+	http://pw2.netcom.com/~kroeker/
+		https://web.archive.org/web/20010404064917/http://pw2.netcom.com/~kroeker/
+			https://web.archive.org/web/20010404064917/http://pw2.netcom.com/~kroeker/qb15.zip
+			https://web.archive.org/web/20010404064917/http://pw2.netcom.com/~kroeker/qb16.zip
+			https://web.archive.org/web/20010404064917/http://pw2.netcom.com/~kroeker/qb16src.zip
+			https://web.archive.org/web/20010404064917/http://pw2.netcom.com/~kroeker/qb17.zip
+			https://web.archive.org/web/20010404064917/http://pw2.netcom.com/~kroeker/wqb17.zip
+			https://web.archive.org/web/20010404064917/http://pw2.netcom.com/~kroeker/glqb17.zip
+			https://web.archive.org/web/20010404064917/http://pw2.netcom.com/~kroeker/glqwb17.zip
+		https://web.archive.org/web/20010405210412/http://pw2.netcom.com/~kroeker/quake.html
+		https://web.archive.org/web/19991013122658/http://pw2.netcom.com/~kroeker/quake.html
+		https://web.archive.org/web/20010410012533/http://pw2.netcom.com/~kroeker/quake.htm
+		https://web.archive.org/web/20000526114252/http://pw2.netcom.com/~kroeker/quake.html
+			https://web.archive.org/web/20000526114252/http://pw2.netcom.com/~kroeker/qb17.zip
+			https://web.archive.org/web/20000526114252/http://pw2.netcom.com/~kroeker/GLQBbeta.zip
+			https://web.archive.org/web/20000526114252/http://pw2.netcom.com/~kroeker/WQB_beta.zip
+		https://web.archive.org/web/20001003155322/http://pw2.netcom.com/~kroeker/quake.html
+			https://web.archive.org/web/20001003155322/http://pw2.netcom.com/~kroeker/glqb17.zip
+			https://web.archive.org/web/20001003155322/http://pw2.netcom.com/~kroeker/wqb17.zip
+			https://web.archive.org/web/20001003155322/http://pw2.netcom.com/~kroeker/qb16.zip
+			https://web.archive.org/web/20001003155322/http://pw2.netcom.com/~kroeker/qb16src.zip
 Bottim
 	https://www.geocities.ws/oldquaker/bottim/
 	QuakeWorld bot
