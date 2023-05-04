@@ -77,6 +77,7 @@ LoefBot / PingBot
 		http://www.mindspring.com/~jamesloe/
 		http://www.mindspring.com/~jamesloe/Loefsrc.zip
 		http://www.mindspring.com/~jamesloe/Loefsrc.zip
+	https://botsquake.fortunecity.ws/loefbot5.html
 Boognaut / Booger
 	http://www.mindspring.com/~jamesloe/files.html
 		https://web.archive.org/web/19990202023247fw/http://www.mindspring.com/~jamesloe/boognaut.zip
@@ -85,6 +86,7 @@ Boognaut / Booger
 	https://www.geocities.ws/oldquaker/loefbot/
 		https://www.geocities.ws/oldquaker/loefbot/files/aimbot.zip
 			booger.exe
+	https://botsquake.fortunecity.ws/booger.zip
 Terminator Bot
 	http://www.ens.fr/~cridlig/bot/
 		not archived
@@ -129,6 +131,7 @@ Terminator Bot
 		https://web.archive.org/web/20011121150058/http://perso.wanadoo.fr/montanuy/bot/quake-termbot-0.96-1.i386.rpm
 		https://web.archive.org/web/20011121150058/http://perso.wanadoo.fr/montanuy/bot/termbot-src-096.tar.gz
 		https://web.archive.org/web/20011121150058/http://perso.wanadoo.fr/montanuy/bot/quake-termbot-0.96-1.src.rpm
+	https://botsquake.fortunecity.ws/terminator.zip
 Mystery Bot
 	http://www.wollongong.starway.net.au/~ripper/info.htm
 		not archived
@@ -230,6 +233,8 @@ StoogeBot
 			Stanford StoogeBot 1.0, feb 1997
 		https://groups.google.com/g/alt.games.quake/c/_u416oETgzU/m/Q7Ux_MQHJAQJ
 			hackstooge.zip
+	hacked
+		https://botsquake.fortunecity.ws/stoogeh.zip
 tEdbot
 	http://www.labyrinth.net.au/~adsoft/
 		https://web.archive.org/web/19980205121946/http://www.labyrinth.net.au/~adsoft/
@@ -309,6 +314,9 @@ RichMark's QuakeBot
 			https://web.archive.org/web/20001003155322/http://pw2.netcom.com/~kroeker/wqb17.zip
 			https://web.archive.org/web/20001003155322/http://pw2.netcom.com/~kroeker/qb16.zip
 			https://web.archive.org/web/20001003155322/http://pw2.netcom.com/~kroeker/qb16src.zip
+	https://botsquake.fortunecity.ws/
+		https://botsquake.fortunecity.ws/qb16g.zip
+		https://botsquake.fortunecity.ws/qb1.zip
 Bottim
 	https://www.geocities.ws/oldquaker/bottim/
 	QuakeWorld bot
