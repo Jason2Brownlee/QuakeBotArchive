@@ -20,13 +20,13 @@
 #
 # normal zip files
 #
-bm121.zip
 abandon1.zip
 accuracy.zip
 bgadmbot.zip
 bm116se.zip
 bm116src.zip
 bm119gl.zip
+bm121.zip
 botmove.zip
 botskn12.zip
 botskn13.zip

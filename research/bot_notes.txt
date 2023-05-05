@@ -1735,6 +1735,8 @@ Frogbot BotMatch Arena / BotMatch frogbot mod
 		www.dmsoul.mailru.com/botmatch/bm121.zip
 		https://web.archive.org/web/20020701192402/http://www.3ddownloads.com/?file_id=159654
 		bm121.zip
+	https://forum.ixbt.com/topic.cgi?id=25:8999
+		http://dmsoul.mailru.com/botmatch/bm121.zip
 Frogbot 2000 / Frogbot 2K
 	https://web.archive.org/web/20100123221300/http://botepidemic.no-origin.net/quake.shtml.htm
 	https://web.archive.org/web/20100123221300/http://tux.telefragged.com/file.pl?filename=f2k006d.zip
