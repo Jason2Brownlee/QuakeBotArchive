@@ -257,22 +257,6 @@ Xreaper | Ruud Heemskerk aka "Mephisto" | [xreaperb130.zip](bin/xreaperb130.zip)
 Zeus Bot | Jonathan E. Wright aka "Nelno the Amoeba" | [zeus205s.zip](bin/zeus205s.zip) ([txt](bin/zeus205s.txt))<br>[zeus205.zip](bin/zeus205.zip) ([txt](bin/zeus205.txt))<br>[zeus_src.zip](bin/zeus_src.zip) ([txt](bin/zeus_src.txt))<br>[zeus2042.zip](bin/zeus2042.zip)<br>[zeus2041.zip](bin/zeus2041.zip)<br>[zeus204.zip](bin/zeus204.zip)<br>[zeus203b.zip](bin/zeus203b.zip) ([txt](bin/zeus203b.txt))<br>zeus202b.zip ([txt](bin/zeus202b.txt))<br>zeus201.zip<br>zeus20.zip<br>[zeus10.zip](bin/zeus10.zip) ([txt](bin/zeus10.txt))
 Zeus Hunt (Rumble) | Christopher Dozier "Arwing-X" | [rumble1.zip](bin/rumble1.zip) ([txt](bin/rumble1.txt))<br>[rumble.zip](bin/rumble.zip) ([txt](bin/rumble.txt))
 
-## Quake Bot Files
-
-All Quake bot files are located in the [bin/](bin/) directory or subdirectory.
-
-Directory | Description
---- | ---
-[bin/](bin/) | Primary archive of quake bot files.
-[bin/eliminator/](bin/eliminator/) | Additional files for the eliminator bot.
-[bin/frikbot/](bin/frikbot/) | Additional files for the frikbot.
-[bin/frogbot/](bin/frogbot/) | Additional files for the frogbot.
-[bin/omicron/](bin/omicron/) | Additional files for the omicron bot.
-[bin/reaper/](bin/reaper/) | Additional files for the reaper bot.
-[bin/other/](bin/other/) | Additional files related to bot development.
-
-The [research/](research/) directory of the archive contains notes developed while researching each bot and resource, as well as wish lists for files known to exist and missing from the archive.
-
 ## Client-Side Quake Bot List
 
 Alphabetical list of Quake bot names, authors, and local download links for all client-side bots in the [bin/](bin/) directory.
@@ -300,6 +284,28 @@ StoogeBot | Kekoa Proudfoot, Matthew Eldridge, and Craig Kolb | [winstoog.zip](b
 tEdbot | Grant Davies and Ramanan Rajeswaran | n/a
 Terminator Bot | Olivier Montanuy | trmbot96.zip ([txt](bin/trmbot96.txt))<br>[quake-termbot-0.96-1.i386.rpm](bin/quake-termbot-0.96-1.i386.rpm)<br>[quake-termbot-0.96-1.src.rpm](bin/quake-termbot-0.96-1.src.rpm)<br>termbot-src-096.tar.gz<br>[trmbot09.zip](bin/trmbot09.zip) ([txt](bin/trmbot09.txt))<br>[trmbot09.tgz](bin/trmbot09.tgz)<br>[botsrc09.zip](bin/botsrc09.zip)<br>[botsrc09.tgz](bin/botsrc09.tgz)<br>[trmbot08.zip](bin/trmbot08.zip) ([txt](bin/trmbot08.txt))<br>[botsrc08.zip](bin/botsrc08.zip)<br>trmbot07.zip
 ZaphBot | Kevin Burfitt aka "Zaph" | zbot9504.zip<br>zbotdem.zip
+
+
+## Quake Bot Files
+
+All Quake bot files are located in the [bin/](bin/) directory or subdirectory.
+
+Directory | Description
+--- | ---
+[bin/](bin/) | Primary archive of quake bot files.
+[bin/eliminator/](bin/eliminator/) | Additional files for the eliminator bot.
+[bin/frikbot/](bin/frikbot/) | Additional files for the frikbot.
+[bin/frogbot/](bin/frogbot/) | Additional files for the frogbot.
+[bin/omicron/](bin/omicron/) | Additional files for the omicron bot.
+[bin/reaper/](bin/reaper/) | Additional files for the reaper bot.
+[bin/mikebot/](bin/mikebot/) | Additional files for the mikebot.
+[bin/mystery/](bin/mystery/) | Additional files for the mystery bot.
+[bin/stoogebot/](bin/stoogebot/) | Additional files for the stoogebot.
+[bin/tedbot/](bin/tedbot/) | Additional files for the tedbot.
+[bin/other/](bin/other/) | Additional files related to bot development.
+
+The [research/](research/) directory of the archive contains notes developed while researching each bot and resource, as well as wish lists for files known to exist and missing from the archive.
+
 
 ## Help
 
