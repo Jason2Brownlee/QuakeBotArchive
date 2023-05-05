@@ -1796,7 +1796,12 @@ SuPeRMan Bot
 	by (KSA)Tekken
 	http://www.geocities.com/TimesSquare/Fortress/7565/superman11.zip
 	superman11.zip
-	???
+	https://web.archive.org/web/20001001125020/http://botboard.telefragged.com/showprofile.pl?User=KSA-Tekken&Board=quake1&what=wwwthreads&page=12&view=collapsed&sb=5
+		KSA-Tekken
+	https://web.archive.org/web/20001016132203/http://botboard.telefragged.com/showpost.pl?Board=quake1&Number=905&page=12&view=collapsed&sb=5
+		http://www.geocities.com/TimesSquare/Fortress/7565/superman11.zip
+	Q1 bot
+	based on tutorbot
 FrikBot + Last Man Standing
 	https://web.archive.org/web/20000817070547/http://www.inside3d.com/frikbot/
 	https://web.archive.org/web/20000817070547/http://www.inside3d.com/frikbot/download.shtml?file=frikbot/frik-lms.zip

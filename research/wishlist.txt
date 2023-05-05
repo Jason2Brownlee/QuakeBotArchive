@@ -23,8 +23,8 @@
 
 
 
-# mac stuff
 # txt files we expect to exist
+fbcasounds.zip
 abandon1.txt
 abandon1.zip
 accuracy.zip
