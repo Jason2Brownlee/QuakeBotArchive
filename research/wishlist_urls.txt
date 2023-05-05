@@ -60,6 +60,7 @@ ftp://ftp3.action.updates.cx/pub/mirrors/telefragged/be/fmods/demos/frogbot_demo
 ftp://mirrors.xmission.com/planetquake/holywars/hwqwbotv101c.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf004.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf006.zip
+ftp://numb.macquakeinfinity.com/numb/ctf/fbctf009.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf010.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf011.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf013.zip
@@ -68,9 +69,11 @@ ftp://numb.macquakeinfinity.com/numb/ctf/fbctf019.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf023.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf032.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf033.zip
+ftp://numb.macquakeinfinity.com/numb/ctf/fbctf037.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf040.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/pak2pak.zip
 ftp://numb.macquakeinfinity.com/numb/holywars/hw_frogbot13c.zip
+ftp://numb.macquakeinfinity.com/numb/holywars/hw_frogbot14.zip
 ftp://numb.macquakeinfinity.com/numb/holywars/hw_frogbotf.zip
 ftp://pcweek-2.wave.ras.ru/pub/id/quake/proj1_14.zip
 ftp://quake.mtu.ru/pub/quake/bots/frogbot7.zip
@@ -119,9 +122,14 @@ http://members.nbci.com/nnsource.zip
 http://members.tripod.com/tf_cheats/kl33n3x-cfg.zip
 http://members.tripod.lycos.nl/koolpaddy/zips/paddybot02.zip
 http://members.xoom.com/eluan/WLBOT1.9.zip
+http://members.xoom.com/mtm07/fbca081.zip
+http://members.xoom.com/mtm07/fbca082.zip
 http://members.xoom.com/mtm07/fbca084.zip
 http://members.xoom.com/mtm07/fbcasounds.zip
 http://membro.intermega.com.br/gqc/tdbot1_0.zip
+http://numb.macquakeinfinity.com/bugfix/hw_bugfix.txt
+http://numb.macquakeinfinity.com/bugfix/progs.zip
+http://numb.macquakeinfinity.com/bugfix/qwprogs.zip
 http://numb.quakeintosh.com/users/gerrybabe/holywars/frog/hwqwbot.exe
 http://numb.quakeintosh.com/users/gerrybabe/holywars/frog/hwqwbot.sit
 http://orca.ucd.ie/~gilligan/warbot.zip
