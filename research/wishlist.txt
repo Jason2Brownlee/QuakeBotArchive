@@ -167,6 +167,7 @@ frogbot012.sit
 frogbot012.zip
 frogbot012a.zip
 frogbot012b.zip
+frogsvsp.zip
 gbped10.zip
 glqb17f.zip
 glyde.zip
@@ -574,6 +575,7 @@ frogffa.zip
 gem_dm6.zip
 frogbotmaps.zip
 frog_re2.zip
+OmiEdit01.zip
 
 # I think these are bots
 smallbots.zip

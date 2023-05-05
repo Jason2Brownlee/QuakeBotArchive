@@ -37,6 +37,7 @@ ftp://ftp.sunet.se/pub/pc/games/idgames2/newstuff/dmbt20b2.zip
 ftp://ftp.sunet.se/pub/pc/games/idgames2/planetquake/qca/tfb-v07.zip
 ftp://ftp.telefragged.com/be/fmods/Accuracy.zip
 ftp://ftp.telefragged.com/be/fmods/demos/frogbot_demo.zip
+ftp://ftp.telefragged.com/pub/be/ents/OmiEdit01.zip
 ftp://ftp.telefragged.com/pub/metro/frogbot007.zip
 ftp://ftp.telefragged.com/pub/qnm/fbedit13.zip
 ftp://ftp.telefragged.com/pub/qnm/fbedit15.zip
@@ -120,6 +121,7 @@ http://groups.yahoo.com/group/friktf/files/friktf-092800.tar.gz
 http://home.t-online.de/home/026051408/kok220.zip
 http://home.t-online.de/home/0551705030/squirt10.zip
 http://idgames.gameaholic.com/idgames/quakec/compilations/wyrmb2.txt
+http://java.cms.livjm.ac.uk/quake/OmiEdit01.zip
 http://members.nbci.com/nnctf.zip
 http://members.nbci.com/nnsource.zip
 http://members.tripod.com/tf_cheats/kl33n3x-cfg.zip
@@ -291,6 +293,7 @@ http://www.planetquake.com/requiem/files/reqqw23.zip
 http://www.quaketerminus.freeola.com/mods/UD120.zip
 http://www.quaketerminus.freeola.com/mods/UD130.zip
 http://www.rmbwenw.nl/botarea51/files/xreaper/setup.exe
+http://www.sqc.de/files/frogsvsp.zip
 http://www.telefragged.com/mirrors/mirror.pl?be/fmods/Accuracy.zip
 http://www.telefragged.com/mirrors/mirror.pl?be/fmods/demos/frogbot_demo.zip
 http://www.telefragged.com/mirrors/mirror.pl?be/fmods/fbarena050.zip

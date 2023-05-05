@@ -1,0 +1,265 @@
+Title		: Frogbot Clan Match Emulation: SQC vs. PENT
+Version		: 1.10 
+Date		: February 10, 2000
+Author		: Lars "LaFFiniuM" Fischer
+Email		: laffinium@sqc.de
+Homepage	: http://www.sqc.de
+Download	: http://www.sqc.de/files/frogsvsp.zip ... or mail me!
+
+
+Alternate Download Site
+=======================
+Non yet!
+
+
+Other Files
+===========
+WinQuake	: ftp://ftp.cdrom.com/pub/idgames2/idstuff/quake/wq100.zip
+GlQuake		: ftp://ftp.cdrom.com/pub/idgames2/idstuff/unsup/glq1114.exe
+QWSV		: ftp://ftp.cdrom.com/pub/idgames2/idstuff/quakeworld/qwsv230.zip
+QWCL		: ftp://ftp.cdrom.com/pub/idgames2/idstuff/quakeworld/qw230.zip
+Priority	: ftp://ftp.telefragged.com/be/fmods/other/priority.zip
+FrogbotEdit	: http://qnm.telefragged.com/
+Frogbot Stuff   : http://www.botepidemic.com/fmods
+
+Type of Mod
+===========
+Progs.dat: no, i'm not sure
+Sound    : no, hmm let me think it over... No!
+MDL      : no, i don't give my nice models to anybody else!
+BSP      : no, y should i?
+QC       : no, i tried, but QW didn't want it :(
+CFG	 : YES ;)
+
+
+BASE:
+=====
+Frogbot 012c ... see readme012c.txt
+Shelobs Team Fmod v1.0 ... see sftm10.txt
+
+
+Building Time
+=============
+a few days
+
+
+Used Tools
+==========
+Notepad
+FrogBot Editor 1.8
+
+
+Description
+===========
+A Quake-Mod that combines the Frogbot and Teamplay-Abilities. 
+Especially emulation of SQC (Syndicate Quake Clan) and 
+PENT (Das Pentagon). So u can fight with 3 bot-teammates 
+against the other clan.
+
+
+Installation
+============
+Unzip into your Quake folder. default directory is frogSvsP
+if you make another change it in qwsv.bat!
+Copy the skins into your qw/skins-directory.
+
+
+Running the game
+================
+Normal Quake:
+1.) run qwsv.bat from the driectory, you extrected the files in.
+2.) run priority.exe (Win9x only)
+3.) run your qw-client, proxy is no problem
+4.) connect to your server by typing "connect localhost" or 
+    ".c localhost", if playing with proxy.
+5.) press n ... or exec emu.cfg manualy
+
+6.) do a mapchange to take effect all setting-changes 
+    (f.e.: type "rcon map dm6")
+7.) either run hole clans by typing "sqc" or "pent" 
+     (or deathrow or nine)
+    or call your sqc- or pent-helpforce (3 bots) 
+     with "sqch" or "penth" 
+    You are even able to spawn single bots! see below!
+or
+6.&7.) follow menu (look in console)
+
+8.) type "ready", wait 15 seconds and fight!
+
+
+Important Notes
+===============
+- You should have wordwrap enabled in your text editor to view this file.
+- Refer to readme012c.txt for more information on the Frogbot.
+- don't forget to turn off deadbodyfilter, if playing with proxy.
+- i prefer to switch off teamcolor, enemycolor an enemyskin, 
+  too, but it's your free desission
+- after running emu.cfg, be sure to do a mapchange to take 
+  effect all changes..  sorry, but right now, i don't know how 
+  to change the settings serverside.
+- look into console to see menu!
+- TeamColor, EnemyColor, EnemySkin and DeadBodyFilter is set off 
+  by nfproxy_frogsvsp.cfg
+
+
+Features & Commands
+===================
+- sqc command spawns 4 sqc-bots: [SQC]GuRu, [SQC]LaFFiniuM, 
+  [SQC]mADmAn, [SQC]Locuti
+
+- sqch command spawns 3 sqc-bots: [SQC]GuRu, [SQC]mADmAn, 
+  [SQC]Locuti so you can play 4on4, if you play SQC!
+
+- pent command spawns 4 pent-bots: [PENT]JimBeam, [PENT]DJ, 
+  [PENT]Eagle, [PENT]Pitti
+
+- penth command spawns 3 pent-bots: [PENT]JimBeam, [PENT]DJ, 
+  [PENT]Eagle so you can play 4on4, if you play PENT!
+
+- commands to spawn singlebots:
+  sqcguru 	[SQC]GuRu
+  sqcmadm 	[SQC]mADmAn
+  sqclaff	[SQC]LaFFiniuM
+  sqclocut	[SQC]Locuti
+  pentdj	[PENT]DJ
+  pentjim	[PENT]JimBeam
+  pentsav	[PENT]Saviour
+  pentpit	[PENT]Pitti
+  penteag	[PENT]Eagle
+  This bots have all diffrent skills!
+  shortcuts for deathrows & nine are also ok... 
+  check out the teams.cfg
+
+- emu command starts all settings for ClanMatch... 
+  it is default binded to "n"
+
+- throw_gun command tosses your weapon if its better 
+  than a shotgun, bots will go after these weapons as 
+  long as they aren't in lava etc. Good for helping 
+  teammates.
+
+- Teamtalk and greetings : adds a little atmosphere.
+
+- Dropquad : serverinfo dq 1 in qw to enable, in NQ 
+  command its just dropquad. 
+
+- team names : localinfo team4 xxxx and 
+  localinfo team12 yyyy allow team names for bots 
+  added with addbot4 and addbot12. this is a qw only 
+  feature and it works only with color 4 and 12 with 
+  my cfgs! If you want to use other colors change 
+  xxxplay.cfg!
+
+- pingtypes : in qw localinfo pingtype lan/isdn/modem, 
+  default is isdn, this is enirely cosmetic.
+
+- QW rockets are fixed, also in NQ they are emulated 
+  in qwphysics mode. This allows some nice RJ's to be 
+  done that were previously impossible.
+
+- QWAIM in NQ is improved, a bit closer to real qw 
+  aiming, still got some ideas left to implement so 
+  expect more  in next version.
+
+- Modified impulses : impulse 8 selects best 
+  non-explosive gun, impulse 7 selcts RL or best weapon 
+  below, impulse 6 is GL or best lower, impulse 12 is 
+  like impulse 8 but selects SNG if you are underwater.
+
+- In pre-match time bots only use axes :)))
+
+
+Supported Maps
+==============
+- Dm3
+- Dm4
+- Dm6
+- Frobodm2
+- Ztndm3
+- E1M2
+- UKCLDM2
+- Androm
+- test other maps on your own risk!
+
+
+What's new in this version
+==========================
+
+New in Version 1.10
+===================
+now it supports play as sqc- and pent-player
+added echo-menu to setup with keys
+renamed some cfgs
+some configtweaking ;)
+
+New in Version 1.0c "Pentagon Edition"
+====================================
+added penth command to add 3 Pent-bots
+added NFproxy_frogsvsp.cfg
+renamed some cfgs
+changed skin (Pent-skin, oh my god, what 4 a skin :) )
+changed skins of bots
+changed names of bots (now they look like real!)
+some configtweaking ;)
+
+New in Version 1.0b
+===================
+added [PENT]Saviour-Bot
+added pentemu-alias and binded to n
+reduced pentemu-cfg's from 2 to 1
+added sqc-command to spawn hole sqc
+added special bot-spawn aliases (pentxxx, sqcxxxx)
+implemented proxy settings to run fine
+did this documentation
+added real team-names (sqc, pent)
+changed colors to work better with SQC-default-EnemySkin 
+  and ClanSkin
+lowered skills 20 points down
+some configtweaking ;)
+
+Version 1.0a
+============
+First release ... some kind of betaversion ;)
+
+
+To be added in future
+=====================
+more clans
+more clan-players
+more teams
+echomenus must be displayed better
+2on2on2... support
+dm2 support
+better teamtalk, german teamtalk ;)
+teamnamesupport for other colors
+some other stuff
+
+
+Bugs
+====
+echomenus are shown up in console... do anybody know how 
+to display it right after a mapchange?
+Please e-mail me (laffinium@sqc.de) if you find any bugs.
+
+Feel free to change settings and bots... add some... send 
+them to me! :)
+
+
+Thanks
+======
+id software : doing Quake... great work!
+Zoid : QuakeWorld ... greatest work ! ;)
+Robert 'Frog' Field (frog@powerup.com.au) : The original Frogbot, help with rocket-jumping
+Andrius 'Wrecker' Jovaisa (wrecker@softhome.net) : FMods, testing, copyrights
+Dennis 'Justice' de Boer (datdeboer@gmx.net) : Who helped me and made Frog2000 006d
+Everyone @ botboard.telefragged.com : gave me good inspirations and hints
+Shelob (shrapnel_mcm@hotmail.com) : for support of real (abc-)TeamNames
+Everyone that has downloaded and tried this mod.
+
+
+Copyrights
+==========
+This product is meant for educational purposes only. Any resemblance to real persons, living or dead is purely coincidental. Void where prohibited. Some assembly required. List each check separately by bank number. Batteries not included. Contents may settle during shipment. Use only as directed. No other warranty expressed or implied. Do not use while operating a motor vehicle or heavy equipment. Postage will be paid by addressee. Subject to CAB approval. This is not an offer to sell securities. Apply only to affected area. May be too intense for some viewers. Do not stamp. Use other side for additional listings. For recreational use only. Do not disturb. All models over 18 years of age. If condition persists, consult your physician. No user-serviceable parts inside. Freshest if eaten before date on carton. Subject to change without notice. Times approximate. Simulated picture. No postage necessary if mailed in the United States. Breaking seal constitutes acceptance of agreement. For off-road use only. As seen on TV. One size fits all. Many suitcases look alike. Contains a substantial amount of non-tobacco ingredients. Colors may, in time, fade. We have sent the forms which seem right for you. Slippery when wet. For office use only. Not affiliated with the American Red Cross. Drop in any mailbox. Edited for television. Keep cool. process promptly. Post office will not deliver without postage. List was current at time of printing. Return to sender, no forwarding order on file, unable to forward. Not responsible for direct, indirect, incidental or consequential damages resulting from any defect, error or failure to perform. At participating locations only. Not the Beatles. Penalty for private use. See label for sequence. Substantial penalty for early withdrawal. Do not write below this line. Falling rock. Lost ticket pays maximum rate. Your canceled check is your receipt. Add toner. Place stamp here. Avoid contact with skin. Sanitized for your protection. Be sure each item is properly endorsed. Sign here without admitting guilt. Slightly higher west of the Mississippi. Employees and their families are not eligible. Beware of dog. Contestants have been briefed on some questions before the show. Limited time offer, call now to ensure prompt delivery. You must be present to win. No passes accepted for this engagement. No purchase necessary. Processed at location stamped in code at top of carton. Shading within a garment may occur. Use only in a well-ventilated are. Keep away from fire or flames. Replace with same type. Approved for veterans. Booths for two or more. Check here if tax deductible. Some equipment shown is optional. Price does not include taxes. No Canadian coins. Not recommended for children. Prerecorded for this time zone. Reproduction strictly prohibited. No solicitors. No alcohol, dogs or horses. No anchovies unless otherwise specified. Restaurant package, not for resale. List at least two alternate dates. First pull up, then pull down. Call toll free before digging. Driver does not carry cash. Some of the trademarks mentioned in this product appear for identification purposes only. Record additional transactions on back of previous stub. Unix is a registeredtrademark of AT&T. Do not fold, spindle or mutilate. No transfers issued until the bus comes to a complete stop. Package sold by weight, not volume. Your mileage may vary. This article does not reflect the thoughts or opinions of either myself, my company, my friends, or my cat. Don't quote me on that. Don't quote me on anything. All rights reserved. You may distribute this article freely but you may not make a profit from it. Terms are subject to change without notice. Illustrations are slightly enlarged to show detail. Any resemblance to actual persons, living or dead, is unintentional and purely coincidental. Do not remove this disclaimer under penalty of law. Hand wash only, tumble dry on low heat. Do not bend, fold, mutilate, or spindle. No substitutions allowed. For a limited time only. This article is void where prohibited, taxed, or otherwise restricted. Caveat emptor. Article is provided "as is" without any warranties. Reader assumes full responsibility. An equal opportunity article. No shoes, no shirt, no articles. quantities are limited while supplies last. If any defects are discovered, do not attempt to read them yourself, but return to an authorized service center. Read at your own risk. Parental advisory - explicit lyrics. Text may contain explicit materials some readers may find objectionable, parental guidance is advised. Keep away from sunlight. Keep away from pets and small children. Limit one-per-family please. No money down. No purchase necessary. You need not be present to win. Some assembly required. Batteries not included. Instructions are included. Action figures sold separately. No preservatives added. Slippery when wet. Safety goggles may be required during use. Sealed for your protection, do not read if safety seal is broken. Call before you dig. Not liable for damages arising from use or misuse. For external use only. If rash, irritation, redness, or swelling develops, discontinue reading. Read only with proper ventilation. Avoid extreme temperatures and store in a cool dry place. Keep away from open flames. Avoid contact with eyes and skin and avoid inhaling fumes. Do not puncture, incinerate, or store above 120 degrees Fahrenheit. Do not place near a flammable or magnetic source. Smoking this article could be hazardous to your health. The best safeguard, second only to abstinence, is the use of a condom. No salt, MSG, artificial color or flavoring added. If ingested, do not induce vomiting, and if symptoms persist, consult a physician. Warning: Pregnant women, the elderly, and children should avoid prolonged exposure to Happy Fun Ball. Caution: Happy FUn Ball may suddenly accelerate to dangerous speeds. Happy Fun Ball contains a liquid core, which if exposed due to rupture should not be touched, inhaled, or looked at. Do not use Happy Fun Ball on concrete. Discontinute use of Happy Fun Ball if any of the following occurs: Itching, Vertigo, Dizziness, Tingling in extremities, Loss of balance or coordination, Slurred speech, Temporary blindness, Profuse Sweating, or Heart palpitations. If Happy Fun Ball begins to smoke, get away immediately. Seek shelter and cover head. Happy Fun Ball may stick to certain types of skin. When not in use, Happy Fun Ball should be returned to its special container and kept under refrigeration. Failure to do so relieves the makers of Happy Fun Ball, Wacky Products Incorporated, and it's parent company, Global Chemical Unlimited, of any and all liability. Ingredients of Happy Fun Ball include an unknown glowing substance which fell to Earth, presumably from outer space. Happy Fun Ball has been shipped to our troops in Saudi Arabia and is also being dropped by our warplanes on Iraq. Do not taunt Happy Fun Ball. May cause any of the aforementioned effects and/or death. Articles are ribbed for your pleasure. Possible penalties for early withdrawal. Offer valid only at participating sites. Slightly higher west of the Rockies. Allow four to six weeks for delivery. Must be 18 to read. Disclaimer does not cover misuse, accident, lightning, flood, tornado, tsunami, volcanic eruption, earthquake, hurricanes and other Acts of God, neglect, damage from improper reading, incorrect line voltage, improper or unauthorized reading, broken antenna or marred cabinet, missing or altered serial numbers, electromagnetic radiation from nuclear blasts, sonic boom vibrations, customer adjustments that are not covered in this list, and incidents owing to an airplane crash, ship sinking or taking on water, motor vehicle crashing, dropping the item, falling rocks, leaky roof, broken glass, mud slides, forest fire, or projectile (which can include, but not be limited to, arrows, bullets, shot, BB's, shrapnel, lasers, napalm, torpedoes, or emissions of X-rays, Alpha, Beta and Gamma rays, knives, stones, etc.).
+
+Other restrictions may apply. 
+This supersedes all previous notices.

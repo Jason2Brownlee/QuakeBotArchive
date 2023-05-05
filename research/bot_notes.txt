@@ -3065,6 +3065,14 @@ ufrog (?)
 	http://death2all.excelland.com/
 		https://web.archive.org/web/20010402085317/http://death2all.excelland.com/#
 		"Slayer"
+FrogSvsP
+	http://www.sqc.de/projekts/frogsvsp.htm
+		https://web.archive.org/web/20010629104609/http://www.sqc.de/projekts/frogsvsp.htm
+		https://web.archive.org/web/20010629104609/http://www.sqc.de/files/frogsvsp.zip
+		https://web.archive.org/web/20010629104609/http://www.sqc.de/projekts/frogsvsp.txt
+	clan support for frogbot
+	Lars "LaFFiniuM" Fischer
+	multiple versions...
 
 
 
