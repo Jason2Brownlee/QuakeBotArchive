@@ -20,6 +20,7 @@
 #
 # normal zip files
 #
+bm121.zip
 abandon1.zip
 accuracy.zip
 bgadmbot.zip

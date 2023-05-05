@@ -113,6 +113,7 @@ http://home.t-online.de/home/0551705030/squirt10.zip
 http://idgames.gameaholic.com/idgames/quakec/compilations/wyrmb2.txt
 http://members.nbci.com/nnctf.zip
 http://members.nbci.com/nnsource.zip
+http://members.tripod.com/tf_cheats/kl33n3x-cfg.zip
 http://members.tripod.lycos.nl/koolpaddy/zips/paddybot02.zip
 http://members.xoom.com/eluan/WLBOT1.9.zip
 http://membro.intermega.com.br/gqc/tdbot1_0.zip
@@ -213,6 +214,7 @@ http://www.cdrom.com/pub/idgames2/quakec/compilations/proj1_13.txt
 http://www.cdrom.com/pub/idgames2/quakec/compilations/proj1_qw_12beta.zip
 http://www.converted2.com/bloodmage/junk/FBMOD.ZIP
 http://www.dmsoul.mailru.com/botmatch/bm119gl.zip
+http://www.dmsoul.mailru.com/botmatch/bm121.zip
 http://www.dmsoul.mailru.com/botmatch/win_bm.ZIP
 http://www.dmsoul.newmail.ru/bm116se.zip
 http://www.dmsoul.newmail.ru/bm116src.zip
@@ -293,4 +295,4 @@ http://www.users.bigpond.com/clanslug/termslugv1.29.zip
 http://xmark.ausgamers.com/xkteams/xkteams1705.zip
 http://xmark.ausgamers.com/xkteams/xkteams1705s.zip
 http://xmark.ausgamers.com/xkteams/xkteams2.zip
-https://members.tripod.com/tf_cheats/kl33n3x-cfg.zip
+http://zemp.free.fr/QW/fbca094kt.zip

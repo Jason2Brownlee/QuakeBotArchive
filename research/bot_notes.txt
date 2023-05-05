@@ -1729,6 +1729,12 @@ Frogbot BotMatch Arena / BotMatch frogbot mod
 	https://web.archive.org/web/20100123221244/http://www.dmsoul.mailru.com/botmatch/source_of_bm.ZIP
 	https://web.archive.org/web/20100123221244/http://www.botepidemic.com/fmods/botmatch.ZIP
 	https://web.archive.org/web/20100123221244/http://dmsoul.newmail.ru/src.ZIP
+	https://web.archive.org/web/20020301025205/http://botboard.telefragged.com/showpost.pl?Board=quake1&Number=2504&page=0&view=collapsed&sb=5
+		www.dmsoul.mailru.com/botmatch/win_bm.ZIP
+	https://web.archive.org/web/20020821170311/http://botboard.telefragged.com/showpost.pl?Board=quake1&Number=2703&page=0&view=collapsed&sb=5
+		www.dmsoul.mailru.com/botmatch/bm121.zip
+		https://web.archive.org/web/20020701192402/http://www.3ddownloads.com/?file_id=159654
+		bm121.zip
 Frogbot 2000 / Frogbot 2K
 	https://web.archive.org/web/20100123221300/http://botepidemic.no-origin.net/quake.shtml.htm
 	https://web.archive.org/web/20100123221300/http://tux.telefragged.com/file.pl?filename=f2k006d.zip
