@@ -66,7 +66,9 @@ ftp://numb.macquakeinfinity.com/numb/ctf/fbctf019.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf023.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf032.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf033.zip
+ftp://numb.macquakeinfinity.com/numb/ctf/fbctf040.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/pak2pak.zip
+ftp://numb.macquakeinfinity.com/numb/holywars/hw_frogbot13c.zip
 ftp://numb.macquakeinfinity.com/numb/holywars/hw_frogbotf.zip
 ftp://pcweek-2.wave.ras.ru/pub/id/quake/proj1_14.zip
 ftp://quake.mtu.ru/pub/quake/bots/frogbot7.zip

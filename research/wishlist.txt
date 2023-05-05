@@ -128,6 +128,7 @@ fbctf030.zip
 fbctf032.zip
 fbctf033.zip
 fbctf034.zip
+fbctf040.zip
 fbctf052.zip
 fbctf053.zip
 fbedit10.zip
@@ -175,6 +176,7 @@ holyfbotmod11.exe
 hw_frogbot.exe
 hw_frogbot.sit.bin
 hw_frogbot.zip
+hw_frogbot13c.zip
 hw_frogbot14.zip
 hw_frogbot14f.zip
 hw_frogbot14h.zip

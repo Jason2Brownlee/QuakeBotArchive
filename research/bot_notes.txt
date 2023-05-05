@@ -1717,6 +1717,9 @@ frogbot ctf / Frogbot CTF / FBCTF
 	...
 	numb
 	Gerard Ryan aka "numb"
+	https://web.archive.org/web/20000527151222/http://botboard.telefragged.com/showpost.pl?Board=quake1&Number=1746&page=2&view=collapsed&sb=5
+		ftp://numb.macquakeinfinity.com/numb/ctf/fbctf040.zip
+		ftp://numb.macquakeinfinity.com/numb/holywars/hw_frogbot13c.zip
 Frogbot BotMatch Arena / BotMatch frogbot mod
 	https://web.archive.org/web/20100123221244/http://botepidemic.no-origin.net/fmods/index.htm
 	Alex

@@ -89,3 +89,17 @@ Quake client bot
 	http://granttheant.com/products/quakebot/
 	Grant Davies
 
+
+QIZMO
+	qw proxy
+	https://web.archive.org/web/19991018195053/http://www.students.tut.fi/~zibbo/qizmo/
+Cheapo
+	qw proxy
+	https://web.archive.org/web/20000302003545/http://www.saunalahti.fi/~softech/cheapo.htm
+ThugGun
+	https://web.archive.org/web/20000303000745/http://plendl.iwarp.com/quake/autoaim.htm
+	"Bad rip of kl33n3x"
+	qw
+	https://web.archive.org/web/20000303000745/http://plendl.iwarp.com/quake/thuggun.zip
+	https://web.archive.org/web/20000303000745/http://come.to/tfcheats/
+

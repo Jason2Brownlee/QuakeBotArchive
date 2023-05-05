@@ -32,6 +32,10 @@ Resources / Links
 		https://web.archive.org/web/20001212154800/http://www.gamescenter.de/uqc/download.htm
 	http://members.tripod.com/clanllama/
 		https://web.archive.org/web/19991002164058/http://members.tripod.com/clanllama/
+	https://grahamrat.fortunecity.ws/sites/links.html
+	http://www.ozemail.com.au/~kubikh/cheats.html
+		https://web.archive.org/web/20000229233502/http://www.ozemail.com.au/~kubikh/cheats.html
+	https://web.archive.org/web/20000930193403/http://plendl.iwarp.com/quake/proxys.htm
 
 --------------------------------------------------------------------------------
 
@@ -242,6 +246,8 @@ StoogeBot
 	hacked
 		https://botsquake.fortunecity.ws/stoogeh.zip
 		https://grahamrat.fortunecity.ws/pstooge.zip
+	https://grahamrat.fortunecity.ws/articles/eldridge.html
+		Stanford Graphics Quake Project (SGQP)
 tEdbot
 	http://www.labyrinth.net.au/~adsoft/
 		https://web.archive.org/web/19980205121946/http://www.labyrinth.net.au/~adsoft/
@@ -509,6 +515,8 @@ QWProxy
 	https://botsquake.fortunecity.ws/
 		https://botsquake.fortunecity.ws/qwproxy.zip
 	QuakeWorld
+	https://web.archive.org/web/20000229233502/http://www.ozemail.com.au/~kubikh/cheats.html
+		https://web.archive.org/web/20000229233502/http://skyfamily.com/edgeart/qwproxy.zip
 	???
 Nebubot
 	http://members.tripod.com/tf_cheats/autoaim.html
