@@ -213,6 +213,7 @@ http://www.cdrom.com/pub/idgames2/quakec/compilations/proj1_13.txt
 http://www.cdrom.com/pub/idgames2/quakec/compilations/proj1_qw_12beta.zip
 http://www.converted2.com/bloodmage/junk/FBMOD.ZIP
 http://www.dmsoul.mailru.com/botmatch/bm119gl.zip
+http://www.dmsoul.mailru.com/botmatch/win_bm.ZIP
 http://www.dmsoul.newmail.ru/bm116se.zip
 http://www.dmsoul.newmail.ru/bm116src.zip
 http://www.dobbsnet.btinternet.co.uk/downloads/quake/dobbsbot15b.zip

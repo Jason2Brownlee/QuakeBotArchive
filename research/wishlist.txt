@@ -366,6 +366,7 @@ warbotpk.zip
 warbt13a.zip
 waypack1.zip
 waypoints_maker.rar
+win_bm.zip
 wlbot1.9.zip
 wqb17f.zip
 wyrmb1.zip
@@ -385,7 +386,6 @@ zeus201.zip
 zeus201b.zip
 zeus202b.zip
 zeus20b.zip
-
 
 # mac stuff
 frogbot012.sit
