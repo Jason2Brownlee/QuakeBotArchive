@@ -280,7 +280,7 @@ Alphabetical list of Quake bot names, authors, and local download links for all 
 Bot Name | Bot Author(s) | File
 --- | --- | ---
 BioBots | Tom Hartley | n/a
-Booger | "Demonstar" | [booger.zip](bin/booger.zip)<br>[aimbot.zip](bin/aimbot.zip)<br>boognaut.zip ([txt](bin/boogfeat.txt))
+Booger | "Demonstar" | [booger.zip](bin/booger.zip)<br>[aimbot.zip](bin/aimbot.zip) ([txt](bin/aimbot.txt))<br>boognaut.zip ([txt](bin/boogfeat.txt))
 Bottim | Tim Ferguson | [linux-elf-bottim0.1.tar.gz](bin/linux-elf-bottim0.1.tar.gz)<br>[solaris-bottim0.1.tar.gz](bin/solaris-bottim0.1.tar.gz)
 GenBot | Rich Whitehouse | [genbot03.zip](bin/genbot03.zip)<br>[genbsrc3.zip](bin/genbsrc3.zip)<br>[genbot02.zip](bin/genbot02.zip)<br>[genbsrc2.zip](bin/genbsrc2.zip)<br>[genbot01.zip](bin/genbot01.zip)<br>[genbsrc.zip](bin/genbsrc.zip)
 HPB Proxy | Chad Dreveny | [hpb-proxy-0.992b-linux.tar.gz](bin/hpb-proxy-0.992b-linux.tar.gz) ([txt](bin/hpb-proxy-0.992b.txt))<br>[hpb-proxy-0.991b-linux.tar.gz](bin/hpb-proxy-0.991b-linux.tar.gz)<br>[hpb-proxy-0.99b-linux.tar.gz](bin/hpb-proxy-0.99b-linux.tar.gz)<br>[hpb-proxy-0.9b-linux.tar.gz](bin/hpb-proxy-0.9b-linux.tar.gz) ([txt](bin/hpb-proxy-0.9b.txt))<br>[hpb-proxy-0.9b-aix.tar.gz](bin/hpb-proxy-0.9b-aix.tar.gz)

@@ -78,6 +78,8 @@ LoefBot / PingBot
 		http://www.mindspring.com/~jamesloe/Loefsrc.zip
 		http://www.mindspring.com/~jamesloe/Loefsrc.zip
 	https://botsquake.fortunecity.ws/loefbot5.html
+	https://grahamrat.fortunecity.ws/loefbot5.zip
+	https://grahamrat.fortunecity.ws/loefbot.txt
 Boognaut / Booger
 	http://www.mindspring.com/~jamesloe/files.html
 		https://web.archive.org/web/19990202023247fw/http://www.mindspring.com/~jamesloe/boognaut.zip
@@ -87,6 +89,10 @@ Boognaut / Booger
 		https://www.geocities.ws/oldquaker/loefbot/files/aimbot.zip
 			booger.exe
 	https://botsquake.fortunecity.ws/booger.zip
+	https://grahamrat.fortunecity.ws/
+		https://grahamrat.fortunecity.ws/Aim.txt
+		https://grahamrat.fortunecity.ws/aimbot.zip
+			booger.exe
 Terminator Bot
 	http://www.ens.fr/~cridlig/bot/
 		not archived
@@ -235,6 +241,7 @@ StoogeBot
 			hackstooge.zip
 	hacked
 		https://botsquake.fortunecity.ws/stoogeh.zip
+		https://grahamrat.fortunecity.ws/pstooge.zip
 tEdbot
 	http://www.labyrinth.net.au/~adsoft/
 		https://web.archive.org/web/19980205121946/http://www.labyrinth.net.au/~adsoft/
@@ -425,7 +432,10 @@ Kl33n3x
 		not archived
 	auto-aim proxy / aimbot
 	"d0peman"
-
+	https://web.archive.org/web/20041130193523/http://members.tripod.com/tf_cheats/
+		https://web.archive.org/web/20041130193523/http://members.tripod.com/tf_cheats/autoaim.html
+		https://web.archive.org/web/20020911073803/http://members.tripod.com/tf_cheats/kl33n3x-cfg.zip
+		https://web.archive.org/web/20020911073803/http://members.tripod.com/tf_cheats/kl33n3x.zip
 
 
 
@@ -500,8 +510,10 @@ QWProxy
 		https://botsquake.fortunecity.ws/qwproxy.zip
 	QuakeWorld
 	???
-
-
+Nebubot
+	http://members.tripod.com/tf_cheats/autoaim.html
+		https://web.archive.org/web/20020911073803/http://members.tripod.com/tf_cheats/autoaim.html
+		"rip of the Kl33n3x bot, which contains a virus"
 
 
 

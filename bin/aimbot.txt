@@ -1,0 +1,61 @@
+start the .exe program, then type connect server#:port. then run Q95 and under multiplayer tcp/ip enter your computers own ip address. keep repeating the above steps and eventualy you get in 
+
+someone posted this in the guestbook, and its correct.
+you just put the exe file in your Quake directory.
+
+notes from the author:
+
+* Fixed offline player list (doesn't scroll off the screen now)
+
+* Fixed aiming (kinda; it's at least 100% more accurate than before
+anyway; it leads based on lag [the bot's], your victim's velocity, and your
+velocity).  Anyway, it's sharp enough to beat most humans most of the time
+:).
+
+* "Fixed" targeting.  It now concentrates on a single target until
+that target is either dead or not in the line of sight.  This breaks a lot
+because I did it real sloppy.
+
+* Bot just aims.  The only time the bot does anything is when you
+push fire.  It then proceeds to find an enemy and lock on his expected
+location.  It does actually turn you, partly because it's easier to
+dodge/circle strafe that way, and partly to circumvent "Stooge detectors"
+that kick you off if you maintain constant velocity while changing angles.
+
+* Removed a bunch of code I didn't want.  (My intent was to make a
+proxy-only bot, removing the autonomous code.  But I burnt out before doing
+that.)
+
+
+################AIMBOT EXTRA HELP INFO#########################
+
+
+Go to the download page and get the Aimbot.
+Now, this is the part that's a little different from what everyone else tells you:
+If you have a relatively good computer (at least 233MHZ 32RAM 2GigsHD), copy your ENTIRE Quake folder and rename the copied folder "Quake-bot".
+Next, go into the new Quake-bot folder and get rid of all the unnecessary patches,games & mods -- make it bareboned, just like when you first loaded the game onto your computer.
+Next, unzip the booger.exe program (from the Aimbot.zip) into the "quake-bot" folder.
+Next, right click on booger.exe and choose "create shortcut".
+Move the shortcut to your normal Quake folder.
+Right click on the shortcut and choose "properties"
+In the command line window you see c:\quake-bot\booger.exe or something like that.
+Lets say the server you want to connect to is 24.123.56.78:26000
+Change the command line to read c:\quake-bot\booger.exe -connect 24.123.56.78:26000
+Click ok to close the properties box.
+Right click again on the shortcut and rename it to something like "botserv1"
+
+Okay, we're near the finish line now-
+Connect to the internet and start your shortcut program (i.e. botserv1), a dos window should pop up telling you that the bot is running and waiting to connect.
+Next start Quake and go to the screen where you enter the address to connect to.
+Enter your the IP of your own computer in the address box.
+(If you don't know it, "search for all local games", and your IP will show.)
+Like Jimmy says below, you will get 1 of 3 responses:
+"connection accepted" -- frag on dude!
+"bad response" -- means that the couldn't QUITE connect
+"no response" -- means the bot cannot even communicate with the server
+
+My months and months of experience with this bot has taught me that when you get "bad response" you could try reconnecting without quitting first, but the best thing to do is to exit out of Quake, and then close the dos window, and then start again. True, sometimes it takes upto 5 times of doing this to get your bot to connect but the rewards are worth the hassle! If you get "no response", maybe you should try a different server, or try later.
+BTW, all you have to do to try a different server is to right click on the botserv1 file, go to properties and edit the server#. Or, you can do what I do. I made 30 shortcuts to booger.exe, each one has a different server # in it, so I just pick the server I want.
+Why two quake folders you ask? the bot runs much MUCH smoother.
+
+These days on Quake 1 servers you need a bot. 1/2 the people playing on them are using bots, and if you aren't, the only person you are cheating are yourselves :]

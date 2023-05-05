@@ -597,6 +597,7 @@ glqb17.zip
 glqbbeta.zip
 glqwb17.zip
 hackstooge.zip
+kl33n3x-cfg.zip
 loefbot2.zip
 loefbot3.zip
 loefbot4.zip
@@ -643,3 +644,4 @@ wqb17.zip
 wqb_beta.zip
 zbot9504.zip
 zbotdem.zip
+
