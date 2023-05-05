@@ -223,6 +223,7 @@ http://www.botepidemic.com/fmods/fbca094kt.zip
 http://www.botepidemic.com/fmods/fbctf052.zip
 http://www.botepidemic.com/fmods/hw_frogbot14h.zip
 http://www.btinternet.com/~chris.r.millward/chris/var25.zip
+http://www.captured.com/ctfbot/ctfbotmw.zip
 http://www.cdrom.com/pub/idgames2/newstuff/doombot.zip
 http://www.cdrom.com/pub/idgames2/newstuff/zeus202b.zip
 http://www.cdrom.com/pub/idgames2/quakec/bots/darkbt09.zip

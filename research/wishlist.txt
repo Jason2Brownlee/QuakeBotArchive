@@ -50,6 +50,7 @@ clanbotv0.9b.zip
 clanv0.5auto.zip
 clanv0.6auto.zip
 clanv0.7hman.zip
+ctfbotmw.zip
 cujo12.zip
 cujo12a.zip
 cujo12b.zip
