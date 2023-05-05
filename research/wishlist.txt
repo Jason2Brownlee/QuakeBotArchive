@@ -23,7 +23,6 @@
 
 
 # files we know/expect to exist
-fbcasounds.zip
 abandon1.zip
 accuracy.zip
 bgadmbot.zip
@@ -114,6 +113,7 @@ fbca102kt-rc1.zip
 fbca102pre_beta.zip
 fbca102rc2.zip
 fbca86se.zip
+fbcasounds.zip
 fbctf003.zip
 fbctf004.zip
 fbctf005.zip
@@ -308,6 +308,8 @@ ud201.zip
 udm12-15b.zip
 udm15-15b.zip
 udm15b.zip
+ufrog.zip
+ufrog_player_model.zip
 ultdet110.zip
 var10.zip
 var11.zip

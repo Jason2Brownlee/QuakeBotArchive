@@ -3056,6 +3056,15 @@ Interference Bot
 	https://www.quaddicted.com/webarchive/minion.planetquake.gamespy.com/inter.htm
 	http://www.planetquake.com/minion/inter.htm
 		https://web.archive.org/web/20050211164122/http://www.planetquake.com/minion/inter.htm
+ufrog (?)
+	https://web.archive.org/web/20010903074505/http://botboard.telefragged.com/showpost.pl?Board=quake1&Number=2401&page=0&view=collapsed&mode=flat&sb=5
+		http://death2all.excelland.com/files/ufrog.zip
+		http://death2all.excelland.com/files/ufrog_player_model.zip
+		death2all
+		frogbot mod, "based upon Frogbot 2000"
+	http://death2all.excelland.com/
+		https://web.archive.org/web/20010402085317/http://death2all.excelland.com/#
+		"Slayer"
 
 
 
