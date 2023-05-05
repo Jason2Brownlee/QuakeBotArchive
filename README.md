@@ -120,11 +120,11 @@ Frogbot + Rocket Arena | Alexey Pakhomov aka "ParboiL" | [fbra.zip](bin/fbra.zip
 Frogbot + Rocket Arena | Brian Mathiasen aka "Erazor" | [fbarena070.zip](bin/fbarena070.zip)<br>fbarena060.zip<br>fbarena050.zip<br>fbarena013.zip
 Frogbot 2000 | Dennis de Boer aka "Justice" | [f2k006d.zip](bin/f2k006d.zip)<br>[versie.zip](bin/versie.zip)<br>f2k005d.zip<br>[f2k003c.zip](bin/f2k003c.zip)<br>f2k001a.zip<br>2000.zip
 Frogbot BotMatch Arena | Alex aka "DmSouL" | [botmatch.zip](bin/botmatch.zip) <br>[source_of_bm.zip](bin/source_of_bm.zip)<br>bm121.zip<br>bm119gl.zip ([txt](bin/bm119gl.txt))<br>bm116se.zip<br>bm116src.zip<br>win_bm.zip
+Frogbot Clan Match Emulation (FrogSvsP) | Lars Fischer aka "LaFFiniuM" | frogsvsp.zip ([txt](bin/frogsvsp.txt))
 Frogbot Deathmatch | Alexey Pakhomov aka "ParboiL" | [fbdm012.zip](bin/fbdm012.zip)<br>[fbdm07.zip](bin/fbdm07.zip)
 FrogBot ModPack | Mario Rillmann aka "Neophyte" | mpak1v12.zip<br>[mpak1v11.zip](bin/mpak1v11.zip)<br>[mpak1v10.zip](bin/mpak1v10.zip)
 Frogbot Special Edition | Brian Mathiasen aka "Erazor" | [fb013se.zip](bin/fb013se.zip)
 Frogbot | Robert Field aka "Frog" | [frogbot013.zip](bin/frogbot013.zip)<br>[frogfix1.zip](bin/frogfix1.zip)<br>frogbot_demo.zip<br>[frogbot012c.zip](bin/frogbot012c.zip)<br>frogbot012b.zip<br>frogbot012a.zip<br>[frogbot011b.zip](bin/frogbot011b.zip) ([txt](bin/frogbot011b.txt))<br>frogbot011a.zip<br>[frogbot009.zip](bin/frogbot009.zip) ([txt](bin/frogbot009.txt))<br>frogbot007.zip<br>[frogbot005.zip](bin/frogbot005.zip)<br>[frogbot003.zip](bin/frogbot003.zip)<br>[frogbot000.zip](bin/frogbot000.zip)<br>[frogphys001.zip](bin/frogphys001.zip)<br>[frogphys00.zip](bin/frogphys00.zip)
-FrogSvsP | Lars Fischer aka "LaFFiniuM" | frogsvsp.zip ([txt](bin/frogsvsp.txt))
 Fun With Dogz (BGBot, Cujo) | Thomas Hansen | [dogfun20.zip](bin/dogfun20.zip) ([txt](bin/dogfun20.txt))<br>dogfun19.zip<br>dogfun18.zip<br>dogfun17.txt<br>[dogfun16.zip](bin/dogfun16.zip) ([txt](bin/dogfun16.txt))<br>dogfun14.zip<br>[dogfun13.zip](bin/dogfun13.zip) ([txt](bin/dogfun13.txt))
 Gideon Bot | Matthew Turvey | [gidbot.zip](bin/gidbot.zip) ([txt](bin/gidbot.txt))
 GlacierBot | Rainier Rapera aka "IceDagger" | [gb027b.zip](bin/gb027b.zip)<br>gbped10.zip
