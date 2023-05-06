@@ -50,6 +50,7 @@ Quakabiltiy: Bot Arena
 	https://web.archive.org/web/20191226211146fw_/http://users.skynet.be/bk236270/quakability.htm
 	https://www.quaketastic.com/files/multiplayer/mods/Quakability_2.1_-_NoMusicRepack.txt
 	https://www.quaketastic.com/files/multiplayer/mods/Quakability_2.1_-_NoMusicRepack.zip
+	https://web.archive.org/web/20010808064840/http://cocot.topcities.com/quakability.htm
 	total conversion
 	engine bots I believe...
 Quake 1 Arena

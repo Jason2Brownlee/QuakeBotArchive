@@ -96,10 +96,12 @@ http://asp.planetquake.com/dl/dl.asp?/holywars/quake/hw_frogbot14f.zip
 http://asp.planetquake.com/dl/dl.asp?requiem/reqqwsrc.zip
 http://aswp.tzo.net/maleficus/setup.zip
 http://botarea51.impulse9.net/mirror/bot/elimpack.zip
+http://cocot.topcities.com/Bots_Quad_Hunt.zip
 http://darkskye.home.mindspring.com/quakeworld-20000102.tar.gz
 http://death2all.excelland.com/files/ufrog.zip
 http://death2all.excelland.com/files/ufrog_player_model.zip
 http://dmsoul.mailru.com/botmatch/bm119gl.zip
+http://dmsoul.newmail.ru/notlpb_fbca.ZIP
 http://dmsoul.newmail.ru/src.ZIP
 http://first.quakegate.ru/bots/frogbot.rar
 http://ftp.gamers.org/pub/games/idgames2/planetquake/hwqwbot.exe
@@ -132,6 +134,7 @@ http://members.xoom.com/mtm07/fbca082.zip
 http://members.xoom.com/mtm07/fbca084.zip
 http://members.xoom.com/mtm07/fbcasounds.zip
 http://members.xoom.com/mtm07/progs.zip
+http://members.xoom.com/Neophyte98/files/HolyFbot_Mod11.EXE
 http://membro.intermega.com.br/gqc/tdbot1_0.zip
 http://numb.macquakeinfinity.com/bugfix/hw_bugfix.txt
 http://numb.macquakeinfinity.com/bugfix/progs.zip
@@ -267,6 +270,7 @@ http://www.isleofmull56.freeserve.co.uk/paddybot.zip
 http://www.mindspring.com/~darkskye/files/darkbt09.zip
 http://www.miteksys.com/death/abandon1.zip
 http://www.ncf.ca/~bk039/frik-tf.zip
+http://www.p-n-p.newmail.ru/MyFiles/frog2000.zip
 http://www.parboil.mailru.com/parboil/fbca086.zip
 http://www.parboil.mailru.com/parboil/fbca089b.zip
 http://www.parboil.mailru.com/parboil/fbca089se.zip

@@ -113,6 +113,17 @@ Pro-X
 	frikbots
 	https://web.archive.org/web/20040213091151/http://www.qexpo.com/booths.php?id=25
 	https://web.archive.org/web/20040119224836/http://www.qexpo.com/uploaded/25/readme.txt
+Holywars Frogbot
+	https://web.archive.org/web/20001203163200/http://botboard.telefragged.com/showpost.pl?Board=quake1&Number=363&page=21&view=collapsed&sb=5
+	Neophyte
+	http://members.xoom.com/Neophyte98/files/HolyFbot_Mod11.EXE
+		HolyFbot_Mod11.EXE
+	"Note: This is not the Original Holywars Frogbot Edition"
+Quad-Hunt bots
+	http://cocot.topcities.com/quad-hunt.htm
+	https://web.archive.org/web/20010808065009/http://cocot.topcities.com/quad-hunt.htm
+	"Click here to download the FrikBot patch by Plumb!"
+	Bots_Quad_Hunt.zip
 
 
 David Love

@@ -31,6 +31,7 @@ bm116src.zip
 bm119gl.zip
 bm121.zip
 botmove.zip
+Bots_Quad_Hunt.zip
 botskn12.zip
 botskn13.zip
 botskn14.zip
@@ -159,6 +160,7 @@ friktf-092800-qw.zip
 friktf-092800.tar.gz
 frikwayeditor11.zip
 frkbt09a.zip
+frog2000.zip
 frog_src.zip
 frogbot.rar
 frogbot001.zip
@@ -176,6 +178,7 @@ glydeqk.zip
 grdbot13.zip
 hhbot.zip
 holomod.zip
+HolyFbot_Mod11.EXE
 holyfbotmod05.zip
 holyfbotmod06.zip
 holyfbotmod07.zip
@@ -221,6 +224,7 @@ mpak1v12.zip
 mybot14.zip
 nnctf.zip
 nnsource.zip
+notlpb_fbca.zip
 oak082.zip
 oak0855.zip
 obots100.sit
