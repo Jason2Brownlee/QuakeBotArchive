@@ -180,6 +180,7 @@ http://railgun.macquakeinfinity.com/downloads/fbctf030.zip
 http://railgun.macquakeinfinity.com/downloads/mac_hwbot003b7final.sit.bin
 http://redwood.gatsbyhouse.com/quake/files/B75chg.txt
 http://se.aminet.net/pub/aminet/game/patch/frogbot.lha
+http://shub-hub.com/files/mods_multiplayer/dp_orionbot.zip
 http://shub-hub.quaddicted.com/files/mods_multiplayer/monsterFBXID1waysV2.zip
 http://shub-hub.quaddicted.com/files/mods_multiplayer/orionbots_v3_ra.zip
 http://skillz.macquakeinfinity.com/files/Frogbot012.sit

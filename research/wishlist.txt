@@ -76,6 +76,7 @@ dogfun17.zip
 dogfun18.zip
 dogfun19.zip
 doombot.zip
+dp_orionbot.zip
 drkbot02.zip
 drkbot04.arj
 drkbot04.zip
