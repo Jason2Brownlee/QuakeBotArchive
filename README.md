@@ -268,7 +268,7 @@ Bot Name | Bot Author(s) | File
 BioBots | Tom Hartley | n/a
 Booger | "Demonstar" | [booger.zip](bin/booger.zip)<br>[aimbot.zip](bin/aimbot.zip) ([txt](bin/aimbot.txt))<br>boognaut.zip ([txt](bin/boogfeat.txt))
 BotTim | Tim Ferguson | [linux-elf-bottim0.1.tar.gz](bin/linux-elf-bottim0.1.tar.gz)<br>[solaris-bottim0.1.tar.gz](bin/solaris-bottim0.1.tar.gz)
-GenBot | Rich Whitehouse | [genbot03.zip](bin/genbot03.zip)<br>[genbsrc3.zip](bin/genbsrc3.zip)<br>[genbot02.zip](bin/genbot02.zip)<br>[genbsrc2.zip](bin/genbsrc2.zip)<br>[genbot01.zip](bin/genbot01.zip)<br>[genbsrc.zip](bin/genbsrc.zip)
+GenBot | Rich Whitehouse aka "thefatal" | [genbot03.zip](bin/genbot03.zip)<br>[genbsrc3.zip](bin/genbsrc3.zip)<br>[genbot02.zip](bin/genbot02.zip)<br>[genbsrc2.zip](bin/genbsrc2.zip)<br>[genbot01.zip](bin/genbot01.zip)<br>[genbsrc.zip](bin/genbsrc.zip)
 HPB Proxy | Chad Dreveny | [hpb-proxy-0.992b-linux.tar.gz](bin/hpb-proxy-0.992b-linux.tar.gz) ([txt](bin/hpb-proxy-0.992b.txt))<br>[hpb-proxy-0.991b-linux.tar.gz](bin/hpb-proxy-0.991b-linux.tar.gz)<br>[hpb-proxy-0.99b-linux.tar.gz](bin/hpb-proxy-0.99b-linux.tar.gz)<br>[hpb-proxy-0.9b-linux.tar.gz](bin/hpb-proxy-0.9b-linux.tar.gz) ([txt](bin/hpb-proxy-0.9b.txt))<br>[hpb-proxy-0.9b-aix.tar.gz](bin/hpb-proxy-0.9b-aix.tar.gz)
 Itchy QuakeBot | Chad Dreveny | n/a
 Kl33n3x | "d0peman" | [kl33n3x-package.zip](bin/kl33n3x-package.zip) ([txt](bin/kl33n3x.txt))<br>kl33n3x-cfg.zip<br>[kl33n3x.zip](bin/kl33n3x.zip)
@@ -285,6 +285,7 @@ SlugBot | "slug" | [termslugv1.30.zip](bin/termslugv1.30.zip)<br>termslugv1.29.z
 StoogeBot (SGQP) | Kekoa Proudfoot, Matthew Eldridge, and Craig Kolb | [winstoog.zip](bin/winstoog.zip) ([txt](bin/stoogebot.txt))<br>[linstooge.tar.gz](bin/linstooge.tar.gz)<br>[sgistooge.tar.gz](bin/sgistooge.tar.gz)
 tEdbot | Grant Davies and Ramanan Rajeswaran | n/a
 Terminator Bot | Olivier Montanuy | trmbot96.zip ([txt](bin/trmbot96.txt))<br>[quake-termbot-0.96-1.i386.rpm](bin/quake-termbot-0.96-1.i386.rpm)<br>[quake-termbot-0.96-1.src.rpm](bin/quake-termbot-0.96-1.src.rpm)<br>termbot-src-096.tar.gz<br>[trmbot09.zip](bin/trmbot09.zip) ([txt](bin/trmbot09.txt))<br>[trmbot09.tgz](bin/trmbot09.tgz)<br>[botsrc09.zip](bin/botsrc09.zip)<br>[botsrc09.tgz](bin/botsrc09.tgz)<br>[trmbot08.zip](bin/trmbot08.zip) ([txt](bin/trmbot08.txt))<br>[botsrc08.zip](bin/botsrc08.zip)<br>trmbot07.zip
+Tsumi to Botsu | Rich Whitehouse aka "thefatal" | [tusmi01.zip](bin/tusmi01.zip)
 ZaphBot | Kevin Burfitt aka "Zaph" | zbot9504.zip<br>zbotdem.zip
 
 

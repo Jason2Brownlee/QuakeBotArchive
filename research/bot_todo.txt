@@ -124,8 +124,6 @@ Quad-Hunt bots
 	https://web.archive.org/web/20010808065009/http://cocot.topcities.com/quad-hunt.htm
 	"Click here to download the FrikBot patch by Plumb!"
 	Bots_Quad_Hunt.zip
-
-
 David Love
 	http://web.ukonline.co.uk/members/david.love/files.htm
 		https://web.archive.org/web/19970614180332/http://web.ukonline.co.uk/members/david.love/files.htm
@@ -137,6 +135,16 @@ David Love
 		https://web.archive.org/web/19970614180332/http://web.ukonline.co.uk/members/david.love/empire.zip
 	Frank - Protection Bot
 		https://web.archive.org/web/19970614180332/http://web.ukonline.co.uk/members/david.love/frank.zip
-
-
+Tekbot
+	https://web.archive.org/web/20130507131713/http://www.tekbotctf.com/
+	Tekbot CTF+
+	"Teknoskillz"
+	https://web.archive.org/web/20160819191140fw/http://tekbotctf.com/tekbot.zip
+	https://web.archive.org/web/20160819191140fw/http://tekbotctf.com/config.txt
+	https://web.archive.org/web/20160819191140fw/http://tekbotctf.com/demos.zip
+	https://web.archive.org/web/20160819191140fw/http://tekbotctf.com/lavaball4m3.zip
+	https://www.geocities.ws/ctfbotplus/news.html
+	https://www.geocities.ws/ctfbotplus/files.html
+	https://www.indiedb.com/members/teknoskillz
+	https://github.com/teknoskillz
 

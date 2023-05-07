@@ -13,11 +13,6 @@ dragon
 	http://www.insideqc.com/modindex/qreview/drag.shtml
 	https://web.archive.org/web/19990125075903/http://203.32.12.18/
 	monster
-Tsumi to Botsu
-	https://web.archive.org/web/20020408101357/http://www.botepidemic.com:80/quake.shtml
-	https://web.archive.org/web/20020408101357/http://www.telefragged.com/thefatal/tsumi.shtml
-	https://web.archive.org/web/20020408101357/http://www.3ddownloads.com/?file_id=115170
-	engine bot I believe
 TomazQuake Bot
 	https://web.archive.org/web/20100123221300/http://botepidemic.no-origin.net/quake.shtml.htm
 	http://www.telefragged.com/thefatal/
