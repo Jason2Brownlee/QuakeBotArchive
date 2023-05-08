@@ -1,6 +1,6 @@
 # Quake Bot Archive
 
-The goal of this project is to archive **all versions** of **all Quake bots** (QuakeC modifications).
+The goal of this project is to archive **all versions** of **all Quake bots**.
 
 ## About
 
@@ -8,7 +8,7 @@ Quake is a computer game released by id Software in mid 1996. The source code (Q
 
 A Quake bot mod is a third-party modification to the Quake game code to introduce intelligent non-playable characters, typically opponents for deathmatch play.
 
-Quake bots represent a historical breakthrough in computer game artificial intelligence (e.g. opponents that act like human players) and are also a lot of fun to play (e.g. a multiplayer game can be enjoyed as a singleplayer game).
+Quake bots represent a historical breakthrough in computer game artificial intelligence (e.g. opponents that act like human players) and are also a lot of fun to play (e.g. a multiplayer game can be enjoyed as a single player game).
 
 Quake bot mods were mostly developed between 1996 and 2000 and were hosted on a tangle of third-party websites. Most of these websites have disappeared over the last 25 years, along with many bot mods themselves. **This is a terrible loss**!
 

@@ -330,6 +330,7 @@ RichMark's QuakeBot
 	https://botsquake.fortunecity.ws/
 		https://botsquake.fortunecity.ws/qb16g.zip
 		https://botsquake.fortunecity.ws/qb1.zip
+	kroeker@ix.netcom.com
 Bottim
 	https://www.geocities.ws/oldquaker/bottim/
 	QuakeWorld bot
@@ -469,6 +470,7 @@ Playmate / AE_playmate
 		https://web.archive.org/web/19971010235839/http://www.tf.hut.fi:80/~ath/Aesir/news.html
 	https://poltsi.fi/Archives/Aesir/bot.html
 	real bot, no release...
+	aesir@tf.hut.fi
 	???
 Itchy QuakeBot
 	http://www-mddsp.enel.ucalgary.ca/People/dreveny/itchy/index.html
@@ -477,12 +479,14 @@ Itchy QuakeBot
 	http://www-mddsp.enel.ucalgary.ca/People/dreveny/itchy/botprog.html
 	no downloads
 	real bot, no release...
+	dreveny@enel.ucalgary.ca
 	???
 BioBots
 	http://coriander.psychol.ucl.ac.uk/fw/quakebot1.html
 		https://web.archive.org/web/19971017015410/http://coriander.psychol.ucl.ac.uk/fw/quakebot1.html
 	Tom Hartley
 	real bot, no release...
+	T.Hartley@psychol.ucl.ac.uk
 	???
 AdminBot
 	https://web.archive.org/web/19990220164340/http://www.coe.uncc.edu/~jfrorie/QuakeBotLinks.htm
@@ -495,12 +499,20 @@ JavaBot
 		not archived
 	https://graphics.stanford.edu/~kekoa/stoogebot/resources.html
 		http://www.cis.ohio-state.edu/~swartzla
-		Ben Swartlander
+		Ben Swartzlander
 	http://www.diva-portal.org/smash/get/diva2:831590/FULLTEXT01
 		Ben Swartzlander. Quake 2 bot core, 1998.
+	http://www.telefragged.com/Q2BotCore
+		https://web.archive.org/web/19981206213015/http://www.telefragged.com/Q2BotCore/
+		Qauke2 bot core
+		swartz@rice.edu
 	Quake 2
 	https://www.gamers.org/pub/idgames2/planetquake/javabot/JavaBot112.zip
 		not related
+	social
+		https://github.com/bswartz
+		https://twitter.com/BSwartzlander
+		https://www.linkedin.com/in/benswartzlander/
 	???
 SeismoBot
 	https://web.archive.org/web/19990220164340/http://www.coe.uncc.edu/~jfrorie/QuakeBotLinks.htm
@@ -533,6 +545,9 @@ Nebubot
 	http://members.tripod.com/tf_cheats/autoaim.html
 		https://web.archive.org/web/20020911073803/http://members.tripod.com/tf_cheats/autoaim.html
 		"rip of the Kl33n3x bot, which contains a virus"
-
+Quake client bot
+	http://granttheant.com/products/quakebot/
+	Grant Davies
+	emailed and asked for a version...
 
 
