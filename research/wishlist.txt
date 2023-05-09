@@ -268,6 +268,15 @@ reqqwsrc.zip
 rnbt3.4.zip
 rnbt3.6.zip
 sbotstuf.zip
+seismo10.zip
+seismo11.zip
+seismo12.zip
+seismo13.zip
+seismo14.zip
+seismo15.zip
+seismo16.zip
+seismo17.zip
+seismo18.zip
 sq12to13.zip
 sqdbt201.zip
 squirt10.zip

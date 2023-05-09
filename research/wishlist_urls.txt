@@ -299,6 +299,8 @@ http://www.planetquake.com/requiem/files/req_qw.zip
 http://www.planetquake.com/requiem/files/reqqw104.zip
 http://www.planetquake.com/requiem/files/reqqw20i.zip
 http://www.planetquake.com/requiem/files/reqqw23.zip
+http://www.quakehole.com/files/misc/seismo14.zip
+http://www.quakehole.com/files/misc/seismo15.zip
 http://www.quaketerminus.freeola.com/mods/UD120.zip
 http://www.quaketerminus.freeola.com/mods/UD130.zip
 http://www.rmbwenw.nl/botarea51/files/xreaper/setup.exe

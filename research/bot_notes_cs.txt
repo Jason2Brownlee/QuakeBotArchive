@@ -489,7 +489,10 @@ SeismoBot
 		https://thegate.gamers.org/pub/idgames2/utils/network_serial/client_bots/seismo19.txt
 		https://thegate.gamers.org/pub/idgames2/utils/network_serial/client_bots/seismo19.zip
 		Rob Furphy, Kevin Furphy
-
+	http://www.quakehole.com
+		https://web.archive.org/web/19971210064427/http://www.quakehole.com/frames/oldnews.html
+		http://www.quakehole.com/files/misc/seismo14.zip
+		http://www.quakehole.com/files/misc/seismo15.zip
 
 
 
