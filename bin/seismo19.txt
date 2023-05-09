@@ -1,0 +1,93 @@
+Quake Seismograph Utilities:
+
+Title    : SeismoGraph and SeismoBot
+Filename : Seismo19.zip
+Version  : 1.9
+Date     : 4/25/1997
+Author   : Rob Furphy, Kevin Furphy
+Email    : Seismo@DeathsDoor.com
+Web      : http://www.cloud9.net/~kfurphy
+Credits  : id software, for everything.
+           Everyone involved in the QuakeBot C/S project and Jim Rorie
+           for releasing the source to his bot (jfrorie@uncc.edu).
+           sCary for posting us on his page.
+           All those who took the time to e-mail suggestions and
+           comments.
+
+Yes, the COMPLETE programs and everything necessary to run them are in
+the file Seismo19.zip.  We hate code bloat.  Both SeismoBot and
+SeismoGraph are Win '95 console apps compiled with MSVC++ 5.0. They will
+also run on WindowsNT.
+
+**General Description**
+In July of 1996 we got together and created two programs to collect and then
+report enhanced statistics from Quake games.  Here is the latest version.
+
+The first program 'Seismograph' reads the Quake or QuakeWorld -condebug
+files OR Seismobot log files and creates a report with lots of the gory
+details:
+
+Reports include:
+   o  Enhanced quake style frag list with stats per player
+      -  # of kills made by you
+      -  # of times you were killed
+      -  # of environment deaths (lava, squished, etc)
+      -  # of suicides (self kills by weapon)
+      -  total time spent in game (with bot only)
+      -  avg. time per frag (with bot only)
+      -  avg. time per dying (with bot only)
+   o  A DOOM-like frag matrix so you can get to the exacting detail
+      of precisely how many times that camper was killed by each player <g>.
+   o  A Per-player detail of:
+      - # kills made
+      - # times killed
+      - net kills
+      - a QuakeWorld style "Effeciency" rating for the game you played.
+   o  A listing of who you killed first and who first killed you.
+   o  A listing of all of the maps played (and the time spent in them if
+                                           the bot was used)
+   o  A detail listing of all of the recognized death messages within the
+      log file.  You can see the most used and least used weapons.
+   o  All player names are converted to their ascii equivalents
+   o  **NEW IN V1.9: Team Scoring as comprehensive as player stats
+   o  **NEW IN V1.9: Now works with QuakeWorld -condebug files
+   o  **NEW IN V1.9: New command line arguments to make using Seismograph
+      easier.
+
+The report generator Seismograph comes with a death message text file which
+is easily configurable to add any of the new weapons/deaths you like to play
+with so they will be recognized and included in the reports.
+
+Currently, there is NO LIMIT to the amount of messages you can use or the
+amount of players that SeismoGraph will report on.  The only limit is RAM.
+
+The second program 'SeismoBot' is a Bot derived from the QuakeBot C/S code.
+You connect this guy to the server you want to log the events of.  He can
+play along(he's a dumbass) or he can just log the events(not getting in the
+way).  When the game is over you disconnect the Seismobot and you now have
+a record of all the events which occurred during the game.  The bot stores
+a timestamp with each message which Seismograph uses to calculate time stats.
+You do NOT *need* the bot to use Seismograph.
+
+
+/-------------\
+| Legal stuff |
+\-------------/
+
+   FOR THE PURPOSE OF THIS SECTION OF THE DOCUMENTATION, THE TWO PROGRAMS
+SEISMOBOT.EXE AND SEISMOGRAPH.EXE AND THEIR RELATED FILES DEATHS.TXT AND
+SEISMO.DOC WILL BE REFERRED TO AS 'SEISMO SOFTWARE'.
+   SEISMO SOFTWARE IS PROVIDED AS IS AND LEFT THE AUTHORS' HANDS VIRUS FREE.
+ANYONE USING THESE TWO PROGRAMS DOES SO AT THEIR OWN RISK.  THE AUTHORS WILL
+NOT BE RESPONSIBLE FOR ANY DAMAGE OR LOSS OF FILES OR HARDWARE ON ANY MACHINE
+RUNNING SEISMO SOFTWARE.  ANY VIRUS OR CODE OF THAT NATURE ADDED TO SEISMO
+SOFTWARE WAS NOT PUT IN BY THE AUTHORS.  THE AUTHORS *STRONGLY* RECOMMEND
+SCANNING SEISMO SOFTWARE WITH AT LEAST 2 DIFFERENT VIRUS DETECTION PROGRAMS
+BEFORE INSTALLING AND USING IT.
+   SEISMO SOFTWARE IS PROVIDED FREE TO THE PUBLIC AND MAY NOT BE INCLUDED ON
+ANY SOFTWARE LIBRARY ON ANY MEDIA SOLD FOR PROFIT OR SOLD INDIVIDUALLY ON
+ANY MEDIA FOR PROFIT WITHOUT THE EXPRESSED WRITTEN CONSENT OF THE AUTHORS.
+(ARE YOU LISTENING ACTURA SOFTWARE? ARE YOU?)
+
+   The ONLY exception is granted to Walnut Creek for the file Seismo19.zip
+and this file Seismo19.txt.

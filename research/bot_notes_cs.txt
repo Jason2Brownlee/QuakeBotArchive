@@ -100,6 +100,8 @@ Boognaut / Booger
 Terminator Bot
 	http://www.ens.fr/~cridlig/bot/
 		not archived
+	http://www.ens.fr/~montanuy
+		not archived
 	https://www.gamers.org/dEngine/quake/Qbot/
 		https://web.archive.org/web/19970124133740/http://www.gamers.org/dEngine/quake/Qbot/
 	Olivier Montanuy
@@ -109,17 +111,41 @@ Terminator Bot
 		https://www.gamers.org/dEngine/quake/Qbot/trmbot09.tgz
 		https://www.gamers.org/dEngine/quake/Qbot/botsrc09.zip
 		https://www.gamers.org/dEngine/quake/Qbot/botsrc09.tgz
-	old versions?
+	http://perso.wanadoo.fr/montanuy/bot/
+		https://web.archive.org/web/20011121150058/http://perso.wanadoo.fr/montanuy/bot/
+		https://web.archive.org/web/20011121150058/http://perso.wanadoo.fr/montanuy/bot/bot.txt
+		https://web.archive.org/web/20011121150058/http://perso.wanadoo.fr/montanuy/bot/trmbot96.zip
+		https://web.archive.org/web/20011121150058/http://perso.wanadoo.fr/montanuy/bot/quake-termbot-0.96-1.i386.rpm
+		https://web.archive.org/web/20011121150058/http://perso.wanadoo.fr/montanuy/bot/termbot-src-096.tar.gz
+		https://web.archive.org/web/20011121150058/http://perso.wanadoo.fr/montanuy/bot/quake-termbot-0.96-1.src.rpm
+		https://web.archive.org/web/20010508105403/http://perso.wanadoo.fr/montanuy/bot/bot-win95.txt
+		old versions
+			0.95, 0.94, 0.93, ...
 	https://www.geocities.ws/oldquaker/terminator/
+		https://www.geocities.ws/oldquaker/terminator/files/bot.txt
+		https://www.geocities.ws/oldquaker/terminator/files/trmbot09.zip
+		https://www.geocities.ws/oldquaker/terminator/files/trmbot09.tgz
+		https://www.geocities.ws/oldquaker/terminator/files/botsrc09.zip
+		https://www.geocities.ws/oldquaker/terminator/files/botsrc09.tgz
 	https://grahamrat.fortunecity.ws/
 		https://grahamrat.fortunecity.ws/trmbot09.zip
+	https://botsquake.fortunecity.ws/qnbots.html
+		https://botsquake.fortunecity.ws/terminator.zip
 	https://quakeone.com/forum/quake-talk/quake-central/9619-torrent-of-900-quake-editors-mods-etc
 		Quake 1 Bots/Quake 1 Bots/trmbot08.zip 126.57 KiB
 		trmbot08.zip
+	http://www.calvarium.com/quakebots/
+		https://web.archive.org/web/20000817061426/http://www.calvarium.com/quakebots/trmbot09.zip
+	http://quakemecca.simplenet.com/files/downloads
+		https://web.archive.org/web/19980121114018/http://quakemecca.simplenet.com/quakec.htm
+		https://web.archive.org/web/19980121114018/http://quakemecca.simplenet.com/files/downloads/trmbot08.zip
 	usenet
 		https://groups.google.com/g/rec.games.computer.quake.announce/c/2wZZQ-nVdEk/m/NMk6le5f1fkJ
 			http://www.worldnet.net/~edwin/quake/quake.htm
+	https://web.archive.org/web/19970204064756fw_/http://bluesnews.com/nov2.html
+		https://web.archive.org/web/19970204064756/ftp://bluesnews.com/pub/client_bots/trmbot09.zip
 	https://www.bluesnews.com/archives/oct96-2.html
+		https://web.archive.org/web/19970204064939fw_/http://bluesnews.com/oct2.html
 		ftp://bluesnews.com/pub/client_bots/trmbot07.zip
 		ftp://bluesnews.com/pub/client_bots/trmbot08.zip
 		ftp://bluesnews.com/pub/client_bots/botsrc08.zip
@@ -134,15 +160,13 @@ Terminator Bot
 		https://web.archive.org/web/19970503225814/http://www.bluesnews.com/files/trmbot08.zip
 		https://web.archive.org/web/19970503225814/http://www.bluesnews.com/files/trmbot09.tgz
 		https://web.archive.org/web/19970503225814/http://www.bluesnews.com/files/trmbot09.zip
-	http://perso.wanadoo.fr/montanuy/bot/
-		https://web.archive.org/web/20011121150058/http://perso.wanadoo.fr/montanuy/bot/
-		https://web.archive.org/web/20011121150058/http://perso.wanadoo.fr/montanuy/bot/bot.txt
-		https://web.archive.org/web/20011121150058/http://perso.wanadoo.fr/montanuy/bot/trmbot96.zip
-		https://web.archive.org/web/20011121150058/http://perso.wanadoo.fr/montanuy/bot/quake-termbot-0.96-1.i386.rpm
-		https://web.archive.org/web/20011121150058/http://perso.wanadoo.fr/montanuy/bot/termbot-src-096.tar.gz
-		https://web.archive.org/web/20011121150058/http://perso.wanadoo.fr/montanuy/bot/quake-termbot-0.96-1.src.rpm
-		https://web.archive.org/web/20010508105403/http://perso.wanadoo.fr/montanuy/bot/bot-win95.txt
-	https://botsquake.fortunecity.ws/terminator.zip
+	http://ftp.mancubus.net/pub/idgames2/utils/network_serial/client_bots/
+		https://web.archive.org/web/20070909204513/http://ftp.mancubus.net/pub/idgames2/utils/network_serial/client_bots/
+		https://web.archive.org/web/20070909204513/http://ftp.mancubus.net/pub/idgames2/utils/network_serial/client_bots/trmbot08.txt
+		https://web.archive.org/web/20070909204513/http://ftp.mancubus.net/pub/idgames2/utils/network_serial/client_bots/trmbot08.zip
+	https://thegate.gamers.org/pub/idgames2/utils/network_serial/client_bots/
+		https://thegate.gamers.org/pub/idgames2/utils/network_serial/client_bots/trmbot08.txt
+		https://thegate.gamers.org/pub/idgames2/utils/network_serial/client_bots/trmbot08.zip
 Mystery Bot
 	http://www.wollongong.starway.net.au/~ripper/info.htm
 		not archived
@@ -451,7 +475,20 @@ Tsumi to Botsu
 	for slide mod
 	engine bot I believe
 	https://www.richwhitehouse.com/filemirror/tusmi01.zip
-
+SeismoBot
+	https://web.archive.org/web/19990220164340/http://www.coe.uncc.edu/~jfrorie/QuakeBotLinks.htm
+	http://www.cloud9.net/~kfurphy
+		The Tinker's Tavern
+		https://web.archive.org/web/19990220164340/http://www.cloud9.net/~kfurphy
+	http://www.users.cloud9.net/~kfurphy
+		https://web.archive.org/web/20010419081905/http://www.users.cloud9.net/~kfurphy
+	kevin furphy ?
+	https://web.archive.org/web/20060222102430/http://www.planetquake.com/botarea51/main/history.asp
+		SeismoBot and SeismoGraph Clientside bot/stats
+	https://thegate.gamers.org/pub/idgames2/utils/network_serial/client_bots/
+		https://thegate.gamers.org/pub/idgames2/utils/network_serial/client_bots/seismo19.txt
+		https://thegate.gamers.org/pub/idgames2/utils/network_serial/client_bots/seismo19.zip
+		Rob Furphy, Kevin Furphy
 
 
 
@@ -515,16 +552,6 @@ JavaBot
 		https://twitter.com/BSwartzlander
 		https://www.linkedin.com/in/benswartzlander/
 	???
-SeismoBot
-	https://web.archive.org/web/19990220164340/http://www.coe.uncc.edu/~jfrorie/QuakeBotLinks.htm
-	http://www.cloud9.net/~kfurphy
-		The Tinker's Tavern
-		https://web.archive.org/web/19990220164340/http://www.cloud9.net/~kfurphy
-	http://www.users.cloud9.net/~kfurphy
-		https://web.archive.org/web/20010419081905/http://www.users.cloud9.net/~kfurphy
-	kevin furphy ?
-	https://web.archive.org/web/20060222102430/http://www.planetquake.com/botarea51/main/history.asp
-		SeismoBot and SeismoGraph Clientside bot/stats
 LlamaBot
 	https://web.archive.org/web/19990220164340/http://www.coe.uncc.edu/~jfrorie/QuakeBotLinks.htm
 	http://www.netside.com/~csbailey/quake/
