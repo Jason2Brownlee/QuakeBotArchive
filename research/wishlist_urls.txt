@@ -58,6 +58,7 @@ ftp://ftp2.action.updates.cx/pub/mirrors/telefragged/be/fmods/Accuracy.zip
 ftp://ftp2.action.updates.cx/pub/mirrors/telefragged/be/fmods/demos/frogbot_demo.zip
 ftp://ftp3.action.updates.cx/pub/mirrors/telefragged/be/fmods/Accuracy.zip
 ftp://ftp3.action.updates.cx/pub/mirrors/telefragged/be/fmods/demos/frogbot_demo.zip
+ftp://macquakeinfinity.com/numb/holywars/downloads/hw_frogbot.zip
 ftp://mirrors.xmission.com/planetquake/holywars/hwqwbotv101c.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf004.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf006.zip
@@ -76,6 +77,7 @@ ftp://numb.macquakeinfinity.com/numb/ctf/pak2pak.zip
 ftp://numb.macquakeinfinity.com/numb/holywars/hw_frogbot13c.zip
 ftp://numb.macquakeinfinity.com/numb/holywars/hw_frogbot14.zip
 ftp://numb.macquakeinfinity.com/numb/holywars/hw_frogbotf.zip
+ftp://numb.macquakeinifinity.com/numb/ctf/fbctf037.zip
 ftp://pcweek-2.wave.ras.ru/pub/id/quake/proj1_14.zip
 ftp://quake.mtu.ru/pub/quake/bots/frogbot7.zip
 ftp://quake.mtu.ru/pub/quake/bots/zeusbot.zip
@@ -189,6 +191,7 @@ http://sunsite.org.uk/packages/idgames2/planetquake/holywars/hw_frogbot.exe
 http://sunsite.org.uk/packages/idgames2/planetquake/holywars/hw_frogbot.sit.bin
 http://sunsite.org.uk/packages/idgames2/planetquake/holywars/hw_frogbot.zip
 http://tfa.spb.ru/aliasforge/frikwayeditor11.zip
+http://tlb.quakedev.com/files/fbxways/monsterFBXID1waysV2.zip
 http://tlb.quakedev.com/files/fbxways/omega.zip
 http://tlb.quakedev.com/files/fbxways/variants/fbxdoom.rar
 http://tlb.quakedev.com/files/fbxways/variants/fbxpk.zip
@@ -322,4 +325,5 @@ http://www.users.bigpond.com/clanslug/termslugv1.29.zip
 http://xmark.ausgamers.com/xkteams/xkteams1705.zip
 http://xmark.ausgamers.com/xkteams/xkteams1705s.zip
 http://xmark.ausgamers.com/xkteams/xkteams2.zip
-http://zemp.free.fr/QW/fbca094kt.zip
+http://zemp.free.fr/qw/fbca094kt.zip
+

@@ -141,6 +141,7 @@ Terminator Bot
 		https://web.archive.org/web/20011121150058/http://perso.wanadoo.fr/montanuy/bot/quake-termbot-0.96-1.i386.rpm
 		https://web.archive.org/web/20011121150058/http://perso.wanadoo.fr/montanuy/bot/termbot-src-096.tar.gz
 		https://web.archive.org/web/20011121150058/http://perso.wanadoo.fr/montanuy/bot/quake-termbot-0.96-1.src.rpm
+		https://web.archive.org/web/20010508105403/http://perso.wanadoo.fr/montanuy/bot/bot-win95.txt
 	https://botsquake.fortunecity.ws/terminator.zip
 Mystery Bot
 	http://www.wollongong.starway.net.au/~ripper/info.htm

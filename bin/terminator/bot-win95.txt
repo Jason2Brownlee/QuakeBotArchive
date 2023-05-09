@@ -1,0 +1,242 @@
+
+ Playing with TERMINATOR under Windows
+
+
+ TERMINATOR works very well under Linux, but under Windows it can experience
+ a lot of problems because:
+
+   
+   
+Here is how I got TERMINATOR to work for Win95. It might work too under NT,
+win98 or anything like this, but I'm not going to test.
+
+Here is my configuration:
+  Quake server machine: SERVER  (replace by IP address of your server)
+  Quake client machine: CLIENT  (replace by IP address of your client)
+
+
+ 1/ Check that the network is configured correctly 
+ 
+  on client, ping server to see if you're connected correctly:
+
+     ping SERVER
+
+  the server machine must reply to the ping. If it doesn't, fiddle
+  with the system until it does.
+
+ 2/ Check that the bot can run standalone
+
+  on server, start quake as dedicated server
+
+     quake -dedicated
+
+   
+  Now install the bot (bot.exe) in the same directory as Quake (quake.exe)
+  on the client machine. Start the bot in automatic mode with:
+
+     bot -auto SERVER
+
+    The bot should connect to the server, appears in the word and 
+    starts moving after a few dozen seconds.
+     Type "j" on the bot console, and if you see it jump then the
+     bot should be working ok.
+     Then type "q" on the bot console, and the bot will leave the server.
+     Type "q" again (or CTRL-C) to stop the bot.
+
+ 2/ Try to use the bot in proxy mode, on the same machine as the Quake client
+      
+  With the normal quake client, you're going to  connect to the bot, as if
+  it were a Quake server. The bot will then  connect to the real Quake server 
+  and you'll be playing through the bot.
+  
+  On the client machine, start the bot in proxy mode:
+
+       bot SERVER
+    
+    Type "i" under the bot console. It should reply with some
+    "Game informations" (number of connected players, map played...).
+    If it doesn't reply, then something is wrong: probably you Quake
+    server isn't running, or is using a different port.
+    
+    If all is ok, start the Quake client by clicking on q95.bat
+    Go to console, and type:
+     
+       connect 127.0.0.1
+
+    If you're lucky, the quake client will print "Trying... Trying..."
+    then "Connection accepted." and the game will start.
+    If you're not lucky enough to have a working reverse DNS service, the
+    Quake client will lock-up for 2 minutes, but then the game will start.
+    If you're out of luck, or using Winquake, the Quake client will probably
+    print "Trying... Trying again... No response from server" and the game
+    will never start. That's rather common under Windows, and never happens
+    under Linux. See below for the Winquake fix.
+    
+    
+  3/ Play in proxy mode with the bot on a different machine than the Quake client
+    
+   Actually, I propose to run the bot on the quake server machine.
+ 
+   On the server, start the Quake server with:
+   
+     quake -dedicated
+    
+   On the server, start the bot with:
+    
+     bot -port 26001
+
+     As usual, type "i" on the bot console, to check that it is connected
+     correctly to the server.
+
+   On the client, get a windows console and start Winquake with:
+
+    winquake -port 26001
+    
+     Then bring down the quake console and type:
+     
+    connect SERVER
+
+ You should connect to the server through the bot. There will probably
+ be a two minutes delay at game start, with the quake client saying
+  "Trying..." and apparently sleeping. Don't worry about this and wait
+  until the game starts.
+
+
+ 4/ What if the server is a remote machine?    
+
+  You may want to use a third machine just for the bot (a 486 will do),
+  if you don't own the quake server, or cannot run anything on it.
+  It's even simpler to do. Let's call this third machine MYBOT
+  
+  On the machine, MYBOT, start the bot with
+  
+   bot SERVER      (replace by IP address of the server)
+    
+   Once again, type "i" on the bot console to check the the server replies.
+
+
+ On the client machine, start the quake server by clicking on winquake.exe
+ or q95.bat.
+ Then bring down the console and type
+ 
+   connect MYBOT    (replace by IP address of the machine MYBOT)
+   
+ You will probably experience some delay at game start, just as mentionned 
+ above. Don't worry and wait: you're under windows, so waiting is normal.
+ 
+ 
+ 5/ What if all you have is Winquake ?
+ 
+  I experimented a lot of time with Winquake, and after trying many ridiculous
+  solutions (like going through two bots on two different machines) I found some
+  kind of trick to get it to run. It might work for you.
+  
+   Start the bot with:
+   
+    bot SERVER -port 26001
+   
+   Then start the quake client as usual (do NOT try quake -port 26001)
+ 
+   Once it's started, bring down the menu Multiplayer | Join a Game | TCP/IP.
+ 
+   There, select the bot that contains the UDP port number (26000), and enter 26001
+   instead. 
+   
+   Now, select the box where you must type the name of the server, and
+   instead of the name of the real quake server, enter the main IP address of your
+   machine... Do NOT enter localhost or 127.0.0.1, it will not work.
+   
+   To find out the main IP address of your machine, use the tool winipcfg.exe
+   that is provided with Windows (Menu Start | Execute | type winipcfg.exe).
+   - if you have a network card, enter the IP address that you gave to this card
+   - if you have a modem (PPP link), and it's currently connected, then enter 
+     the IP address that was attributed to you on the PPP link.
+   - if all you have is a standalone machine without network connectivity...
+     well you can reach your quake server, so why bother?
+   
+   Once you've selected the right port and the right address, connect as usual.
+   The Quake client should connect to the bot, which in turn will connect to
+   the real Quake server, and it should run.
+
+ 
+ 6/ What if none of the above work?
+ 
+  Install Linux RedHat 5.x (or Debian Linux), and say good bye to Windows.
+  Linux is the game platform of the future, and it runs Quake like magic.
+  
+  
+  Olivier Montanuy
+  
+ -------------------------------------------------------------------------------
+ ----- Appendix: Playing Terminator and Quake under windows 95 a nightmare -----
+ -------------------------------------------------------------------------------
+ 
+ Here are some reasons why you will experience problems under Windows 95.
+ I suspect the same is true of Windows 98.
+  
+  - The task scheduler of windows 95 is deficient, even for 32bit applications.
+   When both Winquake and the Terminator bot are running together, only one
+   of them actually runs at a decent speed. When playing in proxy mode, this
+   can cause a lag time of SEVERAL DOZEN secondes (who said your 14.4 modem
+   was slow? lag ever hardly reach 800ms on a modem).
+   Though funny to watch, this is not very useful. 
+ 
+ - The name service of Windows is completely broken, if no name servers are
+   available on your network (i.e. if you're not connected to the Internet).
+   Apparently, it tries to contact DNS service even if not connected, and
+   this can cause applications to hang for about 2 minutes.
+   What's worse, DOS Quake and Winquake make a reverse DNS query on the
+   address of the server when the game starts. This is completely useless,
+   and since reverse DNS is often ill configured, the 2 minutes lockup if
+   often unavoidable.
+ 
+ - If you have both a modem (PPP link) and a network card, then there are chances 
+   that Windows mixup it routes, and tries to contact your PPP Gateway or DNS 
+   server by sending packets on the LAN. Bound to fail, and waste time.
+  
+ - Windows constantly broadcast packets on UDP port 137 and 138, because of
+   the SMB protocol. This can slow machines on your local network. You should
+   disable all shared drives. Moreover, windows lets Quake broadcast with Ip 
+   address 255.255.255.255, regardless of the LAN's broadcast address.
+   
+ - Some Quake versions are broken. 1.01, 1.06 and 1.09 work, but
+   1.07 has a bug, and I didn't get good results with 1.08.
+   You'd better upgrade to Quake 1.09, or keep DOS Quake 1.06.
+   
+ - Winquake seems to be especially broken, or especially unable to deal with
+   anything non standard. In particular, it refuses to talk to a bot situated
+   on the same machine, if using port 26000. But it will accept for port
+   26001, which makes little sense.
+   
+ - Last remark: QuakeWorld, Quake and Quake2 are totally different, net-wise.
+   Terminator only works for Quake. Don't ask about the others.
+ 
+  
+  
+ 
+ 
+ 
+ 
+     
+   
+   
+ 
+    
+
+     and if it gives you some info
+    about the server, then it's configured correctly.
+
+  Now start the quake client on machine2 and on the console type:
+   connect 127.0.0.1
+
+  As if you wanted to connect to a server called 127.0.0.1 (or
+ localhost) which is in fact the bot itself.
+  If you manage to connect to that server, you will be actually
+  playing, through the bot, on the server situated on machine1.
+  Do not connect directly to the server machine1.
+
+ That's the way I do it, when I play under win95. 
+ But actually, it works much better under Linux (and you can get
+ the server, the client and the bot to run on the same machine).
+
+  Olivier 
