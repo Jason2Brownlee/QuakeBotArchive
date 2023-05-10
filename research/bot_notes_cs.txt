@@ -94,6 +94,8 @@ LoefBot / PingBot
 		http://www.calvarium.com/quakebots/loefbot5.zip
 	https://www.linkedin.com/in/james-loe-67101264/
 		?
+	pingbot
+		https://web.archive.org/web/19980114111840/http://www.telefragged.com/oldnews/julyw4.shtml
 Boognaut / Booger
 	http://www.mindspring.com/~jamesloe/files.html
 		https://web.archive.org/web/19990202023247fw/http://www.mindspring.com/~jamesloe/boognaut.zip
@@ -223,6 +225,11 @@ MikeBot
 	http://www.ucalgary.ca/~mbwarren
 		redirects
 		https://web.archive.org/web/19981202082158/http://www.planetquake.com/mikeBot/
+	http://www.cpsc.ucalgary.ca/~warrenm/homepage/mike-warren.html
+		https://web.archive.org/web/19990909022121/http://www.cpsc.ucalgary.ca/~warrenm/homepage/mike-warren.html
+		https://web.archive.org/web/19990915154945/http://www.ucalgary.ca/~mbwarren/old-site/index.html
+	http://pages.cpsc.ucalgary.ca/~warrenm/
+		not archived
 	http://www.planetquake.com/mikeBot/
 		https://web.archive.org/web/19980113013337/http://www.planetquake.com/mikeBot/
 		https://web.archive.org/web/19981205125046fw_/http://www.planetquake.com/mikebot/code.html
@@ -312,6 +319,10 @@ tEdbot
 		https://web.archive.org/web/20000303070145/http://www.botepidemic.com/bots/quake.shtml
 	https://www.geocities.ws/oldquaker/tedbot/
 	no releases?
+	https://www.linkedin.com/in/ramanan-rajeswaran-79215b/
+	https://www.linkedin.com/in/grantdavies/
+		http://granttheant.com/
+		https://twitter.com/GrantTheAnt
 ZaphBot
 	http://www.geocities.com/SiliconValley/Vista/1052/zaphbot.html
 		https://web.archive.org/web/19990117014403/http://www.geocities.com/SiliconValley/Vista/1052/zaphbot.html
@@ -326,21 +337,6 @@ ZaphBot
 	contact
 		https://www.linkedin.com/in/kevinburfitt/
 		https://twitter.com/kevinburfitt
-Pandora Bot (quake2)
-	http://www.optics.arizona.edu/Pandora/Downloads/
-		https://web.archive.org/web/20001007220912/http://www.optics.arizona.edu/Pandora/Downloads/default.asp
-		https://web.archive.org/web/20001007220912/http://www.optics.arizona.edu/Pandora/Downloads/pandora200_source.zip
-		https://web.archive.org/web/20001007220912/http://www.optics.arizona.edu/Pandora/Downloads/PandoraSkin.zip
-	http://www.cullop.org/Darrin/
-		https://web.archive.org/web/20010514123607/http://www.cullop.org/Darrin/
-	Darrin W. Cullop
-	Quake2
-	https://web.archive.org/web/20001213102600/http://www.optics.arizona.edu/Pandora/stats.asp
-	https://www.gamers.org/pub/idgames2/quake2/graphics/skins/p-r/pandoraskin.txt
-	https://www.gamers.org/pub/idgames2/quake2/graphics/skins/p-r/pandoraskin.zip
-	http://www.opt-sci.Arizona.EDU/Pandora/
-		redirects
-	https://web.archive.org/web/20001006215532/http://www.botepidemic.com/interviews/dvcint.shtml
 RichMark's QuakeBot
 	Rich Kroeker
 	http://www.geocities.ws/oldquaker/richmark/
@@ -545,7 +541,7 @@ Itchy QuakeBot
 	no downloads
 	real bot, no release...
 	dreveny@enel.ucalgary.ca
-	???
+	https://www.linkedin.com/in/chad-dreveny-04501b1/
 BioBots
 	http://coriander.psychol.ucl.ac.uk/fw/quakebot1.html
 		https://web.archive.org/web/19971017015410/http://coriander.psychol.ucl.ac.uk/fw/quakebot1.html
@@ -553,6 +549,12 @@ BioBots
 	real bot, no release...
 	T.Hartley@psychol.ucl.ac.uk
 	???
+	https://www.linkedin.com/in/tom-hartley-89046621
+	https://www-users.york.ac.uk/~th512/index.html
+	https://scholar.social/@tom_hartley
+		?
+	no release:
+		"Wow - that's a blast from the past. I am afraid the BioBots (if I remember correctly) never made it off the drawing board."
 AdminBot
 	https://web.archive.org/web/19990220164340/http://www.coe.uncc.edu/~jfrorie/QuakeBotLinks.htm
 	http://www.x-comm.co.nz/adminbot/
@@ -560,7 +562,7 @@ AdminBot
 	???
 JavaBot
 	https://web.archive.org/web/19990220164340/http://www.coe.uncc.edu/~jfrorie/QuakeBotLinks.htm
-		http://www.cis.ohio-state.edu/~swartzla
+	http://www.cis.ohio-state.edu/~swartzla
 		not archived
 	https://graphics.stanford.edu/~kekoa/stoogebot/resources.html
 		http://www.cis.ohio-state.edu/~swartzla

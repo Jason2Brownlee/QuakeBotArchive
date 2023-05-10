@@ -284,7 +284,7 @@ RichMark's QuakeBot | Rich Kroeker aka "RichMark" | qb17f.zip<br>wqb17f.zip<br>g
 SeismoBot | Rob Furphy and Kevin Furphy | [seismo19.zip](bin/seismo19.zip) ([txt](bin/seismo19.txt))<br>seismo15.zip<br>seismo14.zip
 SlugBot | "slug" | [termslugv1.30.zip](bin/termslugv1.30.zip)<br>termslugv1.29.zip<br>termslugv1.28.zip<br>termslugv1.27.zip<br>[slugaxbotVh.zip](bin/slugaxbotVh.zip)<br>slugaxbotVf.zip<br>[slugaxbot.zip](bin/slugaxbot.zip)<br>termslug.zip
 StoogeBot (SGQP) | Kekoa Proudfoot, Matthew Eldridge, and Craig Kolb | [winstoog.zip](bin/winstoog.zip) ([txt](bin/stoogebot.txt))<br>[linstooge.tar.gz](bin/linstooge.tar.gz)<br>[sgistooge.tar.gz](bin/sgistooge.tar.gz)
-tEdbot | Grant Davies and Ramanan Rajeswaran | n/a
+tEdbot | Grant Davies aka "RUMble" and Ramanan Rajeswaran | navtest2.zip<br>[navtest1.zip](bin/navtest1.zip)
 Terminator Bot | Olivier Montanuy | trmbot96.zip ([txt](bin/trmbot96.txt))<br>[quake-termbot-0.96-1.i386.rpm](bin/quake-termbot-0.96-1.i386.rpm)<br>[quake-termbot-0.96-1.src.rpm](bin/quake-termbot-0.96-1.src.rpm)<br>termbot-src-096.tar.gz<br>[trmbot09.zip](bin/trmbot09.zip) ([txt](bin/trmbot09.txt))<br>[trmbot09.tgz](bin/trmbot09.tgz)<br>[botsrc09.zip](bin/botsrc09.zip)<br>[botsrc09.tgz](bin/botsrc09.tgz)<br>[trmbot08.zip](bin/trmbot08.zip) ([txt](bin/trmbot08.txt))<br>[botsrc08.zip](bin/botsrc08.zip)<br>trmbot07.zip
 Tsumi to Botsu | Rich Whitehouse aka "thefatal" | [tusmi01.zip](bin/tusmi01.zip)
 ZaphBot | Kevin Burfitt aka "Zaph" | zbot9504.zip<br>zbotdem.zip

@@ -1,8 +1,5 @@
 OUT OF SCOPE
 --------------------------------------------------------------------------------
-- Client-side bots / proxy bots / aim bots are all out of scope.
-- Engine bots are out of scope.
-- Monsters are out of scope.
 
 
 
@@ -27,7 +24,7 @@ TomazQuake Bot
 	out of scope?
 	addition of Tsumi to Botsu to an engine
 	engine bot
-SABIN
+SABIN (quake2)
 	quake2?
 	https://web.archive.org/web/20060620085755/http://botshop.planetquake.gamespy.com/news/1998-07.html
 		https://web.archive.org/web/20060620085755/ftp://ftp.cdrom.com/pub/idgames2/planetquake/botshop/sabin/test/sabin980723-test.exe
@@ -81,9 +78,21 @@ SuperDuper / Bondo's SuperDuper Quake / SDQ
 	many versions
 	really large files...
 	basically a TC
-Quake client bot
-	http://granttheant.com/products/quakebot/
-	Grant Davies
+Pandora Bot (quake2)
+	http://www.optics.arizona.edu/Pandora/Downloads/
+		https://web.archive.org/web/20001007220912/http://www.optics.arizona.edu/Pandora/Downloads/default.asp
+		https://web.archive.org/web/20001007220912/http://www.optics.arizona.edu/Pandora/Downloads/pandora200_source.zip
+		https://web.archive.org/web/20001007220912/http://www.optics.arizona.edu/Pandora/Downloads/PandoraSkin.zip
+	http://www.cullop.org/Darrin/
+		https://web.archive.org/web/20010514123607/http://www.cullop.org/Darrin/
+	Darrin W. Cullop
+	Quake2
+	https://web.archive.org/web/20001213102600/http://www.optics.arizona.edu/Pandora/stats.asp
+	https://www.gamers.org/pub/idgames2/quake2/graphics/skins/p-r/pandoraskin.txt
+	https://www.gamers.org/pub/idgames2/quake2/graphics/skins/p-r/pandoraskin.zip
+	http://www.opt-sci.Arizona.EDU/Pandora/
+		redirects
+	https://web.archive.org/web/20001006215532/http://www.botepidemic.com/interviews/dvcint.shtml
 
 
 QIZMO
