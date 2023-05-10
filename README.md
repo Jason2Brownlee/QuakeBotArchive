@@ -333,4 +333,4 @@ Lists of known files missing from the archive.
 
 This quake bot archive would not be as complete as it is without the generousness help from the Quake community.
 
-Special thank you to: John Crickett, Joel Baxter aka "Johnny Law", Hannes aka "Spirit" (from quaddicted), Fabiano D. Amorim aka "vegetous", Benjamin Darling aka "Electro", Rui Neto aka "Trinca", Rich Whitehouse aka "thefatal", Marko Permanto aka "Urre", Mark Wheeler, Daniel Svensson, Michael Kamensky, Chris Winger, Wintertime, Daniel Ramsay aka "SGC-Puffy", and Scott Rollins.
+Special thank you to: John Crickett, Joel Baxter aka "Johnny Law", Hannes aka "Spirit" (from quaddicted), Fabiano D. Amorim aka "vegetous", Benjamin Darling aka "Electro", Rui Neto aka "Trinca", Rich Whitehouse aka "thefatal", Marko Permanto aka "Urre", Mark Wheeler, Daniel Svensson, Michael Kamensky, Chris Winger, Wintertime, Daniel Ramsay aka "SGC-Puffy", Scott Rollins, and Mike Warren.
