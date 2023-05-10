@@ -54,6 +54,12 @@ QuakeBot C/S
 		https://web.archive.org/web/19990220140653/http://www.coe.uncc.edu/~jfrorie/qbcs082.zip
 		https://web.archive.org/web/19990220140653/http://www.coe.uncc.edu/~jfrorie/qbcsalph.zip
 		prior versions?
+	jfrorie@uncc.edu
+	http://unconventional-wisdom.org/QuakeBot/quakebot.htm
+		https://web.archive.org/web/20030609233633if_/http://unconventional-wisdom.org/QuakeBot/quakebot.htm
+		James Fleming Rorie
+	https://www.linkedin.com/in/jfrorie/
+	https://www.linkedin.com/in/johnsimmermanjr/
 LoefBot / PingBot
 	http://www.mindspring.com/~jamesloe/
 		https://web.archive.org/web/19981202215045/http://www.mindspring.com/~jamesloe/
@@ -84,6 +90,10 @@ LoefBot / PingBot
 	https://botsquake.fortunecity.ws/loefbot5.html
 	https://grahamrat.fortunecity.ws/loefbot5.zip
 	https://grahamrat.fortunecity.ws/loefbot.txt
+	http://www.calvarium.com/quakebots/
+		http://www.calvarium.com/quakebots/loefbot5.zip
+	https://www.linkedin.com/in/james-loe-67101264/
+		?
 Boognaut / Booger
 	http://www.mindspring.com/~jamesloe/files.html
 		https://web.archive.org/web/19990202023247fw/http://www.mindspring.com/~jamesloe/boognaut.zip
@@ -205,6 +215,10 @@ Mystery Bot
 	http://www.insideqc.com/modindex/qreview/mys.shtml
 		http://mystery.telefragged.com/mystery.zip
 		https://www.insideqc.com/modindex/qreview/demo.zip
+	https://www.linkedin.com/in/aarondrew/
+	https://twitter.com/aarond10
+	https://github.com/aarond10
+		?
 MikeBot
 	http://www.ucalgary.ca/~mbwarren
 		redirects
@@ -247,6 +261,14 @@ MikeBot
 	http://www.geocities.ws/oldquaker/pres1.html
 		https://www.geocities.ws/oldquaker/lairofquakebot/
 		"The Lair of the QuakeBot"
+	https://www.mike-warren.com/mike/index.html
+		https://www.mike-warren.com/mike/the-mikebot-project.html
+		mike@mike-warren.com
+	files from the author
+		mikeBot.tar.gz
+		mikeBot-0.41.tar.gz
+		mikeBot-devel.tar.gz
+		mikeBotPublic.tar.gz
 StoogeBot
 	http://graphics.stanford.edu/~quake
 		https://web.archive.org/web/20000829032007/http://graphics.stanford.edu/~quake/
@@ -301,7 +323,9 @@ ZaphBot
 	https://www.geocities.ws/oldquaker/zaphbot/
 	http://torps.com/
 		https://web.archive.org/web/20010401024046/http://torps.com/
-
+	contact
+		https://www.linkedin.com/in/kevinburfitt/
+		https://twitter.com/kevinburfitt
 Pandora Bot (quake2)
 	http://www.optics.arizona.edu/Pandora/Downloads/
 		https://web.archive.org/web/20001007220912/http://www.optics.arizona.edu/Pandora/Downloads/default.asp
@@ -580,5 +604,15 @@ Quake client bot
 	http://granttheant.com/products/quakebot/
 	Grant Davies
 	emailed and asked for a version...
-
+CamlBot
+	Olivier Montanuy
+	https://groups.google.com/g/rec.games.computer.quake.misc/c/Sw9EBspCsKE/m/Oiur1q2eJFoJ
+		unreleased
+		quakeworld bot
+	http://www.ucalgary.ca/~mbwarren/mikeBot/faq.html
+	Client-Side Quake Bot FAQ
+		"at http://www.ens.fr/~cridlig/bot/index.html, which also explains
+	     parts of the Quake World protocol and has links to the author's QW
+	     proxy, CamlBot.""
+	???
 

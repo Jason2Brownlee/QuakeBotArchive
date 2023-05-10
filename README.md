@@ -273,7 +273,7 @@ HPB Proxy | Chad Dreveny | [hpb-proxy-0.992b-linux.tar.gz](bin/hpb-proxy-0.992b-
 Itchy QuakeBot | Chad Dreveny | n/a
 Kl33n3x | "d0peman" | [kl33n3x-package.zip](bin/kl33n3x-package.zip) ([txt](bin/kl33n3x.txt))<br>kl33n3x-cfg.zip<br>[kl33n3x.zip](bin/kl33n3x.zip)
 LoefBot | James Loe | loefsrc.zip<br>[loefbot5.zip](bin/loefbot5.zip)<br>loefbot4.zip<br>loefbot3.zip<br>loefbot2.zip<br>[loefbot.zip](bin/loefbot.zip) ([txt](bin/loefbot.txt))
-MikeBot | Mike Warren | [mbcs040.zip](bin/mbcs040.zip)<br>mikebot95.zip<br>mikebot-linux.tar.gz<br>mikebot-sunos.tar.gz<br>mikebot-aix.tar.gz<br>mikebot-solaris.tar.gz<br>mikebot-irix.tar.gz<br>[mbcs031.zip](bin/mbcs031.zip)<br>[mbcs03.zip](bin/mbcs03.zip) ([txt](bin/mbcs03.txt))<br>[mbcs02.zip](bin/mbcs02.zip)
+mikeBot | Mike Warren | [mikeBot-0.41.tar.gz](bin/mikeBot-0.41.tar.gz)<br>[mikeBot.tar.gz](bin/mikeBot.tar.gz)<br>[mikeBot-devel.tar.gz](bin/mikeBot-devel.tar.gz)<br>[mikeBotPublic.tar.gz](bin/mikeBotPublic.tar.gz)<br>[mbcs040.zip](bin/mbcs040.zip)<br>mikebot95.zip<br>mikebot-linux.tar.gz<br>mikebot-sunos.tar.gz<br>mikebot-aix.tar.gz<br>mikebot-solaris.tar.gz<br>mikebot-irix.tar.gz<br>[mbcs031.zip](bin/mbcs031.zip)<br>[mbcs03.zip](bin/mbcs03.zip) ([txt](bin/mbcs03.txt))<br>[mbcs02.zip](bin/mbcs02.zip)
 Mystery Bot | Aaron Drew aka "ripper" | [mystery0.67.zip](bin/mystery0.67.zip)<br>[linux-elf-myst0.66.tar.gz](bin/linux-elf-myst0.66.tar.gz)
 PingBot | James Loe | pingsrc.zip<br>pingbot2.zip<br>[pingbot.zip](bin/pingbot.zip)
 Playmate | Aesir Clan | n/a
@@ -288,7 +288,6 @@ tEdbot | Grant Davies and Ramanan Rajeswaran | n/a
 Terminator Bot | Olivier Montanuy | trmbot96.zip ([txt](bin/trmbot96.txt))<br>[quake-termbot-0.96-1.i386.rpm](bin/quake-termbot-0.96-1.i386.rpm)<br>[quake-termbot-0.96-1.src.rpm](bin/quake-termbot-0.96-1.src.rpm)<br>termbot-src-096.tar.gz<br>[trmbot09.zip](bin/trmbot09.zip) ([txt](bin/trmbot09.txt))<br>[trmbot09.tgz](bin/trmbot09.tgz)<br>[botsrc09.zip](bin/botsrc09.zip)<br>[botsrc09.tgz](bin/botsrc09.tgz)<br>[trmbot08.zip](bin/trmbot08.zip) ([txt](bin/trmbot08.txt))<br>[botsrc08.zip](bin/botsrc08.zip)<br>trmbot07.zip
 Tsumi to Botsu | Rich Whitehouse aka "thefatal" | [tusmi01.zip](bin/tusmi01.zip)
 ZaphBot | Kevin Burfitt aka "Zaph" | zbot9504.zip<br>zbotdem.zip
-
 
 ## Quake Bot Files
 
