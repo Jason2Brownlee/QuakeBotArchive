@@ -531,7 +531,8 @@ SeismoBot
 		https://web.archive.org/web/19971210064427/http://www.quakehole.com/frames/oldnews.html
 		http://www.quakehole.com/files/misc/seismo14.zip
 		http://www.quakehole.com/files/misc/seismo15.zip
-
+	usenet
+		https://groups.google.com/g/rec.games.computer.quake.playing/c/mVu5XrSmJkI/m/Z1PVye8t3kQJ
 
 
 
@@ -540,16 +541,19 @@ SeismoBot
 Not enough info
 
 
-Playmate / AE_playmate
+Playmate / AE_playmate / Clan Æsir Playmate Project
 	https://www.bluesnews.com/archives/august96.html
 	http://www.tf.hut.fi/~ath/Aesir/bot.html
 		https://web.archive.org/web/19970617174134/http://www.tf.hut.fi/~ath/Aesir/bot.html
 		https://web.archive.org/web/19970617164411/http://www.tf.hut.fi/~ath/Aesir/
 		https://web.archive.org/web/19970617193202/http://www.tf.hut.fi/~ath/Aesir/Download/
 		https://web.archive.org/web/19971010235839/http://www.tf.hut.fi:80/~ath/Aesir/news.html
-	https://poltsi.fi/Archives/Aesir/bot.html
 	real bot, no release...
+	no demos
 	aesir@tf.hut.fi
+	https://www.quakeworld.nu/wiki/Playmate_(bot)
+	https://www.quakeworld.nu/wiki/AEsir
+	https://poltsi.fi/Archives/Aesir/bot.html
 	???
 Itchy QuakeBot
 	http://www-mddsp.enel.ucalgary.ca/People/dreveny/itchy/index.html

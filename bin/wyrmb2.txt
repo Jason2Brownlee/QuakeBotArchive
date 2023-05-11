@@ -1,0 +1,632 @@
+RELEASE NOTE:
+I don't know if now Wyrm is "the most kickass collection" or "the last mod you
+will ever need". The only I can promise to you is that I've worked really hard
+into this version, and I hope that you'll enjoy playing it. This is the LAST 
+version of Wyrm (well... if it has some important bug, I'll make a small
+upgrade ;) so I tried to make it as good as possible. Maybe you're thinking
+what I'll do after Wyrm... well... maybe learn some C for Quake 2 ;). Maybe
+someday you'll hear about Wyrm 2 beta 1 ...
+
+				Josep del Rio
+
+
+
+ÉÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ»
+º  Title    : Wyrm beta 2 º
+ÈÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¼
+
+Filename : WYRMB1.ZIP
+Version  : beta 2!
+Date     : 02/??/98
+
+Author(s) : Josep del Rio
+Other mods: No more... yet :)
+
+Web Page : http://www.fortunecity.com/underworld/quake/65
+
+Email    : ryo@lettera.skios.es -or- jr1293@pluto.udg.es
+
+Credits  :
+	   Threewave Capture 4.1 by Dave 'Zoid' Kirsch (zoid@threewave.com)
+	   Buster Shot,Positron Beam ,Proton Storm and Rocket Pods
+		by Nick "SiNGE" Bousman & Glenn "Griphis" Saaiman
+			(singe@ix.netcom.com, griphis@ix.netcom.com)
+	   Navy Seals 2.0 by The Navy SEALs Team (URL: http://www.planetquake.com/seals)
+	   Painkeep and AirFist by The Evolve team (what is the email?? :P)
+	   DeathMatch eXtras by Kenneth (westec@istar.ca)
+	   Heavy Weapons by Griphis (griphis@ptialaska.net)
+	   Zerstörer - Testament of the Destroyer by Nihilism Unlimited
+	   Elephant Rifle, Devastator and Evil Dead Chainsaw by Per (per-kr@online.no)
+	   Pulse Rifle v2.1 by ShockMan (shockman@brutality.com)
+	   The Severed Player Patch (1.0?) by Vengence of The Lone Gunmen (ven@hotmail.com)
+	   Cranked, Respawn and Doom Shotguns by Patrick Martin (cmarti39@icon.net)
+	   Turrican's compilation by Chris Scott AKA Turrican (caramon@melb.alexia.net.au)
+	   RealQuake by Tony (RealQuake@Hotmail.com)
+	   Ice Gun and Ion Mine Patch v1.0 by Matt Barnett (mbarnett@dial.pipex.com)
+	   REALQUAKE: WAR Version 0.5 by Glen 'FrenZon' Murphy (dmurphy@c3.telstra-mm.net.au)
+	   Shell model by Mr.Elusive
+	   Scourge of Armagedon by Hipnotic
+	   Dissolution of Eternity by Rogue Entertainment
+	   Legion Of Doom 0.10 by "I Cause Lags!" aka legion (legion@softhome.net)
+	   Chthon Scrag beta by BrAdeAlDo (kayhite@worldnet.att.net)
+	   IK Guns, ultimate killer missile patch, and the new sprite for
+		  the plasma by Iikka "Fingers" Keranen (ikeranen@raita.oulu.fi)
+	   Yeti and Hell Fiend skins by Eric (cmillard@cstone.net)
+	   FEAR v2.0 by Jon (its132@aol.com)
+	   Ultimate Quake v1.5 beta by Michael Gummelt (
+	   KQP 2.20z by Howard Roy (howard@mortimer.com)
+	   YCam 1.2 by Harvey Lee (yevs@warzone.com) and Wes Morrison (wesmorrison@juno.com)
+	   Extreme PAIN Beta 2 by Jack (ghoti@erols.com)
+	   Xsoldier v2 by Bill Turner (shyft@fwb.gulf.net)
+	   Chthon! by Dave Weiden (Weiden@TCNJ.EDU)
+	   Ultimate Weapons Patch by Andy Brennan (abrennan@indiana.edu)
+	   TeleWeapon Patch 2.1 by Ronald E. Mercer (rmercer1@mindspring.com)
+	   Shield 1.0 by Dane (dane@hartle-klug.com)
+	   Hell Scrag by Toby Reed (toby@eskimo.com)
+	   Quake Plus 2.0b by Werner Spahl (a1619195@smail1.rrz.uni-koeln.de)
+	   Ogre Missiles by Walter Brameld
+	   Guided Missiles v1.01 by Ken "Page Fault" Alverson (KenA@TSO.Cin.IX.Net)
+	   Proximity Mines by Mark Morgan (mjmorgan@usa.net)
+	   EJECT! , Quake Flamethrower! v1.0, Demo Charges by Steve Bond (wedge@nuc.net)
+	   Blood v0.5 by Zander Collier, III (narcotic@concentric.net)
+	   Eat Gibs 1.0 by Sean Leonard (leonard@ap.net)
+	   HUD,Cujo 1.x and Blaze Gun  by Jonathan E. Wright (nelno@ionstorm.com)
+	   Solidmon by Jeff Epler (jepler@inetnebr.com)
+	   Gibbin3 by Jason Carter (killer3d@mindspring.com)
+	   fastqcc by Jonathan Roy (roy@atlantic.net)
+
+	   id, of course :)
+
+	Thanx to all!!!!
+
+	(if I forgot someone, please, e-mail me and i will solve my error ;)
+
+
+Please, excuse me for my english descriptions, because english is not my native
+language, so I have borrowed something from other text files.
+
+ÉÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ»
+º  Type of Mod  º
+ÈÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¼
+
+Quake C  : yes
+Sound    : yes
+MDL      : yes
+
+
+ÉÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ»
+º  Format of Quake C  º
+ÈÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¼
+
+unified diff  : no
+context diff  : no
+.qc files     : no. If you want something, please, email me
+progs.dat     : yes
+
+
+
+ÉÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ»
+º  Description of the Modification  º
+ÈÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¼
+This is my first patch in Quake C. Making it I have learned a lot of this
+powerful language (thanx John Carmack!!).
+This is a Quake recompilation patch. Nearly all code has been modified by me,
+in order to join and enhance them, and I think that the result isn't bad :).
+
+
+ÉÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ»
+º  How to Install the Modification  º
+ÈÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¼
+Who doesn't know this??
+Simply go to Quake dir, make a subdirectory called "wyrm", copy the stuff into
+it, and run quake with the ".bat" files included.
+"wyrm.bat" if you use normal quake
+"glwyrm.bat" for gl-quake
+
+To run it without these files use:
+	quake -game wyrm -hipnotic
+
+You can add "-winmem 16" or "-heapsize 16000" if you have Win 95, but it works
+fine with 8, I hope.
+
+ÉÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ»
+º  Brief summary of features  º<--cut'n'paste from Killer Quake Pack :P
+ÈÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¼
+
+New weapons  Ammo Scale*   Description     (* 1 is least powerful, 5 is most)
+=============================================================================
+(Ammo cost : S = shells, N = nails, R = rockets, C = cells, GW = gravity well)
+
+K-bar knife     0 - (2) Very fast, and with a chance to chop other players
+Disc            0 - (2) The disc from KQP now in Wyrm!
+Hand Grenades  1R - (3) Try it!! You can spend rockets without weapon!!
+
+Mk.23 handgun  1N - (2) Very good weapon at short range, very bad at long.
+MP5 sub gun    1N - (2) Better at long range, more speed, more bullets for clip.
+M16 rifle      1N - (3) More damage per bullet, but less bullets per clip.
+
+Mossberg       1S - (3) This is the one from Navy SEALs 2.0
+2b-shotgun     2S - (4) More damage, but it cost more shells and has slow charge.
+Assault shotgun2S - (3) Shots fast and do lots of damage
+
+Pulse Rifle    1N -(1-5?) Very fun weapon :) throw nails that bounce
+Buster Shot    1S -(2.5?) Remove other people armors.
+Devastator     1R - (3) Shoots very fast and deals a lot of damage :)
+
+Air Fist        0 - (0) You can repel other people or blow away items with it.
+Flamethrower 1/10S- (2) Shots very fast, and can burn enemies!! try it :)
+Freezethrower  1C - (2) A remade freezethrower... more like DN 3d
+
+Regular grenade 1R- (3) what to say about it??
+Nail bomb   1R&10N- (3) The a.k.a. Eraser bomb.
+Cluster bomb   2R - (4) Extracted of DoE
+Poison bomb    2R - (3) It will poison everyone that touches it's cloud
+
+Regular missile1R - (3) everyone know what it is :)
+Guided missile 2R - (3) Fly your missile around to hunt people down.
+Homing missile 2R - (3) This is the homing missile from the ultimate killer
+			missile patch, but with a little surprise...
+
+Plasma Gun     1C - (3) Very effective plasma gun. Shoots fast and does a lot
+			of damage.
+Positron Beam 20C - (4) This is really a Big Fucking Gun!!
+Proton Storm  50C - (5) No one will survive to this one!!!
+
+Railgun      1S&6N- (3) Directly from eraser, with a cool particle effect ;)
+Rocket Pods    1R - (4) Simply, rocket-sucking.
+Gravity Well  1GW - (5) Awesome in small rooms. Try it ;)
+
+Harpoon         0 - (1) This is the Painkeep's harpoon :)
+Mjolnir     0-10C -(2-3) Cool weapon from Scourge of Armagedon
+Chainsaw        0 - (3) Lots of damage 'n' gibs
+
+Shield            - (3) Good defensive device. Halves damage done to you.
+
+Other features:
+--------------
+
+New Status bar!!
+You can see others armor in deathmatch (also, you can take the armor of your
+dead enemies).
+The DMX gibs!
+Cujo the personal dog.
+Solid corpses, gibs, heads and backpack that you can shoot at.
+Eject shells from mossberg , double-shotgun, assault shotgun, and bullets from
+ mk23 handgun, m16 assault rifle and mp5 submachine gun.
+Ycam.
+3wave CTF!!
+Floating gibs and heads.
+When you take a weapon object, the weapon it gives depend of the weapons you
+ have... in example, if you don't have any shotgun, and catch the shotgun
+ object, it will give to you the mossberg, after the 2b-shotgun and after
+ the assault shotgun (to know more about this, continue reading).
+
+Monsters die in lava and slime.
+Dynamic removal of temporary entities.
+Ogres launch missiles.
+Soldiers have different types of weapons, and give different ammo when dead.
+New type of enforcer!! (from Navy Seal 1.6)
+Scrags now fire a lot!
+Enemies respawn in nightmare!!! (COOL)
+Added Cranked, which is a lot of monster enhancements. Read cranked.txt to
+ know more about this.
+Added Anti-Camping :) (optional)
+Monsters can chop you!!!
+Poison, drowning and freezeing inflict a new type of damage: direct damage. It
+ ignore the armor and the shield ;)
+The most advanced freezing you can find out now (yet).
+ÉÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ»
+º  SERVER Commands  º
+ÈÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¼
+Go to Wyrm.cfg for more info :)
+
+ÉÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ»
+º  IMPULSE Commands  º
+ÈÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¼
+
+Brief IMPULSE commands summary :
+(Please refer to the complete documentations for more info)
+
+<-- Default weapon switch commands -->
+Impulse 1    Switch between K-bar knife, Disc and Hand grenades.
+
+Impulse 2    Switch between M16 assault rifle, Mp5 submachine gun and
+		Mk23 handgun.
+Impulse 3    Switch between Assault Shotgun, Double-barrelled shotgun and
+		mossberg.
+Impulse 4    Switch between Pulse Rifle, Buster Shot and the Devastator.
+
+Impulse 5    Switch between Airfist, Flamethrower and Freezethrower.
+
+Impulse 6    Switch between regular grenades, bouncers, cluster grenades and
+		poison gas grenades.
+Impulse 7    Switch between regular missiles, guided missiles and homing
+		missiles.
+Impulse 8    Switch between Plasma Gun, positron beam and proton storm.
+
+Impulse 225  Switch between Railgun, Rocket Pods and Gravity Well.
+
+Impulse 226  Switch between Harpoon, Mjolnir and Chainsaw.
+
+<-- Direct weapons impulse -->
+Impulse 20   Switch to Kbar instantly.
+
+Impulse 21   Switch to Disc instantly.
+
+Impulse 22   Switch to Hand Grenade instantly.
+
+Impulse 23   Switch to Mk23 instantly.
+
+Impulse 24   Switch to Mp5 instantly.
+
+Impulse 25   Switch to M16 instantly.
+
+Impulse 26   Switch to Mossberg instantly.
+
+Impulse 27   Switch to Double barrelled shotgun instantly.
+
+Impulse 28   Switch to Assault Shotgun instantly.
+
+Impulse 29   Switch to Pulse Rifle instantly.
+
+Impulse 30   Switch to Buster Shot instantly.
+
+Impulse 31   Switch to Devastator instantly.
+
+Impulse 32   Switch to AirFist instantly.
+
+Impulse 33   Switch to FlameThrower instantly.
+
+Impulse 34   Switch to Ice gun instantly.
+
+Impulse 35   Switch to Grenade Launcher instantly.
+
+Impulse 36   Switch to Bouncer Grenades instantly.
+
+Impulse 37   Switch to Cluster Grenades instantly.
+
+Impulse 38   Switch to Poison Grenades instantly.
+
+Impulse 39   Switch to Rocket Launcher instantly.
+
+Impulse 40   Switch to Guided Missile instantly.
+
+Impulse 41   Switch to Homing Missile instantly.
+
+Impulse 42   Switch to Plasma gun instantly.
+	  
+Impulse 43   Switch to Positron Beam instantly.
+
+Impulse 44   Switch to Proton Storm instantly.
+
+Impulse 45   Switch to Railgun instantly.
+
+Impulse 46   Switch to Rocket Pods instantly.
+
+Impulse 47   Switch to Gravity Well instantly.
+
+Impulse 48   Switch to Harpoon instantly.
+
+Impulse 49   Switch to Mjolnir instantly.
+
+Impulse 50   Switch to Chainsaw instantly.
+
+<-- Other misc. commands -->
+
+Impulse 70   Use 1 shell to obtain 2 cell by termoconversion.
+
+Impulse 71   Use 1 rocket to obtain 3 cell by termoconversion.
+
+Impulse 72   Toggle Ycam on/off.
+
+Impulse 73   Toggle shield on/off
+
+Impulse 74   Previous weapon (useful in scripts)
+
+Impulse 75   Toggle between "Single barrel shot" and "Double barrel shot" in
+		the Double Barrelled Shotgun.
+Impulse 76   Force reload weapon (only if you have M16, Mp5 or Mk23).
+
+Impulse 77   Launch a grenade if you have M16.
+
+Impulse 78   Toggle mode in HK-Mp5 (single shot, semi-automatic, automatic)
+
+Impulse 79   Toggle between Single Railgun and Dual Railgun(if you have 2
+		railguns)
+
+Impulse 81   Prints info about the current teamplay settings
+
+Impulse 82   Capture the Flag Status report
+
+Impulse 83-84 Modify player skin. You MUST use temp1 flags to activate it.
+		Also, is HIGHLY recomendable to deactivate armor skins, and to
+		use a custom player model...
+
+Impulse 85   Get rid of your actual rune.
+
+Impulse 86   Activate Save Mode (only single player). This removes all stuff in
+		a level, so you can save the game. When you press enter, you
+		begin the level with the stuff you had when you begined that
+		level the first time... :P yes, it's a bit complicated...
+
+Impulse 253  Get rid of your actual armor...
+
+<-- Drone commands -->
+Impulse 90    Activates/deactivates drone bot
+
+Impulse 91    Toggle drone mode (follow, stay, go away)
+
+<-- Cujo commands -->
+
+Impulse 110   Activates and Deactivates Cujo the dog
+
+Impulse 111   Teleport the dog to your location.
+
+Impulse 112   Toggle Cujo's light
+
+Impulse 113   Reports on Cujo's status.
+
+Impulse 114   Tell Cujo to attack or not.
+
+Impulse 116   Tell Cujo to stay or follow.
+
+Impulse 117   View throught Cujo eyes.
+
+<-- End of impulse commands list -->
+
+Use "bind" command to attach the impulses.
+
+
+ÉÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ»
+º  How to use Modification  º
+ÈÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¼
+I've included the text files from the varies patches that I've combined,
+and compressed them into TEXT.ZIP, so you could look at them and see
+what the commands are, as well as the authors' email addresses.
+
+Weapons recollection:
+--------------------
+-Super shotgun: if you get it and you don't have mossberg, you get it.
+else, if you don't have the double-barrelled shotgun, you get it.
+If you have the other two, you get the assault shotgun. Also, if you have
+those all, you get the buster shot.
+-Nailgun:First you will get the MP5, after the M16, and, at last, the Pulse
+Rifle.
+-Super nailgun: first the airgun, after the flamethrower, after the
+freezethrower, and after a gravity well.
+-Grenade launcher: first the grenade launcher, then the Devastator, and then
+a Railgun :).
+-Rocket launcher: first you will get regular missiles, after guided, after
+homing, and finally, rocket pods.
+-Lightning gun: first the plasma gun, after the Positron Beam, and after
+the Proton Storm.
+
+Impulse 1 weapons:
+-----------------
+* K-bar knife: a Navy Seal weapon :). it doesn't do so much damage, but it's
+very fast and have a probability to chop enemies.
+*Disc: Can chop enemies... it's fun to use.
+*Hand grenade: another weapon from Navy Seal patch. The explosion is one of
+the coolest things i see in Quake. It's useful if you don't have weapons that
+use rockets.
+
+Impulse 2 weapons:
+-----------------
+Note: all three weapons are from Navy Seal patch.I modified them a little, so
+they have automatic reload, aiming and cool particles when fired to a wall :)
+
+*Colt M16 Assault Rifle: Good at long and short distance. Have a 30 bullets
+clip.
+*MP5 Sub Machine Gun: it fires more fast, but do less damage per bullet. It
+also have a 50 bullets clip.
+*Mk23 Handgun: Very good at short range, but bad at a long one. It has a
+12 bullets clip.
+
+Impulse 3 weapons:
+-----------------
+*Assault Shotgun: ANOTHER weapon from Navy Seal. It's like an automatic
+shotgun, and consumes shells very fast.
+*Double-barrelled Shotgun:Cool model from Deft. It has a long reload time,but
+do a LOT of damage at once!! :)
+*Mossberg 590 tactical shotgun: Oh! another from Navy Seal!. It's good to
+save ammo, and for medium ranges.
+
+Impulse 4 weapons:
+-----------------
+*Pulse Rifle.-Fun and powerful :)
+*Buster shot.-Shoots fast, is cheap, and removes other's armor.
+*Devastator.-Deals tons of damage.
+
+Impulse 5 weapons:
+-----------------
+*Airfist: Is one of the coolest weapons ever made. It doesn't need comments :)
+*Flamethrower: the code is from Quake Command, but with a cool 3d model as a
+flame, and a more cool weapon model from PAIN. When it burns someone, the fire
+is like Blaze Gun.
+*Freezethrower: It's the one from Ice Ion patch, but nearly all rewritten!!
+Now , ice bounce at walls, and it can... freeze the water!!!
+
+Impulse 6 weapons:
+-----------------
+*Normal Grenades: well... they are... normal.... :)
+*Bouncer Grenades: they throw spikes when explode
+*Cluster Grenades: when it explode, it throws a lot of normal grenades.
+*Poison Grenades: it makes a cloud of poison gas that will poison your
+enemies.
+
+Impulse 7 weapons:
+-----------------
+*Normal Missiles: ...
+*Guided Missiles: they cost 2 rockets, and you can seek and hunt your enemy
+with it.:)
+*Homing Missiles: as above, but the missile will make it for you.
+
+Impulse 8 weapons:
+-----------------
+*Plasma gun: its the most "DooM" plasma I've seen for Quake...
+*Positron Beam:It cost 20 cells, but it has a bunch of damage. It can kill a
+Shambler with one shot.
+*Proton Storm: Cost 30 cells, and it ANIHILATES all... I had to put a fix in
+order to stop it killing Shub with one shot ;)))
+
+Impulse 225 weapons:
+--------------------
+*Railgun: Can go thought walls and enemies :) inflicts tons of damage
+*Rocket pods: Each pod is like a missile... :P
+*Gravity well: This is a lot of fun with a lot of players in a room ;)
+
+Impulse 226 weapons:
+--------------------
+*Harpoon: It's the best harpoon I could find :)
+*Mjolnir: Directly from Scourge of Armagedon
+*Chainsaw: Well... it inflicts tons of damage and chop your enemies into
+little pieces... what more can you ask for??
+
+Teamplay and Deathmatch:
+-----------------------
+See Wyrm.cfg for details :)
+
+Monster enhancements:
+--------------------
+I don't want Wyrm to be an only deathmatch compilation. I want also to enhance
+single player game experience. To do this, I added some stuff...
+-Grunts have different weapons (double-barrelled grunt can kill you with one
+shot!)
+-New type of fiend: the hell fiend (comes from your nightmares to KILL YOU)
+-Ogres fire missiles if they are far enough from you. Also, they've gained an
+armor.
+-Enemies respawn in nightmare!! (now it will be really a NIGHTMARE! he he)
+-Ogre, knights and hell knights can chop you  :)
+-Added cranked. See cranked.txt for more details.
+-Scrags fire a lot more :). Also added 2 new types: Hell scrag and Chthon
+scrag.
+-New type of enforcer! Rail enforcer :)
+
+Map information:
+---------------
+Since I think that there won't be any really "Wyrm map", I've removed the rain
+and some other things to add more weapons.
+ÉÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ»
+º  Testing Notes  º
+ÈÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¼
+-All Quake standard maps seems to run properly.
+-You MUST use Quake 1.07 or newer to play Wyrm! Quake 1.08 upgrade if free.
+-Normally, I test it with 16 Mb of RAM, but it seems to run well with 8 Mb.
+ÉÍÍÍÍÍÍ»
+º Bugs º
+ÈÍÍÍÍÍÍ¼
+I haven't test it on CTF multiplayer, but it seems to work :)
+
+ÉÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ»
+º  Future enhancements  º
+ÈÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¼
+Sorry, but this is the last release :( Quake 2 is out, and I want to see what
+I can make with it... maybe Wyrm ][ ;)
+
+ÉÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ»
+º  Revision History  º
+ÈÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¼
+02-??-97--> Wyrm beta 2 released!!!
+		-Removed:
+			*Stinger, demo charges, Throwing Axe, Motion Capture,
+		       Rain, hologram, torch...
+			*WiCkeD grappling hook.
+		-Upgraded:
+			*Tactical shotgun and super shotgun. Look them ;)
+		-Added:
+			*Gravity Well and Harpoon from Painkeep
+			*Rocket pods
+			*Railgun!
+			*Mjolnir
+			*Disc
+			*Blooding death
+			*bleeding gibs
+			*drone (helper bot)
+			*railgun enforcer
+			*some deathmatch features
+			*Some other stuff I can't remember ;)
+		-Fixed:
+			*TONS of things I can't remember...
+12-8-97--> Wyrm beta 1.7 released :))
+		-Removed:
+			*Axe of command
+			*Bucky Ball Gun
+			*Lightning Gun
+		-Upgraded:
+			*YCam instead ChaseCam (YCam works perfect in water)
+			*Better cluster and bouncer bomb
+		-Added:
+			*Pulse Rifle
+			*Devastator
+			*Evil Dead Chainsaw
+			*DMX gibs
+			*Torch (impulse 38) *REMOVED IN BETA 2*
+			*Target code for homing missile
+			*New enemy!! the deadly HELL FIEND!
+		-Fixed:
+			*Perfect deathcam :)
+			*The kill command makes you leave your corpse
+			*Some stuff for status bar
+			*Anti-camping now is an option not set as default
+			*More bugs
+			*More GL-Quake mistakes :)
+
+09-27-97--> Wyrm beta 1.5 released:
+		-Removed:
+			*Tripbomb, prox mine and handy teleporter(so good on
+		      CTF)
+			*Jetpack (sometimes generates errors)
+			*KasCam and Navy SEALS' guard(due to save code space)
+		-Upgraded:
+			*Death camera works better now... if you get gibbed,
+		      you take your head's view.
+			*K-bar and Mp5 from NavySeals 1.91
+			*Included the DoE "multigrenade"
+			*Standard Grappling hook changed by Wicked Hook
+		-Added:
+			*3wave CTF support!! (including admin support, runes,
+		      previous weapon code,voting...)
+			*2 new types of enemies! :) (the yeti (second type of
+		      shambler) and the Chthon Scrag (third type of scrag))
+			*Lavaburst (cool effect)
+			*Earthquake from DoE
+		-Fixed:
+			*Lots of bugs :P.
+			*Some errors on GL-Quake
+
+			
+08-30-97--> Patch upgrade to Wyrm beta 1.1:
+		-Wyrm works on GL-Quake!
+		-Some small fixes
+
+08-25-97--> first release!!!! :)
+
+ÉÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ»
+º  Contacting Author  º
+ÈÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¼
+Send comments, opinions, ideas, bugs,... at
+
+ryo@lettera.skios.es
+
+or
+
+jr1293@pluto.udg.es
+
+ÉÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ»
+º  Copyright and Distribution Permissions  º
+ÈÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¼
+
+* Authors MAY use these modifications as a basis for other
+publically available work.
+
+* If you have used part of this patch (code, model or sound) in
+your own patch, please give credits to the authors who have made
+them - including myself. Thank you.
+
+* You may distribute this Quake modification in any electronic
+format as long as this description file remains intact and unmodified
+and is retained along with all of the files in the archive.
+
+* The above permissions do not apply to Actura Software, who may not do
+anything, in any form, in any way, by any means with these files,
+including, but not limited to, sale and redistribution of the software.

@@ -565,7 +565,6 @@ voidm126.txt
 voidm127.txt
 wyrmb1.txt
 wyrmb11.txt
-wyrmb2.txt
 zeus20.txt
 zeus201.txt
 zeus201b.txt

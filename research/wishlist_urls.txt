@@ -14,7 +14,6 @@ ftp://ftp.cdrom.com/pub/quake/quakec/bots/darkbt08.zip
 ftp://ftp.cdrom.com/pub/quake/quakec/bots/dmbt21b1.zip
 ftp://ftp.cdrom.com/pub/quake/quakec/bots/doombot.zip
 ftp://ftp.cdrom.com/pub/quake/quakec/compilations/wyrmb15.zip
-ftp://ftp.cdrom.com/pub/quake/quakec/compilations/wyrmb2.txt
 ftp://ftp.cdrom.com/pub/quake/quakec/misc/req106a.zip
 ftp://ftp.compulink.co.uk/mirrors/ftp.cdrom.com/pub/planetquake/holywars/hwqwbotv101c.zip
 ftp://ftp.dragonfire.net/users/kkembel/QuakeC/bots/elim13.zip
@@ -124,7 +123,6 @@ http://groups.yahoo.com/group/friktf/files/friktf-092800-qw.zip
 http://groups.yahoo.com/group/friktf/files/friktf-092800.tar.gz
 http://home.t-online.de/home/026051408/kok220.zip
 http://home.t-online.de/home/0551705030/squirt10.zip
-http://idgames.gameaholic.com/idgames/quakec/compilations/wyrmb2.txt
 http://java.cms.livjm.ac.uk/quake/OmiEdit01.zip
 http://members.nbci.com/nnctf.zip
 http://members.nbci.com/nnsource.zip
@@ -205,6 +203,7 @@ http://tux.telefragged.com/file.pl?filename=fbctf034.zip
 http://tux.telefragged.com/file.pl?filename=hw_frogbot14.zip
 http://tux.telefragged.com/file.pl?filename=maniacbt12.zip
 http://tux.telefragged.com/file.pl?filename=vicinity/vicinitymodels.zip
+http://tux.telefragged.com/file.pl?filename=vicinity/vicinitymodels.zip%26dir=telefragged/be/fmods
 http://web.ukonline.co.uk/johnc/oak0855.zip
 http://web.ukonline.co.uk/Members/jc.burton/iwbot2.zip
 http://www.3ddownloads.com/showfile.php3?filename=2000.zip
