@@ -347,6 +347,11 @@ RichMark's QuakeBot
 	prior versions 1.7a to 1.7f
 	https://www.quaketerminus.com/rminterview.shtml
 		Interview: RichMark, bot programmer & creator of Quakebot
+		https://web.archive.org/web/20010813121012/http://www.quaketerminus.freeola.com/rminterview.htm
+		https://web.archive.org/web/20010625233851/http://www.quaketerminus.freeola.com/
+		Sunday, June 24, 2001
+		https://web.archive.org/web/20010726203823/http://pub50.ezboard.com/fquaketerminusfrm1.showMessage?topicID=31.topic
+		https://web.archive.org/web/20010727185110/http://pub50.ezboard.com/urichmark.showPublicProfile?language=EN
 	http://www.geocities.ws/cheatatquake/home.html
 		http://www.geocities.ws/cheatatquake/quakebot.zip
 	http://webpages.charter.net/kroeker/quake/
@@ -376,11 +381,16 @@ RichMark's QuakeBot
 		https://botsquake.fortunecity.ws/qb16g.zip
 		https://botsquake.fortunecity.ws/qb1.zip
 	kroeker@ix.netcom.com
+	https://www.linkedin.com/in/rich-kroeker-3019116/
+		?
+		age is right
 Bottim
 	https://www.geocities.ws/oldquaker/bottim/
 	QuakeWorld bot
+		https://www.geocities.ws/oldquaker/bottim/files/
 		https://www.geocities.ws/oldquaker/bottim/files/linux-elf-bottim0.1.tar.gz
 		https://www.geocities.ws/oldquaker/bottim/files/solaris-bottim0.1.tar.gz
+		https://www.geocities.ws/oldquaker/bottim/files/bottim_src.tar.gz
 	http://www.dgs.monash.edu.au/~timf/bottim/
 		https://web.archive.org/web/19970102100127/http://www.dgs.monash.edu.au/~timf/
 		https://web.archive.org/web/19981206053514/http://www.dgs.monash.edu.au/~timf/bottim/
