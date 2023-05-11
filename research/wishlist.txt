@@ -492,7 +492,6 @@ maniacbt12.txt
 proj1_01.txt
 proj1_02.txt
 proj1_04.txt
-proj1_05.txt
 proj1_06.txt
 proj1_07.txt
 proj1_08.txt

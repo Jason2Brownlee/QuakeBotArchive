@@ -1746,11 +1746,18 @@ Frogbot 2000 / Frogbot 2K
 	https://web.archive.org/web/20100123221244/http://www.3ddownloads.com/showfile.php3?filename=2000.zip
 	https://web.archive.org/web/20100123221244/http://www.3ddownloads.com/showfile.php3?filename=f2k006d.zip
 	http://www.moonlightarts.de/fb2000/
-	https://web.archive.org/web/20020614055730/http://www.moonlightarts.de/fb2000/
+		https://web.archive.org/web/20020614055730/http://www.moonlightarts.de/fb2000/
 	Dennis de Boer
 	http://www.moonlightarts.de/fb2000/fb2k_files.htm
 	https://quake_en_ru.academic.ru/264/FrogBot
 		http://c4denn.chat.ru/filezz/frog2k.rar
+	http://www.sqc.de/frog2k
+		https://web.archive.org/web/20020323174108/http://www.sqc.de/frog2k
+	Dennis de Boer
+		frogbot2k@sqc.de
+		datdeboer@gmx.net
+	Lars Fischer (web design)
+		laffinium@sqc.de
 Frogbot Special Edition / Erazor frogbot "Test Special Edition"
 	https://web.archive.org/web/20100123221300/http://tux.telefragged.com/file.pl?filename=fb013se.zip
 	what is this?
@@ -2106,6 +2113,9 @@ VeNgAb0T / Vengabot
 Combination of all previous Khol's FMODS
 	http://www.3ddownloads.com/showfile.php3?filename=kfmod.zip
 	"Khol"
+	http://www.acc.umu.se/~khol/mods.html
+		https://web.archive.org/web/19991109165234/http://www.acc.umu.se/~khol/mods.html
+		Henrik Lind
 Motd FMOD
 	http://www.3ddownloads.com/showfile.php3?filename=motd.zip
 	Algirdas Kepezinskas aka "ZeCybEr"

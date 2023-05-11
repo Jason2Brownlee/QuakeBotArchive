@@ -180,6 +180,7 @@ Terminator Bot
 		https://thegate.gamers.org/pub/idgames2/utils/network_serial/client_bots/trmbot08.txt
 		https://thegate.gamers.org/pub/idgames2/utils/network_serial/client_bots/trmbot08.zip
 Mystery Bot
+	http://www.wollongong.starway.net.au/~ripper/
 	http://www.wollongong.starway.net.au/~ripper/info.htm
 		not archived
 	http://mystery.telefragged.com/
