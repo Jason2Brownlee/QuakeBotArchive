@@ -2116,6 +2116,14 @@ Combination of all previous Khol's FMODS
 	http://www.acc.umu.se/~khol/mods.html
 		https://web.archive.org/web/19991109165234/http://www.acc.umu.se/~khol/mods.html
 		Henrik Lind
+	http://www.acc.umu.se/~khol/fsk/index.html
+		https://web.archive.org/web/20020103235532/http://www.acc.umu.se/~khol/fsk/index.html
+		Frogbot Startup Kit (FSK)
+		https://web.archive.org/web/20020103235532/http://www.acc.umu.se/~khol/fsk/fsk07.zip
+		http://www.3ddownloads.com/showfile.php3?filename=fsk07.zip&directory=/telefragged/be/fmods/other/
+		http://tux.telefragged.com/file.pl?filename=fsk07.zip%26dir=telefragged/be/fmods/other
+		prior versions v0.6, 0.5, 0.3, 0.2
+		khol@home.se
 Motd FMOD
 	http://www.3ddownloads.com/showfile.php3?filename=motd.zip
 	Algirdas Kepezinskas aka "ZeCybEr"
