@@ -1721,10 +1721,6 @@ frogbot ctf / Frogbot CTF / FBCTF
 		ftp://numb.macquakeinfinity.com/numb/ctf/fbctf040.zip
 		ftp://numb.macquakeinfinity.com/numb/holywars/hw_frogbot13c.zip
 Frogbot BotMatch Arena
-	https://groups.google.com/g/fido7.ru.game.quake/c/xMgcC963DUs/m/LPYor7A0RccJ
-		bm121.zip
-		http://www.3ddownloads.com/?file_id=159654
-		ftp://ftp.3ddownloads.com/59686/telefragged/be/fmods/bm121r3.zip
 	http://www.botepidemic.com:80/fmods/index.shtml
 		https://web.archive.org/web/20010210183135/http://www.botepidemic.com:80/fmods/index.shtml
 			https://web.archive.org/web/20010210183135/http://www.botepidemic.com/fmods/botmatch.ZIP
@@ -1770,10 +1766,14 @@ Frogbot BotMatch Arena
 		https://web.archive.org/web/20010405040515/http://dmsoul.newmail.ru:80/
 			https://web.archive.org/web/20010405040515/http://dmsoul.newmail.ru:80/bm116se.zip
 			https://web.archive.org/web/20010405040515/http://dmsoul.newmail.ru:80/bm116src.ZIP
-	https://forum.ixbt.com/topic.cgi?id=25:8999
-		http://www.3ddownloads.com/?file_id=159654
-			bm121.zip
-		http://dmsoul.mailru.com/botmatch/bm121.zip
+	https://forum.ixbt.com
+		https://forum.ixbt.com/topic.cgi?id=25:8999
+			http://www.3ddownloads.com/?file_id=159654
+				bm121.zip
+			http://dmsoul.mailru.com/botmatch/bm121.zip
+		https://forum.ixbt.com/topic.cgi?id=25:6537
+			DMSouL
+			http://www.botepidemic.com/fmods/bm116se.zip
 	http://botboard.telefragged.com/
 		https://web.archive.org/web/20020301025205/http://botboard.telefragged.com/showpost.pl?Board=quake1&Number=2504&page=0&view=collapsed&sb=5
 			Sat Dec 29 19:52:31 2001
@@ -1798,6 +1798,17 @@ Frogbot BotMatch Arena
 			http://dmsoul.newmail.ru/src.ZIP
 			SOUL1@newmail.ru
 			first release...
+		links
+			http://www.dmsoul.newmail.ru/botmatch.ZIP
+			http://www.dmsoul.newmail.ru/changes.txt
+			http://dmsoul.newmail.ru/fbca_se.ZIP
+			http://dmsoul.newmail.ru/mymod7.zip
+			http://dmsoul.newmail.ru/notlpb_fbca.ZIP
+			http://dmsoul.newmail.ru/src.ZIP
+	https://groups.google.com/g/fido7.ru.game.quake/c/xMgcC963DUs/m/LPYor7A0RccJ
+		bm121.zip
+		http://www.3ddownloads.com/?file_id=159654
+		ftp://ftp.3ddownloads.com/59686/telefragged/be/fmods/bm121r3.zip
 Frogbot 2000 / Frogbot 2K
 	https://web.archive.org/web/20100123221300/http://botepidemic.no-origin.net/quake.shtml.htm
 	https://web.archive.org/web/20100123221300/http://tux.telefragged.com/file.pl?filename=f2k006d.zip
