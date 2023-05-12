@@ -1,6 +1,7 @@
 # Quake Bot URL Wishlist
 
 ftp://cdrom.planetquake.com:2121/holywars/hwqwbotv101c.zip
+ftp://ftp.3ddownloads.com/59686/telefragged/be/fmods/bm121r3.zip
 ftp://ftp.cdrom.com/pub/idgames2/planetquake/tfbot/tfb-v07.zip
 ftp://ftp.cdrom.com/pub/idgames2/quakec/bots/darkbt4.zip
 ftp://ftp.cdrom.com/pub/idgames2/quakec/bots/rbot.zip
@@ -102,6 +103,12 @@ http://darkskye.home.mindspring.com/quakeworld-20000102.tar.gz
 http://death2all.excelland.com/files/ufrog.zip
 http://death2all.excelland.com/files/ufrog_player_model.zip
 http://dmsoul.mailru.com/botmatch/bm119gl.zip
+http://dmsoul.mailru.com/botmatch/bm121.zip
+http://dmsoul.newmail.ru/_readme.txt
+http://dmsoul.newmail.ru/bm116se.zip
+http://dmsoul.newmail.ru/bm116src.ZIP
+http://dmsoul.newmail.ru/fbca_se.ZIP
+http://dmsoul.newmail.ru/mymod7.zip
 http://dmsoul.newmail.ru/notlpb_fbca.ZIP
 http://dmsoul.newmail.ru/src.ZIP
 http://first.quakegate.ru/bots/frogbot.rar
@@ -220,6 +227,7 @@ http://tux.telefragged.com/file.pl?filename=maniacbt12.zip
 http://tux.telefragged.com/file.pl?filename=vicinity/vicinitymodels.zip%26dir=telefragged/be/fmods
 http://web.ukonline.co.uk/johnc/oak0855.zip
 http://web.ukonline.co.uk/Members/jc.burton/iwbot2.zip
+http://www.3ddownloads.com/?file_id=159654
 http://www.3ddownloads.com/showfile.php3?filename=2000.zip
 http://www.3ddownloads.com/showfile.php3?filename=Accuracy.zip
 http://www.3ddownloads.com/showfile.php3?filename=darkfrog.zip
@@ -271,6 +279,7 @@ http://www.dmsoul.mailru.com/botmatch/bm121.zip
 http://www.dmsoul.mailru.com/botmatch/win_bm.ZIP
 http://www.dmsoul.newmail.ru/bm116se.zip
 http://www.dmsoul.newmail.ru/bm116src.zip
+http://www.dmsoul.newmail.ru/changes.txt
 http://www.dobbsnet.btinternet.co.uk/downloads/quake/dobbsbot15b.zip
 http://www.fileplanet.com/dl.aspx?/planetquake/botarea51/bot/elimpack.zip
 http://www.fileplanet.com/dl/dl.asp?/planetquake/botarea51/bot/elimpack.zip

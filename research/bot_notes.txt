@@ -1720,23 +1720,84 @@ frogbot ctf / Frogbot CTF / FBCTF
 	https://web.archive.org/web/20000527151222/http://botboard.telefragged.com/showpost.pl?Board=quake1&Number=1746&page=2&view=collapsed&sb=5
 		ftp://numb.macquakeinfinity.com/numb/ctf/fbctf040.zip
 		ftp://numb.macquakeinfinity.com/numb/holywars/hw_frogbot13c.zip
-Frogbot BotMatch Arena / BotMatch frogbot mod
-	https://web.archive.org/web/20100123221244/http://botepidemic.no-origin.net/fmods/index.htm
-	Alex
-	DmSouL
-	http://www.dmsoul.mailru.com/botmatch/bm119gl.zip
-	bm119gl.zip
-	https://web.archive.org/web/20100123221244/http://www.dmsoul.mailru.com/botmatch/source_of_bm.ZIP
-	https://web.archive.org/web/20100123221244/http://www.botepidemic.com/fmods/botmatch.ZIP
-	https://web.archive.org/web/20100123221244/http://dmsoul.newmail.ru/src.ZIP
-	https://web.archive.org/web/20020301025205/http://botboard.telefragged.com/showpost.pl?Board=quake1&Number=2504&page=0&view=collapsed&sb=5
-		www.dmsoul.mailru.com/botmatch/win_bm.ZIP
-	https://web.archive.org/web/20020821170311/http://botboard.telefragged.com/showpost.pl?Board=quake1&Number=2703&page=0&view=collapsed&sb=5
-		www.dmsoul.mailru.com/botmatch/bm121.zip
-		https://web.archive.org/web/20020701192402/http://www.3ddownloads.com/?file_id=159654
+Frogbot BotMatch Arena
+	https://groups.google.com/g/fido7.ru.game.quake/c/xMgcC963DUs/m/LPYor7A0RccJ
 		bm121.zip
+		http://www.3ddownloads.com/?file_id=159654
+		ftp://ftp.3ddownloads.com/59686/telefragged/be/fmods/bm121r3.zip
+	http://www.botepidemic.com:80/fmods/index.shtml
+		https://web.archive.org/web/20010210183135/http://www.botepidemic.com:80/fmods/index.shtml
+			https://web.archive.org/web/20010210183135/http://www.botepidemic.com/fmods/botmatch.ZIP
+			January 06, 2000
+			https://web.archive.org/web/20010210183135/http://www.botepidemic.com/fmods/botmatch.ZIP
+			https://web.archive.org/web/20010210183135/http://dmsoul.newmail.ru/src.ZIP
+		https://web.archive.org/web/20010418200947/http://www.botepidemic.com:80/fmods/index.shtml
+			March 30 , 2001
+			Alex DMSouL (aka 'qwerty', aka 'NotLPB'
+			SOUL1@newmail.ru
+			https://web.archive.org/web/20010418200947/http://www.botepidemic.com/fmods/bm116se.zip
+		https://web.archive.org/web/20020212005500/http://www.botepidemic.com:80/fmods/index.shtml
+			https://web.archive.org/web/20020212005500/http://www.dmsoul.mailru.com/botmatch/bm119gl.zip
+			January 09 , 2002
+			https://web.archive.org/web/20020212005500/http://www.dmsoul.mailru.com/botmatch/source_of_bm.ZIP
+			December 26 , 2001
+			https://web.archive.org/web/20020212005500/http://www.dmsoul.mailru.com/botmatch/bm119gl.zip
+			dmsoul@mailru.com
+	http://www.botepidemic.com:80/fmods/mods.htm
+		https://web.archive.org/web/20010208184910/http://www.botepidemic.com:80/fmods/mods.htm
+			https://web.archive.org/web/20010208184910/http://www.botepidemic.com/fmods/botmatch.ZIP
+			SOUL1@newmail.ru
+			December 11, 2000
+		https://web.archive.org/web/20010418034523/http://www.botepidemic.com:80/fmods/mods.htm
+			https://web.archive.org/web/20010418034523/http://www.botepidemic.com/fmods/bm116se.zip
+			March 21, 2000
+		https://web.archive.org/web/20020214103444/http://www.botepidemic.com:80/fmods/mods.htm
+			https://web.archive.org/web/20020214103444/http://www.dmsoul.mailru.com/botmatch/bm119gl.zip
+			dmsoul@mailru.com
+			December 26, 2001
+	http://dmsoul.mailru.com
+		http://dmsoul.mailru.com/botmatch/_readme.txt
+			https://web.archive.org/web/20020109081325/http://dmsoul.mailru.com/botmatch/_readme.txt
+			19-12-2001
+			dmsoul@mailru.ru
+		http://www.dmsoul.mailru.com/botmatch/source_of_bm.ZIP
+			https://web.archive.org/web/20020422164634/http://www.dmsoul.mailru.com/botmatch/source_of_bm.ZIP
+	http://dmsoul.newmail.ru/
+		https://web.archive.org/web/20010402025259/http://dmsoul.newmail.ru/
+			https://web.archive.org/web/20010402025259/http://dmsoul.newmail.ru/_readme.txt
+			https://web.archive.org/web/20010402025259/http://dmsoul.newmail.ru/bm116se.zip
+			https://web.archive.org/web/20010402025259/http://dmsoul.newmail.ru/botmatch.ZIP
+		https://web.archive.org/web/20010405040515/http://dmsoul.newmail.ru:80/
+			https://web.archive.org/web/20010405040515/http://dmsoul.newmail.ru:80/bm116se.zip
+			https://web.archive.org/web/20010405040515/http://dmsoul.newmail.ru:80/bm116src.ZIP
 	https://forum.ixbt.com/topic.cgi?id=25:8999
+		http://www.3ddownloads.com/?file_id=159654
+			bm121.zip
 		http://dmsoul.mailru.com/botmatch/bm121.zip
+	http://botboard.telefragged.com/
+		https://web.archive.org/web/20020301025205/http://botboard.telefragged.com/showpost.pl?Board=quake1&Number=2504&page=0&view=collapsed&sb=5
+			Sat Dec 29 19:52:31 2001
+			www.dmsoul.mailru.com/botmatch/win_bm.ZIP
+			Sat Dec 29 19:52:31 2001
+			software executable of 1.19
+		https://web.archive.org/web/20020821170311/http://botboard.telefragged.com/showpost.pl?Board=quake1&Number=2703&page=0&view=collapsed&sb=5
+		www.dmsoul.mailru.com/botmatch/bm121.zip
+			Thu Apr 25 10:07:59 2002
+			https://web.archive.org/web/20020701192402/http://www.3ddownloads.com/?file_id=159654
+			bm121.zip
+		https://web.archive.org/web/20001025044541/http://botboard.telefragged.com/showpost.pl?Board=quake1&Number=2013&page=0&view=collapsed&sb=2
+			http://dmsoul.newmail.ru/mymod7.zip
+			Mon Feb 28 18:27:12 2000
+			not the bot... to soon
+		http://botboard.telefragged.com/showpost.pl?Board=quake1&Number=2330&page=0&view=collapsed&mode=threaded&sb=5
+			Fri Dec 29 03:46:24 2000
+			"qwerty"
+			New mod
+			http://www.dmsoul.newmail.ru/botmatch.ZIP
+			http://www.dmsoul.newmail.ru/changes.txt
+			http://dmsoul.newmail.ru/src.ZIP
+			SOUL1@newmail.ru
+			first release...
 Frogbot 2000 / Frogbot 2K
 	https://web.archive.org/web/20100123221300/http://botepidemic.no-origin.net/quake.shtml.htm
 	https://web.archive.org/web/20100123221300/http://tux.telefragged.com/file.pl?filename=f2k006d.zip

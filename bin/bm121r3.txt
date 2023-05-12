@@ -1,0 +1,444 @@
+Title: Frogbot BotMatch Arena
+Filename: bm121.zip
+Version: 1.21 beta 3
+Status: Always Beta
+Date: 25-04-2002
+Author: DMSouL
+Email: dms...@mailru.ru
+ICQ UIN: 113344494
+WEB: http://www.3ddownloads.com/?file_id=159654 (bm121.zip)
+(ftp://ftp.3ddownloads.com/59686/telefragged/be/fmods/bm121r3.zip)
+
+=============================
+THIS IS FROGBOT NETQUAKE MOD
+=============================
+
+=========
+OVERVIEW
+=========
+Read these files: /manuals/*.txt
+
+
+=================================
+New Botmatch.dat (progs.dat) features
+=================================
+--Buttons support (works great on dm1 and dm5 maps)
+--Full water support (bots will swim almost like real players).
+--Basic buttons support.
+--Advanced match features : overtime support,accuracy stats support
+(available at any part of the game),quadstats - quad weapon
+efficiency,high score table(available at the end of matches).Overtime
+toggles ONLY if 2 players or bots or 2 teams (with teamnames).
+--QW KT-style comments during game(like team[xxx] leads by xx
+frags),etc..
+--Auto-loading bots. Bots will try to connect and then disconnect
+after user-definable time-limit.
+--BugFIXES: - Completely removed all NULL-function FATALITIES.
+- Memory leak fixes.
+- Cache mismatch in GL. (thx qsg.telefragged.com).
+- Console typing enhancements (insert mode by default).
+- Allows multiple connections from a single IP address.
+- Precise aim for clients (controllable with cl_cross_x and
+cl_cross_y cvars).
+- Larger console buffer.
+--Cool logging support.When timelimit or fraglimit is reached,if
+'autostats' cvar enabled - engine logging advanced players and bots
+statistics.Logging format you may see in 'newcmds.cfg'.Log example you
+may found at ./stats/(hostport)/. This feature is very useful for
+stats lovers - like me :)
+--Bots teamnames now shows on scoreboard (including their teamfrags
+and etc..).
+--Markers improovements:DM3 - water way and ring-quad jumping;DM6: RJ
+from GA to cells;other listed maps - rocketjump (see maplist).
+--Advanced evasive strategies. Toggle is 'botevade'. Enabled by
+default.
+--Good CAMPING AI. (dm6 and dm3 so far..). Toggle is 'botcamp'.
+Enabled by default.
+--Bots will automatically try to help any teammate in their team if he
+close enough and really needs help. Toggle is 'bothelp'. Enabled by
+default.
+--Improoved think function (water code related).
+--Identify teammate function.Idea taken from Q2 OSP-Tourney Mod.If
+'ident' is enabled,there's a short sentence appears at the bottom on
+status-bar ,looks like "teammate [9]Xenon".
+--Bots will report their status and locations if 'botreport'is enabled
+and loc-file loaded. Available in teamplay only. Location names called
+from loc-files in moddir/locs
+--Talk abilities.Including RUSSIAN TALKS :)) and English talks..
+--Gibfilter (low and high)- 'highgibs' and 'lowgibs' cvars.
+--New GIBS models.
+--32-bit dat-file.
+--Extended obituaries.
+--Lavajumping feature (rocketjump from lava).
+--'Shot for luck' feature (sometimes bots shooting from RL for luck,
+even if enemy is not visible).
+--Shotable buttons and doors support.
+--Other minor features i forgot to mention.
+
+
+====================================================
+New GL-(WIN-)BOTMATCH.EXE (gl(win)quake.exe) features
+====================================================
+
+--Synthetic lag. One of the coolest feature..
+--Watervis hacks.
+--User-definable teamnames (like in QW)
+--New cvars (see 'newcmds.cfg').Type 'cvarlist'.
+--Advanced deathmatch scoreboard. Ripped from QW,but added
+'rank','eff','blunders' (in teamplay).
+--User-definable MOTD (loading from ./dmmotd.txt).
+--Other cosmetic improovements.
+
+
+=========================
+Important notes
+=========================
+--Do not use old Frogbot names editors (like fbedit.exe), cos it's not
+understand "teamname=" option. Due to that fact, botfiles always will
+be created with error in "lines="..
+--Do Not use ANY gl(win)quake.exe,quake*.exe,and etc - game WILL
+crash, cause I've changed pr_global_struct and network protocol. Do
+not try also use ANY of coming up other exe's (the game will not work
+properly).
+--Do NOT rename botmatch.dat to progs.dat - game WILL crash.
+--Do NOT use decompiler - ask me for source if needed !!
+
+
+==================
+Teamnames Support
+==================
+If you want spawn a bot with teamname visible on status bar open any
+bot-file (in bots folder) and edit file directly by adding folowing
+lines:
+wait;teamname=
+wait;impulse 54 // "6"
+wait;impulse 54 // "6"
+wait;impulse 54 // "6"
+wait;impulse_0 //end teamname
+Don't forget to modify "lines=" parameter.
+
+
+
+==========================
+Creating/Modifying Marker
+==========================
+I have included simple config file with waypoints editing commands
+(wpedit.cfg).
+There's a demofile also demontrates the way to place waypoints on
+maps.
+
+=============================
+SUPPORTED MAPS
+=============================
+Total 118 maps supported.
+
+dm1
+dm2 (todo)
+dm3
+dm4
+dm5
+dm6
+e1m2
+e1m3
+ztndm1
+ztndm2
+ztndm3
+ztndm6
+e1m5duel
+q1arena
+ravage
+spinev2
+bless
+debello
+messy
+ultrav
+aggressr
+aerowalk
+and9
+condemn
+blizz2
+ctf1
+ctf2
+ctf5
+ctf8
+b2s
+baldm6
+jrdm2
+jndm6
+ukooldm6
+amphi
+amphi2
+frobodm2
+efdm8
+rapture1
+fbarenax
+warfare2
+unddm2
+fbdm2
+2towers
+arenarg2
+arenax
+arenazap
+barena1
+bbarena2
+bunski
+crandome
+dm2arena
+egyptra
+gear8
+gnurena
+marena2
+marena3
+marena4
+mayan1
+rarena3
+rgarden
+uarena1
+yard1
+soyarena
+pen2
+arma4
+terrain2
+2pyramid
+chamber1
+unholy
+atarena1
+23ar_a
+arendm1a
+football
+ptucket
+avarena5
+dom2_1ra
+id3
+hill20
+pitarena
+argonaut
+dead
+duel1
+e1m1
+e2m2
+edc
+efdm10
+efdm6
+effigy
+fbdm
+fbe3m7
+fragtwn1
+fribdev1
+fribweb1
+mayhem
+newdm_2
+pak1
+pak2
+pak6
+pak8
+pinion1
+pli
+shroud
+spine
+spine_2
+straffin3
+straffin4
+straffin5
+straffin6
+titan2
+uk2
+ukooldm2
+ukooldm3
+ukooldm8
+warfare
+xl1dm2
+xmas1
+ravage2
+
+================
+Starting GAME
+================
+
+gl-botmatch.exe -heapsize XXXXX -game <moddir> -width XXX -height
+XXX -bpp XX -listen XX -zone 2048 -allowoverflow 1 -ip
+XXX.XXX.XXX.XXX -longcoords
+
+The -longcoords switch allow you to switch PROTOCOL_VERSION byte to
+7..This hack is intended to use on large maps.
+
+win--botmatch.exe -heapsize XXXXX -game <moddir> -width XXX -height
+XXX -bpp XX -listen XX -zone 2048 -allowoverflow 1 -ip
+XXX.XXX.XXX.XXX -longcoords -dibonly
+
+
+==================
+CREDITS
+==================
+
+ID SOFTWARE for SOURCE of course !!!!!!!!
+
+Mr. Elusive (author of Gladiator and Omicron bots) for meqcc source
+code.
+
+Gerard "numb" Ryan for his old works (ctf and holywars) and for
+testing and improving water code.
+
+Robert "Frog" Field wrote the awesome Frogbot
+This mod uses version 0.13 test
+Website: http://www.telefragged.com/metro/
+
+Matt "asdf" McChesney for help with 0.13 test 'hacks' and rocketjump
+support
+Email: Mt...@hotmail.com
+
+Hylken "gibbie" Beck for the additional waypoints and beta-testing
+Email: hyl...@hotmail.com
+
+Alex "ParboiL" Pahomov for his webboard and moral support :)
+
+QuakeForge Guys for faster QC-access and removing limitations with
+"pr_globals"
+
+J.P. GrossMan for his ProQuake project.
+
+FrikaC for his FRIKBOTX source code.
+
+============================================
+Copyright and Distribution Permissions
+============================================
+
+You may distribute this Quake modification in any electronic format.
+You may use source or decompile and disassembly whole mod and add
+anything you want. I'll be very glad to see it !!!!.
+
+===============
+Disclaimer
+===============
+
+Software under this agreement is under no kind of warranty. Software
+under this agreement is provided as is, and isn't guaranteed in any
+way by the mod author. Use this software at your own risk.
+
+==================
+HISTORY OF CHANGES
+==================
+
+
+25.04.2002
+=========
+-Buttons support(tested on maps: dm5, dm1)
+-dm5 map support
+-"RL shot" bug fixed (so far I can't recognize existence of that bug)
+-Better grenade avoidance
+-Improved avoidance of splash damage when underwater combat
+-Modified air control behaviour a bit when jumping or rocketjumping
+-'lookcheat' command from 0.12c moved back again
+-Some found bugs eliminated
+//todo: dm2 map support
+
+30.12.2001
+=========
+-New dat-file format. It can handle now up to 9999999 pr_globals..
+-Fixed some bugs in executables.. I know it still contains bugs.. :)
+-Fixed bug with e1m3 map.
+-Added build-in waypoints creator ('wpedit' switch). Markers now can
+be saved directly to map_<mapname>.qc and then recompiled.
+-Various AI tweaks and optimizations:
+--Better jumping ability.
+--Added avoidance check of grenade explosions.
+-dm1 button enabled.
+-Added additional 41 maps support.
+-Source code of botmatch.dat included.
+-Modified Mr'E compiler included.
+
+19.12.2001
+==========
+-'Shot for luck' feature improved greatly. In teamplay bots now check
+if teammates is visible and decides to fire or not.
+-Much better obstacle avoidance when rocketjumping.
+-Fixed issue when bots ocassionally killed their teammates with
+grenade and when performing rocketjumps.
+-Completely removed 'sleeps with fishes' and 'sucks it down'
+underwater bug (i think..).
+-Added lag affected bots feature. Works only when cvar "sv_lag" > 0.
+-Bots now opens shotable doors with any weapon except rocket launcher.
+-Fixed bug when bots trying to jump in combat when looking at enemy on
+moving plats (like on dm3 map).
+-Optimized path-finding.
+-Fixed issue when bots trying to get unreachable backpack when just
+killed enemy.
+-Added AI feature when bots trying to runaway when they think they
+loss in combat.
+
+
+30.10.2001
+===========
+--Reduced issue when bots rocketjumping in weird places.
+--Bots now check obstacles when trying to rocketjump.
+--Better using of air control.
+--Improved jump over ledge routine greatly
+--Added reporting of lost powerups (ring, quad) (thx ParboiL for
+idea).
+--Bots now can open shotable buttons and doors (thx numb!!).
+--Fixed some waypoints-related bugs.
+--Added more maps support.
+
+
+01.06.2001
+===========
+--Fixed issue with bots camping ability (when bots doesn't do anything
+while they camping and injured by other enemy; bots will always try
+now to improve their positions).
+--Fixed some swimming-related bugs.
+--Fixed "random map rotation" bug.
+--Fixed serious lavajumping-related bug. Bots now will perform
+lavajumps perfectly.
+--Bots no more jumping in combat when they uses shaft.
+--Better using of air control when jumping or rocketjumping.
+--Added 4 maps support: bless, amphi, spinev2, ztndm2(bad
+waypoints..), ztndm6.
+--Removed skill calculations when creating logfiles for uselessness.
+
+21.03.2001
+===========
+--Rewritten e1m2 markers (fixed blunders and added water way and
+rocketjumps)
+--All shotable doors in e1m2 are always open by default :). This is
+temp. fix until I' ll develop something better..
+--Further cpu optimizations.
+--Fixed another RJ bug when bots using SHAFT instead of RL when they
+doing rocketjumps :).
+
+
+19.03.2001
+===========
+--Released winquake version.
+--Added random map rotations on changelevel. Look at 'server.ini'.
+--Improved water code: (thx numb)
+- bots now have limited understanding of "air supply"
+- bots won't get stuck as easily when underwater
+- much better obstacle avoidance
+--Added 'spectator' on scoreboard (also resolved some bugz with
+calculating scores). Appears when using 'creepcam' or 'kascam' modes.
+--Started writting arena mode scoreboard. Not finished so far.. There
+will be a 'status' bar showing bots status when bots is dead
+(invisible) or alive. Like in CounterStrike HalfLife mod. :)
+--Fixed some bug with logging.
+--Removed single-player menu access in exe :).
+--If loc-file not loaded bots will report everything but locations.
+--Fixed serious rocketjump bug in bot AI. Bot will rocketjump a little
+bit rarely, but they won't just stay and do nothing.
+--Fixed some bugs with dm3 markers.
+--'Higher ground' feature works better.
+--Added ~60 maps support (see SUPPORTED MAPS section).Some markers are
+really old (without rj).
+--Faster QC-Access. (thx quakeforge guys)
+--Various optimizations.
+
+
+19.01.2001
+==================
+-First public release.
+
+===============
+BUGS REPORTING
+===============
+
+If you found bug please send me notification to my email
+dms...@mailru.com.

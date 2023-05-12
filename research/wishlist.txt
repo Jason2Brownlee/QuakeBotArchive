@@ -23,7 +23,6 @@
 
 
 # files we know/expect to exist
-combination.zip
 abandon1.zip
 accuracy.zip
 bgadmbot.zip
@@ -31,6 +30,7 @@ bm116se.zip
 bm116src.zip
 bm119gl.zip
 bm121.zip
+bm121r3.zip
 botmove.zip
 Bots_Quad_Hunt.zip
 botskn12.zip
@@ -52,6 +52,7 @@ clanbotv0.9b.zip
 clanv0.5auto.zip
 clanv0.6auto.zip
 clanv0.7hman.zip
+combination.zip
 ctfbotmw.zip
 cujo12.zip
 cujo12a.zip
@@ -230,6 +231,7 @@ maniacbt12.zip
 monsterfbxid1waysv2.zip
 mpak1v12.zip
 mybot14.zip
+mymod7.zip
 nnctf.zip
 nnsource.zip
 notlpb_fbca.zip
