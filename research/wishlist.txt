@@ -23,6 +23,9 @@
 
 
 # files we know/expect to exist
+gb026b.zip
+gb025rb.zip
+gb025b.zip
 abandon1.zip
 accuracy.zip
 bgadmbot.zip

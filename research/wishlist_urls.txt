@@ -194,8 +194,6 @@ http://railgun.macquakeinfinity.com/downloads/fbctf026.zip
 http://railgun.macquakeinfinity.com/downloads/fbctf030.zip
 http://railgun.macquakeinfinity.com/downloads/mac_hwbot003b7final.sit.bin
 http://rapidshare.com/files/23106684/orion_bots.zip.html
-http://redwood.gatsbyhouse.com/quake/files/B75chg.txt
-http://se.aminet.net/pub/aminet/game/patch/frogbot.lha
 http://shub-hub.com/files/mods_multiplayer/dp_orionbot.zip
 http://shub-hub.quaddicted.com/files/mods_multiplayer/monsterFBXID1waysV2.zip
 http://shub-hub.quaddicted.com/files/mods_multiplayer/orionbots_v3_ra.zip
@@ -225,6 +223,9 @@ http://tux.telefragged.com/file.pl?filename=hw_frogbot14.zip
 http://tux.telefragged.com/file.pl?filename=hw_frogbot14.zip&dir=telefragged/be/fmods/
 http://tux.telefragged.com/file.pl?filename=maniacbt12.zip
 http://tux.telefragged.com/file.pl?filename=vicinity/vicinitymodels.zip%26dir=telefragged/be/fmods
+http://tux.telefragged.com/file.pl?filename=vicinity/vicinitymodels.zip&dir=telefragged/be/fmods/
+http://tux.telefragged.com/file.pl?filename=vicinity/vicinityqwprogs.zip&dir=telefragged/be/fmods/
+http://tux.telefragged.com/file.pl?filename=vicinity/vicinitysource.zip&dir=telefragged/be/fmods/
 http://web.ukonline.co.uk/johnc/oak0855.zip
 http://web.ukonline.co.uk/Members/jc.burton/iwbot2.zip
 http://www.3ddownloads.com/?file_id=159654
@@ -242,9 +243,9 @@ http://www.3ddownloads.com/showfile.php3?filename=maniacbt12.zip
 http://www.3ddownloads.com/showfile.php3?filename=motd.zip
 http://www.3ddownloads.com/showfile.php3?filename=mpak1v12.zip
 http://www.3ddownloads.com/showfile.php3?filename=stfm10.zip
-http://www.3ddownloads.com/showfile.php3?filename=vicinity/vicinitymodels.zip&directory=/telefragged/be/fmods
-http://www.3ddownloads.com/showfile.php3?filename=vicinity/vicinityqwprogs.zip&directory=/telefragged/be/fmods
-http://www.3ddownloads.com/showfile.php3?filename=vicinity/vicinitysource.zip&directory=/telefragged/be/fmods
+http://www.3ddownloads.com/showfile.php3?filename=vicinity/vicinitymodels.zip&directory=/telefragged/be/fmods/
+http://www.3ddownloads.com/showfile.php3?filename=vicinity/vicinityqwprogs.zip&directory=/telefragged/be/fmods/
+http://www.3ddownloads.com/showfile.php3?filename=vicinity/vicinitysource.zip&directory=/telefragged/be/fmods/
 http://www.3ddownloads.com/telefragged/metro/frogbot012.zip
 http://www.acc.umu.se/~khol/bandem.zip
 http://www.acc.umu.se/~khol/Combination.zip
@@ -345,6 +346,7 @@ http://www.telefragged.com/mirrors/mirror.pl?be/fmods/Accuracy.zip
 http://www.telefragged.com/mirrors/mirror.pl?be/fmods/demos/frogbot_demo.zip
 http://www.telefragged.com/mirrors/mirror.pl?be/fmods/fbarena050.zip
 http://www.telefragged.com/mirrors/mirror.pl?be/fmods/hwqwbot.zip
+http://www.telefragged.com/mirrors/mirror.pl?be/fmods/qc/frog_src.zip
 http://www.telefragged.com/mirrors/mirror.pl?epidemic/frogbot012.zip
 http://www.telefragged.com/mirrors/mirror.pl?epidemic/frogbot012a.zip
 http://www.telefragged.com/mirrors/mirror.pl?epidemic/frogbot012b.zip
@@ -364,3 +366,4 @@ http://xmark.ausgamers.com/xkteams/xkteams1705.zip
 http://xmark.ausgamers.com/xkteams/xkteams1705s.zip
 http://xmark.ausgamers.com/xkteams/xkteams2.zip
 http://zemp.free.fr/qw/fbca094kt.zip
+

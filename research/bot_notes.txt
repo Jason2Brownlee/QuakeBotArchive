@@ -1424,18 +1424,54 @@ Ric's Reaper Bots / Ric's Repas
 	impulse 205, works fine
 GlacierBot
 	http://planetquake.gamespy.com/quake1/indexa1df.html?start_from=91&category_id=2
+		https://web.archive.org/web/20170714035144/http://planetquake.gamespy.com/quake1/indexa1df.html?start_from=91&category_id=2
+		Monday, 13 May, 2002
+		IceDagger
+		GlacierBot
+		v0.27b
 	http://quake.thepitnetwork.com/icedagger/
-	by "icedagger"
-	https://web.archive.org/web/20020605085049/http://www.inside3d.com/?days=month
-	https://web.archive.org/web/20020605085049/http://ssj4death.condemned.com/gb/gb027b.zip
-	https://web.archive.org/web/20020805015135/http://forums.inside3d.com/showflat.pl?Board=Inside3D&Number=8035&page=0&view=collapsed&sb=5
-	https://web.archive.org/web/20020805015135/http://ssj4death.condemned.com/gb/gb027b.zip
-	may 2002
-	cannot locate a download
-	http://web.archive.org/web/20020706014001/http://www.quakepit.com:80/icedagger/news.htm
-	http://web.archive.org/web/20020716114929/http://www.quakepit.com:80/icedagger/files.htm
-	http://web.archive.org/web/20020716114929/http://ssj4death.condemned.com/gb/gb027b.zip
-	http://web.archive.org/web/20020716114929/http://ssj4death.condemned.com/gb/gbped10.zip
+		not archived
+	http://www.thepitnetwork.com/icedagger/
+	not archived
+	http://forums.inside3d.com/showprofile.pl?User=IceDagger&Number=2507&Board=Coding&what=showpost&page=&view=&mode=flat&sb=
+		https://web.archive.org/web/20030614222521/http://forums.inside3d.com/showprofile.pl?User=IceDagger&Number=2507&Board=Coding&what=showpost&page=&view=&mode=flat&sb=
+		Rainier Rapera
+		ralr@peak-two.uplb[nospam].edu.ph
+		ralr@peak-two.uplb.edu.ph
+	http://www.quake.pit.com/icedagger/
+		not archived
+	http://www.quakepit.com/icedagger
+		https://web.archive.org/web/20020612155316/http://www.quakepit.com/icedagger/
+		May 6, 2002
+		versions
+			0.27b, 0.26b, 0.25rb
+			gb027b.zip
+			gb026b.zip
+			gb025b.zip
+			gb025rb.zip
+		https://web.archive.org/web/20021001013835fw_/http://www.quakepit.com/icedagger/contact.htm
+			ralr@peak-two.uplb.edu.ph
+		https://web.archive.org/web/20020716114929fw_/http://www.quakepit.com/icedagger/files.htm
+			waypoints
+				...
+			bot
+			https://web.archive.org/web/20020716114929/http://coburn.condemned.com/files/icedagger/Demo1.zip
+			https://web.archive.org/web/20020716114929/http://ssj4death.condemned.com/gb/gb027b.zip
+			https://web.archive.org/web/20020716114929/http://ssj4death.condemned.com/gb/gbped10.zip
+	http://coburn.condemned.com/files/icedagger
+		not archived
+	http://ssj4death.condemned.com/gb/
+		not archived
+	http://www.inside3d.com/?days=month
+		https://web.archive.org/web/20020605085049/http://www.inside3d.com/?days=month
+		GlacierBot is OUT !
+		https://web.archive.org/web/20020605085049/http://ssj4death.condemned.com/gb/gb027b.zip
+		https://web.archive.org/web/20020605085049/http://ssj4death.condemned.com/gb/gbped10.zip
+	http://forums.inside3d.com/showflat.pl?Board=Inside3D&Number=8035&page=0&view=collapsed&sb=5
+		https://web.archive.org/web/20020805015135/http://forums.inside3d.com/showflat.pl?Board=Inside3D&Number=8035&page=0&view=collapsed&sb=5
+		https://web.archive.org/web/20020805015135/http://quake.thepitnetwork.com/icedagger/
+		https://web.archive.org/web/20020805015135/http://ssj4death.condemned.com/gb/gb027b.zip
+		https://web.archive.org/web/20020805015135/http://ssj4death.condemned.com/gb/gbped10.zip
 JBot
 	http://www.phlamethrower.co.uk/quake/
 	http://www.phlamethrower.co.uk/quake/jbot.zip
