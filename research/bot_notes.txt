@@ -2212,14 +2212,6 @@ Khol's FMODS
 			https://web.archive.org/web/19990908181614/http://home.bip.net/khol/quaddem.zip
 			https://web.archive.org/web/19990908181614/http://www.acc.umu.se/~khol/StaticQuad.zip
 			https://web.archive.org/web/19990908181614/http://home.bip.net/khol/StaticQuad.zip
-	http://www.acc.umu.se/~khol/fsk/index.html
-		https://web.archive.org/web/20020103235532/http://www.acc.umu.se/~khol/fsk/index.html
-		Frogbot Startup Kit (FSK)
-		https://web.archive.org/web/20020103235532/http://www.acc.umu.se/~khol/fsk/fsk07.zip
-		http://www.3ddownloads.com/showfile.php3?filename=fsk07.zip&directory=/telefragged/be/fmods/other/
-		http://tux.telefragged.com/file.pl?filename=fsk07.zip%26dir=telefragged/be/fmods/other
-		prior versions v0.6, 0.5, 0.3, 0.2
-		khol@home.se
 	http://www.botepidemic.com/fmods/tut_khol.htm
 		https://web.archive.org/web/19991118022020/http://www.botepidemic.com/fmods/tut_khol.htm
 		Khol posted this short tutorial in the Quake Bot Board
@@ -2229,11 +2221,21 @@ Khol's FMODS
 		http://tux.telefragged.com/file.pl?filename=kfmod.zip&dir=telefragged/be/fmods/
 		http://www.3ddownloads.com/showfile.php3?filename=kfmod.zip
 		"Khol"
-	http://www.botepidemic.com/fmods/rvw_fsk.htm
-		https://web.archive.org/web/19990828142516/http://www.botepidemic.com/fmods/rvw_fsk.htm
 	http://www.botepidemic.com/fmods/rvw_kfmod.htm
 		https://web.archive.org/web/19990828150818/http://www.botepidemic.com/fmods/rvw_kfmod.htm
 	https://www.facebook.com/henrik.lind.712/
+Frogbot Startup Kit (FSK)
+	Henrik Lind aka "khol"
+	http://www.acc.umu.se/~khol/fsk/index.html
+		https://web.archive.org/web/20020103235532/http://www.acc.umu.se/~khol/fsk/index.html
+		Frogbot Startup Kit (FSK)
+		https://web.archive.org/web/20020103235532/http://www.acc.umu.se/~khol/fsk/fsk07.zip
+		http://www.3ddownloads.com/showfile.php3?filename=fsk07.zip&directory=/telefragged/be/fmods/other/
+		http://tux.telefragged.com/file.pl?filename=fsk07.zip%26dir=telefragged/be/fmods/other
+		prior versions v0.6, 0.5, 0.3, 0.2
+		khol@home.se
+	http://www.botepidemic.com/fmods/rvw_fsk.htm
+		https://web.archive.org/web/19990828142516/http://www.botepidemic.com/fmods/rvw_fsk.htm
 Motd FMOD
 	http://www.3ddownloads.com/showfile.php3?filename=motd.zip
 	Algirdas Kepezinskas aka "ZeCybEr"
