@@ -23,6 +23,7 @@
 
 
 # files we know/expect to exist
+combination.zip
 abandon1.zip
 accuracy.zip
 bgadmbot.zip
@@ -172,6 +173,12 @@ frogbot012.zip
 frogbot012a.zip
 frogbot012b.zip
 frogsvsp.zip
+fsk01.zip
+fsk02.zip
+fsk03.zip
+fsk04.zip
+fsk05.zip
+fsk06.zip
 gbped10.zip
 glqb17f.zip
 glyde.zip

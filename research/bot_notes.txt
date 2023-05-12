@@ -2110,12 +2110,36 @@ VeNgAb0T / Vengabot
 	fookbot extends frogbot
 	by "WuPP"
 	nothing on the web about these...
-Combination of all previous Khol's FMODS
-	http://www.3ddownloads.com/showfile.php3?filename=kfmod.zip
-	"Khol"
+Khol's FMODS
 	http://www.acc.umu.se/~khol/mods.html
-		https://web.archive.org/web/19991109165234/http://www.acc.umu.se/~khol/mods.html
+		https://web.archive.org/web/19990908181614/http://www.acc.umu.se/~khol/mods.html
 		Henrik Lind
+		khol@home.se
+		Umeå, Sweden
+		man fmods...
+		Combination of all my mods
+			https://web.archive.org/web/19990908181614/http://www.acc.umu.se/~khol/Combination.zip
+			https://web.archive.org/web/19990908181614/http://home.bip.net/khol/Combination.zip
+		MiscBan
+			https://web.archive.org/web/19990908181614/http://www.acc.umu.se/~khol/bandem.zip
+			https://web.archive.org/web/19990908181614/http://home.bip.net/khol/bandem.zip
+			https://web.archive.org/web/19990908181614/http://www.acc.umu.se/~khol/MiscBan.zip
+			https://web.archive.org/web/19990908181614/http://home.bip.net/khol/MiscBan.zip
+		RandomPower
+			https://web.archive.org/web/19990908181614/http://www.acc.umu.se/~khol/randomdem.zip
+			https://web.archive.org/web/19990908181614/http://home.bip.net/khol/randomdem.zip
+			https://web.archive.org/web/19990908181614/http://www.acc.umu.se/~khol/RandomPower.zip
+			https://web.archive.org/web/19990908181614/http://home.bip.net/khol/RandomPower.zip
+		MatchCount
+			https://web.archive.org/web/19990908181614/http://www.acc.umu.se/~khol/countdem.zip
+			https://web.archive.org/web/19990908181614/http://home.bip.net/khol/countdem.zip
+			https://web.archive.org/web/19990908181614/http://www.acc.umu.se/~khol/MatchCount.zip
+			https://web.archive.org/web/19990908181614/http://home.bip.net/khol/MatchCount.zip
+		StaticQuad and QuadSound
+			https://web.archive.org/web/19990908181614/http://www.acc.umu.se/~khol/quaddem.zip
+			https://web.archive.org/web/19990908181614/http://home.bip.net/khol/quaddem.zip
+			https://web.archive.org/web/19990908181614/http://www.acc.umu.se/~khol/StaticQuad.zip
+			https://web.archive.org/web/19990908181614/http://home.bip.net/khol/StaticQuad.zip
 	http://www.acc.umu.se/~khol/fsk/index.html
 		https://web.archive.org/web/20020103235532/http://www.acc.umu.se/~khol/fsk/index.html
 		Frogbot Startup Kit (FSK)
@@ -2124,6 +2148,20 @@ Combination of all previous Khol's FMODS
 		http://tux.telefragged.com/file.pl?filename=fsk07.zip%26dir=telefragged/be/fmods/other
 		prior versions v0.6, 0.5, 0.3, 0.2
 		khol@home.se
+	http://www.botepidemic.com/fmods/tut_khol.htm
+		https://web.archive.org/web/19991118022020/http://www.botepidemic.com/fmods/tut_khol.htm
+		Khol posted this short tutorial in the Quake Bot Board
+	http://www.botepidemic.com/fmods/mods.htm
+		https://web.archive.org/web/19991130145659/http://www.botepidemic.com/fmods/mods.htm
+		Combination of all previous Khol's FMODS
+		http://tux.telefragged.com/file.pl?filename=kfmod.zip&dir=telefragged/be/fmods/
+		http://www.3ddownloads.com/showfile.php3?filename=kfmod.zip
+		"Khol"
+	http://www.botepidemic.com/fmods/rvw_fsk.htm
+		https://web.archive.org/web/19990828142516/http://www.botepidemic.com/fmods/rvw_fsk.htm
+	http://www.botepidemic.com/fmods/rvw_kfmod.htm
+		https://web.archive.org/web/19990828150818/http://www.botepidemic.com/fmods/rvw_kfmod.htm
+	https://www.facebook.com/henrik.lind.712/
 Motd FMOD
 	http://www.3ddownloads.com/showfile.php3?filename=motd.zip
 	Algirdas Kepezinskas aka "ZeCybEr"
