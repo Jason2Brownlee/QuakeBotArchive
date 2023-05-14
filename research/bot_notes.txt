@@ -1472,6 +1472,31 @@ GlacierBot
 		https://web.archive.org/web/20020805015135/http://quake.thepitnetwork.com/icedagger/
 		https://web.archive.org/web/20020805015135/http://ssj4death.condemned.com/gb/gb027b.zip
 		https://web.archive.org/web/20020805015135/http://ssj4death.condemned.com/gb/gbped10.zip
+	gb027b.zip
+		Rainier "IceDagger" A.L. Rapera
+	http://peak-two.uplb.edu.ph/~ralr/prj/
+		https://web.archive.org/web/20021201092204/http://peak-two.uplb.edu.ph/~ralr/
+		https://web.archive.org/web/20021213175350/http://peak-two.uplb.edu.ph/~ralr/fv.htm
+			Rainier Alexis L. Rapera
+		https://web.archive.org/web/20021213222614/http://ssj4death.condemned.com/gb/gb027b.zip
+		https://web.archive.org/web/20021214004605/http://peak-two.uplb.edu.ph/~ralr/resume_css.htm
+			rainier@laguna.net
+		https://web.archive.org/web/20030222084117/http://peak-two.uplb.edu.ph/~ralr/glacier.htm
+		https://web.archive.org/web/20030222175443/http://peak-two.uplb.edu.ph/~ralr/gbdemo.zip
+		0.24b
+	versions
+		May 5, 2002: GlacierBot v0.27b
+		April 10, 2002: GlacierBot v0.26b (build 2)
+		April 1,2002: GlacierBot v0.26b (pre-release) April Fool!
+		March 14, 2002: GlacierBot v0.25b (Revision)
+		March 10, 2002: GlacierBot v0.25b
+		February 25, 2002: GlacierBot v0.24b
+		February 23, 2002: GlacierBot v0.23b
+		February 11, 2002: GlacierBot v0.20b
+		February 7, 2002: GlacierBot v0.18b
+		February 1, 2002: GlacierBot v0.12b
+		January 28, 2002: GlacierBot v0.11b
+		January 27, 2002: GlacierBot v0.1b
 JBot
 	http://www.phlamethrower.co.uk/quake/
 	http://www.phlamethrower.co.uk/quake/jbot.zip

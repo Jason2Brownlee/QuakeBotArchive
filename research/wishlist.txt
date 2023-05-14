@@ -23,9 +23,6 @@
 
 
 # files we know/expect to exist
-gb026b.zip
-gb025rb.zip
-gb025b.zip
 abandon1.zip
 accuracy.zip
 bgadmbot.zip
@@ -183,6 +180,16 @@ fsk03.zip
 fsk04.zip
 fsk05.zip
 fsk06.zip
+gb010b.zip
+gb011b.zip
+gb012b.zip
+gb018b.zip
+gb020b.zip
+gb024b.zip
+gb025b.zip
+gb025b.zip
+gb025rb.zip
+gb026b.zip
 gbped10.zip
 glqb17f.zip
 glyde.zip
