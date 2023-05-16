@@ -276,7 +276,7 @@ LoefBot | James Loe | loefsrc.zip<br>[loefbot5.zip](bin/loefbot5.zip)<br>loefbot
 mikeBot | Mike Warren | [mikeBot-0.41.tar.gz](bin/mikeBot-0.41.tar.gz)<br>[mikeBot.tar.gz](bin/mikeBot.tar.gz)<br>[mikeBot-devel.tar.gz](bin/mikeBot-devel.tar.gz)<br>[mikeBotPublic.tar.gz](bin/mikeBotPublic.tar.gz)<br>[mbcs040.zip](bin/mbcs040.zip)<br>mikebot95.zip<br>mikebot-linux.tar.gz<br>mikebot-sunos.tar.gz<br>mikebot-aix.tar.gz<br>mikebot-solaris.tar.gz<br>mikebot-irix.tar.gz<br>[mbcs031.zip](bin/mbcs031.zip)<br>[mbcs03.zip](bin/mbcs03.zip) ([txt](bin/mbcs03.txt))<br>[mbcs02.zip](bin/mbcs02.zip)
 Mystery Bot | Aaron Drew aka "ripper" | [mystery0.67.zip](bin/mystery0.67.zip)<br>[linux-elf-myst0.66.tar.gz](bin/linux-elf-myst0.66.tar.gz)
 PingBot | James Loe | pingsrc.zip<br>pingbot2.zip<br>[pingbot.zip](bin/pingbot.zip)
-Playmate | Aesir Clan | n/a
+Playmate | Nicklas Andersson aka "Nicke", Anders Lönn aka "Klonk", and Paul-Erik Törrönen aka "Poltsi" | [playmate.tar.gz](bin/playmate.tar.gz)
 Quake Client-Side Bot | "Mudge" | csbot6703.zip<br>csbot1.dem
 QuakeBot C/S | Jim Rorie and John Simmerman | [qbcsalph.zip](bin/qbcsalph.zip)<br>[qbcs082.zip](bin/qbcs082.zip)<br>[qbcs081.zip](bin/qbcs081.zip)<br>[qbcs080.zip](bin/qbcs080.zip)<br>[qbcs079.zip](bin/qbcs079.zip)<br>[qbcs075.zip](bin/qbcs075.zip)<br>[qbcs07.zip](bin/qbcs07.zip)
 QW Bot Project (GenBot) | Terry Hendrix aka "Mongoose" | quakeworld-20000102.tar.gz<br>[quakeworld-991230.tar.gz](bin/quakeworld-991230.tar.gz)<br>quakeworld-991229.tar.gz<br>[bug.qwd.gz](bin/bug.qwd.gz)<br>[qw-991226.tar.gz](bin/qw-991226.tar.gz)

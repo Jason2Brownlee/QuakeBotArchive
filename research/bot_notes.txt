@@ -2034,16 +2034,22 @@ BuddyBot / Buddy Bot
 	bbot_b1.zip
 	bbot_b11.zip
 	"Parsec"
-BR Bot
+BRBot
 	https://quakeone.com/forum/quake-talk/quake-central/283031-more-complete-archive-of-all-quake-1-bots
-	https://mega.nz/folder/cFR2BTSD#XjMQu42Qgk3L2xMI5iz-PQ
+		https://mega.nz/folder/cFR2BTSD#XjMQu42Qgk3L2xMI5iz-PQ
 	"DRaKuLL"
-	https://web.archive.org/web/19981206120258/http://www.virtualand.net/drakull/
+	drakull@usa.net
+	http://www.virtualand.net/drakull/
+		https://web.archive.org/web/19981206120258/http://www.virtualand.net/drakull/
+		https://web.archive.org/web/20010509075150/http://www.netpar.com.br/kingmob/arquivos/brbot.exe
+		drakull@libnet.com.br
 	brbot.7z
 	brbotqc.zip
-	https://web.archive.org/web/20010509075150/http://www.netpar.com.br/kingmob/arquivos/brbot.exe
 	https://obq.tripod.com/arquivosq.html
-	ftp://ftp.elogica.com.br/pub/warlock/brbot.exe
+		https://web.archive.org/web/20160207022909/https://obq.tripod.com/arquivosq.html
+		ftp://ftp.elogica.com.br/pub/warlock/brbot.exe
+	http://www.process.com.br/kq666
+		not archived
 Frogbot Deathmatch
 	fbdm012.zip
 	parboil
