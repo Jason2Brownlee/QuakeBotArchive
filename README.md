@@ -10,7 +10,7 @@ A [Quake bot modification](#quake-bot-list) (mod) is a third-party server-side m
 
 Quake bots represent a historical breakthrough in computer game artificial intelligence (e.g. opponents that act like human players) and are also a lot of fun to play (e.g. a multiplayer game that can be enjoyed as a single player game).
 
-Quake bots were mostly developed between 1996 and 2000 and were hosted on a tangle of third-party websites. Most of these websites have disappeared over the last 25 years, along with many bot mods themselves. **This is a terrible loss**!
+Quake bots were mostly developed between 1996 and 2000 and were hosted on a tangle of third-party websites. Most of these websites have disappeared over the last 25 years, along with many bots themselves. **This is a terrible loss**!
 
 This project seeks to (1) **locate**, (2) **archive**, and (3) **host** all versions of all Quake bots in their original distributed form.
 
