@@ -2,42 +2,6 @@ Quake Client-Side Bots - Research Notes
 
 --------------------------------------------------------------------------------
 
-Resources / Links
-	https://www.geocities.ws/oldquaker/pres1.html
-	http://www.stomped.com/quakebot/index.html
-		https://web.archive.org/web/19961121230808/http://www.stomped.com/quakebot/index.html
-	http://www.coe.uncc.edu/~jfrorie/QuakeBotLinks.htm
-		https://web.archive.org/web/19990220164340/http://www.coe.uncc.edu/~jfrorie/QuakeBotLinks.htm
-	https://www.bluesnews.com/guide/bots.htm
-		https://web.archive.org/web/20001101045454/http://www.bluesnews.com/guide/bots.htm
-	http://www.randars.com/bots/proxies.html
-	https://mrl.cs.nyu.edu/~perlin/bots/
-	http://www.slipgatecentral.com/Addons/Bots/
-		https://web.archive.org/web/19971210230311/http://www.slipgatecentral.com/Addons/Bots/
-	http://www.mindspring.com/~jamesloe/links.html
-		https://web.archive.org/web/19981205132339fw/http://www.mindspring.com/~jamesloe/links.html
-	https://webjc.com/zone51/jeux/Qbots3.htm
-	https://grahamrat.fortunecity.ws/
-	http://www.quakecas.freeservers.com/quake1news.htm
-	http://www.planetquake.com/mikebot/remote-resources.html
-		https://web.archive.org/web/19981201235331fw_/http://www.planetquake.com/mikebot/remote-resources.html
-	http://www-mddsp.enel.ucalgary.ca/People/dreveny/itchy/botlinks.html
-	https://www.geocities.ws/oldquaker/lairofquakebot/
-	http://graphics.stanford.edu/~quake/resources.html
-	http://www.botepidemic.com/bots/quake.shtml
-		https://web.archive.org/web/20000303070145/http://www.botepidemic.com/bots/quake.shtml
-	http://www.geocities.ws/cheatatquake/home.html
-	https://drive.google.com/drive/folders/12sgmo96ezEeZLie6SXjUunHRW78sCzhM
-	https://web.archive.org/web/20001212211500/http://www.gamescenter.de/uqc/proxy.htm
-		https://web.archive.org/web/20001212154800/http://www.gamescenter.de/uqc/download.htm
-	http://members.tripod.com/clanllama/
-		https://web.archive.org/web/19991002164058/http://members.tripod.com/clanllama/
-	https://grahamrat.fortunecity.ws/sites/links.html
-	http://www.ozemail.com.au/~kubikh/cheats.html
-		https://web.archive.org/web/20000229233502/http://www.ozemail.com.au/~kubikh/cheats.html
-	https://web.archive.org/web/20000930193403/http://plendl.iwarp.com/quake/proxys.htm
-
---------------------------------------------------------------------------------
 
 QuakeBot C/S
 	http://www.coe.uncc.edu/~jfrorie/quakebot.htm
@@ -436,6 +400,29 @@ SlugBot
 		https://www.geocities.ws/oldquaker/clanbot/files/termslugv1.30.zip
 		https://www.geocities.ws/oldquaker/clanbot/files/slugaxbotVh.zip
 		https://www.geocities.ws/oldquaker/clanbot/files/slugaxbot.zip
+	clanslug@bigpond.com
+	]]slug[[
+	http://www.users.bigpond.com/clanslug/
+		not all archived
+			http://www.users.bigpond.com/clanslug/termslugv1.30.zip
+			http://www.users.bigpond.com/clanslug/slugaxbot.zip
+			http://www.users.bigpond.com/clanslug/slugaxbotVh.zip
+	steam
+		https://steamcommunity.com/profiles/76561198059667908
+		https://steamcommunity.com/profiles/76561198059667908/posthistory/
+	http://planetquake.gamespy.com/View790d.html?view=Guides.Detail&id=64&game=4
+		Brian "Slug" McDonald
+			Brian McDonald aka "Slug"
+		slug8@juno.com
+	https://groups.google.com/g/alt.games.quake3/c/wWzzqMu4LkY/m/JLlL4SLrjwYJ
+		SLUGBOT
+		13 Oct 2005,
+	https://groups.google.com/g/alt.games.quake3/c/QOBqEz8Sfh8/m/p_YLweUGjPAJ
+		SLUGBOT
+		8 Nov 2003
+	https://groups.google.com/g/alt.games.quake3/c/2GTh_FSYlSk/m/sUYEkIWkOuUJ
+		http://vectrox.com/quake/ForumBoard/list.php?f=1
+		http://www.users.bigpond.com/clanslug/clanbot.htm
 HPB Proxy
 	http://www-mddsp.enel.ucalgary.ca/People/dreveny/hpb/index.html
 		http://www-mddsp.enel.ucalgary.ca/People/dreveny/hpb/hpb-proxy-0.992b-linux.tar.gz
@@ -534,14 +521,6 @@ SeismoBot
 		http://www.quakehole.com/files/misc/seismo15.zip
 	usenet
 		https://groups.google.com/g/rec.games.computer.quake.playing/c/mVu5XrSmJkI/m/Z1PVye8t3kQJ
-
-
-
-
---------------------------------------------------------------------------------
-Not enough info
-
-
 Playmate / AE_playmate / Clan Æsir Playmate Project
 	https://www.bluesnews.com/archives/august96.html
 	http://www.tf.hut.fi/~ath/Aesir/bot.html
@@ -555,7 +534,15 @@ Playmate / AE_playmate / Clan Æsir Playmate Project
 	https://www.quakeworld.nu/wiki/Playmate_(bot)
 	https://www.quakeworld.nu/wiki/AEsir
 	https://poltsi.fi/Archives/Aesir/bot.html
-	???
+	received a copy of code from authors (2023)
+
+
+
+--------------------------------------------------------------------------------
+Not enough info
+
+
+
 Itchy QuakeBot
 	http://www-mddsp.enel.ucalgary.ca/People/dreveny/itchy/index.html
 		Chad Dreveny
@@ -605,14 +592,29 @@ JavaBot
 		https://www.linkedin.com/in/benswartzlander/
 	???
 LlamaBot
-	https://web.archive.org/web/19990220164340/http://www.coe.uncc.edu/~jfrorie/QuakeBotLinks.htm
 	http://www.netside.com/~csbailey/quake/
+		not archived
+	http://www.netside.com/~csbailey
+		not archived
+	http://www.ccsi.net/~csbailey
+		not archived
+	http://www.bwnit.com/~csbailey
 		not archived
 	https://www.adamspiers.org/computing/quake/
 		http://www.netside.com/~csbailey/quake/
 	https://groups.google.com/g/alt.games.descent/c/3gLtZ3OYPgw/m/udCeUczqUMgJ
 		Chris Bailey
-	Not a real bot?
+	https://quakeone.com/forum/quake-help/general-help/6337-old-school-bot
+		... There was also another bot that was similar called "LlamaBot" that was alot like Mystery Bot ...
+	https://www.adamspiers.org/computing/quake/
+		http://www.netside.com/~csbailey/quake/
+		"Entertainment"
+	http://www.coe.uncc.edu/~jfrorie/QuakeBotLinks.htm
+		https://web.archive.org/web/19990220164340/http://www.coe.uncc.edu/~jfrorie/QuakeBotLinks.htm
+		https://web.archive.org/web/19990220164340/http://www.netside.com/~csbailey/quake/
+	https://groups.google.com/g/iinet.general/c/qIVVxE_51qo/m/SUBSHxGmteUJ
+		llamabot features...
+	satire I think...
 	???
 QWProxy
 	https://botsquake.fortunecity.ws/
@@ -625,10 +627,6 @@ Nebubot
 	http://members.tripod.com/tf_cheats/autoaim.html
 		https://web.archive.org/web/20020911073803/http://members.tripod.com/tf_cheats/autoaim.html
 		"rip of the Kl33n3x bot, which contains a virus"
-Quake client bot
-	http://granttheant.com/products/quakebot/
-	Grant Davies
-	emailed and asked for a version...
 CamlBot
 	Olivier Montanuy
 	https://groups.google.com/g/rec.games.computer.quake.misc/c/Sw9EBspCsKE/m/Oiur1q2eJFoJ
@@ -640,4 +638,42 @@ CamlBot
 	     parts of the Quake World protocol and has links to the author's QW
 	     proxy, CamlBot.""
 	???
+
+--------------------------------------------------------------------------------
+
+Resources / Links
+	https://www.geocities.ws/oldquaker/pres1.html
+	http://www.stomped.com/quakebot/index.html
+		https://web.archive.org/web/19961121230808/http://www.stomped.com/quakebot/index.html
+	http://www.coe.uncc.edu/~jfrorie/QuakeBotLinks.htm
+		https://web.archive.org/web/19990220164340/http://www.coe.uncc.edu/~jfrorie/QuakeBotLinks.htm
+	https://www.bluesnews.com/guide/bots.htm
+		https://web.archive.org/web/20001101045454/http://www.bluesnews.com/guide/bots.htm
+	http://www.randars.com/bots/proxies.html
+	https://mrl.cs.nyu.edu/~perlin/bots/
+	http://www.slipgatecentral.com/Addons/Bots/
+		https://web.archive.org/web/19971210230311/http://www.slipgatecentral.com/Addons/Bots/
+	http://www.mindspring.com/~jamesloe/links.html
+		https://web.archive.org/web/19981205132339fw/http://www.mindspring.com/~jamesloe/links.html
+	https://webjc.com/zone51/jeux/Qbots3.htm
+	https://grahamrat.fortunecity.ws/
+	http://www.quakecas.freeservers.com/quake1news.htm
+	http://www.planetquake.com/mikebot/remote-resources.html
+		https://web.archive.org/web/19981201235331fw_/http://www.planetquake.com/mikebot/remote-resources.html
+	http://www-mddsp.enel.ucalgary.ca/People/dreveny/itchy/botlinks.html
+	https://www.geocities.ws/oldquaker/lairofquakebot/
+	http://graphics.stanford.edu/~quake/resources.html
+	http://www.botepidemic.com/bots/quake.shtml
+		https://web.archive.org/web/20000303070145/http://www.botepidemic.com/bots/quake.shtml
+	http://www.geocities.ws/cheatatquake/home.html
+	https://drive.google.com/drive/folders/12sgmo96ezEeZLie6SXjUunHRW78sCzhM
+	https://web.archive.org/web/20001212211500/http://www.gamescenter.de/uqc/proxy.htm
+		https://web.archive.org/web/20001212154800/http://www.gamescenter.de/uqc/download.htm
+	http://members.tripod.com/clanllama/
+		https://web.archive.org/web/19991002164058/http://members.tripod.com/clanllama/
+	https://grahamrat.fortunecity.ws/sites/links.html
+	http://www.ozemail.com.au/~kubikh/cheats.html
+		https://web.archive.org/web/20000229233502/http://www.ozemail.com.au/~kubikh/cheats.html
+	https://web.archive.org/web/20000930193403/http://plendl.iwarp.com/quake/proxys.htm
+
 

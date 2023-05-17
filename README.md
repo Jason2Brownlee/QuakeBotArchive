@@ -56,7 +56,7 @@ BotSkin | Warren Cheung aka "WACko" | [btskn22.zip](bin/btskn22.zip) ([txt](bin/
 BrBot (Reaper) | "DRaKuLL" | [brbot.7z](bin/brbot.7z) <br>[brbotqc.zip](bin/brbotqc.zip)<br>[brbot.exe](bin/brbot.exe)
 BuddyBot | Chris Steegmans aka "Parsec" | [bbot_b1.zip](bin/bbot_b1.zip) <br>[bbot_b11.zip](bin/bbot_b11.zip)
 Catch The Shrimp | "SkinSki" | [shrimp.zip](bin/shrimp.zip)
-ClanBots | "slug" | [clanbotv0.9d.zip](bin/clanbotv0.9d.zip)<br>clanbotv0.9b.zip<br>clanv0.7hman.zip<br>clanv0.6auto.zip<br>clanv0.5auto.zip
+ClanBots | Brian McDonald aka "Slug" | [clanbotv0.9d.zip](bin/clanbotv0.9d.zip)<br>clanbotv0.9b.zip<br>clanv0.7hman.zip<br>clanv0.6auto.zip<br>clanv0.5auto.zip
 CoopBot | Michael Messina | coopbotx.zip<br>[coopbot3.zip](bin/coopbot3.zip)
 Cronos Bot | "Cronos" | [hd_cbots_hd.zip](bin/hd_cbots_hd.zip)<br>[hd_cbots.zip](bin/hd_cbots.zip)<br>[hd_pak0.zip](bin/hd_pak0.zip)<br>[hd_progs.zip](bin/hd_progs.zip)<br>[cronobot107a.zip](bin/cronobot107a.zip)<br>[cbotpak106.zip](bin/cbotpak106.zip)<br>[cronobot101.zip](bin/cronobot101.zip) ([txt](bin/cronobot.txt))<br>[cronobot_hard.zip](bin/cronobot_hard.zip)
 CTF Bot | Drew Davidson aka "BZ" | [ctfbot13b1.zip](bin/ctfbot13b1.zip) ([txt](bin/ctfbot13b1.txt))<br>[newctf12.zip](bin/newctf12.zip) ([txt](bin/newctf12.txt))<br>[ctfbot12.zip](bin/ctfbot12.zip) ([txt](bin/ctfbot12.txt))<br>[ctfbot11.zip](bin/ctfbot11.zip) ([txt](bin/ctfbot11.txt))
@@ -282,7 +282,7 @@ QuakeBot C/S | Jim Rorie and John Simmerman | [qbcsalph.zip](bin/qbcsalph.zip)<b
 QW Bot Project (GenBot) | Terry Hendrix aka "Mongoose" | quakeworld-20000102.tar.gz<br>[quakeworld-991230.tar.gz](bin/quakeworld-991230.tar.gz)<br>quakeworld-991229.tar.gz<br>[bug.qwd.gz](bin/bug.qwd.gz)<br>[qw-991226.tar.gz](bin/qw-991226.tar.gz)
 RichMark's QuakeBot | Rich Kroeker aka "RichMark" | qb17f.zip<br>wqb17f.zip<br>glqb17f.zip<br>qb17.zip<br>glqb17.zip<br>glqwb17.zip<br>wqb17.zip<br>glqbbeta.zip<br>wqb_beta.zip<br>[qb16g.zip](bin/qb16g.zip)<br>qb16src.zip<br>qb16.zip<br>qb15.zip<br>[qb1.zip](bin/qb1.zip)
 SeismoBot | Rob Furphy and Kevin Furphy | [seismo19.zip](bin/seismo19.zip) ([txt](bin/seismo19.txt))<br>seismo15.zip<br>seismo14.zip
-SlugBot | "slug" | [termslugv1.30.zip](bin/termslugv1.30.zip)<br>termslugv1.29.zip<br>termslugv1.28.zip<br>termslugv1.27.zip<br>[slugaxbotVh.zip](bin/slugaxbotVh.zip)<br>slugaxbotVf.zip<br>[slugaxbot.zip](bin/slugaxbot.zip)<br>termslug.zip
+SlugBot | Brian McDonald aka "Slug" | [termslugv1.30.zip](bin/termslugv1.30.zip)<br>termslugv1.29.zip<br>termslugv1.28.zip<br>termslugv1.27.zip<br>[slugaxbotVh.zip](bin/slugaxbotVh.zip)<br>slugaxbotVf.zip<br>[slugaxbot.zip](bin/slugaxbot.zip)<br>termslug.zip
 StoogeBot (SGQP) | Kekoa Proudfoot, Matthew Eldridge, and Craig Kolb | [winstoog.zip](bin/winstoog.zip) ([txt](bin/stoogebot.txt))<br>[linstooge.tar.gz](bin/linstooge.tar.gz)<br>[sgistooge.tar.gz](bin/sgistooge.tar.gz)
 tEdbot | Grant Davies aka "RUMble" and Ramanan Rajeswaran | navtest2.zip<br>[navtest1.zip](bin/navtest1.zip)
 Terminator Bot | Olivier Montanuy | trmbot96.zip ([txt](bin/trmbot96.txt))<br>[quake-termbot-0.96-1.i386.rpm](bin/quake-termbot-0.96-1.i386.rpm)<br>[quake-termbot-0.96-1.src.rpm](bin/quake-termbot-0.96-1.src.rpm)<br>termbot-src-096.tar.gz<br>[trmbot09.zip](bin/trmbot09.zip) ([txt](bin/trmbot09.txt))<br>[trmbot09.tgz](bin/trmbot09.tgz)<br>[botsrc09.zip](bin/botsrc09.zip)<br>[botsrc09.tgz](bin/botsrc09.tgz)<br>[trmbot08.zip](bin/trmbot08.zip) ([txt](bin/trmbot08.txt))<br>[botsrc08.zip](bin/botsrc08.zip)<br>trmbot07.zip
