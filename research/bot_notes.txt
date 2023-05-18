@@ -383,8 +383,26 @@ BGBot
 			bgbot15.zip
 			bgbot16.zip
 Cronos Bot / Cronosbot
+	http://www.clovenhoof.freeserve.co.uk/
+		https://web.archive.org/web/19991127073931/http://www.clovenhoof.freeserve.co.uk/
+			https://web.archive.org/web/19991127073931/http://www.planetquake.com/cronos/
+			cronos@clovenhoof.freeserve.co.uk
 	http://www.planetquake.com/cronos
-	https://web.archive.org/web/20000815211132if_/http://www.planetquake.com:80/cronos/
+		https://web.archive.org/web/20000815211132if_/http://www.planetquake.com:80/cronos/
+	https://web.archive.org/web/20041216152813if_/http://www.planetquake.com/cronos/
+		news -> source code
+		Update 28th July 2002
+		https://web.archive.org/web/20050112053556/http://dl.fileplanet.com/dl/dl.asp?cronos/hd_qcc.zip
+		https://web.archive.org/web/20050112053556/http://dl.fileplanet.com/dl/dl.asp?cronos/hd_cbots_hd.zip
+		https://web.archive.org/web/20050112053556/http://dl.fileplanet.com/dl/dl.asp?cronos/hd_hcbots.zip
+		https://web.archive.org/web/20050112053556/http://dl.fileplanet.com/dl/dl.asp?cronos/hd_cbots.zip
+		download
+		https://web.archive.org/web/20050112044123/http://dl.fileplanet.com/dl/dl.asp?cronos/hd_pak0.zip
+		https://web.archive.org/web/20050112044123/http://dl.fileplanet.com/dl/dl.asp?cronos/hd_progs.zip
+		https://web.archive.org/web/20050112044123/http://dl.fileplanet.com/dl/dl.asp?cronos/cronobot.zip
+		https://web.archive.org/web/20050112044123/http://dl.fileplanet.com/dl/dl.asp?cronos/cbotpak.zip
+		https://web.archive.org/web/20050112044123/http://dl.fileplanet.com/dl/dl.asp?cronos/ceqcc.zip
+	cronos@planetquake.com
 	https://www.quakewiki.net/archives/cronos/
 		mirror
 		http://dl.fileplanet.com/dl/dl.asp?cronos/hd_cbots_hd.zip
@@ -417,15 +435,15 @@ Cronos Bot / Cronosbot
 	https://dukeworld.com/planetquake/cronos/
 	https://web.archive.org/web/20100123221300/http://botepidemic.no-origin.net/quake.shtml.htm
 		lots of cronos bot news...
-	http://www.clovenhoof.freeserve.co.uk/
-	https://web.archive.org/web/19991127073931/http://www.clovenhoof.freeserve.co.uk/
-		cronos old page
 	there was an 0.5 release... it was the first release after the move to planet quake
 	https://web.archive.org/web/20020211234942/http://www.botepidemic.com/archives/4nov98-25nov98.shtml
 		?
 		Arwing
 		Chronobot
 		nope
+	http://dynamic.gamespy.com/~cronos/board/
+		https://web.archive.org/web/20000831090658/http://dynamic.gamespy.com/~cronos/board/
+		https://web.archive.org/web/20020612213456/http://dynamic.gamespy.com/~cronos/board/
 Oak Bot
 	https://dukeworld.com/idgames2/quakec/bots/oak0405.zip
 	https://www.quaddicted.com/files/idgames2/quakec/bots/oak0405.zip
