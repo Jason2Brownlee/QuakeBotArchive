@@ -2376,6 +2376,40 @@ Ultimate Regular Quake Patch (URQP)
 		http://tux.telefragged.com/file.pl?filename=urqp105.zip&dir=telefragged/inside3d/qip/q1/
 		http://www.inside3d.com/file.shtml?file=qip/q1/urqp105.zip
 		ftp://ftp.cdrom.com/pub/quake/quakec/compilations/urqp104a.zip
+	http://www.bigfoot.com/~maddes/
+		https://web.archive.org/web/20000312033927/http://www.bigfoot.com/~maddes/
+	http://www.geocities.com/TimesSquare/Battlefield/9325
+		n/a
+	http://www.egoshooters.com/qip
+		https://web.archive.org/web/19990220060900/http://www.egoshooters.com/qip
+		http://www.egoshooters.com/qip/files/urqp102.txt
+	http://www.gerbach.com/qip
+		https://web.archive.org/web/19990203104341fw_/http://www.gerbach.com/qip/
+	http://qip.home.ml.org/
+	http://www.deathsdoor.com/qip/
+	http://grc.quake2.com/qip/
+	http://qip.home.ml.org
+	https://groups.google.com/g/spk.file/c/K3lVtV-ubtI/m/F2V9u2gsJkEJ
+		URQP101.ZIP 923,516 Quake: - Maddes' Ultimate Regular Quake Patch Info:
+	http://www.quaketastic.com/files/misc/urqp106a.zip
+	https://www.quaketastic.com/files/misc/urqp106a.zip
+	https://qbism.com/download/file.php?id=21&sid=98d1cef9099bbfe8436d9dbddf49be57
+	https://www.moddb.com/games/quake/downloads/ultimate-quake-patch-v1-11
+	https://thegate.gamers.org/pub/idgames2/quakec/compilations/urqp104a.txt
+	https://thegate.gamers.org/pub/idgames2/quakec/compilations/urqp104a.zip
+	https://www.gamers.org/pub/idgames2/quakec/compilations/urqp104a.txt
+	https://www.gamers.org/pub/idgames2/quakec/compilations/urqp104a.zip
+	https://www.bluesnews.com/cgi-bin/blammo.pl?mode=archive&display=19990215&oneday=true
+	https://www.bluesnews.com/s/53/ultimate-regular-quake
+		Version 1.03 of the Ultimate Regular Quake Patch...
+		http://www.egoshooters.com/qip/
+	https://www.bluesnews.com/archives/feb98-1.html
+		Matthias "Maddes" Buecher sent along word of his Ultimate Regular Quake Patch 1.01
+		http://www.geocities.com/TimesSquare/Battlefield/9325/
+	https://www.celephais.net/board/view_thread.php?id=60978
+	http://www.atomicgamer.com/files/21049/ultimate-regular-quake-patch-1-06a-short-urqp
+		https://web.archive.org/web/20150729233927/http://www.atomicgamer.com/files/21049/ultimate-regular-quake-patch-1-06a-short-urqp
+		urqp106a.zip
 Frog + Quakeworld
 	Rich
 	qwsvfrog.zip

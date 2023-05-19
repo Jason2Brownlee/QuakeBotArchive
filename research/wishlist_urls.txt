@@ -17,12 +17,15 @@ ftp://ftp.cdrom.com/pub/quake/quakec/bots/doombot.zip
 ftp://ftp.cdrom.com/pub/quake/quakec/compilations/wyrmb15.zip
 ftp://ftp.cdrom.com/pub/quake/quakec/misc/req106a.zip
 ftp://ftp.compulink.co.uk/mirrors/ftp.cdrom.com/pub/planetquake/holywars/hwqwbotv101c.zip
+ftp://ftp.cybersol.com.au/pub/mirrors/telefragged/inside3d/qip/q1/urqp105beta.zip
 ftp://ftp.dragonfire.net/users/kkembel/QuakeC/bots/elim13.zip
 ftp://ftp.epix.net/pub/idgames2/planetquake/holywars/hwqwbotv101c.zip
 ftp://ftp.epix.net/pub/telefragged/be/fmods/Accuracy.zip
 ftp://ftp.epix.net/pub/telefragged/be/fmods/demos/frogbot_demo.zip
+ftp://ftp.gamezone.mweb.co.za/pub/mirrors/telefragged/inside3d/qip/q1/urqp105beta.zip
 ftp://ftp.grayphics.com/pub/frigid/botblast/obots101.hqx
 ftp://ftp.grayphics.com/pub/frigid/botblast/reaper08.sit.hqx
+ftp://ftp.hidden.org/pub/mirrors/telefragged/inside3d/qip/q1/urqp105beta.zip
 ftp://ftp.livewire.com.au/pub/planetquake/holywars/hwqwbotv101c.zip
 ftp://ftp.macquakeinfinity.com/numb/holywars/downloads/hw_frogbot.sit.bin
 ftp://ftp.macquakeinfinity.com/numb/holywars/downloads/hw_frogbot.zip
@@ -54,8 +57,10 @@ ftp://ftp.telepac.pt/pub/idgames2/telefragged/epidemic/frogbot012b.zip
 ftp://ftp.telepac.pt/pub/idgames2/telefragged/metro/frogbot007.zip
 ftp://ftp1.action.updates.cx/pub/mirrors/telefragged/be/fmods/Accuracy.zip
 ftp://ftp1.action.updates.cx/pub/mirrors/telefragged/be/fmods/demos/frogbot_demo.zip
+ftp://ftp2.3ddownloads.com/pub/telefragged/inside3d/qip/q1/urqp105beta.zip
 ftp://ftp2.action.updates.cx/pub/mirrors/telefragged/be/fmods/Accuracy.zip
 ftp://ftp2.action.updates.cx/pub/mirrors/telefragged/be/fmods/demos/frogbot_demo.zip
+ftp://ftp2.hidden.org/pub/mirrors/telefragged/inside3d/qip/q1/urqp105beta.zip
 ftp://ftp3.action.updates.cx/pub/mirrors/telefragged/be/fmods/Accuracy.zip
 ftp://ftp3.action.updates.cx/pub/mirrors/telefragged/be/fmods/demos/frogbot_demo.zip
 ftp://macquakeinfinity.com/numb/holywars/downloads/hw_frogbot.zip
@@ -172,6 +177,7 @@ http://parboil.quakeworld.ru/parboil/src_fbca092.zip
 http://parboil.quakeworld.ru/parboil/src_fbca100.zip
 http://parboil.quakeworld.ru/tappak/fbca102kt-rc1.zip
 http://peak-two.uplb.edu.ph/~ralr/gbdemo.zip
+http://pelit.saunalahti.fi/telenation/telefragged/inside3d/qip/q1/urqp105beta.zip
 http://perso.wanadoo.fr/montanuy/bot/trmbot96.zip
 http://pw2.netcom.com/~kroeker/glqb17.zip
 http://pw2.netcom.com/~kroeker/GLQBbeta.zip
@@ -211,6 +217,7 @@ http://tlb.quakedev.com/files/fbxways/variants/fbxpk.zip
 http://trinca.no.sapo.pt/temp/waypoints_maker.rar
 http://tux.telefragged.com/download.pl?dir=telefragged/be/&filename=intarena.zip&dl=local
 http://tux.telefragged.com/download.pl?dir=telefragged/be/&filename=interbotdm79z.zip&dl=local
+http://tux.telefragged.com/file.pl?dir=telefragged/inside3d/qip/q1/&filename=urqp105beta.zip
 http://tux.telefragged.com/file.pl?filename=darkfrog.zip&dir=telefragged/be/fmods/
 http://tux.telefragged.com/file.pl?filename=f2k001a.zip
 http://tux.telefragged.com/file.pl?filename=f2k001a.zip&dir=telefragged/be/fmods/
@@ -275,6 +282,8 @@ http://www.cdrom.com/pub/idgames2/quakec/bots/grdbot13.zip
 http://www.cdrom.com/pub/idgames2/quakec/bots/rbot.zip
 http://www.cdrom.com/pub/idgames2/quakec/compilations/proj1_13.txt
 http://www.cdrom.com/pub/idgames2/quakec/compilations/proj1_qw_12beta.zip
+http://www.cdrom.com/pub/idgames2/quakec/compilations/urqp10.zip
+http://www.cdrom.com/pub/idgames2/quakec/compilations/urqp101.zip
 http://www.converted2.com/bloodmage/junk/FBMOD.ZIP
 http://www.dmsoul.mailru.com/botmatch/bm119gl.zip
 http://www.dmsoul.mailru.com/botmatch/bm121.zip

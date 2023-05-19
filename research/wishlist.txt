@@ -346,6 +346,12 @@ udm15b.zip
 ufrog.zip
 ufrog_player_model.zip
 ultdet110.zip
+urqp10.zip
+urqp101.zip
+urqp102.zip
+urqp103.zip
+urqp104.zip
+urqp105beta.zip
 var10.zip
 var11.zip
 var12.zip
@@ -543,6 +549,10 @@ tfb-v076.txt
 udm12-15b.txt
 udm15-15b.txt
 udmsrc.txt
+urqp103.txt
+urqp104.txt
+urqp106.txt
+urqp106a.txt
 var10.txt
 var11.txt
 var12.txt
