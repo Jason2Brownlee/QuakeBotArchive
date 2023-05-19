@@ -2336,10 +2336,46 @@ Accuracy FMOD
 	http://www.3ddownloads.com/showfile.php3?filename=Accuracy.zip
 	Algirdas Kepezinskas aka "ZeCybEr"
 Ultimate Regular Quake Patch (URQP)
-	frikbots
-	https://www.quake-info-pool.net/home.htm
 	frikbots only added in last releases e.g. 1.06
-	perhaps not worth getting older versions?
+	https://www.quake-info-pool.net/home.htm
+		urqp10.zip, urqp101.zip, urqp102.zip, urqp103.zip
+		November 25, 2001
+			The most recognizable feature is the added FrikBot 0.10a
+			https://www.quake-info-pool.net/text/urqp104.txt
+			https://www.quake-info-pool.net/text/urqp103.txt
+			https://www.quake-info-pool.net/text/urqp101.txt
+	https://www.quake-info-pool.net/downloads.htm
+		https://www.quake-info-pool.net/files/
+		https://www.quake-info-pool.net/files/addons/_urqp106.zip.txt
+		https://www.quake-info-pool.net/files/addons/_urqp106a.zip.txt
+		https://www.quake-info-pool.net/files/addons/urqp106.zip
+		https://www.quake-info-pool.net/files/addons/urqp106a.zip
+		https://www.quake-info-pool.net/files/addons/old/_urqp102.txt
+		https://www.quake-info-pool.net/files/addons/old/urqp104a.zip
+		https://www.quake-info-pool.net/files/addons/old/urqp105.zip
+	http://idgames.gameaholic.com/idgames/quakec/compilations/urqp10.txt
+	http://idgames.gameaholic.com/idgames/quakec/compilations/urqp101.txt
+	https://web.archive.org/web/20000921181912/http://idgames.gameaholic.com/idgames/quakec/compilations/?D=A/urqp101.txt
+		https://web.archive.org/web/20000921181912/http://idgames.gameaholic.com/idgames/quakec/compilations/urqp10.txt
+		https://web.archive.org/web/20000921181912/http://idgames.gameaholic.com/idgames/quakec/compilations/urqp101.txt
+		https://web.archive.org/web/20000921181912/http://idgames.gameaholic.com/idgames/quakec/compilations/urqp102.txt
+		https://web.archive.org/web/20000921181912/http://idgames.gameaholic.com/idgames/quakec/compilations/urqp103.txt
+		https://web.archive.org/web/20000921181912/http://idgames.gameaholic.com/idgames/quakec/compilations/urqp104a.txt
+	http://tux.telefragged.com/file.pl?dir=telefragged/inside3d/qip/q1/&filename=urqp105beta.zip
+		https://web.archive.org/web/20000604212347/http://tux.telefragged.com/file.pl?dir=telefragged/inside3d/qip/q1/&filename=urqp105beta.zip
+	http://cdrom.com/pub/idgames2/quakec/compilations
+		https://web.archive.org/web/19980210215756/http://www.cdrom.com:80/pub/idgames2/quakec/compilations/
+		https://web.archive.org/web/19980210215756/http://www.cdrom.com:80/pub/idgames2/quakec/compilations/urqp10.zip
+		https://web.archive.org/web/19980210215756/http://www.cdrom.com:80/pub/idgames2/quakec/compilations/urqp101.zip
+	http://www.inside3d.com/qip
+		http://www.inside3d.com/qip/text/urqp104a.txt
+		http://www.inside3d.com/qip/text/urqp105.txt
+		http://www.inside3d.com/qip/text/urqp105beta.txt
+		http://tux.telefragged.com/file.pl?dir=telefragged/inside3d/qip/q1/&filename=urqp104a.zip
+		http://tux.telefragged.com/file.pl?dir=telefragged/inside3d/qip/q1/&filename=urqp105beta.zip
+		http://tux.telefragged.com/file.pl?filename=urqp105.zip&dir=telefragged/inside3d/qip/q1/
+		http://www.inside3d.com/file.shtml?file=qip/q1/urqp105.zip
+		ftp://ftp.cdrom.com/pub/quake/quakec/compilations/urqp104a.zip
 Frog + Quakeworld
 	Rich
 	qwsvfrog.zip

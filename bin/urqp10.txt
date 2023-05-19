@@ -1,0 +1,66 @@
+Title    : Maddes' Ultimate Regular Quake Patch
+Filename : urqp10.zip
+Version  : 1.00
+Date     : 1998-01-10
+Author   : Matthias "Maddes" Buecher
+Email    : Maddes@bigfoot.com
+Homepage : http://www.geocities.com/TimesSquare/Battlefield/9325
+
+Intention
+---------
+I wanted to fix all known bugs, have skin support and some other goodies which DO NOT change the regular gameplay.
+I read some tutorials on Inside 3D and the QuakeC Reference Manual, then started my patch from scratch to learn QuakeC.
+After finishing a working version I looked into the source of GLSkins plus MS Pro and changed or added something more.
+
+Features
+--------
+* Fish fix, fishes are no more counted twice for the total of monsters in a level
+* Thunderbolt fix, Quake will never switch automatically to the thunderbolt underwater when picking it up by weapon or backpack
+* Auto-aim toggle, each client can choose if he wants auto-aiming or not
+* Skin support, up to 32 skins are supported (32 skins also come within the pak file)
+  + Biosuit skin support (player gets this skin temporary as long he wears one, idea taken from MultiSkin Pro)
+* Works all in SinglePlayer, Coop and Deathmatch
+* Server-side only patch, clients should have a "player.mdl" with 32 skins, but not necessary
+
+How To Use The Patch
+--------------------
+Put "Pak2.pak" file in your QUAKE/ID1 directory, this is possible because gameplay isn't changed.
+Otherwise create a subdirectory within your QUAKE directory (e.g. QUAKE/URQP), place the pak file in it, name it "Pak0.pak" and don't forget to start quake with the "-game" parameter (e.g. "-game URQP").
+
+Use impulse 200 and 201 to select the next or previous skin.
+Use impulse 250 to toggle auto-aiming off or on.
+
+These are the standard impulses for the functions, maybe they were changed, but you will normally see them every time you respawn.
+
+Problems
+--------
+1)
+In SinglePlayer your auto-aim and skin settings will be reset to their values you had when entering the level the first time, because the server is restarted.
+There is no workaround for this, just check your settings before you leave any level (even on the start level).
+2)
+There are some bugs in the Quake executables (DOSQuake 1.08, WinQuake 1.0, GLQuake v0.97, I think MAC and Linux version also).
+The function "ftos()" returns a string with leading spaces when the converted float variable is non-integer and also cuts it off after the first decimal (e.g. "  0.9" for 0.93).
+The function "cvar_set()" sets the cvar to zero when the string value contains leading spaces.
+In conjunction these bugs do not allow to save a cvar, change it for a reason and set it to its previous value afterwards.
+Right now "sv_aim" will always be set to 0.93, but if the patch detects that saving/restoring cvars works it will take the value you set.
+3)
+GLQuake v0.97 has still problems displaying skins correctly.
+Dead player bodies loose their colors when the player respawns.
+When any client selects a skin which is not present each GLQuake client gets a disturbing message like "Invalid skin #".
+When a client's selected skin is not present and this client respawns his dead corpse get a messed up skin.
+
+You can find out more about bugs and QuakeC on my homepage.
+
+Thanks to
+---------
+id Software for making such a great game (http://www.idsoftware.com)
+Inside3D  for their great tutorials and news (http://www.inside3d.com)
+Dennis Noordsij  for being the "father" of all skin patches (http://web.inter.NL.net/users/L.J.Noordsij/qc.htm)
+Jason S  for pointing out how to keep skins on level changes (http://www.voicenet.com/~rewt)
+Brian Mair  for giving me the source of "MultiSkin Pro" and idea for the biosuit skin support
+Toni Wilen  for pointing out what to do to make skins work in previous GLQuakes
+The QuakeC Reference Manual for pointing out the used functions on respawn, connect and level changes (http://gue-tech.asee.org/quake/qcrm)
+All the guys who did these fine skins
+
+Have fun
+Maddes
