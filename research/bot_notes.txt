@@ -2410,6 +2410,8 @@ Ultimate Regular Quake Patch (URQP)
 	http://www.atomicgamer.com/files/21049/ultimate-regular-quake-patch-1-06a-short-urqp
 		https://web.archive.org/web/20150729233927/http://www.atomicgamer.com/files/21049/ultimate-regular-quake-patch-1-06a-short-urqp
 		urqp106a.zip
+	http://ftp.telepac.pt/pub/idgames2/quakec/compilations/urqp103.txt
+		https://web.archive.org/web/19990826122740/http://ftp.telepac.pt/pub/idgames2/quakec/compilations/urqp103.txt
 Frog + Quakeworld
 	Rich
 	qwsvfrog.zip

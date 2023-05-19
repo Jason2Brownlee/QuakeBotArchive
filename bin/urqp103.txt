@@ -1,0 +1,276 @@
+Title    : Ultimate Regular Quake Patch (short URQP)
+Filename : urqp103.zip
+Version  : 1.03
+Date     : 1999-02-14
+Author   : Matthias "Maddes" Buecher
+Email    : Maddes@bigfoot.com
+Homepage : http://www.egoshooters.com/qip/
+  or try : http://www.deathsdoor.com/qip/
+  or try : http://grc.quake2.com/qip/
+  or try : http://qip.home.ml.org
+
+cdrom.com: ftp://ftp.cdrom.com/pub/quake/quakec/compilations/
+           This file replaces all previous URQP files
+
+
+Intention
+=========
+I wanted to fix all known bugs, have skin support and some other goodies which DO NOT change the regular gameplay.
+I read some tutorials on Inside 3D and the QuakeC Reference Manual, then started my patch from scratch to learn QuakeC.
+After finishing a working version I looked into the source of GLSkins plus MS Pro and changed or added something more.
+The bug reports for my buglist helped me to make URQP nearly a perfect Quake.
+Later more and more additional features have been added to URQP, which also revealed some other bugs.
+
+If you want to know more about bugs in Quake and QuakeWorld, then check out the buglist on my homepage.
+And if you should find a bug in URQP, please mail me.
+
+The source is hidden in the pak file as always.
+
+Have fun
+Maddes
+
+
+How To Use The Patch
+====================
+Create a subdirectory within your QUAKE directory (e.g. QUAKE/URQP), place the pak file in it and don't forget to start Quake with the "-game" parameter (e.g. "-game URQP") and "-heapsize 12288" for Win/GLQuake or "-winmem 20" for DOSQuake (this necessary as the new data needs some space too).
+Or you can rename the pak file to "PAK2.PAK" and put it in your QUAKE/ID1 directory, this is possible because gameplay isn't changed.
+
+Use impulse 253 and 254 to get information about the possible impulses.
+Note that you different information depending on playing singleplayer/coop or deathmatch.
+These are the standard impulses for the functions, maybe they were changed, but you will normally see them every time you respawn.
+
+Many features, mostly deathmatch, can *only* be activated by setting the console variable "temp1" on the server.
+Just add the values of the wanted features, e.g. 512+1024 = 1536 for Drop Quad and Drop Ring
+// "TEMP1" bits:
+// first 16 bits: settings, which can *not* be set through impulses (mostly server)
+//  next 15 bits: settings, which can be set through impulses (mostly singleplayer/coop),
+//      last bit: sign bit, shouldn't be used
+//  0 =          1  Player skins +1
+//  1 =          2  Player skins +2
+//  2 =          4  Player skins +4
+//  3 =          8  Player skins +8
+//  4 =         16  Player skins +16
+//  5 =         32  Event skins
+//  6 =         64  Drowning doesn't hurt armor by Maddes/Athos
+//  7 =        128  Players can not carry weapons/ammo/armor between levels in deathmatch
+//  8 =        256  Map rotation (works with Quake 1.07 and later)
+//  9 =        512  Drop quad
+// 10 =       1024  Drop ring
+// 11 =       2048  Axe-only in deathmatch 4
+// 12 =       4096  (unused) reserved for URQP 1.04 (teleporting projectiles)
+// 13 =       8192  (unused) reserved for URQP 1.04 (spectator mode)
+// 14 =      16384  (unused) reserved for URQP 1.04 (monster deathmatch)
+// 15 =      32768  (unused) reserved for URQP 1.04 (box respawn)
+// 16 =      65536  (unused)
+// 17 =     131072  (unused)
+// 18 =     262144  (unused)
+// 19 =     524288  (unused)
+// 20 =    1048576  (unused)
+// 21 =    2097152  (unused)
+// 22 =    4194304  Transparent water for monsters
+// 23 =    8388608  Random skins for monsters by Maddes (idea by Jim "Tiger" Schmidt)
+// 24 =   16777216  Skins for monsters by Maddes +1 (idea by Jim "Tiger" Schmidt)
+// 25 =   33554432  Skins for monsters by Maddes +2 (idea by Jim "Tiger" Schmidt)
+// 26 =   67108864  (unused)
+// 27 =  134217728  (unused)
+// 28 =  268435456  (unused)
+// 29 =  536870912  (unused)
+// 30 = 1073741824  (unused)
+
+
+Map Rotation
+============
+As the console variable "saved1" is used, it only works with Quake 1.07 and later.
+Make sure you have map rotation enabled with bit 8 of the console variable "temp1".
+Also you need to specify a high value with the "-zone" parameter on startup, as the rotation uses a lot of aliases.
+
+Creating a map rotation:
+Define some aliases which set the needed flags, then change the level and set the follow level in "saved1"
+The last map of a rotation should point back to the first map.
+Here's a example for an two map rotation...
+alias "1" "deathmatch 1; timelimit 1; temp1 3; changelevel e1m1; saved1 2"
+alias "2" "deathmatch 4; timelimit 1; temp1 19; changelevel e1m8; saved1 1; sv_gravity 200"
+
+It's always a good idea to set *all* important variables ("deathmatch", "teamplay", "timelimit", "fraglimit", "temp1", "sv_gravity") before a level is loaded.
+Note the gravity change in the second alias, you can have all console commands at your proposal. By the way gravity 200 instead of 100 is fine for E1M8, you can reach everything and have better control.
+Another example with two map rotations are available in "mapalias.cfg".
+If "saved1" contains a non-existant alias, the game will react as normal when no map rotation is active.
+
+Starting a map rotation while in Quake:
+Just start a deathmatch game, execute the cfg file with the map aliases and call the first alias (=map) of a map rotation (e.g. "1" for the above example)
+
+Starting a map rotation when starting Quake (e.g. dedicated or listen server):
+You should put the following in a cfg file:
+  temp1 256		// enable map rotation (256)
+  saved1 1		// first map of loop
+  timelimit 0.05	// timelimit (3sec) hit immediately -> intermission -> rotation start
+  map start		// start server, changelevel doesn't work
+When starting Quake execute this cfg file (parameter: +exec <filename>), e.g. WINQUAKE.EXE -listen 16 -zone 2048 +exec mapalias.cfg +exec startsrv.cfg
+This will launch the start map, timelimit will be hit in 3 seconds and the intermission is running, when the first client connects the map rotation starts.
+When setting timelimit to zero, you can wait for all the players and exiting the level will start the map rotation.
+By the way a dedicated server without clients will "hang" in an intermission until a client connects, so do not wonder why your server does not rotate when no client is connected.
+
+Hints:
+You can change the map rotation directly on the fly, by redefining the aliases in the console. Or edit rotate.cfg and execute it again.
+You can also skip some maps or change to another map rotation by setting "saved1" to the desired alias (=map)
+
+
+Monster skins
+=============
+For this you need new .mdl files for the monsters.
+There are *no* monster skins included in URQP!!!
+Please read the "Problems" section about GLQuake and not present skins.
+
+
+Deathmatch 3, 4 and 5 modes
+===========================
+These deathmatch modes were taken from QuakeWorld.
+Unfortunately there were some mistakes in their implementation:
+
+Deathmatch 4 mode fixes:
+- Axe-only only recognized at level start, to avoid later respawning player being full equipped
+- No other weapons given in axe-only match anymore
+- Weapons from previous level are removed in axe-only matches
+- When a player electrocutes himself, he doesn't shoot for a short time anymore
+- Player is now electrocuted with <his cells>*35, and not 4000
+- When having OctaPower, players do not pick up armor anymore
+- Player gets 100 red armor back when OctaPower expires
+- Player keeps health if over 100, otherwise gets 100, when OctaPower expires
+- When getting bonus powers (octa+pent), armor is also removed because of OctaPower
+- Armor type is set correctly when OctaPower is taken or expires
+- Weapon changes when using LG and taking OctaPower
+- Backpacks are also dropped in axe-only matches
+- Giving shotgun plus 25 shells when level ends in axe-only matches, to avoid having no shotgun if next level is played in another deathmatch mode
+
+Deathmatch 5 mode problems:
+- Weapons stay removed as no weapons are spawned
+- Megahealth will no more rot their health to 100, when still having additional health from respawn
+- When a player electrocutes himself, he doesn't shoot for a short time anymore
+- Player is now electrocuted with <his cells>*35, and not 4000
+
+
+Problems
+========
+1)
+In SinglePlayer your auto-aim and skin settings will be reset to their values you had when entering the level the first time, because the server is restarted.
+There is no workaround for this, just check your settings before you leave any level (even on the start level).
+2)
+There are some bugs in the Quake executables (DOSQuake 1.08, WinQuake 1.0, GLQuake v0.97, I think MAC and Linux version also).
+The function "ftos()" returns a string with leading spaces when the converted float variable is non-integer and also cuts it off after the first decimal (e.g. "  0.9" for 0.93).
+The function "cvar_set()" sets the cvar to zero when the string value contains leading spaces.
+In conjunction these bugs do not allow to save a cvar, change it for a reason and set it to its previous value afterwards.
+Right now "sv_aim" will always be set to 0.93, but if the patch detects that saving/restoring cvars works it will take the value you set.
+3)
+GLQuake v0.97 has still problems displaying skins correctly.
+Dead player bodies loose their colors when the player respawns.
+When any client or monster (enitity) selects a skin which is not present each GLQuake client gets a disturbing message like "Invalid skin #<number>".
+When a client's selected skin is not present and this client respawns his dead corpse get a messed up skin.
+4)
+As walls do not protect you against a discharge, you can hit someone who is in the same liquid brush but in an isolated pool behind a wall.
+There's no way to find out about possible targets around a corner, to avoid this.
+
+You can find out more about bugs and QuakeC on my homepage.
+
+
+Thanks to
+=========
+* id Software for making such a great game (http://www.idsoftware.com)
+* Inside3D <news@inside3d.com> for their great tutorials and news (http://www.inside3d.com)
+* Robert "Frog" Field <frog@powerup.com.au> for reporting some bugs I didn't recognized before (http://www.telefragged.com/metro)
+* Dennis Noordsij for being the "father" of all skin patches (http://web.inter.NL.net/users/L.J.Noordsij/qc.htm)
+* Jason S. for pointing out how to keep skins on level changes (http://www.voicenet.com/~rewt)
+* Brian Mair <bmair@direct.ca> for giving me the source of "MultiSkin Pro" and idea for the biosuit skin support
+* Toni Wilen <twilen@id4.sci.fi> for pointing out what to do to make skins work in previous GLQuakes
+* The QuakeC Reference Manual for pointing out the used functions on respawn, connect and level changes (http://gue-tech.asee.org/quake/qcrm)
+* Yun Zheng "Zhenga" Hu <zhenga@zeelandnet.nl> for his bug reports and help on some problems
+* Daniel "Athos Kryn" Olsen <nihilsum@ccil.org> for his bug reports and help on some problems
+  http://www.geocities.com/SunsetStrip/Amphitheatre/9132
+* Nolan "Radix" Pflug <radix@planetquake.com> for his bug reports
+  http://www.planetquake.com/qdq/
+* Matt "DethWalker" Barnett <mbarnett@dial.pipex.com> for his improved plats movement
+* Patrick Martin <cmarti39@icon.net> for his fix with recursive "T_RadiusDamage()" calls (explo box fix)
+* Jonathan "Perged" Down <jdown@ns.sympatico.ca> for his bug reports
+  http://www.planetquake.com/eliminator/
+* Dave "Zoid" Kirsch <zoid@idsoftware.com> for being such a great guy and still providing stuff to the "Classic" Quake community
+  http://www.idsoftware.com
+* Christian "Disruptor" Antkow ("Xian") <xian@idsoftware.com>
+  http://www.idsoftware.com
+* Philip "Kryten" Martin <kryten@spyring.com> for his bug reports and help on some problems
+  http://www.geocities.com/Area51/Nebula/2345/
+* Rob "Anubis" Albin <albinatr@apci.net> for his detection of transparent water
+  http://www.apci.net/~albinatr/quake/
+* all the guys who did these fine skins
+
+
+Features (History)
+==================
+since Version 1.03
+* Fixed a bug for "Multiple megahealth rot down too fast fix by Maddes/Athos"
+* Doors no quad power fix by Zoid
+* Deathmatch mode 3, 4 and 5 by Zoid/Maddes
+* Drop Quad/Ring by Zoid
+* Option: Map rotation (works with Quake 1.07 and later)
+* Option: Players can not carry weapons/ammo/armor between levels in deathmatch
+* Option: Random or skill dependent skins for monsters (skins 0-3)
+* Samelevel fix in SinglePlayer
+* Incorrect frag sentence when a player disconnects fix
+* Palette shift during intermission fix
+* Improved weapon and powerup touch functions by Maddes/Sm�agol
+* Movetarget correction in monster start functions fix
+* Monster attack player on intermission points fix
+* A discharge will not hit entities outside the water
+* Some weapon name corrections by Athos
+* Monster can see through transparent water, only if r_wateralpha is < 0.7 at start of a level by Maddes/Anubis
+* Skill variable is not correctly set on worldspawn and can be changed through gameplay fix
+* Shalrath spawn start function call fix
+* No exclusive deathmessage for being killed by Chthon fix
+* Sliding/not-jumping on monsters/boxes/players fix by Maddes/Kryten
+* CanDamage fix by Maddes/Kryten
+* Two minute warning, starting at 10% of timelimit remaining but never before 2 minutes (inspired by an Inside3D tutorial)
+
+since Version 1.02
+* Improved weapon switching on pickup
+* Do not take unnecessary items but fire all targets
+* Monsters sometimes do not move fix by Perged
+* Improved bubble spawn
+* Reduced "Error: No Free Edicts" message by Perged
+* Constantly checking all impulses fix by Perged
+* Misc_FireBall default speed typo fix by Perged
+* Smoother plat movement by Matt Barnett
+* Multiple megahealth rots down too fast fix by Maddes/Athos
+* Player gulps bubbles when hurt in slime
+* Player drops backpack on suicide
+* Gibbable fishes by Maddes/Athos
+* Dying fishes not immediately non-solid fix by Maddes/Athos
+* Door unlock sound fix by Nolan Pflug
+* T_RadiusDamage workaround by Patrick Martin, fixes multiple exploding boxes
+* Centerprint with multiple strings by Zhenga
+* Shub kill count fix
+* Teamplay 1 fix, now you can hurt yourself as stated in the manual
+* Cheats coop fix, now impulse cheats work in Coop too
+* Suicide during intermission fix by Zhenga
+* Timelimit/Fraglimit fix, only recognized in deathmatch
+* Pentagram telefrag fix by Zoid/Maddes, players don't get stuck anymore
+* Wrong obituary messages fix by Zoid/Maddes
+* Palette shift when player dies with quad/pentagram fix
+* Glowing corpse of players which had quad/pentagram until respawn fix
+* Moving after respawn fix by Xian
+* Respawning where player died fix by Robert Field
+* Noexit SinglePlayer/Coop fix, "noexit" is only recognized in deathmatch
+* hurt_touch fix by Robert Field, now every player gets hurt every second in the RL zone of the "end" level
+* T_RadiusDamage workaround by Robert Field, this avoids that other players do not get hurt by splash damage, when the attacker dies through it
+* incorrect teleport workaround in E4M5 and start map, no more server crashes when jumping at top of the secret exit in E4M5
+* Noexit 3/4, acts like 1/2 but without dying
+* Rejecting client-side bots
+
+since Version 1.01
+* Episode fix, Quake will never remove your weapons and ammo on new episodes in deathmatch, but always in SinglePlayer/Coop
+
+since Version 1.00
+* Fish fix, fishes are no more counted twice for the total of monsters in a level
+* Thunderbolt fix, Quake will never switch automatically to the thunderbolt underwater when picking it up by weapon or backpack
+* Auto-aim toggle, each client can choose if he wants auto-aiming or not
+* Skin support, up to 32 skins are supported (32 skins also come within the pak file)
+  + Biosuit skin support (player gets this skin temporary as long he wears one, idea taken from MultiSkin Pro)
+* Everything works in SinglePlayer, Coop and Deathmatch
+* Server-side only patch, clients should have a "player.mdl" with 32 skins, but not necessary

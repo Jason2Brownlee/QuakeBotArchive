@@ -549,7 +549,6 @@ tfb-v076.txt
 udm12-15b.txt
 udm15-15b.txt
 udmsrc.txt
-urqp103.txt
 urqp104.txt
 urqp106.txt
 urqp106a.txt
