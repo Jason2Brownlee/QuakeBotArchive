@@ -14,11 +14,15 @@ ftp://ftp.cdrom.com/pub/quake/quakec/bots/btsk22.zip
 ftp://ftp.cdrom.com/pub/quake/quakec/bots/darkbt08.zip
 ftp://ftp.cdrom.com/pub/quake/quakec/bots/dmbt21b1.zip
 ftp://ftp.cdrom.com/pub/quake/quakec/bots/doombot.zip
+ftp://ftp.cdrom.com/pub/quake/quakec/compilations/urqp10.zip
+ftp://ftp.cdrom.com/pub/quake/quakec/compilations/urqp101.zip
+ftp://ftp.cdrom.com/pub/quake/quakec/compilations/urqp102.zip
 ftp://ftp.cdrom.com/pub/quake/quakec/compilations/wyrmb15.zip
 ftp://ftp.cdrom.com/pub/quake/quakec/misc/req106a.zip
 ftp://ftp.compulink.co.uk/mirrors/ftp.cdrom.com/pub/planetquake/holywars/hwqwbotv101c.zip
 ftp://ftp.cybersol.com.au/pub/mirrors/telefragged/inside3d/qip/q1/urqp105beta.zip
 ftp://ftp.dragonfire.net/users/kkembel/QuakeC/bots/elim13.zip
+ftp://ftp.egoshooters.com/pub/qip/urqp102.zip
 ftp://ftp.epix.net/pub/idgames2/planetquake/holywars/hwqwbotv101c.zip
 ftp://ftp.epix.net/pub/telefragged/be/fmods/Accuracy.zip
 ftp://ftp.epix.net/pub/telefragged/be/fmods/demos/frogbot_demo.zip
@@ -126,6 +130,8 @@ http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/holywars/hw_frogbot.zip
 http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/holywars/hwqwbot.exe
 http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/holywars/hwqwbot.sit
 http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/holywars/hwqwbot.zip
+http://ftp.telepac.pt/pub/idgames2/quakec/compilations/urqp102.zip
+http://ftp.telepac.pt/pub/idgames2/quakec/compilations/urqp103.zip
 http://ftp.telepac.pt/pub/idgames2/telefragged/metro/frogbot007.zip
 http://fubar.cstp.umkc.edu:80/quake/files/tballman097.zip
 http://geocities.com/timessquare/hangar/8961/sq12to13.zip
@@ -284,6 +290,9 @@ http://www.cdrom.com/pub/idgames2/quakec/compilations/proj1_13.txt
 http://www.cdrom.com/pub/idgames2/quakec/compilations/proj1_qw_12beta.zip
 http://www.cdrom.com/pub/idgames2/quakec/compilations/urqp10.zip
 http://www.cdrom.com/pub/idgames2/quakec/compilations/urqp101.zip
+http://www.cdrom.com/pub/quake/quakec/compilations/urqp10.zip
+http://www.cdrom.com/pub/quake/quakec/compilations/urqp101.zip
+http://www.cdrom.com/pub/quake/quakec/compilations/urqp102.zip
 http://www.converted2.com/bloodmage/junk/FBMOD.ZIP
 http://www.dmsoul.mailru.com/botmatch/bm119gl.zip
 http://www.dmsoul.mailru.com/botmatch/bm121.zip
@@ -292,6 +301,7 @@ http://www.dmsoul.newmail.ru/bm116se.zip
 http://www.dmsoul.newmail.ru/bm116src.zip
 http://www.dmsoul.newmail.ru/changes.txt
 http://www.dobbsnet.btinternet.co.uk/downloads/quake/dobbsbot15b.zip
+http://www.egoshooters.com/qip/files/urqp102.zip
 http://www.fileplanet.com/dl.aspx?/planetquake/botarea51/bot/elimpack.zip
 http://www.fileplanet.com/dl/dl.asp?/planetquake/botarea51/bot/elimpack.zip
 http://www.fileplanet.com/dl/dl.asp?/planetquake/botarea51/bot/progdet.zip
