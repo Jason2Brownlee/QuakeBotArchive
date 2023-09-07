@@ -1,4 +1,4 @@
-![Quake Books](research/QuakeBooks.png)
+![Quake Books](research/QuakeBotArchive.png)
 
 # Quake Bot Archive
 
