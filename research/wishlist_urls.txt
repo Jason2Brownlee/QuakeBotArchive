@@ -327,6 +327,7 @@ http://www.iinet.com.au/~cam/elim10.zip
 http://www.iinet.com.au/~cam/elim13.zip
 http://www.iinet.net.au/~den/sbotstuf.zip
 http://www.inside3d.com/files/frog_re2.zip
+http://www.inside3d.com/qip/text/urqp104.txt
 http://www.isleofmull56.freeserve.co.uk/paddybot.zip
 http://www.mindspring.com/~darkskye/files/darkbt09.zip
 http://www.miteksys.com/death/abandon1.zip
@@ -386,4 +387,5 @@ http://xmark.ausgamers.com/xkteams/xkteams1705.zip
 http://xmark.ausgamers.com/xkteams/xkteams1705s.zip
 http://xmark.ausgamers.com/xkteams/xkteams2.zip
 http://zemp.free.fr/qw/fbca094kt.zip
+https://www.quake-info-pool.net/text/urqp104.txt
 

@@ -2375,6 +2375,11 @@ Ultimate Regular Quake Patch (URQP)
 		http://tux.telefragged.com/file.pl?filename=urqp105.zip&dir=telefragged/inside3d/qip/q1/
 		http://www.inside3d.com/file.shtml?file=qip/q1/urqp105.zip
 		ftp://ftp.cdrom.com/pub/quake/quakec/compilations/urqp104a.zip
+		https://web.archive.org/web/20000302194448/http://www.inside3d.com/qip/downloads.htm
+			https://web.archive.org/web/20000302194448/http://tux.telefragged.com/file.pl?dir=telefragged/inside3d/qip/q1/&filename=urqp104a.zip
+				http://tux.telefragged.com/file.pl?dir=telefragged/inside3d/qip/q1/&filename=urqp105beta.zip
+			https://web.archive.org/web/20010212081908/http://www.inside3d.com/qip/news1999.htm
+				http://www.inside3d.com/qip/text/urqp104.txt
 	http://www.bigfoot.com/~maddes/
 		https://web.archive.org/web/20000312033927/http://www.bigfoot.com/~maddes/
 	http://www.geocities.com/TimesSquare/Battlefield/9325
@@ -2520,6 +2525,9 @@ Vari-Patch
 	www.btinternet.com/~chris.r.millward
 		https://web.archive.org/web/20010516012952/http://www.btinternet.com/~chris.r.millward/
 		https://web.archive.org/web/19981205215224/http://www.btinternet.com/~chris.r.millward/chris/quake.htm
+			http://www.btinternet.com/~chris.r.millward/chris/var25.zip
+			http://www.btinternet.com/~chris.r.millward/chris/var25.txt
+			04/03/97
 cujgrap / Cujo and Grapple
 	extends cujo
 	https://www.dukeworld.com/idgames2/quakec/compilations/cujgrap.txt

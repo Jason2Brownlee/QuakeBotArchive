@@ -1,3 +1,5 @@
+![Quake Books](research/QuakeBooks.png)
+
 # Quake Bot Archive
 
 The goal of this project is to archive **all versions** of **all Quake bots**.

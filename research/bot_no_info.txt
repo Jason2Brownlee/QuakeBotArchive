@@ -13,6 +13,7 @@ hellbot ?
 	http://www.angelfire.com/pa2/hellbot/
 	Shawn F
 	Nothing on the web about this...
+	https://www.reddit.com/r/quake/comments/15l7tum/quake_c_bots_where_are_we_now/
 	?
 Goatbot
 	https://webjc.com/zone51/jeux/Qbots3.htm
