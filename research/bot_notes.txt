@@ -3395,6 +3395,13 @@ FrogSvsP
 	clan support for frogbot
 	Lars "LaFFiniuM" Fischer
 	multiple versions...
+mikbot
+	2002
+	Michael "c0burn" Coburn
+	mikbot.zip
+	provided by the author
+	"source code lost"
+	it is tutor derived
 
 
 

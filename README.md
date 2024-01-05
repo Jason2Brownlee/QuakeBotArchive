@@ -162,6 +162,7 @@ MaNiAc's FMOD (Frogbot) | Michael Turitzin aka "MaNiAc" | [lagmod.zip](bin/lagmo
 MaNiAcBot | Michael Turitzin aka "MaNiAc" | [maniacbt.zip](bin/maniacbt.zip) ([txt](bin/maniacbt.txt))<br>maniacbt12.zip<br>fbmod.zip
 Mathfrag (Frikbot) | Khin Mannering aka "Dr. Shadowborg" | [mlx20b.zip](bin/mlx20.zip)
 MegaBot | "Vic" | [megabot.zip](bin/megabot.zip)
+MickBot | Michael Coburn aka "c0burn" | [mickbot.zip](bin/mickbot.zip)
 Midair Bots | Benjamin Darling aka "Electro" and "Vomit" | [midair_qwbot.rar](bin/midair_qwbot.rar)<br>[midairbots_all.zip](bin/midairbots_all.zip)<br>[midairbots.zip](bin/midairbots.zip)
 Motd FMOD (Frogbot) | Algirdas Kepezinskas aka "ZeCybEr" | motd.zip
 Multi-Mode Rocket (Cujo) | Christopher Fitch | [mmrckt10.zip](bin/mmrckt10.zip) ([txt](bin/mmrckt10.txt))
@@ -335,4 +336,4 @@ Lists of known files missing from the archive.
 
 This quake bot archive would not be as complete as it is without the generousness help from the Quake community.
 
-Special thank you to: John Crickett, Joel Baxter aka "Johnny Law", Hannes aka "Spirit" (from quaddicted), Fabiano D. Amorim aka "vegetous", Benjamin Darling aka "Electro", Rui Neto aka "Trinca", Rich Whitehouse aka "thefatal", Marko Permanto aka "Urre", Mark Wheeler, Daniel Svensson, Michael Kamensky, Chris Winger, Wintertime, Daniel Ramsay aka "SGC-Puffy", Scott Rollins, and Mike Warren.
+Special thank you to: John Crickett, Joel Baxter aka "Johnny Law", Hannes aka "Spirit" (from quaddicted), Fabiano D. Amorim aka "vegetous", Benjamin Darling aka "Electro", Rui Neto aka "Trinca", Rich Whitehouse aka "thefatal", Marko Permanto aka "Urre", Mark Wheeler, Daniel Svensson, Michael Kamensky, Chris Winger, Wintertime, Daniel Ramsay aka "SGC-Puffy", Scott Rollins, Mike Warren, and Michael Coburn aka "c0burn".
