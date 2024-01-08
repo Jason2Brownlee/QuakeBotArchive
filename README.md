@@ -274,6 +274,7 @@ BotTim | Tim Ferguson | [bottim_src.tar.gz](bin/bottim_src.tar.gz)<br>[linux-elf
 GenBot | Rich Whitehouse aka "thefatal" | [genbot03.zip](bin/genbot03.zip)<br>[genbsrc3.zip](bin/genbsrc3.zip)<br>[genbot02.zip](bin/genbot02.zip)<br>[genbsrc2.zip](bin/genbsrc2.zip)<br>[genbot01.zip](bin/genbot01.zip)<br>[genbsrc.zip](bin/genbsrc.zip)
 HPB Proxy | Chad Dreveny | [hpb-proxy-0.992b-linux.tar.gz](bin/hpb-proxy-0.992b-linux.tar.gz) ([txt](bin/hpb-proxy-0.992b.txt))<br>[hpb-proxy-0.991b-linux.tar.gz](bin/hpb-proxy-0.991b-linux.tar.gz)<br>[hpb-proxy-0.99b-linux.tar.gz](bin/hpb-proxy-0.99b-linux.tar.gz)<br>[hpb-proxy-0.9b-linux.tar.gz](bin/hpb-proxy-0.9b-linux.tar.gz) ([txt](bin/hpb-proxy-0.9b.txt))<br>[hpb-proxy-0.9b-aix.tar.gz](bin/hpb-proxy-0.9b-aix.tar.gz)
 Itchy QuakeBot | Chad Dreveny | n/a
+JavaBot | Ben Swartzlander | [javabot.zip](bin/javabot.zip)
 Kl33n3x | "d0peman" | [kl33n3x-package.zip](bin/kl33n3x-package.zip) ([txt](bin/kl33n3x.txt))<br>kl33n3x-cfg.zip<br>[kl33n3x.zip](bin/kl33n3x.zip)
 LoefBot | James Loe | loefsrc.zip<br>[loefbot5.zip](bin/loefbot5.zip)<br>loefbot4.zip<br>loefbot3.zip<br>loefbot2.zip<br>[loefbot.zip](bin/loefbot.zip) ([txt](bin/loefbot.txt))
 mikeBot | Mike Warren | [mikeBot-0.41.tar.gz](bin/mikeBot-0.41.tar.gz)<br>[mikeBot.tar.gz](bin/mikeBot.tar.gz)<br>[mikeBot-devel.tar.gz](bin/mikeBot-devel.tar.gz)<br>[mikeBotPublic.tar.gz](bin/mikeBotPublic.tar.gz)<br>[mbcs040.zip](bin/mbcs040.zip)<br>mikebot95.zip<br>mikebot-linux.tar.gz<br>mikebot-sunos.tar.gz<br>mikebot-aix.tar.gz<br>mikebot-solaris.tar.gz<br>mikebot-irix.tar.gz<br>[mbcs031.zip](bin/mbcs031.zip)<br>[mbcs03.zip](bin/mbcs03.zip) ([txt](bin/mbcs03.txt))<br>[mbcs02.zip](bin/mbcs02.zip)
@@ -336,4 +337,4 @@ Lists of known files missing from the archive.
 
 This quake bot archive would not be as complete as it is without the generousness help from the Quake community.
 
-Special thank you to: John Crickett, Joel Baxter aka "Johnny Law", Hannes aka "Spirit" (from quaddicted), Fabiano D. Amorim aka "vegetous", Benjamin Darling aka "Electro", Rui Neto aka "Trinca", Rich Whitehouse aka "thefatal", Marko Permanto aka "Urre", Mark Wheeler, Daniel Svensson, Michael Kamensky, Chris Winger, Wintertime, Daniel Ramsay aka "SGC-Puffy", Scott Rollins, Mike Warren, and Michael Coburn aka "c0burn".
+Special thank you to: John Crickett, Joel Baxter aka "Johnny Law", Hannes aka "Spirit" (from quaddicted), Fabiano D. Amorim aka "vegetous", Benjamin Darling aka "Electro", Rui Neto aka "Trinca", Rich Whitehouse aka "thefatal", Marko Permanto aka "Urre", Mark Wheeler, Daniel Svensson, Michael Kamensky, Chris Winger, Wintertime, Daniel Ramsay aka "SGC-Puffy", Scott Rollins, Mike Warren, Michael Coburn aka "c0burn", and Ben Swartzlander.

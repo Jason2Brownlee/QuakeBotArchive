@@ -535,6 +535,27 @@ Playmate / AE_playmate / Clan Æsir Playmate Project
 	https://www.quakeworld.nu/wiki/AEsir
 	https://poltsi.fi/Archives/Aesir/bot.html
 	received a copy of code from authors (2023)
+JavaBot
+	https://web.archive.org/web/19990220164340/http://www.coe.uncc.edu/~jfrorie/QuakeBotLinks.htm
+	http://www.cis.ohio-state.edu/~swartzla
+		not archived
+	https://graphics.stanford.edu/~kekoa/stoogebot/resources.html
+		http://www.cis.ohio-state.edu/~swartzla
+		Ben Swartzlander
+	http://www.diva-portal.org/smash/get/diva2:831590/FULLTEXT01
+		Ben Swartzlander. Quake 2 bot core, 1998.
+	http://www.telefragged.com/Q2BotCore
+		https://web.archive.org/web/19981206213015/http://www.telefragged.com/Q2BotCore/
+		Quake2 bot core
+		swartz@rice.edu
+	Quake 2
+	https://www.gamers.org/pub/idgames2/planetquake/javabot/JavaBot112.zip
+		not related
+	social
+		https://github.com/bswartz
+		https://twitter.com/BSwartzlander
+		https://www.linkedin.com/in/benswartzlander/
+	received a backup copy from the author
 
 
 
@@ -569,27 +590,6 @@ AdminBot
 	https://web.archive.org/web/19990220164340/http://www.coe.uncc.edu/~jfrorie/QuakeBotLinks.htm
 	http://www.x-comm.co.nz/adminbot/
 		not archived
-	???
-JavaBot
-	https://web.archive.org/web/19990220164340/http://www.coe.uncc.edu/~jfrorie/QuakeBotLinks.htm
-	http://www.cis.ohio-state.edu/~swartzla
-		not archived
-	https://graphics.stanford.edu/~kekoa/stoogebot/resources.html
-		http://www.cis.ohio-state.edu/~swartzla
-		Ben Swartzlander
-	http://www.diva-portal.org/smash/get/diva2:831590/FULLTEXT01
-		Ben Swartzlander. Quake 2 bot core, 1998.
-	http://www.telefragged.com/Q2BotCore
-		https://web.archive.org/web/19981206213015/http://www.telefragged.com/Q2BotCore/
-		Qauke2 bot core
-		swartz@rice.edu
-	Quake 2
-	https://www.gamers.org/pub/idgames2/planetquake/javabot/JavaBot112.zip
-		not related
-	social
-		https://github.com/bswartz
-		https://twitter.com/BSwartzlander
-		https://www.linkedin.com/in/benswartzlander/
 	???
 LlamaBot
 	http://www.netside.com/~csbailey/quake/
