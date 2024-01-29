@@ -48,7 +48,24 @@ PCManía CD  49 (Spanish)
 		CUJO10
 		BGADMB (BGADM Bot)
 		WISP
-
+PC Zone 44 (November 1996)
+	https://www.pixsoriginadventures.co.uk/PCZone/PC%20Zone%2044%20(November%201996)/
+	bgadm101.txt
+	bgadm101.zip
+	bgbot15.txt
+	bgbot15.zip
+	cujo10.txt
+	cujo10.zip
+	dmbot1.txt
+	dmbot1.zip
+	mybot16.txt
+	mybot16.zip
+	tmbot11.txt
+	tmbot11.zip
+	wisp.txt
+	wisp.zip
+	zeus10.txt
+	zeus10.zip
 
 
 no bot
@@ -245,28 +262,6 @@ PC Gamer CD 3.2
 PC Gamer (Italian Edition) Coverdisk 020
 	https://archive.org/details/PCGamerITCD20
 	???
-PC Zone 44 (November 1996)
-	TODO: I need the cd...
-	https://archive.org/stream/PC_Zone_44_November_1996/PC_Zone_44_November_1996_djvu.txt
-	http://www.pixsoriginadventures.co.uk/PCZone/PC%20Zone%2044%20(November%201996)/
-	http://www.pixsoriginadventures.co.uk/PCZone/PC%20Zone%2044%20(November%201996)/PC%20Zone%2044%20(November%201996).pdf
-		Explore your PC Zone CD this month and
-		find a directory called 'QSTUFF. Within, you
-		will find several directories, each one packed
-		to touching cloth point with new code
-		constructed by the sad denizens of the Net.
-		Most of this stuff was sourced from
-		http://www.stomped.com/ - the best Quake Web
-		site around. There are a few things to note,
-		however, before you canter off into the wonder-
-		park.
-	in the mag:
-		BGADMBOT
-		BGBOT
-		CUJO
-		MYBOT
-		WISP
-	cd?
 pc zone 45, dec 1996
 	http://www.pixsoriginadventures.co.uk/PCZone/PC%20Zone%2045%20(December%201996)/
 	http://www.pixsoriginadventures.co.uk/PCZone/PC%20Zone%2045%20(December%201996)/PC%20Zone%2045%20(December%201996).pdf

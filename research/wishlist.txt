@@ -54,7 +54,6 @@ clanv0.6auto.zip
 clanv0.7hman.zip
 combination.zip
 ctfbotmw.zip
-cujo12.zip
 cujo12a.zip
 cujo12b.zip
 cujo12c.zip
