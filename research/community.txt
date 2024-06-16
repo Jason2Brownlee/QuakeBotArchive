@@ -18,5 +18,5 @@ quakeworld.nu
 	https://www.quakeworld.nu/forum/topic/7581
 hacker news
 	https://news.ycombinator.com/item?id=27731909
-
-
+insideqc
+	https://forums.insideqc.com/viewtopic.php?t=5999
