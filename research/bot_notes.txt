@@ -3450,9 +3450,29 @@ pablo the bot
 	https://qwtf.org/Maps/
 		Complete QWTF Map Guide by Arc
 		"Pablo the Bot"
+		https://qwtf.org/CE/interv.html
+			tf bots
 	https://forum.darkside.com.br/vb/showthread.php?t=1619
 		www.jusdie.kit.net
 		http://geocities.yahoo.com.br/nissimmiojo/downloads.htm
+	support.biscuitservers.net
+	biscuitservers.net
+		https://web.archive.org/web/20000510140308/http://www.biscuitservers.net/
+			SalesGOD
+		https://web.archive.org/web/20031207070721/http://biscuitservers.net:80/files/index.html
+			pablo the 1on1 bot
+			https://web.archive.org/web/20031207070721/http://biscuitservers.net:80/files/mtflight.zip
+				mtflight.zip
+			https://web.archive.org/web/20031207070721/http://biscuitservers.net:80/files/mtffull.zip
+				mtffull.zip
+		https://web.archive.org/web/20031008120834/http://biscuitservers.net/index.html
+			"plasticity"
+			"pablo the 1on1 bot"
+	http://pluhgt.enigmati.ca/
+		https://web.archive.org/web/20031008120834/http://pluhgt.enigmati.ca/
+			nothing
+	https://www.quakeworld.nu/forum/topic/2151/mega-tf-files
+		mtffull.zip
 
 
 
