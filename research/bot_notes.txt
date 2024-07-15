@@ -3404,21 +3404,12 @@ mikbot
 	it is tutor derived
 pablo the bot
 	team fortress / megatf
-	https://www.quakeworld.nu/forum/topic/7228/pablo-the-bot-progs-and-server
-		https://yadi.sk/d/Ha_EbZUpRheUa
-			bots-botsmap2.rar
-			engine bot?
-		https://yadi.sk/d/pCuEQgc4RheWp
-			padla-bot-1on1r.rar
-			engine bot?
 	mega tf
 		https://drive.google.com/drive/u/0/folders/1u8EdSMNDSP6ZQ7ytJyw9ix21HrbLa96C
 	http://quake.morda.ru/tf2003/
 		https://web.archive.org/web/20050308004753/http://quake.morda.ru/files/
 			pablo_the_bot.zip
 			"Quite a competent TF-bot, unfortunately it works only on the 1on1r map. "
-	http://quake.morda.ru:80/tf2003/bots.rar
-		same as bots-botsmap2.rar
 	https://tinyurl.com/qwbrasil
 		https://mega.nz/folder/pZZnBLCK#fZxeV9Lwa76-CG5mdKlbVA/folder/tVpQCAgA
 			pablobot.zip
@@ -3426,10 +3417,6 @@ pablo the bot
 	https://sites.google.com/view/teamfortressarchive
 	http://www.backblast.com:80/mega-tf/mega_menu.html
 		https://web.archive.org/web/20090502064157/http://www.backblast.com:80/mega-tf/mega_menu.html
-	https://quakeone.com/forum/quake-talk/quake-central/283891-some-lost-quake-cheating-bots
-		Pablo The Bot Progs and server
-		bots-botsmap2.rar
-		padla-bot-1on1r.rar
 	https://github.com/gmtandi/huetf
 		Added Pablo The Bot to HueTF
 	https://github.com/gmtandi/pablothebot
@@ -3473,9 +3460,32 @@ pablo the bot
 			nothing
 	https://www.quakeworld.nu/forum/topic/2151/mega-tf-files
 		mtffull.zip
-
-
-
+	http://quake.alvis.ru/tf2003/
+		https://web.archive.org/web/20070703022508/http://quake.alvis.ru/tf2003/
+Lemmings Attack!
+	extends "pablo the bot"?
+		I think it does
+	https://www.quakeworld.nu/forum/topic/7228/pablo-the-bot-progs-and-server
+		https://yadi.sk/d/Ha_EbZUpRheUa
+			bots-botsmap2.rar
+			engine bot?
+		https://yadi.sk/d/pCuEQgc4RheWp
+			padla-bot-1on1r.rar
+			engine bot?
+		[sd] angel & [sd] hunter
+		extends "TF2003-QVM", uses pablo bot
+	http://quake.morda.ru:80/tf2003/bots.rar
+		same as bots-botsmap2.rar
+	http://quake.morda.ru/tf2003/
+		https://web.archive.org/web/20050308004753/http://quake.morda.ru/files/
+			pablo_the_bot.zip
+			"Quite a competent TF-bot, unfortunately it works only on the 1on1r map. "
+		https://web.archive.org/web/20030705144129/http://clan.sd.ru/m_angel.htm
+		https://web.archive.org/web/20020730002113/http://clan.sd.ru/m_hunter.htm
+	https://quakeone.com/forum/quake-talk/quake-central/283891-some-lost-quake-cheating-bots
+		Pablo The Bot Progs and server
+		bots-botsmap2.rar
+		padla-bot-1on1r.rar
 
 
 

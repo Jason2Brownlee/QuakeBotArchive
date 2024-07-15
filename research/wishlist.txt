@@ -239,6 +239,8 @@ kqcbotsource.zip
 maniacbt12.zip
 monsterfbxid1waysv2.zip
 mpak1v12.zip
+mtffull.zip
+mtflight.zip
 mybot14.zip
 mymod7.zip
 nnctf.zip
@@ -251,6 +253,8 @@ obots101.hqx
 obots101.sit
 orion_bots.zip
 orionbots_v3_ra.zip
+pablo_the_bot.zip
+pabloqwd.zip
 paddybot.zip
 paddybot02.zip
 pak2pak.zip

@@ -152,6 +152,7 @@ Killer Quake Pack (KQP) (Zeus, Cujo) | Howard Roy aka "Solo" | [kqp220z.zip](bin
 Kinobot | Vicente Catala Barroso aka "SKON[DEM]" | [kinobot.zip](bin/kinobot.zip)
 Kommando Kwake (Reaper) | Andreas M. and Stefan M. | kok220.zip<br>kok210.zip<br>kok2.zip
 Kooliobot | Robert de Heus aka "Koolio" | [kooliobot.zip](bin/kooliobot.zip)<br>koolio.zip
+Lemmings Attack! (TF2003-QVM) | Roman aka "[sd] angel" and Victor aka "[sd] hunter" | [bots-botsmap2.rar](bin/bots-botsmap2.rar)<br>[padla-bot-1on1r.rar](bin/padla-bot-1on1r.rar)
 Lightning Gun Competition (LGC) (Frogbot) | Phil Romov aka "peheyele" | [lgc3.zip](bin/lgc3.zip)<br>[lgc2c.zip](bin/lgc2c.zip)<br>[lgc2.zip](bin/lgc2.zip)<br>[lgc.zip](bin/lgc.zip)
 Lithium CTF Bot | Juan Ignacio Rava aka "Johnny" | [lith091c.zip](bin/lith091c.zip)
 LoydBot | Loyd aka "Juninho" | [lbotv10.zip](bin/lbotv10.zip)
@@ -177,7 +178,7 @@ Omicron Fixes | Joel Baxter aka "Johnny Law" | [obots102-fixed.zip](bin/obots102
 Optimized Frogbot (Amiga) | Christian Michael aka "surgeon" | [frogbot.lha](bin/frogbot.lha) ([txt](bin/frogbot.txt))<br>[frogmaps.lha](bin/frogmaps.lha)<br>[ofrogbot012c.zip](bin/ofrogbot012c.zip)
 Orion Team Fortress (OrionTF) (OrionBots) | "Orion" | [oriontf_beta4.zip](bin/oriontf_beta4.zip)<br>[oriontf_beta3.zip](bin/oriontf_beta3.zip)<br>[oriontf_beta2.zip](bin/oriontf_beta2.zip)<br>[oriontf.zip](bin/oriontf.zip)
 OrionBots | "Orion" | dp_orionbot.zip<br>[orionbots_qc_beta5.zip](bin/orionbots_qc_beta5.zip)<br>[orionbots4rel.zip](bin/orionbots4rel.zip)<br>orionbots_v3_ra.zip<br>[orionbots_v2.zip](bin/orionbots_v2.zip)<br>orion_bots.zip
-Pablo The Bot (TFBot) | ? | [bots-botsmap2.rar](bin/bots-botsmap2.rar)<br>[padla-bot-1on1r.rar](bin/padla-bot-1on1r.rar)<br>[pablothebot1on1.zip](bin/pablothebot1on1.zip)<br>[pablobot.zip](bin/pablobot.zip)
+Pablo The Bot (TFBot) | ? | [pablothebot1on1.zip](bin/pablothebot1on1.zip)<br>[pablobot.zip](bin/pablobot.zip)
 Paddybot | Patrick Stimson aka "sniper" | paddybot02.zip<br>paddybot.zip
 Paroxysm (POXbot) (Tutorbot) | Frank Condello aka "pOx" | [paroxysm.zip](bin/paroxysm.zip)<br>[pox120b.zip](bin/pox120b.zip)<br>[pxsrc120.zip](bin/pxsrc120.zip)<br>[pox111b2.zip](bin/pox111b2.zip)<br>[pox111b.zip](bin/pox111b.zip)<br>[pox102b.zip](bin/pox102b.zip)<br>[pxqc102b.zip](bin/pxqc102b.zip)<br>[pox101bu.zip](bin/pox101bu.zip)<br>[pox_100.zip](bin/pox_100.zip)<br>[poxqc100.zip](bin/poxqc100.zip)<br>[pox_04b2.zip](bin/pox_04b2.zip)
 Prodigy Server Engine (XBots) (Reaper) | David Rodgers | prodigy35b1.zip
