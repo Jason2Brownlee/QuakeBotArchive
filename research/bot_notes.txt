@@ -3402,6 +3402,58 @@ mikbot
 	provided by the author
 	"source code lost"
 	it is tutor derived
+pablo the bot
+	team fortress / megatf
+	https://www.quakeworld.nu/forum/topic/7228/pablo-the-bot-progs-and-server
+		https://yadi.sk/d/Ha_EbZUpRheUa
+			bots-botsmap2.rar
+			engine bot?
+		https://yadi.sk/d/pCuEQgc4RheWp
+			padla-bot-1on1r.rar
+			engine bot?
+	mega tf
+		https://drive.google.com/drive/u/0/folders/1u8EdSMNDSP6ZQ7ytJyw9ix21HrbLa96C
+	http://quake.morda.ru/tf2003/
+		https://web.archive.org/web/20050308004753/http://quake.morda.ru/files/
+			pablo_the_bot.zip
+			"Quite a competent TF-bot, unfortunately it works only on the 1on1r map. "
+	http://quake.morda.ru:80/tf2003/bots.rar
+		same as bots-botsmap2.rar
+	https://tinyurl.com/qwbrasil
+		https://mega.nz/folder/pZZnBLCK#fZxeV9Lwa76-CG5mdKlbVA/folder/tVpQCAgA
+			pablobot.zip
+			pablothebot1on1.zip
+	https://sites.google.com/view/teamfortressarchive
+	http://www.backblast.com:80/mega-tf/mega_menu.html
+		https://web.archive.org/web/20090502064157/http://www.backblast.com:80/mega-tf/mega_menu.html
+	https://quakeone.com/forum/quake-talk/quake-central/283891-some-lost-quake-cheating-bots
+		Pablo The Bot Progs and server
+		bots-botsmap2.rar
+		padla-bot-1on1r.rar
+	https://github.com/gmtandi/huetf
+		Added Pablo The Bot to HueTF
+	https://github.com/gmtandi/pablothebot
+		pablothebot
+		Compilable decompiled source of pablothebot
+	https://fuhquake.net/forum/viewtopic.php?p=5077
+		https://web.archive.org/web/20050725122721/https://fuhquake.net/forum/viewtopic.php?p=5077
+			Pablo Bot
+			http://qwplayers.org/~fm/phil/pabloqwd.zip
+			pabloqwd.zip
+	http://qwplayers.org/~fm/phil/
+		https://web.archive.org/web/20030217003832/http://www.quakeplayers.org/~fm/phil/
+	https://www.quakeworld.nu/forum/topic/6391/qwtf-servers-with-bots
+		?
+		These servers were developed by [sd] angel.
+	https://www.youtube.com/watch?v=lhkuWCklmJE&ab_channel=QuakeMegaTFRelics
+		Quake Mega TF - 2/9/2004 1on1r - Pablo The Bot vs Candyman
+	https://qwtf.org/Maps/
+		Complete QWTF Map Guide by Arc
+		"Pablo the Bot"
+	https://forum.darkside.com.br/vb/showthread.php?t=1619
+		www.jusdie.kit.net
+		http://geocities.yahoo.com.br/nissimmiojo/downloads.htm
+
 
 
 
