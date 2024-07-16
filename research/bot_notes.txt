@@ -2036,6 +2036,14 @@ FrikBot + Artifact Quake / Runebot
 	https://web.archive.org/web/20000831024015/http://www.home.earthlink.net/~pentm450/rnbt4.2.zip
 	Chuck Parsons
 	http://www.geocities.ws/fragtown/bots/runebot-8-27-03.exe
+	http://nygmafiles.essentrix.ne
+		https://web.archive.org/web/20040610005404/http://nygmafiles.essentrix.net:80/runebot/
+		https://web.archive.org/web/20031022175341/http://nygmafiles.essentrix.net/runebot/runebot-5-03.exe
+		https://web.archive.org/web/20031022175341/http://nygmafiles.essentrix.net/runebot/runebot-8-27-03.exe
+		https://web.archive.org/web/20040610005404/http://nygmafiles.essentrix.net:80/runebot/runebot11.exe
+		https://web.archive.org/web/20040610005404/http://nygmafiles.essentrix.net:80/runebot/runebot-2-22-04.exe
+		https://web.archive.org/web/20050223073547/http://nygmafiles.essentrix.net:80/runebot/runebot12.exe
+
 FrikBot + Head Hunters
 	https://web.archive.org/web/20000831024015/http://www.home.earthlink.net/~pentm450/
 	https://web.archive.org/web/20000831024015/http://www.home.earthlink.net/~pentm450/hhbot.zip

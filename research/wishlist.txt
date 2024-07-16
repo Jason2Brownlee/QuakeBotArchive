@@ -446,6 +446,7 @@ zeus201.zip
 zeus201b.zip
 zeus202b.zip
 zeus20b.zip
+runebot12.exe
 
 # txt files we expect to exist (based on zip files that exist)
 abandon1.txt

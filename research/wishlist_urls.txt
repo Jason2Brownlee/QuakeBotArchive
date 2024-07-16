@@ -172,6 +172,7 @@ http://numb.macquakeinfinity.com/bugfix/qwprogs.zip
 http://numb.quakeintosh.com/users/gerrybabe/holywars/frog/hwqwbot.exe
 http://numb.quakeintosh.com/users/gerrybabe/holywars/frog/hwqwbot.sit
 http://nygmafiles.essentrix.net/bots/djbotmk2.zip
+http://nygmafiles.essentrix.net/runebot/runebot12.exe
 http://orca.ucd.ie/~gilligan/warbot.zip
 http://parboil.mailru.com/parboil/fbca086.zip
 http://parboil.mailru.com/parboil/fbca094kt.zip
@@ -408,4 +409,3 @@ http://xmark.ausgamers.com/xkteams/xkteams1705s.zip
 http://xmark.ausgamers.com/xkteams/xkteams2.zip
 http://zemp.free.fr/qw/fbca094kt.zip
 https://www.quake-info-pool.net/text/urqp104.txt
-
