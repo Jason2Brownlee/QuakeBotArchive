@@ -171,6 +171,7 @@ http://numb.macquakeinfinity.com/bugfix/progs.zip
 http://numb.macquakeinfinity.com/bugfix/qwprogs.zip
 http://numb.quakeintosh.com/users/gerrybabe/holywars/frog/hwqwbot.exe
 http://numb.quakeintosh.com/users/gerrybabe/holywars/frog/hwqwbot.sit
+http://nygmafiles.essentrix.net/bots/djbotmk2.zip
 http://orca.ucd.ie/~gilligan/warbot.zip
 http://parboil.mailru.com/parboil/fbca086.zip
 http://parboil.mailru.com/parboil/fbca094kt.zip
@@ -205,6 +206,8 @@ http://quake.crimea.ua/files/quake/bots/fbca094kt.zip
 http://quake.crimea.ua/files/quake/bots/fbca095kt.zip
 http://quake.crimea.ua/files/quake/bots/fbca096kt.zip
 http://quake.crimea.ua/files/quake/bots/fbca097kt.zip
+http://quake.crimea.ua/files/quake/bots/frogbot012.zip
+http://quake.crimea.ua/files/quake/bots/frogbot_mod.zip
 http://quake.morda.ru/files/pablo_the_bot.zip
 http://quake.org.pl/files/quake/boty/frogboteditor/fbedit17.zip
 http://quake.tronet.troitsk.ru/download/Accuracy.zip
@@ -212,6 +215,10 @@ http://quake.tronet.troitsk.ru/download/fbedit17.zip
 http://quake.tronet.troitsk.ru/download/holyfbotmod07.zip
 http://quake.tronet.troitsk.ru/download/mpak1v12.zip
 http://quake.tronet.troitsk.ru/download/stfm10.zip
+http://quakebot.net/glkolor.zip
+http://quakebot.net/glqb17f.zip
+http://quakebot.net/qb17f.zip
+http://quakebot.net/wqb17f.zip
 http://quakeintosh.com/files/Paks%20-%20Maps%20-%20Mods%20/Quake%20Bots/%20Omicron%20Bot/OBOTS101.sit
 http://quakemecca.simplenet.com/files/new/kok2.zip
 http://qwplayers.org/~fm/phil/pabloqwd.zip
@@ -401,3 +408,4 @@ http://xmark.ausgamers.com/xkteams/xkteams1705s.zip
 http://xmark.ausgamers.com/xkteams/xkteams2.zip
 http://zemp.free.fr/qw/fbca094kt.zip
 https://www.quake-info-pool.net/text/urqp104.txt
+

@@ -73,7 +73,7 @@ DarKMajick (Wraith Bot) | Brendan McArdle aka "Nightbringer" | [dkmjk20.zip](bin
 DeathBot | James Boswell aka "FlashFire" | [death-64.zip](bin/death-64.zip) ([txt](bin/death-64.txt))
 Demon Tag Bots | "SkinSki" | [tag.zip](bin/tag.zip)
 Demonshooter | "Shootermaster" | [shooter.zip](bin/shooter.zip) ([txt](bin/shooter.txt))
-DJBot | Dave James aka "DJ" | [djbot1.zip](bin/djbot1.zip)
+DJBot | Dave James aka "DJ" | djbotmk2.zip ([txt](bin/djbotmk2.txt)) <br>[djbot1.zip](bin/djbot1.zip)
 DM Bot | Nathaniel Gorham | [dmbot1.zip](bin/dmbot1.zip) ([txt](bin/dmbot1.txt))
 DOBBSBot | Stephen Dobbs | [dobbsbot15bwp.zip](bin/dobbsbot15bwp.zip)<br>dobbsbot15b.zip<br>[dobbsbot15a.zip](bin/dobbsbot15a.zip)
 Doombot (bot move, bot skeleton) | Roscoe A. Sincero aka "Legion" | [btsk23.zip](bin/btsk23.zip) ([txt](bin/btsk23.txt))<br>btsk22.zip<br>[btmv31.zip](bin/btmv31.zip) ([txt](bin/btmv31.txt))<br>botmove.zip<br>[dmbt21b3.zip](bin/dmbt21b3.zip) ([txt](bin/dmbt21b3.txt))<br>dmbt21b2.zip<br>dmbt21b1.zip<br>dmbt20b3.zip<br>dmbt20b2.zip<br>doombot.zip

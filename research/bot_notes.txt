@@ -891,6 +891,11 @@ Dj bot / Djbot / Djbot MK2 / DJBot
 	https://web.archive.org/web/19991008223853/http://freespace.virgin.net/w.james/DJbot1.zip
 	https://web.archive.org/web/20000715000000*/http://freespace.virgin.net/w.james/DJbot1.zip
 	???
+	http://nygmafiles.essentrix.net/
+		https://web.archive.org/web/20031022175717/http://nygmafiles.essentrix.net/bots/
+		https://web.archive.org/web/20031022175717/http://nygmafiles.essentrix.net/bots/djbotmk2.txt
+		https://web.archive.org/web/20031022175717/http://nygmafiles.essentrix.net/bots/djbotmk2.zip
+			http://botepidemic.com/quadmire
 Eliminator Bot (cbot engine)
 	Cameron B. Newham
 	usenet searches found:

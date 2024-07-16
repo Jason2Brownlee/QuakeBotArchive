@@ -1,0 +1,178 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~	
+		          */\* DJbot MK2 *\/*
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+(this file should be minimised, and have word wrap ON. Otherwise it looks WhaK)
+
+Author: DJ
+Contact: Email = dj22@botepidemic.com
+	 ICQ (prefered) = 16180640
+	web site = "The Quadmire". Go to 
+		http://botepidemic.com/quadmire
+
+
+Credits: Coffee (http://planetquake.com/minion/)
+		For sharing the same beliefs and ideas about quake and 		the single player as i do, for making the most original 		mod i ever played (minion arena), and basically helping 		we get going with this qc lark. Thanx dude
+
+	ZeO and Cube at the Bot Epidemic (http://botepidemic.com)
+		For hosting my humble site (a humble site thats eaten 		far too much of my time), and being generaly cool guys. 		Especially ZeO for putting up my inabality to use 		anything web related:)
+
+
+	The Guy who made the Jason skin = Sorry man, i couldnt find 		your name anywhere:( Thanx tho	 
+
+
+	 Rezhin = for telling what to use to make my page, and being a 		good laugh at the same time
+
+	 Everyone else who helped (especially those at Inside3d 			(http://www.inside3d.com/))
+	        Inlcuding (takes deep breath):
+		Maniac, Akuma, Malengine, Skullhammer,LoneWolf, Kryten, 		Commander Michl, Legion, Errorabove, GBWL, 			Dr Zaius, Paradox and anyone else who i may 			have forgotten 							(thinking off the top of my head here)
+
+
+	Vuh for the footstep sound
+
+
+	id software for something. I cant quite put my finger on it, 		but they did something. A game methinks. Mmmmm...	
+
+	Finally, Metallica for providing me with some great music to 	frag by, especially Fade to Black, Master of Puppets, Creeping 	Death, Ronnie and 2X4
+
+¬#Getting Started#¬
+
+Ooh, for those who know all this shit, just skip this bit. I could never figure out how to set up mods, so i might as weel try to explain.
+
+1) Unzip the contents of this folder into your Quake directory, so it should be something like this:
+
+	C:\Quake\DJbotMK2\
+   
+2) Go into DOS, and go into your quake directory ("CD quake", or something), and type:
+
+	quake -game djbotmk2 -listen 16
+
+*!NOTE!* 
+
+This wont work in GL quake! Some of the models cause quake to die horribly, and the skins dont work properley! Ok, stop whimpering, i use glquake a lot too. Just use normal quake, and crank the resolution up a lot. It doesnt look THAT bad really. So stop whining.
+	 
+¬#Playing the Game#¬
+
+1) Once youve started quake, type "impulse 75" for the menu. You can then navigate through that via the number buttons.
+
+
+
+
+¬#Info#¬
+
+Ok, the original DJbot, put simply, sucked. It had way too many mdls, the code was overly big, it was messy and the bot aimed badly and was bug ridden. It was my first public mod though, so it couldve been expected.
+The DJbot Mk2 is constantly being updated by me, and promises to be every thing the DJbot wasnt. That is, well, good for one:) Its smoother, smarter, funner, smaller size wise, and is a lot easier to use thanks to the built in menu system. Bind impulse 75 to a key, like M, and then you can access and quit the DJbot menu easily.
+Ive worked my ass of the ai this time round, not just slapping together a bunch of tutes. THe bots will use the axe semi-intelligently, and ive added a personality system which is cool. My best and most rewarding thing this time round tho, i think, was the Team Play. The enemy bots will help each other, form teams, and work as a unit. Also, the player can tell bots to camp, roam, and follow him. All this works very well, and im pretty proud about:) 
+
+
+
+ These are the Features available:
+
+* Last Man Standing Mode = youve got 5 lives. Lose em, and your out the game, sonny jim.
+
+
+* Paintball!  = A cool Dm mode where you can use a paintgun to shoot other bots. Three direct hits and the bot explodes horribly, giving you a tasty 10 frags.
+
+
+* Gambling Man = You start with 1 frag. You can bet that frag. If you kill the next bot you meet, you gain a frag, giving you 2 frags. You can then bet 1 frag again, or 2 frags. So you could win 2 frags, 1 frag 1, or lose 1 frag or 2 frags. Simple. The commands for raing/lowering bets are below
+
+
+* Dark One Mode  = My own mod, this on. Find the DarkBall, and it transforms you into a murderous warrior of Satan...the Dark One. The other players get no frags for killing each other, only the Dark One gets frags. However, if a player kills the dark one, the player earns 5 frags, and the Dark Ball falls to the ground, free to be picked up again. The bots play this game VERY well. All my code, BTW. Didnt steal any. I worked damn hard coding this.
+
+
+*Mad Axe Man = The palyer begins as the mad axe man. He has 200 health, a vey powerful axe, and no other weapons. He cant pick up weapons, either. Or backpacks. When he kills someone, he gains 10 frags, and becomes human again. The person who he killed then becomes the mad axe man. The bots play this game cool as well.
+
+
+* New teamplay modes = Theres Team Paintball, Team Dark One.
+
+
+* The roaming, fighting, and searching of the bots is now a lot more error free, and smoother. 
+
+
+* More attack patterns! Lots more!
+
+
+* Random Bot speeds. Makes DM more challenging
+
+
+* Bot Personalities! Bots are given random traits that alter their behaviour. Some employ sneaky tactics, like hiding out of view. Some burp, some play dead, some show GrandMaster DM skills, like leading you with rockets, and some show complete cowardice, like turning tail and running away when they get hurt! Dont trust em tho, coz they may be faking a retreat....
+
+
+* Bot now uses the AXE! If he ever finds himself out of ammo, hell whip out that axe and give you a good a-slicin' and a-dicin'!
+
+
+* Advanced Teamplay mode! Now you can issue commands to fellow bots, like camp, roam, and escort! Works very well, as you can lead a squd of bots right intot the enemies supply area!
+
+
+* The players team are red, and the bot team are blue. Makes it a lot easier.
+
+
+* In Teamplay, the enemy teams will form squads! So dont be shocked if you see a posse of bots heading your way!
+
+
+* Enemy bots will offer help to team mates, cover them and follow if they want!
+
+* Bots sometimes utilise jumping combat, bouncing around, making them harder to nail!
+
+* Bots use powerups! Oh yeah, play on DM3, and theyll run around picking pwrups left and right!
+
+* Intelligent weapon collecting = bots perform a routine check to see if they really need an item or not.
+
+* Players and bots bleed when low on health.
+
+* Bots and Players make footstep sounds. Adds a bit of atmosphere (if it annoys you, just make a copy of the included dland2.wav, rename it  step.wav, and overwrite the old one)
+
+
+
+*Things Under Construction*
+
+Well, im always adding new stuff. Things that could always be improved are:
+
+*Navigation = I mean, navigation can always be made better cant it?
+
+*Swimming = The swimming aint terrible, and he can does die properly in it. As long as the map isnt a whole water level, he should be ok.
+
+
+
+¬#Impulses#¬
+
+Some useful commands youll want to bind to keys:
+
+
+Impulse 75 = Turns the Menu on and off. Id bind it to a key if i was you...
+Just follow the instructions on the menu, and youll have your game running in no time.
+
+impulse 200 = increases wager in Gambling mode by 1
+impulse 201 = decreases wager in Gambling mode by 1
+impulse 202 = sets the wager at the smallest possible in Gambling mode
+impulse 203 = sets the wager at at the largest amount you can afford in 	      Gambling mode
+
+
+¬#Yet to Come#¬
+
+Ill be adding more to this. It may not be a Frog,Zeus or Reaper yet, but its well on its way. Oh, and this bot has personality.
+
+¬#Author Info#¬
+
+Im 16 years old, and live in Great Britian, where the clouds are plentiful and the phone bill large. 
+Ive finished High School, so ive got quite a bit of free time coming up.
+
+ I learnt QC at the beginning of last summer, when Coffee began his tutorials. I reckon ive picked it up pretty well, and one of the most rewarding things about it is seeing about 350 lines of dull, monotone, fractured characters and letters coming together to make bot pick up a ball and walk in a straight line towards a goal (only to crash with a Fu<&ing "stack overflow " error. Snarl.). Ok, i may be exaggerating and a bit harsh, but you get my point. Theres nothing more rewarding than figuring something out for yourself that WORKS. Im looking for a future job in the software business, making games and getting payed for it. Oh god, bliss, pure bliss. 
+
+
+
+
+¬#Legal Shenanigans#¬
+
+Ive had this bot on my computer for months now, and it hasnt caused it to blow up in my face, sending red hot shrapnel into my neck and eyes. If any thing happens to your computer through using the bot, then it aint happened on purpose. Probably because of that time you stuck your pet chinchilla in the CD drive and it never came back out. OK? Ok.
+
+If you use this bot, thats great. Tell me what you think! If you use any of the stuff in this zip file tho, then all i want is a small credit, ok? Cheers
+
+     
+
+Cya soon
+
+DJ
+
+"I could kick your ass, and 10 people who look just like you!"
+	

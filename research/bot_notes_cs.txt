@@ -349,6 +349,12 @@ RichMark's QuakeBot
 	https://www.linkedin.com/in/rich-kroeker-3019116/
 		?
 		age is right
+	quakebot.net
+		https://web.archive.org/web/20031217110825/http://quakebot.net/
+			https://web.archive.org/web/20031217110825/http://quakebot.net/qb17f.zip
+			https://web.archive.org/web/20031217110825/http://quakebot.net/glkolor.zip
+			https://web.archive.org/web/20031217110825/http://quakebot.net/wqb17f.zip
+			https://web.archive.org/web/20031217110825/http://quakebot.net/glqb17f.zip
 Bottim
 	https://www.geocities.ws/oldquaker/bottim/
 	QuakeWorld bot
