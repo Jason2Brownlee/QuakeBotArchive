@@ -90,6 +90,7 @@ ftp://numb.macquakeinifinity.com/numb/ctf/fbctf037.zip
 ftp://pcweek-2.wave.ras.ru/pub/id/quake/proj1_14.zip
 ftp://quake.mtu.ru/pub/quake/bots/frogbot7.zip
 ftp://quake.mtu.ru/pub/quake/bots/zeusbot.zip
+ftp://quake.odessa.net/pub/bots/f2k001a.zip
 ftp://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/idgames2/telefragged/epidemic/frogbot012a.zip
 ftp://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/idgames2/telefragged/metro/frogbot007.zip
 ftp://sunsite.doc.ic.ac.uk/packages/idgames2/planetquake/holywars/hwqwbotv101c.zip
@@ -106,7 +107,10 @@ http://asp.planetquake.com/dl/dl.asp?/holywars/hwqwbotv101c.sit
 http://asp.planetquake.com/dl/dl.asp?/holywars/quake/hw_frogbot14f.zip
 http://asp.planetquake.com/dl/dl.asp?requiem/reqqwsrc.zip
 http://aswp.tzo.net/maleficus/setup.zip
+http://biscuitservers.net/files/mtffull.zip
+http://biscuitservers.net/files/mtflight.zip
 http://botarea51.impulse9.net/mirror/bot/elimpack.zip
+http://c4denn.chat.ru/filezz/frog2k.rar
 http://cocot.topcities.com/Bots_Quad_Hunt.zip
 http://darkskye.home.mindspring.com/quakeworld-20000102.tar.gz
 http://death2all.excelland.com/files/ufrog.zip
@@ -194,6 +198,14 @@ http://pw2.netcom.com/~kroeker/qb16src.zip
 http://pw2.netcom.com/~kroeker/qb17.zip
 http://pw2.netcom.com/~kroeker/wqb17.zip
 http://pw2.netcom.com/~kroeker/WQB_beta.zip
+http://quake.crimea.ua/files/quake/bots/f2k001a.zip
+http://quake.crimea.ua/files/quake/bots/fbca090kt.zip
+http://quake.crimea.ua/files/quake/bots/fbca091kt.zip
+http://quake.crimea.ua/files/quake/bots/fbca094kt.zip
+http://quake.crimea.ua/files/quake/bots/fbca095kt.zip
+http://quake.crimea.ua/files/quake/bots/fbca096kt.zip
+http://quake.crimea.ua/files/quake/bots/fbca097kt.zip
+http://quake.morda.ru/files/pablo_the_bot.zip
 http://quake.org.pl/files/quake/boty/frogboteditor/fbedit17.zip
 http://quake.tronet.troitsk.ru/download/Accuracy.zip
 http://quake.tronet.troitsk.ru/download/fbedit17.zip
@@ -202,6 +214,7 @@ http://quake.tronet.troitsk.ru/download/mpak1v12.zip
 http://quake.tronet.troitsk.ru/download/stfm10.zip
 http://quakeintosh.com/files/Paks%20-%20Maps%20-%20Mods%20/Quake%20Bots/%20Omicron%20Bot/OBOTS101.sit
 http://quakemecca.simplenet.com/files/new/kok2.zip
+http://qwplayers.org/~fm/phil/pabloqwd.zip
 http://railgun.macquakeinfinity.com/downloads/fbctf024.zip
 http://railgun.macquakeinfinity.com/downloads/fbctf026.zip
 http://railgun.macquakeinfinity.com/downloads/fbctf030.zip
@@ -388,4 +401,3 @@ http://xmark.ausgamers.com/xkteams/xkteams1705s.zip
 http://xmark.ausgamers.com/xkteams/xkteams2.zip
 http://zemp.free.fr/qw/fbca094kt.zip
 https://www.quake-info-pool.net/text/urqp104.txt
-

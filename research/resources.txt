@@ -43,8 +43,17 @@ botepidemic / bot epidemic
 		offline by 2003... more likely late 2002
 		files made it to 3ddownloads
 			http://web.archive.org/web/20010803101723/http://www.3ddownloads.com/?directory=/telefragged/be/
-		3ddownloads -> atomic gamer in late 2007
+			http://web.archive.org/web/20020627001738/http://www.3ddownloads.com/?directory=/telefragged/be/
+			the dir is gone after 2002..., e.g. 2003:
+				http://web.archive.org/web/20030130170459/http://www.3ddownloads.com/?directory=/telefragged/be/
+			but telefragged is still there:
+				http://web.archive.org/web/20021210045232/http://www.3ddownloads.com/?directory=/telefragged/
+		3ddownloads -> atomicgamer in late 2007
 		files did not make it to atomicgamer...
+	atomicgamer archive
+		https://www.quaddicted.com/files/mirrors/ftp.telefragged.com_README.txt
+		https://www.quaddicted.com/files/mirrors/ftp.telefragged.com/
+		https://www.quaddicted.com/files/mirrors/ftp.telefragged.com.log
 	zeo -> zeee0
 		http://www.forums.bots-united.com/showthread.php?t=5732
 	http://botepidemic.impulse9.net
@@ -60,6 +69,15 @@ botepidemic / bot epidemic
 		https://web.archive.org/web/20030818023245/http://www.cyd.liu.se/~bjoli035/botepidemic/quake.shtml.htm
 		https://web.archive.org/web/20030626082844/http://www.cyd.liu.se/~bjoli035/botepidemic/fmods/index.htm
 		https://web.archive.org/web/20030818015901/http://www.cyd.liu.se/~bjoli035/botepidemic/frikbot/index.htm
+		who?
+			https://web.archive.org/web/20030818020123/http://www.cyd.liu.se:80/~bjoli035/cv/cv.html
+			Björn Lindahl
+frogbot's modifications (botepidemic)
+	http://www.botepidemic.com/fmods/
+	news
+		https://www.bluesnews.com/s/1748/new-frogbot
+		https://www.bluesnews.com/cgi-bin/blammo.pl?mode=archive&display=19990427&oneday=true
+		https://www.quake-info-pool.net/news1998.htm
 quake terminus
 	https://www.quaketerminus.com/
 		https://web.archive.org/web/20031213020802/http://www.quaketerminus.com/
@@ -141,6 +159,7 @@ bots united
 	https://archive.org/search.php?query=AtomicGamer
 	https://wiki.archiveteam.org/index.php?title=Atomicgamer
 	https://www.celephais.net/board/view_thread.php?id=60873&start=236&end=260
+	https://archive.org/search?query=subject%3A%22atomicgamer%22
 	https://www.quaddicted.com/forum/viewtopic.php?id=17
 slipgate central
 	http://www.slipgatecentral.com
@@ -436,6 +455,8 @@ http://www.planetquake.com/qca/qc-bots.htm
 	https://web.archive.org/web/19970617164341/http://www.planetquake.com/qca/patch100.htm
 		zeus
 		https://web.archive.org/web/19970617164341/http://www.trailerpark.com/phase1/nelno/pseudopodia/zeus2042.zip
+fuhquake.net / forum
+	https://web.archive.org/web/20050623192849/http://fuhquake.net/forum/viewforum.php?f=1&sid=715570a8930db3ceca96f79ec071d037
 
 
 

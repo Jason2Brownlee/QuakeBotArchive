@@ -1924,9 +1924,11 @@ Frogbot Rocket Arena
 	https://web.archive.org/web/20091214083424/http://www.3ddownloads.com/showfile.php3?filename=fbarena013.zip
 Dark Frog Bot FMOD / Dark Frogbot
 	https://web.archive.org/web/20091214083424/http://botepidemic.no-origin.net/fmods/mods.htm
+	http://web.archive.org/web/20011226155203/http://www.3ddownloads.com/?directory=/telefragged/be/fmods/
 	Pinsolle
 	https://web.archive.org/web/20091214083424/http://www.3ddownloads.com/showfile.php3?filename=darkfrog.zip
 Vicinity Bot (FMOD)
+	https://web.archive.org/web/20020214103444/http://www.botepidemic.com/fmods/mods.htm
 	https://web.archive.org/web/20091214083424/http://botepidemic.no-origin.net/fmods/mods.htm
 	Black
 	http://www.3ddownloads.com/showfile.php3?filename=vicinity/vicinityqwprogs.zip
@@ -3486,6 +3488,8 @@ Lemmings Attack!
 		Pablo The Bot Progs and server
 		bots-botsmap2.rar
 		padla-bot-1on1r.rar
+	https://www.quakeworld.nu/forum/topic/6391/97731/qwtf-servers-with-bots
+		"Lemmings Attack!"
 
 
 
