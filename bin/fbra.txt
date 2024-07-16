@@ -1,0 +1,58 @@
+Title	        : Frogbot Rocket Arena
+Filename    : Fbra.zip
+Version       : Special Edition 
+Date	        : 07.11.99
+Added         : Alex 'ParboiL' Pakhomov
+Autors	        : Robert 'Frog' Field, Matt 'Asdf' McChesney, 
+                      Brian 'EraZoR' Mathiasen
+Email	        : usc_parboil@mailru.com
+
+Installation
+============
+Unzip into your Quake folder.
+
+
+Running the game
+================
+Normal Quake:
+1.) Open the 'bat' folder
+2.) Double-click on winquake.bat
+
+
+Important Notes
+===============
+- You should have wordwrap enabled in your text editor to view this file.
+- Refer to fbra.txt and readme013test.txt / fbca085.txt / fbrarena013se.txt
+for more information on the Frogbot.
+
+Supported Maps
+==============
+- 2towers
+- Arendm1a
+- Barena1
+- Bbarena2
+- Dm2arena
+- Egyptra
+- Gear8
+- Hill20
+- Marena2
+- Marena4
+- Arenazap
+- Mayan1
+- Pen2
+- Ptucket
+- Rarena3
+- Soyarena
+- Terrain2
+- Uarena1
+
+Special Thanks
+==============
+Robert 'Frog' Field (frog@powerup.com.au) : The original Frogbot.
+Brian 'EraZoR' Mathiasen (erazor@get2net.dk) : The Frogbot Rocket Arena. 
+Matt 'Asdf' McChesney (mtm07@hotmail.com) : The Frogbot Clan Arena.
+
+Copyrights
+==========
+The modifications included in this archive are Copyright (C) 1999 by
+Robert Field. Wright and Quake C is Copyright (C) 1996 id Software.

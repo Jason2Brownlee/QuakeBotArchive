@@ -1,0 +1,587 @@
+Title    : Frogbot Capture the Flag
+Filename : fbctf035.zip
+Version  : Beta 0.35
+Date     : 11-19-99
+Authors  : See below
+Email    : numb@macquakeinfinity.com
+WWW      : http://numb.macquakeinfinity.com
+
+
+OVERVIEW:
+---------
+
+This modification of the Frogbot is unsupported by the Frogbot author, Robert 
+Field. Please direct your suggestions, complaints, and praises to the above 
+address. Frogbot CTF is a simple hack to the Frogbot which makes use of Robert 
+Field's excellent goal evaluation code. The bot will assess the flags as goals 
+based on various criteria: whether the flag is dropped, carried, or at base, what 
+team the bot is on and what its current "plan" is: i.e., defend, roam, escort, 
+or attack. The bots are autonomous, however you can request an escort if a bot 
+is nearby by typing "escort." The bot responding to your request will escort
+for 2 minutes. 
+
+   Although the mod has full Threewave support, the Threewave maps can be 
+problematic due to their size. Gameplay is very fast if you enable "simple" 
+planning, playing with two or three man teams, on a medium sized map. Try ztndm3 
+with one flag in the corner stairs near the yellow armor, and the other 
+flag placed in the small L-shaped hallway, near the quad.
+
+ 
+  Frogbot v0.13 bug fixes:
+  
+  - NaN velocity fix
+  - Bot goal fixes
+  - Player pitch angles
+  - Platform workaround
+  - Minimal water support
+  - Dm6 door
+  - Reduced "NULL function" fatalities
+  - Conditional arguments for "oldsolid" hack
+
+
+INSTRUCTIONS:
+-------------
+
+Please read the original Frogbot readme if you're unfamiliar with starting a 
+game with the frogbot. To begin a game of CTF, start with the normal command 
+line parameters for starting a frogbot server, drop the console, set teamplay 
+to "4" and type "ctf". This will enable ctf mode for the next level. 
+
+* See autoexec.cfg for full list of options, and default CTF settings.
+
+
+FLAGS: 
+------
+
+There are three choices for flag placement on non-custom ctf maps: 
+
+1. Manual placement
+
+   Enable manual flag placement mode from the console by typing 'setflag'. Then 
+   walk to the spot you want to place the flag, and type the team name ('red' or 
+   'blue'). 
+
+   - Type "red" to spawn a red flag
+   - Type "blue" to spawn a blue flag
+
+   * You may only spawn a flag of the team you are currently on
+   * Only Admins can spawn flags and change teams
+
+   Once you fire off the impulse, step back, because the flag will spawn exactly 
+   where you are standing. After you've set the flag for one team, switch colors, 
+   set the second flag, and play! Be sure to place the flags at adequate distances 
+   apart, to ensure challenging gameplay. Also, be careful not to place them too 
+   deeply into corners (or underwater) because the bots will have difficulty 
+   getting to them. 
+   
+   NOTE: Manually placed flag positions will persist over level 
+         changes if the same map is loaded again.
+
+2. Code based spawning
+
+   Same as above, except begin the game in -condebug mode. To choose team spots, 
+   walk to the spot you would like to become a team start and type 'spot' at the 
+   console-- or bind a key to the spot command. Once you've spawned both flags, 
+   and the team start positions (they're optional; you don't need them to play)
+   type 'write' at the console. This will dump the start data to a file named 
+   'qconsole.log' (providing you began with "-condebug" in the command line), 
+   which will be written in your fbctf directory. Quit the game, open the 
+   Qconsole.log file, and look for the formatted code at the bottom. This code 
+   should be copied and pasted into the 'mapsnew.qc' module, in the function 
+   'CustomSpawn.' Modify CustomSpawn with the new blocks of code like so:
+
+        // add flags and/or teamstarts here
+        ...
+        else if (mapname == "e1m2") 
+    	{
+	        SpawnFlag('-533 -495 480', TEAM_COLOR1); 
+	        SpawnFlag('1497 1672 288', TEAM_COLOR2);  
+        }
+        ...
+
+   Now recompile and enjoy customized ctf maps! The advantages of customizing 
+   the maps through the code is that the flags will spawn by themselves after a 
+   level change, and you don't have to do any bsp editing.
+
+
+3. See the Threewave document 'capture.txt' by Zoid (included in this archive)
+   for modifying bsp files.
+   
+NOTE: Custom maps have flag positions hard-coded into them, and the maps which 
+      have markers in this version of the mod, are already "soft-coded" in the
+      mapsnew.qc
+      
+
+MAPS:
+-----
+      
+Markers for Escher's Debello and Ultra Violence need to be recompiled into the 
+mod. To accomplish this, (or add markers for any map) you need a text editor and 
+a copy of Mr. Elusive's Meqcc. The code is already written to support several maps, 
+however, you need to uncomment a few lines to use these maps:
+   
+       maps.h  
+       
+       Open maps.h and comment out (two forward slashes)
+       the first two maps. This is necessary because of the 
+       size limitations when compiling quake c. Next, uncomment 
+       the #defines (remove the two forward slashes) for MAP_debello 
+       and MAP_ultrav. Save and close the file.
+       
+
+       Now execute Meqcc from the command line, running it from within the src 
+       directory of the fbctf directory. This will generate a file named 
+       progs.dat in your fbctf directory.
+       
+
+THREEWAVE CUSTOM CTF:
+---------------------
+
+It's possible to make use of the Threewave pak0 and pak1 pak files by 
+placing them into the fbctf folder and invoking the "custom" command at 
+the console. 
+
+      When using the multiwep and custom modes, the additional pak files must 
+      be installed!! you can get the Threewave CTF pak0 and pak1 files here:
+           
+      ftp://ftp.cdrom.com/pub/quake/planetquake/threewave/ctf/client/3wctfc.zip
+           
+      You can get the pak2 file for Threewave CTF multiwep here:
+      
+      ftp://numb.macquakeinfinity.com/numb/ctf/pak2pak.zip
+      
+      
+QUAKEWORLD:
+-----------
+
+The QuakeWorld version of Frogbot CTF, similar to the normal Quake version, is
+a work in progress. There are several features which either haven't been
+implemented yet, or need refinement. 
+
+Bots have ping time and packetloss. You can change their ping/pl by addding 
+the line:
+
+localinfo botping modem
+
+to your server.cfg (if you're running a qw server), or, you can change bot ping
+remotely, by using rcon. There's three possible values for ping/pl: LAN, modem, 
+or digital. Digital is the default. These values are purely cosmetic, however, 
+I've added some code which supports skill and response time values. This code 
+will approximate "ping" and "packetloss" conditions. To enable it in QuakeWorld,
+uncomment the "#define SKILL" line in settings.h and recompile the source.
+
+
+TODO:
+-----
+
+1.) Bot Grappling
+2.) Better lift and water support
+3.) More map support
+
+
+IMPULSES:
+---------------
+
+Game options        - impulse 47 (or type 'options' at the console)
+CTF                 - impulse 67 (or type 'ctf' at the console)
+
+Team-Score          - impulse 77 (or type 'score' at the console)
+Spawn red flag      - impulse 78 (or type 'red' at the console)
+Spawn blue flag     - impulse 79 (or type 'blue' at the console)
+Order Escort        - impulse 80 (or type 'escort' at the console)
+Identify Player     - impulse 81 (or type 'identify' at the console)
+Simple planning     - impulse 82 (or type 'simple' at the console)
+Write Positions     - impulse 83 (or type 'write' at the console)
+Save Positions      - impulse 84 (or type 'spot' at the console)
+RemoveFlags         - impulse 84 (or type 'remove' at the console)
+Detailed scores     - impulse 85 (or type 'myscore' at the console)
+Status bar          - impulse 86 ('sbar' to toggle, impulses 87 - 96 to set resolution)
+Multiwep            - impulse 97 (or type 'multiwep' at the console)
+Drop Ring           - impulse 98 (or type 'dropring' at the console)
+Drop Quad           - impulse 99 (or type 'dropquad' at the console)
+Toss Weapon         - impulse 100 
+Toss Backpack       - impulse 101 
+NOCLIP & Z movement - impulse 102 in MANUAL mode (or type 'no_clip' at the console)
+SetFlags            - impulse 103 (or type 'setflags' at the console)
+PrintLocation       - impulse 104 (or type 'loc' at the console)
+
+
+CREDITS:
+--------
+
+Frogbot CTF was developed by Gerard "numb" Ryan
+
+Robert "Frog" Field wrote the awesome Frogbot
+This mod uses version 0.13 test
+Website: http://www.telefragged.com/metro/
+
+Dave "Zoid" Kirsch for Threewave CTF
+Website: http://www.captured.com/threewave/
+
+Dan "Methabol" Zetterstrom for the Pure CTF stuff
+Email: metabol@bt.nu
+Website: http://purectf.solgames.com/
+
+Matt "asdf" McChesney for help with 0.13 test 'hacks'
+Email: Mtm07@hotmail.com
+
+Hylken "gibbie" Beck for the additional waypoints and beta-testing
+Email: hylke_b@hotmail.com
+
+The bot planning code is based on Anthony (*this) Distler's Ctfbot+,
+(adistler@ace.cs.ohiou.edu) which is based on Drew "BZ" Davidson's 
+Ctfbot 1.4. 
+Website: http://www.captured.com/ctfbot/
+
+
+VERSION CHANGES:
+----------------
+
+Version BETA 0.35 / 11-18-99:
+
+Bots over skill 10 will now "jump" when in combat
+Added random variance times to bot connect/disconnect in deathmatch
+
+Version BETA 0.34 / 11-18-99:
+
+New e1m3 waypoints by gibbie
+Chatting bots
+- in deathmatch only
+- bots will pause to chat like a real player
+Auto loading bots
+- use "scratch1" cvar in NQ
+- use "scratch1" localinfo key in QW
+- the scratch1 value is broken into two parts: 
+  the number left of the decimal indicates how many bots 
+  join at the start of each level and the decimal value 
+  represents the timed intervals (in minutes) at which bots 
+  will connect/disconnect 
+  + 'scratch1 3.5' will spawn 3 bots, and one bot will disconnect in 5 minutes
+    - after 5 more minutes, another bot will join the game
+    - and so on
+  + 'scratch1 5.25' will spawn 5 bots, and one bot will disconnect in 2.5 minutes
+    - after 2.5 more minutes, another bot will join the game
+    - and so on
+Fixed QW ping (i had the check field reversed (duh!)
+Misc tweaks
+  
+Version BETA 0.33 / 11-14-99:
+
+Fixed teleporter issues (mainly e1m3 destination problems - thanx to gibbie!)
+Bots no longer remain stuck on or under a lift that is squishing them
+Escorting bots will remain still if their escort entity is still
+Optimized while loops in EXPERT mode 
+
+Version BETA 0.32 / 11-12-99:
+
+Added Matt "asdf" McChesney's player pitch correction
+when playing as a frogbot
+Tidied up the options menu
+Added CTF item evaluation for runes and backpacks
+Changed the MOTD code slightly
+
+Version BETA 0.31 / 11-10-99:
+
+Start with 50 armor in CTF
+Weapon swith code is now uniformly QW style
+- won't switch to weapon when using hook
+- won't switch to lightning gun underwater
+
+Version BETA 0.30 / 11-08-99:
+
+Even more goal tweaks!
+- all items evaluated according to bot's current plan
+- map size is a factor when evaluating goals
+Base goal solids are set properly
+- refresh player when touched
+
+Version BETA 0.29 / 11-07-99:
+
+Moved entity conversion utilities 
+into the original spawn functions:
+- converted entities now recieve the
+  correct marker treatment and are 
+  added to the bot's queue properly
+
+Version BETA 0.28 / 11-07-99:
+
+Extended library of dynamic conversion utilities
+- using Methabol's "PureCTF" code
+- added teleport workarounds for e1m3 and dm4
+New e1m3 waypoints
+
+Version BETA 0.27 / 11-06-99:
+
+Changed how roaming bots traverse the level:
+- they now make use of the "wait" state
+  rather than actually camping an item
+New e1m2 waypoints by gibbie
+Added e1m3 waypoints by gibbie
+Fixed bot team indices 
+- TeamCheckTeam now recieves last 
+  team index after a level change
+Created a new src directory structure:
+- src
+   - bot
+     - marker
+     - camera
+   - ctf
+   - extra
+  <source files>
+  ...
+
+Version BETA 0.26 / 11-03-99:
+
+Roaming killers now stop and camp occasionally
+
+Version BETA 0.25 / 10-31-99:
+
+Defenders now act more 'natural' while defending base
+Added new marker files for Ultra Violence and Debello 
+- new markers by gibbie
+Began working on better lift support
+- based on Matt 'asdf' McChesney's tweaks
+
+Version BETA 0.24 / 10-30-99:
+
+Added Matt 'asdf' McChesney's fixes for the secret dm6 door
+Auto team in observer mode now works again
+Fixed the bot ping code for QuakeWorld
+Included Escher's 'Debello' and 'Ultra Violence' (markers by gibbie)
+- needs to be recompiled to make use of them 
+  because of progs.dat size limits
+First ping and packetloss based skill settings (QuakeWorld only) 
+- must be recompiled with the SKILL definition in settings.h
+- only semi-implemented and not fully tested
+  
+Version BETA 0.23 / 10-29-99:
+
+Fixed a crashing bug
+
+Version BETA 0.22 / 10-28-99:
+
+Automated code writing for flags and teamstarts
+- modified from Methabol's Pure CTF mod
+- 'spot' and 'write' commands choose positions
+  and write them to qconsole.log
+Rewrote base spawning code - big improvements over recent versions
+Modified artifiact goal evaluation
+Bot's teams are now saved across levels
+
+Mr. Elusive released Meqcc version 1.4:
+- http://www.botepidemic.com/gladiator
+
+Version BETA 0.21 / 10-25-99:
+
+Manual flag positions saved off to "registered" cvar
+- flag positions will perist if the same map is loaded
+Added a "remove" feature to remove flags
+- type 'remove' at the console
+Still more goal optimizations
+
+Version Beta 0.20 / 10-22-99:
+
+Added flag locations in the code as an alternative to bsp editing
+- in the future team spawn starts will be added as well (ala Pure CTF)
+Added ctf5 and ctf2 back in (fixed markers by gibbie)
+Changed goal values
+
+Version Beta 0.19 / 10-21-99:
+
+Added e1m2 back in (markers fixed by gibbie)
+
+Version Beta 0.18 / 10-21-99:
+
+Added marker code to info_player_team starts
+Added a NOCLIP mode with z movement for MANUAL mode
+- type 'no_clip' in MANUAL mode to use it
+Removed maps ctf2, and ctf5 until waypoints can be fixed
+Cleaned up auto-teams code for bots
+
+Version Beta 0.17 / 10-14-99:
+
+Still more ctf8 waypoints, courtesy of gibbie
+Changed base goal evaluation
+Modified and added Tony Distler's HelpTeammate code
+- Every five seconds bots will search for a teammate to help 
+- 1. escort humans who've requested an escort
+- 2. escort a flag carrier if they're nearby
+- 3. help a teammate who's engaged in combat
+
+Version Beta 0.16 / 10-12-99:
+
+New ctf8 waypoints
+Fixed bug in red base evaluation
+MOTD altered
+
+Version Beta 0.15 / 10-11-99:
+
+Dug around inside the "team" fields:
+- fixed the crash on MOST maps associated with adding bots
+- fixed the NULL function associated with BestEnemy
+Discovered that CTF maps have the following problems:
+- the custom ctf maps have clipping issues
+- cft5 is missing the "info_intermission" destination
+Removed bot spawning from the observer menu =(
+Improved overall program flow where ctf rules are concerned
+
+
+Version Beta 0.14 / 10-7-99:
+
+This version is much more stable than prior versions
+Removed ztndm5 map until better lift support is available
+Removed debug mode for planning and goal evaluation
+Re-enabled planning modes in QW after optimizations
+Added Matt 'asdf' McChesney's "hacks" ;) thanks Matt!
+- Divide-by-zero error: "Got a NaN velocity on Frogbot"
+- "if" statements added to eliminate "NULL function" fatalities
+Finished bot and player QW skins for Threewave CTF 
+- CTF skins procured from: http://www.telefragged.com/skins
+Changed some of the desire values for goals
+Made all ctf items share one search string
+
+Version Beta 0.13 / 10-5-99:
+
+Changed/fixed some team issues
+Bots now have QW team names
+Began adding custom QW skin support
+
+Version Beta 0.12 / 10-4-99:
+
+Changed manual flag placement:
+- you can only spawn flags of the team you're presently on
+- you can only switch teams if you have admin priveleges
+- thus, eliminating team and flag spawning exploits...
+Fixed the ThinkTime bug which caused a crash when loading bots
+Team-Score doesn't include observer frags (-99) while summing scores
+Detailed-Score doesn't include observer frags (-99) while summing scores
+TeamCheckTeam doesn't include observers while summing team players
+Replaced SUB_UseTargets with the original id code
+Altered artifact goal evaluation
+Added ztndm5 support
+
+Version Beta 0.11 / 10-3-99:
+
+Fixed the stupid mistakes from beta 0.10:
+- Bots standing around doing nothing
+- Team spawning
+- Flag spawning
+Changed sbar code to be more like the original threewave sbar
+
+
+Version Beta 0.10 / 10-2-99:
+
+Added team spawn code
+Added vote exit code
+Added Matt "asdf" McChesney's 'oldsolid' hack for 
+recurring crash in "no assignment for world entity"
+Changed sbar code
+
+Version Beta 0.09 / 9-28-99:
+
+Added a temporary fix for the disappearing flag. When a frogbot produces a 
+"NaN velocity" and touches the flag, the flag "floats" away. Code has been 
+added to prevent the flag from flying away when an owner with a NaN 
+velocities attempts to capture.
+
+Added e1m2 map support (big ups to gibbie!)
+Revamped base goal evaluation
+Added Toss Weapon and Toss Backpack (players only)
+Fixed the detailed scores
+Fixed bot talk (their chat text was the wrong color)
+
+Version BETA 0.08 / 9-25-99: 
+
+Status bar fully rewritten using WriteByte()
+TeamPlayerUpdate rewritten but not implemented
+Optimizations made to base goal spawning
+ 
+Version BETA 0.07 / 9-24-99:
+ 
+Not a public release
+Updated to frogbot source release version 0.13 test
+All the bells and whistles of v0.13 test are included
+Enabled dropring, dropquad, and multiwep
+Added dm3 map support
+Added flag carrier goal evaluation for items
+Special thanks to Mr. Elusive for providing me with the newest Meqcc
+ 
+Version BETA 0.06 / 9-22-99:
+ 
+Bot stategizing tweaked
+Auto Teams fixed
+Dropflag fixed-- the flag doesn't "disappear" anymore
+Added the Threewave status bar and observer mode
+
+Version BETA 0.05 / 9-17-99:
+ 
+Added map ctf2 - thanx again to Gibbie
+Added auto teams for CTF 
+Added simple chat routine (greetings)
+Fixed the flag and flag carrier's "glowing": it was switched
+Consolidated some of the new qc modules into "ctfgame.qc"
+Further Threewave implementation 
+ 
+Version BETA 0.04 / 9-16-99:
+ 
+Added detailed scoring from the Threewave and Ctfbot+ mods
+Added XXX EXPERT CTF scoring to ClientObituary (scoring needs work!)
+Added ctf skins - enabled with game options "custom" and "ctf" (NQ only)
+Re-enabled "simple planning" for bots (use the "simple" command) 
+
+Version ALPHA 0.03 / 9-14-99:
+ 
+First public release
+Added escort ordering
+Added identify player
+Fixed some of the goal workarounds 
+Added stronger goal strategizing for defending
+Added ctf8 support, thanks to Gibbie!  (not optimal yet)
+Added QW logdeath
+Added QW ping
+ 
+Version ALPHA 0.02 / 9-13-99:
+ 
+Internal only
+Added modified bot planning and enemy base strategies from CTFBot+
+Changed goals over from dynamic to fixed searches (performed individually)
+Changed goal values to be more realistic
+Tweaked flag spawning functions flags are now spawned if ctf maps are detected
+TeamDropFlag now allows flag teleportation if anything bad happens to it 
+TeamCaptureFlagThink now makes flag invisible if carrier has Ring of Shadows
+Reduced the chance of NO FREE EDICTS warning/server crash
+Added Team-Scoring (Complete Enhanced Teamplay/J. Spickes)
+Added alternate gib sound
+Added Drop weapon/ring/quad
+Added MOTD
+Made a QuakeWorld version with number of bots listed in server browsers
+Changed this readme
+ 
+Version ALPHA 0.01 / 9-11-99: 
+ 
+first run, internal only; basic flag/base as goals
+ 
+
+
+COPYRIGHTS & DISTRIBUTION:
+--------------------------
+
+The modifications included in this archive are Copyright 1998, Robert
+Field, and Copyright 1999, Gerard Ryan. The original QuakeC source is 
+Copyright 1996, id software.
+
+You may distribute this Quake modification in any electronic format as
+long as:
+
+A.) all the files in this archive are distributed together, and remain 
+    intact and unmodified 
+    
+B.) there are no fees or charges of any kind.
+
+
+DISCLAIMER:
+----------
+
+Software under this agreement is under no kind of warranty. Software
+under this agreement is provided as is, and isn't guaranteed in any
+way by the mod author. Use this software at your own risk.

@@ -1,0 +1,264 @@
+Frogbot Clan Arena - Final NQ line
+==================================
+Title		: Frogbot Clan Arena
+Version	: 0.92kt final
+Date		: Jan 26, 2002
+Author    	: ParboiL
+Email		: parboil@mailru.com
+Download	: http://www.parboil.mailru.com
+
+
+Alternate Download Site
+=======================
+Sounds	: http://members.tripod.com/mtm07/fbcasounds.zip
+
+
+Other Files
+===========
+WinQuake	: ftp://ftp.cdrom.com/pub/idgames2/idstuff/quake/wq100.zip
+GlQuake	: ftp://ftp.cdrom.com/pub/idgames2/idstuff/unsup/glq1114.exe
+Fbca/GLFbca : http://www.parboil.mailru.com/parboil/fbca_exe.zip
+
+Description
+===========
+A Quake mod that combines the Frogbot and Clan Arena.
+
+
+Installation
+============
+Unzip into your Quake folder.
+
+
+Running the game
+================
+
+Create a folder fbca and Unzip into fbca folder.
+Create a bat file:
+---------
+@echo off
+cd..
+quake\winquake.exe -listen 16 -zone 1024
+---------
+
+Important Notes
+===============
+- Refer to readme.txt and readme012c.txt for more information on the Frogbot.
+- Included is fbca.cfg. Executing this file is an easy way to enable Clan Arena, damage frags, and rocket-jumping bots. Also, this sets sv_gamedir to "arena", so QuakeWorld clients won't have to download sounds if they already have them in their arena folder.
+- You can only toggle chasecam during a match and if you are not playing. Attack toggles it on/off. When in chase mode, jump switches to the next client.
+- You can use the reset command instead of reloading the map to change settings such as 'deathmatch' and 'arena'.
+- When 'botrj' is enabled, the bots will always try to rocketjump instead of going the long way. If they don't have a rocket launcher, they will just stand there and do nothing. So, I recommend that you only enable this in modes where they will always be able to rocketjump, such as deathmatch 6 or clan arena.
+
+
+Supported Maps
+==============
+- Dm3
+- Dm4
+- Dm6
+- Ztndm3
+- Ravage
+- Blizz2
+- Frobodm2
+- Amphi2
+- Aggressr
+- Aerowalk
+
+
+Normal commands
+===============
+
+Toggle game modes
+=================
+
+drop		: drop quad/ring (powerup must be enabled)
+arena		: clan arena
+damage	: damage based frags
+raspawn	: ra spawning (so you can play on rocket arena maps)
+botjump	: bot jumping during combat
+botrj		: bot rocket-jumping (must reload map to take effect)
+sounds	: mortal kombat, street fighter, or no sounds
+
+Adding bots
+===========
+
+addbot	: bot will automatically choose team that needs more players
+addbot13	: blue team
+addbot4	: red team
+addbot12	: yellow team
+addbot3	: green team
+
+Toggle items
+============
+
+armortype	: red, yellow, or green armor
+sg		: shotgun
+ssg		: super shotgun
+ng		: nailgun
+sng		: super nailgun
+gl		: grenade launcher
+rl		: rocket launcher
+lg		: lightning gun
+
+Join team next round
+====================
+
+oldteam_blue    : blue
+oldteam_red	    : red
+oldteam_yellow  : yellow
+oldteam_green   : green
+
+Other commands
+==============
+
+reset		: reset server (see 'Important notes' section for more info)
+force		: force a series to begin
+notready	: remove yourself from current team
+chase		: toggle chase from behind or point of view
+settings	: print arena settings
+defaults	: reset arena settings
+commands	: print list of all available commands & their impulse values
+ready       : start match
+break       : stop countdown
+autoreport  : auto team report
+dropweap    : changes dropweap for dropbackpack
+autosteams  : autoteams mode
+nochweap    : avto change weapons
+overtime    : overtime mode
+
+
+Scratch1 commands
+=================
+
+General
+=======
+
+setdeathmatch : deathmatch
+setteamplay	  : teamplay
+settimelimit  : timelimit
+setfraglimit  : fraglimit
+setskill	  : bot skill
+setteams	  : # of teams playing
+setrounds	  : # of rounds to win a series
+
+Player items
+============
+
+sethealth	: health
+setarmor	: armor
+setshells	: ammo for sg/ssg
+setnails	: ammo for ng/sng
+setrockets	: ammo for gl/rl
+setcells	: ammo for lg
+
+
+How to use scratch1 commands
+============================
+
+Normal Quake
+============
+scratch1 3
+setdeathmatch
+
+What's new in this version
+==========================
+- Add function BotInLava
+- The function a_rocketjump is modernized
+- The function SetFireButton is modernized
+- The function Checkground is added (thx Dmsoul)
+- The jumps bots are corrected
+- The function lava jump (aerocontrol) is modernized
+- The function rocket jump (aerocontrol) is modernized
+
+
+Version 0.91 Kombat Teams
+==========================
+- The function mapchange with system of voting (as in KT) is added. / qw final
+- The function of definition and reporting of teams is corrected / final
+- The function of the status of the players for overtime is corrected / final
+- Fix errors in function Reset / se
+- The function Overtime is modernized. / se
+- The function SetColorName / Teamname is corrected. / qw se
+- The function Overtime (like a KT) is added. / the large thank .koval for the help at creation!
+- The complete statistics for all teams is made.
+- The command ChangeTeam is changed.
+- The support of a maps Frobodm2 and Amphi2 is improved.
+- The luminescence of the player in a mode notready / teamplay is added.
+- Is changed Countingdown.
+- Are corrected fine bugs.
+
+
+Version 0.90 Kombat Teams
+==========================
+- Added two new maps Aerowalk & Aggressr + new map Amphi2 / final.
+- Fix errors in function SetColorName / final.
+- Is corrected bug of shooting in the party on a map amphi / final.
+- Is modified AI (bot chooses the best distance) / final.
+- The function Break is changed (like a KT) / final.
+- Is corrected bug in a mode pre_game / final.
+- Is corrected and the function botjump (bot is modernized carries out all jumps) / KT se.
+- The function TeamCheckTeam is modernized.
+- The bugs with a choice of colour of the players are eliminated.
+- The function Autosteams in QW the version is added.
+- The function setskill in QW of the version is corrected.
+- Is found out and some bugs in AI are eliminated.
+- The function Addbot is changed.
+- The bugs with the repeated messages are eliminated.
+- The mode Pre_game and countdown (like a KT) is changed.
+- The function botping is corrected.
+
+
+Version 0.89 Kombat Teams
+=========================
+- Add new function Nochweap/ Only NQ!
+- Update Report.
+- Update final statistic & fix errors (like a KombatTeams) / Kombat Teams.
+- Update function LavaJump (fix error) + bot can jump in pre_game.
+- Fix error bot suicides in lava.
+- Change AI bots in Pre_game (the bot shoots in attacking).
+- Is updated AI bots (when the bot has quad chooses the best weapon for a distance).
+- The error with lifts is corrected.
+- Added new countdown (like a KombatTeams).
+- Update function Report (like a KombatTeams).
+- Change respawn players in match (like a KombatTeams).
+- Added two new final stats "Team & Top Scorers" (like a KombatTeams).
+- Fix errors in Top Scorers / Plus.
+- Added players lighting On/Off.
+- Add Quad lighting in Dropquad mode.
+- Update autoreport (fix errors).
+- Added command Autoteams (bots and humans auto select teams) / Only NQ!
+- Fix errors in function TeamCheckTeam.
+- Added function auto download aliases /Only QW!
+- The time raspawn bots is reduced /Plus.
+- The command messages are changed at Drop Quad /Plus.
+- Change function LightningDamage /Plus.
+
+
+Version 0.88se
+============
+- Added advanced evasive strategies (thanks DMSouL).
+- Added camping AI (thanks DMSouL).
+- Added Improved think function (water code related) thanks Numb.
+- Fixed error in file botweap (SetFireButton).
+- Add bot team report (fix).
+- Add lava jump (thanks Justice).
+- Fix rocketjump.
+- Add command REPORT (fix).
+- Add autoreport (auto team report).
+- In teamplay the bots will auto choose a team.
+- The function Dropbackpack on Dropweapons is replaced :).
+- Two new maps Ravage and Blizz2 are added (support rocket jump) :).
+- Change Countdown :).
+- Added bottalk.
+- Added team score and player statistics :).
+
+
+Special thanks
+==============
+Huge thank Robert 'Frog' Field (frog@powerup.com.au) for the frogbot!!!
+Huge thank Matt 'asdf' McChesney (mtm07@hotmail.com) for the basic codes fbca!!!
+The large thank DMSouL (SOUL@newmail.ru) for the given files AI.
+The large thank .koval (koval@donec.net) for help in creation overtime.
+The large thank Hitry_Bober (bober@mailru.com) for help in creation overtime.
+The large thank DangeR (danger2000@hotbox.ru) for help in creation waypoints.
+The large thank Numb (numb@numb.quakeintosh.com) for water support.
+The large thank Justice (datdeboer@gmx.net) for help at creation Rocket Jump support.
+And who directly or indirectly helped by all themes in creation given mod :).
