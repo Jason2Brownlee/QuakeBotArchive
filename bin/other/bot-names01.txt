@@ -1,0 +1,24 @@
+Name    : Bot Names 0.1
+Author  : Timm 'Mr?' Stokke
+Email   : hestokke@online.no
+WWW     : http://www.planetquake.com/iqc/index.html - Inside 3D!
+Date    : 10 september, 1997
+Credits : All the people on my ICQ list ;)
+          You're names are in there! Hope you dont mind..
+          Martin Elliot, QuakeArt creator.
+Misc    : If you wanna see your name here, send me a mail.
+          Also, if you have any other kewl names you'd like
+          to have added, you know what to do.. (email dumbass ;)
+
+
+What is this?
+-------------
+A file with 55 ASCii names for use with a QuakeC Bot.
+I've seen a few bots out there still using white text for names.
+Atleast now, you won't have to bother about that.
+
+
+Hope you enjoy it!
+
+
+
