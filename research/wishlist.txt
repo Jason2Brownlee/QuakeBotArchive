@@ -23,6 +23,8 @@
 
 
 # files we know/expect to exist
+spvsfrog.zip
+fbctf020.zip
 staticquad.zip
 abandon1.zip
 accuracy.zip

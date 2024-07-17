@@ -76,6 +76,7 @@ ftp://numb.macquakeinfinity.com/numb/ctf/fbctf011.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf013.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf015.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf019.zip
+ftp://numb.macquakeinfinity.com/numb/ctf/fbctf020.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf023.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf032.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf033.zip
@@ -411,4 +412,5 @@ http://xmark.ausgamers.com/xkteams/xkteams1705s.zip
 http://xmark.ausgamers.com/xkteams/xkteams2.zip
 http://zemp.free.fr/qw/fbca094kt.zip
 https://www.quake-info-pool.net/text/urqp104.txt
-
+ftp://ftp.cityline.ru/pub/quake/bots/frog012.zip
+http://www.quake.kiev.ua/spirit/demos/q1/spvsfrog.zip
