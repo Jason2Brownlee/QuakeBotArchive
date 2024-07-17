@@ -610,6 +610,9 @@ WarBot / QuakeBot / QBot
 		most likely:
 			warbot2.zip
 			https://groups.google.com/g/alt.games.quake/c/Bf8A9OR-tNQ/m/cX2RwBydGccJ
+	v?
+		https://web.archive.org/web/20050206210523/http://nygmafiles.essentrix.net/bots/
+		http://nygmafiles.essentrix.net/bots/warbot.zip
 	qbot v1.1
 		Dec 8 1997
 		http://homer.pacific.net.sg/~grinder/qbot11.zip

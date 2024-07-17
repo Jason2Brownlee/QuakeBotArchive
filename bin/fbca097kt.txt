@@ -1,0 +1,453 @@
+Frogbot Clan Arena (QW line)
+============================
+Title		: Frogbot Clan Arena
+Version	: 0.97kt se
+Date		: Mar 02, 2003
+Author    	: ParboiL
+Email		: parboil@mailru.com
+Download	: http://www.parboil.mailru.com
+
+
+Alternate Download Site
+=======================
+Sounds      : http://members.tripod.com/mtm07/fbcasounds.zip
+
+
+Description
+===========
+A Quake mod that combines the Frogbot and Clan Arena & Kombat Teams (KTPro).
+
+
+Installation
+============
+Unzip into your Quake folder.
+
+
+Running the game
+================
+
+Create a folder fbca and Unzip into fbca folder.
+Create a bat file:
+---------
+@echo off
+cd..
+\quake\qwsv.exe +gamedir fbca
+---------
+Then start qwcl.exe and incorporate to local server.
+For game I recommend to use zquake.exe or fuhquake.exe.
+Then write so:
+---------
+@echo off
+cd..
+\quake\(zquake or funquake).exe +gamedir fbca
+---------
+
+Important Notes
+===============
+- Refer to readme.txt and readme012c.txt for more information on the Frogbot.
+- Also, this sets sv_gamedir to "arena", so QuakeWorld clients won't have to download sounds if they already have them in their arena folder.
+- You can use the reset command instead of reloading the map to change settings such as 'deathmatch' and 'arena'.
+- When 'botrj' is enabled, the bots will always try to rocketjump instead of going the long way. If they don't have a rocket launcher, they will just stand there and do nothing. So, I recommend that you only enable this in modes where they will always be able to rocketjump, such as deathmatch 6 or clan arena.
+
+
+Supported Maps
+==============
+- Dm3
+- Dm4
+- Dm6
+- Ztndm3
+- e1m2
+- Aerowalk
+- Spinev2
+- Pkeg1
+- Frobodm2
+- Amphi2
+
+Download Maps
+=============
+http://www.parboil.mailru.com
+
+
+Normal commands
+===============
+
+Toggle game modes
+=================
+
+drop		: drop quad/ring (powerup must be enabled)
+arena		: clan arena
+damage	: damage based frags
+raspawn	: ra spawning (so you can play on rocket arena maps)
+botjump	: bot jumping during combat
+rl_pref     : bot shoots by a rocket launcher more
+lg_pref     : bot shoots by a lightning gun more
+sounds	: mortal kombat, street fighter, or no sounds
+
+Adding bots
+===========
+
+addbot	: bot will automatically choose team that needs more players
+addbot13	: blue team
+addbot4	: red team
+addbot12	: yellow team
+addbot3	: green team
+
+Toggle items
+============
+
+armortype	: red, yellow, or green armor
+sg		: shotgun
+ssg		: super shotgun
+ng		: nailgun
+sng		: super nailgun
+gl		: grenade launcher
+rl		: rocket launcher
+lg		: lightning gun
+
+Join team next round
+====================
+
+oldteam_blue    : blue
+oldteam_red	    : red
+oldteam_yellow  : yellow
+oldteam_green   : green
+
+Other commands
+==============
+
+restart	: restart map
+force		: force a series to begin
+notready	: remove yourself from current team
+settings	: print arena settings
+defaults	: reset arena settings
+commands	: print list of all available commands & their impulse values
+ready       : start match
+break       : stop countdown
+autoreport  : auto team report
+dropweap    : changes dropweap for dropbackpack
+autosteams  : autoteams mode
+aliases     : aliases commands
+overtime    : overtime mode
+botchat     : bot talk mode
+who         : Players status im match
+join        : Spectator join in game
+observe     : reconnect as spectator
+timeup      : timelimit + 5 min
+timedown    : timelimit - 5 min
+fragsup     : fraglimit + 10 frags
+fragsdown   : fraglimit - 10 frags
+lock        : change locking mode
+about       : fbca info
+scores      : print time left and teams scores
+kfjump      : just forward jump
+krjump      : just rocket jump
+dm          : change deathmatch mode
+tp          : change teamplay mode
+silence     : toggle spectator talk
+no_lg       : toggle shaft (only deathmatch 4)
+
+Scratch1 commands
+=================
+
+General
+=======
+
+setdeathmatch : deathmatch
+setteamplay	  : teamplay
+settimelimit  : timelimit
+setfraglimit  : fraglimit
+setskill	  : bot skill
+setteams	  : # of teams playing
+setrounds	  : # of rounds to win a series
+
+Player items
+============
+
+sethealth	: health
+setarmor	: armor
+setshells	: ammo for sg/ssg
+setnails	: ammo for ng/sng
+setrockets	: ammo for gl/rl
+setcells	: ammo for lg
+
+
+How to change skill bot!
+========================
+On default after "addbot" is added bot with skill 10.
+For change of parameter skill do next operation:
+
+The client connect to server.
+In the console consistently type:
+------------------
+skill=
+impulse N
+------------------
+Where: (N -skill 0-20, the blanks are obligatory as it is specified)
+After input "impulse N" the console will write: "skill" canged to "N".
+!!! skill 0 = impulse 255 !!!
+
+How to change team name for bot!
+================================
+In the server console or server.cfg file type:
+------------------------
+localinfo team(N) (name)
+------------------------
+Where: (N -number team 0-13)
+Example: localinfo team4 red
+
+
+What's new in this version
+==========================
+- Is modernized statistics (damage, weapons)
+- The function for count SpawnFrags is changed
+- Is modernized and changed updatebotpings (thanks vvd)
+- Is optimized AI codes
+- Is optimized Match codes
+- Is optimized Weapons codes
+
+
+Version 0.96 Kombat Teams
+==========================
+- Is modernized statistics
+- The code is optimized
+- Is modernized and changed MatchMode
+- Is modernized AI bots
+- Is modernized deathmatch 4 mode (like KTPro) thanks vvd
+
+
+Version 0.95 Kombat Teams
+==========================
+- Bugs fixed
+- Change statistics in duel mode (like last KTPro)
+- Add statistics for duel mode (EndGame H,A & SpawnFrags)
+- The code is optimized
+- The commands 'fragsup' and 'fragsdown' is added
+- Remove FrogbotPrePhysics (optimized)
+- Bot used a shaft a little - is corrected
+- Fixed print team efficiency
+- Fix error in function 'scores'
+- Change print efficiency players
+- Is added variable 'proxy' (for mqwcl & qizmo: invisible bot after death - look *.cfg)
+- Is modernized spawn_tdeath
+- Fix error in overtime mode (repeated overtime)
+- Add new function trigger_teleport
+- Remove function botrj
+- Change ClientResetToMatch
+- Fix error (lava damage in countdown)
+- Change statistics (like KTPro)
+- Add statistics (weapons, powerups, armors, damage)
+- The function MatchMode is modernized
+- Changed CountAllPlayers & CountPlayers
+- Is modernized goal_client
+- Is modernized PlayerReady
+- Fix error in BotTeamTalk (for mvdsv)
+- Fix errors in print team name
+- Is modernized and changed GetTeamName (look *.cfg)
+- Is modernized and changed SetColorName
+- The command 'no_lg' is added
+- Is modernized and changed overtime
+- Is modernized DesiredWeapon
+- Bugs fixed
+
+
+Version 0.94 Kombat Teams
+==========================
+- Is modernized GrenadeAlert (big thanks 3d[power])
+- Is modernized ThinkTime
+- Is modernized DesiredWeapon
+- Is modernized SetFireButton
+- Fix error in LightningDamage (thanks Hell, Xana, rxr)
+- Bot touches items in a lava - is corrected
+- Is modernized MatchMode
+- Is modernized PlayerReady
+- Fix error in LightningDamage (thanks Hell)
+- Is added variable 'k_kfp' (look *.cfg)
+- The final statistics is modernized
+- The function 'scores' is modernized
+- The function 'Aliases' is modernized
+- Is added variable 'add_q_aerowalk' (look *.cfg)
+- Modernized waypoint for map Aerowalk
+- Is modernized function 'DesiredWeapon'
+- Is corrected and modernized function 'lg_pref'
+- Is modernized botweapons
+- Fix error (backpack/dropweap/dmm4)
+- The function 'BotLavaJump' is modernized
+- Add new waypoint for map frobodm2
+- Is corrected and modernized function DropWeap
+- Fix error (ztndm3/info_teleport_destination)
+- The command 'lg_pref' is added
+- Is modernized AI (for map dm6)
+- Fix print names (for mvdsv)
+- The function 'SelectMap' is modernized
+- The function 'SetFireButton' is modernized
+- The bugs in function 'Aliases' are corrected (thanks X)
+- The aerocontrol is modernized
+- Is modernized bottalk codes (after removal bot the messages not printed)
+- Is added variable 'k_spectalk' (look *.cfg)
+- The command 'silence' is added
+- Bugs fixed
+- Is modernized sound codes
+- Make and add waypoint for map pkeg1
+- Is added variable 'k_count' (look *.cfg)
+- The commands 'dm' and 'tp' is added
+- Is added variable 'ffa_mapqueue' (look ffa.cfg)
+- Add ffa timer
+- Fix errors in functions f_jump and r_jump
+- The command 'kfjump' is added
+- The command 'krjump' is added
+- Add waypoint for map e1m2
+- The maps Ravage2, Rapture1, Aggressr, Blizz2 were removed
+
+
+Version 0.93 Kombat Teams
+==========================
+- The command 'scores' is added
+- The function 'PrintScores' is added
+- The command 'about' is added
+- Is modernized and changed motd
+- The function 'Break' is changed
+- The command 'lock' is added
+- The function 'Lock server' is changed
+- Is modernized AI
+- The function 'observe' is added
+- The function 'players list' is changed
+- The commands 'timeup' and 'timedown' is added
+- The final statistics on teams is added
+- The new support for a map Blizz2 is added
+- The new support for a map Spinev2 is added
+- The dark blue luminescence on Quad under GL is added
+- In a mode Drop Quad at loss Quad the message now is written
+- The bugs are corrected and is modernized Team report
+- Is modernized 'TimerThink' (thank rxr)
+- Is added variable 'autoreport'
+- Is added variable 'allow_startsound'
+- The function 'Server locked' is added
+- The mode pre_game, motd, countdown is modernized
+- Has changed style mode match (like KTPro)
+- Replacement command 'reset' at 'restart'
+- The Countdown is modernized
+- The function 'SetFireButton' is modernized
+- The bot physics is modernized
+- Fix errors in function 'Owertime'
+- Add new waypoint for map Ravage2
+- Fix errors in function Impulse Commands
+- Fix errors in function Rocket Jump (the message about print for client)
+- The function BotInLava is modernized
+
+
+Version 0.92 Kombat Teams
+==========================
+- The function SetColorName is modernized.
+- The function BotPing is modernized.
+- The spectators can not use commands except for "join" (only QW)
+- Add two commands "who" and "join" (only QW)
+- Add function BotInLava
+- The function a_rocketjump is modernized
+- Map Rapture1 is added (new waypoint)
+- The alternative function of change skill is added
+- The storing entered skill is added
+- The function SetFireButton is modernized
+- The function Checkground is added (thx Dmsoul)
+- Fix errors in function mapchange
+- Fix errors in teams current status
+- The function botchat is added
+- The jumps bots are corrected
+- The function of calculation of teams is modernized
+- The function of statistics on teams is modernized
+- The function lava jump (aerocontrol) is modernized
+- The function rocket jump (aerocontrol) is modernized
+
+
+Version 0.91 Kombat Teams
+==========================
+- The function mapchange with system of voting (as in KT) is added. / qw final
+- The function of definition and reporting of teams is corrected / final
+- The function of the status of the players for overtime is corrected / final
+- Fix errors in function Reset / se
+- The function Overtime is modernized. / se
+- The function SetColorName / Teamname is corrected. / qw se
+- The function Overtime (like a KT) is added. / the large thank .koval for the help at creation!
+- The complete statistics for all teams is made.
+- The command ChangeTeam is changed.
+- The support of a maps Frobodm2 and Amphi2 is improved.
+- The luminescence of the player in a mode notready / teamplay is added.
+- Is changed Countingdown.
+- Are corrected fine bugs.
+
+
+Version 0.90 Kombat Teams
+==========================
+- Added two new maps Aerowalk & Aggressr + new map Amphi2 / final.
+- Fix errors in function SetColorName / final.
+- Is corrected bug of shooting in the party on a map amphi / final.
+- Is modified AI (bot chooses the best distance) / final.
+- The function Break is changed (like a KT) / final.
+- Is corrected bug in a mode pre_game / final.
+- Is corrected and the function botjump (bot is modernized carries out all jumps) / KT se.
+- The function TeamCheckTeam is modernized.
+- The bugs with a choice of colour of the players are eliminated.
+- The function Autosteams in QW the version is added.
+- The function setskill in QW of the version is corrected.
+- Is found out and some bugs in AI are eliminated.
+- The function Addbot is changed.
+- The bugs with the repeated messages are eliminated.
+- The mode Pre_game and countdown (like a KT) is changed.
+- The function botping is corrected.
+
+
+Version 0.89 Kombat Teams
+=========================
+- Add new function Nochweap/ Only NQ!
+- Update Report.
+- Update final statistic & fix errors (like a KombatTeams) / Kombat Teams.
+- Update function LavaJump (fix error) + bot can jump in pre_game.
+- Fix error bot suicides in lava.
+- Change AI bots in Pre_game (the bot shoots in attacking).
+- Is updated AI bots (when the bot has quad chooses the best weapon for a distance).
+- The error with lifts is corrected.
+- Added new countdown (like a KombatTeams).
+- Update function Report (like a KombatTeams).
+- Change respawn players in match (like a KombatTeams).
+- Added two new final stats "Team & Top Scorers" (like a KombatTeams).
+- Fix errors in Top Scorers / Plus.
+- Added players lighting On/Off.
+- Add Quad lighting in Dropquad mode.
+- Update autoreport (fix errors).
+- Added command Autoteams (bots and humans auto select teams) / Only NQ!
+- Fix errors in function TeamCheckTeam.
+- Added function auto download aliases /Only QW!
+- The time raspawn bots is reduced /Plus.
+- The command messages are changed at Drop Quad /Plus.
+- Change function LightningDamage /Plus.
+
+
+Version 0.88se
+==============
+- Added advanced evasive strategies (thanks DMSouL).
+- Added camping AI (thanks DMSouL).
+- Added Improved think function (water code related) thanks Numb.
+- Fixed error in file botweap (SetFireButton).
+- Add bot team report (fix).
+- Add lava jump (thanks Justice).
+- Fix rocketjump.
+- Add command REPORT (fix).
+- Add autoreport (auto team report).
+- In teamplay the bots will auto choose a team.
+- The function Dropbackpack on Dropweapons is replaced :).
+- Two new maps Ravage and Blizz2 are added (support rocket jump) :).
+- Change Countdown :).
+- Added bottalk.
+- Added team score and player statistics :).
+
+
+Special thanks
+==============
+Huge thank Robert 'Frog' Field for the frogbot!!!
+Huge thank Matt 'asdf' McChesney for the basic codes fbca!!!
+Huge thank rxr for the given files KTPro.
+The large thank 3d[power] for help.
+The large thank DMSouL for help.
+The large thank .koval for help in creation overtime.
+The large thank Numb for water support.
+The large thank Justice for help at creation Lava Jump support.
+And who directly or indirectly helped by all themes in creation given mod :).

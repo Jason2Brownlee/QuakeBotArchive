@@ -23,8 +23,10 @@
 
 
 # files we know/expect to exist
+staticquad.zip
 abandon1.zip
 accuracy.zip
+bandem.zip
 bgadmbot.zip
 bm116se.zip
 bm116src.zip
@@ -106,6 +108,7 @@ fbca089kt.zip
 fbca089se.zip
 fbca090kt.zip
 fbca091kt.zip
+fbca093kt.zip
 fbca094kt.zip
 fbca095kt.zip
 fbca096b.zip
@@ -118,6 +121,7 @@ fbca102kt-rc1.zip
 fbca102pre_beta.zip
 fbca102rc2.zip
 fbca86se.zip
+fbca_se.zip
 fbcasounds.zip
 fbctf003.zip
 fbctf004.zip
@@ -163,6 +167,7 @@ friktf-092800-qw.zip
 friktf-092800.tar.gz
 frikwayeditor11.zip
 frkbt09a.zip
+frog012.zip
 frog2000.zip
 frog_src.zip
 frogbot.rar
@@ -173,6 +178,8 @@ frogbot012.sit
 frogbot012.zip
 frogbot012a.zip
 frogbot012b.zip
+frogbot7.zip
+frogbot_mod.zip
 frogsvsp.zip
 fsk01.zip
 fsk02.zip
@@ -190,7 +197,9 @@ gb025b.zip
 gb025b.zip
 gb025rb.zip
 gb026b.zip
+gbdemo.zip
 gbped10.zip
+glkolor.zip
 glqb17f.zip
 glyde.zip
 glydeqk.zip
@@ -238,6 +247,8 @@ kok220.zip
 koolio.zip
 kqcbotsource.zip
 maniacbt12.zip
+matchcount.zip
+miscban.zip
 monsterfbxid1waysv2.zip
 mpak1v12.zip
 mtffull.zip
@@ -290,6 +301,7 @@ reqqw23.zip
 reqqwsrc.zip
 rnbt3.4.zip
 rnbt3.6.zip
+runebot12.exe
 sbotstuf.zip
 seismo10.zip
 seismo11.zip
@@ -420,6 +432,7 @@ voidm125.exe
 voidm125.zip
 voidm126.exe
 voidm126.zip
+warbot.zip
 warbot14_dat.zip
 warbot14_pak.zip
 warbotpk.zip
@@ -446,9 +459,10 @@ zeus201.zip
 zeus201b.zip
 zeus202b.zip
 zeus20b.zip
-runebot12.exe
+zeusbot.zip
 
 # txt files we expect to exist (based on zip files that exist)
+proj1_13.txt
 abandon1.txt
 bgadmbot.txt
 botmove.txt

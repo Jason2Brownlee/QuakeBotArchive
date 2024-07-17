@@ -50,7 +50,6 @@ ftp://ftp.telefragged.com/pub/qnm/fbedit13.zip
 ftp://ftp.telefragged.com/pub/qnm/fbedit15.zip
 ftp://ftp.telefragged.com/pub/qnm/fbedit17.zip
 ftp://ftp.telefragged.com/pub/quake/bots/oak0855.zip
-ftp://ftp.telefragged.com/рub/frogbotb009.ziр
 ftp://ftp.telepac.pt/pub/idgames2/planetquake/holywars/hwqwbot.exe
 ftp://ftp.telepac.pt/pub/idgames2/planetquake/holywars/hwqwbotv101b.exe
 ftp://ftp.telepac.pt/pub/idgames2/planetquake/holywars/hwqwbotv101c.sit
@@ -125,6 +124,7 @@ http://dmsoul.newmail.ru/mymod7.zip
 http://dmsoul.newmail.ru/notlpb_fbca.ZIP
 http://dmsoul.newmail.ru/src.ZIP
 http://first.quakegate.ru/bots/frogbot.rar
+http://ftp.fragzone.se/?file=spel/quake/bots/fbca100kt.zip
 http://ftp.gamers.org/pub/games/idgames2/planetquake/hwqwbot.exe
 http://ftp.gamers.org/pub/games/idgames2/planetquake/hwqwbot.sit
 http://ftp.gamers.org/pub/games/idgames2/planetquake/hwqwbot.zip
@@ -140,6 +140,8 @@ http://ftp.telepac.pt/pub/idgames2/telefragged/metro/frogbot007.zip
 http://fubar.cstp.umkc.edu:80/quake/files/tballman097.zip
 http://geocities.com/timessquare/hangar/8961/sq12to13.zip
 http://geocities.com/timessquare/hangar/8961/squirt12b.zip
+http://gibbage.mine.nu/quakeworld/bots/fbca099kt.zip
+http://gibbage.mine.nu/quakeworld/bots/fbca100kt.zip
 http://groups.yahoo.com/group/friktf/files/friktf-051901.zip
 http://groups.yahoo.com/group/friktf/files/friktf-092800-qw.zip
 http://groups.yahoo.com/group/friktf/files/friktf-092800.tar.gz
@@ -172,6 +174,7 @@ http://numb.macquakeinfinity.com/bugfix/qwprogs.zip
 http://numb.quakeintosh.com/users/gerrybabe/holywars/frog/hwqwbot.exe
 http://numb.quakeintosh.com/users/gerrybabe/holywars/frog/hwqwbot.sit
 http://nygmafiles.essentrix.net/bots/djbotmk2.zip
+http://nygmafiles.essentrix.net/bots/warbot.zip
 http://nygmafiles.essentrix.net/runebot/runebot12.exe
 http://orca.ucd.ie/~gilligan/warbot.zip
 http://parboil.mailru.com/parboil/fbca086.zip
@@ -242,8 +245,8 @@ http://tlb.quakedev.com/files/fbxways/omega.zip
 http://tlb.quakedev.com/files/fbxways/variants/fbxdoom.rar
 http://tlb.quakedev.com/files/fbxways/variants/fbxpk.zip
 http://trinca.no.sapo.pt/temp/waypoints_maker.rar
-http://tux.telefragged.com/download.pl?dir=telefragged/be/&filename=intarena.zip&dl=local
-http://tux.telefragged.com/download.pl?dir=telefragged/be/&filename=interbotdm79z.zip&dl=local
+http://tux.telefragged.com/download.pl?dir=telefragged/be/&filename=intarena.zip
+http://tux.telefragged.com/download.pl?dir=telefragged/be/&filename=interbotdm79z.zip
 http://tux.telefragged.com/file.pl?dir=telefragged/inside3d/qip/q1/&filename=urqp105beta.zip
 http://tux.telefragged.com/file.pl?filename=darkfrog.zip&dir=telefragged/be/fmods/
 http://tux.telefragged.com/file.pl?filename=f2k001a.zip
@@ -263,7 +266,6 @@ http://tux.telefragged.com/file.pl?filename=vicinity/vicinityqwprogs.zip&dir=tel
 http://tux.telefragged.com/file.pl?filename=vicinity/vicinitysource.zip&dir=telefragged/be/fmods/
 http://web.ukonline.co.uk/johnc/oak0855.zip
 http://web.ukonline.co.uk/Members/jc.burton/iwbot2.zip
-http://www.3ddownloads.com/?file_id=159654
 http://www.3ddownloads.com/showfile.php3?filename=2000.zip
 http://www.3ddownloads.com/showfile.php3?filename=Accuracy.zip
 http://www.3ddownloads.com/showfile.php3?filename=darkfrog.zip
@@ -409,3 +411,4 @@ http://xmark.ausgamers.com/xkteams/xkteams1705s.zip
 http://xmark.ausgamers.com/xkteams/xkteams2.zip
 http://zemp.free.fr/qw/fbca094kt.zip
 https://www.quake-info-pool.net/text/urqp104.txt
+
