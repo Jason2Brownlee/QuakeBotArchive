@@ -3506,6 +3506,17 @@ Lemmings Attack!
 		padla-bot-1on1r.rar
 	https://www.quakeworld.nu/forum/topic/6391/97731/qwtf-servers-with-bots
 		"Lemmings Attack!"
+SexBOT
+	https://www.quaddicted.com/files/idgames2/partial_conversions/xrated/i_am_old_enough_to_look_at_this/sexbot12.txt
+	https://www.quaddicted.com/files/idgames2/partial_conversions/xrated/i_am_old_enough_to_look_at_this/sexbot12.zip
+	other versions
+		sexbot11
+		sexbot10
+	by
+		"esoteric"
+	also made
+		sexqke10.zip
+
 
 
 

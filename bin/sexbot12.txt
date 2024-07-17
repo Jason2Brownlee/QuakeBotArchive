@@ -1,0 +1,260 @@
+
+=============
+
+ SexBOT 1.2
+
+=============
+
+attention     : NO ONE UNDER 18 SHOULD INSTALL OR VIEW THIS MOD.
+
+title         : SexBOT (X-rated cooperative Quake BOT)
+filename      : sexbot12.zip
+author        : esoteric
+date:         : 4-06-99
+quakeC        : yes
+.qc file      : yes, BOT files
+new sounds    : yes, various babes
+progs.dat     : yes, v1.06
+pak0.pak      : yes
+new MDLs      : yes, enforcer and quad
+new BSP       : no
+
+Description   : Yet another variation of TM Bot, it gives you a nude female mascot 
+                bot named 'SexBOT'. SexBOT has her own model file and texture, 
+                based on the Enforcer Model SexDroid (created by Bruce Krueger). 
+                Just activate SexBOT and she'll be completely automated.
+
+                SexBOT also notifies which monster she attacks, and informs you once 
+                that monster is killed.
+
+                Instead of being armed with only an enforcer laser, SexBOT is packing 
+                a rocket launcher for long distance enemies, and a nailgun that she 
+                likes to use up close.
+               
+                I have also incorporated all my SexQuake (sexqke10.zip) monsters into 
+                this SexBOT mod. All the anatomically detailed x-rated females from 
+                SexQuake are here too. The enforcer and quad damage MDLs are work by 
+                Bruce Krueger. They are a great improvement over the original Quake 
+                MDLs. I have only enhanced Bruce's character skins. Includes many new 
+                replacement female sounds to enhance gameplay. 
+
+Female Models : Idealized, centerfold proportioned, generic sexy nude female 
+                characters, replacing almost every original Quake character.
+
+Known Bugs    : my recompiled progs.dat gives a misc_fireball error in the start map
+                and other maps dealing with fireballs, when loading. This error does 
+                not affect gameplay but there are no random lavaballs bouncing out 
+                of the lava.
+
+Other esoteric creations: SexQuake v1.0 (sexqke10.zip) which can be found at
+                          ftp.cdrom.com/pub/quake/partial_conversions/xrated
+                          and other mirrors.
+                                     
+
+====================================================================================
+
+
+* Listing of all the nude male, female monsters and items in Pak0.pak *
+
+
+SexBOT      : nude blond female helper w/ sounds and comments
+Soldier     : nude brunette female w/ sounds
+Dog         : Cujo skin, new sound for pain
+Ogre        : nude big boobed female w/ sounds
+Quad        : 2 titties x 2 sides = Quad, you'll see, w/ new sound
+Knight      : nude redhead female w/ sounds
+Zombie      : nude skinny brunette female w/ sounds
+Wizard      : glowing lava wizard w/ sounds
+Demon       : glowing lava demon
+Fish        : new fish skin
+Enforcer    : nude brunette female w/ sounds
+Hell Knight : nude blond female w/ sounds
+Shalrath    : nude light brunette upper torso
+Spike       : Shalrath (vore) now throws lava spikes
+Wall Zombies: nude brunette female w/ sounds.
+Quakeguy    : no pants, well endowed hero (kill Shub-Niggurath and see him)
+
+
+====================================================================================
+
+
+* Copyright / Permissions *
+
+
+Authors MAY use these modifications as a basis for other publically available 
+work. If you do so, please give me (esoteric) credit for my time spent and 
+refer to this zip file. Thanks...
+
+You may distribute this Quake modification in any electronic format as long as 
+this description file remains intact and unmodified and is retained along with 
+all of the files in the archive and no fees other than the costs of distribution 
+are charged.
+
+
+====================================================================================
+
+
+* Installation *
+
+Make a directory in your Quake folder called "sexbot"
+
+Then, unzip the file in that directory. After that, run:
+
+	
+        c:\quake\quake -game sexbot
+	
+                   - or -
+
+        use the runmod.bat file (edit as needed)         
+
+
+If everything installed correctly, you should see a bunch
+of nude female monsters in the game. Just start the game 
+as you normally would and play SexBOT :-)
+
+The demos have been disabled by default. Edit the quake.rc
+file if you wish to watch the demos with all nude female 
+monsters.
+
+
+================================================================
+
+* How to use Modification *
+
+When you start SexBOT, the control keys are automatically 
+configured to the default keys below:
+
+Q  Activate SexBOT / Deactivate SexBOT
+W  Automatic mode / Manual mode
+
+ Automatic mode commands :
+ E  Fire Weapon
+ R  Toggle Auto-Fire
+ Y  Teleport to Player (you)
+
+ Manual mode commands :
+ E  Toggle movement: Stop/Walk/Run
+ R  Turn Left
+ Y  Turn Right
+
+To change these settings, modify the QUAKE.RC file that
+comes with this patch, and change the following lines:
+
+bind q "impulse 100"
+bind w "impulse 101"
+bind e "impulse 102"
+bind r "impulse 103"
+bind y "impulse 104"
+
+
+==========================================================================
+
+* Technical Details *
+
+ Features:
+
+        1. Manual or automatic control of SexBOT
+        2. SexBOT can draw enemy fire
+        3. SexBOT can activate trigger fields on the floor (like
+	   the lights on E1M1 when going down the spiral ramp).
+        4. SexBOT can go through teleport portals
+        5. SexBOT tries to return when you get too far away
+        6. SexBOT possesses a rocket launcher for long distance, and a
+           nailgun for close up work
+        7. SexBOT has her own custom model file, and new sounds
+        8. SexBOT informs you of which monster she is attacking, and also 
+           informs you when / if she kills them.
+       
+ Coding Bugs:
+
+        1. SexBOT will accidently shoot you if you get in the way,
+           between her and the target (which will usually kill you
+           considering the power level of her weapons) !!
+        2. SexBOT cannot push buttons on the wall
+        3. SexBOT cannot jump
+        4. SexBOT cannot walk over broken ground.
+        5. SexBOT sometimes gets lost (dumb blond syndrome)
+	6. Certain functions (i.e. teleport, move, etc.)
+	   interrupt the dying process giving you a ghost SexBOT
+	   that is unsubstantial and unkillable
+        7. Level changes may not be handled correctly by the code
+	   (SexBOT may not be deactivated, just lost)
+        8. Changing your color during gameplay after you've activated
+           SexBOT can be hazardous, as SexBOT will then proceed to attack
+           you! (It's you going up against your own bot)
+        
+
+==========================================================================
+
+
+ * Tools used in the creation of SexBOT *
+
+ QC106pac
+ WinPak 1.30
+ QMElite 3.1
+ ProQCC 1.60
+ QuakeMe 2.3
+ Paintshop Pro 4.12
+ Windows 95 Paintbrush (for some cut & paste stuff)
+
+
+===================================================================
+
+
+ * Still some great Quake related URLs to files, docs, help, etc *
+
+ ftp.cdrom.com
+ ftp.stomped.com
+ www.inside3d.com
+
+
+===================================================================
+
+
+Credits: ID Software for DOOM and QUAKE
+                 
+         Montanuy for bringing us the QuakeC Manual v1.0
+                 
+         Vhold <vhold@netwizards.net> for the basic "Crucified Zombie" code
+                 
+         Bubbah <yue@worldacces.nl, http://www.worldacces.nl/~yue/mdl.htm>
+         for the excellent MDL information  :-)
+           
+         Johnathon E. Wright for the Cujo skin
+           
+         Peggy Gates for the newfish2 skin
+           
+         Bruce W. Krueger <krueger@slip.net, http://www.slip.net/~krueger>
+         for the excellent replacement enforcer (SexDroid) MDL, Quad MDL, and 
+         first nude female replacement Quake skin to enhance.
+           
+         www.inside3d.com for their excellent webpage and online documentation
+         that revolves around making modifications to Quake, with QuakeC.
+
+         Rene Post <renep@xs4all.nl> for QuakeMe 2.3 and QMElite 3.1
+
+         Antony Barratt <antony@barcom.co.uk, http:/www.whiplash.demon.co.uk
+         /index.htm for WinPak 1.3
+
+         Lee Smith <lees@infoave.net> for ProQCC 1.60
+
+         Dan Bickell <danbickell@loop.com> for the base zombie chick skin
+
+         Micheal and Tim Polucha <mpolucha@earthlink.net> for TM BOT v1.0 and 1.1
+
+         Jaymz <lcullen@eis.net.au> for TLGBot enhanced weapons code
+
+     
+=================================================================================
+
+* Revisions *
+
+SexBOT 1.0 - initial release
+
+SexBOT 1.1 - caught a bug with the SexBot sounds (fixed)            
+           - updated an error in the documentation (fixed)
+           - updated all of SexBOT's displayed incoming messages
+
+SexBOT 1.2 - updated the Quakeguy with a character I created, named WEEN
+           - taught the SexBOT how to strafe and fire (via QC code)
+           - taught the SexBOT how to duck to avoid enemy damage (via QC code)

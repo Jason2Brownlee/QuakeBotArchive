@@ -212,6 +212,7 @@ Rumble 2: GuardBot's Challenge | Christopher Dozier "Arwing-X" | [rumble2.zip](b
 SAM-FraG (BGBot) | "SpiderMonkie" | [sam-fragv001a.zip](bin/sam-fragv001a.zip) ([txt](bin/sam-fragv001a.txt))
 SamBot | Sam Stephens aka "Spam-man" | [sambot.zip](bin/sambot.zip) ([txt](bin/sambot.txt))
 Seeker Falcon | Nick Bousman aka "SiNGE", Glenn Saaiman aka "Griphis" | [sfalc11.zip](bin/sfalc11.zip) ([txt](bin/sfalc11.txt))
+SexBOT | "esoteric" | [sexbot12](bin/sexbot12.zip) ([txt](bin/sexbot12.txt))<br>sexbot11.zip<br>sexbot10.zip
 Shambler Bot | Jason Long aka "Zaphod" | [shambler.zip](bin/shambler.zip) ([txt](bin/shambler.txt))
 Sigmund Bot | Rich Whitehouse aka "thefatal" | [sigbot2.zip](bin/sigbot2.zip)<br>[sigbtsrc.zip](bin/sigbtsrc.zip)<br>[sigbot1.zip](bin/sigbot1.zip)
 SkyBlazer | Darryl Atchison aka "coffee" | [sky.zip](bin/sky.zip) ([txt](bin/sky.txt))<br>[sky_src.zip](bin/sky_src.zip)
@@ -295,6 +296,7 @@ tEdbot | Grant Davies aka "RUMble" and Ramanan Rajeswaran | navtest2.zip<br>[nav
 Terminator Bot | Olivier Montanuy | trmbot96.zip ([txt](bin/trmbot96.txt))<br>[quake-termbot-0.96-1.i386.rpm](bin/quake-termbot-0.96-1.i386.rpm)<br>[quake-termbot-0.96-1.src.rpm](bin/quake-termbot-0.96-1.src.rpm)<br>termbot-src-096.tar.gz<br>[trmbot09.zip](bin/trmbot09.zip) ([txt](bin/trmbot09.txt))<br>[trmbot09.tgz](bin/trmbot09.tgz)<br>[botsrc09.zip](bin/botsrc09.zip)<br>[botsrc09.tgz](bin/botsrc09.tgz)<br>[trmbot08.zip](bin/trmbot08.zip) ([txt](bin/trmbot08.txt))<br>[botsrc08.zip](bin/botsrc08.zip)<br>trmbot07.zip
 Tsumi to Botsu | Rich Whitehouse aka "thefatal" | [tusmi01.zip](bin/tusmi01.zip)
 ZaphBot | Kevin Burfitt aka "Zaph" | zbot9504.zip<br>zbotdem.zip
+
 
 ## Quake Bot Files
 
