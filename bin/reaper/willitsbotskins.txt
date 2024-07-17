@@ -1,0 +1,49 @@
+Willits Bot Skin Pack
+=====================
+
+This is a modified player.mdl and h_player.mdl for use with the
+ReaperBots or any other bots that use MultiSkin models.
+
+It is based on the Willits skin (by Tim Willits, aka GOD).
+Why this skin? Because I think it is the best quake skin ever. Unlike
+most, it is well made, has colour support, and isn't a cheap novelty
+that grows tiresome after 5 minutes. Use it as your base skin in QW.
+
+The player.mdl contains 16 different coloured variants of the skin.
+The first 14 use the available colours for both pants and shirts.
+Skin 15 is the default colours, and skin 16 uses the colours I use on this
+skin in QuakeWorld. If you use a combination of bots and humans you should
+modify the mdl so that skin 15 becomes skin 1.
+
+The h_player.mdl (by me) contains 16 coloured gibbed
+helmets to match the colours of the bots they were blown off of.
+
+For The Uninitiated
+-------------------
+Put both the files in a progs directory in your bot folder (eg.
+C:\Quake\Reaper\Progs) and run your bots normally.
+Better yet, use PakExplorer to put the models in your pak#.pak files.
+
+Credits
+-------
+All I did was make the skin into different colours (plus the
+gibbed heads). The real credit goes to:
+
+id (duh), in particular Tim Willits.
+The makers of QuakeME and PakExplorer.
+Steve Polge for the reaper bots (even if his attitude after joining Epic...).
+You for reading this (and hopefully using the skins).
+
+
+I would just like to say that this is the best multiskin pack for Q1
+that I've seen. Honest.
+
+I also have:
+-an armor.mdl to match the skins.
+-gfx.wad(s) to replace the head in the status bar with a cross (similar to
+ to Q2). This way the status bar is skin independant.
+-Pak3.pak for the CTF Bot. Bases the skins on the Willits skin. Changes
+ the .mdls for the hook. Skin independant gfx.wad for status bar.
+ Modified armor.mdl.
+
+grimlock@one.net.au
