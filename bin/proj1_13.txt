@@ -1,0 +1,68 @@
+                  proj1_13.zip  -  QUAKE Project1 v 1.3
+
+
+Okay. It's my QUAKE Project1 v1.3
+
+    Dozens of QuakeC patches in one. Deathmatch code completely rewritten!
+
+=============================================================================
+Whats new in v1.3:
+ v1.3
+     Dropping Grappling Hook model changed.
+     Now Grappling Hook with QuadDamage has 2-times more damage.
+     Spikes splash on water surface added (very nice effect).
+     Bullets splash on water surface added.
+     Nail ammo bug fixed.      
+     "temp1 64" value added. When temp1=64 all flame models DISABLED 
+      for improving game performance (great!).
+     Bfg model little changed (thanks to CptPower!)
+     Little bug with backpacks fixed.
+     "Dead body flying out of level" bug fixed! (No finally but on 99% :) 
+     Skins for head's after gibbing added (MultiSkin Pro).
+     Number of skins decreased to 14 (leaved only best). Impulse 220-234
+     for direct set. Added 2 new skins.
+     All skins checked for axe, flame, head and correct position.
+
+=============================================================================
+
+    Project1 including lots of features:                         
+ 
+    New weapons: BFG and Throwing Axes (with several new features).
+    Exploding backpacks (lots of features and effects).
+    Drop/Trade backpacks feature for deathmatch/teamplay.
+    All powerups can be switched ON/OFF.
+    MultiSkin 1.1 (with Dead body MultiSkin!).
+    Rockets/Nails/etc. can pass through teleports.
+    There are several blood effects with dead bodies - blood trails when you 
+    walk/run over someone, and when you kill someone in the water they float 
+    to the top leaving a blood trail.
+    Weapons are more like in DOOM - SSG's powered up significantly. Rockets 
+    slowed down. All weapon critically pretuned - lot's hours of net playtesting.
+    Game speeded up, etc.
+    "Deathmatch 3", "deathmatch 69", "teamplay 2" added.
+    Observer mode.
+    Nails ricochet from walls and splash on water surface.
+    You can edit deathmatch maps "on the fly" - during the game (Admin mode).
+    You can save your edited levels for future games.
+    Grappling Hook v2.3
+    Many new deathmatch messages (you can switch part of messages ON/OFF)
+    Many new cool sounds.
+    Lots of other effects and features.
+    You can switch off several parts of Project1.
+    You can disable all external models/sounds - for running Project1 server
+     in Internet.
+    You can tune PROJECT1 for best performance on your PC by switching off
+     several standart Quake resources.
+    If you want Project1 fully addopted for QuakeWorld - look for 
+     proj1_qw_13beta.zip!
+
+    Sorry, I don't have time to write a manual, for more details please
+    read history.txt (english). 
+
+
+                        Sincerely yours Peter (Dragon__#quake)
+                                                        
+    Peter Porai-Koshits
+    peter@softjoys.ru
+    2:5030/133.8
+                                          

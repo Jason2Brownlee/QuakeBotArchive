@@ -482,7 +482,6 @@ zeus20b.zip
 zeusbot.zip
 
 # txt files we expect to exist (based on zip files that exist)
-proj1_13.txt
 abandon1.txt
 bgadmbot.txt
 botmove.txt
