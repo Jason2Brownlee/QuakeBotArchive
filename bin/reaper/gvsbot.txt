@@ -1,0 +1,10 @@
+Georg Vassiliev
+e-mail reklama@ascod.ru
+Fido 2:5030/140.14
+
+four bots (Reaper 8.1) 3 skill fraglimit 50 dm2
+
+      frag    death      suicide
+i'm   50         0          1
+rbot1  ~16
+
