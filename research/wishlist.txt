@@ -23,9 +23,6 @@
 
 
 # files we know/expect to exist
-spvsfrog.zip
-fbctf020.zip
-staticquad.zip
 abandon1.zip
 accuracy.zip
 bandem.zip
@@ -97,6 +94,7 @@ elim13.zip
 elimpack.zip
 f2k001a.zip
 f2k005d.zip
+fbarena.zip
 fbarena013.zip
 fbarena050.zip
 fbarena060.zip
@@ -136,6 +134,7 @@ fbctf013.zip
 fbctf014.zip
 fbctf015.zip
 fbctf019.zip
+fbctf020.zip
 fbctf022.zip
 fbctf023.zip
 fbctf024.zip
@@ -202,6 +201,11 @@ gb026b.zip
 gbdemo.zip
 gbped10.zip
 glkolor.zip
+glqb17a.zip
+glqb17b.zip
+glqb17c.zip
+glqb17d.zip
+glqb17e.zip
 glqb17f.zip
 glyde.zip
 glydeqk.zip
@@ -289,6 +293,11 @@ proj1_93.zip
 proj1_99.zip
 proj1_qw_12beta.zip
 proj_tmp.zip
+qb17a.zip
+qb17b.zip
+qb17c.zip
+qb17d.zip
+qb17e.zip
 qb17f.zip
 qcbot001.zip
 rakoolio.zip
@@ -314,10 +323,13 @@ seismo15.zip
 seismo16.zip
 seismo17.zip
 seismo18.zip
+spvsfrog.zip
 sq12to13.zip
 sqdbt201.zip
 squirt10.zip
 squirt12b.zip
+src101final.zip
+src102.zip
 src_fbca085.zip
 src_fbca086.zip
 src_fbca087.zip
@@ -335,6 +347,7 @@ src_fbca099.zip
 src_fbca100.zip
 src_fbca101.zip
 src_fbca102.zip
+staticquad.zip
 stfm10.zip
 superman11.zip
 swbot1.zip
@@ -443,6 +456,11 @@ waypack1.zip
 waypoints_maker.rar
 win_bm.zip
 wlbot1.9.zip
+wqb17a.zip
+wqb17b.zip
+wqb17c.zip
+wqb17d.zip
+wqb17e.zip
 wqb17f.zip
 wyrmb1.zip
 wyrmb11.zip
@@ -635,7 +653,6 @@ frog2k.rar
 frogbot_demo.zip
 frogffa.zip
 gem_dm6.zip
-frogbotmaps.zip
 frog_re2.zip
 OmiEdit01.zip
 
