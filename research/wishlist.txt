@@ -482,6 +482,7 @@ zeus20b.zip
 zeusbot.zip
 sexbot10.zip
 sexbot11.zip
+proj1_v1_final.zip
 
 # txt files we expect to exist (based on zip files that exist)
 abandon1.txt
@@ -639,6 +640,7 @@ zeus204.txt
 zeus2041.txt
 zeus2042.txt
 zeus20b.txt
+proj1_v1_final.txt
 
 # other
 mac_hwbot003b7final.sit.bin
