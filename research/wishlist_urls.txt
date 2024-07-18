@@ -217,6 +217,7 @@ http://parboil.quakeworld.ru/tappak/fbca102kt-rc1.zip
 http://peak-two.uplb.edu.ph/~ralr/gbdemo.zip
 http://pelit.saunalahti.fi/telenation/telefragged/inside3d/qip/q1/urqp105beta.zip
 http://perso.wanadoo.fr/montanuy/bot/trmbot96.zip
+http://perso.wanadoo.fr/montanuy/bot/termbot-src-096.tar.gz
 http://pw2.netcom.com/~kroeker/glqb17.zip
 http://pw2.netcom.com/~kroeker/GLQBbeta.zip
 http://pw2.netcom.com/~kroeker/glqwb17.zip
