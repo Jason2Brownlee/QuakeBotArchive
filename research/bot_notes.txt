@@ -1778,6 +1778,94 @@ Frog Bot Clan Arena (FBCA)
 	https://www.quakeworld.nu/forum/topic/4784/parboil-site-down-who-will-replace
 		on parboil's site being down
 	http://github.com/ezQuake/fbca
+FBCA (asdf)
+	Matt 'Asdf' McChesney
+	frogbot
+		frogbot013.zip after 0.83, before that frogbot012.zip
+	homepage
+		http://members.xoom.com/mtm07/
+			not archived
+	review
+		http://www.botepidemic.com/fmods/rvw_fbca.htm
+			https://web.archive.org/web/19990828133817/http://www.botepidemic.com:80/fmods/rvw_fbca.htm
+	mods
+		http://www.botepidemic.com/fmods/mods.htm
+			https://web.archive.org/web/19991130145659/http://www.botepidemic.com/fmods/mods.htm
+				https://web.archive.org/web/19991130145659/http://tux.telefragged.com/file.pl?filename=fbca085.zip&dir=telefragged/be/fmods/
+				https://web.archive.org/web/19991130145659/http://tux.telefragged.com/file.pl?filename=fbcasound.zip&dir=telefragged/be/fmods/
+	announcements
+		botboard.telefragged.com
+		botepidemic.com/fmods
+	news
+		http://www.botepidemic.com/fmods/
+			https://web.archive.org/web/20000815235543/http://www.botepidemic.com/fmods/
+				https://web.archive.org/web/20000815235543/http://tux.telefragged.com/file.pl?filename=fbca085.zip&dir=telefragged/be/fmods/
+	botbard
+		https://web.archive.org/web/20000614042757/http://botboard.telefragged.com/showpost.pl?Board=quake1&Number=1304&page=7&view=collapsed&sb=5
+			Frogbot Clan Arena 0.84
+			http://members.xoom.com/mtm07/fbca084.zip
+			Thu Jul 22 19:17:24 1999
+		https://web.archive.org/web/20001101055558/http://botboard.telefragged.com/showprofile.pl?User=Asdf&Number=1304&Board=quake1&what=showpost&page=7&view=collapsed&mode=flat&sb=5
+			Profile for Asdf
+		https://web.archive.org/web/20000528071847/http://botboard.telefragged.com/showpost.pl?Board=quake1&Number=818&page=12&view=collapsed&sb=5
+			Frogbot Clan Arena 0.82
+			Sat May 8 01:13:58 1999
+			http://members.xoom.com/mtm07/fbca082.zip
+		more
+	groups
+		https://groups.google.com/g/fido7.ru.game.quake/c/zYeyvRs9u-g/m/9YOOgxCI69IJ
+			Version: 0.85
+		https://groups.google.com/g/fido7.ru.game.quake/c/xhf6pFzzSV0/m/ND32yEU_e8wJ
+			Frogbot Clan Arena (0.85)
+		https://groups.google.com/g/fido7.ru.game.quake/c/LyMayvY5luk/m/fE6fkiOnZHUJ
+			 Frogbot Clan Arena v0.84
+	fbca050.zip
+		first public release
+		listed in "fbca085.zip/whatsnews.txt"
+	fbca060.zip
+		listed in "fbca083.zip/whatsnews.txt"
+	fbca070.zip
+		listed in "fbca083.zip/whatsnews.txt"
+	fbca080.zip
+		listed in "fbca083.zip/whatsnews.txt"
+		?
+	fbca081.zip
+		listed in "fbca083.zip/whatsnews.txt"
+		?
+	fbca082.zip
+		http://members.xoom.com/mtm07/fbca082.zip
+	fbca083.zip
+		June 15, 1999
+		http://members.xoom.com/mtm07/fbca083.zip
+		http://tux.telefragged.com/file.pl?filename=fbca083.zip&dir=telefragged/be/fmods
+	fbca084.zip
+		http://members.xoom.com/mtm07/fbca084.zip
+		http://tux.telefragged.com/file.pl?filename=fbca084.zip&dir=telefragged/be/
+	fbca085.zip
+		October 2, 1999
+		http://www.3ddownloads.com/showfile.php3?filename=fbca085.zip&directory=/telefragged/be/fmods
+		http://tux.telefragged.com/file.pl?filename=fbca085.zip&dir=telefragged/be/fmods/
+		http://members.tripod.com/mtm07/fbca085.zip
+	fbcasounds.zip
+		http://members.xoom.com/mtm07/fbcasounds.zip
+		http://tux.telefragged.com/file.pl?filename=fbcasounds.zip&dir=telefragged/be/
+	fbcasound.zip (same thing?)
+		http://www.3ddownloads.com/showfile.php3?filename=fbcasound.zip&directory=/telefragged/be/fmods
+		http://tux.telefragged.com/file.pl?filename=fbcasound.zip&dir=telefragged/be/fmods/
+		http://www.3ddownloads.com/showfile.php3?filename=fbcasound.zip&directory=/telefragged/be/fmods/
+		timestamps
+			wav: 21 dec 1998 (date of first release?)
+			ra: 13 mar 1999
+FBCA (parboil)
+	http://www.botepidemic.com:80/fmods/mods.htm
+		https://web.archive.org/web/20010418034523/http://www.botepidemic.com:80/fmods/mods.htm
+			https://web.archive.org/web/20010418034523/http://www.botepidemic.com/fmods/fbca088.zip
+		https://web.archive.org/web/20010708003925/http://www.botepidemic.com:80/fmods/mods.htm
+			https://web.archive.org/web/20010708003925/http://www.botepidemic.com/fmods/fbca088se3.zip
+	fbca088.zip
+		https://web.archive.org/web/20010418034523/http://www.botepidemic.com/fmods/fbca088.zip
+	fbca088se3.zip
+		https://web.archive.org/web/20010708003925/http://www.botepidemic.com/fmods/fbca088se3.zip
 FBCA 99
 	http://quakeone.com/proquake/frogbots-099.zip
 	https://steamcommunity.com/sharedfiles/filedetails/?id=123626484

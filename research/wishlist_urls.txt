@@ -286,7 +286,6 @@ http://tux.telefragged.com/file.pl?filename=fbca084.zip
 http://tux.telefragged.com/file.pl?filename=fbca084.zip&dir=telefragged/be
 http://tux.telefragged.com/file.pl?filename=fbca084.zip&dir=telefragged/be/
 http://tux.telefragged.com/file.pl?filename=fbcasounds.zip&dir=telefragged/be
-http://tux.telefragged.com/file.pl?filename=fbcasounds.zip&dir=telefragged/be/
 http://tux.telefragged.com/file.pl?filename=fbctf004.zip&dir=telefragged/be/fmods
 http://tux.telefragged.com/file.pl?filename=fbctf005.zip&dir=telefragged/be/fmods
 http://tux.telefragged.com/file.pl?filename=fbctf009.zip&dir=telefragged/be/fmods
