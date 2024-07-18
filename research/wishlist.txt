@@ -33,7 +33,7 @@ bm119gl.zip
 bm121.zip
 bm121r3.zip
 botmove.zip
-Bots_Quad_Hunt.zip
+bots_quad_hunt.zip
 botskn12.zip
 botskn13.zip
 botskn14.zip
@@ -67,6 +67,7 @@ darkbt09.zip
 darkbt10.zip
 darkbt4.zip
 darkfrog.zip
+demon.zip
 djbotmk2.zip
 dmbt20b1.zip
 dmbt20b2.zip
@@ -212,7 +213,7 @@ glydeqk.zip
 grdbot13.zip
 hhbot.zip
 holomod.zip
-HolyFbot_Mod11.EXE
+holyfbot_mod11.exe
 holyfbotmod05.zip
 holyfbotmod06.zip
 holyfbotmod07.zip
@@ -292,6 +293,7 @@ proj1_92.zip
 proj1_93.zip
 proj1_99.zip
 proj1_qw_12beta.zip
+proj1_v1_final.zip
 proj_tmp.zip
 qb17a.zip
 qb17b.zip
@@ -323,6 +325,8 @@ seismo15.zip
 seismo16.zip
 seismo17.zip
 seismo18.zip
+sexbot10.zip
+sexbot11.zip
 spvsfrog.zip
 sq12to13.zip
 sqdbt201.zip
@@ -480,9 +484,6 @@ zeus201b.zip
 zeus202b.zip
 zeus20b.zip
 zeusbot.zip
-sexbot10.zip
-sexbot11.zip
-proj1_v1_final.zip
 
 # txt files we expect to exist (based on zip files that exist)
 abandon1.txt

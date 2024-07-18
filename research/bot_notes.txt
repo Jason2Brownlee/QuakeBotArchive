@@ -3516,6 +3516,14 @@ SexBOT
 		"esoteric"
 	also made
 		sexqke10.zip
+DemonBot
+	https://web.archive.org/web/20010709233927/http://www.quakemods.net/content/modlist/
+		"Add demonbots to your deatchmatch!"
+		http://www.ing.umu.se/~da00njn/Demon.zip
+		https://web.archive.org/web/20010709233927/http://www.ing.umu.se/~da00njn/Demon.zip
+	http://www.ing.umu.se/~da00njn
+		https://web.archive.org/web/20020608001145/http://www.ing.umu.se/~da00njn/tubal.html
+		"Tubal 's Page"
 
 
 
