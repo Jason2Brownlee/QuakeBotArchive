@@ -1857,15 +1857,122 @@ FBCA (asdf)
 			wav: 21 dec 1998 (date of first release?)
 			ra: 13 mar 1999
 FBCA (parboil)
+	Alex 'ParboiL' Pakhomov
+	Alexey Pakhomov
+	homepages
+		parboil.newmail.ru
+		parboil.mailru.com
+		parboil.quakeworld.ru
+		parboil.tripod.com
+	announcements
+		botboard.telefragged.com
+		botepidemic.com/fmods
 	http://www.botepidemic.com:80/fmods/mods.htm
 		https://web.archive.org/web/20010418034523/http://www.botepidemic.com:80/fmods/mods.htm
 			https://web.archive.org/web/20010418034523/http://www.botepidemic.com/fmods/fbca088.zip
 		https://web.archive.org/web/20010708003925/http://www.botepidemic.com:80/fmods/mods.htm
 			https://web.archive.org/web/20010708003925/http://www.botepidemic.com/fmods/fbca088se3.zip
-	fbca088.zip
-		https://web.archive.org/web/20010418034523/http://www.botepidemic.com/fmods/fbca088.zip
-	fbca088se3.zip
-		https://web.archive.org/web/20010708003925/http://www.botepidemic.com/fmods/fbca088se3.zip
+	http://www.botepidemic.com/fmods/
+		https://web.archive.org/web/20010424123831/http://www.botepidemic.com/fmods/
+			Alex 'ParboiL' Pakhomov
+			April 8 , 2001
+				Frogbot Clan Arena 0.88 by ParboiL
+				http://www.botepidemic.com/fmods/fbca088.zip
+			April 18, 2001
+				http://www.botepidemic.com/fmods/fbca088se.zip
+				SE
+		https://web.archive.org/web/20010606231709/http://www.botepidemic.com:80/fmods/
+			April 26, 2001
+				Frogbot Clan Arena 0.88SE
+				http://www.botepidemic.com/fmods/fbca088se3.zip
+	botboard.telefragged.com
+		https://web.archive.org/web/20010831040327/http://botboard.telefragged.com/showprofile.pl?User=ParboiL&Board=quake1&what=wwwthreads&page=0&view=collapsed&sb=5
+			Profile for ParboiL
+			"Alexey"
+		https://web.archive.org/web/20010408130017/http://botboard.telefragged.com/wwwthreads.pl?action=list&Board=quake1
+			New version Frogbot Clan Arena 0.87! (0)	ParboiL	Tue Mar 13 02:44:34 2001
+			I have done a new version Frogbot Clan Arena 88 :)))) (0)	ParboiL	Wed Apr 4 03:42:09 2001
+		https://web.archive.org/web/20010826200541/http://botboard.telefragged.com/showpost.pl?Board=quake1&Number=2398&page=0&view=collapsed&sb=5
+			I have done a new version Frogbot Clan Arena 88 :))))
+		https://web.archive.org/web/20010903234747/http://botboard.telefragged.com/wwwthreads.pl?action=list&Board=quake1&page=0&view=collapsed&sb=5
+			New Frog Bot Clan Arena 0.89 SE (1)new	ParboiL	Wed Jul 25 12:08:34 2001
+		https://web.archive.org/web/20010830084016/http://botboard.telefragged.com/showpost.pl?Board=quake1&Number=2421&page=0&view=collapsed&sb=5
+			New Frog Bot Clan Arena 0.89 SE
+			http://www.parboil.mailru.com/parboil/fbca089se.zip
+		https://web.archive.org/web/20010830032859/http://botboard.telefragged.com/showpost.pl?Board=quake1&Number=2411&page=0&view=collapsed&sb=5
+			New beta FBCA 0.89b
+			http://www.parboil.mailru.com/parboil/fbca089b.zip
+			Fri May 18 01:29:02 2001
+	http://www.parboil.mailru.com
+		https://web.archive.org/web/20021210124705if_/http://www.parboil.mailru.com/index.html?aboutpl.html
+			Alexey Pakhomov
+	http://www.parboil.newmail.com
+		?
+	http://parboil.quakeworld.ru:80/index.html?news01.html
+		https://web.archive.org/web/20021010030426if_/http://parboil.quakeworld.ru:80/index.html?news01.html
+			 Frogbot Clan Arena 0.87 ParboiL 26.02.01
+		https://web.archive.org/web/20040714013756if_/http://parboil.quakeworld.ru/index.html?news01.html
+			Ошибки в Fbca 0.89se plus ParboiL 29.08.01
+			News about fbca 0.89se part V ParboiL 24.07.01
+			News about fbca 0.89se part III ParboiL 27.06.01
+			News about fbca 0.89se ParboiL 12.06.01
+			Frogbot Clan Arena 0.89se ParboiL 06.06.01
+			News about Fbca 0.89 ParboiL 31.05.01
+			Fbca 0.89 beta. ParboiL 23.05.01
+			QuakeWorld версии Frogbot. ParboiL 05.05.01
+			Frogbot Clan Arena 0.88se release. ParboiL 28.04.01
+			Добавление в FBCA 0.88! ParboiL 18.04.01
+			Frogbot Clan Arena 0.87b QW version ParboiL 01.03.01
+			Frogbot Clan Arena 0.87 ParboiL 26.02.01
+		https://web.archive.org/web/20040714014300if_/http://parboil.quakeworld.ru/index.html?news00.html
+			FBCA 0.86 Special Edition ParboiL 11.09.00
+			Frogbot Clan Arena 0.86 и карту DM4. - Правила соревнований ParboiL 10.07.00
+	086
+		http://parboil.mailru.com/parboil/fbca086.zip
+		http://parboil.quakeworld.ru/parboil/fbca086.zip
+		http://www.parboil.newmail.ru/parboil/fbca86se.zip
+		http://parboil.quakeworld.ru/parboil/fbca86se.zip
+	087
+		form
+			https://web.archive.org/web/20010408130017/http://botboard.telefragged.com/wwwthreads.pl?action=list&Board=quake1
+	088
+		http://www.botepidemic.com/fmods/fbca088.zip
+			Feb 30, 2001 (april 6?)
+		http://www.botepidemic.com/fmods/fbca088se.zip
+		http://www.botepidemic.com/fmods/fbca088se3.zip
+			Apr 24, 2001
+	089
+		http://www.parboil.mailru.com/parboil/fbca089b.zip
+		http://www.parboil.mailru.com/parboil/fbca089se.zip
+		http://parboil.mailru.com/parboil/fbca089se.zip
+	090
+		?
+	091
+		?
+	092
+		http://parboil.quakeworld.ru/parboil/src_fbca092.zip
+	093
+		?
+	094
+		?
+	095
+		?
+	096
+		http://www.parboil.mailru.com/parboil/fbca096b.zip
+		http://parboil.mailru.com/parboil/src_fbca092.zip
+	097
+		?
+	098
+		http://parboil.mailru.com/parboil/src_fbca098.zip
+			29 may 2002
+	099
+		?
+	100
+		http://parboil.mailru.com/parboil/src_fbca100.zip
+	101
+		?
+	102
+		http://www.parboil.quakeworld.ru/tappak/fbca102pre_beta.zip
 FBCA 99
 	http://quakeone.com/proquake/frogbots-099.zip
 	https://steamcommunity.com/sharedfiles/filedetails/?id=123626484
