@@ -1867,6 +1867,8 @@ FBCA (parboil)
 	announcements
 		botboard.telefragged.com
 		botepidemic.com/fmods
+		http://www.besmella-quake.com/scripts/board/index.cgi?action=showall
+			https://web.archive.org/web/20020717023521/http://www.besmella-quake.com/scripts/board/index.cgi?action=showall
 	http://www.botepidemic.com:80/fmods/mods.htm
 		https://web.archive.org/web/20010418034523/http://www.botepidemic.com:80/fmods/mods.htm
 			https://web.archive.org/web/20010418034523/http://www.botepidemic.com/fmods/fbca088.zip
@@ -1973,6 +1975,7 @@ FBCA (parboil)
 		?
 	102
 		http://www.parboil.quakeworld.ru/tappak/fbca102pre_beta.zip
+
 FBCA 99
 	http://quakeone.com/proquake/frogbots-099.zip
 	https://steamcommunity.com/sharedfiles/filedetails/?id=123626484

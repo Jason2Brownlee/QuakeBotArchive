@@ -111,7 +111,9 @@ http://aswp.tzo.net/maleficus/setup.zip
 http://biscuitservers.net/files/mtffull.zip
 http://biscuitservers.net/files/mtflight.zip
 http://botarea51.impulse9.net/mirror/bot/elimpack.zip
+http://bwl.ru/flz/fbca094kt.zip
 http://c4denn.chat.ru/filezz/frog2k.rar
+http://cmdclan.newmail.ru/tf.zip
 http://cocot.topcities.com/Bots_Quad_Hunt.zip
 http://darkskye.home.mindspring.com/quakeworld-20000102.tar.gz
 http://death2all.excelland.com/files/ufrog.zip
@@ -140,6 +142,7 @@ http://ftp.telepac.pt/pub/idgames2/quakec/compilations/urqp102.zip
 http://ftp.telepac.pt/pub/idgames2/quakec/compilations/urqp103.zip
 http://ftp.telepac.pt/pub/idgames2/telefragged/metro/frogbot007.zip
 http://fubar.cstp.umkc.edu:80/quake/files/tballman097.zip
+http://game.mari-el.ru/cb/files/fbca093kt.zip
 http://geocities.com/timessquare/hangar/8961/sq12to13.zip
 http://geocities.com/timessquare/hangar/8961/squirt12b.zip
 http://gibbage.mine.nu/quakeworld/bots/fbca099kt.zip
@@ -216,8 +219,8 @@ http://parboil.quakeworld.ru/parboil/src_fbca100.zip
 http://parboil.quakeworld.ru/tappak/fbca102kt-rc1.zip
 http://peak-two.uplb.edu.ph/~ralr/gbdemo.zip
 http://pelit.saunalahti.fi/telenation/telefragged/inside3d/qip/q1/urqp105beta.zip
-http://perso.wanadoo.fr/montanuy/bot/trmbot96.zip
 http://perso.wanadoo.fr/montanuy/bot/termbot-src-096.tar.gz
+http://perso.wanadoo.fr/montanuy/bot/trmbot96.zip
 http://pw2.netcom.com/~kroeker/glqb17.zip
 http://pw2.netcom.com/~kroeker/GLQBbeta.zip
 http://pw2.netcom.com/~kroeker/glqwb17.zip
@@ -514,8 +517,3 @@ http://xmark.ausgamers.com/xkteams/xkteams1705s.zip
 http://xmark.ausgamers.com/xkteams/xkteams2.zip
 http://zemp.free.fr/qw/fbca094kt.zip
 https://www.quake-info-pool.net/text/urqp104.txt
-
-
-
-
-
