@@ -1856,9 +1856,14 @@ FBCA (asdf)
 		timestamps
 			wav: 21 dec 1998 (date of first release?)
 			ra: 13 mar 1999
-FBCA (parboil)
+Frogbot Clan Arena (FBCA) (parboil)
 	Alex 'ParboiL' Pakhomov
 	Alexey Pakhomov
+	What is this?
+		starts as a continuation of FBCA (asdf)
+		then adds kombat teams
+		then progresses with parallel dev (i think)
+		then focuses on the clan arena + kombat teams line
 	homepages
 		parboil.newmail.ru
 		parboil.mailru.com
@@ -1868,7 +1873,7 @@ FBCA (parboil)
 		botboard.telefragged.com
 		botepidemic.com/fmods
 		http://www.besmella-quake.com/scripts/board/index.cgi?action=showall
-			https://web.archive.org/web/20020717023521/http://www.besmella-quake.com/scripts/board/index.cgi?action=showall
+			https://web.archive.org/web/20060623071543/http://www.besmella-quake.com/scripts/board/index.cgi?action=showall
 	http://www.botepidemic.com:80/fmods/mods.htm
 		https://web.archive.org/web/20010418034523/http://www.botepidemic.com:80/fmods/mods.htm
 			https://web.archive.org/web/20010418034523/http://www.botepidemic.com/fmods/fbca088.zip
@@ -1908,9 +1913,63 @@ FBCA (parboil)
 	http://www.parboil.mailru.com
 		https://web.archive.org/web/20021210124705if_/http://www.parboil.mailru.com/index.html?aboutpl.html
 			Alexey Pakhomov
+		https://web.archive.org/web/20021119082010if_/http://www.parboil.mailru.com:80/index.html?utils.html
+			http://www.parboil.mailru.com/parboil/fbca095kt.zip
+			http://www.parboil.mailru.com/parboil/fbca092kt.zip
+		https://web.archive.org/web/20021210092232if_/http://www.parboil.mailru.com:80/index.html
+			Fbca update & b256. ParboiL 24.10.02
+			Fbca 0.95kt update. ParboiL 30.09.02
+			Fbca 0.95kt release. ParboiL 14.09.02
+			Fbca 0.94kt se update Part III. ParboiL 02.09.02
+			Fbca 0.94kt se update Part II. ParboiL 06.08.02
+			...
+		https://web.archive.org/web/20021005120625if_/http://www.parboil.mailru.com:80/index.html?maps.html
+			Fbca 0.94kt se update Part II. ParboiL 06.08.02
+			Fbca 0.94kt se update. ParboiL 08.05.02
+			Fbca 0.94kt se. ParboiL 03.05.02
+			Fbca 0.94. ParboiL 06.04.02
+			Fbca 0.93kt final update. ParboiL 18.03.02
+			Fbca 0.93kt final. ParboiL 03.03.02
+			Fbca 0.93kt se & fbca 0.92kt final. ParboiL 26.01.02
+			New in fbca 0.92kt final ParboiL 07.01.02
+			Changes in fbca 0.92kt final ParboiL 03.01.02
+		https://web.archive.org/web/20021005120625if_/http://www.parboil.mailru.com:80/index.html?maps.html
+			Fbca 0.92kt final & HNY! ParboiL 29.12.01
+			Fbca 0.92kt se and new Frobodm2. ParboiL 15.12.01
+			Fbca 0.92kt beta. ParboiL 08.12.01
+			Fbca 0.91kt final. ParboiL 12.11.01
+			Corrections in Fbca 0.91kt se. ParboiL 09.11.01
+			Fbca 0.91kt se. ParboiL 08.11.01
+			Выход fbca 0.91kt. ParboiL 03.11.01
+			Немного о fbca 0.91. ParboiL 01.11.01
+			Fbca 090KT final! ParboiL 10.10.01
+			Fix bugs in fbca 0.90KT se part II! ParboiL 03.10.01
+			Fix bug in fbca 0.90KT se! ParboiL 02.10.01
+			Fbca 0.90KT se! ParboiL 29.09.01
+			Fbca 0.90 Kombat Teams! ParboiL 22.09.01
+			Fbca 0.89 Kombat Teams Update! ParboiL 12.09.01
+			Fbca 0.89 Kombat Teams ParboiL 30.08.01
+			Ошибки в Fbca 0.89se plus ParboiL 29.08.01
+			News about fbca 0.89se part V ParboiL 24.07.01
+			News about fbca 0.89se part IV ParboiL 17.07.01
+			News about fbca 0.89se part III ParboiL 27.06.01
+			News about fbca 0.89se part II ParboiL 15.06.01
+			News about fbca 0.89se ParboiL 12.06.01
+			Frogbot Clan Arena 0.89se ParboiL 06.06.01
+			News about Fbca 0.89 ParboiL 31.05.01
+			News about Fbca.exe. ParboiL 28.05.01
+			Fbca.exe. ParboiL 23.05.01
+			Fbca 0.89 beta. ParboiL 23.05.01
+			Frogbot Clan Arena 0.88se release. ParboiL 28.04.01
+			Добавление в FBCA 0.88! ParboiL 18.04.01
+			Frogbot Clan Arena news! ParboiL 12.04.01
+			Frogbot Clan Arena 0.87b QW version ParboiL 01.03.01
+			Frogbot Clan Arena 0.87 ParboiL 26.02.01
+	https://web.archive.org/web/20030829010233/http://www.set.ru/resource/forum/index.php?f=7
+			Fbca 0.99kt se! 28-08-2003 16:48
 	http://www.parboil.newmail.com
 		?
-	http://parboil.quakeworld.ru:80/index.html?news01.html
+	http://parboil.quakeworld.ru
 		https://web.archive.org/web/20021010030426if_/http://parboil.quakeworld.ru:80/index.html?news01.html
 			 Frogbot Clan Arena 0.87 ParboiL 26.02.01
 		https://web.archive.org/web/20040714013756if_/http://parboil.quakeworld.ru/index.html?news01.html
@@ -1929,6 +1988,27 @@ FBCA (parboil)
 		https://web.archive.org/web/20040714014300if_/http://parboil.quakeworld.ru/index.html?news00.html
 			FBCA 0.86 Special Edition ParboiL 11.09.00
 			Frogbot Clan Arena 0.86 и карту DM4. - Правила соревнований ParboiL 10.07.00
+		https://web.archive.org/web/20050408013014if_/http://www.parboil.quakeworld.ru:80/index.html?files.html
+			Frogbot Clan Arena 1.02kt beta (version from 26.01.2005)
+				http://www.parboil.quakeworld.ru/parboil/fbca102kt.zip
+				http://www.parboil.quakeworld.ru/parboil/src102.zip
+			Frogbot Clan Arena 1.01kt se (stable version)
+				http://www.parboil.quakeworld.ru/parboil/fbca101kt.zip
+				http://www.parboil.quakeworld.ru/parboil/src101.zip
+			Frogbot Clan Arena 1.01alt
+				http://www.parboil.quakeworld.ru/parboil/fbca101alt.zip
+			 Frogbot Clan Arena 0.92kt final
+			 	http://www.parboil.quakeworld.ru/parboil/fbca092kt.zip
+			 	http://www.parboil.quakeworld.ru/parboil/src_fbca092.zip
+		https://web.archive.org/web/20040828014743if_/http://www.parboil.quakeworld.ru:80/index.html?files.html
+			Frogbot Clan Arena 1.02kt se (pre beta version from 21.08.2004)
+				https://web.archive.org/web/20040829013106if_/http://www.parboil.quakeworld.ru/tappak/fbca102kt.zip
+				https://web.archive.org/web/20040829013106if_/http://www.parboil.quakeworld.ru/tappak/src102.zip
+		https://web.archive.org/web/20040223151650/http://parboil.quakeworld.ru:80/index.html?files.html
+		https://web.archive.org/web/20040514181109if_/http://parboil.quakeworld.ru:80/index.html?files.html
+			Frogbot Clan Arena 1.01kt se (version from 05.01.2004)
+				https://web.archive.org/web/20040414211327if_/http://parboil.quakeworld.ru/parboil/fbca101kt.zip
+				https://web.archive.org/web/20040414211327if_/http://parboil.quakeworld.ru/parboil/src101.zip
 	086
 		http://parboil.mailru.com/parboil/fbca086.zip
 		http://parboil.quakeworld.ru/parboil/fbca086.zip
@@ -1948,33 +2028,87 @@ FBCA (parboil)
 		http://www.parboil.mailru.com/parboil/fbca089se.zip
 		http://parboil.mailru.com/parboil/fbca089se.zip
 	090
-		?
+		http://www.parboil.mailru.com/parboil/fbca090kt.zip
 	091
-		?
+		http://www.parboil.mailru.com/parboil/fbca091kt.zip
 	092
 		http://parboil.quakeworld.ru/parboil/src_fbca092.zip
+		http://quake-1.com/quakec-gallery/fbca092kt-src.zip
+		http://www.parboil.mailru.com/parboil/fbca092kt.zip
+		http://parboil.quakeworld.ru/parboil/fbca092kt.zip
 	093
-		?
+		http://www.parboil.mailru.com/parboil/fbca093kt.zip
 	094
-		?
+		http://www.botepidemic.com/fmods/fbca094kt.zip
+		http://www.parboil.mailru.com/parboil/fbca094kt.zip
+		http://zemp.free.fr/qw/fbca094kt.zip
 	095
-		?
+		http://parboil.mailru.com/parboil/fbca095kt.zip
+		http://quake.crimea.ua/files/quake/bots/fbca095kt.zip
+		http://quake.marshallnet.com/files/fbca095kt_eng.txt
 	096
 		http://www.parboil.mailru.com/parboil/fbca096b.zip
 		http://parboil.mailru.com/parboil/src_fbca092.zip
+		http://parboil.mailru.com/parboil/fbca096kt.zip
+		http://quake.crimea.ua/files/quake/bots/fbca096kt.zip
 	097
-		?
+		http://parboil.mailru.com/parboil/fbca097kt.zip
+		http://quake.crimea.ua/files/quake/bots/fbca097kt.zip
+		http://quake.marshallnet.com/files/fbca097kt_eng.txt
 	098
 		http://parboil.mailru.com/parboil/src_fbca098.zip
 			29 may 2002
+		http://parboil.mailru.com/parboil/fbca098kt.zip
+		http://quake.marshallnet.com/files/fbca098kt_eng.txt
 	099
 		?
 	100
 		http://parboil.mailru.com/parboil/src_fbca100.zip
+		http://parboil.mailru.com/parboil/fbca100kt.zip
 	101
-		?
+		http://equake.quakeworld.nu/fbca/fbca101kt_eng.txt
+		http://files.cyberfight.ru/archive/qw/bots/fbca101kt.zip
+		http://www.parboil.quakeworld.ru/parboil/fbca101kt.zip
+		http://parboil.mailru.com/parboil/fbca101kt.zip
+		http://parboil.mailru.com/parboil/fbca101alt.zip
+		http://parboil.mailru.com/parboil/fbca101final.zip
+		http://parboil.quakeworld.ru/parboil/fbca101alt.zip
+		http://parboil.quakeworld.ru/parboil/fbca101final.zip
+		http://parboil.quakeworld.ru/parboil/fbca101kt.zip
+		http://www.parboil.quakeworld.ru/parboil/fbca101kt.zip
+		http://quake.marshallnet.com/files/fbca101kt_eng.txt
+		http://parboil.quakeworld.ru/parboil/src101.zip
+		http://parboil.mailru.com/parboil/src101.zip
+		http://parboil.quakeworld.ru/parboil/src101final.zip
+		http://parboil.mailru.com/parboil/src101final.zip
+		order:
+			fbca101final.zip
+			src101final.zip
+			fbca101alt.zip
+			fbca101kt.zip
+			src101.zip
+
 	102
+		http://parboil.quakeworld.ru/tappak/fbca102kt.zip
+		http://parboil.quakeworld.ru/parboil/fbca102kt.zip
+		http://www.parboil.quakeworld.ru/parboil/fbca102kt.zip
+		http://www.parboil.quakeworld.ru/tappak/fbca102kt.zip
 		http://www.parboil.quakeworld.ru/tappak/fbca102pre_beta.zip
+		http://parboil.mailru.com/parboil/fbca102kt.zip
+		http://parboil.mailru.com/tappak/fbca102kt-rc1.zip
+		http://parboil.mailru.com/tappak/fbca102kt.zip
+		http://parboil.mailru.com/tempfb/fbca102rc2.zip
+		https://s3.amazonaws.com/neogeographica-downloads/guides/deathmatch_with_bots/fbca102kt.zip
+		http://parboil.mailru.com/tappak/src102rc1.zip
+		http://parboil.quakeworld.ru/parboil/src102.zip
+		http://parboil.mailru.com/tappak/src102.zip
+		order:
+			fbca102kt-rc1.zip
+			src102rc1.zip
+			fbca102rc2.zip
+			fbca102pre_beta.zip
+			fbca102kt.zip
+			src102.zip
 
 FBCA 99
 	http://quakeone.com/proquake/frogbots-099.zip

@@ -338,6 +338,8 @@ squirt10.zip
 squirt12b.zip
 src101final.zip
 src102.zip
+src101.zip
+src102rc1.zip
 src_fbca085.zip
 src_fbca086.zip
 src_fbca087.zip
