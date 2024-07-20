@@ -7,6 +7,8 @@ http://qexpo.quakedev.com/
 	redirect subdomain
 	https://web.archive.org/web/*/qexpo.quakedev.com/*
 
+https://quakeexpo.com/
+
 
 2001
 http://qexpo2001.quakedev.com/

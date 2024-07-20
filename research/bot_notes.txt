@@ -2109,7 +2109,6 @@ Frogbot Clan Arena (FBCA) (parboil)
 			fbca102pre_beta.zip
 			fbca102kt.zip
 			src102.zip
-
 FBCA 99
 	http://quakeone.com/proquake/frogbots-099.zip
 	https://steamcommunity.com/sharedfiles/filedetails/?id=123626484
