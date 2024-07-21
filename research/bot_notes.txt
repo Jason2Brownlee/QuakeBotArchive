@@ -2087,7 +2087,13 @@ Frogbot Clan Arena (FBCA) (parboil)
 			fbca101alt.zip
 			fbca101kt.zip
 			src101.zip
-
+		https://web.archive.org/web/20060225075443/http://www.cyberfight.ru/offline/files/f/462/
+			(old version of fbca101kt.zip ?)
+		http://www.parboil.quakeworld.ru/parboil/fbca101kt.zip
+		https://q.gamersmafia.com/descargas/4512
+			512_fbca101kt.zip
+		http://dl.dropbox.com/u/923337/FrogBot/fbca101final.zip
+		http://github.com/ezQuake/fbca
 	102
 		http://parboil.quakeworld.ru/tappak/fbca102kt.zip
 		http://parboil.quakeworld.ru/parboil/fbca102kt.zip

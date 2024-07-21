@@ -44,29 +44,47 @@ https://web.archive.org/web/20050428005828if_/http://www.parboil.quakeworld.ru:8
 ## Version 087
 
 https://web.archive.org/web/20050302144937if_/http://parboil.quakeworld.ru:80/index.html?news01.html
+https://web.archive.org/web/20021005120625if_/http://www.parboil.mailru.com:80/index.html?maps.html
+
+https://web.archive.org/web/20010408130017/http://botboard.telefragged.com/wwwthreads.pl?action=list&Board=quake1
 
 ## Version 088
 
 https://web.archive.org/web/20050428005828if_/http://www.parboil.quakeworld.ru:80/index.html?news01.html
 https://web.archive.org/web/20050302144937if_/http://parboil.quakeworld.ru:80/index.html?news01.html
+https://web.archive.org/web/20021005120625if_/http://www.parboil.mailru.com:80/index.html?maps.html
+
+https://web.archive.org/web/20010826200541/http://botboard.telefragged.com/showpost.pl?Board=quake1&Number=2398&page=0&view=collapsed&sb=5
+
+https://web.archive.org/web/20010606231709/http://www.botepidemic.com:80/fmods/
+https://web.archive.org/web/20010424123831/http://www.botepidemic.com/fmods/
 
 ## Version 089
 
 https://web.archive.org/web/20050428005828if_/http://www.parboil.quakeworld.ru:80/index.html?news01.html
 https://web.archive.org/web/20050302144937if_/http://parboil.quakeworld.ru:80/index.html?news01.html
+https://web.archive.org/web/20021005120625if_/http://www.parboil.mailru.com:80/index.html?maps.html
+
+https://web.archive.org/web/20010903234747/http://botboard.telefragged.com/wwwthreads.pl?action=list&Board=quake1&page=0&view=collapsed&sb=5
+https://web.archive.org/web/20010830084016/http://botboard.telefragged.com/showpost.pl?Board=quake1&Number=2421&page=0&view=collapsed&sb=5
+https://web.archive.org/web/20010830032859/http://botboard.telefragged.com/showpost.pl?Board=quake1&Number=2411&page=0&view=collapsed&sb=5
 
 ## Version 090
 
 https://web.archive.org/web/20050428005828if_/http://www.parboil.quakeworld.ru:80/index.html?news01.html
+https://web.archive.org/web/20021005120625if_/http://www.parboil.mailru.com:80/index.html?maps.html
 
 ## Version 091
 
 https://web.archive.org/web/20050428005828if_/http://www.parboil.quakeworld.ru:80/index.html?news01.html
+https://web.archive.org/web/20021005120625if_/http://www.parboil.mailru.com:80/index.html?maps.html
 
 ## Version 092
 
 https://web.archive.org/web/20050302150204if_/http://parboil.quakeworld.ru:80/index.html?news02.html
 https://web.archive.org/web/20050428005828if_/http://www.parboil.quakeworld.ru:80/index.html?news01.html
+https://web.archive.org/web/20021005120625if_/http://www.parboil.mailru.com:80/index.html?maps.html
+https://web.archive.org/web/20021005120625if_/http://www.parboil.mailru.com:80/index.html?maps.html
 
 download
 
@@ -76,17 +94,23 @@ https://web.archive.org/web/20050302135544if_/http://parboil.quakeworld.ru:80/in
 
 https://web.archive.org/web/20050302150204if_/http://parboil.quakeworld.ru:80/index.html?news02.html
 https://web.archive.org/web/20050302144937if_/http://parboil.quakeworld.ru:80/index.html?news01.html
+https://web.archive.org/web/20021005120625if_/http://www.parboil.mailru.com:80/index.html?maps.html
 
 ## Version 094
 
 https://web.archive.org/web/20050302150204if_/http://parboil.quakeworld.ru:80/index.html?news02.html
 https://web.archive.org/web/20050302144937if_/http://parboil.quakeworld.ru:80/index.html?news01.html
+https://web.archive.org/web/20021005120625if_/http://www.parboil.mailru.com:80/index.html?maps.html
+https://web.archive.org/web/20021210092232if_/http://www.parboil.mailru.com:80/index.html
 
 ## Version 095
 
 https://web.archive.org/web/20050302150204if_/http://parboil.quakeworld.ru:80/index.html?news02.html
 https://web.archive.org/web/20050302144937if_/http://parboil.quakeworld.ru:80/index.html?news01.html
 https://web.archive.org/web/20050302144937if_/http://parboil.quakeworld.ru:80/index.html?news01.html
+https://web.archive.org/web/20021210092232if_/http://www.parboil.mailru.com:80/index.html
+
+http://quake.marshallnet.com/files/fbca095kt_eng.txt
 
 ## Version 096
 
@@ -96,13 +120,19 @@ https://web.archive.org/web/20050302144937if_/http://parboil.quakeworld.ru:80/in
 
 ?
 
+http://quake.marshallnet.com/files/fbca097kt_eng.txt
+
 ## Version 098
 
 https://web.archive.org/web/20050302144937if_/http://parboil.quakeworld.ru:80/index.html?news01.html
 
+http://quake.marshallnet.com/files/fbca098kt_eng.txt
+
 ## Version 099
 
 https://web.archive.org/web/20050302144937if_/http://parboil.quakeworld.ru:80/index.html?news01.html
+
+https://web.archive.org/web/20030829010233/http://www.set.ru/resource/forum/index.php?f=7
 
 ## Version 100
 
@@ -153,11 +183,6 @@ order:
 
 ### Version 1.01 Release
 
-https://web.archive.org/web/20050302144937if_/http://parboil.quakeworld.ru:80/index.html?news01.html
-
-> Fbca 1.01kt release! ParboiL 05.12.03
->
-> Today I released a new version of fbca number 1.01kt. This version added support for the povdmm4 card, full TP statistics (analogous to KTPro), show speed and damage in pre_game mode. AI for povdmm4 and dm4 cards has also been upgraded. More details about all changes and additions can be found in the txt files. Download the new version from Utils & bots ;)
 
 
 https://web.archive.org/web/20050302144937if_/http://parboil.quakeworld.ru:80/index.html?news01.html
@@ -179,7 +204,44 @@ https://web.archive.org/web/20040414211834/http://www.parboil.quakeworld.ru/parb
 https://web.archive.org/web/20040414211834/http://ibc.quakeworld.nu/
 
 
-files:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#### FBCA 1.01 Release 1, fbca101kt.zip, December 05 2003
+
+
+
+https://web.archive.org/web/20050302144937if_/http://parboil.quakeworld.ru:80/index.html?news01.html
+
+> Fbca 1.01kt release! ParboiL 05.12.03
+>
+> Today I released a new version of fbca number 1.01kt. This version added support for the povdmm4 card, full TP statistics (analogous to KTPro), show speed and damage in pre_game mode. AI for povdmm4 and dm4 cards has also been upgraded. More details about all changes and additions can be found in the txt files. Download the new version from Utils & bots ;)
+
+https://web.archive.org/web/20031220013022/http://equake.quakeworld.nu/fbca/fbca101kt_eng.txt
+
+fbca101kt_eng.txt
+
+> Frogbot Clan Arena (QW line)
+> ============================
+> Title		: Frogbot Clan Arena
+> Version	: 1.01kt se
+> Date		: Dec 05, 2003
+> Author	: ParboiL
+> Email		: parboil@quakeworld.ru
+> Download	: http://www.parboil.quakeworld.ru
+
 
 
 https://web.archive.org/web/20040514181109if_/http://parboil.quakeworld.ru:80/index.html?files.html
@@ -189,6 +251,184 @@ https://web.archive.org/web/20040514181109if_/http://parboil.quakeworld.ru:80/in
 > This is a basic modification of Frogbot Clan Arena for QuakeWorld. The version supports twelve deathmatch maps: ztndm3, e1m2, dm3, dm4, dm6, aerowalk, spinev2, pkeg1, ultrav, amphi2, povdmm4, frobodm2. SRC.
 https://web.archive.org/web/20040609091736if_/http://parboil.quakeworld.ru/parboil/fbca101kt.zip
 https://web.archive.org/web/20040609091736if_/http://parboil.quakeworld.ru/parboil/src101.zip
+
+
+
+#### FBCA 1.01 Release 2, fbca101kt.zip, December 07 2003
+
+
+https://web.archive.org/web/20050826144505/http://quake.marshallnet.com/files/fbca101kt_eng.txt
+
+
+> Frogbot Clan Arena (QW line)
+> ============================
+> Title		: Frogbot Clan Arena
+> Version	: 1.01kt se
+> Date		: Dec 07, 2003
+> Author	: ParboiL
+> Email		: parboil@quakeworld.ru
+> Download	: http://www.parboil.quakeworld.ru
+
+
+
+#### FBCA 1.01 Release 3, fbca101kt.zip, December 14 2003
+
+fbca101kt.zip
+https://web.archive.org/web/20060225075443/http://www.cyberfight.ru/offline/files/f/462/
+	http://files.cyberfight.ru/archive/qw/bots/fbca101kt.zip
+https://q.gamersmafia.com/descargas/4512
+	512_fbca101kt.zip
+
+
+
+
+DIFFERENT!
+
+14 december 2003
+
+
+> Frogbot Clan Arena (QW line)
+> ============================
+> Title		: Frogbot Clan Arena
+> Version	: 1.01kt se
+> Date		: Dec 14, 2003
+> Author	: ParboiL
+> Email		: parboil@quakeworld.ru
+> Download	: http://www.parboil.quakeworld.ru
+
+
+```text
+.
+├── configs
+│   ├── arena.cfg
+│   ├── clarena.cfg
+│   ├── duel.cfg
+│   ├── ffa.cfg
+│   ├── server.cfg
+│   └── team.cfg
+├── fbca101kt_eng.txt
+├── fbca101kt_rus.txt
+├── gfx
+│   ├── conback.lmp
+│   ├── qplaque.lmp
+│   └── ttl_main.lmp
+├── qwprogs.dat
+└── sound
+    ├── ra
+    │   ├── 1.wav
+    │   ├── 2.wav
+    │   ├── 3.wav
+    │   └── fight.wav
+    ├── sf1.wav
+    ├── sf2.wav
+    ├── sf3.wav
+    ├── sf4.wav
+    ├── sf5.wav
+    ├── sf6.wav
+    ├── sf7.wav
+    ├── sf8.wav
+    ├── sf9.wav
+    ├── sffight.wav
+    └── sfround.wav
+```
+
+
+```text
+   256  5 Dec  2003 configs
+ 18118 14 Dec  2003 fbca101kt_eng.txt
+ 19185 14 Dec  2003 fbca101kt_rus.txt
+   160  5 Dec  2003 gfx
+783224 14 Dec  2003 qwprogs.dat
+   448  5 Dec  2003 sound
+```
+
+
+
+
+
+#### FBCA 1.01 Release 4, fbca101kt.zip, January 06 2004
+
+
+
+
+https://web.archive.org/web/20050424105237if_/http://www.parboil.quakeworld.ru/index.html?news04.html
+
+> New build of fbca. ParboiL 06.01.04
+>
+> Tests of the new fbca build dated January 05, 2004 have been successfully completed today. Many thanks to ParadoX for help with testing! What's new in this build: the framethink function has been changed, trigger_hurt has been activated. Many functions related to frames have also been optimized, which reduces the number of additional checks. The version can be downloaded from Files. Write your reviews, comments and suggestions to the forum!
+Also, due to the ever-growing popularity of qw, a faq section has been created with basic questions about launching bots. If you think that some questions and answers are missing, suggest them and we will add them.
+
+
+
+
+fbca101kt.zip
+(jan 6 2004)
+
+
+
+
+```text
+.
+├── configs
+│   ├── arena.cfg
+│   ├── clarena.cfg
+│   ├── duel.cfg
+│   ├── ffa.cfg
+│   ├── server.cfg
+│   └── team.cfg
+├── fbca101kt_eng.txt
+├── fbca101kt_rus.txt
+├── gfx
+│   ├── conback.lmp
+│   ├── qplaque.lmp
+│   └── ttl_main.lmp
+├── qwprogs.dat
+└── sound
+    ├── ra
+    │   ├── 1.wav
+    │   ├── 2.wav
+    │   ├── 3.wav
+    │   └── fight.wav
+    ├── sf1.wav
+    ├── sf2.wav
+    ├── sf3.wav
+    ├── sf4.wav
+    ├── sf5.wav
+    ├── sf6.wav
+    ├── sf7.wav
+    ├── sf8.wav
+    ├── sf9.wav
+    ├── sffight.wav
+    └── sfround.wav
+```
+
+dates
+
+```text
+   256  5 Dec  2003 configs
+ 18557  6 Jan  2004 fbca101kt_eng.txt
+ 19616  6 Jan  2004 fbca101kt_rus.txt
+   160  5 Dec  2003 gfx
+783148  5 Jan  2004 qwprogs.dat
+   448  5 Dec  2003 sound
+```
+
+
+fbca101kt_eng.txt
+
+> Frogbot Clan Arena (QW line)
+> ============================
+> Title		: Frogbot Clan Arena
+> Version	: 1.01kt se
+> Date		: Jan 05, 2004
+> Author	: ParboiL
+> Email		: parboil@quakeworld.ru
+> Download	: http://www.parboil.quakeworld.ru
+
+
+
+
+#### FBCA 1.01 Release 5, fbca101kt.zip, July 26 2004
 
 
 updated later:
@@ -207,35 +447,208 @@ https://web.archive.org/web/20050213043839if_/http://parboil.quakeworld.ru/parbo
 
 
 
+http://www.parboil.quakeworld.ru/parboil/fbca101kt.zip
+
+(same progs as other)
+repackaged on july 26 2004
+moves readmes under docs/
+
+> Frogbot Clan Arena (QW line)
+> ============================
+> Title		: Frogbot Clan Arena
+> Version	: 1.01kt se
+> Date		: Jan 05, 2004
+> Author	: ParboiL
+> Email		: parboil@quakeworld.ru
+> Download	: http://www.parboil.quakeworld.ru
+
+
+
+
+
+```text
+.
+├── configs
+│   ├── arena.cfg
+│   ├── clarena.cfg
+│   ├── duel.cfg
+│   ├── ffa.cfg
+│   ├── server.cfg
+│   └── team.cfg
+├── doc
+│   ├── fbca101kt_eng.txt
+│   ├── fbca101kt_rus.txt
+│   ├── readme.txt
+│   └── readme012c.txt
+├── gfx
+│   ├── conback.lmp
+│   ├── qplaque.lmp
+│   └── ttl_main.lmp
+├── qwprogs.dat
+└── sound
+    ├── ra
+    │   ├── 1.wav
+    │   ├── 2.wav
+    │   ├── 3.wav
+    │   └── fight.wav
+    ├── sf1.wav
+    ├── sf2.wav
+    ├── sf3.wav
+    ├── sf4.wav
+    ├── sf5.wav
+    ├── sf6.wav
+    ├── sf7.wav
+    ├── sf8.wav
+    ├── sf9.wav
+    ├── sffight.wav
+    └── sfround.wav
+```
+
+
+```text
+total 1536
+   256  5 Dec  2003 configs
+   192 26 Jul  2004 doc
+   160  5 Dec  2003 gfx
+783148  5 Jan  2004 qwprogs.dat
+   448  5 Dec  2003 sound
+```
+
+#### FBCA 1.01 Source, src101.zip, July 30 2004  (have zip)
+src101.zip
+july 30 2004
+
+
+http://parboil.mailru.com/parboil/src101.zip
+http://parboil.quakeworld.ru/parboil/src101.zip
+
+
+```text
+.
+├── arena.qc
+├── bot
+│   ├── botenemy.qc
+│   ├── botgoals.qc
+│   ├── bothazd.qc
+│   ├── bothelp.qc
+│   ├── botimp.qc
+│   ├── botjump.qc
+│   ├── botpath.qc
+│   ├── botphys.qc
+│   ├── botstat.qc
+│   ├── botthink.qc
+│   ├── botutil.qc
+│   ├── botwater.qc
+│   └── botweap.qc
+├── buttons.qc
+├── client.qc
+├── combat.qc
+├── commands.qc
+├── defs.qc
+├── defs2.qc
+├── doors.qc
+├── items.qc
+├── lists.qc
+├── load.qc
+├── loadmap.qc
+├── maps
+│   ├── map_aerowalk.qc
+│   ├── map_amphi2.qc
+│   ├── map_dm3.qc
+│   ├── map_dm4.qc
+│   ├── map_dm6.qc
+│   ├── map_e1m2.qc
+│   ├── map_frobodm2.qc
+│   ├── map_pkeg1.qc
+│   ├── map_povdmm4.qc
+│   ├── map_spinev2.qc
+│   ├── map_ultrav.qc
+│   └── map_ztndm3.qc
+├── maps.h
+├── maps.qc
+├── marker_load.qc
+├── marker_util.qc
+├── match.qc
+├── meqcc.log
+├── misc.qc
+├── motd.qc
+├── names.qc
+├── observ.qc
+├── plats.qc
+├── player.qc
+├── progdefs.h
+├── progs.src
+├── route_calc.qc
+├── route_fields.qc
+├── route_lookup.qc
+├── server.qc
+├── settings.h
+├── subs.qc
+├── talk.qc
+├── triggers.qc
+├── weapons.qc
+└── world.qc
+```
+
+
+```text
+79003 30 Jul  2004 arena.qc
+  480 30 Jul  2004 bot
+ 3469 30 Jul  2004 buttons.qc
+46627 30 Jul  2004 client.qc
+ 7026 30 Jul  2004 combat.qc
+10988 30 Jul  2004 commands.qc
+57607 30 Jul  2004 defs.qc
+10541 30 Jul  2004 defs2.qc
+16947 30 Jul  2004 doors.qc
+49966 30 Jul  2004 items.qc
+ 9208 30 Jul  2004 lists.qc
+ 1645 30 Jul  2004 load.qc
+ 1720 30 Jul  2004 loadmap.qc
+  448 30 Jul  2004 maps
+  232 28 Nov  2003 maps.h
+ 4117 30 Jul  2004 maps.qc
+ 4460 30 Jul  2004 marker_load.qc
+ 6639 30 Jul  2004 marker_util.qc
+17745 30 Jul  2004 match.qc
+ 1373  5 Jan  2004 meqcc.log
+10323 30 Jul  2004 misc.qc
+ 1512 30 Jul  2004 motd.qc
+ 3041 30 Jul  2004 names.qc
+ 2796 30 Jul  2004 observ.qc
+ 7460 30 Jul  2004 plats.qc
+18630 30 Jul  2004 player.qc
+ 2541  5 Jan  2004 progdefs.h
+  812 23 Dec  2003 progs.src
+65606 30 Jul  2004 route_calc.qc
+24535 30 Jul  2004 route_fields.qc
+22916 30 Jul  2004 route_lookup.qc
+  739 30 Jul  2004 server.qc
+  102 12 Sep  2003 settings.h
+ 3384 30 Jul  2004 subs.qc
+14621 30 Jul  2004 talk.qc
+14525 30 Jul  2004 triggers.qc
+32891 30 Jul  2004 weapons.qc
+14811 30 Jul  2004 world.qc
+```
 
 
 ### Version 1.01 Alt
 
 
+* FBCA 1.01 Alt 1, fbca101alt.zip, January 18 2004
+* FBCA 1.01 Alt 2, fbca101alt.zip, January 26 2004
+* FBCA 1.01 Alt 3, fbca101alt.zip, February 01 2004
 
-news:
-
-https://web.archive.org/web/20050424105237if_/http://www.parboil.quakeworld.ru/index.html?news04.html
-
-> New build of fbca. ParboiL 06.01.04
->
-> Tests of the new fbca build dated January 05, 2004 have been successfully completed today. Many thanks to ParadoX for help with testing! What's new in this build: the framethink function has been changed, trigger_hurt has been activated. Many functions related to frames have also been optimized, which reduces the number of additional checks. The version can be downloaded from Files. Write your reviews, comments and suggestions to the forum!
-Also, due to the ever-growing popularity of qw, a faq section has been created with basic questions about launching bots. If you think that some questions and answers are missing, suggest them and we will add them.
-
+#### FBCA 1.01 Alt 1, January 18 2004  (?)
 
 news:
 
 https://web.archive.org/web/20050424105237if_/http://www.parboil.quakeworld.ru/index.html?news04.html
 
 > Fbca - alternative version ParboiL 18.01.04
-> Today I made two new supports for the maps tearena and pipeline. In this regard, I released an alternative version 1.01alt, which supports the maps blizz2, tearena, ravage, ravage2, pipeline. You can download the version on the files page, and dm maps and separate support on the maps page.
-
-news:
-
-https://web.archive.org/web/20050424105237if_/http://www.parboil.quakeworld.ru/index.html?news04.html
-> Updating fbca 1.01alt ParboiL 26.01.04
 >
-> Today I updated fbca version 1.01alt. This version adds two new supports for Condemn and Shake cards. Further, new functions will be added to this version as a test! You can download the updated version on the files page, and the Condemn and Shake maps on the maps page.
+> Today I made two new supports for the maps tearena and pipeline. In this regard, I released an alternative version 1.01alt, which supports the maps blizz2, tearena, ravage, ravage2, pipeline. You can download the version on the files page, and dm maps and separate support on the maps page.
 
 
 download page
@@ -249,9 +662,135 @@ https://web.archive.org/web/20050302135544if_/http://parboil.quakeworld.ru/index
 https://web.archive.org/web/20050407224300if_/http://www.parboil.quakeworld.ru/parboil/fbca101alt.zip
 
 
+#### FBCA 1.01 Alt 2, January 26 2004  (?)
+
+news:
+
+https://web.archive.org/web/20050424105237if_/http://www.parboil.quakeworld.ru/index.html?news04.html
+> Updating fbca 1.01alt ParboiL 26.01.04
+>
+> Today I updated fbca version 1.01alt. This version adds two new supports for Condemn and Shake cards. Further, new functions will be added to this version as a test! You can download the updated version on the files page, and the Condemn and Shake maps on the maps page.
+
+form:
+
+https://web.archive.org/web/20040308172822/http://www.parboil.quakeworld.ru:80/forum/read.php?f=1&i=734&t=734
+
+> Updating 1.01alt
+> Author: ParboiL (---.as001.spbnit.ru)
+> Date:   01-26-04 15:36
+>
+> Today I updated fbca 1.01alt, read the news ;)
+
+
+#### FBCA 1.01 Alt 3, February 01 2004  (i have the zip)
+
+form:
+
+https://web.archive.org/web/20040308172822/http://www.parboil.quakeworld.ru:80/forum/read.php?f=1&i=734&t=734
+
+>  Re: Updating 1.01alt
+> Author: ParboiL (---.pool-121.spbnit.ru)
+> Date:   02-01-04 10:34
+>
+> Version from Feb 01 2004
+>
+> Supported Maps
+> ==============
+> - tearena
+> - blizz2
+> - ravage
+> - ravage2
+> - pipeline
+> - condemn
+> - shake
+> - oldcrat (optimized original codes - rj in lava)
+> - opposit
+
+
+http://parboil.mailru.com/parboil/fbca101alt.zip
+
+
+
+fbca101alt.zip
+(donated https://mega.nz/folder/pZZnBLCK#fZxeV9Lwa76-CG5mdKlbVA )
+https://mega.nz/folder/pZZnBLCK#fZxeV9Lwa76-CG5mdKlbVA/folder/kVA00DAA
+(feb 1 2004)
+
+
+fbca101alt_eng.txt
+
+> Frogbot Clan Arena (QW line)
+> ============================
+> Title		: Frogbot Clan Arena
+> Version	: 1.01alt
+> Date		: Feb 01, 2004
+> Author	: ParboiL
+> Email		: parboil@quakeworld.ru
+> Download	: http://www.parboil.quakeworld.ru
+
+
+```text
+.
+├── configs
+│   ├── arena.cfg
+│   ├── clarena.cfg
+│   ├── duel.cfg
+│   ├── ffa.cfg
+│   ├── server.cfg
+│   └── team.cfg
+├── fbca101alt_eng.txt
+├── fbca101alt_rus.txt
+├── gfx
+│   ├── conback.lmp
+│   ├── qplaque.lmp
+│   └── ttl_main.lmp
+├── qwprogs.dat
+└── sound
+    ├── ra
+    │   ├── 1.wav
+    │   ├── 2.wav
+    │   ├── 3.wav
+    │   └── fight.wav
+    ├── sf1.wav
+    ├── sf2.wav
+    ├── sf3.wav
+    ├── sf4.wav
+    ├── sf5.wav
+    ├── sf6.wav
+    ├── sf7.wav
+    ├── sf8.wav
+    ├── sf9.wav
+    ├── sffight.wav
+    └── sfround.wav
+```
+
+```text
+   256 18 Jan  2004 configs
+  7049  1 Feb  2004 fbca101alt_eng.txt
+  8199  1 Feb  2004 fbca101alt_rus.txt
+   160 18 Jan  2004 gfx
+704444  1 Feb  2004 qwprogs.dat
+   448 18 Jan  2004 sound
+```
+
 
 
 ### Version 1.01 Final
+
+March 03 release? (from readme)
+
+* FBCA 1.01 Final 1, fbca101final.zip, March 28 2007
+* FBCA 1.01 Final 1 Source, src101final.zip, March 28 2007
+
+* FBCA 1.01 Final 2, fbca101final.zip, October 09 2007
+* FBCA 1.01 Final 2 Source, src101final.zip, October 09 2007
+
+
+a version was posted to the forum, no idea...
+
+
+
+#### FBCA 1.01 Final 1
 
 https://web.archive.org/web/20070701064640/http://parboil.quakeworld.ru:80/news.php?pn=1
 
@@ -277,6 +816,101 @@ https://web.archive.org/web/20070910073357fw_/http://parboil.quakeworld.ru/files
 
 https://web.archive.org/web/20070910073357fw_/http://parboil.quakeworld.ru/parboil/fbca101final.zip
 https://web.archive.org/web/20070910073357fw_/http://parboil.quakeworld.ru/parboil/src101final.zip
+
+
+https://mega.nz/folder/pZZnBLCK#fZxeV9Lwa76-CG5mdKlbVA/folder/kVA00DAA
+
+
+
+#### FBCA 1.01 Final 2 (GPL)
+
+
+fbca101final.zip
+(October 09 2007)
+
+```text
+.
+├── configs
+│   ├── arena.cfg
+│   ├── clarena.cfg
+│   ├── duel.cfg
+│   ├── ffa.cfg
+│   ├── server.cfg
+│   └── team.cfg
+├── doc
+│   ├── fbca101kt_eng.txt
+│   ├── fbca101kt_rus.txt
+│   ├── gnu.txt
+│   ├── readme.txt
+│   └── readme012c.txt
+├── gfx
+│   ├── conback.lmp
+│   ├── qplaque.lmp
+│   └── ttl_main.lmp
+├── qwprogs.dat
+├── sound
+│   ├── ra
+│   │   ├── 1.wav
+│   │   ├── 2.wav
+│   │   ├── 3.wav
+│   │   └── fight.wav
+│   ├── sf1.wav
+│   ├── sf2.wav
+│   ├── sf3.wav
+│   ├── sf4.wav
+│   ├── sf5.wav
+│   ├── sf6.wav
+│   ├── sf7.wav
+│   ├── sf8.wav
+│   ├── sf9.wav
+│   ├── sffight.wav
+│   └── sfround.wav
+└── src.zip
+```
+
+
+```text
+   256  5 Dec  2003 configs
+   224 26 Jul  2004 doc
+   160  5 Dec  2003 gfx
+676466  8 Mar  2007 qwprogs.dat
+   448  5 Dec  2003 sound
+295601  9 Oct  2007 src.zip
+```
+
+
+fbca101kt_eng.txt
+
+
+> Frogbot Clan Arena (QW line)
+> ============================
+> Title		: Frogbot Clan Arena
+> Version	: 1.01kt final
+> Date		: Mar 08, 2007
+> Author		: ParboiL
+> Email		: parboil@quakeworld.ru
+> Download	: http://www.parboil.quakeworld.ru
+
+
+
+
+
+https://www.quakeworld.nu/news/177/frogbot-gets-gpl
+
+Released under the GPL, announced on quakeworld.nu
+
+
+
+> 2007-10-09, 05:45
+> ParboiL
+> I have updated archive of last version fbca. In archive SRC files and CPL document.
+> http://www.parboil.quakeworld.ru/parboil/fbca101final.zip
+> ...
+> Sorry CPL -> GPL
+
+
+
+
 
 
 
@@ -614,14 +1248,32 @@ https://web.archive.org/web/20070701064640/http://parboil.quakeworld.ru:80/tempf
 
 
 
+## Parboil Site Down
+
+https://www.quakeworld.nu/forum/topic/4784/parboil-site-down-who-will-replace
+2010-10-17,
+
+mirror of final fbca (1.01) on github:
+
+http://github.com/ezQuake/fbca
+
+
+
 
 ## Release Timeline
 
+* FBCA 1.01 Release 1, fbca101kt.zip, December 05 2003 (have readme)
+* FBCA 1.01 Release 1 Source, src101.zip, December 05 2003 (?)
+* FBCA 1.01 Release 2, fbca101kt.zip, December 07 2003 (have readme)
+* FBCA 1.01 Release 3, fbca101kt.zip, December 14 2003 (have zip)
+* FBCA 1.01 Release 4, fbca101kt.zip, January 06 2004  (have zip)
+* FBCA 1.01 Release 5, fbca101kt.zip, July 26 2004  (have zip)
+* FBCA 1.01 Release 5 Source, src101.zip, July 30 2004  (have zip)
 
-* FBCA 1.01 Release, fbca101kt.zip, December 05 2004
-* FBCA 1.01 Release Source, src101.zip, December 05 2004
-* FBCA 1.01 Alt, fbca101alt.zip, January 06 2004
-* FBCA 1.01 Alt Updated, fbca101alt.zip, January 26 2004
+* FBCA 1.01 Alt 1, fbca101alt.zip, January 18 2004
+* FBCA 1.01 Alt 2, fbca101alt.zip, January 26 2004
+* FBCA 1.01 Alt 3, fbca101alt.zip, February 01 2004
+
 * FBCA 1.02 Test, fbca102kt.zip, February 17 2004
 * FBCA 1.02 Pre Beta 1, fbca102kt.zip, August 02 2004
 * FBCA 1.02 Pre Beta 2, fbca102pre_beta.zip, August 03, 2004
@@ -631,6 +1283,7 @@ https://web.archive.org/web/20070701064640/http://parboil.quakeworld.ru:80/tempf
 * FBCA 1.02 Release 1 Source, src102.zip, January 26, 2005
 * FBCA 1.02 Release 2, fbca102kt.zip, February 04, 2005
 * FBCA 1.02 Release Candidate 2, fbca102rc2.zip, February 15 2007
+
 * FBCA 1.01 Final, fbca101final.zip, March 28 2007
 * FBCA 1.01 Final Source, src101final.zip, March 28 2007
 
