@@ -96,12 +96,16 @@ https://web.archive.org/web/20050302150204if_/http://parboil.quakeworld.ru:80/in
 https://web.archive.org/web/20050302144937if_/http://parboil.quakeworld.ru:80/index.html?news01.html
 https://web.archive.org/web/20021005120625if_/http://www.parboil.mailru.com:80/index.html?maps.html
 
+https://web.archive.org/web/20060623071543/http://www.besmella-quake.com/scripts/board/index.cgi?action=showall
+
 ## Version 094
 
 https://web.archive.org/web/20050302150204if_/http://parboil.quakeworld.ru:80/index.html?news02.html
 https://web.archive.org/web/20050302144937if_/http://parboil.quakeworld.ru:80/index.html?news01.html
 https://web.archive.org/web/20021005120625if_/http://www.parboil.mailru.com:80/index.html?maps.html
 https://web.archive.org/web/20021210092232if_/http://www.parboil.mailru.com:80/index.html
+
+https://web.archive.org/web/20060623071543/http://www.besmella-quake.com/scripts/board/index.cgi?action=showall
 
 ## Version 095
 
@@ -111,6 +115,8 @@ https://web.archive.org/web/20050302144937if_/http://parboil.quakeworld.ru:80/in
 https://web.archive.org/web/20021210092232if_/http://www.parboil.mailru.com:80/index.html
 
 http://quake.marshallnet.com/files/fbca095kt_eng.txt
+
+https://web.archive.org/web/20060623071543/http://www.besmella-quake.com/scripts/board/index.cgi?action=showall
 
 ## Version 096
 
@@ -133,6 +139,8 @@ http://quake.marshallnet.com/files/fbca098kt_eng.txt
 https://web.archive.org/web/20050302144937if_/http://parboil.quakeworld.ru:80/index.html?news01.html
 
 https://web.archive.org/web/20030829010233/http://www.set.ru/resource/forum/index.php?f=7
+
+https://web.archive.org/web/20060623071543/http://www.besmella-quake.com/scripts/board/index.cgi?action=showall
 
 ## Version 100
 
@@ -251,6 +259,14 @@ https://web.archive.org/web/20040514181109if_/http://parboil.quakeworld.ru:80/in
 > This is a basic modification of Frogbot Clan Arena for QuakeWorld. The version supports twelve deathmatch maps: ztndm3, e1m2, dm3, dm4, dm6, aerowalk, spinev2, pkeg1, ultrav, amphi2, povdmm4, frobodm2. SRC.
 https://web.archive.org/web/20040609091736if_/http://parboil.quakeworld.ru/parboil/fbca101kt.zip
 https://web.archive.org/web/20040609091736if_/http://parboil.quakeworld.ru/parboil/src101.zip
+
+
+announced on board
+
+https://web.archive.org/web/20060623071543/http://www.besmella-quake.com/scripts/board/index.cgi?action=showall
+
+> Fbca 1.01kt release! - ParboiL, 12/05/03 - 18:07:14
+
 
 
 
@@ -1261,6 +1277,9 @@ http://github.com/ezQuake/fbca
 
 
 ## Release Timeline
+
+
+
 
 * FBCA 1.01 Release 1, fbca101kt.zip, December 05 2003 (have readme)
 * FBCA 1.01 Release 1 Source, src101.zip, December 05 2003 (?)
