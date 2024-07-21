@@ -118,49 +118,173 @@ http://quake.marshallnet.com/files/fbca095kt_eng.txt
 
 https://web.archive.org/web/20060623071543/http://www.besmella-quake.com/scripts/board/index.cgi?action=showall
 
+https://web.archive.org/web/20021123075635/http://www.quake.crimea.ua/
+
+https://web.archive.org/web/20021128121652/http://www.quake.crimea.ua/
+https://web.archive.org/web/20030210062834fw_/http://www.quake.crimea.ua/
+
 ## Version 096
 
 https://web.archive.org/web/20050302144937if_/http://parboil.quakeworld.ru:80/index.html?news01.html
+
+https://web.archive.org/web/20030321073123fw_/http://www.quake.crimea.ua/
+https://web.archive.org/web/20030321073123fw/http://www.quake.crimea.ua/
+
+https://web.archive.org/web/20030418023935/http://quake.marshallnet.com/news.html
 
 ## Version 097
 
 ?
 
+https://web.archive.org/web/20030418023935/http://quake.marshallnet.com/news.html
 http://quake.marshallnet.com/files/fbca097kt_eng.txt
+
+https://web.archive.org/web/20030321073123fw_/http://www.quake.crimea.ua/
+https://web.archive.org/web/20030321073123fw/http://www.quake.crimea.ua/
 
 ## Version 098
 
 https://web.archive.org/web/20050302144937if_/http://parboil.quakeworld.ru:80/index.html?news01.html
 
+https://web.archive.org/web/20040603011835/http://quake.marshallnet.com/news.html
 http://quake.marshallnet.com/files/fbca098kt_eng.txt
 
 ## Version 099
 
+* FBCA Version 0.99, fbca099kt.zip, August 20 2003
+* FBCA Version 0.99 Source, src_fbca099.zip, August 20 2003
+
+
+
+
+download:
+https://web.archive.org/web/20031028181935/http://gibbage.mine.nu/quakeworld/bots/
+
+> fbca099kt.zip           20-Sep-2003 07:24  472K
+
+http://gibbage.mine.nu/quakeworld/bots/fbca099kt.zip
+
+
+link
+(where did i find this link?)
+http://www.parboil.quakeworld.ru/parboil/fbca099kt.zip
+
+
+ftp://www.clan-rum.org/quake/bots/src_fbca099.zip
+(where did i find this link?)
+
+no longer there:
+https://www.quaddicted.com/webarchive/ftp.clan-rum.org/quake/bots/
+
+
+
+news:
+
 https://web.archive.org/web/20050302144937if_/http://parboil.quakeworld.ru:80/index.html?news01.html
+
+> Fbca 0.99kt release! ParboiL 20.08.03
+>
+> Finally released a new version of bots numbered 0.99kt. This version has completely changed the autoreport function. Now it is called only at the time of the message, thereby not constantly loading additional condition checks. If you or bots previously picked up the same weapon twice, only the first pick-up was reported. Now all messages are written plus messages about picking up backpacks. Here's the thing about bots. Now about myself. Since I’m currently looking for a new job, I won’t be able to go online often! I visit my email and website very rarely. I'll let you know as soon as anything changes.
+
+
+forum:
 
 https://web.archive.org/web/20030829010233/http://www.set.ru/resource/forum/index.php?f=7
 
+announced
+
+> Fbca 0.99kt se! ParboiL	28-08-2003 16:48
+
+not archived
+
+
+
+
+forum
+
 https://web.archive.org/web/20060623071543/http://www.besmella-quake.com/scripts/board/index.cgi?action=showall
+
+announced
+
+> New fbca 0.99kt se :) - ParboiL, 09/03/03 - 08:21:25
+
+
+
 
 ## Version 100
 
-http://parboil.mailru.com/parboil/src_fbca100.zip
-http://parboil.mailru.com/parboil/fbca100kt.zip
 
-https://web.archive.org/web/20050302144937if_/http://parboil.quakeworld.ru:80/index.html?news01.html
-
-
+lead-up news
 
 
 https://web.archive.org/web/20050302144937if_/http://parboil.quakeworld.ru:80/index.html?news01.html
 
-what release is this referring to?
+> New optimization fbca! ParboiL 15.09.03
+>
+> Over the past two weeks I have made some pretty significant changes to fbca. Optimized functions such as DesiredWeapon, lava_jump (now if the bot fails to jump, it sinks to the bottom and tries again), a_rocketjump, checkground (the bot checks the floor exactly at the shooting location), checkboven. The time for the ThinkTime function has also been increased. In this version, optimization of all code has been carried out very seriously. The version can be downloaded from Utils & Bots. It's very interesting to see the comments :)
+
+
+
+https://web.archive.org/web/20050302144937if_/http://parboil.quakeworld.ru:80/index.html?news01.html
+
+> The new version fbca will be soon issued! ParboiL 05.10.03
+> The new version number 1.00 is currently being tested. This version completely removes the old bprint and sprint commands using WriteByte and WriteString. The functions of bot names have been completely changed, now bots have a standard netname! A lot of other things have been fixed and changed, but more on that later - wait for the news ;)
+
+
+### FBCA 1.00 Release 1 (October 07 2003)
+
+announced:
+
+https://web.archive.org/web/20050302144937if_/http://parboil.quakeworld.ru:80/index.html?news01.html
+
+> The new version fbca is out! ParboiL 07.10.03
+>
+> fbca version number 1.00 has been released. In this version, a lot of work has been done to optimize and eliminate errors. Fixed the "server crashed:" error when printing final statistics. The restriction on calling bots using maxclients now works. A lot of other things have been fixed and optimized; you can read in detail in the txt files. The version can be downloaded from Utils & bots. I'm waiting for your comments :)
+
+download page:
+
+
+> The new version fbca is out! ParboiL 07.10.03
+>
+> This is another modification of Frogbot Clan Arena. The version includes a lot of new and interesting things, supports maps: ztndm3, e1m2, dm3, dm4, dm6, aerowalk, spinev2, pkeg1, ultrav, amphi2, frobodm2. QW version.
+Source Code from version 1.00.
+
+https://web.archive.org/web/20031010002315if_/http://www.parboil.quakeworld.ru/parboil/fbca100kt.zip
+https://web.archive.org/web/20031010002315if_/http://www.parboil.quakeworld.ru/parboil/src_fbca100.zip
+
+
+### FBCA 1.00 Release 2 (October 10 2003)
+
+
+https://web.archive.org/web/20050302144937if_/http://parboil.quakeworld.ru:80/index.html?news01.html
+
+> Updates in fbca 1.00! ParboiL 10.10.03
+>
+> Today I posted an updated version of fbca 1.00kt. 3d[Power] suggested using his AttackRespawns feature, and after some redesign, the feature was successfully implemented. Now, starting from skill 15 and above, the bot will shoot through respawns. This is very funny, try playing with 20 on Ztndm3 and you will understand everything ;) Many thanks to 3d[Power] for your participation! 3d[Power] is involved in programming various games, visit their website www.3dpower.org!
+This update also includes several changes. The function for loading aliases has been completely changed. Now aliases are also loaded for spectators, but if there is at least one human player on the server, then only two commands are available to spectators - join and observe! Download all this in Utils & bots, write comments :)
+
+
+
+### FBCA 1.00 Release 3 (October 27 2003)
+
+
+
+https://web.archive.org/web/20050302144937if_/http://parboil.quakeworld.ru:80/index.html?news01.html
 
 > About all. ParboiL 31.10.03
 >
 > Due to the fact that the organization that provided me with the forum did not live up to the expectations placed on it, a new forum started working today! For this, my deepest bow to AvaneS! So welcome :)
 Utils & Bots contains a new fbca build dated 10/27/2003. There are many fixes in this build, read more in the txt files. Based on reviews and my own feelings about the game, the version turned out to be quite successful :)
 Also, in Utils & Bots, I posted a new gfx.wad. I didn’t move away from the classic Quake style, but in my opinion there are improvements. That's all for now :)
+
+
+mentioned, but not archived
+
+https://web.archive.org/web/20040716233954/http://www.parboil.quakeworld.ru:80/forum/list.php?f=1&t=1071349801&a=2
+
+> About fbca 1.00kt new
+> ParboiL
+> 11-04-03 12:39
 
 
 ## Version 101
@@ -272,6 +396,18 @@ https://web.archive.org/web/20060623071543/http://www.besmella-quake.com/scripts
 
 #### FBCA 1.01 Release 2, fbca101kt.zip, December 07 2003
 
+mentioned in news
+
+https://web.archive.org/web/20040603011835/http://quake.marshallnet.com/news.html
+
+> quake.marshallnet FrogBot Clan Arena server update to version 1.01kt se and fragstat goodness
+> december.13.2003
+>
+> ParboiL has been up to his old tricks. Updating his FrogBot Clan Arena mod yet again. Nevermind that I skipped over two of his updates :/ Also the pesky problem with the FragStats has been fixed. The database is back online with FragStats reaching back to basically the beginning of this server. Within a year or two anyways. Spoon!!
+The usual policy is still in effect. Suggestions? Comments? Know the secret hideout of the local teenaged cheerleading squad? give a holler! (especially if it is in regards to the cheerleaders!!)
+>
+> -Urge
+
 
 https://web.archive.org/web/20050826144505/http://quake.marshallnet.com/files/fbca101kt_eng.txt
 
@@ -284,6 +420,11 @@ https://web.archive.org/web/20050826144505/http://quake.marshallnet.com/files/fb
 > Author	: ParboiL
 > Email		: parboil@quakeworld.ru
 > Download	: http://www.parboil.quakeworld.ru
+
+
+
+
+
 
 
 
@@ -802,7 +943,7 @@ March 03 release? (from readme)
 * FBCA 1.01 Final 2 Source, src101final.zip, October 09 2007
 
 
-a version was posted to the forum, no idea...
+a version was posted to the forum, no record yet...
 
 
 
@@ -909,6 +1050,9 @@ fbca101kt_eng.txt
 
 
 
+https://github.com/ezQuake/fbca?search=1
+not sure which release this is...
+
 
 
 https://www.quakeworld.nu/news/177/frogbot-gets-gpl
@@ -925,6 +1069,18 @@ Released under the GPL, announced on quakeworld.nu
 > Sorry CPL -> GPL
 
 
+
+https://web.archive.org/web/20080508032333if_/http://parboil.quakeworld.ru/news.php
+
+> Not even a hundred years have passed... ParboiL 09.10.2007
+>
+> Finally it happened :mrgreen:
+> They shook it up, or the unfortunate Robert Field, the creator of Frogbots, shook it up himself. In order to give permission for the free use of his creation, he needed only 9 years. :mrgreen:
+As Robert himself wrote:
+>
+> I give permission to release all versions of the Frogbot under the GPL (GNU General Public License).
+
+> Now, thank God, enthusiastic programmers will be able to realize their dreams. I hope that it was the lack of GPL that prevented > them from doing this for all 9 years. :wink:In connection with this event, the archive of the latest version of fbca has been > updated. Updated SRC files and the GPL document have been added to the archive.
 
 
 
@@ -1279,15 +1435,23 @@ http://github.com/ezQuake/fbca
 ## Release Timeline
 
 
+* FBCA Version 0.99, fbca099kt.zip, August 20 2003
+* FBCA Version 0.99 Source, src_fbca099.zip, August 20 2003
 
+* FBCA 1.00 Release 1, fbca100kt.zip, October 07 2003
+* FBCA 1.00 Release 1 Source, src_fbca100.zip, October 07 2003
+* FBCA 1.00 Release 2, fbca100kt.zip, October 10 2003
+* FBCA 1.00 Release 2 Source, src_fbca100.zip, October 10 2003
+* FBCA 1.00 Release 3, fbca100kt.zip, October 27 2003
+* FBCA 1.00 Release 3 Source, src_fbca100.zip, October 27 2003
 
-* FBCA 1.01 Release 1, fbca101kt.zip, December 05 2003 (have readme)
-* FBCA 1.01 Release 1 Source, src101.zip, December 05 2003 (?)
-* FBCA 1.01 Release 2, fbca101kt.zip, December 07 2003 (have readme)
-* FBCA 1.01 Release 3, fbca101kt.zip, December 14 2003 (have zip)
-* FBCA 1.01 Release 4, fbca101kt.zip, January 06 2004  (have zip)
-* FBCA 1.01 Release 5, fbca101kt.zip, July 26 2004  (have zip)
-* FBCA 1.01 Release 5 Source, src101.zip, July 30 2004  (have zip)
+* FBCA 1.01 Release 1, fbca101kt.zip, December 05 2003
+* FBCA 1.01 Release 1 Source, src101.zip, December 05 2003
+* FBCA 1.01 Release 2, fbca101kt.zip, December 07 2003
+* FBCA 1.01 Release 3, fbca101kt.zip, December 14 2003
+* FBCA 1.01 Release 4, fbca101kt.zip, January 06 2004
+* FBCA 1.01 Release 5, fbca101kt.zip, July 26 2004
+* FBCA 1.01 Release 5 Source, src101.zip, July 30 2004
 
 * FBCA 1.01 Alt 1, fbca101alt.zip, January 18 2004
 * FBCA 1.01 Alt 2, fbca101alt.zip, January 26 2004

@@ -2061,7 +2061,8 @@ Frogbot Clan Arena (FBCA) (parboil)
 		http://parboil.mailru.com/parboil/fbca098kt.zip
 		http://quake.marshallnet.com/files/fbca098kt_eng.txt
 	099
-		?
+		http://www.parboil.quakeworld.ru/parboil/fbca099kt.zip
+		http://gibbage.mine.nu/quakeworld/bots/fbca099kt.zip
 	100
 		http://parboil.mailru.com/parboil/src_fbca100.zip
 		http://parboil.mailru.com/parboil/fbca100kt.zip
