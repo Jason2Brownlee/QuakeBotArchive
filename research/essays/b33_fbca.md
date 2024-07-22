@@ -134,7 +134,7 @@ https://web.archive.org/web/20030418023935/http://quake.marshallnet.com/news.htm
 
 ## Version 097
 
-?
+https://web.archive.org/web/20050302144937if_/http://parboil.quakeworld.ru:80/index.html?news01.html
 
 https://web.archive.org/web/20030418023935/http://quake.marshallnet.com/news.html
 http://quake.marshallnet.com/files/fbca097kt_eng.txt
@@ -144,10 +144,233 @@ https://web.archive.org/web/20030321073123fw/http://www.quake.crimea.ua/
 
 ## Version 098
 
+* FBCA 0.98 Release 1, fbca098kt.zip, April 20 2003
+* FBCA 0.98 Release 2, fbca098kt.zip, May 29 2003
+* FBCA 0.98 Release 2, src_fbca098.zip, May 29 2003
+* FBCA 0.98 Release 3, fbca098kt.zip, June 10 2003
+* FBCA 0.98 Release 3, src_fbca098.zip, June 10 2003
+
+http://parboil.mailru.com/parboil/fbca098kt.zip
+http://parboil.quakeworld.ru/parboil/fbca098kt.zip
+
+news
+
 https://web.archive.org/web/20050302144937if_/http://parboil.quakeworld.ru:80/index.html?news01.html
 
+> Fbca 0.98kt update! ParboiL 10.06.03
+>
+> Today I finally posted a new build of version 0.98kt. The kill command now works in pre_game mode. The report command for TP has also been modernized. Due to numerous requests, I also posted the SRC from the latest QW version, and tomorrow I will post the SRC from 0.92. You can change and modernize these sources, but provided you link to me. Please notify me of any changes or additions by email or in the forum. Any suggestions and comments are interesting. Do not use your versions for competitions :) If you have any questions, write on the forum!
+
+
+https://web.archive.org/web/20050302144937if_/http://parboil.quakeworld.ru:80/index.html?news01.html
+
+> Fbca 0.98kt release! ParboiL 20.04.03
+>
+> Today I released a new version of Frogbot Clan Arena numbered 0.98kt. What's new in this version:
+> - Added skillup and skilldown commands
+> - Added weapon statistics +wp_stats (as in KTPro)
+> - Made and added support for the Ultrav card
+> - Upgraded Ai
+> - Changed SelectMap (as in KTPro)
+> - Modernized countdown mode (bug fixed)
+> - Upgraded Motd
+> To adjust wp_stats vertically, use the setinfo lw x command, where x is the number you need. For example, setinfo lw 30. You can download it in the Utils & Bots section. Waiting for your comments!
+
+
+
+
+download:
+
+https://web.archive.org/web/20030727085644if_/http://www.parboil.quakeworld.ru:80/index.html?utils.html
+
+> Frogbot Clan Arena 0.98kt se (version from 29.05.2003)
+> Это очередная модификация Frogbot Clan Arena. Версия включает в себя много нового и интересного, поддерживает карты: ztndm3, e1m2, dm3, dm4, dm6, aerowalk, spinev2, pkeg1, ultrav, amphi2, frobodm2. QW версия.
+Source Code от текущей версии fbca.
+
+
+https://web.archive.org/web/20030802161309if_/http://www.parboil.quakeworld.ru/parboil/fbca098kt.zip
+https://web.archive.org/web/20030802161309if_/http://www.parboil.quakeworld.ru/parboil/src_fbca098.zip
+
+
+news:
+
 https://web.archive.org/web/20040603011835/http://quake.marshallnet.com/news.html
+
+
+> quake.marshallnet FrogBot Clan Arena server update to version 0.98kt se
+> june.07.2003
+>
+> ParboiL squeaked out another update without notifying me! What was he thinking? Actually, I just forget to check for updates to the mod on a regular basis. But it's easier to lay blame elsewhere. :) Anyhoo, as always, a link can be found on the main page to the text file for this mod which explains any changes, new features, and current features. Enjoy!!
+Comments, suggestions, questions, or if you have info about out of work pron stars looking for employment, give a holler!
+>
+> -Urge
+
+
+
+content results:
+
+https://web.archive.org/web/20030724170319if_/http://parboil.quakeworld.ru:80/index.html?cont.html
+
+> tom
+> fbca 0.98kt
+> 16.05.2003
+> 71:1
+> 69
+> 97.3%
+
+...
+
+
+> [dt] gleb
+> fbca 0.98kt
+> 21.04.2003
+> 35:18
+> 17
+> 66.0%
+>91.9%
+
+
+
+Link:
+
+
 http://quake.marshallnet.com/files/fbca098kt_eng.txt
+
+> Frogbot Clan Arena (QW line)
+> ============================
+> Title		: Frogbot Clan Arena
+> Version	: 0.98kt se
+> Date		: Apr 23, 2003
+> Author    	: ParboiL
+> Email		: parboil@quakeworld.ru
+> Download	: http://www.parboil.quakeworld.ru
+
+
+
+src_fbca098.zip
+(where did i get this?)
+
+
+may 29 2003?
+
+
+```text
+.
+├── arena.qc
+├── bot
+│   ├── botenemy.qc
+│   ├── botgoals.qc
+│   ├── bothazd.qc
+│   ├── bothelp.qc
+│   ├── botimp.qc
+│   ├── botjump.qc
+│   ├── botpath.qc
+│   ├── botphys.qc
+│   ├── botstat.qc
+│   ├── botthink.qc
+│   ├── botutil.qc
+│   ├── botwater.qc
+│   └── botweap.qc
+├── buttons.qc
+├── client.qc
+├── combat.qc
+├── commands.qc
+├── defs.qc
+├── defs_kt.qc
+├── doors.qc
+├── items.qc
+├── lists.qc
+├── load.qc
+├── loadmap.qc
+├── manual.qc
+├── maps
+│   ├── map_aerowalk.qc
+│   ├── map_amphi2.qc
+│   ├── map_dm3.qc
+│   ├── map_dm4.qc
+│   ├── map_dm6.qc
+│   ├── map_e1m2.qc
+│   ├── map_frobodm2.qc
+│   ├── map_pkeg1.qc
+│   ├── map_spinev2.qc
+│   ├── map_ultrav.qc
+│   └── map_ztndm3.qc
+├── maps.h
+├── maps.qc
+├── marker_load.qc
+├── marker_util.qc
+├── match.qc
+├── mathutil.qc
+├── meqcc.log
+├── misc.qc
+├── motd.qc
+├── names.qc
+├── observ.qc
+├── plats.qc
+├── player.qc
+├── progdefs.h
+├── progs.src
+├── route_calc.qc
+├── route_fields.qc
+├── route_lookup.qc
+├── server.qc
+├── settings.h
+├── subs.qc
+├── talk.qc
+├── teamplay.qc
+├── teamtalk.qc
+├── triggers.qc
+├── weapons.qc
+└── world.qc
+```
+
+
+```text
+92284 19 Apr  2003 arena.qc
+  480 29 May  2003 bot
+ 3553 13 Oct  2002 buttons.qc
+49107 29 May  2003 client.qc
+ 7024  2 Mar  2003 combat.qc
+ 3338 14 Apr  2003 commands.qc
+61036 14 Apr  2003 defs.qc
+15032 29 May  2003 defs_kt.qc
+17045 13 Oct  2002 doors.qc
+50284 23 Apr  2003 items.qc
+12297 12 Nov  2002 lists.qc
+ 1645 11 Sep  1999 load.qc
+ 1872 14 Apr  2003 loadmap.qc
+33922 17 Feb  2002 manual.qc
+  416 29 May  2003 maps
+  211 14 Apr  2003 maps.h
+ 4077 15 Apr  2003 maps.qc
+ 4463 28 Dec  2001 marker_load.qc
+ 6639  5 Jan  2002 marker_util.qc
+16235 20 Apr  2003 match.qc
+  890 12 Dec  1998 mathutil.qc
+ 1401 29 May  2003 meqcc.log
+10323 14 Sep  2002 misc.qc
+  978 15 Apr  2003 motd.qc
+ 9626 17 Feb  2002 names.qc
+ 2752 17 Mar  2003 observ.qc
+ 7481 13 Oct  2002 plats.qc
+18800  2 Mar  2003 player.qc
+ 2541 29 May  2003 progdefs.h
+  843 14 Apr  2003 progs.src
+65627 12 Oct  2002 route_calc.qc
+24535 12 Sep  1999 route_fields.qc
+22933  5 Jan  2002 route_lookup.qc
+  739 28 Sep  2002 server.qc
+  120 14 Sep  2002 settings.h
+ 3386 11 Sep  1999 subs.qc
+13710  2 Mar  2003 talk.qc
+ 6777  2 Mar  2003 teamplay.qc
+ 8793 25 May  2003 teamtalk.qc
+14624 24 Nov  2002 triggers.qc
+33512 14 Apr  2003 weapons.qc
+15414  6 Apr  2003 world.qc
+```
+
+
 
 ## Version 099
 
@@ -1434,6 +1657,11 @@ http://github.com/ezQuake/fbca
 
 ## Release Timeline
 
+* FBCA 0.98 Release 1, fbca098kt.zip, April 20 2003
+* FBCA 0.98 Release 2, fbca098kt.zip, May 29 2003
+* FBCA 0.98 Release 2, src_fbca098.zip, May 29 2003
+* FBCA 0.98 Release 3, fbca098kt.zip, June 10 2003
+* FBCA 0.98 Release 3, src_fbca098.zip, June 10 2003
 
 * FBCA Version 0.99, fbca099kt.zip, August 20 2003
 * FBCA Version 0.99 Source, src_fbca099.zip, August 20 2003
