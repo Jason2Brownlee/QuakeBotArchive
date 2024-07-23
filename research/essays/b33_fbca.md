@@ -134,13 +134,81 @@ https://web.archive.org/web/20030418023935/http://quake.marshallnet.com/news.htm
 
 ## Version 097
 
-https://web.archive.org/web/20050302144937if_/http://parboil.quakeworld.ru:80/index.html?news01.html
 
-https://web.archive.org/web/20030418023935/http://quake.marshallnet.com/news.html
+* FBCA 0.97, fbca097kt.zip, March 03 2003
+
+
+https://web.archive.org/web/20050302151838if_/http://parboil.quakeworld.ru:80/index.html?news03.html
+
+release
+
+> Frogbot Clan Arena 0.97kt release. ParboiL 03.03.03
+>
+> Not long ago I posted version 0.96, and today it’s already 0.97. This is due to the fact that we managed to fix a lot of errors, greatly reduce the code and improve the AI. All changes can be read in txt files.
+By competition. Demos on version 0.96 are no longer accepted! Play on version 0.97 and send demos. New demos will replace the old ones even if the result is worse. The same system as with version 0.96 :) I'm waiting for your comments.
+P.S. Remember! If you want to have a stronger opponent use zquake or fuhquake ;)
+
+https://web.archive.org/web/20030410043300if_/http://www.parboil.quakeworld.ru/parboil/fbca097kt.zip
+
+
+download:
+
+https://web.archive.org/web/20030410/http://parboil.quakeworld.ru:80/utils.html
+
+
+> Frogbot Clan Arena 0.97kt se (version from 06.04.2003)
+>
+> This is another modification of Frogbot Clan Arena. This version includes a lot of new and interesting things, supports maps: ztndm3, e1m2, dm3, dm4, dm6, aerowalk, spinev2, pkeg1, amphi2, frobodm2. QW version.
+
+
+
+files:
+
+http://parboil.mailru.com/parboil/fbca097kt.zip
+http://quake.crimea.ua/files/quake/bots/fbca097kt.zip
 http://quake.marshallnet.com/files/fbca097kt_eng.txt
 
+
+announcement:
+
+download:
+
 https://web.archive.org/web/20030321073123fw_/http://www.quake.crimea.ua/
-https://web.archive.org/web/20030321073123fw/http://www.quake.crimea.ua/
+
+> 03.03	Frogbot Arena v0.97 (468 K)
+
+https://web.archive.org/web/20030321073123/http://www.quake.crimea.ua/files/quake/bots/fbca097kt.zip
+
+
+
+announcement:
+
+https://web.archive.org/web/20030418023935/http://quake.marshallnet.com/news.html
+
+
+> quake.marshallnet FrogBot Clan Arena server update to version 0.97kt se
+> march.20.2003
+>
+> ParboiL has done it again. This update has been out for a few weeks now, but being the professionally lazy person I am, I just now got around to it. A link can be found on the main page to the text file for this mod.
+As always, if you have any comments, suggestions, or a spare sirloin steak, give a holler.
+>
+> -Urge
+
+
+
+http://quake.marshallnet.com/files/fbca097kt_eng.txt
+https://web.archive.org/web/20030418023929/http://quake.marshallnet.com/files/fbca097kt_eng.txt
+
+
+> Frogbot Clan Arena (QW line)
+> ============================
+> Title		: Frogbot Clan Arena
+> Version	: 0.97kt se
+> Date		: Mar 02, 2003
+> Author    	: ParboiL
+> Email		: parboil@mailru.com
+> Download	: http://www.parboil.mailru.com
+
 
 
 
@@ -1669,6 +1737,10 @@ http://github.com/ezQuake/fbca
 
 
 ## Release Timeline
+
+This is reconstructed and about as accurate as I can make it based on files located to-date.
+
+* FBCA 0.97, fbca097kt.zip, March 03 2003
 
 * FBCA 0.98 Release 1, fbca098kt.zip, April 20 2003
 * FBCA 0.98 Release 2, fbca098kt.zip, May 29 2003
