@@ -142,6 +142,19 @@ http://quake.marshallnet.com/files/fbca097kt_eng.txt
 https://web.archive.org/web/20030321073123fw_/http://www.quake.crimea.ua/
 https://web.archive.org/web/20030321073123fw/http://www.quake.crimea.ua/
 
+
+
+site moved from mailru to quakeworld.ru:
+
+https://web.archive.org/web/20050302151838if_/http://parboil.quakeworld.ru:80/index.html?news03.html
+
+> PLFQ - new url! ParboiL 19.03.03
+>
+> Due to the fact that recently the mailru.com (hotbox.ru) service has become very unstable, plus the mailru.com domain will be closed on May 31 of this year, I moved the site to the domain www.parboil.quakeworld.ru. And now the working email will be: parboil@quakeworld.ru.
+Many thanks to Krok and AvaneS for their help!
+
+
+
 ## Version 098
 
 * FBCA 0.98 Release 1, fbca098kt.zip, April 20 2003

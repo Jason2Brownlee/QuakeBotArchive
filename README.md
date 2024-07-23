@@ -18,24 +18,22 @@ This project seeks to (1) **locate**, (2) **archive**, and (3) **host** all vers
 
 If you have backups of old Quake bots, [you can help](#Help).
 
-This is an archive of bots. If you need help running bots in quake, [see this excellent guide](https://steamcommunity.com/sharedfiles/filedetails/?id=123626484) by Joel Baxter.
+If you need help running bots in quake, [see this excellent guide](https://steamcommunity.com/sharedfiles/filedetails/?id=123626484) by Joel Baxter.
 
-## Quake Bot Genealogy
+## Quake Bot Chronology and Genealogy
 
-Reconstructed Quake bot genealogy.
-
-![Quake Bot Genealogy](research/mindmap/QuakeBots.png)
-
-## Quake Bot Chronology
-
-Reconstructed Quake bot chronology.
+Here are some fun meta projects using the quake bot archive:
 
 * [Quake Bot Chronology](research/chronology.md)
 * [Quake Bot Essays](research/essays/README.md)
 
+Quake Bot Genealogy:
+
+![Quake Bot Genealogy](research/mindmap/QuakeBots.png)
+
 ## Quake Bot List
 
-Alphabetical list of Quake bot names, authors, and local download links for all server-side QuakeC bots in the [bin/](bin/) directory.
+Alphabetical list of Quake bot names, authors, and local download links for all QuakeC bots (server-side) in the [bin/](bin/) directory.
 
 Bot Name | Bot Author(s) | File
 --- | --- | ---
@@ -332,9 +330,11 @@ Perhaps you can help to make this archive more complete.
 
 Please email Jason Brownlee via jason.brownlee05@gmail.com
 
+Even if you have bot files already in the archive, send them through. Many bots were released with the same filename again and again.
+
 ### Wishlists
 
-Lists of known files missing from the archive.
+Below are lists of known files missing from the archive.
 
 * [Quake Bot Filename Wishlist](research/wishlist.txt): list of known files missing from the archive.
 * [Quake Bot URL Wishlist](research/wishlist_urls.txt): list of broken URLs for files missing from the archive.
