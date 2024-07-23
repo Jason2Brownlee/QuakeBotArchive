@@ -18,6 +18,8 @@ This project seeks to (1) **locate**, (2) **archive**, and (3) **host** all vers
 
 If you have backups of old Quake bots, [you can help](#Help).
 
+This is an archive of bots. If you need help running bots in quake, [see this excellent guide](https://steamcommunity.com/sharedfiles/filedetails/?id=123626484) by Joel Baxter.
+
 ## Quake Bot Genealogy
 
 Reconstructed Quake bot genealogy.
