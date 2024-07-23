@@ -3862,7 +3862,12 @@ DemonBot
 	http://www.ing.umu.se/~da00njn
 		https://web.archive.org/web/20020608001145/http://www.ing.umu.se/~da00njn/tubal.html
 		"Tubal 's Page"
-
+Frogbot Clan Arena Brainwork
+	"quak3r"
+	https://www.jeuxvideo.com/forums/1-2202-8911798-1-0-1-0-0.htm
+	http://www.ttinform.lv/qwprogs_last.zip
+	http://www.ttinform.lv/readme_current.txt
+		https://web.archive.org/web/20040803145644/http://www.ttinform.lv:80/readme_current.txt
 
 
 

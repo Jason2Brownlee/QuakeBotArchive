@@ -1,0 +1,105 @@
+Title		: Frogbot Clan Arena Brainwork
+==============================================
+Version		: 32
+Date		: July 31, 2004
+Email		: rj45@mail.com
+
+This mod is based on official 1.01 frogbot clan arena release by ParboiL (source code here: http://www.parboil.quakeworld.ru/parboil/src101.zip)
+
+The main concept behind this modification is bring the better gameplay with frogbots and more humanlike behaviour (including speedjumping, tricks on various supported maps, better strafing in combat and avoiding missiles, less predictability,.. and so on). Note the speedjumping is far from ideal at this moment, but we working on it to make it better. 
+
+
+Download Site
+=============
+Main		: http://www.ttinform.lv/qwprogs_last.zip
+
+
+Description
+===========
+A QuakeWorld mod that combines the Frogbot,Clan Arena and Kombat Teams.
+
+
+Installation
+============
+Unzip into your Quakeworld folder.
+
+
+Running the game
+================
+1.) Open up the 'bat' folder (eg. C:\Quakeworld\fbca\bat\)
+2.) Double-click on qw.bat, or gl_qw.bat
+
+
+Important Notes
+===============
+- You should have wordwrap enabled in your text editor to view this file.
+- Refer to beginners.txt and fbca101kt_eng.txt (or fbca101kt_rus.txt if you russian) for more information on the Frogbot.
+- Config included is /configs folder. Executing one of the config is an easy way to enable Clan Arena, damage frags, and rocket-jumping bots. Also, this sets sv_gamedir to "arena", so QuakeWorld clients won't have to download sounds if they already have them in their arena folder.
+- You can only toggle chasecam during a match and if you are not playing. Attack toggles it on/off. When in chase mode, jump switches to the next client.
+- You can use the reset command instead of reloading the map to change settings such as 'deathmatch' and 'arena'.
+-Type 'rules' when connected to server to see list of available commands
+
+This is the complete list of new (compared to official 1.01 Parboil`s release) frogbot AI features coming with this release
+================================
+
+-speedjumps and tricks performed by bots
+-better aircontrol when performing rocketjumps
+-better strafing during combat
+-better missile avoidance
+-valuable backpacks won`t be ignored anymore
+-waypoints improvements
+-better deathmatch 4 mode
+-grenade launcher usage during camping an items and escaping
+-new server.cfg variable (for deathmatch 4 only):
+
+serverinfo allow_weapon 0 (default) - all default deathmatch 4 weapons
+serverinfo allow_weapon 1 - only shotgun available
+serverinfo allow_weapon 2 - only super shotgun
+serverinfo allow_weapon 3 - only nailgun
+serverinfo allow_weapon 4 - only super nailgun
+serverinfo allow_weapon 5 - only rocket launcher
+serverinfo allow_weapon 6 - only grenade launcher
+serverinfo allow_weapon 7 - only shaft
+
+-customizable bot names (names now can be changed directly from server.cfg. Format is "localinfo bot<1-16>name nameofbot) 
+
+
+Supported maps 
+===============
+
+dm3, dm4, dm6, e1m2, frobodm2, aerowalk, spinev2, pkeg1, ztndm3, amphi2 (included in archive), povdmm4
+
+
+
+Version history
+===============
+
+Refer to history_current.txt
+
+
+Next versions
+=============
+
+Refer to todo.txt
+
+
+Bugs
+====
+Please e-mail me (rj45@mail.com) if you find any bugs.
+
+
+Thanks
+======
+Robert 'Frog' Field (frog@powerup.com.au) : The original Frogbot
+Matt 'Asdf' McChesney - original author of Frogbot Clan Arena
+Alex `Parboil` Pahomov - combining together kombat teams source with Matt`s work
+a2m-onix, for betatesting
+Everyone that has downloaded and tried this mod.
+
+
+Copyrights
+==========
+This product is meant for educational purposes only. Any resemblance to real persons, living or dead is purely coincidental. Void where prohibited. Some assembly required. List each check separately by bank number. Batteries not included. Contents may settle during shipment. Use only as directed. No other warranty expressed or implied. Do not use while operating a motor vehicle or heavy equipment. Postage will be paid by addressee. Subject to CAB approval. This is not an offer to sell securities. Apply only to affected area. May be too intense for some viewers. Do not stamp. Use other side for additional listings. For recreational use only. Do not disturb. All models over 18 years of age. If condition persists, consult your physician. No user-serviceable parts inside. Freshest if eaten before date on carton. Subject to change without notice. Times approximate. Simulated picture. No postage necessary if mailed in the United States. Breaking seal constitutes acceptance of agreement. For off-road use only. As seen on TV. One size fits all. Many suitcases look alike. Contains a substantial amount of non-tobacco ingredients. Colors may, in time, fade. We have sent the forms which seem right for you. Slippery when wet. For office use only. Not affiliated with the American Red Cross. Drop in any mailbox. Edited for television. Keep cool. process promptly. Post office will not deliver without postage. List was current at time of printing. Return to sender, no forwarding order on file, unable to forward. Not responsible for direct, indirect, incidental or consequential damages resulting from any defect, error or failure to perform. At participating locations only. Not the Beatles. Penalty for private use. See label for sequence. Substantial penalty for early withdrawal. Do not write below this line. Falling rock. Lost ticket pays maximum rate. Your canceled check is your receipt. Add toner. Place stamp here. Avoid contact with skin. Sanitized for your protection. Be sure each item is properly endorsed. Sign here without admitting guilt. Slightly higher west of the Mississippi. Employees and their families are not eligible. Beware of dog. Contestants have been briefed on some questions before the show. Limited time offer, call now to ensure prompt delivery. You must be present to win. No passes accepted for this engagement. No purchase necessary. Processed at location stamped in code at top of carton. Shading within a garment may occur. Use only in a well-ventilated are. Keep away from fire or flames. Replace with same type. Approved for veterans. Booths for two or more. Check here if tax deductible. Some equipment shown is optional. Price does not include taxes. No Canadian coins. Not recommended for children. Prerecorded for this time zone. Reproduction strictly prohibited. No solicitors. No alcohol, dogs or horses. No anchovies unless otherwise specified. Restaurant package, not for resale. List at least two alternate dates. First pull up, then pull down. Call toll free before digging. Driver does not carry cash. Some of the trademarks mentioned in this product appear for identification purposes only. Record additional transactions on back of previous stub. Unix is a registeredtrademark of AT&T. Do not fold, spindle or mutilate. No transfers issued until the bus comes to a complete stop. Package sold by weight, not volume. Your mileage may vary. This article does not reflect the thoughts or opinions of either myself, my company, my friends, or my cat. Don't quote me on that. Don't quote me on anything. All rights reserved. You may distribute this article freely but you may not make a profit from it. Terms are subject to change without notice. Illustrations are slightly enlarged to show detail. Any resemblance to actual persons, living or dead, is unintentional and purely coincidental. Do not remove this disclaimer under penalty of law. Hand wash only, tumble dry on low heat. Do not bend, fold, mutilate, or spindle. No substitutions allowed. For a limited time only. This article is void where prohibited, taxed, or otherwise restricted. Caveat emptor. Article is provided "as is" without any warranties. Reader assumes full responsibility. An equal opportunity article. No shoes, no shirt, no articles. quantities are limited while supplies last. If any defects are discovered, do not attempt to read them yourself, but return to an authorized service center. Read at your own risk. Parental advisory - explicit lyrics. Text may contain explicit materials some readers may find objectionable, parental guidance is advised. Keep away from sunlight. Keep away from pets and small children. Limit one-per-family please. No money down. No purchase necessary. You need not be present to win. Some assembly required. Batteries not included. Instructions are included. Action figures sold separately. No preservatives added. Slippery when wet. Safety goggles may be required during use. Sealed for your protection, do not read if safety seal is broken. Call before you dig. Not liable for damages arising from use or misuse. For external use only. If rash, irritation, redness, or swelling develops, discontinue reading. Read only with proper ventilation. Avoid extreme temperatures and store in a cool dry place. Keep away from open flames. Avoid contact with eyes and skin and avoid inhaling fumes. Do not puncture, incinerate, or store above 120 degrees Fahrenheit. Do not place near a flammable or magnetic source. Smoking this article could be hazardous to your health. The best safeguard, second only to abstinence, is the use of a condom. No salt, MSG, artificial color or flavoring added. If ingested, do not induce vomiting, and if symptoms persist, consult a physician. Warning: Pregnant women, the elderly, and children should avoid prolonged exposure to Happy Fun Ball. Caution: Happy FUn Ball may suddenly accelerate to dangerous speeds. Happy Fun Ball contains a liquid core, which if exposed due to rupture should not be touched, inhaled, or looked at. Do not use Happy Fun Ball on concrete. Discontinute use of Happy Fun Ball if any of the following occurs: Itching, Vertigo, Dizziness, Tingling in extremities, Loss of balance or coordination, Slurred speech, Temporary blindness, Profuse Sweating, or Heart palpitations. If Happy Fun Ball begins to smoke, get away immediately. Seek shelter and cover head. Happy Fun Ball may stick to certain types of skin. When not in use, Happy Fun Ball should be returned to its special container and kept under refrigeration. Failure to do so relieves the makers of Happy Fun Ball, Wacky Products Incorporated, and it's parent company, Global Chemical Unlimited, of any and all liability. Ingredients of Happy Fun Ball include an unknown glowing substance which fell to Earth, presumably from outer space. Happy Fun Ball has been shipped to our troops in Saudi Arabia and is also being dropped by our warplanes on Iraq. Do not taunt Happy Fun Ball. May cause any of the aforementioned effects and/or death. Articles are ribbed for your pleasure. Possible penalties for early withdrawal. Offer valid only at participating sites. Slightly higher west of the Rockies. Allow four to six weeks for delivery. Must be 18 to read. Disclaimer does not cover misuse, accident, lightning, flood, tornado, tsunami, volcanic eruption, earthquake, hurricanes and other Acts of God, neglect, damage from improper reading, incorrect line voltage, improper or unauthorized reading, broken antenna or marred cabinet, missing or altered serial numbers, electromagnetic radiation from nuclear blasts, sonic boom vibrations, customer adjustments that are not covered in this list, and incidents owing to an airplane crash, ship sinking or taking on water, motor vehicle crashing, dropping the item, falling rocks, leaky roof, broken glass, mud slides, forest fire, or projectile (which can include, but not be limited to, arrows, bullets, shot, BB's, shrapnel, lasers, napalm, torpedoes, or emissions of X-rays, Alpha, Beta and Gamma rays, knives, stones, etc.).
+
+Other restrictions may apply. 
+This supersedes all previous notices.

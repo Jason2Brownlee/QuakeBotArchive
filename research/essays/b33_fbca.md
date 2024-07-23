@@ -10,6 +10,9 @@
 
 ## Version 080
 
+https://www.bluesnews.com/s/854/frogbot-clan-arena
+?
+
 ## Version 081
 
 ## Version 082
@@ -288,6 +291,33 @@ Comments, suggestions, questions, or if you have info about out of work pron sta
 
 
 
+news:
+
+https://planetquake.gamespy.com/quake1/indexbc17.html?start_from=76&category_id=2
+
+> Tuesday, 13 May, 2003 – Planet Quake News
+> Frogbot Clan Arena Update
+> 6:53 PST | | Print News | Category: Quake News
+>
+> ParboiL has released a new version of his Frogbot Clan Arena modification for QuakeWorld. The small mod combines Frogbot and Clan Arena & Kombat Teams (KTPro). Game mode toggles include the following:
+>
+>> drop: drop quad/ring (powerup must be enabled)
+>> arena: clan arena
+>> damage: damage based frags
+>> raspawn: ra spawning (so you can play on rocket arena maps)
+>> botjump: bot jumping during combat
+>> rl_pref: bot shoots by a rocket launcher more
+>> lg_pref: bot shoots by a lightning gun more
+>> sounds: mortal kombat, street fighter, or no sounds
+>
+> ParboiL's site is not in English, but Frogbot Clan Arena 0.98kt does include an English readme chock full of information. You can download the mod here (direct download link).
+
+http://www.parboil.quakeworld.ru/
+http://www.parboil.quakeworld.ru/parboil/fbca098kt.zip
+
+
+
+
 content results:
 
 https://web.archive.org/web/20030724170319if_/http://parboil.quakeworld.ru:80/index.html?cont.html
@@ -512,6 +542,46 @@ announced
 
 > New fbca 0.99kt se :) - ParboiL, 09/03/03 - 08:21:25
 
+
+news:
+
+https://planetquake.gamespy.com/quake1/indexe7f8.html?start_from=72&category_id=2
+
+> Thursday, 28 August, 2003 – Planet Quake News
+>
+> Noticed on NetQuake Europe that a new version of ParboiL's Frogbot Clan Arena is now available for download. New to version 0.99kt-se of the Quake mod:
+>
+>> Modernized & fixed AI codes
+>> Modernized function botreport (enemy quad/penta/invis)
+>> Add print took RL/LG/GL pack
+>> Change autoreport function
+>> Pptimized codes
+>
+> Frogbot Clan Arena is a mod that combines Frogbot, Clan Arena and Kombat Teams (KTPro), you can download the latest version here, English readme included.
+
+http://members.webdeveloping.nl/~trouby/nqeu/index.php
+http://www.parboil.quakeworld.ru/
+http://www.parboil.quakeworld.ru/utils.html
+
+
+
+https://www.esports.pl/news/frogbot-clan-arena-099-kt/2812/strona/1/kom
+
+> Frogbot Clan Arena 0.99 KT
+> Author: bizz - 2003-09-02 11:03:20
+>
+> Frogbot Clan Arena 0.99 KT
+> ParaboiL has released a new version of Clan Arena for quakeworld. This mod also includes bots (Frogbot), so modders will also be able to play :) However, you can only play with bots on selected maps, here they are: ztndm3, e1m2, dm3, dm4, dm6, aerowalk, spinev2, pkeg1, ultrav, amphi2, frobodm2.
+>
+>> - Is modernized & fixed AI codes
+>> - Is modernized function botreport (enemy quad/penta/invis)
+>> - Add print took RL/LG/GL pack
+>> - Change autoreport function
+>> - Is optimized codes
+>
+> Download Frogbot Clan Arena 0.99 KT
+
+http://www.parboil.quakeworld.ru/parboil/fbca099kt.zip
 
 
 

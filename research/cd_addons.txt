@@ -80,6 +80,7 @@ power tools for quake
 Quake compilation
 	russian
 	https://www.legendsworld.net/site/download.php?mirror=9326#Download
+	https://cloud.mail.ru/public/DkCv/4WN3PsYEt
 	massive, more than 23gb...
 	bots
 		tfbot080.zip
