@@ -340,6 +340,8 @@ Frogbot
 		https://web.archive.org/web/19980614161937/http://www.inside3d.com/mar26-mar29.html
 	bot board
 		https://web.archive.org/web/20001205062300/http://www.telefragged.com/metro/botboard/index.shtml
+	v009
+		http://members.multimania.nl/nqeu/files/bots/frogbot.zip
 Optimized Frogbot
 	http://aminet.net/package/game/patch/frogbot
 	Christian Michael aka "surgeon"
@@ -3868,7 +3870,29 @@ Frogbot Clan Arena Brainwork
 	http://www.ttinform.lv/qwprogs_last.zip
 	http://www.ttinform.lv/readme_current.txt
 		https://web.archive.org/web/20040803145644/http://www.ttinform.lv:80/readme_current.txt
-
+	https://web.archive.org/web/20040829124837/http://www.parboil.quakeworld.ru:80/forum/read.php?f=1&i=1229&t=1229
+		http://www.ttinform.lv/qwprogs3.zip
+		http://www.ttinform.lv/qwprogs4.zip
+		http://www.ttinform.lv/qwprogs5.zip
+		http://medlem.spray.se/~ratface1/qw/qwprogs5.zip
+		http://www.ttinform.lv/qwprogs6.zip
+		http://www.ttinform.lv/qwprogs7.zip
+		http://www.ttinform.lv/qwprogs8.zip
+		http://www.ttinform.lv/qwprogs9.zip
+		http://www.ttinform.lv/qwprogs10.zip
+		http://www.ttinform.lv/qwprogs10_1.zip
+		http://www.ttinform.lv/qwprogs11.zip
+		http://www.ttinform.lv/qwprogs12.zip
+	https://web.archive.org/web/20040621164017/http://www.parboil.quakeworld.ru:80/forum/read.php?f=1&i=1175&t=1175
+		http://medlem.spray.se/ratface1/qw/qwprogs.zip
+		http://medlem.spray.se/ratface1/qw/grenade_ai.txt
+	https://web.archive.org/web/20040829124826/http://www.parboil.quakeworld.ru:80/forum/read.php?f=1&i=1211&t=1211
+		http://www.ttinform.lv/qwprogs.zip
+		http://www.ttinform.lv/qwprogs1.zip
+		http://www.ttinform.lv/qwprogs2
+	https://web.archive.org/web/20040829125006/http://www.parboil.quakeworld.ru:80/forum/read.php?f=1&i=1328&t=1328
+		http://www.ttinform.lv/qwprogs13.zip
+		http://www.ttinform.lv/qwprogs14.zip
 
 
 
