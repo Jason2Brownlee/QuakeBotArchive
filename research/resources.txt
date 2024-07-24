@@ -545,6 +545,24 @@ http://trinca.no.sapo.pt
 	TODO process all the way points...
 
 
+
+netquake europe (NQEU)
+(lots of fbca news)
+	http://members.webdeveloping.nl/~trouby/nqeu/index.php
+	http://members.multimania.nl/nqeu/
+		http://members.multimania.nl/nqeu/files/bots/
+		https://web.archive.org/web/*/http://members.multimania.nl/nqeu/*
+	http://members.lycos.nl/nqeu/
+		https://web.archive.org/web/20020815000000*/http://members.lycos.nl/nqeu/
+		https://web.archive.org/web/*/http://members.lycos.nl/nqeu/*
+		https://web.archive.org/web/20021020042243/http://members.lycos.nl:80/nqeu/root/php/news.php
+		https://web.archive.org/web/20021220070639/http://members.lycos.nl/nqeu/files/
+	http://www.netquake.be
+	http://www.nqeu.tk/
+	http://www.media-bros.dk/nqeu/
+	http://disc.server.com/Indices/195567.html
+		forum
+
 guides:
 --------------------------------------------------------------------------------
 Deathmatch With Bots (modern guide)

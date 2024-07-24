@@ -101,6 +101,8 @@ https://web.archive.org/web/20021005120625if_/http://www.parboil.mailru.com:80/i
 
 https://web.archive.org/web/20060623071543/http://www.besmella-quake.com/scripts/board/index.cgi?action=showall
 
+https://web.archive.org/web/20110419101539/http://members.multimania.nl/nqeu/files/bots/
+
 ## Version 094
 
 https://web.archive.org/web/20050302150204if_/http://parboil.quakeworld.ru:80/index.html?news02.html
@@ -198,6 +200,17 @@ As always, if you have any comments, suggestions, or a spare sirloin steak, give
 > -Urge
 
 
+news
+
+https://web.archive.org/web/20030418060113/http://members.webdeveloping.nl/~trouby/nqeu/index.php
+
+> Frogbot Clan Arena 0.97kt se	by Arkon @ 07-04-2003 12:15
+>
+>Parboil has released a new version of his Frogbot mod which is probably the best way to practice offline in Quakeworld. You can download the new release here.
+
+https://web.archive.org/web/20030418113819/http://www.parboil.quakeworld.ru/
+https://web.archive.org/web/20030418113819/http://www.parboil.quakeworld.ru/parboil/fbca097kt.zip
+
 
 http://quake.marshallnet.com/files/fbca097kt_eng.txt
 https://web.archive.org/web/20030418023929/http://quake.marshallnet.com/files/fbca097kt_eng.txt
@@ -228,11 +241,33 @@ Many thanks to Krok and AvaneS for their help!
 
 ## Version 098
 
+* FBCA 0.98 Test, fbca098test.zip, April 16, 2003
 * FBCA 0.98 Release 1, fbca098kt.zip, April 20 2003
 * FBCA 0.98 Release 2, fbca098kt.zip, May 29 2003
 * FBCA 0.98 Release 2, src_fbca098.zip, May 29 2003
 * FBCA 0.98 Release 3, fbca098kt.zip, June 10 2003
 * FBCA 0.98 Release 3, src_fbca098.zip, June 10 2003
+
+
+
+test version:
+
+https://web.archive.org/web/20030418060113/http://members.webdeveloping.nl/~trouby/nqeu/index.php
+
+> Frogbot Clan Arena 0.98 test	by Arkon @ 16-04-2003 11:33
+>
+>Parboil has released a test version of his Frogbot Clan Arena Mod for Quakeworld: he has modernized a couple of function as map select and added the waypoint for Ultrav!
+Click here to download
+>
+> Note:release 0.97kt se is required to run the test version atm.
+>
+> Enjoy!
+
+https://web.archive.org/web/20030418113819/http://www.parboil.quakeworld.ru/
+https://web.archive.org/web/20030418113819/http://www.parboil.quakeworld.ru/parboil/fbca098test.zip
+https://web.archive.org/web/20030418113819/http://www.parboil.quakeworld.ru/parboil/fbca097kt.zip
+
+
 
 http://parboil.mailru.com/parboil/fbca098kt.zip
 http://parboil.quakeworld.ru/parboil/fbca098kt.zip
@@ -1812,6 +1847,7 @@ This is reconstructed and about as accurate as I can make it based on files loca
 
 * FBCA 0.97, fbca097kt.zip, March 03 2003
 
+* FBCA 0.98 Test, fbca098test.zip, April 16, 2003
 * FBCA 0.98 Release 1, fbca098kt.zip, April 20 2003
 * FBCA 0.98 Release 2, fbca098kt.zip, May 29 2003
 * FBCA 0.98 Release 2, src_fbca098.zip, May 29 2003

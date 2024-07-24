@@ -111,7 +111,6 @@ http://aswp.tzo.net/maleficus/setup.zip
 http://biscuitservers.net/files/mtffull.zip
 http://biscuitservers.net/files/mtflight.zip
 http://botarea51.impulse9.net/mirror/bot/elimpack.zip
-http://bwl.ru/flz/fbca094kt.zip
 http://c4denn.chat.ru/filezz/frog2k.rar
 http://cmdclan.newmail.ru/tf.zip
 http://cocot.topcities.com/Bots_Quad_Hunt.zip
@@ -163,6 +162,7 @@ http://home.t-online.de/home/0551705030/squirt10.zip
 http://java.cms.livjm.ac.uk/quake/OmiEdit01.zip
 http://macquakeinfinity.com/downloads/mac_hwbot003b7final.sit.bin
 http://mdqnet.net/cgi-bin/download.cgi?file=voidm120.zip&dir=dept187/void/
+http://members.multimania.nl/nqeu/files/bots/holyfbotmod11.exe
 http://members.nbci.com/nnctf.zip
 http://members.nbci.com/nnsource.zip
 http://members.tripod.com/tf_cheats/kl33n3x-cfg.zip
@@ -190,7 +190,6 @@ http://nygmafiles.essentrix.net/runebot/runebot12.exe
 http://orca.ucd.ie/~gilligan/warbot.zip
 http://parboil.mailru.com/parboil/fbca086.zip
 http://parboil.mailru.com/parboil/fbca089se.zip
-http://parboil.mailru.com/parboil/fbca094kt.zip
 http://parboil.mailru.com/parboil/fbca095kt.zip
 http://parboil.mailru.com/parboil/fbca096kt.zip
 http://parboil.mailru.com/parboil/fbca097kt.zip
@@ -206,7 +205,6 @@ http://parboil.mailru.com/tappak/src102.zip
 http://parboil.mailru.com/tappak/src102rc1.zip
 http://parboil.mailru.com/tempfb/fbca102rc2.zip
 http://parboil.quakeworld.ru/parboil/fbca086.zip
-http://parboil.quakeworld.ru/parboil/fbca094kt.zip
 http://parboil.quakeworld.ru/parboil/fbca097kt.zip
 http://parboil.quakeworld.ru/parboil/fbca098kt.zip
 http://parboil.quakeworld.ru/parboil/fbca100kt.zip
@@ -232,7 +230,6 @@ http://pw2.netcom.com/~kroeker/WQB_beta.zip
 http://quake.crimea.ua/files/quake/bots/f2k001a.zip
 http://quake.crimea.ua/files/quake/bots/fbca090kt.zip
 http://quake.crimea.ua/files/quake/bots/fbca091kt.zip
-http://quake.crimea.ua/files/quake/bots/fbca094kt.zip
 http://quake.crimea.ua/files/quake/bots/fbca095kt.zip
 http://quake.crimea.ua/files/quake/bots/fbca096kt.zip
 http://quake.crimea.ua/files/quake/bots/fbca097kt.zip
@@ -388,7 +385,6 @@ http://www.angelfire.com/co2/kooliobot/images/rakoolio.zip
 http://www.angelfire.com/pe/pent3/images/frogbot011.zip
 http://www.botepidemic.com/fmods/bm116se.zip
 http://www.botepidemic.com/fmods/fbca088se.zip
-http://www.botepidemic.com/fmods/fbca094kt.zip
 http://www.botepidemic.com/fmods/fbctf052.zip
 http://www.botepidemic.com/fmods/http|/tux.telefragged.com/file.pl?filename=fbctf014.zip&dir=telefragged/be/fmods/
 http://www.botepidemic.com/fmods/hw_frogbot14h.zip
@@ -458,13 +454,13 @@ http://www.parboil.mailru.com/parboil/fbca089se.zip
 http://www.parboil.mailru.com/parboil/fbca090kt.zip
 http://www.parboil.mailru.com/parboil/fbca091kt.zip
 http://www.parboil.mailru.com/parboil/fbca093kt.zip
-http://www.parboil.mailru.com/parboil/fbca094kt.zip
 http://www.parboil.mailru.com/parboil/fbca095kt.zip
 http://www.parboil.mailru.com/parboil/fbca096b.zip
 http://www.parboil.mailru.com/parboil/fbca096kt.zip
 http://www.parboil.mailru.com/parboil/fbca86se.zip
 http://www.parboil.newmail.ru/parboil/fbca86se.zip
 http://www.parboil.quakeworld.ru/parboil/fbca097kt.zip
+http://www.parboil.quakeworld.ru/parboil/fbca098test.zip
 http://www.parboil.quakeworld.ru/parboil/fbca099kt.zip
 http://www.parboil.quakeworld.ru/tappak/fbca102kt-rc1.zip
 http://www.parboil.quakeworld.ru/tappak/fbca102pre_beta.zip
@@ -515,5 +511,5 @@ http://www.users.bigpond.com/clanslug/termslugv1.29.zip
 http://xmark.ausgamers.com/xkteams/xkteams1705.zip
 http://xmark.ausgamers.com/xkteams/xkteams1705s.zip
 http://xmark.ausgamers.com/xkteams/xkteams2.zip
-http://zemp.free.fr/qw/fbca094kt.zip
 https://www.quake-info-pool.net/text/urqp104.txt
+
