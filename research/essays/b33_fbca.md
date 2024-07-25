@@ -96,6 +96,11 @@ https://web.archive.org/web/20021005120625if_/http://www.parboil.mailru.com:80/i
 
 https://web.archive.org/web/20010408130017/http://botboard.telefragged.com/wwwthreads.pl?action=list&Board=quake1
 
+https://web.archive.org/web/20010408130017/http://botboard.telefragged.com/wwwthreads.pl?action=list&Board=quake1
+	New version Frogbot Clan Arena 0.87! (0)	ParboiL	Tue Mar 13 02:44:34 2001
+	I have done a new version Frogbot Clan Arena 88 :)))) (0)	ParboiL	Wed Apr 4 03:42:09 2001
+
+
 ## Version 088
 
 https://web.archive.org/web/20050428005828if_/http://www.parboil.quakeworld.ru:80/index.html?news01.html
@@ -107,6 +112,33 @@ https://web.archive.org/web/20010826200541/http://botboard.telefragged.com/showp
 https://web.archive.org/web/20010606231709/http://www.botepidemic.com:80/fmods/
 https://web.archive.org/web/20010424123831/http://www.botepidemic.com/fmods/
 
+
+https://web.archive.org/web/20010418034523/http://www.botepidemic.com:80/fmods/mods.htm
+	https://web.archive.org/web/20010418034523/http://www.botepidemic.com/fmods/fbca088.zip
+https://web.archive.org/web/20010708003925/http://www.botepidemic.com:80/fmods/mods.htm
+	https://web.archive.org/web/20010708003925/http://www.botepidemic.com/fmods/fbca088se3.zip
+
+
+		https://web.archive.org/web/20010424123831/http://www.botepidemic.com/fmods/
+			Alex 'ParboiL' Pakhomov
+			April 8 , 2001
+				Frogbot Clan Arena 0.88 by ParboiL
+				http://www.botepidemic.com/fmods/fbca088.zip
+			April 18, 2001
+				http://www.botepidemic.com/fmods/fbca088se.zip
+				SE
+		https://web.archive.org/web/20010606231709/http://www.botepidemic.com:80/fmods/
+			April 26, 2001
+				Frogbot Clan Arena 0.88SE
+				http://www.botepidemic.com/fmods/fbca088se3.zip
+
+		https://web.archive.org/web/20010408130017/http://botboard.telefragged.com/wwwthreads.pl?action=list&Board=quake1
+			New version Frogbot Clan Arena 0.87! (0)	ParboiL	Tue Mar 13 02:44:34 2001
+			I have done a new version Frogbot Clan Arena 88 :)))) (0)	ParboiL	Wed Apr 4 03:42:09 2001
+
+https://web.archive.org/web/20010826200541/http://botboard.telefragged.com/showpost.pl?Board=quake1&Number=2398&page=0&view=collapsed&sb=5
+			I have done a new version Frogbot Clan Arena 88 :))))
+
 ## Version 089
 
 https://web.archive.org/web/20050428005828if_/http://www.parboil.quakeworld.ru:80/index.html?news01.html
@@ -116,6 +148,19 @@ https://web.archive.org/web/20021005120625if_/http://www.parboil.mailru.com:80/i
 https://web.archive.org/web/20010903234747/http://botboard.telefragged.com/wwwthreads.pl?action=list&Board=quake1&page=0&view=collapsed&sb=5
 https://web.archive.org/web/20010830084016/http://botboard.telefragged.com/showpost.pl?Board=quake1&Number=2421&page=0&view=collapsed&sb=5
 https://web.archive.org/web/20010830032859/http://botboard.telefragged.com/showpost.pl?Board=quake1&Number=2411&page=0&view=collapsed&sb=5
+
+https://web.archive.org/web/20010903234747/http://botboard.telefragged.com/wwwthreads.pl?action=list&Board=quake1&page=0&view=collapsed&sb=5
+			New Frog Bot Clan Arena 0.89 SE (1)new	ParboiL	Wed Jul 25 12:08:34 2001
+
+https://web.archive.org/web/20010830084016/http://botboard.telefragged.com/showpost.pl?Board=quake1&Number=2421&page=0&view=collapsed&sb=5
+			New Frog Bot Clan Arena 0.89 SE
+			http://www.parboil.mailru.com/parboil/fbca089se.zip
+
+https://web.archive.org/web/20010830032859/http://botboard.telefragged.com/showpost.pl?Board=quake1&Number=2411&page=0&view=collapsed&sb=5
+			New beta FBCA 0.89b
+			http://www.parboil.mailru.com/parboil/fbca089b.zip
+			Fri May 18 01:29:02 2001
+
 
 ## Version 090
 
@@ -157,6 +202,10 @@ https://web.archive.org/web/20021210092232if_/http://www.parboil.mailru.com:80/i
 
 https://web.archive.org/web/20060623071543/http://www.besmella-quake.com/scripts/board/index.cgi?action=showall
 
+		https://web.archive.org/web/20021210092232if_/http://www.parboil.mailru.com:80/index.html
+			Fbca 0.94kt se update Part III. ParboiL 02.09.02
+			Fbca 0.94kt se update Part II. ParboiL 06.08.02
+
 ## Version 095
 
 https://web.archive.org/web/20050302150204if_/http://parboil.quakeworld.ru:80/index.html?news02.html
@@ -173,14 +222,85 @@ https://web.archive.org/web/20021123075635/http://www.quake.crimea.ua/
 https://web.archive.org/web/20021128121652/http://www.quake.crimea.ua/
 https://web.archive.org/web/20030210062834fw_/http://www.quake.crimea.ua/
 
+		https://web.archive.org/web/20021210092232if_/http://www.parboil.mailru.com:80/index.html
+			Fbca update & b256. ParboiL 24.10.02
+			Fbca 0.95kt update. ParboiL 30.09.02
+			Fbca 0.95kt release. ParboiL 14.09.02
+
 ## Version 096
 
-https://web.archive.org/web/20050302144937if_/http://parboil.quakeworld.ru:80/index.html?news01.html
+* FBCA 0.96, fbca096kt.zip, February 13 2003
+* FBCA 0.96 Beta, fbca096b.zip, January 31 2003
+
+
+
+
+https://web.archive.org/web/20050302151838if_/http://parboil.quakeworld.ru:80/index.html?news03.html
+
+
+> Frogbot Clan Arena 0.96kt release. ParboiL 13.02.03
+>
+> Hooray! Today I posted version 0.96 of fbca. In this version, I reduced the time it takes for the bot to make decisions and completely changed the call to the MatchMode function. Deathmatch 4 has been optimized. Now when picking up chests, instead of 15 units of life, you will receive 10, as in KTPro.
+Now about the competition. Demos on version 0.95 are no longer accepted! Play on version 0.96 and send demos. New demos will replace the old ones even if the result is worse. Waiting for your comments.
+
+no link....
+
+
+
+competition link:
+
+
+https://web.archive.org/web/20030213193256/http://www.parboil.mailru.com:80/rules.html
+
+> This page contains the rules for participating in competitions. For competitions you must use Frogbot Clan Arena 0.96kt and maps dm4, dm6, ztndm3, aerowalk, spinev2, pkeg1, frobodm2. You can play any of these seven cards. If you want to beat an existing result, you can use the same version of fbca as in the record or a newer one! Before recording, set the listed parameters.
+
+http://www.parboil.mailru.com:80/parboil/fbca096kt.zip
+
+
+download link:
+
+https://web.archive.org/web/20030214004059/http://www.parboil.mailru.com:80/utils.html
+
+> Frogbot Clan Arena 0.96kt se (version from 02/12/2003)
+>
+> This is another modification of Frogbot Clan Arena. This version includes a lot of new and interesting things, supports maps: ztndm3, e1m2, dm3, dm4, dm6, aerowalk, spinev2, pkeg1, amphi2, frobodm2. QW version.
+
+https://web.archive.org/web/20030214004059/http://www.parboil.mailru.com:80/parboil/fbca096kt.zip
+
+
+
+
+announcement:
+
+> quake.marshallnet FrogBot Clan Arena server update to version 0.96kt se
+> february.16.2003
+>
+> ParboiL being the incredibly kewl guy he is has released a new version of FrogBot Clan Arena. Not a ton of differences but if you are interested check out the readme for the mod. A link can be found on the main page.
+As always, if you have any comments, suggestions, or spare bandwidth laying around that you want to give away, give a holler.
+>
+> -Urge
+
+
 
 https://web.archive.org/web/20030321073123fw_/http://www.quake.crimea.ua/
-https://web.archive.org/web/20030321073123fw/http://www.quake.crimea.ua/
 
-https://web.archive.org/web/20030418023935/http://quake.marshallnet.com/news.html
+> 13.02	Frogbot Arena v0.96 (470 K)
+
+https://web.archive.org/web/20030321073123/http://www.quake.crimea.ua/files/quake/bots/fbca096kt.zip
+
+
+
+https://web.archive.org/web/20050302151838if_/http://parboil.quakeworld.ru:80/index.html?news03.html
+
+> About all. ParboiL 31.01.03
+>
+> This week I finished the 0.95kt version and started working on the 0.96beta. What's new in version 0.96: added strategic camping to dm4 and dm6 maps. The version can already be downloaded and tested: Fbca 0.96kt beta. Also today I posted a new map for MidAir mode. Download in the Maps section. I'm waiting for your comments :)
+
+https://web.archive.org/web/20050217164541/http://www.parboil.mailru.com/parboil/fbca096b.zip
+
+
+
+
 
 ## Version 097
 
@@ -1910,14 +2030,17 @@ http://github.com/ezQuake/fbca
 
 ## Release Timeline
 
-This is reconstructed and about as accurate as I can make it based on files located to-date.
+This is an reconstructed release timeline of Frogbot Clan Arena (FBCA).
 
+...
 
 * FBCA v0.86, fbca86.zip, ????
 * FBCA v0.86se, fbca86se.zip, September 11 2000
 
+...
 
-
+* FBCA 0.96, fbca096kt.zip, February 13 2003
+* FBCA 0.96 Beta, fbca096b.zip, January 31 2003
 
 * FBCA 0.97, fbca097kt.zip, March 03 2003
 

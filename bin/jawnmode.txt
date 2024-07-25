@@ -1,0 +1,106 @@
+JawnMode Info
+
+JawnMode is a few tweaks to QW to promote additional skills and remove
+randomness that negates existing skills. You can toggle it in mods that
+support it (JTeam and FBCAKT2 are 2 mods of mine that do) with the command
+"jawnmode" in the console.
+
+JTeam is a competition/internet oriented mod, based on KTeam 2.21 by
+Cenobite and others (www.kteam.co.uk).
+
+FBCAKT2 is a bot mod, based on Frogbot Clan Arena/KTeam by Parboil
+(www.parboil.quakeworld.ru). Not particularly suited to the internet due to
+several features that could be used to interrupt a game.
+
+You can find these mods and relevant news updates at:
+
+http://members.optushome.com.au/ta403
+
+or
+
+www.besmella-quake.com/columns/columns.asp?name=vb
+
+Doublejump: Jump twice in 400ms to get 100ups boost.
+
+Axe: DMM3 damage raised from 20 to 50.
+
+GL: No longer fires horizontally random within a few degress of crosshair.
+
+LG: DMM4 discharges now always only kill the user, instead of there being a
+50% change you'll discharge normally. CA now acts like DMM4, no more losing
+ammo only.
+
+NG: Nail speed increased from 1000 to 1800. Nails no longer alternate between
+coming out 5 units to the left and 5 units to the right of crosshair.
+
+RL: Direct hit damage now 110, not random between 100 and 120.
+
+SG: Pellets are no longer random, and make a plus shape:
+
+  .
+. . .
+  .
+
+The middle pellet is actually 2 pellets.
+
+SNG: Nail speed increas from 1000 to 1800. Nails now do 15 splash damage with
+a 50 unit radius. SNG self kill obituary added.
+
+Teles: Speed raised from 300 to 440ups.
+
+Spawns: Cannot spawn telefrag, 50% random chance of last spawn being
+excluded. Minimum time to spawn after non-axe/gib death now always 900ms,
+instead of there being a 2 in 5 chance you won't be able to spawn for 1100ms
+or 1500ms.
+
+Fallbunny: Can jump straight after fall.
+
+KTeam Jump: Jumping off of downward slope acts like jumping of off flat
+ground.
+
+Fairpacks: Drop last weapon fired instead of weapon held.
+
+Packs: Ammo limited to half of capacity. Packs are now dropped with players
+issue /kill. Packs appear as the weapon they contain, if no weapon, then they
+appear as the most important ammo they contain.
+
+Dropped Items: Dropped item random horizontal velocity removed.
+
+Lavaballs: Random horizontal velocity removed, vertical boost now 100ups
+instead of random between 0 and 200.
+
+Stomping: Landing on another player hard enough to hurt yourself damages them
+twice as much.
+
+Dynamic lights: Muzzleflashes removed, explosions replaced with LG blood
+explosions, rockets and lavaballs replaced with grenades, pent and quad
+MODELS (not players) no longer glow, no pent glow on spawn in DMM4.
+
+Bodies: Dead bodies removed after death animation, so you can't use them to
+tell when an enemy spawns.
+
+Quad: Health won't change to 100 unless it was 100+ after running out in DMM4.
+
+Server side Quasi-Smartjump: Swim sound isn't played so older client users aren't so
+disadvantaged by clients with smartjump.
+
+Demos
+
+www.challenge-tv.com/index.php?mode=demos&game=2
+
+Demos with grenades for rockets, no muzzleflashes, and weapons/ammo instead
+of packs are JMode demos.
+
+Credits
+
+Povo-Hat: http://povo-hat.lemike.com
+
+The CPMA team: www.promode.org
+
+Parboil: www.parboil.quakeworld.ru
+
+The KTeam team: www.kteam.co.uk
+
+All the early testers, like Skawt, Elwood, Dirtbox.
+
+Causticsoda, and Shad, for the first servers.

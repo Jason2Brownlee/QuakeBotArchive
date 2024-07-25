@@ -167,6 +167,9 @@ http://medlem.spray.se/~ratface1/qw/qwprogs5.zip
 http://members.multimania.nl/nqeu/files/bots/holyfbotmod11.exe
 http://members.nbci.com/nnctf.zip
 http://members.nbci.com/nnsource.zip
+http://members.optushome.com.au/ta403/quake/fbcakt2.zip
+http://members.optushome.com.au/ta403/quake/fbcakt2source.zip
+http://members.optushome.com.au/ta403/quake/jteamssource.zip
 http://members.tripod.com/tf_cheats/kl33n3x-cfg.zip
 http://members.tripod.lycos.nl/koolpaddy/zips/paddybot02.zip
 http://members.xoom.com/eluan/WLBOT1.9.zip
@@ -543,3 +546,4 @@ http://www.users.bigpond.com/clanslug/termslugv1.29.zip
 http://xmark.ausgamers.com/xkteams/xkteams1705.zip
 http://xmark.ausgamers.com/xkteams/xkteams1705s.zip
 http://xmark.ausgamers.com/xkteams/xkteams2.zip
+

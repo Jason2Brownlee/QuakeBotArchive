@@ -2123,7 +2123,7 @@ FBCA 99
 	https://steamcommunity.com/sharedfiles/filedetails/?id=123626484
 	http://forums.runecentral.com/viewtopic.php?f=3&t=1494
 	baker
-frogbot ctf / Frogbot CTF / FBCTF
+Frogbot CTF / FBCTF
 	https://www.quakeworld.nu/forum/topic/516/needed-recommended-recent-ctf-mods
 	https://www.quakeworld.nu/forum/topic/1224/need-a-ctf-bot
 	Frogbot CTF by Paraboil
@@ -3820,6 +3820,9 @@ pablo the bot
 		mtffull.zip
 	http://quake.alvis.ru/tf2003/
 		https://web.archive.org/web/20070703022508/http://quake.alvis.ru/tf2003/
+	http://pablothegreat.hypermart.net/
+		https://web.archive.org/web/20010929025825/http://pablothegreat.hypermart.net/
+		nothing
 Lemmings Attack!
 	extends "pablo the bot"?
 		I think it does
@@ -3895,6 +3898,60 @@ Frogbot Clan Arena Brainwork
 		http://www.ttinform.lv/qwprogs14.zip
 	https://web.archive.org/web/20040911061255/http://www.parboil.quakeworld.ru:80/forum/read.php?f=1&i=1624&t=1622
 		http://www.ttinform.lv/readme_current.txt
+JTeams / JawnMode
+	jteams.zip
+		kteams
+		frikbot x
+		by "VB/Jawn"
+	https://www.quakeworld.nu/wiki/JawnMode
+		https://web.archive.org/web/20060209055908/http://vb.besmella-quake.com/quake/jawnmode.txt
+	FBCAKT2
+		FBCA + JawnMode
+	http://vb.besmella-quake.com
+		https://web.archive.org/web/*/http://vb.besmella-quake.com/*
+		https://web.archive.org/web/20051218045915/http://vb.besmella-quake.com/quake/jteams.zip
+		https://web.archive.org/web/20051218045915/http://vb.besmella-quake.com/quake/frdwaypoints.zip
+		https://web.archive.org/web/20051218045915/http://vb.besmella-quake.com/quake/frdwaypoints.zip
+	http://www.besmella-quake.com/columns/columns.asp?name=vb
+		columnis on besmella-quake
+		"vb"
+		https://web.archive.org/web/20040602182831/http://www.besmella-quake.com/columns/columns.asp?name=vb
+			https://web.archive.org/web/20040602182831/http://members.optushome.com.au/ta403/quake/fbcakt2.zip
+			https://web.archive.org/web/20041208082712/http://members.optushome.com.au/ta403/quake/jawnmode.txt
+	http://www.besmella-quake.com/columns/columns.asp?name=vb
+		https://web.archive.org/web/20041208082712/http://www.besmella-quake.com/columns/columns.asp?name=vb
+		https://web.archive.org/web/20041208082712/http://members.optushome.com.au/ta403/quake/jteams.zip
+		https://web.archive.org/web/20041208082712/http://members.optushome.com.au/ta403/quake/fbxbwaypoints.zip
+		https://web.archive.org/web/20041208082712/http://members.optushome.com.au/ta403/quake/frdwaypoints.zip
+	http://www.besmella-quake.com/columns/columns.asp?name=vb
+		https://web.archive.org/web/20040417011741/http://www.besmella-quake.com/columns/columns.asp?name=vb
+	https://www.moddb.com/mods/jawnmode
+	http://members.optushome.com.au/ta403/
+		https://web.archive.org/web/20031228221412/http://members.optushome.com.au/ta403/
+		https://web.archive.org/web/20031228221412/http://members.optushome.com.au/ta403/quake
+		https://web.archive.org/web/20031228221412/http://members.optushome.com.au/ta403/quake/fbcakt2.zip
+	http://members.optushome.com.au/ta403/quake/
+		https://web.archive.org/web/20040130072326/http://members.optushome.com.au/ta403/quake/
+			https://web.archive.org/web/20040130072326/http://members.optushome.com.au/ta403/quake/fbcakt2.zip
+			https://web.archive.org/web/20040130072326/http://members.optushome.com.au/ta403/quake/fbcakt2source.zip
+		https://web.archive.org/web/20041026025332/http://members.optushome.com.au/ta403/quake/
+			https://web.archive.org/web/20041026025332/http://members.optushome.com.au/ta403/quake/jteams.zip
+			https://web.archive.org/web/20041026025332/http://members.optushome.com.au/ta403/quake/jteamssource.zip
+			https://web.archive.org/web/20041009172150/http://members.optushome.com.au/ta403/quake/jawnmode.txt
+	https://web.archive.org/web/20040904102500/http://members.optushome.com.au/ta403/
+		https://web.archive.org/web/20040904102500/http://members.optushome.com.au/ta403/quake/fbcakt2.zip
+		https://web.archive.org/web/20040904102500/http://members.optushome.com.au/ta403/quake/jteams.zip
+	https://www.quakeworld.nu/forum/topic/3958/50280/about-nails/
+		https://www.quakeworld.nu/profiles/183
+		https://www.quakeworld.nu/forum/topic/7193/106993/flame-model-scaled-wrong/#106993
+		https://www.quakeworld.nu/forum/topic/7068/106823/new-frogbots/#106823
+	vb.drok-radnik.com
+		not archived
+		https://web.archive.org/web/*/http://drok-radnik.com/*
+	https://www.quakeworld.nu/forum/topic/6729/classicq-fodquake-package
+		"jawn"
+		https://www.quakeworld.nu/profiles/10771
+
 
 
 

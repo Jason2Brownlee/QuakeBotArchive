@@ -127,6 +127,8 @@ fbca102pre_beta.zip
 fbca102rc2.zip
 fbca86se.zip
 fbca_se.zip
+fbcakt2.zip
+fbcakt2source.zip
 fbcasounds.zip
 fbctf003.zip
 fbctf004.zip
@@ -249,6 +251,7 @@ jeht12.zip
 jeht13.zip
 jeht131.zip
 jeht14.zip
+jteamssource.zip
 killer86.zip
 killer86b.zip
 killer87.zip
