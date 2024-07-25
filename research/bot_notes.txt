@@ -3893,7 +3893,8 @@ Frogbot Clan Arena Brainwork
 	https://web.archive.org/web/20040829125006/http://www.parboil.quakeworld.ru:80/forum/read.php?f=1&i=1328&t=1328
 		http://www.ttinform.lv/qwprogs13.zip
 		http://www.ttinform.lv/qwprogs14.zip
-
+	https://web.archive.org/web/20040911061255/http://www.parboil.quakeworld.ru:80/forum/read.php?f=1&i=1624&t=1622
+		http://www.ttinform.lv/readme_current.txt
 
 
 

@@ -550,7 +550,7 @@ netquake europe (NQEU)
 (lots of fbca news)
 	http://members.webdeveloping.nl/~trouby/nqeu/index.php
 	http://members.multimania.nl/nqeu/
-		http://members.multimania.nl/nqeu/files/bots/
+		http://members.multimania.nl/nqeu/files/bot`s/
 		https://web.archive.org/web/*/http://members.multimania.nl/nqeu/*
 	http://members.lycos.nl/nqeu/
 		https://web.archive.org/web/20020815000000*/http://members.lycos.nl/nqeu/
@@ -562,6 +562,7 @@ netquake europe (NQEU)
 	http://www.media-bros.dk/nqeu/
 	http://disc.server.com/Indices/195567.html
 		forum
+	http://clan2.agora.dk/nqeu
 
 guides:
 --------------------------------------------------------------------------------

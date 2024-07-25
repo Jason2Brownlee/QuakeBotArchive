@@ -42,7 +42,52 @@ https://web.archive.org/web/20050427074030if_/http://www.parboil.quakeworld.ru:8
 
 ## Version 086
 
-https://web.archive.org/web/20050428005828if_/http://www.parboil.quakeworld.ru:80/index.html?news01.html
+* FBCA v0.86, fbca86.zip, ????
+* FBCA v0.86se, fbca86se.zip, September 11 2000
+
+
+
+use in a competition:
+
+https://web.archive.org/web/20020608163801/http://parboil.mailru.com/news00.html
+
+> Competition rules ParboiL 10.07.00
+>
+> And so the competition (qualifying round) began!
+> 1. For these competitions you must have Frogbot Clan Arena 0.86 and a DM4 card.
+> 2. Next you need to set the following parameters:
+>
+> deathmatch 3
+> teamplay 0
+> timelimit 10
+> fraglimit 0
+> powerup disabled
+> match enabled
+> lavacheat enabled
+> skill 10
+> sv_aim 2
+>
+> 3. Play and record demos. Send me the best demo by E-mail.
+> Send your demo in QWZ format!
+> These competitions will run for one month, and demos can be submitted during this period until 08/10/00! On this page I will post the results of the competition.
+Good luck :)
+
+https://web.archive.org/web/20020608163801/http://parboil.mailru.com/parboil/fbca086.zip
+
+
+
+
+release of se
+
+https://web.archive.org/web/20020608163801/http://parboil.mailru.com/news00.html
+
+> FBCA 0.86 Special Edition ParboiL 11.09.00
+>
+> So finally I have released a new version of Frogbot Clan Arena 0.86SE! This version has new features. A timer has been added as on QW, which is familiar to all servers, and after the battle, statistics on rank and eff are displayed (many thanks to HotLPB for the help). The LAVACHEAT function has also been changed! Added BOTTALK feature! In general, the game has changed a little - I think in the right direction :)
+
+https://web.archive.org/web/20020608163801/http://parboil.mailru.com/parboil/fbca86se.zip
+
+
 
 ## Version 087
 
@@ -253,6 +298,7 @@ Many thanks to Krok and AvaneS for their help!
 test version:
 
 https://web.archive.org/web/20030418060113/http://members.webdeveloping.nl/~trouby/nqeu/index.php
+https://web.archive.org/web/20030418113819/http://members.webdeveloping.nl/~trouby/nqeu/root/php/news.php
 
 > Frogbot Clan Arena 0.98 test	by Arkon @ 16-04-2003 11:33
 >
@@ -620,6 +666,14 @@ http://www.parboil.quakeworld.ru/parboil/fbca099kt.zip
 
 
 
+http://gibbage.mine.nu:80/quakeworld/bots/fbca099kt.zip
+
+https://web.archive.org/web/20031028181935/http://gibbage.mine.nu:80/quakeworld/bots/
+
+> fbca099kt.zip           20-Sep-2003 07:24  472K
+
+
+
 ## Version 100
 
 
@@ -638,6 +692,11 @@ https://web.archive.org/web/20050302144937if_/http://parboil.quakeworld.ru:80/in
 
 > The new version fbca will be soon issued! ParboiL 05.10.03
 > The new version number 1.00 is currently being tested. This version completely removes the old bprint and sprint commands using WriteByte and WriteString. The functions of bot names have been completely changed, now bots have a standard netname! A lot of other things have been fixed and changed, but more on that later - wait for the news ;)
+
+
+
+
+
 
 
 ### FBCA 1.00 Release 1 (October 07 2003)
@@ -660,6 +719,14 @@ Source Code from version 1.00.
 
 https://web.archive.org/web/20031010002315if_/http://www.parboil.quakeworld.ru/parboil/fbca100kt.zip
 https://web.archive.org/web/20031010002315if_/http://www.parboil.quakeworld.ru/parboil/src_fbca100.zip
+
+
+
+https://web.archive.org/web/20031028181935/http://gibbage.mine.nu:80/quakeworld/bots/
+
+> fbca100kt.zip           09-Oct-2003 13:30  465K
+
+http://gibbage.mine.nu:80/quakeworld/bots/fbca100kt.zip
 
 
 ### FBCA 1.00 Release 2 (October 10 2003)
@@ -1844,6 +1911,13 @@ http://github.com/ezQuake/fbca
 ## Release Timeline
 
 This is reconstructed and about as accurate as I can make it based on files located to-date.
+
+
+* FBCA v0.86, fbca86.zip, ????
+* FBCA v0.86se, fbca86se.zip, September 11 2000
+
+
+
 
 * FBCA 0.97, fbca097kt.zip, March 03 2003
 
