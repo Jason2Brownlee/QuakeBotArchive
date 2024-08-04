@@ -53,3 +53,4 @@ The purpose of these essays is to ensure the resource is searched as completely 
 * [Redwood's News](c04_redwood.md)
 * [Scary's News](c05_scary.md)
 * [Inside3D News](c06_inside3d.md)
+* [YoonioR's Quakepage](c07_yooniors.md)
