@@ -465,6 +465,9 @@ old news sites:
 (e.g. news of quake bots being released)
 --------------------------------------------------------------------------------
 Scary's Quakeholio / sCary's Sugar Shack
+	http://www.rockisland.com/~phook/scary/
+		(blues news 1996)
+		not archived
 	http://www.quakehole.com/quakec.html
 	https://web.archive.org/web/19971210064221/http://www.quakehole.com/frames/
 	https://web.archive.org/web/19971210063938/http://www.quakehole.com:80/standard/files.html

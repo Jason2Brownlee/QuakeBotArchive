@@ -3951,6 +3951,8 @@ JTeams / JawnMode
 	https://www.quakeworld.nu/forum/topic/6729/classicq-fodquake-package
 		"jawn"
 		https://www.quakeworld.nu/profiles/10771
+	https://planetquake.gamespy.com/quake1/index6c18.html?start_from=56&category_id=2
+		http://www.besmella-quake.com/columns/Comments.asp?NewsId=394452894383170296990741
 
 
 

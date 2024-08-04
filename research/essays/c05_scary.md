@@ -12,6 +12,18 @@ Originally it was called "Scary's Quakeholio", later "sCary's ShugaShack" or jus
 
 
 
+## Older
+
+Older sites discovered along the way called "sCary's Quakeholio" by "Scary" or "sCaryName", e.g. in old bluesnews and redwood archives:
+
+1. http://www.rockisland.com/~phook/scary/ (starting at least April 25 2996)
+	* [news](https://web.archive.org/web/19960512191620/http://www.rockisland.com:80/~phook/scary/news.html)
+	* [files](https://web.archive.org/web/19960512185833/http://www.rockisland.com:80/~phook/scary/ftp.html)
+	* [say](https://web.archive.org/web/19960512190130/http://www.rockisland.com:80/~phook/scary/say.html)
+2. http://www.canweb.net/~smiles/ (starting around August 25 1996)
+	* Not archived
+3. http://quakehole.com (starting around September 12 1996)
+	* below...
 
 ## Version 1.0
 
