@@ -2,8 +2,11 @@
 
 YoonioR's Quakepage (polish) provides a good source of old quake news and files.
 
-I believe the site was run by "Piotr Marek Jr.".
+The site was run by "Piotr Marek Jr.", current details:
 
+* https://x.com/piotrekmarek
+* https://www.instagram.com/mojastronaswiata/
+* https://www.linkedin.com/in/piotr-marek/
 
 > Hello, YoonioR's Quakepage (the oldest Quake page in Poland) is celebrating its first anniversary (it first saw the light of day on October 14, 1996 ).
 
