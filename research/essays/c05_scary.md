@@ -1,4 +1,4 @@
-# sCary's Sugar Shack aka Shacknews
+# Quakeholio / Scary's News / ShugaShack / ShackNews
 
 Another important Quake and gaming news site from the late 1990s was sCary's.
 
@@ -6,39 +6,209 @@ The site was started by Steve Gibson and Maarten Goldstein.
 
 Originally it was called "Scary's Quakeholio", later "sCary's ShugaShack" or just "ShugaShack", and eventually "ShackNews, it's modern incarnation.
 
+	Shacknews was founded in 1996 by Steve "Scary" Gibson, 20 years old at the time, as a website dedicated to following news about the then-upcoming game Quake from id Software. The original name of the website was "Quakeholio".
+
+-- [Shacknews](https://en.wikipedia.org/wiki/Shacknews), Wikipedia.
+
 	Throughout the day, we've been celebrating the 25th anniversary of the day Shacknews was brought into the world. This website started life as Quakeholio, then spent years as Shugashack, and finally morphed into the Shacknews of today.
 
 -- [The Shacknews Origin Story, as told by sHugamom](https://www.shacknews.com/article/123804/the-shacknews-origin-story-as-told-by-shugamom)
 
 
 
-## Older
+## rockisland.com/~phook/scary/
 
-Older sites discovered along the way called "sCary's Quakeholio" by "Scary" or "sCaryName", e.g. in old bluesnews and redwood archives:
+Starting at least April 25 1996 until August 1996.
 
-1. http://www.rockisland.com/~phook/scary/ (starting at least April 25 2996)
-	* [news](https://web.archive.org/web/19960512191620/http://www.rockisland.com:80/~phook/scary/news.html)
-	* [files](https://web.archive.org/web/19960512185833/http://www.rockisland.com:80/~phook/scary/ftp.html)
-	* [say](https://web.archive.org/web/19960512190130/http://www.rockisland.com:80/~phook/scary/say.html)
-2. http://www.canweb.net/~smiles/ (starting around August 25 1996)
-	* Not archived
-3. http://quakehole.com (starting around September 12 1996)
-	* below...
-
-## Version 1.0
-
-Steve Gibson started a quake news site called "Scary's Quakeholio" on quakehole.com.
-
-	Shacknews was founded in 1996 by Steve "Scary" Gibson, 20 years old at the time, as a website dedicated to following news about the then-upcoming game Quake from id Software. The original name of the website was "Quakeholio".
-
--- [Shacknews](https://en.wikipedia.org/wiki/Shacknews), Wikipedia.
+* http://www.rockisland.com/~phook/scary/
 
 
-The site was available via:
+```text
+July 24th
+
+What Was I Thinking?
+I added a couple of links that should've been here a while ago: The Quake RC Archive (no it has nothing to do with soda, it's aliases and config file stuff), and sCary's Quakeholio, if not for the name alone, for the fact that it's the world's finest (onliest?) collection of Quake deathmatch demos around.
+```
+
+-- https://www.bluesnews.com/archives/july96.html
+
+Link from news piece:
+
+* http://www.rockisland.com/~phook/scary/
+
+
+```text
+Cool QuakeC hacks are HERE
+Ryan McClelland
+31 July 1996
+
+Scary's Quakeholio has the following patches
+Fraggren.zip: This is a great 2 in 1 pack, first off, nails from the
+nailgun (impulse 4) stay in the
+walls ala duke3d, and secondly you get a coolbeans new weapon, the
+nail grenade. you lob it in a
+room, and then it shoots to the ceiling and explodes, unleashing a
+shower of nails!
+JSFiend.zip : This was sent to me by Mr_D, its great for deathmatch!
+Whenever you pick up the
+invulnerability gibs fly all over the place and then you are
+transformed into a Fiend! You can jump
+and slash and everything!
+Homing.zip : This is great! turns rockets into heat seakers, but it
+also slows down the rockets
+some as they approach the target, you are even notified when a
+heatseaker is after you!
+Lasergn1.zip : Well you like that laser gun that the enforcers use
+huh? This patch will let you use
+it! Be cautios though, this thing will eat up that precious ammo
+pretty quick.
+exbpk001.zip : Dont like how all that ammo just piles up after a
+while? well now the backpacks
+explode! w00! adds a new dimension to those real big deathmatches.
+Drunkm3.zip : Drunken missiles! sorta like those wonderful ROTT
+weapons, but well, a lot
+cooler. I havent had a chance to mess with it, but all Ive heard was
+how cool this thing was.
+Gibgun.zip : The gibgun! ya! just crap flying everywhere, we all love
+that, it doesnt change
+gameplay at all really, it just makes sure you have a constant flow
+of gibs on the screen.
+Solidmn2.zip : Solid monsters, so when they die they remain solid and
+can still be gibbed when
+they are there on the ground, personally i think that should have
+been a feature already in quake,
+but well, here it is.
+Violence.zip : Add just a bit more blood and gibs to your games, also
+just for entertainment value,
+no real changes are made to gameplay, more blood, more guts.
+
+Checkum out at http://www.rockisland.com/~phook/scary/
+
+Ryan McClelland
+mc...@wam.umd.edu
+```
+
+-- [rec.games.computer.quake.misc](https://groups.google.com/g/rec.games.computer.quake.misc/c/My8Kbsq8SfE/m/uhsRNMnVIusJ)
+
+
+
+```text
+N K Laurance
+2 Aug 1996
+
+From sCARY's Quakeholio page: http://www.rockisland.com/~phook/scary/
+
+(1) start quake with "quake -listen"
+(2) bring down the console (~)
+(3) fraglimit 50
+(4) record <demo name> <map name>
+<map name> - eXmY i.e episode X, level Y
+- dmY i.e deathmatch level Y
+- start, end
+
+cheers Neil
+```
+
+-- [rec.games.computer.quake.playing](https://groups.google.com/g/rec.games.computer.quake.playing/c/nTP_HuiBwqw/m/kUCT5XGP6yQJ)
+
+
+```text
+August 21st
+
+More #Quakecon
+Check out Scary's Quakeholio for sCaryname's account of #Quakecon.
+```
+
+-- https://www.bluesnews.com/archives/august96.html
+
+
+Very little was archived:
+
+* [news](https://web.archive.org/web/19960512191620/http://www.rockisland.com:80/~phook/scary/news.html) (April-May 1996)
+* [ftp files](https://web.archive.org/web/19960512185833/http://www.rockisland.com:80/~phook/scary/ftp.html)
+* [say](https://web.archive.org/web/19960512190130/http://www.rockisland.com:80/~phook/scary/say.html)
+
+
+
+## canweb.net/~smiles/
+
+Staring around August 25 1996 to September 1996:
+
+* http://www.canweb.net/~smiles/
+
+```text
+August 25th
+
+Scary's Quakeholio Moves
+Here is the home of the new Quakeholio. This has always been one of my favorites (deathmatch demos mmmm), and now sCaryName dropped me a line to say he thought he should be able to update it more regularly now that he has direct access to the site. Cool!
+```
+
+-- https://www.bluesnews.com/archives/august96.html
+
+Link from piece:
+
+* http://www.canweb.net/~smiles/
+
+
+```text
+Steve Price
+2 Sept 1996
+
+Go look on sCary's Quakeholio (http://www.canweb.net/~smiles/). It's in
+the QuakeC files section. telew11.zip to be exact.
+```
+
+-- [rec.games.computer.quake.editing](https://groups.google.com/g/rec.games.computer.quake.editing/c/LflKICdMgtk/m/6ZX6RIXS98oJ)
+
+
+
+## gamesmania.com/quakehole/ and quakehole.com
+
+Starting around September 12 1996 until perhaps October 1997:
 
 * http://quakehole.com
 
-The site was probably started in late 1996.
+It may have been mirrored at:
+
+* http://www.gamesmania.com/quakehole/
+
+Although almost nothing was archived, e.g.:
+
+* [http://www.gamesmania.com/quakehole/](https://web.archive.org/web/19961223225321/http://www.gamesmania.com:80/quakehole/)
+* [http://www.gamesmania.com/quakehole/default.htm](https://web.archive.org/web/19961220173825/http://www.gamesmania.com:80/quakehole/default.htm)
+
+These pages link to quakehole.com.
+
+I suspect the move was to the "gamesmania" network. The first address was "gamesmania.com/quakehole", before "quakehole.com" was adopted.
+
+
+```text
+September 12th
+
+Pretty sCary, Huh Kids?
+Go check out my buddy sCaryname's new location for the Quakeholio... he has, in his own words: "m00ved to a noo ereet syte," working for the Gamesmania people. Actually, you won't notice much of a difference, but that's a good thing. sCary's site is a favorite, and I wouldn't want to see it change.
+```
+
+-- https://www.bluesnews.com/archives/sept96-2.html
+
+Link from piece:
+
+* http://www.quakehole.com/
+
+
+```text
+Kent_haug
+20 Sept 1996
+
+Try sCary's Quakehole. http://www.quakehole.com/ (or
+http://www.gamesmania.com/quakehole/ if the first doesn't work)
+
+He has a really good collection of deathmatch demos.
+```
+
+-- [rec.games.computer.quake.misc](https://groups.google.com/g/rec.games.computer.quake.misc/c/y4w2UogYY9M/m/vBcANeGdSG8J)
+
+
 
 Some of the earliest news posts on the site that survive are dated from October 25 1996, announcing the released of the reaper bot version 8.0.
 
@@ -62,8 +232,8 @@ Only portions of the news on the site survives.
 
 For example:
 
-* [Home](https://web.archive.org/web/19971210063911/http://www.quakehole.com/frames/home.html)
-* [Old News](https://web.archive.org/web/19971210064427/http://www.quakehole.com/frames/oldnews.html)
+* [Home](https://web.archive.org/web/19971210063911/http://www.quakehole.com/frames/home.html) (Jan-Mar 1997)
+* [Old News](https://web.archive.org/web/19971210064427/http://www.quakehole.com/frames/oldnews.html) (Oct 1996 - Sep 1997)
 
 
 The exact date that the site was shutdown is not known. It was likely September 1997, based on some of the last dates of news articles.
@@ -90,7 +260,7 @@ A capture by archive.org on December 1997 of (one of) the homepage shows a redir
 
 
 
-## Version 2.0
+## hipnotic.com
 
 The site moved to Hipnotic Interactive and was focused on quake news.
 
@@ -102,14 +272,19 @@ Portions of the news written by Steven Gibson from this time survive in archive.
 
 For example, posts in late December 1997 survive, including a news post about the first version of the Omicron bot v1.00.
 
-* [News](https://web.archive.org/web/19971212025339/http://hipnotic.com/news.htm)
+* [News](https://web.archive.org/web/19971212025339/http://hipnotic.com/news.htm) (Dec 1997)
 
 Sadly, the archive of news on the site at http://www.hipnotic.com/archives/archives.htm does not appear to have been captured by archive.org.
 
-Some pages that do survive and were captured in December 1997, include
+* [News Archive](https://web.archive.org/web/19971212030705/http://www.hipnotic.com/archives/archives.htm)
 
-* [Files](https://web.archive.org/web/19971212030303fw/http://www.hipnotic.com/shack_stuff/files.htm)
+Some pages that do survive and were captured in December 1997, include:
+
+* [Files](https://web.archive.org/web/19971212030303/http://www.hipnotic.com:80/shack_stuff/files.htm)
+* [More files](https://web.archive.org/web/19971212031351/http://www.hipnotic.com:80/files.htm)
 * [Links](https://web.archive.org/web/19971212030204fw/http://www.hipnotic.com/links.htm)
+* [Demos](https://web.archive.org/web/19971212025809/http://www.hipnotic.com:80/demos.htm)
+* [Deathmatch Demos](https://web.archive.org/web/19971212030009/http://www.hipnotic.com:80/shack_stuff/tuesday.htm)
 
 The company later changed their name and became Ritual Entertainment, perhaps in late 1997.
 
@@ -145,7 +320,7 @@ The new news site on ritualistic.com does not appear to feature Steve although l
 
 
 
-## Version 3.0+
+## scary.vrgames.net
 
 The site moved "Virtual Reality Games Network", perhaps in early 1998.
 
@@ -169,18 +344,30 @@ For example:
 
 By this time, quake mod development and Quake bot development was thin. Most effort was focused on Quake II and other games. Our interest in the site wanes at this point.
 
+## shugashack.com
+
 It later became shugashack.com, probably in early to mid 1998 and focused more broadly on 3d gaming news, not just Quake.
 
 * http://www.shugashack.com
 
-Eventually, the site became "Shack News" at shacknews.com and the seeds of the massive gaming news site.
+The news archives are archived intact.
+
+News archives:
+
+* [http://shugashack.com/archives/archives.htm](https://web.archive.org/web/19981207061422/http://shugashack.com:80/archives/archives.htm) (March 1997 - Nov 1998)
+* [http://shugashack.com/archives/archives.htm](https://web.archive.org/web/19991002101914/http://shugashack.com/archives/archives.htm) (March 1997 - Jun 1999)
+
+
+## shacknews.com
+
+Eventually, the site became "Shack News" at shacknews.com and the seeds of the massive gaming news site of today.
 
 * http://www.shacknews.com/
 
 
 
 
-## Rocket Jump
+## Rocket Jump book
 
 Importantly, shacknews was responsible for contracting David Craddock to write "Rocket Jump", a biography of Quake and related games in 2017.
 
