@@ -54,3 +54,4 @@ The purpose of these essays is to ensure the resource is searched as completely 
 * [Quakeholio / Scary's News / ShugaShack / ShackNews](c05_scary.md)
 * [Inside3D News](c06_inside3d.md)
 * [YoonioR's Quakepage](c07_yooniors.md)
+* [Shake N' Quake](c08_shake_n_quake.md)
