@@ -26,6 +26,38 @@ The news archive here was not archived:
 
 * Old news [http://www.canvasnet.com/quake/oldnews.htm](https://web.archive.org/web/19990223183736/http://www.canvasnet.com/quake/oldnews.htm)
 
+## Bots
+
+Local copies of bots were maintained on `ftp.canvasnet.com`, which was not archived at that time.
+
+From the [QuakeC page](https://web.archive.org/web/19990223203945/http://www.canvasnet.com/quake/qc.htm):
+
+* ftp://ftp.canvasnet.com/quake/qc/bots/bgbot20a.zip
+* ftp://ftp.canvasnet.com/quake/qc/bots/elim14.zip
+* ftp://ftp.canvasnet.com/quake/qc/bots/reaprb05.zip
+* ftp://ftp.cdrom.com/pub/quake/quakec/bots/iwbot16.zip
+* ftp://ftp.canvasnet.com/quake/qc/bots/vbot1.zip
+
+Links from the news:
+
+* http://www.tf.hut.fi/~ath/Aesir/bot.html
+* ftp://ftp.canvasnet.com/quake/qc/bots/vbot1.zip
+* ftp://ftp.canvasnet.com/quake/qc/elim13.zip
+* http://www.iinet.com.au/~cam/quakec.html
+* ftp://ftp.canvasnet.com/quake/qc/elim10.zip
+* http://www.quakehole.com/files/quakec/reaprb07.zip
+* ftp://bluesnews.com/pub/client_bots/trmbot07.zip
+* ftp://bluesnews.com/pub/client_bots/trmbot08.zip
+* ftp://bluesnews.com/pub/client_bots/botsrc08.zip
+* http://www.coe.uncc.edu/~jfrorie/quakebot.htm
+* ftp://ftp.canvasnet.com/quake/qc/bots/bgbot20a.zip
+* ftp://ftp.canvasnet.com/quake/qc/bots/reaprb05.zip
+* ftp://ftp.canvasnet.com/incoming/quake/reaprb80.zip
+* ftp://bluesnews.com/pub/bots/reaprb75.zip
+* http://www.iinet.com.au/~cam/quakec.html
+* ftp://ftp.canvasnet.com/quake/qc/bots/elim/elimsrc.zip
+* ftp://ftp.canvasnet.com/quake/qc/bots/elim/elim14.zip
+
 ## Shutdown
 
 A shutdown message was posted, dated January 8th 1996, although I suspect it was a typo and was in fact 1997.
