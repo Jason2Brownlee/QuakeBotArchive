@@ -55,3 +55,4 @@ The purpose of these essays is to ensure the resource is searched as completely 
 * [Inside3D News](c06_inside3d.md)
 * [YoonioR's Quakepage](c07_yooniors.md)
 * [Shake N' Quake](c08_shake_n_quake.md)
+* [Aftershock](c09_aftershock.md)
