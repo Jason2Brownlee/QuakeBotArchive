@@ -2,9 +2,61 @@
 
 A Quake news and resource webpage operated by Tom Grandgent aka "Woofer", Chris Elly aka "Overlord", and Felipe Garcia "O-dog".
 
+Note that Tom Grandgent was the author of [BSP256](https://groups.google.com/g/rec.games.computer.quake.announce/c/paWa0nxnzkg/m/WeERgLsa7cIJ) and related BSP tools.
+
 The site appeared to operate from July 1996 to January 1997.
 
 It is an important website as it lists news and links to early bot release, such as the reaper bot and client-side bots.
+
+## Announcement
+
+Perhaps related:
+
+```text
+New Quake Page on the Web
+Felipe Garcia
+16 Aug 1996
+
+Hello I would like to invite anyone who is interested to my brand new Quake
+Site called O-dog's Quake Haven
+
+My brand spanking new Quake page contains up to date News
+Editing files. The file area showcases the latest and greatest
+levels made by you the users. Every page brings you in with the
+glaring backgrounds and are backed up with thought provoking
+insight into the world of Quake. Enjoy!!
+
+http://www.city-guide.com/user/o-dog/index.htm
+
+
+peace
+```
+
+-- [rec.games.computer.quake.announce](https://groups.google.com/g/rec.games.computer.quake.announce/c/2FzjUx98fak/m/YcUq-h32hQwJ)
+
+
+```text
+Daily updated Quake site with news and more
+Tom Grandgent
+3 Sept 1996
+
+Hi, I would like to mention that I have been running a Quake web
+site for a while called Shake N' Quake. Its news section is
+updated very often, and there are also other areas including a file
+system driven by an Access database. All files are on our FTP server.
+The URL is: http://www.canvasnet.com/quake/
+
+The web and FTP servers are running on a dual P100 with 4G of disk, all
+dedicated to Quake. The system is connected to a T3 in Massachusetts.
+
+So, check it out sometime. I think you'll like it. Thanks,
+
+-Tom Grandgent (Woofer)
+tgr...@ultra.net
+Shake N' Quake (http://www.canvasnet.com/quake/)
+```
+
+-- [rec.games.computer.quake.announce](https://groups.google.com/g/rec.games.computer.quake.announce/c/X84TEg2DVMk/m/hzP7Nxl-F20J)
 
 ## Main Site: canvasnet.com/quake/
 
