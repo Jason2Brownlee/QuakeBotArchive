@@ -4,7 +4,7 @@ Redwood's 3D News or simply "Redwood News" is a game news website started and ru
 
 
 
-## Version 1.0
+## tamu.edu
 
 The first version of the site was provided as a student website at "Texas A&M University" (TAMU).
 
@@ -53,7 +53,7 @@ A final goodby message was posted after the site moved to the new domain.
 
 
 
-## Version 2.0
+## redwood.gatsbyhouse.com
 
 The second version of the site was hosted as a subdomain on gatsbyhouse.com.
 
@@ -102,7 +102,7 @@ Sean then shared links to the FAQ on Usenet.
 
 
 
-## Version 3.0
+## redwood.stomped.com
 
 The final version of the site was hosted as a subdomain on stomped.com, itself a popular gaming website that started off sharing Quake news.
 

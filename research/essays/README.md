@@ -57,3 +57,4 @@ The purpose of these essays is to ensure the resource is searched as completely 
 * [Shake N' Quake](c08_shake_n_quake.md)
 * [Aftershock](c09_aftershock.md)
 * [Dennis Noordsij Quake News](c10_noordsij_quake_news.md)
+* [Blue's News](c11_bluesnews.md)
