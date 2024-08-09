@@ -120,9 +120,7 @@ Very little of this site was archived:
 * [The Brothers Gib](https://web.archive.org/web/19990203182737/http://www.panix.com/%7Esheaslip/3d/bros-gib/) (clan page)
 * [TeamQSpy](https://web.archive.org/web/19990208215222/http://www.panix.com/%7Esheaslip/qspy/) (redirect)
 
-See all files:
 
-* https://web.archive.org/web/*/http://www.panix.com/~sheaslip*
 
 
 ## bluesnews.com

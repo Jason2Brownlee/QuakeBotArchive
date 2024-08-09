@@ -233,7 +233,7 @@ Only portions of the news on the site survives.
 For example:
 
 * [Home](https://web.archive.org/web/19971210063911/http://www.quakehole.com/frames/home.html) (Jan-Mar 1997)
-* [Old News](https://web.archive.org/web/19971210064427/http://www.quakehole.com/frames/oldnews.html) (Oct 1996 - Sep 1997)
+* [Old News](https://web.archive.org/web/19971210064427/http://www.quakehole.com/frames/oldnews.html) (Oct 1996 - Jan 1997)
 
 
 The exact date that the site was shutdown is not known. It was likely September 1997, based on some of the last dates of news articles.
@@ -272,9 +272,11 @@ Portions of the news written by Steven Gibson from this time survive in archive.
 
 For example, posts in late December 1997 survive, including a news post about the first version of the Omicron bot v1.00.
 
-* [News](https://web.archive.org/web/19971212025339/http://hipnotic.com/news.htm) (Dec 1997)
+* [News](https://web.archive.org/web/19971212025339/http://hipnotic.com/news.htm) (Dec 7-11 1997)
 
-Sadly, the archive of news on the site at http://www.hipnotic.com/archives/archives.htm does not appear to have been captured by archive.org.
+The news archive page, captured in December 1997, has archived news from March 6th 1997 to December 6th 1997.
+
+Sadly, the actual archive of news on the site was not appear to have been captured by archive.org:
 
 * [News Archive](https://web.archive.org/web/19971212030705/http://www.hipnotic.com/archives/archives.htm)
 
