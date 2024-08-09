@@ -17,4 +17,6 @@ Not all finger messages survive.
 * [John Carmack .plan Archive](https://web.archive.org/web/20130410005545/http://floodyberry.com/carmack/plan.html) (archived)
 * [John Carmack Archive](https://github.com/floodyberry/carmack)
 * [Id Software .plan - Webdog](https://web.archive.org/web/20031204190049/http://webdog.org/cgi-bin/showcompany.plm?company=id%20Software) (archived)
-* [Id Software .plan - PlanetQuake](https://web.archive.org/web/19990824172813/http://finger.planetquake.com/company.asp?id=1)
+* [Id Software .plan - PlanetQuake](https://web.archive.org/web/19990824172813/http://finger.planetquake.com/company.asp?id=1) (archived)
+* [Id Software .plan - Stomped](https://web.archive.org/web/20000531213929/http://finger.stomped.com/company.php3?company=id+Software) (archived)
+
