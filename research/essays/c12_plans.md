@@ -20,3 +20,4 @@ Not all .plan/finger messages survive.
 * [Id Software .plan - PlanetQuake](https://web.archive.org/web/19990824172813/http://finger.planetquake.com/company.asp?id=1) (archived)
 * [Id Software .plan - Stomped](https://web.archive.org/web/20000531213929/http://finger.stomped.com/company.php3?company=id+Software) (archived)
 
+Surely a doom archivist captured these .plan files...
