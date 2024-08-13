@@ -60,3 +60,4 @@ The purpose of these essays is to ensure the resource is searched as completely 
 * [Blue's News](c11_bluesnews.md)
 * [.plan archives](c12_plans.md)
 * [frag.com](c13_frag.md)
+* [Quake Stomping Grounds](c14_stomped.md)
