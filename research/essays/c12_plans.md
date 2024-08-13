@@ -19,5 +19,6 @@ Not all .plan/finger messages survive.
 * [Id Software .plan - Webdog](https://web.archive.org/web/20031204190049/http://webdog.org/cgi-bin/showcompany.plm?company=id%20Software) (archived)
 * [Id Software .plan - PlanetQuake](https://web.archive.org/web/19990824172813/http://finger.planetquake.com/company.asp?id=1) (archived)
 * [Id Software .plan - Stomped](https://web.archive.org/web/20000531213929/http://finger.stomped.com/company.php3?company=id+Software) (archived)
+* [3dfinger.telefragged.com/](https://web.archive.org/web/19990125084338/http://3dfinger.telefragged.com/) (archived)
 
 Surely a doom archivist captured these .plan files...
