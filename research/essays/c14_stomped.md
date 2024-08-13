@@ -41,3 +41,11 @@ Other
 * [Clan Stomped](https://web.archive.org/web/19961121230423/http://www.stomped.com:80/clan.stomped/index.html)
 * [Links](https://web.archive.org/web/19961219003219/http://www.stomped.com/quakelinks.html) (Dec 1996)
 * [Download](https://web.archive.org/web/19961121231601/http://www.stomped.com:80/download.html) (Dec 1996)
+
+
+Redwood era:
+
+* [News](https://web.archive.org/web/19980511170121/http://redwood.stomped.com/news.html) (April 1998)
+* [News Archives](https://web.archive.org/web/19980511170047/http://redwood.stomped.com/archives.html) (1996-1998)
+* [News Archives](https://web.archive.org/web/19990504062902/http://redwood.stomped.com/archives.html) (1996-1999)
+* [Files](https://web.archive.org/web/19980511165728/http://redwood.stomped.com/essential.html) (April 1998)
