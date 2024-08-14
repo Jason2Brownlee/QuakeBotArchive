@@ -8,10 +8,8 @@ News circa 1996-1997
 * [News](https://web.archive.org/web/19970611031044/http://www.planetquake.com:80/) (May 28 - Jun 10 1997)
 * [News](https://web.archive.org/web/19971221104423/http://planetquake.com:80/) (Dec 19 - 20 1997)
 * [News](https://web.archive.org/web/19980113012051/http://www.planetquake.com:80/) (Jan 10 - 12 1998)
-
 * [Old News](https://web.archive.org/web/19970309225427/http://www.planetquake.com/oldnews.shtm) (Jan 6 - Feb 21 1997)
 * [Old News Archive](https://web.archive.org/web/19980113014728/http://www.planetquake.com/oldnews.shtml) (Jun - Sep 1997) (links not archived)
-
 * [The Daily Plant](https://web.archive.org/web/19970607132626/http://www.planetquake.com:80/main.shtml) (May 21 - Jun 7 1997)
 * [The Daily Planet](https://web.archive.org/web/19970611041236/http://www.planetquake.com:80/main.shtml) (May 28 - Jun 10  1997)
 * [The Daily Planet](https://web.archive.org/web/19971211222743/http://www.planetquake.com:80/main.shtml) (Dec 10 - 11 1997)
