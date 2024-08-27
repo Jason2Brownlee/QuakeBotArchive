@@ -425,6 +425,7 @@ http://www.cdrom.com/pub/quake/quakec/compilations/urqp101.zip
 http://www.cdrom.com/pub/quake/quakec/compilations/urqp102.zip
 http://www.cdrom.com/pub/quake/quakec/misc/req106a.txt
 http://www.cdrom.com/pub/quake/quakec/misc/req106a.zip
+http://www.cloud9.net/~kfurphy/seismo/seismo18.zip
 http://www.converted2.com/bloodmage/junk/FBMOD.ZIP
 http://www.dmsoul.mailru.com/botmatch/bm119gl.zip
 http://www.dmsoul.mailru.com/botmatch/bm121.zip
@@ -546,4 +547,3 @@ http://www.users.bigpond.com/clanslug/termslugv1.29.zip
 http://xmark.ausgamers.com/xkteams/xkteams1705.zip
 http://xmark.ausgamers.com/xkteams/xkteams1705s.zip
 http://xmark.ausgamers.com/xkteams/xkteams2.zip
-
