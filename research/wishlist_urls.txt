@@ -131,12 +131,18 @@ http://ftp.fragzone.se/?file=spel/quake/bots/fbca100kt.zip
 http://ftp.gamers.org/pub/games/idgames2/planetquake/hwqwbot.exe
 http://ftp.gamers.org/pub/games/idgames2/planetquake/hwqwbot.sit
 http://ftp.gamers.org/pub/games/idgames2/planetquake/hwqwbot.zip
+http://ftp.gamers.org/pub/games/idgames2/planetquake/reqqw2a.zip
+http://ftp.sunet.se/idgames2/planetquake/requiem/reqqw2a.zip
 http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/holywars/hw_frogbot.exe
 http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/holywars/hw_frogbot.sit.bin
 http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/holywars/hw_frogbot.zip
 http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/holywars/hwqwbot.exe
 http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/holywars/hwqwbot.sit
 http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/holywars/hwqwbot.zip
+http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/requiem/reqqw2a.zip
+http://ftp.telepac.pt/pub/idgames2/planetquake/holywars/hwqwbotv101b.exe
+http://ftp.telepac.pt/pub/idgames2/planetquake/holywars/hwqwbotv101c.sit
+http://ftp.telepac.pt/pub/idgames2/planetquake/holywars/hwqwbotv101c.zip
 http://ftp.telepac.pt/pub/idgames2/quakec/compilations/urqp102.zip
 http://ftp.telepac.pt/pub/idgames2/quakec/compilations/urqp103.zip
 http://ftp.telepac.pt/pub/idgames2/telefragged/metro/frogbot007.zip
@@ -184,6 +190,7 @@ http://members.xoom.com/scrooby/quake1/qbot.zip
 http://members.xoom.com/scrooby/quake1/qbot1.0.zip
 http://members.xoom.com/scrooby/quake1/qbot1.6.zip
 http://membro.intermega.com.br/gqc/tdbot1_0.zip
+http://mirror.aarnet.edu.au/games/planetquake/reqqw2a.zip
 http://numb.macquakeinfinity.com/bugfix/hw_bugfix.txt
 http://numb.macquakeinfinity.com/bugfix/progs.zip
 http://numb.macquakeinfinity.com/bugfix/qwprogs.zip
@@ -242,6 +249,7 @@ http://quake.crimea.ua/files/quake/bots/fbca097kt.zip
 http://quake.crimea.ua/files/quake/bots/frogbot012.zip
 http://quake.crimea.ua/files/quake/bots/frogbot_mod.zip
 http://quake.morda.ru/files/pablo_the_bot.zip
+http://quake.org.pl/files/frogbot007.zip
 http://quake.org.pl/files/quake/boty/frogboteditor/fbedit17.zip
 http://quake.tronet.troitsk.ru/download/Accuracy.zip
 http://quake.tronet.troitsk.ru/download/fbedit17.zip
@@ -268,6 +276,7 @@ http://shub-hub.quaddicted.com/files/mods_multiplayer/monsterFBXID1waysV2.zip
 http://shub-hub.quaddicted.com/files/mods_multiplayer/orionbots_v3_ra.zip
 http://skillz.macquakeinfinity.com/files/Frogbot012.sit
 http://ssj4death.condemned.com/gb/gbped10.zip
+http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/requiem/reqqw2a.zip
 http://sunsite.org.uk/packages/idgames2/planetquake/holywars/hw_frogbot.exe
 http://sunsite.org.uk/packages/idgames2/planetquake/holywars/hw_frogbot.sit.bin
 http://sunsite.org.uk/packages/idgames2/planetquake/holywars/hw_frogbot.zip
@@ -401,6 +410,7 @@ http://www.acornarcade.com/downloads/quake/warbot.zip
 http://www.angelfire.com/co2/kooliobot/images/koolio.zip
 http://www.angelfire.com/co2/kooliobot/images/rakoolio.zip
 http://www.angelfire.com/pe/pent3/images/frogbot011.zip
+http://www.bluesnews.com/files/patches/bots/oak0855.zip
 http://www.botepidemic.com/fmods/bm116se.zip
 http://www.botepidemic.com/fmods/fbca088se.zip
 http://www.botepidemic.com/fmods/fbctf052.zip
@@ -463,7 +473,10 @@ http://www.ing.umu.se/~da00njn/Demon.zip
 http://www.inside3d.com/files/frog_re2.zip
 http://www.inside3d.com/qip/text/urqp104.txt
 http://www.isleofmull56.freeserve.co.uk/paddybot.zip
+http://www.lockandload.com/tfbot/tfb-v07.zip
 http://www.mindspring.com/~darkskye/files/darkbt09.zip
+http://www.mindspring.com/~jamesloe/boognaut.zip
+http://www.mindspring.com/~jamesloe/loefbot4.zip
 http://www.miteksys.com/death/abandon1.zip
 http://www.ncf.ca/~bk039/frik-tf.zip
 http://www.p-n-p.newmail.ru/MyFiles/frog2000.zip
