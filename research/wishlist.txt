@@ -25,7 +25,6 @@
 
 # files we know/expect to exist
 abandon1.zip
-accuracy.zip
 bandem.zip
 bgadmbot.zip
 bm116se.zip
