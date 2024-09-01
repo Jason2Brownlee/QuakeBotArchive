@@ -543,6 +543,8 @@ http://www.labyrinth.net.au/~adsoft/tedbot/navtest2.zip
 http://www.lockandload.com/tfbot/tfb-v07.zip
 http://www.mindspring.com/~darkskye/files/darkbt09.zip
 http://www.mindspring.com/~jamesloe/boognaut.zip
+http://www.mindspring.com/~jamesloe/loefbot2.zip
+http://www.mindspring.com/~jamesloe/loefbot3.zip
 http://www.mindspring.com/~jamesloe/loefbot4.zip
 http://www.mindspring.com/~jamesloe/Loefsrc.zip
 http://www.mindspring.com/~jamesloe/pingbot2.zip
