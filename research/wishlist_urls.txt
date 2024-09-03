@@ -2,6 +2,12 @@
 
 ftp://cdrom.planetquake.com:2121/holywars/hwqwbotv101c.zip
 ftp://ftp.3ddownloads.com/59686/telefragged/be/fmods/bm121r3.zip
+ftp://ftp.cdrom.com/pub/idgames2/planetquake/mikebot/binary/mikebot-AIX.tar.gz
+ftp://ftp.cdrom.com/pub/idgames2/planetquake/mikebot/binary/mikebot-IRIX.tar.gz
+ftp://ftp.cdrom.com/pub/idgames2/planetquake/mikebot/binary/mikebot-linux.tar.gz
+ftp://ftp.cdrom.com/pub/idgames2/planetquake/mikebot/binary/mikebot-Solaris.tar.gz
+ftp://ftp.cdrom.com/pub/idgames2/planetquake/mikebot/binary/mikebot-SunOS.tar.gz
+ftp://ftp.cdrom.com/pub/idgames2/planetquake/mikebot/binary/mikeBot95.zip
 ftp://ftp.cdrom.com/pub/idgames2/planetquake/tfbot/tfb-v07.zip
 ftp://ftp.cdrom.com/pub/idgames2/quakec/bots/darkbt4.zip
 ftp://ftp.cdrom.com/pub/idgames2/quakec/bots/rbot.zip
@@ -637,3 +643,4 @@ http://xmark.ausgamers.com/xkteams/xkteams1705.zip
 http://xmark.ausgamers.com/xkteams/xkteams1705s.zip
 http://xmark.ausgamers.com/xkteams/xkteams2.zip
 https://www.quaddicted.com/webarchive/ftp.clan-rum.org/quake/bots/frogbot012.zip
+
