@@ -3097,6 +3097,10 @@ Kommando Kwake
 		QUAKE 1  Kommando Kwake Conversion
 		Andreas M. and Stefan M.
 		V2.20
+	pmoderns.cjb.net
+	http://home.t-online.de/home/blue.xevious/
+		https://web.archive.org/web/20010519224638/http://home.t-online.de/home/blue.xevious/
+		https://web.archive.org/web/20010527231658/http://home.t-online.de/home/blue.xevious/kok220.zip
 XBots / Prodigy Server Engine
 	https://web.archive.org/web/19980614160010/http://www.inside3d.com/nov08-nov09.shtml
 	Prodigy Server Engine by David Rodgers

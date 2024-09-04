@@ -134,6 +134,7 @@ http://dmsoul.newmail.ru/mymod7.zip
 http://dmsoul.newmail.ru/notlpb_fbca.ZIP
 http://dmsoul.newmail.ru/src.ZIP
 http://first.quakegate.ru/bots/frogbot.rar
+http://ftp.cdrom.com/pub/quake/quakec/bots/btsk22.zip
 http://ftp.fragzone.se/?file=spel/quake/bots/fbca100kt.zip
 http://ftp.gamers.org/pub/games/idgames2/planetquake/hwqwbot.exe
 http://ftp.gamers.org/pub/games/idgames2/planetquake/hwqwbot.sit
@@ -193,6 +194,7 @@ http://home.bip.net/khol/RandomPower.zip
 http://home.bip.net/khol/StaticQuad.zip
 http://home.t-online.de/home/026051408/kok220.zip
 http://home.t-online.de/home/0551705030/squirt10.zip
+http://home.t-online.de/home/blue.xevious/kok220.zip
 http://java.cms.livjm.ac.uk/quake/OmiEdit01.zip
 http://macquakeinfinity.com/downloads/mac_hwbot003b7final.sit.bin
 http://mdqnet.net/cgi-bin/download.cgi?file=voidm120.zip&dir=dept187/void/
@@ -643,4 +645,3 @@ http://xmark.ausgamers.com/xkteams/xkteams1705.zip
 http://xmark.ausgamers.com/xkteams/xkteams1705s.zip
 http://xmark.ausgamers.com/xkteams/xkteams2.zip
 https://www.quaddicted.com/webarchive/ftp.clan-rum.org/quake/bots/frogbot012.zip
-
