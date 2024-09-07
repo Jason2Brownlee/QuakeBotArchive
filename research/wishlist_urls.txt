@@ -201,6 +201,7 @@ http://macquakeinfinity.com/downloads/mac_hwbot003b7final.sit.bin
 http://mdqnet.net/cgi-bin/download.cgi?file=voidm120.zip&dir=dept187/void/
 http://medlem.spray.se/ratface1/qw/qwprogs.zip
 http://medlem.spray.se/~ratface1/qw/qwprogs5.zip
+http://members.cox.net/geffrey/udm15b.zip
 http://members.multimania.nl/nqeu/files/bots/holyfbotmod11.exe
 http://members.nbci.com/nnctf.zip
 http://members.nbci.com/nnsource.zip
@@ -264,6 +265,7 @@ http://parboil.quakeworld.ru/parboil/src102.zip
 http://parboil.quakeworld.ru/parboil/src_fbca092.zip
 http://parboil.quakeworld.ru/parboil/src_fbca100.zip
 http://parboil.quakeworld.ru/tappak/fbca102kt-rc1.zip
+http://parboil.quakeworld.ru/tappak/src102rc1.zip
 http://peak-two.uplb.edu.ph/~ralr/gbdemo.zip
 http://pelit.saunalahti.fi/telenation/telefragged/inside3d/qip/q1/urqp105beta.zip
 http://perso.wanadoo.fr/montanuy/bot/termbot-src-096.tar.gz
@@ -582,8 +584,13 @@ http://www.parboil.quakeworld.ru/parboil/fbca098test.zip
 http://www.parboil.quakeworld.ru/parboil/fbca099kt.zip
 http://www.parboil.quakeworld.ru/parboil/fbca100kt.zip
 http://www.parboil.quakeworld.ru/parboil/fbca86se.zip
+http://www.parboil.quakeworld.ru/parboil/src101final.zip
+http://www.parboil.quakeworld.ru/parboil/src102.zip
+http://www.parboil.quakeworld.ru/parboil/src_fbca092.zip
+http://www.parboil.quakeworld.ru/parboil/src_fbca100.zip
 http://www.parboil.quakeworld.ru/tappak/fbca102kt-rc1.zip
 http://www.parboil.quakeworld.ru/tappak/fbca102pre_beta.zip
+http://www.parboil.quakeworld.ru/tappak/src102.zip
 http://www.parboil.quakeworld.ru/tempfb/fbca102rc2.zip
 http://www.pixelshower.com/Vault/game/prodigy35b1.zip
 http://www.planetquake.com/botarea51/main/download.asp?name=elimpack.zip&referrer=main/qbot.asp?id=30
@@ -598,6 +605,9 @@ http://www.planetquake.com/requiem/files/reqqw20i.zip
 http://www.planetquake.com/requiem/files/reqqw23.zip
 http://www.quaddicted.com/webarchive/ftp.clan-rum.org/quake/bots/frogbot012.zip
 http://www.quake-info-pool.net/text/urqp104.txt
+http://www.quake.crimea.ua/files/quake/bots/fbca095kt.zip
+http://www.quake.crimea.ua/files/quake/bots/fbca096kt.zip
+http://www.quake.crimea.ua/files/quake/bots/fbca097kt.zip
 http://www.quake.kiev.ua/spirit/demos/q1/spvsfrog.zip
 http://www.quakebot.net/wqb17f.zip
 http://www.quakefiles.com/files/download.php?filekey=q1hwqwbot1&d_url=ftp://cdrom.planetquake.com:2121/holywars/hwqwbotv101c.zip
@@ -654,6 +664,4 @@ http://xmark.ausgamers.com/xkteams/xkteams1705.zip
 http://xmark.ausgamers.com/xkteams/xkteams1705s.zip
 http://xmark.ausgamers.com/xkteams/xkteams2.zip
 https://www.quaddicted.com/webarchive/ftp.clan-rum.org/quake/bots/frogbot012.zip
-
-
 
