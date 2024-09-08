@@ -67,6 +67,7 @@ ftp://ftp.telepac.pt/pub/idgames2/telefragged/epidemic/frogbot012.zip
 ftp://ftp.telepac.pt/pub/idgames2/telefragged/epidemic/frogbot012a.zip
 ftp://ftp.telepac.pt/pub/idgames2/telefragged/epidemic/frogbot012b.zip
 ftp://ftp.telepac.pt/pub/idgames2/telefragged/metro/frogbot007.zip
+ftp://ftp.torget.se/pub/games/quake/quakec/seismo14.zip
 ftp://ftp1.action.updates.cx/pub/mirrors/telefragged/be/fmods/Accuracy.zip
 ftp://ftp1.action.updates.cx/pub/mirrors/telefragged/be/fmods/demos/frogbot_demo.zip
 ftp://ftp2.3ddownloads.com/pub/telefragged/inside3d/qip/q1/urqp105beta.zip
@@ -294,6 +295,7 @@ http://quake.crimea.ua/files/quake/bots/frogbot_mod.zip
 http://quake.morda.ru/files/pablo_the_bot.zip
 http://quake.org.pl/files/frogbot007.zip
 http://quake.org.pl/files/quake/boty/frogboteditor/fbedit17.zip
+http://quake.org.pl/files/quake/requiem/reqqw20i.zip
 http://quake.org.pl/pliki/fbedit15.zip
 http://quake.tronet.troitsk.ru/download/Accuracy.zip
 http://quake.tronet.troitsk.ru/download/fbedit17.zip
@@ -606,6 +608,7 @@ http://www.planetquake.com/requiem/files/reqqw104.zip
 http://www.planetquake.com/requiem/files/reqqw20i.zip
 http://www.planetquake.com/requiem/files/reqqw23.zip
 http://www.quaddicted.com/webarchive/ftp.clan-rum.org/quake/bots/frogbot012.zip
+http://www.quake-1.com/files/engine-sources/qb16src.zip
 http://www.quake-info-pool.net/text/urqp104.txt
 http://www.quake.crimea.ua/files/quake/bots/fbca095kt.zip
 http://www.quake.crimea.ua/files/quake/bots/fbca096kt.zip
