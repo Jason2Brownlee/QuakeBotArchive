@@ -208,6 +208,7 @@ http://members.nbci.com/nnsource.zip
 http://members.optushome.com.au/ta403/quake/fbcakt2.zip
 http://members.optushome.com.au/ta403/quake/fbcakt2source.zip
 http://members.optushome.com.au/ta403/quake/jteamssource.zip
+http://members.tripod.com/mtm07/fbcasounds.zip
 http://members.tripod.com/tf_cheats/kl33n3x-cfg.zip
 http://members.tripod.lycos.nl/koolpaddy/zips/paddybot02.zip
 http://members.xoom.com/eluan/WLBOT1.9.zip
@@ -234,6 +235,7 @@ http://numb.macquakeinfinity.com/bugfix/qwprogs.zip
 http://numb.quakeintosh.com/users/gerrybabe/holywars/frog/hwqwbot.exe
 http://numb.quakeintosh.com/users/gerrybabe/holywars/frog/hwqwbot.sit
 http://nygmafiles.essentrix.net/bots/djbotmk2.zip
+http://nygmafiles.essentrix.net/bots/frogbot/fbarena.zip
 http://nygmafiles.essentrix.net/bots/warbot.zip
 http://nygmafiles.essentrix.net/runebot/runebot12.exe
 http://orca.ucd.ie/~gilligan/warbot.zip
