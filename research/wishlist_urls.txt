@@ -65,7 +65,6 @@ ftp://ftp.telepac.pt/pub/idgames2/planetquake/holywars/hwqwbotv101c.sit
 ftp://ftp.telepac.pt/pub/idgames2/planetquake/holywars/hwqwbotv101c.zip
 ftp://ftp.telepac.pt/pub/idgames2/telefragged/epidemic/frogbot012.zip
 ftp://ftp.telepac.pt/pub/idgames2/telefragged/epidemic/frogbot012a.zip
-ftp://ftp.telepac.pt/pub/idgames2/telefragged/epidemic/frogbot012b.zip
 ftp://ftp.telepac.pt/pub/idgames2/telefragged/metro/frogbot007.zip
 ftp://ftp.torget.se/pub/games/quake/quakec/seismo14.zip
 ftp://ftp1.action.updates.cx/pub/mirrors/telefragged/be/fmods/Accuracy.zip
@@ -170,7 +169,6 @@ http://ftp.telepac.pt/pub/idgames2/quakec/compilations/urqp102.zip
 http://ftp.telepac.pt/pub/idgames2/quakec/compilations/urqp103.zip
 http://ftp.telepac.pt/pub/idgames2/telefragged/epidemic/frogbot012.zip
 http://ftp.telepac.pt/pub/idgames2/telefragged/epidemic/frogbot012a.zip
-http://ftp.telepac.pt/pub/idgames2/telefragged/epidemic/frogbot012b.zip
 http://ftp.telepac.pt/pub/idgames2/telefragged/metro/frogbot007.zip
 http://ftp.telepac.pt/pub/idgames2/telefragged/metro/frogbot012.zip
 http://ftp.telepac.pt/pub/idgames2/telefragged/qnm/fbedit13.zip
@@ -336,7 +334,6 @@ http://sunsite.org.uk/packages/idgames2/planetquake/requiem/reqqw2a.zip
 http://sunsite.org.uk/packages/idgames2/planetquake/requiem/reqqwsrc.zip
 http://sunsite.org.uk/packages/idgames2/telefragged/epidemic/frogbot012.zip
 http://sunsite.org.uk/packages/idgames2/telefragged/epidemic/frogbot012a.zip
-http://sunsite.org.uk/packages/idgames2/telefragged/epidemic/frogbot012b.zip
 http://sunsite.org.uk/packages/idgames2/telefragged/metro/frogbot007.zip
 http://sunsite.org.uk/packages/idgames2/telefragged/metro/frogbot012.zip
 http://sunsite.org.uk/packages/idgames2/telefragged/qnm/fbedit13.zip
@@ -634,7 +631,6 @@ http://www.telefragged.com/mirrors/mirror.pl?be/fmods/hwqwbot.zip
 http://www.telefragged.com/mirrors/mirror.pl?be/fmods/qc/frog_src.zip
 http://www.telefragged.com/mirrors/mirror.pl?epidemic/frogbot012.zip
 http://www.telefragged.com/mirrors/mirror.pl?epidemic/frogbot012a.zip
-http://www.telefragged.com/mirrors/mirror.pl?epidemic/frogbot012b.zip
 http://www.telefragged.com/mirrors/mirror.pl?metro/frogbot012.zip
 http://www.telefragged.com/mirrors/mirror.pl?qnm/fbedit15.zip
 http://www.tronet.troitsk.ru/~d_knight/Download/Games/frog012.zip
