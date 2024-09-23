@@ -175,7 +175,7 @@ http://ftp.telepac.pt/pub/idgames2/telefragged/qnm/fbedit13.zip
 http://ftp.telepac.pt/pub/idgames2/telefragged/qnm/fbedit14.zip
 http://ftp.telepac.pt/pub/idgames2/telefragged/qnm/fbedit15.zip
 http://ftp.telepac.pt/pub/idgames2/telefragged/qnm/fbedit17.zip
-http://fubar.cstp.umkc.edu:80/quake/files/tballman097.zip
+http://fubar.cstp.umkc.edu/quake/files/tballman097.zip
 http://game.mari-el.ru/cb/files/fbca093kt.zip
 http://geocities.com/timessquare/hangar/8961/sq12to13.zip
 http://geocities.com/timessquare/hangar/8961/squirt12b.zip
