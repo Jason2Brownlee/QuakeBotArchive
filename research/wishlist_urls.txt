@@ -107,6 +107,7 @@ ftp://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/idgames2/telefragged/metro/
 ftp://sunsite.doc.ic.ac.uk/packages/idgames2/planetquake/holywars/hwqwbotv101c.zip
 ftp://www.clan-rum.org/quake/bots/src_fbca099.zip
 http://203.32.12.18/project/placebot.zip
+http://204.50.28.112/qexpo/upload/61/waypack1.zip
 http://abone.turk.net/bear/frogbot012.zip
 http://asp.planetquake.com/dl/dl.asp?/botshop/quakeworld-20000102.tar.gz
 http://asp.planetquake.com/dl/dl.asp?/botshop/quakeworld-991229.tar.gz
