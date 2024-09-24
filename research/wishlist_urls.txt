@@ -3,6 +3,8 @@
 ftp://bluesnews.com/pub/client_bots/trmbot07.zip
 ftp://cdrom.planetquake.com:2121/holywars/hwqwbotv101c.zip
 ftp://ftp.3ddownloads.com/59686/telefragged/be/fmods/bm121r3.zip
+ftp://ftp.canvasnet.com/quake/qc/elim10.zip
+ftp://ftp.canvasnet.com/quake/qc/elim13.zip
 ftp://ftp.cdrom.com/pub/idgames2/planetquake/mikebot/binary/mikebot-AIX.tar.gz
 ftp://ftp.cdrom.com/pub/idgames2/planetquake/mikebot/binary/mikebot-IRIX.tar.gz
 ftp://ftp.cdrom.com/pub/idgames2/planetquake/mikebot/binary/mikebot-linux.tar.gz
