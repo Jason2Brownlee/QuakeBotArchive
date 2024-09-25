@@ -557,6 +557,7 @@ http://www.ing.umu.se/~da00njn/Demon.zip
 http://www.inside3d.com/files/frog_re2.zip
 http://www.inside3d.com/qip/text/urqp104.txt
 http://www.isleofmull56.freeserve.co.uk/paddybot.zip
+http://www.king.igs.net/~lambja/Req106a.zip
 http://www.labyrinth.net.au/~adsoft/navtest2.zip
 http://www.labyrinth.net.au/~adsoft/tedbot/navtest2.zip
 http://www.lockandload.com/tfbot/tfb-v07.zip
@@ -618,6 +619,9 @@ http://www.quake.crimea.ua/files/quake/bots/fbca095kt.zip
 http://www.quake.crimea.ua/files/quake/bots/fbca096kt.zip
 http://www.quake.crimea.ua/files/quake/bots/fbca097kt.zip
 http://www.quake.kiev.ua/spirit/demos/q1/spvsfrog.zip
+http://www.quakebot.net/glkolor.zip
+http://www.quakebot.net/glqb17f.zip
+http://www.quakebot.net/qb17f.zip
 http://www.quakebot.net/wqb17f.zip
 http://www.quakefiles.com/files/download.php?filekey=q1hwqwbot1&d_url=ftp://cdrom.planetquake.com:2121/holywars/hwqwbotv101c.zip
 http://www.quakefiles.com/files/download.php?filekey=q1hwqwbot1&d_url=ftp://ftp.cdrom.com/pub/planetquake/holywars/hwqwbotv101c.zip
