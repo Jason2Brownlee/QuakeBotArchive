@@ -57,7 +57,9 @@ clanv0.6man.zip
 clanv0.7eman.zip
 clanv0.7hman.zip
 combination.zip
+ctfbot+debug060298.zip
 ctfbotmw.zip
+ctfbotp-mac-081298.sit.hqx
 cujo12a.zip
 cujo12b.zip
 cujo12c.zip
@@ -642,6 +644,7 @@ zeusbot.zip
 # zeus2042.txt
 # zeus20b.txt
 # proj1_v1_final.txt
+ctfbotp-mac.txt
 
 # other
 mac_hwbot003b7final.sit.bin

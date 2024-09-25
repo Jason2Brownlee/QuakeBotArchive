@@ -1,0 +1,662 @@
+
+
+THIS VERSION OF CTFBOT IS A BETA RELEASE.
+
+PLEASE REPORT ALL BUGS TO :
+
+adistler@ace.cs.ohiou.edu
+
+
+
+============================================================
+CTFBot+ version 3.0 beta 1 Readme File (03.23.99)
+============================================================
+File Contents:
+1.	CONTACT
+2.	INSTALLATION
+3.	DESCRIPTION
+3a.	DEATHMATCH FLAGS
+3b.	TEAMPLAY FLAGS
+3c.	TEMP1 FLAGS
+3d.	SV_AIM variable
+3e.	REGISTERED variable
+4.	ADDING YOUR OWN PLAYER MODEL/SOUNDS
+5.	CREDITS
+6.	ADDITIONAL CREDITS
+7.	VERSION HISTORY (WHAT'S NEW)
+============================================================
+
+
+============================================================
+1.	CONTACT
+============================================================
+Anthony (*this) Distler
+adistler@ace.cs.ohiou.edu
+http://www.captured.com/ctfbot/
+============================================================
+
+
+
+
+
+
+============================================================
+2.	INSTALLATION
+============================================================
+
+
+
+ ********************************************************
+ * If you have installed a previous version of CTFBot+, *
+ * it is recommended that you completly remove it       *
+ * (delete the "ctfbot+" or "ctfbotp" directory).       *
+ ********************************************************
+
+
+
+Simply unzip the ctfbot+.zip file into your quake directory,
+restoring the folder structure.  If you're using WinZip,
+make sure that the "Use Folder Names" checkbox is checked.
+The unzipping process will create a subdirectory in your
+Quake directory called "ctfbotp".
+
+You no longer need to download Threewave 3.0 and 4.0 to play
+CTFBot+.  If you wish to play the Threewave maps, you will
+still have to download the 3.0 and 4.0 Threewave releases.
+
+After unzipping the ctfbot+.zip, run the
+CTF Bot Coordinator.exe program in the ctfbotp directory.
+Follow the Quickstart instruction in ctfcoord.txt.
+
+Your directory structure after unzipping should look like
+the following:
+
++---quake
+    |   quake.exe
+    +---ID1
+    |       PAK0.PAK
+    |       PAK1.PAK
+    \---ctfbotp
+        |   pak0.pak  //The main ctfbot pak file
+        |   Ctf Bot Coordinator.exe
+        +---ctfbtsrc
+        |   +---way
+        |   |       expctf2.qc
+        |   |       ctf1.qc
+        |   |       tctf8tw.qc
+        |   |       ...
+        |   +---ent
+        |   |       dm5.ent
+        |   |       dm2.ent
+        |   |       dm3.ent
+        |   |       ...
+        |   +---bot
+        |   |       bot.qh
+        |   |       botai.qc
+        |   |       botai2.qc
+        |   |       ...
+        |   \---ctf
+        |           observ.qc
+        |           buttons.qc
+        |           camera.qc
+        |           ...
+        \---doc
+                ctfbot+.txt
+                impulses.txt
+                ...
+============================================================
+
+
+
+
+
+============================================================
+3.	DESCRIPTION
+============================================================
+
+
+
+Please read the VERSION HISTORY for more details on
+CTFBot+'s features.
+
+
+
+
+This is actually three releases in one:
+
+1)  CTF Bot 1.4
+	Drew Davidson's never released upgrade to CTF Bot 1.2
+2)  CTFBot+
+	My own modifications to the CTF Bot 1.4 source.
+3)  CTF Bot Coordinator
+	A handy windows app for configuring, compiling and
+	running the CTFBot+
+
+Please read ctfbot14.txt for complete descriptions on the
+original CTF Bot and what Drew added for 1.4.  Some of the
+highlights include:
++ Bots on Ranking screen/frags area/client colors
++ bug fixes (kills counted correctly)
++ escorting works much better now
++ waypoints for CTF Expansion Pak maps
++ waypoints for all remaining CTF4 id maps
++ may crash less often on huge maps (e.g. ctf2m6)
++ various other bug fixes and improvements
+
+
+Please read the ctfcoord.txt file to learn more about the
+CTF Bot Coordinator program.
+============================================================
+3a.	DEATHMATCH flags
+============================================================
+2	Weapons Stay
+	Just like "deathmatch 3".
+
+4	No Health
+	All health boxes are removed from the level.
+
+8	No Armor
+	All armor is removed from the level.
+
+16 	No Items
+	Everything is removed, what you start with is all you
+	get.
+
+32	Drop Quad
+	Just like the quakeworld option.  If a player or bot
+	dies while carrying the Quad, it pops out like a
+	little baby.
+
+64	Drop Ring
+	Same as the Drop Quad flag.
+
+128	No Falling
+	Players and bots take no damage on falls no matter
+	how far the distance.
+
+256	Infinite Ammo
+	All players and bots are given an infinite amount
+	ammo.  All weapon boxes are removed from the level.
+
+512	Fixed FOV
+	FOV is reset to the default 90.
+
+1024	Spawn Random
+	Players and bots spawn in random deathmatch locations.
+
+2048	Start Small
+	Players and bots start with Nailgun, Super Shotgun
+	and some ammo.
+
+4096	Start Big
+	Players and bots start with Rocket Launcher, Super
+	NailGun and Super Shotgun and some ammo for each.
+
+	The SuperShotgun fires at the twice the normal rate.
+
+8192	Secret Door
+	All secret doors stay opened after being opened.
+	This is very good for the bots who don't really like
+	secret doors.
+
+16384	No Runes
+	Runes are not spawned.
+
+32768	Fast Plats
+	All platforms/lifts and doors move at a fast rate.
+
+65536	No Power Ups
+	All power ups are removed from the level and
+	replaced with armor.
+============================================================
+3b.	TEAMPLAY FLAGS
+============================================================
+
+1	Health Protect
+	can't damage teammate health
+
+2	Armor Protect
+	can't damage teammate armor
+
+4	Damage to Attacker
+	damage to teammate reflected to attacker
+
+8	Frag Penalty
+	kill teammate, get frag penalty
+
+16	Death Penalty
+	kill teammate, you die
+
+32	[bit REQUIRED for CTF]
+
+64	Static Teams
+	players not allowed to change teams  
+
+128	Drop Items
+	players can drop items with impulse 20/21
+
+256	[bit REQUIRED for CTF]
+
+512	Custom Capture the Flag
+	use client-side CTF models/sounds
+
+1024	Select Team
+	select team (observer mode) when join server
+
+2048	Total Freedom
+	all players can do all impulses
+
+4096	No self hurt
+        Similar to regular quake "Teamplay 1".  You cannot
+        hurt yourself.
+
+8192	No Player Rune Dropping
+	players can't drop runes
+
+16384	No Bot Flag Pickups
+	bots can't get flag
+
+32768	Norse Movement
+	Use the newer Norse Movement routines for the bots.
+
+65536	No Flag Tossing
+	flag tossing not allowed
+============================================================
+3c.	TEMP1 FLAGS
+============================================================
+1	MultiWeapons(aka Visible Weapons)
+	You must have downloaded and installed the pak3.pak
+	include in the ctfbot+ MultiWeapon .zip file.  Quake
+	will crash if you have not done so.
+
+2	YCam Support
+	Use "impulse 15" to toggle between Ycam modes.
+
+4	Capture Limit
+	Turn fraglimit into a capture limit.
+
+8       Not used.
+
+16	Defensive Waypoints
+	Bots will use Defensive waypoints on maps that have
+	them.  Ctf Bot Coordinator turns this option on by
+	default.  The only way to turn it off is to edit the
+	ctfcoord.cfg file.
+
+32	Auto Level
+	At the end of each intermission, ctfbot+ will execute
+	the alias "nextctfbotmap".  This alias is generated
+	automatically by Ctf Bot Coordinator.
+
+64	Load Mod
+	Included, but not implemented. (07/11/98)
+	
+
+128	Bot Auto Plan
+	Every 20 seconds, there is a 10 percent chance that
+	a team with no humans will attack as a team.
+
+256	Support female model
+	Players have the option of using the female model
+	and sounds.
+
+512	Support player3.mdl and pl3*.mdl for Multiweapons.
+
+1024	Support player4.mdl and pl4*.mdl for Multiweapons.
+
+2048	Auto Even Teams
+        The sv_aim variable will be used to populate the
+        teams with bots after map startup.
+
+4096	Support player2(female) sounds.  Sounds for the
+	player2.mdl are located in the /sound/player2/
+	folder and match the /sound/player/ naming scheme.
+
+8192	Support player3 sounds.
+
+16384	Support player4 sounds.
+
+32768	Lightning Gun does half damage
+	The lightning gun will do half it's normal damage.
+
+65536	No Messages
+	All bright flashes when items are picked up are not
+	displayed.  Other non-important messages are not
+	displayed.
+
+============================================================
+3d.	SV_AIM variable
+============================================================
+    *****************************************************
+    * Please wait 30 seconds for the bots to be added   *
+    * at the start of each level.                       *
+    *****************************************************
+
+SV_AIM is used to have bots added automatically at the
+beginning of each level.  In previous versions of the
+ctfbot, AutoEven teams was only possible.  In CTFBot+, it is
+possible to control the amount of bots on each team.
+
+The formula is listed below
+============================
+Number of Red Bots * 4
++
+Number of Blue Bots * 128
++
+64 (if vary skill is desired)
++
+skill
+=
+sv_aim
+============================
+
+An Example of 5 Red vs. 8 Blue,
+Vary skill, Skill 2
+============================
+5 * 4 (5 Red Bots)
++
+8 * 128 (8 Blue Bots)
++
+64 (Skill will be varied amoung bots)
++
+2 (Skill)
+=
+1110
+============================
+============================================================
+3e.	REGISTERED variable
+============================================================
+The registered variable is used as the Rocket Jump modifier.
+It is similar to quakeworld's "rj" setting.
+============================================================
+
+
+
+
+
+
+============================================================
+4.	ADDING YOUR OWN PLAYER MODEL/SOUNDS
+============================================================
+With the 3.0 release, it is now possible to add your own
+models and/or sounds.
+============================================================
+
+
+
+
+
+
+============================================================
+5.	CREDITS
+============================================================
+Original Ctf Bot:
+	Drew "BZ" Davidson
+	drew@interpath.com
+CTFBot+ modifications:
+	Anthony *this Distler
+	adistler@ace.cs.ohiou.edu
+Female (aka Cory) Model:
+	Brian Collins
+	brian@zono.com
+Expert's LoadMod
+	Charles "Myrkul" Kendrick
+	myrkul@myrkul.org
+	Rich "Publius" Tollerton
+	rtollert@tranquility.net
+YCam source code:
+	Harvey Lee
+	yevs@ozemail.com.au
+MultiWeapon source code and original MW models:
+	Wes Morrison
+	wesmorrison@juno.com
+Norse Movement source code:
+	Roscoe A. Sincero
+	legion@keg.zymurgy.org
+Bots in the rankings source code:
+	Alan Kivlin
+	alan.kivlin@cybersurf.co.uk
+Blue grenade and eyes skins
+	Creeper
+	creeper@halley.cybrzn.com
+============================================================
+
+
+
+
+
+
+============================================================
+6.	ADDITIONAL CREDITS 
+============================================================
+
+Bug Reporting/Problem Solving, Status Bar fix,
+Consultation on features, Beta Testing:
+	Russel "Holesinswiss" McDaniel
+	mcdaniel@mail.findlay.edu
+	http://packy.findlay.edu/~mcdaniel/
+	(changes to status.qc marked with [RRM])
+
+Bug Reporting, Mac testing, Helping with GL version,
+Beta Testing:
+	Paul "buddhabox" Seul
+	pbuddha@infonet.isl.net
+	http://netco.tec.mn.us/~pbuddha
+
+Helping with the female skins:
+	Jose Luis "Tolde" Tealdi
+	odlot@sinectis.com.ar
+
+Bug Reporting:
+	Eric Merillat <Eric_D_Merillat@student.ferris.edu>
+	Jacob Doherty <jacob@sinesurf.co.nz>
+	Peter Lomax <hawkmoon@pcl.telinco.com>
+	"Savve [BB]" <savve@home.se>
+	Dylan Kelly <dxkelly@southwind.net>
+	SJ Penny <sjpenny@megsinet.net>
+
+I know missed some people here, sorry.
+============================================================
+
+
+
+
+
+
+============================================================
+7.	VERSION HISTORY (WHAT'S NEW)
+============================================================
+03/23/99
+	3.0 beta 1, (3.0 pre-release 1)
+
+	CTFBot+
+	o	Female player model added.
+	o	Support for other player models also included.
+		Use impulse 13 to cycle through the models and
+		enable the new models with the appropriate
+		"temp1" bit.
+	o	New impulse will switch from grappling hook to
+		previous weapon and vice versa.  This was
+		previously done with a .cfg alias that didn't	
+		work all the time.  The new impulse is 14.  It
+		is guaranteed to work everytime.
+	o	Bot names will appear in orange text when a bot
+		talks.
+	o	Added option for regular quake's "teamplay 1".
+		With this enabled, players and bots will not be
+		able to hurt themselves.  The bots really like
+		this.
+	o	Fixed the dedicated server problem hopefully.
+	o	Rocket Jump setting similar to quakeworld's "rj"
+		setting added.  The "registered" variable is
+		used for this.
+	o	No more "Gl Skins".  The regular skins have been
+		touched up a bit.  The shirt and pants are now solid
+		blue or red and the shoulder pads and helmet are now
+		the "armor" color.
+	o	Includes mini-CTF pak file.  The pak file
+		contains the minimum files from threewave ctf3
+		and ctf4.  Grappling hook sounds and models,
+		flag sounds and models, and rune sounds are
+		included.
+
+	Coordinator
+	o	Split the "Play Settings" window up into
+		"CTFBot+ Settings" and "Quake Settings".
+		-  Fraglimit, timelimit, samelevel, etc are in
+		"CTFBot+ Settings".  
+		-  -condebug, -nojoy, -listen, etc are in
+		"Quake Settings".
+	o	Priority of the quake executable can be set.
+	o	Option of closing, minimizing, or minimizing to
+		sytem tray after running Quake.
+	o	Fixed that annoying clipboard bug.
+	o	Added description bar to Select Maps window.  It
+		will display a brief description of the currently
+		selected map.
+	o	Added description bar to Bind Keys window.  It will
+		display the impulse and a brief description of the
+		currently selected binding.
+	o	There is also a description bar on the CTFBot+
+		Settings window.
+	o	The Map Playlist has been combined with the Map
+		Selection window.
+	o	New file, maplist.qc created before compile.  It
+		will contain a QuakeC version of the list of maps
+		from the Map Selection window.
+
+07/12/98
+	2.1, first update to second release.
+	CTFBot+
+	o	Changed YCam model to bit.mdl, it was eyes.mdl
+		before, that one's kinda big.
+	o	Fixed disconnect while in YCam mode bug.
+	o	Fixed BestWeapon bug.  Coordinator was setting
+		it one too low.
+	o	Fixed "Invalid Skin . ." bug if you got
+		invisibility in GL.  I just added some red and
+		blue skins.  Now you can tell at least what team
+		the invis'd guy/gal is on.  I got the blue skin
+		from Creeper.
+	o	Blue team members shoot blue grenades.  Also
+		from Creeper.
+	o	Added alternate entity and waypoint sets for
+		e3m3 and dm5.
+	o	Really fixed the bot-electricgun-water bug.
+	o	Fixed the RemoveAllBots impulse.
+	o	Fixed problem when "-listen #" was less than 16.
+	o	Added Best Weapon impulse.  It's 9, use it to
+		switch to your Best Weapon.
+	o	Bots without human teammate will attack in
+		groups.  Enable the AutoPlan temp1 option.
+	o	Expert's LoadMod added.  Only health and armor
+		options are enabled on this version of LoadMod.
+		Select the temp1 "LoadMod" option to enable it.	
+	Coordinator
+	o	Fixed the name/hostname thingie in Coordinator.
+		It was trying to add ASCII-13 (that little
+		sideways arrow in Quake) to the name.
+	o	Better messages in Coordinator.  You can also
+		turn off all messages in the options menu.
+	o	Links to documentation files in Help menu.
+	o	Fixed little bug on the new Map Selection
+		window.
+	o	Added a "cap" on the amount of maps you can
+		include.  It's at 60, any higher, quake may
+		crash.
+	o	The .bat file is written properly.
+	o	Added "Toggle Menu Bar" to the system menu.
+		This should help some of you are having stuff
+		get cut off at the bottom because of different
+		fonts.
+07/04/98
+	Second Release, officially titled version 2.0.
+	o	GL gibbed heads fixed (new h_player.mdl).
+	o	Dead bodies in GL take on proper colors.
+	o	Map support almost 200.
+	o	sv_aim supports team counts seperately.
+	o	Bots+LightningGun+Water bug fixed.
+	o	Norse Movement flag added to teamplay var.
+	o	Defensive Waypoints on some maps.
+	o	Released without "ctfbot+" directory structure,
+		instead "ctfbotp" will be used.  This fixes the
+		problem with DOS quake.exe which wasn't
+		recognizing the '+'.
+	o	Some alternate id map waypoints and .ent files
+		support.  I highly recommend alt_dm6 and
+		alt_e1m2.
+	o	Crosshair changed to be similar to QW's
+		"crosshair 2".
+	o	Waypoints for dozens of previously supported
+		maps fixed or redone completely.
+	o	Fraglimit as Capturelimit option works.
+	o	Best Weapon(ala QW) added.
+	o	Fixed observer-mode while holding flag bug.
+	o	Lightning Gun-Half Damage option added.
+	o	Fixed the crash problem at the end of a level
+		when a lot of bots are in.  Lot of bots to me is
+		about 20 or more.  It would also crash any other
+		time that all player stats was printed.
+	o	Fixed several problems that dealt with the
+		Coordinator and Windows 95.  Mostly the
+		garbage showing up in the text boxes problem.
+		In NT this wasn't happening.
+	o	No longer uses batch file to launch Quake.
+		Batch file can still be built through menu.
+	o	Fixed some compile errors caused by the CTFEP
+		waypoints.
+	o	Fixed "sprint to nonclient" warning.  It was
+		trying to tell the bots that they'd picked up a
+		backup.
+	o	Observer Mode now uses MOVETYPE_NOCLIP.  You can
+		move through walls and stuff.
+	o	Countdown on timelimit.  At 2 minutes, 1 minute,
+		and 10 seconds til, a message is broadcast
+		stating the score and time left.
+	o	You no longer get a point for telefragging a
+		teammate.
+	o	Super Shotgun and Shotgun have a much smaller
+		spread and are much more accurate at longer
+		distances.
+	o	Default settings are much more fine tuned.
+	o	A new client .cfg file is produced by Coordinator.
+		It contains player specific info such as default
+		status bar, player's Best Weapon, etc.  The file
+		is automatically executed during the MOTD.
+	o	Fixed "TossFlag"/flag-icon bug.
+	o	Fixed RemoveBlueBot bug, it was removing red bots.
+	o	Redid the bots on the scoreboard stuff with a
+		newer(July 97) version from Kivlin.  This fixes
+		several problems with adding and removing bots
+		and humans connecting after bots have been added.
+		This also fixes the dedicated server crash.
+	o	New Names.  All 200 possible names are new.
+	o	Status Bar fixed for non 200H resolutions.
+	o	Released with default progs.dat and .cfg files
+		for non Win95/NT users. The progs.dat supports
+		the following maps:
+			ctf1-8, ctf2m1-8, ctf3m1-9, ctf_pand,
+			tonyctf3, alt_dm6, alt_e1m2, dm3, e1m8,
+			xeno2, expctf1, expctf2, jota, tyrants.
+	o	Removed files :
+		admin.qc
+		spotlite.qc
+		botcam.qc
+		dtf.qc
+		radio.qc
+		holo.qc
+		explore.qc
+		camera.qc
+06/30/98
+	Closed upgrade(2.0beta)
+06/06/98
+	First upgrade, no version number besides date.
+	o	GL is supported
+	o	LoC support
+	o	Fixed several DM flag bugs
+	o	sv_aim configurable with Coordinator
+	o	"write .cfg" and "write .bat" added to menu
+06/02/98
+	Original Release, no version number, unofficially
+	titled version 1.0.
+============================================================

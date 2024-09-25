@@ -1,0 +1,149 @@
+============================================================
+CTFBot+ MultiWeapon Support
+============================================================
+
+============================================================
+CONTACT
+============================================================
+Anthony (*this) Distler
+adistler@ace.cs.ohiou.edu
+www.captured.com/ctfbot/
+============================================================
+
+============================================================
+DESCRIPTION
+============================================================
+MultiWeapon support for the CTFBot+ modification.
+
+Allows players to see the weapons of other players and bots.
+============================================================
+
+============================================================
+INSTALLATION
+============================================================
+Unzip the pak3.pak file into your ctfbot+ directory.  If
+there is already a pak3.pak file existing, rename it or
+rename this one to a higher number such as pak4.pak.
+============================================================
+
+============================================================
+CREDITS
+============================================================
+Original MultiWeapon modification:
+	Wes Morrison
+	wesmorrison@juno.com
+CTFBot+ skins added by:
+	Anthony *this Distler
+	adistler@ace.cs.ohiou.edu
+============================================================
+
+
+
+
+
+
+
+
+============================================================
+ORIGINAL MultiWeapon README FILE CONTENTS
+============================================================
+
+
+Title    : MultiWeapon
+Filename : multiwep.zip
+Version  : Version 1, 12-June-1997
+Authors  : Wes Morrison
+Email    : wesmorrison@juno.com
+Credits  : id software
+           Harvey Lee for YCam source (http://www.home.aone.net.au/yevs/)
+
+
+Type of Mod
+-----------
+Quake C  : yes
+Sound    : no
+MDL      : yes  
+
+
+Format of QuakeC (if a Quake C Mod)
+-----------------------------------
+unified diff  : no
+context diff  : no
+.qc files     : yes
+progs.dat     : yes
+
+
+Description of the Modification
+-------------------------------
+
+MultiWeapon allows players to see each others weapons in deathmatch or
+cooperative play. Forget about the standard "blaster" you're used to seeing.
+With MultiWeapon, someone with a rocket launcher has a rocket launcher, and
+someone with a single shotgun has a single shotgun.
+
+
+Installation
+-----------
+
+To install, copy multiwep.zip to your Quake directory. From that directory,
+run the command "pkunzip -d multiwep" This will create a directory called
+"multiwep" and will place all necessary files there. (Obviously you need
+pkunzip first.) Then run Quake with the command "quake -game multiwep".
+
+This version includes a modified version of YCam by Harvey Lee (see credits).
+IMPULSE 15 toggles a chase camera. I have included this primarily so that you
+can see the effect without having to connect to a server running the patch.
+However, this patch also makes a nice addition to chase cameras like YCam because
+now you can see your own weapon even though the viewmodel is turned off.
+
+How I made this patch
+-----------------------
+
+The weapons are based on the g_*.mdl models. The new single shotgun model is
+based on the double shotgun. I removed a barrel, rearranged the parts, reshaped
+and rotated the "pump" object, and created a new section of skin. I have tried
+to mimic the look of v_shot.mdl from the player perspective.
+
+All the g_*.mdl weapon models used shirt and pant colors, so I used Paint Shop
+Pro to remedy this before I imported them into the player model. PSP lets you
+load and save palettes, so all I did was save a standard Quake palette file and
+one modified to have no "unsafe" colors. Then, I loaded the skin, loaded the
+"safe" palette, loaded the standard Quake palette, saved, and imported the new
+skin back into the model. Withought following this procedure, seemingly random
+pixels in the weapon take on the current shirt and pant colors.
+
+The g_*.mdl models were not designed with player.mdl in mind, so there are
+frames where the weapon may slightly intersect with the player. This should
+be barely noticable during normal gameplay, and is certainly no more objectionable
+than the contortions some of the standard id monster models go through.
+
+The source code is in a directory called QC under the MultiWep directory. I hope
+this patch will be integrated with other popular patches, as it really is an
+enhancement to existing Quake and not an augmentation with new weapons or items. It
+should be very easy to merge, as there are only a few places the original Quake
+files need to be changed.
+
+
+Copyright and Distribution Permissions
+--------------------------------------
+
+The modifications and new source files included in this archive are Copyright 1997,
+Wes Morrison, with the exception of YCam, Copyright Harvey Lee. The original QuakeC
+source is Copyright 1996, id software.
+
+Authors may use these modifications as a basis for other publicly or
+commercially available work, as long as I am given credit for MultiWeapon.
+
+You may distribute this Quake modification in any electronic format as long 
+as all the files in this archive remain intact and unmodified and are
+distributed together.
+
+You may not distribute this Quake patch for profit without contacting me first.
+
+
+Availability
+------------
+
+This modification is available from the following places:
+
+FTP   : ftp.cdrom.com in \pub\quake\quakec\weapons

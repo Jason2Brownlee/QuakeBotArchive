@@ -123,6 +123,7 @@ http://biscuitservers.net/files/mtffull.zip
 http://biscuitservers.net/files/mtflight.zip
 http://botarea51.impulse9.net/mirror/bot/elimpack.zip
 http://c4denn.chat.ru/filezz/frog2k.rar
+http://captured.com/ctfbot/ctfbotp-mac-081298.sit.hqx
 http://cmdclan.newmail.ru/tf.zip
 http://cocot.topcities.com/Bots_Quad_Hunt.zip
 http://darkskye.home.mindspring.com/quakeworld-20000102.tar.gz
@@ -200,6 +201,7 @@ http://home.t-online.de/home/0551705030/squirt10.zip
 http://home.t-online.de/home/blue.xevious/kok220.zip
 http://java.cms.livjm.ac.uk/quake/OmiEdit01.zip
 http://macquakeinfinity.com/downloads/mac_hwbot003b7final.sit.bin
+http://macspel.solgames.se/files/ctfbotp-mac-081298.sit.hqx
 http://mdqnet.net/cgi-bin/download.cgi?file=voidm120.zip&dir=dept187/void/
 http://medlem.spray.se/ratface1/qw/qwprogs.zip
 http://medlem.spray.se/~ratface1/qw/qwprogs5.zip
@@ -601,6 +603,8 @@ http://www.planetquake.com/botarea51/main/download.asp?name=elimpack.zip&referre
 http://www.planetquake.com/botarea51/main/download.asp?name=frogbot012.zip&referrer=main/qbots.asp
 http://www.planetquake.com/botarea51/main/download.asp?name=frogbot012.zip&referrer=qbots.asp
 http://www.planetquake.com/botarea51/main/download.asp?name=ud120.zip&referrer=main/qbot.asp?id=21
+http://www.planetquake.com/ctfbot/ctfbot+debug060298.zip
+http://www.planetquake.com/ctfbot/ctfbotp-mac.txt
 http://www.planetquake.com/requiem/files/bugfix1.zip
 http://www.planetquake.com/requiem/files/bugfix2.zip
 http://www.planetquake.com/requiem/files/req_qw.zip
