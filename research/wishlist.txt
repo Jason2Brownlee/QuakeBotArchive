@@ -1,19 +1,18 @@
 # Quake Bot Filename Wishlist
 
 # generic filenames (lots of false positives)
-2000.zip
-setup.exe
-setup.zip
-upgrade.zip
-omega.zip
-req.zip
-accuracy.zip
-bugfix1.zip
-bugfix2.zip
-bugfix3.zip
-motd.zip
-doombot.txt
-demon.zip
+# 2000.zip
+# setup.exe
+# setup.zip
+# upgrade.zip
+# omega.zip
+# req.zip
+# accuracy.zip
+# bugfix1.zip
+# bugfix2.zip
+# bugfix3.zip
+# motd.zip
+# demon.zip
 
 # normal zip files (for most, we have evidence they exist)
 abandon1.zip
@@ -496,6 +495,7 @@ bplayer1.txt
 btsk10.txt
 btsk21.txt
 btsk22.txt
+ctfbotp-mac.txt
 cujo12b.txt
 cujo12c.txt
 dmbt20b1.txt
@@ -507,6 +507,7 @@ dogfun14.txt
 dogfun17.txt
 dogfun18.txt
 dogfun19.txt
+doombot.txt
 drkbt013.txt
 elim13.txt
 elim20b6.txt
@@ -565,6 +566,7 @@ proj1_15.txt
 proj1_92.txt
 proj1_93.txt
 proj1_99.txt
+proj1_v1_final.txt
 qcbot001.txt
 qcbot002.txt
 rbot.txt
@@ -635,8 +637,6 @@ zeus204.txt
 zeus2041.txt
 zeus2042.txt
 zeus20b.txt
-proj1_v1_final.txt
-ctfbotp-mac.txt
 
 # other
 mac_hwbot003b7final.sit.bin
@@ -653,12 +653,6 @@ frogffa.zip
 gem_dm6.zip
 frog_re2.zip
 OmiEdit01.zip
-
-# I think these are bots
-smallbots.zip
-chaosad.zip
-frank.zip
-empire.zip
 
 # client side bots
 boognaut.zip
