@@ -1,29 +1,21 @@
 # Quake Bot Filename Wishlist
 
-#
 # generic filenames (lots of false positives)
-#
-# 2000.zip
-# setup.exe
-# setup.zip
-# upgrade.zip
-# omega.zip
-# req.zip
-# accuracy.zip
-# bugfix1.zip
-# bugfix2.zip
-# bugfix3.zip
-# motd.zip
-# doombot.txt
-# demon.zip
+2000.zip
+setup.exe
+setup.zip
+upgrade.zip
+omega.zip
+req.zip
+accuracy.zip
+bugfix1.zip
+bugfix2.zip
+bugfix3.zip
+motd.zip
+doombot.txt
+demon.zip
 
-
-#
-# normal zip files
-#
-
-
-# files we know/expect to exist
+# normal zip files (for most, we have evidence they exist)
 abandon1.zip
 bandem.zip
 bgadmbot.zip
@@ -488,167 +480,166 @@ zeus20b.zip
 zeusbot.zip
 
 # txt files we expect to exist (based on zip files that exist)
-# abandon1.txt
-# bgadmbot.txt
-# botmove.txt
-# botskn10.txt
-# botskn12.txt
-# botskn13.txt
-# botskn14.txt
-# botskn15.txt
-# botskn16.txt
-# botskn17.txt
-# botskn19.txt
-# botskn21.txt
-# bplayer1.txt
-# btsk10.txt
-# btsk21.txt
-# btsk22.txt
-# cujo12b.txt
-# cujo12c.txt
-# dmbt20b1.txt
-# dmbt20b2.txt
-# dmbt20b3.txt
-# dmbt21b1.txt
-# dmbt21b2.txt
-# dogfun14.txt
-# dogfun17.txt
-# dogfun18.txt
-# dogfun19.txt
-# drkbt013.txt
-# elim13.txt
-# elim20b6.txt
-# elimsrc.txt
-# estepbot2.txt
-# fbph.txt
-# fixedsrc.txt
-# frog_src.txt
-# frogbot000.txt
-# frogbot003.txt
-# frogbot005.txt
-# frogbot007.txt
-# frogbot011.txt
-# frogbot011b.txt
-# frogbot012a.txt
-# frogbot012b.txt
-# frogbot012c.txt
-# frogbot013.txt
-# frogfix1.txt
-# grdbot13.txt
-# guardbot.txt
-# iwbot15.txt
-# iwbot16.txt
-# iwbot20.txt
-# killer80.txt
-# killer85.txt
-# killer86.txt
-# killer86b.txt
-# killer87.txt
-# knbot01.txt
-# knbot02.txt
-# kqcbotsource.txt
-# madness10.txt
-# madness20.txt
-# madness31.txt
-# madness32.txt
-# madness33.txt
-# madness34.txt
-# madness35.txt
-# maniac53.txt
-# maniac54.txt
-# maniac56.txt
-# maniacbt12.txt
-# proj1_01.txt
-# proj1_02.txt
-# proj1_04.txt
-# proj1_06.txt
-# proj1_07.txt
-# proj1_08.txt
-# proj1_09.txt
-# proj1_10.txt
-# proj1_11.txt
-# proj1_12.txt
-# proj1_14.txt
-# proj1_15.txt
-# proj1_92.txt
-# proj1_93.txt
-# proj1_99.txt
-# qcbot001.txt
-# qcbot002.txt
-# rbot.txt
-# req.txt
-# req105c.txt
-# sbotstuf.txt
-# swbot1.txt
-# swbot101.txt
-# swbot102.txt
-# swbot103.txt
-# tballman097.txt
-# tfb-v071.txt
-# tfb-v072.txt
-# tfb-v073.txt
-# tfb-v074.txt
-# tfb-v075.txt
-# tfb-v076.txt
-# udm12-15b.txt
-# udm15-15b.txt
-# udmsrc.txt
-# urqp104.txt
-# urqp106.txt
-# urqp106a.txt
-# var10.txt
-# var11.txt
-# var12.txt
-# var13.txt
-# var15.txt
-# var16.txt
-# var17.txt
-# var20.txt
-# var21.txt
-# var22.txt
-# var24.txt
-# var25.txt
-# voidm100.txt
-# voidm101.txt
-# voidm102.txt
-# voidm103.txt
-# voidm104.txt
-# voidm105.txt
-# voidm106.txt
-# voidm107.txt
-# voidm108.txt
-# voidm111.txt
-# voidm112.txt
-# voidm113.txt
-# voidm114.txt
-# voidm115.txt
-# voidm116.txt
-# voidm117.txt
-# voidm118.txt
-# voidm119.txt
-# voidm120.txt
-# voidm121.txt
-# voidm122.txt
-# voidm123.txt
-# voidm124.txt
-# voidm125.txt
-# voidm126.txt
-# voidm127.txt
-# wyrmb1.txt
-# wyrmb11.txt
-# zeus20.txt
-# zeus201.txt
-# zeus201b.txt
-# zeus204.txt
-# zeus2041.txt
-# zeus2042.txt
-# zeus20b.txt
-# proj1_v1_final.txt
+abandon1.txt
+bgadmbot.txt
+botmove.txt
+botskn10.txt
+botskn12.txt
+botskn13.txt
+botskn14.txt
+botskn15.txt
+botskn16.txt
+botskn17.txt
+botskn19.txt
+botskn21.txt
+bplayer1.txt
+btsk10.txt
+btsk21.txt
+btsk22.txt
+cujo12b.txt
+cujo12c.txt
+dmbt20b1.txt
+dmbt20b2.txt
+dmbt20b3.txt
+dmbt21b1.txt
+dmbt21b2.txt
+dogfun14.txt
+dogfun17.txt
+dogfun18.txt
+dogfun19.txt
+drkbt013.txt
+elim13.txt
+elim20b6.txt
+elimsrc.txt
+estepbot2.txt
+fbph.txt
+fixedsrc.txt
+frog_src.txt
+frogbot000.txt
+frogbot003.txt
+frogbot005.txt
+frogbot007.txt
+frogbot011.txt
+frogbot011b.txt
+frogbot012a.txt
+frogbot012b.txt
+frogbot012c.txt
+frogbot013.txt
+frogfix1.txt
+grdbot13.txt
+guardbot.txt
+iwbot15.txt
+iwbot16.txt
+iwbot20.txt
+killer80.txt
+killer85.txt
+killer86.txt
+killer86b.txt
+killer87.txt
+knbot01.txt
+knbot02.txt
+kqcbotsource.txt
+madness10.txt
+madness20.txt
+madness31.txt
+madness32.txt
+madness33.txt
+madness34.txt
+madness35.txt
+maniac53.txt
+maniac54.txt
+maniac56.txt
+maniacbt12.txt
+proj1_01.txt
+proj1_02.txt
+proj1_04.txt
+proj1_06.txt
+proj1_07.txt
+proj1_08.txt
+proj1_09.txt
+proj1_10.txt
+proj1_11.txt
+proj1_12.txt
+proj1_14.txt
+proj1_15.txt
+proj1_92.txt
+proj1_93.txt
+proj1_99.txt
+qcbot001.txt
+qcbot002.txt
+rbot.txt
+req.txt
+req105c.txt
+sbotstuf.txt
+swbot1.txt
+swbot101.txt
+swbot102.txt
+swbot103.txt
+tballman097.txt
+tfb-v071.txt
+tfb-v072.txt
+tfb-v073.txt
+tfb-v074.txt
+tfb-v075.txt
+tfb-v076.txt
+udm12-15b.txt
+udm15-15b.txt
+udmsrc.txt
+urqp104.txt
+urqp106.txt
+urqp106a.txt
+var10.txt
+var11.txt
+var12.txt
+var13.txt
+var15.txt
+var16.txt
+var17.txt
+var20.txt
+var21.txt
+var22.txt
+var24.txt
+var25.txt
+voidm100.txt
+voidm101.txt
+voidm102.txt
+voidm103.txt
+voidm104.txt
+voidm105.txt
+voidm106.txt
+voidm107.txt
+voidm108.txt
+voidm111.txt
+voidm112.txt
+voidm113.txt
+voidm114.txt
+voidm115.txt
+voidm116.txt
+voidm117.txt
+voidm118.txt
+voidm119.txt
+voidm120.txt
+voidm121.txt
+voidm122.txt
+voidm123.txt
+voidm124.txt
+voidm125.txt
+voidm126.txt
+voidm127.txt
+wyrmb1.txt
+wyrmb11.txt
+zeus20.txt
+zeus201.txt
+zeus201b.txt
+zeus204.txt
+zeus2041.txt
+zeus2042.txt
+zeus20b.txt
+proj1_v1_final.txt
 ctfbotp-mac.txt
 
 # other
 mac_hwbot003b7final.sit.bin
-
 
 # frogbot stuff (demos, etc)
 ptbots.zip
@@ -665,9 +656,9 @@ OmiEdit01.zip
 
 # I think these are bots
 smallbots.zip
-# chaosad.zip
-# frank.zip
-# empire.zip
+chaosad.zip
+frank.zip
+empire.zip
 
 # client side bots
 boognaut.zip
