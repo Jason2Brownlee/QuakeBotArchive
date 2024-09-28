@@ -133,6 +133,7 @@ ftp://ftp3.action.updates.cx/pub/mirrors/telefragged/metro/frogbot012.zip
 ftp://ftp3.action.updates.cx/pub/mirrors/telefragged/qnm/fbedit15.zip
 ftp://macquakeinfinity.com/numb/holywars/downloads/hw_frogbot.zip
 ftp://mirrors.xmission.com/planetquake/holywars/hwqwbotv101c.zip
+ftp://numb.macquakeinfinity.com/numb/ctf/fbctf003.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf004.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf006.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf009.zip
