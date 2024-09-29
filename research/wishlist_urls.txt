@@ -180,7 +180,6 @@ http://asp.planetquake.com/dl/dl.asp?requiem/reqqwsrc.zip
 http://aswp.tzo.net/maleficus/setup.zip
 http://biscuitservers.net/files/mtffull.zip
 http://biscuitservers.net/files/mtflight.zip
-http://botarea51.impulse9.net/mirror/bot/elimpack.zip
 http://c4denn.chat.ru/filezz/frog2k.rar
 http://captured.com/ctfbot/ctfbotp-mac-081298.sit.hqx
 http://captured.com/ctfbot/ctfbotp-mac.txt
@@ -603,8 +602,6 @@ http://www.dmsoul.newmail.ru/bm116src.zip
 http://www.dmsoul.newmail.ru/changes.txt
 http://www.dobbsnet.btinternet.co.uk/downloads/quake/dobbsbot15b.zip
 http://www.egoshooters.com/qip/files/urqp102.zip
-http://www.fileplanet.com/dl.aspx?/planetquake/botarea51/bot/elimpack.zip
-http://www.fileplanet.com/dl/dl.asp?/planetquake/botarea51/bot/elimpack.zip
 http://www.fileplanet.com/dl/dl.asp?/planetquake/botarea51/bot/progdet.zip
 http://www.fileplanet.com/dl/dl.asp?/planetquake/botarea51/bot/ud120.zip
 http://www.fileplanet.com/dl/dl.asp?/planetquake/botarea51/bot/ud140.zip
@@ -679,7 +676,6 @@ http://www.parboil.quakeworld.ru/tappak/fbca102pre_beta.zip
 http://www.parboil.quakeworld.ru/tappak/src102.zip
 http://www.parboil.quakeworld.ru/tempfb/fbca102rc2.zip
 http://www.pixelshower.com/Vault/game/prodigy35b1.zip
-http://www.planetquake.com/botarea51/main/download.asp?name=elimpack.zip&referrer=main/qbot.asp?id=30
 http://www.planetquake.com/botarea51/main/download.asp?name=frogbot012.zip&referrer=main/qbots.asp
 http://www.planetquake.com/botarea51/main/download.asp?name=frogbot012.zip&referrer=qbots.asp
 http://www.planetquake.com/botarea51/main/download.asp?name=ud120.zip&referrer=main/qbot.asp?id=21
