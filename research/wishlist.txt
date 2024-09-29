@@ -252,8 +252,6 @@ matchcount.zip
 miscban.zip
 monsterfbxid1waysv2.zip
 mpak1v12.zip
-mtffull.zip
-mtflight.zip
 mybot14.zip
 mymod7.zip
 nnctf.zip

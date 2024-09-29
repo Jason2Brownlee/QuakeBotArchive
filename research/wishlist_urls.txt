@@ -178,8 +178,6 @@ http://asp.planetquake.com/dl/dl.asp?/holywars/hwqwbotv101c.sit
 http://asp.planetquake.com/dl/dl.asp?/holywars/quake/hw_frogbot14f.zip
 http://asp.planetquake.com/dl/dl.asp?requiem/reqqwsrc.zip
 http://aswp.tzo.net/maleficus/setup.zip
-http://biscuitservers.net/files/mtffull.zip
-http://biscuitservers.net/files/mtflight.zip
 http://c4denn.chat.ru/filezz/frog2k.rar
 http://captured.com/ctfbot/ctfbotp-mac-081298.sit.hqx
 http://captured.com/ctfbot/ctfbotp-mac.txt
