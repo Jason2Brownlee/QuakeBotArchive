@@ -249,7 +249,7 @@ Tutor Bot + Rocket Arena | Connor Caple aka "RiEvEr" | [qrabot002.zip](bin/qrabo
 Tutor Bot | Darryl Atchison aka "coffee" | [tutor.zip](bin/tutor.zip)
 ufrog (Frogbot 2000) | "Slayer" | ufrog.zip<br>ufrog_player_model.zip
 Ultimate Deathmatch (Frikbot) | Alex Shadowalker | [ud300.zip](bin/ud300.zip)<br>[ud203.zip](bin/ud203.zip)<br>[ud202.zip](bin/ud202.zip)<br>ud201.zip<br>[ud200.zip](bin/ud200.zip)<br>[ud190.zip](bin/ud190.zip)<br>[ud180.zip](bin/ud180.zip)<br>ud170.zip<br>ud160.zip<br>ud150.zip<br>ud140.zip<br>ud130.zip<br>ud120.zip<br>ultdet110.zip<br>progdet.zip
-Ultimate Devastation (Reaper) | Malcolm Lim | udm15b.zip ([txt](bin/udm15b.txt))<br>udm15-15b.zip<br>udm12-15b.zip<br>[udmsrc.zip](bin/udmsrc.zip)
+Ultimate Devastation (Reaper) | Malcolm Lim | [udm15b.zip](bin/udm15b.zip) ([txt](bin/udm15b.txt))<br>udm15-15b.zip<br>udm12-15b.zip<br>[udmsrc.zip](bin/udmsrc.zip)
 Ultimate Regular Quake Patch (URQP) (Frikbot) | Matthias Buecher aka "Maddes" | [urqp106a.zip](bin/urqp106a.zip)<br>[urqp106.zip](bin/urqp106.zip)<br>[urqp105.zip](bin/urqp105.zip) ([txt](bin/urqp105.txt))<br>urqp105beta.zip ([txt](bin/urqp105beta.txt))<br>[urqp104a.zip](bin/urqp104a.zip) ([txt](bin/urqp104a.txt))<br>urqp104.zip<br>urqp103.zip ([txt](bin/urqp103.txt))<br>urqp102.zip ([txt](bin/urqp102.txt))<br>urqp101.zip ([txt](bin/urqp101.txt))<br>urqp10.zip ([txt](bin/urqp10.txt))
 Ultimate Weapons Mod (Zeus) | Andy Brennan | [ultimate.zip](bin/ultimate.zip) ([txt](bin/ultimate.txt))
 UnknownBot | Brian L. | [ubot14.zip](bin/ubot14.zip)

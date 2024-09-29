@@ -266,7 +266,6 @@ http://macspel.solgames.se/files/ctfbotp-mac-081298.sit.hqx
 http://mdqnet.net/cgi-bin/download.cgi?file=voidm120.zip&dir=dept187/void/
 http://medlem.spray.se/ratface1/qw/qwprogs.zip
 http://medlem.spray.se/~ratface1/qw/qwprogs5.zip
-http://members.cox.net/geffrey/udm15b.zip
 http://members.multimania.nl/nqeu/files/bots/holyfbotmod11.exe
 http://members.nbci.com/nnctf.zip
 http://members.nbci.com/nnsource.zip
@@ -472,8 +471,6 @@ http://tux.telefragged.com/file.pl?filename=udm12-15b.zip&dir=telefragged/be/udm
 http://tux.telefragged.com/file.pl?filename=udm12-15b.zip&dir=telefragged/be/udm/
 http://tux.telefragged.com/file.pl?filename=udm15-15b.zip&dir=telefragged/be/udm
 http://tux.telefragged.com/file.pl?filename=udm15-15b.zip&dir=telefragged/be/udm/
-http://tux.telefragged.com/file.pl?filename=udm15b.zip&dir=telefragged/be/udm
-http://tux.telefragged.com/file.pl?filename=udm15b.zip&dir=telefragged/be/udm/
 http://tux.telefragged.com/file.pl?filename=vicinity/vicinitymodels.zip&dir=telefragged/be/fmods
 http://tux.telefragged.com/file.pl?filename=vicinity/vicinitymodels.zip&dir=telefragged/be/fmods/
 http://tux.telefragged.com/file.pl?filename=vicinity/vicinityqwprogs.zip&dir=telefragged/be/fmods/

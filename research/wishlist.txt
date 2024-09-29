@@ -377,7 +377,6 @@ ud170.zip
 ud201.zip
 udm12-15b.zip
 udm15-15b.zip
-udm15b.zip
 ufrog.zip
 ufrog_player_model.zip
 ultdet110.zip
