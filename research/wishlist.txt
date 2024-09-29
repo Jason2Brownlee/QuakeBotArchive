@@ -313,6 +313,7 @@ rbot.zip
 reaper08.sit.hqx
 req105c.zip
 req106a.zip
+req107b.zip
 req_qw.zip
 reqqw104.zip
 reqqw20i.zip
@@ -572,6 +573,8 @@ qcbot002.txt
 rbot.txt
 req.txt
 req105c.txt
+req106a.txt
+req107d.txt
 sbotstuf.txt
 swbot1.txt
 swbot101.txt
