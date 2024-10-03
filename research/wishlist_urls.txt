@@ -167,6 +167,7 @@ ftp://sunsite.doc.ic.ac.uk/packages/idgames2/planetquake/holywars/hwqwbotv101c.z
 ftp://sunsite.doc.ic.ac.uk/packages/idgames2/quakec/bots/darkbt4.zip
 ftp://sunsite.doc.ic.ac.uk/packages/idgames2/quakec/bots/rbot.zip
 ftp://www.clan-rum.org/quake/bots/src_fbca099.zip
+ftp://www.quake.orc.ru/quake/utils//frogbot012.zip
 http://203.32.12.18/project/placebot.zip
 http://204.50.28.112/qexpo/upload/61/waypack1.zip
 http://abone.turk.net/bear/frogbot012.zip
@@ -696,6 +697,7 @@ http://www.quake.crimea.ua/files/quake/bots/fbca095kt.zip
 http://www.quake.crimea.ua/files/quake/bots/fbca096kt.zip
 http://www.quake.crimea.ua/files/quake/bots/fbca097kt.zip
 http://www.quake.kiev.ua/spirit/demos/q1/spvsfrog.zip
+http://www.quake.orc.ru/ftp/utils/frogbot012.zip
 http://www.quakebot.net/glkolor.zip
 http://www.quakebot.net/glqb17f.zip
 http://www.quakebot.net/qb17f.zip
