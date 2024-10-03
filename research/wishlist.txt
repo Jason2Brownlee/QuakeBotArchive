@@ -49,7 +49,6 @@ clanv0.7eman.zip
 clanv0.7hman.zip
 combination.zip
 ctfbot+debug060298.zip
-ctfbotmw.zip
 ctfbotp-mac-081298.sit.hqx
 cujo12a.zip
 cujo12b.zip
