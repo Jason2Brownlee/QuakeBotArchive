@@ -632,7 +632,6 @@ zeus201.txt
 zeus201b.txt
 zeus204.txt
 zeus2041.txt
-zeus2042.txt
 zeus20b.txt
 
 # other

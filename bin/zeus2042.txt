@@ -1,0 +1,612 @@
+=========================
+Title    : ZEUSbot 2.042
+=========================
+
+Filename : ZEUS2042.ZIP
+Version  : 2.042
+Date     : 1/9/7
+Author   : Jonathan E. Wright aka Nelno the Amoeba
+Email    : nelno@resurrection.com
+
+Quake DM
+Name     : Mandragoran
+
+Home Page: http://trailerpark.com/phase1/nelno
+           Check here for the latest updates to all my Quake mods:
+           Zeus, Cujo, plasma gun, BFG, blaze gun and more.
+           If you didn't get this mod from my site, it's likely
+           that you don't have the latest version.
+
+           Go to the official Zeus bot page at Quake C HeadQuarters at:
+           http://www.qchq.com/zeus
+
+Credits  : ID Software for designing Quake with Quake C!
+
+           Otherwise, this bot was built from scratch.
+
+Special
+Thanks   :  Gary McMillin, "JumpA" <psyche@hitech.net.au> for
+              all the excellent testing and bug reporting he's
+              done for Zeus since version 2.03.
+            Jeff Blaine, jblaine@shore.net for catching all the
+              easily missable bugs in 2.041.  Great work, Jeff!
+            Yowza the All-Knowing for the billions of suggestions
+              he's given me (usually reminding me of the nose on
+              my face).
+            Everyone who's sent me mail with suggestions, praises,
+              complaints and ummm... well, that's all.
+
+
+============
+Type of Mod
+============
+
+Quake C  : yes
+Sound    : yes
+MDL      : yes
+
+
+==================
+Format of Quake C
+==================
+
+unified diff  : no (I don't even know what this means)
+context diff  : no (this either)
+.qc files     : no (not for the moment)
+progs.dat     : yes
+
+
+================================
+Description of the Modification
+================================
+
+This is a *MAJOR* update to the original ZEUSbot.  The old code, based
+on the TMBot, was *completely* done away with.  The ultimate goal is to
+provide an intelligent deathmatch opponent\helper bot.  Eventually, the
+source WILL BE RELEASED, but until then, you'll have to get your tidbits
+from version 1.4 of Cujo.
+
+The ZEUSbot is both a helper bot and a deathmatch bot.  In single play
+he will effectively annihilate just about anything that get's in his way,
+and you'll be lucky if you can pick anything up before he does.
+
+The ZEUSbot's death match capabilities are currently under development, but
+it's still probably the most intelligent bot available, excepting Steven
+Polge's excellent Reaper bot.  Please see the list of future enhancements
+for an idea of features that will be added to the ZEUSbot.
+
+=================
+Zeusbot Features
+=================
+
+Besides being _at least_ as smart as any of the standard Quake enemies, the
+ZEUSbot also has a few enhancements:
+
+. can pick up any item a player can pick up.
+. knows how to jump intelligently across obstacles, down from ledges and
+  into water.
+. can fire all of the standard weapons, plus the plasma gun (included in
+  this mod).
+. knows when an object is unreachable, and will not keep trying for an
+  unreachable object.
+. based on the player model -- uses all player frames.
+. multiskin support for up to 16 skins.
+. can swim -- follows and attacks under water.
+. can jump out of water onto ledges.
+. can navigate broken ground as easily as a human client.
+. strafes and circle strafes while attacking.
+. chooses its best weapon based on available weapons/distance.
+. can use platforms, open secrets, shoot switches and push buttons.
+. Has *totally new* movement code which makes it the smoothest and fastest
+  bot ever made --   just as smooth as a player character, no jumpiness
+  or blitting.
+. can roam levels by itself, or follow the player.
+. Advances or retreats based on distance from target.
+. has all the off-color and corny comments expected from Zeus 1.0, which
+  can be enabled/disabled with an impulse.
+. can spawn up to 15 opponent and helper bots.
+. opponent bots respawn when in deathmatch.
+. can be told to attack with only an axe (and he's mighty dangerous with it,
+  too).
+. can be told to stay or follow, glow, attack or not, teleport to owner,
+  and report on his status.
+. view toggle between bot's and player's view.
+. opponent bots get their own unique name in a deathmatch.
+. will not fire when owner or teamate is in between bot and enemy.
+. helper bot automatically respawns after each level if he was active
+  when the last level ended.  He retains all his weapons, ammo, health
+  and armor.
+. bot leads target based on skill level.
+. bot has a chance to miss with shotguns based on skill level.
+. bot's cannot see invisible players until fired upon.
+. if teamplay is set, opponent bot's will all be on the same team,
+  verses the player.
+. has a Holographic Heads Up Display system.
+. is generally a badass.
+
+I'm sure I've left a number of things out...
+But you should get the picture -- this bot ain't no wuss.
+
+
+====================
+Future Enhancements
+====================
+
+These are just a few of the features currently being added to the ZEUSbot:
+
+. still need to do a head model for the bot.  Just haven't gotten around
+  to it.
+. dynamic level mapping.
+. just about anything else that makes the bot better.
+
+PLEASE EMAIL ME WITH SUGGESTIONS FOR IMPROVEMENT!
+
+
+=====================================
+How to use the Zeus bot Modification
+=====================================
+
+Helper bot commands:
+--------------------
+Impulse 100  Activates a helper bot
+
+Impulse 101  Deactivates the last activated helper bot
+
+Impulse 102  Teleports the bot to your current location as long as there is
+             room.
+
+Impulse 103  Toggles the bot's glow on and off.
+
+Impulse 104  Reports the bot's status.
+
+Impulse 105  Toggles bot attack mode on and off.
+
+Impulse 106  Toggles between player's and bot's view.
+
+Impulse 107  Toggles the bot's stay status.  When staying, the bot will remain
+             where he is until an enemy is sighted or he is told to follow
+             again.
+
+Impulse 108  Tell the last created bot to use only his axe as a weapon (this
+             is very entertaining, and they happen to be pretty good with it).
+
+Impulse 109  Toggle Zeus comments on and off.  This also toggles enforcer
+             sounds on and off.
+
+Impulse 110  Toggle bot roaming on and off.
+
+Impulse 111  Make bot throw backpak (useful if the bot has been picking
+             everything up before you can).  The bot will throw the back
+             pack to you.  If you are too far away, the bot will pick
+             the backpack back up (unless he is staying).
+
+Impulse 112  Toggle holographic HUD display on and off.  Default is on
+             for single-play games and disabled for deathmatch games.
+
+
+Debugging Commands:
+-------------------
+
+Impulse 125  Toggle bot verbose mode on and off.  Turn it on if you want to
+             know what the bots are doing and "thinking".
+
+Impulse 126  Kill all monsters on current map. (Gib's some, and may cause an
+             "no free edicts" error with low memory).
+
+Impulse 127  Toggle player damage.  This is a better cheat than god mode since
+             the player does not experience any impact from weapons or twitch
+             when hurt.  If you use this in deathmatch while playing with
+             another human you are a low-life and you'd better stop -- this
+             won't be here in future versions.
+
+Impulse 128  Debug toggle.  Allows printing of some specific messages.
+
+Impulse 129  Show unreachable items.  For debugging use.
+
+Impulse 130  Show opponent distance toggle.  When on, the distance to the
+             last-created opponent bot will be displayed.
+
+Impulse 131  Toggle observer mode.  Currently, you can still fire in observer
+             mode, but it's only for debugging purposes right now.
+
+
+Deathmatch Bot Impulses:
+------------------------
+
+Impulse 150  Spawn an opponent ZEUSbot.
+
+Impulse 151  Show scores -- shows all player and bot frags (including
+             helper bots).  Currently not sorted and not space padded,
+             but that will change at some point.
+
+Impulse 152  Spawn 4 bots, at skills 0, 1, 2 and 3, using skins 1, 2, 3
+             and 4.
+
+
+Multiskin Impulses:
+-------------------
+
+Impulse 200  Previous skin.
+Impulse 201  Next skin.
+impulse 202  Multiskin on/off.
+
+Bind these impulses to keys to make commanding the bot easy.  For example,
+to make the Q key activate the bot bring down the Quake console by pressing
+the ~ key and then type:
+
+BIND Q "IMPULSE 100"
+
+Now, every time you press Q the bot will be toggled between his active and
+inactive state.  You can bind the other impulses in the same manner.  When
+you exit Quake, the configuration will be saved and you won'y have to do it
+again.
+
+
+Setting Bot Skill Levels:
+-------------------------
+
+To set the skill level of the next opponent bot to be spawned,
+pull down the Quake console with the ` key and type SKILL X,
+where X can be a value from 0 to 3.  The default skill is 1.
+
+
+Setting Bot Skins:
+------------------
+
+Deathmatch Bots With Multiskin ON:
+When a bot is spawned, it will use the skin the spawner
+is currently using.  After that, the bot will use that
+skin until it is deactivated (for helper bots) or the game
+is ended.
+
+Deathmatch Bots With Multiskin OFF:
+Each bot will choose a particular skin.  For instance, Lord
+Brutish will always choose skin 7.  With the default player.mdl
+file, however, all bots will be skin 0, except for bot's named
+"Zeus" who will be the Zeus bot skin.  This is because the default
+player.mdl has only skins 0 and 1.
+
+Using Multiskin OFF with a 16 skin player.mdl will allow you to
+recognize certain bots by their skins each time you play against
+them.  I recommend getting the Reaper skins file that has 15
+skins with different colors that look like real players.  This
+may enhance the feeling of being in a deathmatch against humans.
+I regret I couldn't make the bots change colors like players, but
+that is sadly based on Quake's client/server protocol and will
+only work with clients.
+
+Multiskin and Helper Bots:
+Multiskin ON or OFF has no effect on helper bots, they will
+always use the skin of the player who spawned them. There
+is one exception, however.  Helper bots will default to skin
+1 (the Zeus skin) if the player is using the default player
+skin (skin 0).  If the player is using skin 1, the helper
+Zeus will use skin 0.  Otherwise, the bot will use the same
+skin as the player when it is spawned.
+
+
+Using the ZeusBot Camera:
+-------------------------
+
+The ZeusBot Camera gives you a helper bot's view of the action.
+You can use the camera in either deathmatch or single play.
+IMPULSE 106 will switch you to the view of the last helper bot
+that you spawned.  There is currently no way to see the view
+from any other bot.
+
+You can use IMPULSE 106 to switch back and forth between your
+view and the bot's view, in single play you will automatically
+be switched to your view after the bot dies. In deathmatch, you
+will remain in the bot's view while it respawns.
+
+DeathCam:
+If the bot dies while you are seeing from its viewpoint, you will
+be treated to the Zeusbot DeathCam.  The camera will move quickly
+away from the bot as it dies, spinning around it in circles. This
+is usually quite cool to watch, especially when your bot is gibbed.
+
+Using the Holographic HUD:
+--------------------------
+
+The Holographic HUD (Heads Up Display) is automatically enabled
+in single player and co-op games.  As long as you do not have
+a Zeus bot helper, the HUD bars will display your own status.
+Once you spawn a bot, the HUD will track the bot's status.  If
+your bot dies, the status bar will show your status again.
+
+The red status bar represents health and the yellow status bar
+represents armor.  The yellow status bar is always based on the
+max for the type of armor being used.  If the bot has 150 yellow
+armor, then the bar will be all the way to the top.  Likewise,
+if your bot has 200 red armor, the bar will also be all the way
+to the top.
+
+You can turn the H-HUD on and off with IMPULSE 112.
+
+Since the HUD actually projects "holograms" in front of the
+player displaying status and targeting info, other clients
+can see the HUD in a co-op game.  There is also only one HUD
+per server, so the last person to activate the HUD in multiplay
+would be the only one able to use it, though the other players
+could see bot targetting info and the armor/health status
+floating in front of that player. If you get too close to a
+wall or object, your HUD will be projected beyond the wall,
+and you will be unable to see it.
+
+
+Playing Teams in Deathmatch:
+----------------------------
+
+To play against a team of Zeus bots, simply set teamplay to on when
+you start your multiplayer game.  All opponent bots you spawn during
+that game will team against you.
+
+If you would like to have bots on your own team, you can spawn a
+helper bot with IMPULSE 100.  This is great, but now the bot will
+just follow you around as a helper.  To make the bot play on his
+own, use IMPULSE 110 to turn on his roaming mode.  Now he will no
+longer follow you.  Repeat these steps for each team member you
+want to create.
+
+You will always be able to command the last bot helper bot you
+create.  When you remove the last one, you will be able to command
+the bot that was created before it was.
+
+
+================================
+How to Install the Modification
+================================
+
+READ THIS SECTION IF YOU ARE HAVING TROUBLE, BEFORE EMAILING ME!
+If you still can't figure it out, please email me and try to be
+specific about at what point you are having trouble, and what
+error messages, if any, you are recieving.
+
+1) Create a directory within the Quake directory called ZEUS.
+
+2) Unzip the files from this archive into that directory, using the -d
+   option with PKUNZIP.  Winzip will create the correct directories
+   automatically.
+
+3) Start Quake by typing: QUAKE -GAME ZEUS
+
+4) Play with the god of the lightning bolt.
+
+
+==================
+Technical Details
+==================
+
+Code: 7400 lines
+Time: ~80 hours (getting up there)
+
+Known bugs and peculiarities:
+-----------------------------
+
+. bots can become confused if more than 3 unreachable items are
+  within view.  This is an arbitrary value and can be increased if
+  needed (at the cost of more memory, of course).
+
+PLEASE EMAIL ME WITH ANY BUGS YOU FIND.  When you email me, please try
+to be specific about the nature of the bug and under what circumstances
+it occurred.  If I cannot reproduce the bug, it is very unlikely that I
+will be able to fix it.
+
+
+====================
+Version Information
+====================
+
+Changes in version 2.042
+
+. bots are no longer solid right after dying and until respawning.
+. bots don't keep going after weapons they already have when deathmatch
+  is set to 2.
+. removed the debugging message that was popping up each time a bot died.
+  It said "Damnit!" and fit well with what the bot might be thinking if
+  it were capable of such.
+
+
+Changes in version 2.041
+
+. Fixed bot view.  It was the llamas again.
+
+Changes in version 2.04
+
+. NO MORE SPLASHING!
+. MAJOR changes to the roaming AI.  Bot is now a lot better
+  at getting out of rooms and finding new items.
+. Various bug fixes to the running frames, follow code, etc.,
+  that were causing dm bot's to stutter-step and look a bit
+  jerky.
+. bots will shoot switches and secret doors that require it.
+. bots will follow owner and enemies through teleports.
+. bots now go for teleports, platforms, switches and doors.
+. bots choose appropriate weapons to shoot switches/doors.
+. NEW BOT VIEW with BOT DEATH-CAM.  This is just totally cool.
+  There's simply other way to describe it... just plain bad.
+. unreachable items at a high pitch should no longer confuse
+  the bot.
+. Modifications to the Zeus skin.  Still not finished, but I
+  get bored working on it...
+. fixed a potential problem with bots spawning at the same
+  angle the player was looking.  If the player was tilted
+  down in water while spawning a bot, the bot would be stuck
+  looking down.  This potentially affected movement and all
+  sorts of things, but no more.
+. HUD updates are twice as smooth and do not lag annoyingly
+  anymore.
+. bots no longer get their heads stuck in low ceilings.
+. bots will not run into shallow lava or slime (except when
+  strafing or backing away in battle - much like humans).
+. bots no longer float when killed under water.  They sink
+  like bricks.
+. removed the "thud" sound that bots made when they landed.
+  This sound is not made by players, so it's gone.  The only
+  side effect is that fiends will not make the sound either
+  when they land.  Too bad.  Quake was making this sound
+  without my help, so I just turned it into a null .wav file.
+. bots swim better and go for air better.
+. roaming bots can jump into the water sometimes for the hell
+  of it.
+. helper bot's can go rogue.  If you're helper Zeus gets upset
+  with you, well, you had better run, or have a big gun.  Once
+  he's rogue, if you kill him in deathmatch he will keep
+  respawning on his own as an opponent, but he'll go after
+  everything with an axe.  The bot will warn you when he's
+  sick of your crap.
+. fixed the stupid "stand up" bug when a helper bot died.
+  It was so lame I can't believe I left it in there.  Some
+  llama must have been grazing on my code. (thanks to
+  JumpA for mentioning this, as I had somehow completely
+  missed it!)
+. bot's now make pain sounds when in lava, slime, etc.
+. adjustments to aiming code to make bots miss more, especially
+  on lower skill levels.
+. multiskin support.
+. disabled H-HUD in deathmatch.
+. fix a bug with the plasma gun that would not allow you to select
+  the plasma gun when you were out of nails.
+. Increased plasma gun's velocity by 1/3 to make it more effective.
+  Bolts now travel at the same rate as nails.
+. Players and bots now spawn with 25 cells, to make up for the lack
+  of cells on most of the standard levels.
+. if you are killed by an opponent bot in death match, you may be
+  lucky enough to be treated to the Zeus bot taunt cam.  You'll know
+  when it happens...
+
+Changes in version 2.03
+
+. added the holographic HUD.
+
+. removed some of the water movement code.  It was getting Zeus
+  stuck in places he used to do fine.  The end result is that he
+  will get stuck more often when going for air.
+
+
+Changes in version 2.02
+
+. helper bots no longer spawn on top of one another if the
+  player doesn't move before spawning.
+. bots now drown and will go for air when they need it.
+. added the "throw backpack" command in an attempt to head off the
+  email complaining about Zeus being an item hog.  I'd say he's
+  just damn efficient.
+. fixed bot jumping.  Jumps are now more accurate, and bot's find
+  ledges when they should.
+. bots can no longer jump amazing distances (it was cool, but
+  it wasn't quite fair).
+. fixed ChanceToHit with shotguns so that non-moving entities
+  always recieve the highest chance for that skill.  Monsters
+  that use MOVETYPE_STEP will always get highest chance, unless
+  jumping or falling because they don't use actual velocity
+  factors to move -- no big deal only affects helper bots.
+. fixed helper bot levels (they were not having their levels set,
+  resulting in skill 0 helper bots, which is lame!)
+. implemented ledge detection.  YES!  This one REALLY SUCKED. Bot's
+  are now much less likely to run off a ledge.  But they may still
+  jump into lava like the fools they are... =)
+. start-up info message added.
+. fixed a bug with unreachable items that was the result of my
+  absentmindedness...
+. bot will now search for items above and below for up to 2 seconds
+  before deciding they are unreachable.  The bot used to check the
+  pitch to the item, but this changes to much as the bot moves and
+  was not doing the job.
+. modified bot's swim routines.  Bot no longer sinks too fast.  In
+  fact, the bot is a damn good swimmer and will just barely sink at
+  all.
+
+Changes in version 2.01
+
+. Skill levels implemented.
+. Target leading implemented.
+. Target missing and chance to hit implemented (for line-tracing
+  weapons such as the shotgun).
+. bots will no longer see invisible players unless they are attacked
+  by one.
+. enhanced ability to chase player out of sight
+. fixed weapon ranges so bot will fire from greater distances
+
+Changes in version 2.0
+
+. While this is the second version of the Zeus bot this was truly the
+  first version of this code.  Seeing as Zeus 1.0 was based on the
+  TM bot and was my first attempt at doing anything with Quake C, it
+  doesn't really count as the same bot -- it just has the same name.
+
+
+===================
+Author Information
+===================
+
+I'm a 25 year old who's been programming computers for the last 15 years.  I
+studied computer science at Clemson University and am currently designing
+web pages for corporations in the Western North Carolina area.  Besides being
+proficient in several programming languages -- 80x86 assembly, C and Pascal
+being the most notable -- I also draw and write music in my spare time.
+
+
+============================
+Answers to Common Questions
+============================
+
+Here are answers to some of the most common questions I recieve about my
+Quake C mods:
+
+Q: How can I use your mod when I'm playing internet deathmatch games?
+A: You must find a server that is already running the mod.  That is the
+   only way, besides starting your own server.
+
+Q: Help! How come I can't get your mod to work?!?!?
+A: You are doing something wrong. =)  They work for everyone else.  Please
+   read the instructions very carefully and do everything exactly like they
+   say.  If something is still unclear, then email me, and please be clear
+   about exactly the problem you're having -- "Cujo won't work" doesn't give
+   me any clue as to what the real problem might be.  For example: "I
+   installed the file into C:\GAMES\QUAKE\CUJO and ran the game with
+   QUAKE -GAME CUJO but nothing happens when I use IMPULSE 100."  Makes a lot
+   more sense and lets me know almost exactly what the problem is.  If you
+   recieve any error messages, be sure to include those in your mail also.
+
+Q: Can you add so and so or change so and so in the next release?
+A: Probably so.  Please email any suggestions or complaints that you have.
+   The whole point is to make something that other people enjoy using, so
+   I've got to have other people's input!
+
+Q: Can I use your mod in a compilation mod I am creating?
+A: Read the copyright and distribution permissions, then please email me
+   and tell me about it.  If you use any of my mods as a base or addition to
+   any other project, you must credit me and include an address\location where
+   my original mod can be found.  Also, I will try to help you if I can, but
+   please do not expect me to bug hunt for you.  If you modify my source code,
+   the bugs that crop up are your ultimate responsibility.
+
+=======================================
+Copyright and Distribution Permissions
+=======================================
+
+The modifications included in this archive are Copyright (C) 1996 by
+Jonathan E. Wright and Quake C is Copyright (C) id Software.
+
+You MAY NOT use the modifications as a basis for other publicly
+available work without the written permission of the author.
+
+You may distribute this Quake modification in any electronic format as long
+as this description file remains intact and unmodified and is retained along
+with all of the files in the archive.
+
+=============
+Availability
+=============
+
+You can find this archive at the following URLs:
+
+ftp://ftp.cdrom.com
+http://www.trailerpark.com/phase1/nelno
+
+NOTE: if you downloaded this bot from somewhere other than
+http://trailerpark.com/phase1/nelno, then it is likely
+that you do not have the most current version.  Please
+check the above site if you would like the latest version
+of the Zeus bot.
