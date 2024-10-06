@@ -1,0 +1,127 @@
+Title		: Frogbot
+Filename	: frogbot003.zip
+Version	: Beta 0.03
+Date		: 22 Mar 1998
+Author	: Robert Field
+Email		: frog@powerup.com.au
+
+Build time: Numerous hours
+
+
+About the mod
+-------------
+
+The Frogbot mod is my continuing attempt to create a bot that is
+believably human. I judge my efforts soley on the game product you
+play, and not on some theoretic discussions of AI implementation
+methods.
+
+The current AI of the Frogbot is what I would regard as a minimal
+working model. I do intend to greatly improve it over time. Though it
+is true that QuakeC presents limitations of all sorts, by using a bit
+of ingenuity I have been able to push QuakeC to the limits.
+
+The first requirement of a 'human' bot, as opposed to a 'bot' bot, is
+fluent navigational skills. With the sacrifice of using static
+waypoints the Frogbot can achieve fluent navigation around a level,
+and moreover can actually be programmed in QuakeC (this is assuming
+todays relatively slow cpu speeds).
+
+The Frogbot is a 99.9% client emulation bot. To my knowledge it is the
+only QuakeC bot that accomplishes this. The missing 0.1% is that the
+Frogbot on rare occasions can get stuck on or near steps (if I didn't
+say this you may have never known this :).
+
+I have decided to make my so far incomplete efforts available to the
+Quake community so that other people can share in the enjoyment of
+playing the Frogbot.
+
+
+How to Install the Modification
+-------------------------------
+
+Create a directory called frogbot as a subdirectory in your Quake
+directory and unzip frogbot003.zip into it. Include the paramter
+"-game frogbot" in your Quake command. This version does not require
+any additional player.mdl skin file.
+
+If you wish to record a demo of the Frogbot make sure that when you
+replay it you do so with the "-game frogbot" parameter in your Quake
+command.
+
+
+Commands
+--------
+
+To add one to four Frogbots at a time:
+addbot
+add2bots
+add3bots
+add4bots
+
+To add a bot of a particular color (for teamplay):
+addbot0
+addbot1
+addbot2
+addbot3
+addbot4
+addbot5
+addbot6
+addbot7
+addbot8
+addbot9
+addbot10
+addbot11
+addbot12
+addbot13
+
+becomebot		- makes the internal frogbot AI take control of
+			  your controls. Sit back and enjoy the smooth ride.
+becomeplayer	- opposite of becomebot.
+framerate		- prints three framerate numbers on screen.
+powerup		- toggles powerups on and off.
+
+teamplay 0, 1 , 2 are supported.
+
+deathmatch 1, 2, 3, 4, 5 are supported (same rules as in QuakeWorld).
+
+skill is from 0 to 100 (default 100 is the hardest skill).
+
+Currently supported maps: dm4, dm6.
+
+
+Copyright and Distribution Permissions
+--------------------------------------
+
+The modifications included in this archive are Copyright 1998, Robert
+Field.
+The original QuakeC source is Copyright 1996, id software.
+
+You may distribute this Quake modification in any electronic format as
+long as all the files in this archive remain intact and unmodified and
+are distributed together.
+
+
+Disclaimer
+----------
+
+Software under this agreement is under no kind of warranty. Software
+under this agreement is provided as is, and isn't guaranteed in any
+way by the mod author. Use this software at your own risk.
+
+
+Credits
+-------
+
+id softare for Quake and QuakeC.
+
+Mustafa K. ATA and the FEAR Team for QcAPE.
+
+Alan Kivlin whose scoreboard code let me understand how to do the
+scoreboard for QuakeC bots.
+
+Mr Elusive for suggesting a better stair climbing method, and for
+providing inspiration with his Omicron bot.
+
+Timm Stokke for being my secondary bug finder (I'm the primary bug
+finder :).

@@ -513,7 +513,6 @@ fbph.txt
 fixedsrc.txt
 frog_src.txt
 frogbot000.txt
-frogbot003.txt
 frogbot005.txt
 frogbot007.txt
 frogbot011.txt
