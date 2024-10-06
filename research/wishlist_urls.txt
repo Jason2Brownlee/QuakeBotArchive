@@ -387,6 +387,15 @@ http://shub-hub.com/files/mods_multiplayer/dp_orionbot.zip
 http://shub-hub.quaddicted.com/files/mods_multiplayer/monsterFBXID1waysV2.zip
 http://shub-hub.quaddicted.com/files/mods_multiplayer/orionbots_v3_ra.zip
 http://skillz.macquakeinfinity.com/files/Frogbot012.sit
+http://src.doc.ic.ac.uk/Mirrors/ftp.freebsd.org/pub/planetquake/holywars/hw_frogbot.exe
+http://src.doc.ic.ac.uk/Mirrors/ftp.freebsd.org/pub/planetquake/holywars/hw_frogbot.sit.bin
+http://src.doc.ic.ac.uk/Mirrors/ftp.freebsd.org/pub/planetquake/holywars/hw_frogbot.zip
+http://src.doc.ic.ac.uk/public/computing/vendor/idgames2/planetquake/holywars/hw_frogbot.exe
+http://src.doc.ic.ac.uk/public/computing/vendor/idgames2/planetquake/holywars/hw_frogbot.sit.bin
+http://src.doc.ic.ac.uk/public/computing/vendor/idgames2/planetquake/holywars/hw_frogbot.zip
+http://src.doc.ic.ac.uk/public/Mirrors/ftp.cdrom.com/pub/planetquake/holywars/hw_frogbot.exe
+http://src.doc.ic.ac.uk/public/Mirrors/ftp.cdrom.com/pub/planetquake/holywars/hw_frogbot.sit.bin
+http://src.doc.ic.ac.uk/public/Mirrors/ftp.cdrom.com/pub/planetquake/holywars/hw_frogbot.zip
 http://ssj4death.condemned.com/gb/gbped10.zip
 http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/requiem/reqqw20i.zip
 http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/requiem/reqqw23.zip
@@ -479,6 +488,9 @@ http://tux.telefragged.com/file.pl?filename=voidm120.zip&dir=telefragged/mdqnet/
 http://tux.telefragged.com/file.pl?filename=voidm120.zip&dir=telefragged/mdqnet/dept187/void/
 http://web.singnet.com.sg/~mhidayat/WarBot/warbt13a.zip
 http://web.ukonline.co.uk/johnc/oak0855.zip
+http://web.ukonline.co.uk/Members/jc.burton/botskn14.zip
+http://web.ukonline.co.uk/Members/jc.burton/botskn16.txt
+http://web.ukonline.co.uk/Members/jc.burton/botskn16.zip
 http://web.ukonline.co.uk/Members/jc.burton/iwbot2.zip
 http://web.ukonline.co.uk/steven.love/dl/smallbots.zip
 http://www.3ddownloads.com/downloadfile.php3?directory=/telefragged/be/fmods&filename=vicinity/vicinitymodels.zip
@@ -755,3 +767,5 @@ http://www.widomaker.com/~avatar/qwprogs.zip
 http://xmark.ausgamers.com/xkteams/xkteams1705.zip
 http://xmark.ausgamers.com/xkteams/xkteams1705s.zip
 http://xmark.ausgamers.com/xkteams/xkteams2.zip
+
+
