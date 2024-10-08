@@ -1,0 +1,127 @@
+Title     : Darkbot 11th Beta
+Filename  : drkbt11a.zip
+Version   : Beta 11a
+Date      : June 1997
+Author    : Dark_Skye (Terry Hendrix)
+Email     : darkskye@mindspring.com
+WWW site  : http://www.mindspring.com/~darkskye/index.htm
+Build time: a while now
+Thanks    : John Carmack, American McGee, and id for quakeC.            
+            PUNISHER and the Bgbot crew for Bgbot source. 
+            Alan Kivlin for scoreboard functions.
+	    Drew 'BZ' Davidson for ctfbot source.            
+            Former clanmates and enemies.  =)
+
+Type of Mod
+-----------
+Quake C  : yes
+Sound    : no
+MDL      : no
+
+Format of QuakeC (if a Quake C Mod)
+-----------------------------------
+unified diff  : no
+context diff  : no
+.qc files     : no
+progs.dat     : yes 
+
+Description of the Modification
+-------------------------------
+To play darkbot you also need a drkpkxxx.zip
+where xxx is a version number from 03b to 04c
+
+Darkbot has 12 bots for DM ("clan ring" mode optional) and coop
+6 skins 
+observer mode
+Server loaded waypoints:
+ Start:
+  jump to nailgun 
+ E1M1:
+  route to 666 from rad suit
+  jump to nailgun
+  from platform to rl
+
+Tech stuff
+----------
+Please email me any bug reports/ suggestions.
+...if it gets laggy try -winmem 12
+
+How to Install the Modification
+-------------------------------
+make a subdirectory darkbot in your quake directory
+copy pak0.pak into the directory darkbot you just made
+
+How to Use the Modification
+---------------------------
+NOTE: you also need a drkpkXXX.zip file where XXX is any version number
+
+Single Player:
+Follow instructions for listen server 
+
+Listen Server: 
+Please use Quake -game darkbot -listen 16 + temp1 34         
+this spawns 3 bule and 4 red level respawning bots
+
+Dedicated Server: 
+Quake -dedicated {#players + #bots} +temp1 34 +deathmatch 1 +map e1m1
+This spawns 3 bule and 4 red level respawning bots in a DM on e1m1.
+If you'd like a different password and MOTD email me i'll code it in
+and mail you back the new progs.dat.  Please mail me if you run a 
+dedicated DarkBOT server
+
+How to be an ADMIN:
+If not an observer: impulse 255 - 250 - 251 - 252 - 253        
+Else Password: impulse 250 - 251 - 252 - 253	
+
+HINTS: 
+---------------
+Set fraglimit 50 is a good idea, bots WILL exit levels.
+
+Fraglimit makes it so if you have less frags than fraglimit when you 
+  touch the levelchange trigger your telefraged.
+
+You must be an ADMIN to do anything "kewl" no matter what game type.
+
+When you run a dedicated server the bots will play without any humans
+  and changelevels.
+
+New for Beta 11a
+------------------
+_dedicated server is now VERY stable due to new net id sorting
+_new menus using impulses 1-10 ( try the bot management one )
+_some minor bug fixes
+_removed flag use for gender id...it caused a few bugs
+_damn annoying bot watermove sound has been axed 
+ (Alan set bot.watertype = CONTENT_EMPTY in your bot_postthink)
+
+Help me I need it
+-------------------------
+Please email me your thoughts on:
+would you like to contribute female snd fx or skins?
+would you like to contribute code or ideas?
+would you like green eggs and ham?
+
+All about the lame authour
+--------------------------
+I coded in ADA C, Fortran, and some basics and serveral 
+script languages before this "quake" C. 
+Please email me a bug report or suggestion.... 
+I check my box at least every week...
+
+Copyright and Distribution Permissions
+--------------------------------------
+The original QuakeC source is Copyright 1996, id software.
+I'll release source after the code is commented. (next release??)
+Scorebroad frag/name and color MSG_UPDATES Alan Kivlin (qcbot).
+Female sound fx aren't mine. (listen close...you'll know her)
+Aim skill/waypoints based on code by Drew Davidson (ctfbot).
+Drew also gave me the idea to set a bot's waterlevel .float directly.
+(hey Drew the water check in CTFBOT 1.2 is WRONG man...)
+Everything else done by Dark_Skye.
+
+If you would like to see a part of my code email me.
+
+Availability
+------------
+FTP.CDROM.COM/pub/quake/quakec/bots/
+http://www.mindspring.com/~darkskye/index.htm (latest)
