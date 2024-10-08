@@ -15,6 +15,7 @@
 # demon.zip
 
 # normal zip files (for most, we have evidence they exist)
+grdbot21.zip
 abandon1.zip
 bandem.zip
 bgadmbot.zip
@@ -474,6 +475,7 @@ zeus20b.zip
 zeusbot.zip
 
 # txt files we expect to exist (based on zip files that exist)
+grdbot21.txt
 abandon1.txt
 bgadmbot.txt
 botmove.txt
