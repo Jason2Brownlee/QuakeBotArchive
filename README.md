@@ -192,7 +192,7 @@ Quake Project1 (Reaper) | Peter Porai-Koshits aka "Dragon" | [proj1_16.zip](bin/
 Quake Soccer | Orion | [qsoccer_finalish.zip](bin/qsoccer_finalish.zip)<br>[qsoccer_finalpatch.zip](bin/qsoccer_finalpatch.zip)<br>[soccer3.zip](bin/soccer3.zip)<br>[soccer2.zip](bin/soccer2.zip)<br>[soccer2patch.zip](bin/soccer2patch.zip)<br>[qsoccer_v132.zip](bin/qsoccer_v132.zip)<br>[qsoccer_v13.zip](bin/qsoccer_v13.zip)<br>[soccer.zip](bin/soccer.zip)
 QuakeC Add-On Pack (QCAP) | Rich Whitehouse aka "thefatal" | [qcap2.zip](bin/qcap2.zip) ([txt](bin/qcap2.txt))
 QuakePlus (Reaper) | Alexander Vinnikova aka "plus" | [qplus.zip](bin/qplus.zip) ([txt](bin/qplus.txt))
-R Bot | Ross Johnson aka "ColdKill" | [rbot70.zip](bin/rbot70.zip) ([txt](bin/rbot70.txt))<br>[rbot20.zip](bin/rbot20.zip) ([txt](bin/rbot20.txt))<br>rbot.zip
+R Bot | Ross Johnson aka "ColdKill" | [rbot70.zip](bin/rbot70.zip) ([txt](bin/rbot70.txt))<br>[rbot05.zip](bin/rbot05.zip) ([txt](bin/rbot05.txt))<br>[rbot20.zip](bin/rbot20.zip) ([txt](bin/rbot20.txt))
 RABot | Rodrigo Marx aka "Shooter" | [mwrrabot222cl.zip](bin/mwrrabot222cl.zip)<br>[rabot.zip](bin/rabot.zip)
 Rail Arena Bots | "Mauve'Bib" aka "SkinSki" and "Ralpha" | [rail.zip](bin/rail.zip)
 Ranger Bot | John Dean aka "Maleficus" | setup.zip ([txt](bin/ranger_demo.txt))<br>[ranger_chlog.txt](bin/ranger_chlog.txt)

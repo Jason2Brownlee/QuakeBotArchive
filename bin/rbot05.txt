@@ -1,0 +1,155 @@
+ÉÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ»
+º  Title: R Bot V.50              º
+ÈÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¼
+
+Filename : RBOT.ZIP
+Version  : 0.50
+
+Date     : That I don't know......(I have made so may updates)
+
+Author(s): Ross Johnson (ColdKill/FIREPICKLE)
+
+Email    : BRAINnMEAT@AOL.COM
+
+Credits  : To the Punisher for makeing BG bots,  Camreon NewHam for
+make eliminator and releaseing the source code (The strafeing is his code),
+Quake Command for making Eject and flamethrower,
+and ID for makeing Quake, The maker of Bplayer
+(for having a cleaner version of almost what I had done with BG) Joe Hero,
+for beta testing and making one of the heads (The crazy one). 
+The maker of TM, and DM bots. The maker of Q-BASE
+ÉÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ»
+º  Type of Mod  º
+ÈÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¼
+
+Quake C  : yes
+Sound    : yes
+MDL      : yes
+Level    : yes, one level I recomend 
+
+ÉÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ»
+º  Format of Quake C  º
+ÈÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¼
+
+unified diff  : no (What this is I don't know)
+context diff  : no (Same here)
+.qc files     : no (Read the rest about this)
+progs.dat     : yes
+editors used  : MDL (Great program) dos edit, Quakeme, QCC, vupcx, and NEOPAINT
+ÉÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ»
+º  Description of the Modification  º
+ÈÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¼
+        This bot is diffrent the others, not because it is better...because
+there are some better bots out there (Though this one is pretty good). Because
+I spent A LONG time adding in other QuakeC add-ons into it. I am still working
+on it though. Currently it has SuperAxe (Which the Bots use) and Eject. I also
+have included some skins.
+        This bot is also a clan of its own (I know, a clan bot?) Its name is
+"The Butchers". They specialize in the Axe! I have included there clan Hall,
+as a level that I made. (Not all that great, sorry) It includes there grave
+yard, there registration area, there arena, and there maze. Try it out! I
+have also included the skins for the clan. The offical one is the red and
+grey guy. I also included some heads. Some of the heads will match the bodys
+, others are just cool or funny. 
+        Some of the features include
+
+* Will use the super axe when you get to close
+
+* Fully strafeing and dodges missles
+
+* FlameThrower, Bots will also use it!
+
+* Does not cheat (If any little)
+
+* Creates a bot Randomly so you don't always fight the same one
+
+* The bots talk to you!!! (Real sound)
+
+* More advanced navagtion from BG
+
+* Has a new weapon "FireAxe" that will burn your apponents down
+
+* Comes with eject built in!
+
+* Good aim, but still possable to dodge
+
+* Can help you in One Player as well
+
+* Read the follow section for more info on ejected shells.
+
+* Helmet lite, it better in dark places but then you are easier to spot!
+
+* ChaseCam and its components (HUD system, Laser Sight, MultiSkin)
+
+* Will no longer shoot at you if there is something in the way
+
+* There leader "Burn" is a better and stronger bot
+
+* Will now swim up if in water
+
+* New monster MDL's for new play 
+
+ÉÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ»
+º  How to use Modification  º
+ÈÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¼
+
+Make a directory in Quake (Type MD RBOT) called "Rbot". Copy the ZIP
+file into it, and unzip it. Make another directory inside RBOT called
+"progs" (It must be called progs.) Copy the player.mdl file into it.
+Then goto the quake directory and type "Quake -game Rbot". It should run.
+Impulse 100 creates 1 Random Bot.
+Impulse 103 Goes into observer mode ("Must type KILL to get out")
+Impulse 101 Is the score
+impulse 30 ChaseCam
+impulse 20 HelmLight
+impulse 31 LaserSight
+impulse 200/201 Skin cycle
+==========================================================================
+
+ÉÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ»
+º  Technical Details  º
+ÈÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¼
+
+Bugs:
+
+Some times if there is alot of bots there will be a packet overflow from
+all the shells. Most of the time it will go away, but the best thing to
+do is change/restart the map.
+
+The bots can use doors, but they don't........old BG problem...
+ÉÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ»
+º  Future Enhancements  º
+ÈÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¼
+
+Better wandering (E-MAIL ME IF YOU KNOW HOW)
+
+Fix it so the bots use the fireAxe as well
+
+See the first one
+
+The same old Crack/broken ground bug. (Would help if I knew what caused it)
+
+Use of PowerUps (Quad, Protection, BioSute)
+
+Use of doors....
+
+ÉÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ»
+º  Contacting Author  º
+ÈÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¼
+
+As mentioned above, my email address is :
+
+BRAINnMEAT@AOL.COM
+
+
+ÉÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ»
+º  Copyright and Distribution Permissions  º
+ÈÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¼
+
+þ Authors MAY use this modification for there own files, E-MAIL
+me for the Source code. And also put every one in the credits I did
+along with me. 
+
+þ You may distribute this Quake modification in any electronic
+format as long as this description file remains intact and unmodified
+and is retained along with all of the files in the archive. (Please do!)

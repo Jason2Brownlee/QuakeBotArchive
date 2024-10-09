@@ -299,7 +299,6 @@ qwprogs8.zip
 qwprogs9.zip
 qwprogs_last.zip
 rakoolio.zip
-rbot.zip
 reaper08.sit.hqx
 req105c.zip
 req106a.zip
@@ -555,7 +554,6 @@ proj1_99.txt
 proj1_v1_final.txt
 qcbot001.txt
 qcbot002.txt
-rbot.txt
 req.txt
 req105c.txt
 req106a.txt
