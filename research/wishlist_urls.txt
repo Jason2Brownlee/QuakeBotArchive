@@ -583,7 +583,6 @@ http://www.cdrom.com/pub/idgames2/quakec/compilations/proj1_12.zip
 http://www.cdrom.com/pub/idgames2/quakec/compilations/proj1_qw_12beta.zip
 http://www.cdrom.com/pub/idgames2/quakec/compilations/urqp10.zip
 http://www.cdrom.com/pub/idgames2/quakec/compilations/urqp101.zip
-http://www.cdrom.com/pub/idgames2/quakec/monsters/guardbot.txt
 http://www.cdrom.com/pub/quake/quakec/bots/rbot.zip
 http://www.cdrom.com/pub/quake/quakec/compilations/proj1_v1_final.txt
 http://www.cdrom.com/pub/quake/quakec/compilations/proj1_v1_final.zip

@@ -1,0 +1,133 @@
+Title    : GuardBot
+Filename : GuardBot.Zip
+Version  : 1.1
+Date     : 97/02/26
+Author   : P. van Wingerden
+Email    : petervw@worldaccess.nl
+Credits  : Sam Shockey (author of the original "decoyz") ,Jason Busby (busbyj@cris.com), AsmodeusB (tazq@sos.on.ca), Micheal&Tim Polucha (TMBOT-mpolucha@earthlink.net), Jonathan E. Wright (nelno@interpath.com), Anthony Spataro (anthony@spataro.com) and several others I forget to mention from whom I "borrowed" ideas (but no code).
+
+
+Type of Mod
+-----------
+Quake C  : yes
+Sound    : no
+MDL      : yes
+
+
+Format of QuakeC (if a Quake C Mod)
+-----------------------------------
+unified diff  : no
+context diff  : no
+.qc files     : no	(but available on request)
+progs.dat     : yes
+
+
+Description of the Modification
+-------------------------------
+
+1)	General changes:
+
+a)	Monsters will attack each other if provoked.
+b)	Crucified zombies can be gibbed.
+c)	The head of a gibbed monster will turn into a zombie.
+d)	Gibs can be touched, but will hurt at higher skill levels.
+e)	At higher skill levels a gib will sometimes turn into a spawn.
+f)	Heads can be kicked around, and will explode if you shoot at them.
+g)	Monsters can be shoved around: push them off edges etc.
+h)	At the end of the final level the game can be restarted.
+
+2)	Cheats:
+
+a)	Cheats for Bio Suit, Quad Damage, Pentagram of Protection, Ring of Shadows; these work as toggles, i.e., they last until they're turned off.
+b)	Cheats for all weapons & (virtually) unlimited ammo.
+c)	Cheat for armour (all classes).
+d)	Cheat for both keys (silver and gold).
+e)	Cheat for extra health: adds 200 points to your health (999 maximum).
+
+3)	Extra weapons:
+
+All weapons have a "double" that can be selected by pressing the appropriate key again:
+
+a)	Teleport Axe: transports the victim to another position within the level.
+b)	Proximity mines launcher: proximity mines explode if a monster comes within range.
+c)	Freezer laser: freezes your enemy. Beware though, he'll explode if touched.
+d)	Knight spikes: launches the same spikes the hellknight uses.
+e)	Wizard spikes: twice as lethal as the super spikes, but also cost twice the ammo.
+f)	Lavaball launcher: launches lavaballs which explode like missiles on impact.
+g)	Homing missile: no need to aim, this one finds it's own victims.
+h)	Zapper: a super lightning bolt, kills everything almost instantly, but costs 100 cells per blast.
+
+4)	Extra's:
+
+a)	Teleport Marker: to mark a (safe) spot which you can return to at the press of a key.
+b)	Light toggle: when activated, you emanate a very bright light. Useful for those very dark corners.
+c)	Radar function: reports the four monsters nearest to you, and their health levels.
+d)	Turn off weapon view: if you want the complete picture.
+e)	View the level from the "intermission" spots, from the "deathmatch spawn" spots or from the "teleport destination" spots: get a camera viewspot from certain (fixed) points within the level. All levels have at least one "intermission" spot and usually several of the others.
+f)	Gravity toggle: toggle gravity between normal (800) and low (100, like in "Ziggurat Vertigo"). Useful for making big leaps. If you want to have fun; activate the cheat, then find a fiend and watch it make huge jumps.
+g)	Megablast: make a big explosion with yourself at the centre (this one won't hurt you). For those tight corners when it all gets too hot to handle.
+h)	Home teleport: teleports you to your starting position within the game (except at the final level...).
+
+5)	The Guard Bot:
+
+The Guard Bot is the most elaborate enhancement of this patch. Based on Sam Shockey's "decoyz" patch, this one goes several steps further. The Guard Bot is intended to be an all-round bodyguard: it will follow you wherever you go, and it will seek and destroy monsters. For this purpose it is equipped with two different weapons: the Super Nailgun for ordinary attacks and the Vore Missile for dealing with zombies and spawns. It will attack any monster it sees (except for Chthon and Shub-Niggurath, which aren't real monsters), and continue the attack until either itself or the monster dies -- it will not attack (other) players however. It can use health boxes and several power-ups to its own advantage. It will shoot triggers if it can find them. It will always try to follow you around: if you are too far away or too high, it will teleport to your position; it you are too low, it will jump after you; however, you can instruct guards to roam on their own instead of following you.
+You can see through a guard's eyes to see what he sees; you can also detonate guards or simply remove them at will. You can also ask for their status at any time (i.e., their health, armour, their distance from you, and whether they are paused/active and following/roaming). Guards can be paused or teleported to you straight away. If you go to the next level any existing guards will be respawned with you after a short delay.
+
+Guards cannot hurt guards, you cannot hurt them; they cannot hurt you. Beware though: a guards' missile may hurt you if it explodes in your vicinity: so keep out if a guard's way if he's targetting spawns or zombies.
+
+And yes, if you go into God mode, so do your guards.
+
+To avoid slowing down the game too much (I only have a 60 MHz Pentium -- yes, you may laugh :-() there is a built-in limit of three Guard Bots for any level.
+
+
+How to Install the Modification
+-------------------------------
+
+Simply use any unzipper to install this patch and the accompanying "invulner.mdl" file; take care to preserve the directory names however. Unzip in the directory of your choice (e.g., "\Games\Quake\GuardBot"), then start Quake with the "-game" parameter: "Quake -game <dir>", where <dir> is the directory where you placed the patch. The archive comes with a "keys.txt" file that describes which key does what (if you use the enclosed "config.cfg" file).
+
+
+Technical Details
+-----------------
+
+Bugs: sometimes the GuardBot may get stuck, usually after teleporting or spawning. The only way to deal with this is to remove the Bot or teleport it to your own position.
+Also: if you look through a guard's eyes, you may not always see the things he is supposed to see; this is a technical feature of Quake (entities aren't drawn until a player actually sees them), not a bug.
+
+So far I haven't encountered any major bugs: BUT: this patch was developed on a stand-alone PC and I haven't had the opportunity to playtest it in Deathmatch or Teamplay :-(
+If you do find bugs: please E-mail ! I do appreciate some feedback.
+
+
+Author Information
+------------------
+
+I can be reached through E-mail at the address above. If requested, I will send samples of my coding, along with a general explanation of what I've done, but never the complete code.
+
+
+Copyright and Distribution Permissions
+--------------------------------------
+
+Authors MAY use these modifications as a basis for other publically or commercially available work. Quake-C source is partially available on request through E-mail.
+
+You may distribute this Quake modification in any electronic format as long as this description file remains intact and unmodified and is retained along with all of the files in the archive.
+
+
+Availability
+------------
+
+This modification is available from the following places:
+
+FTP   : ftp.stomped.com (I hope)
+WWW   : ?
+BBS   : ?
+Other : from me, through E-mail. Quake-C source code (or parts of it) are available on request.
+
+
+Changes
+-------
+
+Version 1.0:
+
+First public release, uploaded to ftp.stomped.com.
+
+Version 1.1:
+
+Bug fixes, monsters will wake up if a guard is near, guard can jump out of water, guards respawn at next level, guards shoot triggers, final level doesn't freeze the game, enforcer laser replaced by freezer laser, push monsters around, etc. etc.
