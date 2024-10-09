@@ -693,6 +693,7 @@ http://www.telefragged.com/mirrors/mirror.pl?metro/frogbot012.zip
 http://www.telefragged.com/mirrors/mirror.pl?qnm/fbedit15.zip
 http://www.time2quake.com/filez/quakec/bots/grdbot21.txt
 http://www.time2quake.com/filez/quakec/bots/grdbot21.zip
+http://www.time2quake.com/filez/quakec/compilations/wyrmb15.zip
 http://www.tronet.troitsk.ru/~d_knight/Download/Games/frog012.zip
 http://www.ttinform.lv/qwprogs.zip
 http://www.ttinform.lv/qwprogs1.zip
