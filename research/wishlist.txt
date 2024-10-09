@@ -278,7 +278,6 @@ proj1_14.zip
 proj1_92.zip
 proj1_93.zip
 proj1_99.zip
-proj1_qw_12beta.zip
 proj1_v1_final.zip
 proj_tmp.zip
 qcbot001.zip
