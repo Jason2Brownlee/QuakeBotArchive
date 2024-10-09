@@ -59,8 +59,6 @@ darkbt04.zip
 darkbt05.zip
 darkbt06.zip
 darkbt08.zip
-darkbt09.zip
-darkbt10.zip
 darkbt4.zip
 darkfrog.zip
 djbotmk2.zip
