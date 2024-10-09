@@ -576,8 +576,6 @@ http://www.cdrom.com/pub/idgames2/newstuff/proj1_qw_12beta.zip
 http://www.cdrom.com/pub/idgames2/newstuff/urqp101.zip
 http://www.cdrom.com/pub/idgames2/newstuff/zeus202b.zip
 http://www.cdrom.com/pub/idgames2/quakec/bots/drkbot04.zip
-http://www.cdrom.com/pub/idgames2/quakec/bots/grdbot13.txt
-http://www.cdrom.com/pub/idgames2/quakec/bots/grdbot13.zip
 http://www.cdrom.com/pub/idgames2/quakec/bots/rbot.txt
 http://www.cdrom.com/pub/idgames2/quakec/bots/rbot.zip
 http://www.cdrom.com/pub/idgames2/quakec/compilations/proj1_12.txt

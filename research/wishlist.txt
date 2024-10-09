@@ -199,7 +199,6 @@ gbped10.zip
 glkolor.zip
 glyde.zip
 glydeqk.zip
-grdbot13.zip
 hhbot.zip
 holomod.zip
 holyfbot_mod11.exe
@@ -519,7 +518,6 @@ frogbot012b.txt
 frogbot012c.txt
 frogbot013.txt
 frogfix1.txt
-grdbot13.txt
 guardbot.txt
 iwbot15.txt
 iwbot16.txt
