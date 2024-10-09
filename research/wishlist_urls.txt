@@ -691,6 +691,8 @@ http://www.telefragged.com/fragstain/qdevels/ftp/warbot.zip
 http://www.telefragged.com/mirrors/mirror.pl?be/fmods/demos/frogbot_demo.zip
 http://www.telefragged.com/mirrors/mirror.pl?metro/frogbot012.zip
 http://www.telefragged.com/mirrors/mirror.pl?qnm/fbedit15.zip
+http://www.time2quake.com/filez/quakec/bots/grdbot21.txt
+http://www.time2quake.com/filez/quakec/bots/grdbot21.zip
 http://www.tronet.troitsk.ru/~d_knight/Download/Games/frog012.zip
 http://www.ttinform.lv/qwprogs.zip
 http://www.ttinform.lv/qwprogs1.zip
@@ -728,5 +730,3 @@ http://www.widomaker.com/~avatar/qwprogs.zip
 http://xmark.ausgamers.com/xkteams/xkteams1705.zip
 http://xmark.ausgamers.com/xkteams/xkteams1705s.zip
 http://xmark.ausgamers.com/xkteams/xkteams2.zip
-
-
