@@ -36,7 +36,6 @@ ftp://ftp.compulink.co.uk/mirrors/ftp.cdrom.com/pub/planetquake/holywars/hwqwbot
 ftp://ftp.compulink.co.uk/pub/games/id/quake/quakec/bots/darkbt4.zip
 ftp://ftp.compulink.co.uk/pub/games/id/quake/quakec/bots/rbot.zip
 ftp://ftp.cybersol.com.au/pub/mirrors/telefragged/inside3d/qip/q1/urqp105beta.zip
-ftp://ftp.dataforce.net/pub/Quake/Patches/Project1/proj1_15.zip
 ftp://ftp.dragonfire.net/users/kkembel/QuakeC/bots/elim13.zip
 ftp://ftp.edu.sollentuna.se/pub/games/quake-stuff/quakec/bots/darkbt4.zip
 ftp://ftp.edu.sollentuna.se/pub/games/quake-stuff/quakec/bots/rbot.zip
