@@ -1,0 +1,397 @@
+
+DoomBot v0.20b2 by Roscoe A. Sincero (legion@nether.net)
+
+   for the Legion of Doom patch.
+
+DoomBot is an eliminatorbot/roambot hybrid.
+
+FILENAME: dmbt20b2.zip 
+
+Next version: v0.21.  I had planned to release it June 13th but it will
+              be delayed.  I'd originally planned to add the Cujobot in
+              this next version but I decided that I'd add the grappling
+              hook instead.  I just downloaded the source for hook23.
+              I'm planning to work on it next week.
+
+              [Prediction: Chicago Bulls vs. Utah Jazz, Chicago 4-2]
+
+
+Things you need: You'll need to download DOOMBOT.ZIP.  That is the
+                 original release version that contains all the
+                 modified maps, mdls, sounds, and text files.  This
+                 file only contains an updated progs.dat to make
+                 it easy to upgrade.  If you don't have doombot.zip,
+                 I suggest you download it if you wish to play the
+                 bot properly.  You CAN play the bots on non-modified
+                 maps such as the original ID's deathmatch maps but
+                 it plays better on modified maps.  This means that
+                 you do not need the modified maps to play the bots.
+
+
+                 If you wish to play the bots with other modified
+                 maps, use the maps for the eliminatorbot.  You can
+                 get more maps from
+                     ftp.cdrom.com/pub/quake/quakec/bots/eliminator/
+
+Changes from v0.20b1 --> v0.20b2
+   * invisibility "stuffcmd" bug fixed. So game should not
+     crash on DM6 anymore.
+   * modified supernailgun has been modified again to
+     reduce lag (ie. no more explosions) for those of
+     you with high-resolution.  Weapon uses same amount
+     of ammo as the original supernail gun but it is a little 
+     more powerful (25 points vs. 18).  My original
+     modification had the supernailgun using the same
+     amount of ammo as the nailgun but it is less
+     powerful than the original SNG (15 vs 18).  However,
+     it had explosions which I liked.  Unfortunately,
+     these explosions are responsible for the lag.
+   * I toned down the momentum by 50% for being hit by opponent's
+     weapon.  I increased it too much the first time.
+   * tweaked bot_movetogoal function.  This function is
+     now used in all ai_functions with one exception,
+     ai_run for eliminatorbot-type roaming of map.
+     bot_movetogoal function is used in chasing player,
+     random roaming of map (for levels without waypoints),
+     and while moving towards items.  Originally,
+     bot_movetogoal is used only in attacking.  Quake's
+     own movetogoal was used in everything else.
+     bot_movetogoal is not compatible with ai_run for the
+     simple reason that bot_movetogoal includes the jumpai.
+     ai_run has its own jumpai which obtains its direction
+     for jump from waypoints.  Thus, can't use
+     bot_movetogoal in ai_run.  Other than the conflicting
+     jump code, bot_movetogoal works okay.  If you are
+     curious, bot_movetogoal also includes the swimai.
+   * tweaked jumpai a little but still ain't perfect.
+   * tweaked swimcode so that bot will no longer blindly
+     decide to go up for air when the time limit is up.
+     That is, it will only go up if there is room to
+     move up.
+   * to encourage operators to set this up on a server,
+     I've changed the throwaxe.mdl to a lavaball and removed
+     all the new sounds from the source.  Therefore, this
+     version is server-friendly. This is just for testing
+     purposes to let as many people use it as possible.
+     Final release will have everything in place.  I don't
+     have a server, so I never tried it out on a server.
+     I have only one computer to play Quake on.  So I have
+     no idea if this patch will work on a server.
+
+   * added humans vs bots "deathmatch".  Bots won't hunt other
+     bots, only humans.  Humans can do whatever they want.
+     Deathmatch 64 specifies "Humans vs. Bots".  Bots do not
+     use skins in these games.  They are always BLUE.  Make sure
+     you specify deathmatch settings PRIOR to loading any levels.
+
+*NEW* server instructions.
+
+   a) set temp1 variable in autoexec.cfg to 100
+      (eg. temp1 100).
+      - this spawns bots automatically once a REAL player logs in
+   b) set sv_aim in autoexec.cfg.  Follow instructions in autoexec.cfg.
+      - sv_aim controls how many bots and skill level
+   c) set deathmatch variable in autoexec.cfg for variation. Default = 1.
+   d) load Quake:
+      quake -game doombot -dedicated +map (mapname)
+
+   - Alternatively,
+   a) load Quake:
+      quake -game doombot -listen 16 +map (mapname)
+   b) join game as a player on server
+   c) press F7 (assuming you executed autoexec.cfg that came with the patch).
+      - this will execute bot.cfg to create bots based on your specifications
+        in bot.cfg
+
+   - or alternatively (recommended)
+   a) set temp1 variable in autoexec.cfg to 100 (eg. temp1 100).
+      - this is to spawn bots automatically
+   b) set sv_aim in autoexec.cfg.  Follow instructions in autoexec.cfg.
+      - sv_aim controls how many bots and skill level
+   c) set deathmatch variable in autoexec.cfg for variation. Default = 1.
+   d) load Quake:
+      quake -game doombot -listen 16 +map (mapname)
+   e) join game as a player. bots will then spawn automatically.      
+
+NOTE: Only the SERVER needs the modified maps.  The clients do not
+      need the modified maps.  The original will do.
+
+*known bugs*
+   * bot will face in very odd directions.  Can affect game
+     play.  Haven't found a "workaround" for the stupid
+     Quake "world" bug.  Quake (sometimes called "Quake
+     engine") resets the goalentity to world causing the bot
+     to face in odd directions.  You can *NOT* modify the
+     Quake engine with QuakeC but I'm trying to find something
+     that can counteract this ignorant Quake bug.  Quake
+     has a nasty habit of "forgetting" the values of various
+     variables/entites and then remembering it.  Forgetting
+     the coordinates of "goalentity" (the target the bot is
+     heading to) is a big NO-NO.  This severely hampers the
+     bots ability to hunt down its target once it loses sight
+     of target.  Besides facing odd directions, the other
+     side-effect of the world bug is that the bot will head
+     towards crazy directions as if it was "lost". If you are
+     getting your butt kicked, you'd probably not notice this
+     bug.  But I know it is there. If you know of a way to
+     counteract this ignorant Quake bug, please send me e-mail
+     to legion@nether.net, legion@gaianet.net and
+     legion@the-hermes.net.
+
+     (Note: the-hermes.net e-mail account will be active for
+     at least 3 months starting June 3rd, 1997.)
+
+
+Things you should know:
+
+   a) After all the bugs have been ironed out, this bot WILL
+      be added to the LOD patch.  Right now, it is *NOT* part
+      of the patch.
+   b) This is just a beta version.  E-mail me bugs and comments
+      to legion@nether.net with a carbon-copy (cc) to
+      legion@gaianet.net.  Yes, I know there are bugs in the
+      patch.  I won't list them here.  I want to know if people
+      can notice them.  Why bother fixing bugs that nobody notices?
+
+      Well, actually, I will mention one -- "NO FREE EDICTS".  Remedy:
+      pick a better map or use fewer bots.  This is a problem with
+      Quake itself.  There's nothing that can be done using QuakeC which
+      this patch is obviously written in.
+
+   c) Other than the modified super nailgun, there are no new
+      weapons for PLAYERS.  Momentum on players when hit by some weapons
+      have been modified.  Get shot with a double-barrel and you will
+      see what I mean.
+   d) use the listen parameter when invoking Quake.  For instance,
+      "quake -game doombot -listen 16".  Make sure you type in lower
+      case and not in upper case.  It is amazing how so many dummies
+      insist on typing in upper case or worse, mixed cases like
+      "qUAke - GaMe doomBOT -LiSTEn 16".
+   e) I'm releasing the bot as a separate patch because I wanted to
+      know if people liked the improvements I've made over the original
+      eliminatorbot and roambot.
+   f) two modified maps are included, START and DM6.
+   g) impulse 200 to add the bots, upto 9.  There is no way
+      to remove the bots except by exiting the level.
+   h) read the individual text files for credits on other patches
+      that were added to this patch.  There should be four text
+      files.  Without those authors as well as J. E. Wright of Cujo
+      v1.4, DoomBot would not have been created.
+   i) there is *NO* substitute for intelligent roaming.  That is why
+      I chose the eliminatorbot as a basis for DoomBot.  Other bots like
+      the ZeusBot and the Reaper bot are no match for the DoomBot at the
+      maximum skill level.  (This, of course, assumes that the map being
+      used have waypoints.)  Why?  Because DoomBot can find all the good
+      items like the Red Armor on the START map.  The other bots find
+      these items by "accident". This is not good enough.  Some bots
+      like the roambot, karnagbot, bgbot (and the "derivatives") and
+      others can't even find the red armor.
+   j) backpacks now contain all the weapons that deceased player had
+   k) deathmatch 16 puts health in backpacks.  Don't use this setting
+      with skill level 3 if you are a beginner.
+         
+   l) to use patch on a server, the clients must have a copy of
+      throwaxe.mdl in their progs directory.  That's it.  The sounds
+      are not necessary but if the clients don't want to get that
+      annoying error message, then they should get a copy of all
+      the sounds in the sound\axe directory, too.  The player.mdl
+      is optional.  However, if they don't have the right player.mdl,
+      then all the bots will look alike except for the colors.
+
+   m) IMPULSE 200 to add bots.
+
+   n) favorite: DEATHMATCH 128 to force axe only deathmatch.
+   o) deathmatch 144 (128 + 16) to force axe only and have health
+      in backpacks.
+
+   p) Bots were designed for maps with waypoints but bots
+      CAN BE USED ON MAPS WITHOUT WAYPOINTS.  For those of you who
+      used the eliminatorbot before, this means that doombot will
+      not simply jump around like an idiot.  Doombots will roam the
+      map unlike the eliminatorbot.  Without waypoints, the bots
+      are unfortunately easier to kill for the simple reason that
+      the bots do not know how to get to the more powerful weapons
+      and armor.  In other words, the bots suffer the same limitations
+      as the Zeusbot, Roambot, BGBot, Darkbot, Oakbot, Reaperbot,
+      TMBot, etc., etc.
+
+      If you decide to use maps without waypoints, why don't you play
+      a fair game by using deathmatch 128 rules? Jason does *NOT* throw
+      the axe in these deathmatches.
+
+   q) Jason bot is THE ONLY ONE who can throw the axe.  No other bot nor
+      player has this ability.
+
+   r) Jason is one of TWO bots that revives rather than respawn.  The
+      exception is that these two bots will not revive in slime or
+      lava.  The other 7 bots will revive based on chance.  Lower the
+      skill, the less likelyhood that the bot will revive.
+
+   s) Impulse 200 to add bots and please send bug reports, suggestions,
+      comments as well as suggestions on how to remove bugs to
+      legion@nether.net and legion@gaianet.net.
+
+   t) grappling hook, 16 new weapons, and many other things like 15
+      new monsters will be added.  This patch will be called Legion
+      of Doom v0.90.  So once this bot is finished, look for
+      LOD v0.90.  The current version of LOD does not have this bot.
+      Instead, it has two bots: eliminator v1.4 and BGBot v1.6.  Those
+      two bots will be replaced with DoomBot when I am finished.
+
+      For those of you who have tried the LOD patch already, why are
+      there only 16 new weapons since the LOD patch already has 17?
+
+      The answer is that Jason will be the ONLY one with the throwing
+      axe.  When version 0.90 comes out, the throwing axe will be
+      removed for the PLAYERS.  So the PLAYERS and the other 8 bots will
+      only have 16 new weapons.
+
+      I might change my mind later on but that is what I am planning
+      to do.
+
+   u) Some of you might be wondering why I named the patch "legion of
+      doom".  I really wanted to name my patch "ultimate" patch but there
+      are two other patches by that name already.  I also considered
+      "Killer Quake" but that name is already taken.  So I named it
+      after my alias I used since 1988 when I started playing an on-line
+      game called tradewars.  No, not the tradewars by the Martins.  It
+      is the one where you can bribe mercenaries for three credits per
+      fighter and where you can "trick" mercenaries to join you for free
+      by leaving one fighter defense forces all over the place.  
+   
+   v) Some of you might be wondering why did I name the bot "doombot".
+      Well, I liked the name eliminator and terminator but those names
+      are already in use.  Although the author of the eliminatorbot is
+      no longer continuing with the project, someone else has taken his
+      place.  The terminator is a client-side bot, not a QuakeC
+      (server-side) bot like mine.  But like I said, the name is already
+      taken.  I could not think of any other name.
+
+      I was tempted to name it "LagBot" after my alias, "I Cause Lags!",
+      I used in playing netquake. But I decided not to.  For the curious,
+      YES, there were dummies out there who actually thought that I caused
+      lag when I logged on.  Some people simply don't have any brains in
+      their head.
+
+   w) You will need to start quake using the "-listen 16" parameter or the
+      game will crash when you try to add more than three bots (assuming
+      you are the only real player in the game).  So load quake by
+      using one of the following:
+
+         1) quake -game doombot -listen 16
+         2) q95 -game doombot -listen 16
+
+   x) For those of you who wish to practice loading quake, add the
+      bots in single-player games.  DoomBot is a deathmatch-only
+      bot. 
+
+
+Extraction directions:
+   a) create the following directories within Quake main directory
+      doombot
+      doombot\maps
+      doombot\progs
+      doombot\sound\axe
+      doombot\text
+   b) extract all *.bsp files into the doombot\maps directory
+   c) extract all *.mdl files into doombot\progs
+   d) extract all *.wav files into doombot\sound\axe
+   e) extract all *.txt files into doombot\text
+   f) extract progs.dat into doombot
+   g) execute quake by
+      quake -game doombot -listen 16
+
+*NEW* extraction directions for v0.20b2:
+   a) copy progs.dat into doombot directory
+   b) execute quake by
+      quake -game doombot -listen 16
+
+
+Bot features:
+
+   a) varying skill levels (0 to 3).
+   b) uses waypoints to move around like the eliminatorbot.  Skill 0 to
+      0.9 bots, however, do not use waypoints.  They roam around in
+      random directions by spawning markers called "leaders".
+   c) bot uses *ALL* weapons including the axe.
+   d) bot can use buttons, platforms, etc., etc.  It can even exit
+      the level so use "noexit 1" at the console.  Don't worry, bots
+      don't jump around wildly.
+   e) bots can swim, jump, pickup health, weapons, etc., etc.
+   f) bots die in slime and lava, drown in water.  Will swim up for air,
+      however.  So you can't trick bots to kill themselves by jumping
+      into water.
+   g) bots will chase enemy around as long as enemy is alive.  Will follow
+      enemy into the water or slime.  Most of the time, it won't follow
+      enemy into the lava.
+
+      Neither the roambot nor the eliminatorbot can chase its enemy.  This
+      is my own addition to the bot.  So it ain't perfect.
+
+      What do I mean by chase?  Well, play the patch and find out.
+
+   h) uses Jonathan E. Wright's findledge function of Cujo v1.4 to
+      determine if bot should jump or not.
+   i) uses new bot_movetogoal function rather than Quake's own movetogoal
+      function to chase targets.  So bot can move over "cracked" ground
+      pretty well.  For instance, try the rocket launcher corridor of
+      the START map.  Bot uses Quake's movetogoal function when roaming,
+      however.  So you will only notice the smoother movement when the
+      bot is chasing you.
+   j) bots show up on rankings with own name and colors.  
+   k) bots use skins but players currently can not.
+   l) bots can camp.  Criteria for camping is stricter for DoomBots
+      than eliminatorbots.  Thus, a camping doombot is tougher to kill
+      than a camping eliminatorbot.
+   m) upto nine bots can be created, two of which are modified bots.
+   n) bots make comments but only very few comments.  Will add more later.
+   o) bot dead bodies are SOLID for a brief moment.  So jump over them or
+      simply wait.
+   p) other things but I've forgotten them already.
+
+   q) send comments to legion@nether.net.  Try to include suggestions
+      for improvements or corrections for bugs.
+
+   r) for best results use three to five bots and use small (eg. START)
+      to moderate (eg. DM6) size maps.
+
+   s) I almost forgot: the bot's classname is player just like a
+      real client.  I mention this for fellow bot makers who believe
+      that you can't have a classname "player" for non-clients like
+      bots.  Just make sure that you are not printing to non-clients.
+
+
+NOTES:  Doombot does *NOT* cheat like the reaperbot.  It reacts quicker
+        and aims better than real players but it does not cheat.  The bot
+        is relentless in fighting unlike real players when they sometimes
+        give up.  A bot armed with any of the nailguns or lightning gun
+        is one very dangerous bot regardless of skill level.   If a bot
+        is chasing you with a nailgun, unless the bot is weak to begin with,
+        you will be dead within 5 to 10 seconds.  Get yourself a nailgun!!
+        Against bots, these are your best weapons.  Hell, these same weapons
+        are also their best weapon against you.
+
+        The firing rate for bots are the same for players.  Okay, bots may
+        be a little slower but the rate should not be noticable.  The
+        only exception is skill 3 bots.  They fire 0.1 seconds quicker than
+        other bots.
+
+        You won't notice the difference between skill 3 and lower skilled
+        bots, however, for the nailguns and lightning gun.  Bots can't
+        fire the weapons any faster than you can.  I've tried.  They can't
+        use the axe any faster either.  The difference, if you are really
+        anal, can be detected in its use of the shotguns, grenade launcher
+        and rocket launcher.
+       
+Copyrights/Permissions/Misc
+This patch is obviously FREE!  You are given permission to distribute
+this patch UNMODFIED.  This means that all the text files including this
+text file and the text files written by others must be part of your
+distribution.  These text files must not be modified in any way.   The
+distribution process, whatever it may be, must not be commercial and it
+must be free to all.
+
+If you are unclear as to what the above paragraph means, visit the
+ftp.cdrom.com archive and pay close attention to how the files are
+distributed free to all and unmodified by the archive maintainer.
+

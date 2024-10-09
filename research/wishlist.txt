@@ -63,7 +63,6 @@ darkbt4.zip
 darkfrog.zip
 djbotmk2.zip
 dmbt20b1.zip
-dmbt20b2.zip
 dmbt20b3.zip
 dmbt21b1.zip
 dmbt21b2.zip
@@ -494,7 +493,6 @@ ctfbotp-mac.txt
 cujo12b.txt
 cujo12c.txt
 dmbt20b1.txt
-dmbt20b2.txt
 dmbt20b3.txt
 dmbt21b1.txt
 dmbt21b2.txt
