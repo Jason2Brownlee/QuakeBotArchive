@@ -15,6 +15,8 @@
 # demon.zip
 
 # normal zip files (for most, we have evidence they exist)
+wyrmb2f.zip
+wyrmb17.zip
 grdbot21.zip
 abandon1.zip
 bandem.zip
@@ -468,6 +470,8 @@ zeus20b.zip
 zeusbot.zip
 
 # txt files we expect to exist (based on zip files that exist)
+wyrmb2f.txt
+wyrmb17.txt
 grdbot21.txt
 abandon1.txt
 bgadmbot.txt
