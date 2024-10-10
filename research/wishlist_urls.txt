@@ -235,6 +235,7 @@ http://home.bip.net/khol/StaticQuad.zip
 http://home.t-online.de/home/026051408/kok220.zip
 http://home.t-online.de/home/0551705030/squirt10.zip
 http://home.t-online.de/home/blue.xevious/kok220.zip
+http://idgames.gameaholic.com/idgames/quakec/compilations/wyrmb2f.txt
 http://java.cms.livjm.ac.uk/quake/OmiEdit01.zip
 http://macquakeinfinity.com/downloads/mac_hwbot003b7final.sit.bin
 http://macspel.solgames.se/files/ctfbotp-mac-081298.sit.hqx
@@ -578,6 +579,7 @@ http://www.dmsoul.newmail.ru/bm116src.zip
 http://www.dmsoul.newmail.ru/changes.txt
 http://www.dobbsnet.btinternet.co.uk/downloads/quake/dobbsbot15b.zip
 http://www.egoshooters.com/qip/files/urqp102.zip
+http://www.fileaholic.com/idgames/quakec/compilations/wyrmb2f.txt
 http://www.fileplanet.com/dl/dl.asp?/planetquake/botarea51/bot/progdet.zip
 http://www.fileplanet.com/dl/dl.asp?/planetquake/botarea51/bot/ud120.zip
 http://www.fileplanet.com/dl/dl.asp?/planetquake/botarea51/bot/ud140.zip
