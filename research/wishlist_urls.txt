@@ -235,6 +235,7 @@ http://home.bip.net/khol/StaticQuad.zip
 http://home.t-online.de/home/026051408/kok220.zip
 http://home.t-online.de/home/0551705030/squirt10.zip
 http://home.t-online.de/home/blue.xevious/kok220.zip
+http://home.telefragged.com/wyrm/wyrm/wyrmb17.txt
 http://idgames.gameaholic.com/idgames/quakec/compilations/wyrmb2f.txt
 http://java.cms.livjm.ac.uk/quake/OmiEdit01.zip
 http://macquakeinfinity.com/downloads/mac_hwbot003b7final.sit.bin
@@ -693,6 +694,7 @@ http://www.telefragged.com/fragstain/qdevels/ftp/warbot.zip
 http://www.telefragged.com/mirrors/mirror.pl?be/fmods/demos/frogbot_demo.zip
 http://www.telefragged.com/mirrors/mirror.pl?metro/frogbot012.zip
 http://www.telefragged.com/mirrors/mirror.pl?qnm/fbedit15.zip
+http://www.telefragged.com/wyrm/wyrm/wyrmb17.txt
 http://www.time2quake.com/filez/quakec/bots/grdbot21.txt
 http://www.time2quake.com/filez/quakec/bots/grdbot21.zip
 http://www.time2quake.com/filez/quakec/compilations/wyrmb15.zip
