@@ -549,6 +549,7 @@ http://www.angelfire.com/co2/kooliobot/images/koolio.zip
 http://www.angelfire.com/co2/kooliobot/images/rakoolio.zip
 http://www.angelfire.com/pe/pent3/images/frogbot011.zip
 http://www.bluesnews.com/files/patches/bots/oak0855.zip
+http://www.bluesnews.com/files/patches/bots/tfb-v075.zip
 http://www.bluesnews.com/files/patches/bots/tfb-v076.txt
 http://www.bluesnews.com/files/patches/req_qw.zip
 http://www.botepidemic.com/fmods/bm116se.zip
