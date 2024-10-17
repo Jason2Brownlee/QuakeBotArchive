@@ -523,6 +523,7 @@ frogfix1.txt
 iwbot15.txt
 iwbot16.txt
 iwbot20.txt
+iwbot2.txt
 killer80.txt
 killer85.txt
 killer86.txt
