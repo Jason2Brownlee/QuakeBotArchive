@@ -468,6 +468,7 @@ http://tux.telefragged.com/file.pl?filename=voidm120.zip&dir=telefragged/mdqnet/
 http://web.singnet.com.sg/~mhidayat/WarBot/warbot14-dat.zip
 http://web.singnet.com.sg/~mhidayat/WarBot/warbot14-pak.zip
 http://web.singnet.com.sg/~mhidayat/WarBot/warbt13a.zip
+http://web.ukonline.co.uk/jc.burton/iwbot2.zip
 http://web.ukonline.co.uk/johnc/oak0855.zip
 http://web.ukonline.co.uk/Members/jc.burton/botskn14.zip
 http://web.ukonline.co.uk/Members/jc.burton/botskn16.txt
