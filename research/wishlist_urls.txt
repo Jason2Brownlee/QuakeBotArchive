@@ -698,6 +698,7 @@ http://www.rmbwenw.nl/botarea51/files/xreaper/setup.exe
 http://www.sqc.de/files/frogsvsp.zip
 http://www.telefragged.com/fragstain/qdevels/ftp/warbot.zip
 http://www.telefragged.com/mirrors/mirror.pl?be/fmods/demos/frogbot_demo.zip
+http://www.telefragged.com/mirrors/mirror.pl?be/fmods/qc/frog_src.zip
 http://www.telefragged.com/mirrors/mirror.pl?metro/frogbot012.zip
 http://www.telefragged.com/mirrors/mirror.pl?qnm/fbedit15.zip
 http://www.telefragged.com/wyrm/wyrm/wyrmb17.txt
