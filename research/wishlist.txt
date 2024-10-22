@@ -271,7 +271,6 @@ placebot.zip
 prodigy35b1.zip
 progdet.zip
 proj1_01.zip
-proj1_02.zip
 proj1_04.zip
 proj1_09.zip
 proj1_10.zip
