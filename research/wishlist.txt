@@ -451,7 +451,6 @@ waypoints_maker.rar
 win_bm.zip
 wlbot1.9.zip
 wyrmb1.zip
-wyrmb11.zip
 wyrmb15.zip
 xkteams1705.zip
 xkteams1705s.zip
@@ -620,7 +619,6 @@ voidm125.txt
 voidm126.txt
 voidm127.txt
 wyrmb1.txt
-wyrmb11.txt
 zeus20.txt
 zeus201.txt
 zeus201b.txt

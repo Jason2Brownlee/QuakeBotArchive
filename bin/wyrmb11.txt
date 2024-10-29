@@ -1,0 +1,564 @@
+ษอออออออออออออออออออออออออป
+บ  Title    : Wyrm beta 1 บ
+ศอออออออออออออออออออออออออผ
+
+Filename : WYRMB1.ZIP
+Version  : beta 1
+Date     : 25/08/97
+
+Author(s) : Josep del Rio
+Other mods: No more... yet
+
+Web Page : no one... yet ^^;
+
+Email    : ryo@lettera.skios.es -or- jr1293@pluto.udg.es
+
+Credits  :
+           Positron Beam, Proton Storm and Tripbomb by Nick "SiNGE" Bousman &
+                Glenn "Griphis" Saaiman (singe@ix.netcom.com, griphis@ix.netcom.com)
+           Navy Seals Weapon Patch by Minh Le (Gooseman) (gooseman@smartt.com)
+           The Severed Player Patch by Vengence of The Lone Gunmen (ven@hotmail.com)
+           Turrican's compilation by Chris Scott AKA Turrican (caramon@melb.alexia.net.au)
+           Ice Gun and Ion Mine Patch v1.0 by Matt Barnett (mbarnett@dial.pipex.com)
+	   Godel Quake C Mods v5 by David Wiedenmann (dwied@cats.ucsc.edu)
+	   Chainsaw by Peter Wickis (pwickis@bu.edu)
+	   Deft`s MDL/SOUND/MAP PACK FOR PROJECT1 by Deft (deft@ksu.ru)
+           Legion Of Doom 0.10 by "I Cause Lags!" aka legion (legion@nether.net)
+           KQP 2.00z by Howard Roy (howard@mortimer.com)
+	   Chasecam II by Rob Albin (albinatr@apci.net)
+	   Extreme PAIN Beta 2 by Jack (ghoti@erols.com)
+           Bucky Ball Gun and Mark de Haas Weapons by Mark de Haas (dehaas@blast.net)
+	   Xsoldier v2 by Bill Turner (shyft@fwb.gulf.net)
+	   Ultimate Weapons Patch by Andy Brennan (abrennan@indiana.edu)
+	   Exploding Walls by Ben Lehman (lehman@world.net)
+           TeleWeapon Patch 2.1 by Ronald E. Mercer (rmercer1@mindspring.com)
+	   Stinger by Pangloss (weblook@mmv.se)
+	   Handy Teleporter and Shield 1.0 by Dane (dane@hartle-klug.com)
+	   Cranked and Respawn by Patrick Martin (cmarti39@icon.net)
+	   Rain 1.0 by QuakeX (Whaleboy@flash.net)
+	   Quake Self Destruct by Robert Beck AKA whitetras (irc/EFnet)
+	   Hell Scrag by Toby Reed (toby@eskimo.com)
+           Quake Plus 1.7 by Werner Spahl (a1619195@smail1.rrz.uni-koeln.de)
+	   Ogre Missiles by Walter Brameld
+           Security Motion-Detectors by KTGOW (ktgow@cory.eecs.berkeley.edu)
+	   Morning Star v1.09b by "Mike" (amichael@asu.alasu.edu)
+           Guided Missiles v1.01 by Ken "Page Fault" Alverson (KenA@TSO.Cin.IX.Net)
+	   Proximity Mines by Mark Morgan (mjmorgan@usa.net)
+	   Jetpack v1.1 by Harlequin (dtebben@alumni.caltech.edu)
+	   AirFist by The Evolve team (what is the email?? :P)
+           EJECT! , Quake Flamethrower! v1.0, Demo Charges by Steve Bond (wedge@nuc.net)
+	   Monster Lure and Nail bomb by Rob Goldman (Rgold@eagle.ais.net)
+	   Blood v0.5 by Zander Collier, III (narcotic@concentric.net)
+	   Eat Gibs 1.0 by Sean Leonard (leonard@ap.net)
+	   IK Plasma by Iikka "Fingers" Ker=84nen (ikeranen@raita.oulu.fi)
+           Cujo 1.x and Blaze Gun  by Jonathan E. Wright (nelno@interpath.com)
+	   Solidmon by Jeff Epler (jepler@inetnebr.com)
+	   Gibbin3 by Jason Carter (killer3d@mindspring.com)
+	   Axe of Command by Sto (sto@pi.net)
+	   Kascam 1.7 by KASUHA (suhajda@serverpha.czcom.cz)
+	   fastqcc by Jonathan Roy (roy@atlantic.net)
+
+	   id, of course :)
+
+	Thanx to all!!!!
+
+        (if I forgot someone, please, e-mail me and i will solve my error :)
+
+
+Please, excuse me for my english descriptions, because english is not my native
+language, so I have borrowed something from other text files.
+IMPORTANT NOTE: if this version works properly on Gl-Quake, I will release a
+patch to make my patch a bunch better on it;)
+ษอออออออออออออออป
+บ  Type of Mod  บ
+ศอออออออออออออออผ
+
+Quake C  : yes
+Sound    : yes
+MDL      : yes
+
+
+ษอออออออออออออออออออออป
+บ  Format of Quake C  บ
+ศอออออออออออออออออออออผ
+
+unified diff  : no
+context diff  : no
+.qc files     : no. If you want something, please, email me
+progs.dat     : yes
+
+
+
+ษอออออออออออออออออออออออออออออออออออป
+บ  Description of the Modification  บ
+ศอออออออออออออออออออออออออออออออออออผ
+This is my first patch in Quake C. Making it I have learned a lot of this
+powerful language (thanx John Carmack!!).
+This is a Quake recompilation patch. Nearly all code has been modified by me,
+in order to join and enhance them, and I think that the result isn't bad :).
+In this beta version there is only 1 skin avaiable (the one that comes with
+severed players patch), so you can use it with only 8 megabytes of RAM and
+it's smaller to download ^^;. In the final version there will be 15, at least.
+
+
+ษอออออออออออออออออออออออออออออออออออป
+บ  How to Install the Modification  บ
+ศอออออออออออออออออออออออออออออออออออผ
+Who doesn't know this??
+Simply go to Quake dir, make a subdirectory, copy the pak file into it, and
+run quake with:
+quake -game <name of the directory>
+You can add "-winmem 16" if you have Win 95, but it works fine with 8, I think.
+
+ษอออออออออออออออออออออออออออออป
+บ  Brief summary of features  บ<--copied from Killer Quake Pack :P
+ศอออออออออออออออออออออออออออออผ
+
+New weapons  Ammo Scale*   Description     (* 1 is least powerful, 5 is most)
+=============================================================================
+(Ammo cost : S = shells, N = nails, R = rockets, C = cells, A = axe)
+
+K-bar knife     0 - (3) Very fast, and with a chance to chop other players
+Axe of Command  0 - (2) It can chop players and control enemies!!
+Throwing Axe   1A - (2-4) He he... hold it a moment and gib your enemies!!
+Morning Star    0 - (2) every patch has it :).
+Hand Grenades  1R - (4) Try this!! You can spend rockets without weapon!!
+
+Mk.23 handgun  1N - (2) Very good weapon at short range, very bad at long.
+MP5 sub gun    1N - (2) Better at long range, more speed, more bullets for clip.
+M16 rifle      1N - (3) More damage per bullet, but less bullets per clip.
+
+Mossberg       1S - (3) Hey!!it's really like a 3-D version of the DooM one!!
+2b-shotgun     2S - (4) More damage, but it cost more shells and has slow charge.
+Assault shotgun2S - (3) Shots fast and do lots of damage
+
+Air Fist        0 - (3) You can repel other people or blow away items with it.
+Trip Bombs     5R - (4) Probably the best tripbomb.Directly from Duke Nukem!!
+
+Freezethrower 1/5R- (2) HEY!! another NEW weapon from Duke Nukem!! TRY IT!!
+Flamethrower 1/10S- (2) Shots very fast, and can burn enemies!! try it :)
+Plasma Gun     1C - (3) Very effective plasma gun. Shoots fast and does a lot
+			of damage.
+
+Regular grenade 1R- (3) what to say about it??
+Nail bomb   1R&20N- (3) The a.k.a. Eraser bomb.
+Cluster bomb   7R - (4) A typical weapon in all patches
+Poison bomb    2R - (3) It will poison everyone that touches it's cloud
+
+Regular missile1R - (3) everyone know what it is :)
+Guided missile 2R - (3) Fly your missile around to hunt people down.
+Homing missile 4R - (3) Leave the work of hunting your enemies to it :)
+
+Lightning Gun  1C - (3) he he... you know more than me :)
+Positron Beam 20C - (4) This is really a Big Fucking Gun!!
+Proton Storm  50C - (5) No one will survive to this one!!!!
+
+Chainsaw        0 - (3) Cut off legs and arms of your enemies and do a lot of damage.
+Bucky ball gun 2R - (3) Do a lot of explosions.
+ "" flare mode 1R - (2) Launch a bouncing ball that burns up enemies!!
+
+Promixity mine 5R - (4) Explode when anything get close. Fairly powerful.
+Self-Destruct  5R>- (5) Only allowed when health < 20. Kill everyone with it.
+Shield            - (3) Good defensive device. Halves damage done to you.
+Hologram    2R&10C- (3) It's no good in deathmatch, but it makes enemies attack it!!
+Demo Charge    6R - (4) He he now it stick on enemies!!!!!!!!
+Stinger       25C - (5) Toast people in water, and if it doesn't land on water,
+			it shoots lightning at people near it.
+Other features:
+--------------
+
+Cujo the personal dog.
+Solid corpses, gibs, heads and backpack that you can shoot at.
+Eject shells from mossberg , double-shotgun, assault shotgun, and bullets from
+ mk23 handgun, m16 assault rifle and mp5 submachine gun.
+Chasecam.
+Handy Teleporter.
+More teamplays and deatmatch modes.
+Floating gibs and heads.
+When you take a weapon object, the weapon it gives depend of the weapons you
+ have... in example, if you don't have any shotgun, and catch the shotgun
+ object, it will give to you the mossberg, after the 2b-shotgun and after
+ the assault shotgun (to know more about this, continue reading).
+
+Monsters die in lava and slime.
+Dynamic removal of temporary entities.
+Ogres launch missiles.
+Soldiers have different types of weapons, and give different ammo when dead.
+New type of enforcer!! (from Navy Seal 1.6)
+Scrags now fire a lot!
+Enemies respawn in nightmare!!! (COOL)
+Added Cranked, which is a lot of monster enhancements. Read cranked.txt to
+ know more about this.
+Added Anti-Camping :)
+Monsters can chop you!!!
+Poison, drowning, freezeing have a new type of damage: direct damage. It
+ ignore the armor and the shield ;)
+ษอออออออออออออออออออป
+บ  SERVER Commands  บ
+ศอออออออออออออออออออผ
+
+The following commands only works on the server's console, client side will
+have no effect when these commands are entered.
+
+temp1 1         - Disable shell casings.
+temp1 2         - Disable auto-recharge in the handgun, the submachine gun
+                   and the assault rifle (you can recharge with "impulse 76").
+temp1 4         - Disable weapons aiming.
+temp1 8         - Use smaller queue for temp entities.
+temp1 16        - Use an even smaller queue for temp entities.
+temp1 32        - Disable Anti-Camping stuff
+temp1 64        - All players begin with the cheat command on :)
+
+To use multiple settings, simply add up the numbers.
+
+HINT: do you have a BIG lag??? just try setting the "deathmatch 4" and "temp1
+81". I hope it will work fine ;).
+
+ษออออออออออออออออออออป
+บ  IMPULSE Commands  บ
+ศออออออออออออออออออออผ
+
+Brief IMPULSE commands summary :
+(Please refer to the complete documentations for more info)
+
+<-- Default weapon switch commands -->
+Impulse 1    Switch between K-bar knife, Axe of Command, throwing axe,
+		Morning Star and Hand grenades.
+Impulse 2    Switch between M16 assault rifle, Mp5 submachine gun and
+		Mk23 handgun.
+Impulse 3    Switch between Assault Shotgun, Double-barrelled shotgun and
+		mossberg.
+Impulse 4    Switch between Air gun and Trip bombs.
+
+Impulse 5    Switch between Freezethrower, Flamethrower and the Plasma Gun.
+
+Impulse 6    Switch between regular grenades, bouncers, cluster grenades and
+		poison gas grenades.
+Impulse 7    Switch between regular missiles, guided missiles and homing
+		missiles.
+Impulse 8    Switch between lightning gun, positron beam and proton storm.
+
+Impulse 10   Switch between Chainsaw and Bucky Ball Gun.
+
+<-- Other misc. commands -->
+
+Impulse 17   If teamplay is 8, removes the hill, and if teamplay is 7,
+		removes the flags and bases.
+Impulse 18   If teamplay is 8, place the hill, and if teamplay is 7,
+		drop the flag.
+Impulse 19   Cycle through available teamplay modes.
+
+Impulse 21   Plant a Demo Charge
+
+Impulse 22   Explode all Demo Charges
+
+Impulse 23   Toss a stinger
+
+Impulse 25   Launch a Motion capture
+
+Impulse 26   Toggle shield on/off
+
+Impulse 27   Lay proximity mine
+
+Impulse 30   Memorize current location (for use with Handy Teleporter).
+
+Impulse 31   Teleport to memorized location, consumes 10 cells each teleport.
+
+Impulse 32   Toggle Chasecam on/off.
+
+Impulse 33   Toggle lazsight between on, off and lit mode.
+
+Impulse 36   Use 1 shell to obtain 1 cell by thermo conversion.
+
+Impulse 37   Use 1 rocket to obtain 2 cell by thermo conversion.
+
+Impulse 38   Monsters controlled with Axe of Command stay.
+
+Impulse 39   Monsters controlled with Axe of Command follow you.
+
+Impulse 40   Monsters controlled with Axe of Command go away.
+
+Impulse 75   Initiate self destruct if you have at least 5 rockets and less
+	       than 20 points of life.
+Impulse 76   Force reload weapon (only if you have M16, Mp5 or Mk23).
+
+Impulse 77   Launch a grenade if you have M16.
+
+Impulse 78   Increse grenade fuse time.
+
+Impulse 79   Decrease grenade fuse time.
+
+<-- KasCam commands -->
+
+Impulse 100  New target for KasCam
+
+Impulse 1xx  Pick the xxth player to be target
+
+Impulse 150  Turn client into camera
+
+Impulse 151  Force Flyby mode
+
+Impulse 152  Force Follow mode
+
+Impulse 153  Force Hand mode
+
+Impulse 154  Force Fly mode
+
+Impulse 155  Force Noclip mode
+
+Impulse 156  Force Fixed mode
+
+Impulse 157  Turn messages on/off
+
+Impulse 158  Get camera's current position
+
+Impulse 18x  Save current position to slot x
+
+Impulse 19x  Restore camera position of slot x
+
+<-- Cujo commands -->
+
+Impulse 60   Activates and Deactivates Cujo the dog
+
+Impulse 61   Teleport the dog to your location.
+
+Impulse 62   Toggle Cujo's light
+
+Impulse 63   Reports on Cujo's status.
+
+Impulse 64   Tell Cujo to attack or not.
+
+Impulse 66   Tell Cujo to stay or follow.
+
+Impulse 67   View throught Cujo eyes.
+
+<-- End of impulse commands list -->
+
+Use bind command to attach the impulses.
+
+Note: It's highly recomendable binding "9" to impulse 10
+
+ษอออออออออออออออออออออออออออป
+บ  How to use Modification  บ
+ศอออออออออออออออออออออออออออผ
+I've included the text files from the varies patches that I've combined,
+and compressed them into TEXT.ZIP, so you could look at them and see
+what the commands are, as well as the authors' email addresses.
+
+Weapons recollection:
+--------------------
+-Super shotgun: if you get it and you don't have mossberg, you get it.
+else, if you don't have the double-barrelled shotgun, you get it,
+and if you have the other two, you get the assault shotgun.
+-Nailgun:First you will get the MP5, and after the M16.
+-Super nailgun: first the freezethrower, after the flamethrower, and after
+the plasma gun.
+-Rocket launcher: first you will get regular missiles, after guided, and
+after homing.
+-Lightning gun: first the lightning gun, after the Positron Beam, and after
+the Proton Storm.
+
+Impulse 1 weapons:
+-----------------
+* K-bar knife: a Navy Seal weapon :). it doesn't do so much damage, but it's
+very fast and have a probability to chop enemies.
+*Axe of Command: it has been modified, so you can shot to your minions.
+This weapon can chop, too.
+*Throwing Axe: I have modified it, so you can hold it for a while and when you
+release it, the axe will move more fast, and will do more damage.
+Other chopping weapon ;).
+*Morning Star: the tipical be-in-all-patches weapon. Very cool.
+*Hand grenade: another weapon from Navy Seal patch. The explosion is one of
+the coolest things i see in Quake. It's useful if you don't have weapons that
+use rockets.
+
+Impulse 2 weapons:
+-----------------
+Note: all three weapons are from Navy Seal patch.I modified them a little, so
+they have automatic reload, aiming and cool particles when fired to a wall :)
+
+*Colt M16 Assault Rifle: Good at long and short distance. Have a 30 bullets
+clip.
+*MP5 Sub Machine Gun: it fires more fast, but do less damage per bullet. It
+also have a 50 bullets clip.
+*Mk23 Handgun: Very good at short range, but bad at a long one. It has a
+12 bullets clip.
+
+Impulse 3 weapons:
+-----------------
+*Assault Shotgun: ANOTHER weapon from Navy Seal. It's like an automatic
+shotgun, and consumes shells very fast.
+*Double-barrelled Shotgun:Cool model from Deft. It has a long reload time,but
+do 140 damage at once!! :)
+*Mossberg 590 tactical shotgun: Oh! another from Navy Seal!. It's good to
+save ammo, and for medium ranges.
+
+Impulse 4 weapons:
+-----------------
+*Airfist: Is one of the coolest weapons ever made. It doesn't need comments :)
+*Tripbombs: These tripbombs are very close to Duke ones...
+
+Impulse 5 weapons:
+-----------------
+*Freezethrower: It's the one from Ice Ion patch, but nearly all rewritten!!
+Now , ice bounce at walls, and it can... freeze the water!!!
+*Flamethrower: the code is from Quake Command, but with a cool 3d model as a
+flame, and a more cool weapon model from PAIN. When it burns someone, the fire
+is like Blaze Gun.
+*Plasma Gun: it seems like a 3-d version of DooM plasma...
+
+Impulse 6 weapons:
+-----------------
+*Normal Grenades: well... they are... normal??
+*Bouncer Grenades: they throw spikes when explode
+*Cluster Grenades: when it explode, it throws a lot of normal grenades.
+*Poison Grenades: it makes a cloud of poison gas that will poison your
+enemies.
+
+Impulse 7 weapons:
+-----------------
+*Normal Missiles: ...
+*Guided Missiles: they cost 2 rockets, and you can seek and hunt your enemy
+with it.:)
+*Homing Missiles: as above, but the missile will make it for you.
+
+Impulse 8 weapons:
+-----------------
+*Lightning Gun: the typical... no changes :PPPP
+*Positron Beam:It cost 20 cells, but it has a bunch of damage. It can kill a
+Shambler with one shot.
+*Proton Storm: Cost 50 cells, and it ANIHILATES all... I had to put a fix in
+order to stop it killing Shub with one shot :)))
+
+Impulse 10 weapons:
+-----------------
+*Chainsaw: Well... it inflicts tons of damage and chop your enemies into
+little pieces... what more can you ask for??
+*Bucky ball gun: it has two modes -normal and flare-. The first will launch a
+ball that will make an explosion every time it touch floor, and the other
+burn everithing it touch.
+
+Teamplay and Deathmatch:
+-----------------------
+New Teamplay Modes:
+* Teamplay = 4 - IT
+  The player who is IT is Red.  Everyone else is Blue.  Players killing IT
+  will get 3 frags instead of 1.  When IT kills someone, he gets no frags but
+  his victim becomes IT.
+* Teamplay = 5 - TI  
+  The player who is TI is Red.  Everyone else is Blue.  When TI kills a player
+  he gets 3 frags instead of 1.  When someone else kills TI, they become TI.
+* Teamplay = 6 - Quake-TI
+  The player who is TI is Red.  Everyone else is Blue.  TI gets quake power
+  in proportion to the number of people in the game.  8 People means TI does 8
+  times normal damage.  When someone kills TI, they become TI and get 3 frags
+  instead of 1.
+* Teamplay = 7 - Capture the Flag 
+  The game is divided into teams of Silver and Gold (pant colors 0 and 1).The
+  first person to join each team gets the flag and base.  The game begins once
+  both teams have placed their bases (impulse 18).  The goal is to get the other
+  team's flag and bring it to your base.  Once this is done, the player who
+  captured the flag gets 10 frags, and everyone on his team gets 5 frags.Flags
+  can be dropped by using impulse 18.
+* Teamplay = 8 - King of the Hill
+  In this game, the only way to get frags is the be "King of the Hill".  At the
+  start of the game, someone uses impulse 18 to place the Hill.  Any player
+  close enough to the Hill will gain 0.1 frags/second.
+
+New Deathmatch modes(only two):
+* Deathmatch = 3
+  Is simply a deathmatch with monsters. Try it with skill =3D 3!!!!
+* Deathmatch = 4
+  It's very stupid. A deathmatch with NOTHING. I think it's only useful with
+  "temp1 81" in order to get a faster game.
+
+Monster enhancements:
+--------------------
+I don't want Wyrm to be an only deathmatch compilation. I want also to enhance
+single player game experience. To do this, I added some stuff...
+-Grunts have different weapons (double-barrelled grunt can kill you with one
+shot!)
+-Ogres fire missiles if they are far enough from you.
+-Enemies respawn in nightmare!! (now it will be really a NIGHTMARE! he he)
+-Ogre, knights and hell knights can chop you  :)
+-New type of Enforcer!!! from Navy Seal patch. Completely new model!!
+-Added cranked. See cranked.txt for more details.
+-Scrags fire much more :)
+
+Map information:
+---------------
+-Added suport for Rain from QuakeX
+-Added suport for explowalls (func_explo_wall)
+-You can place "weapon_plasma_gun" and "weapon_chainsaw" in your maps.
+-New things you can place:
+	"monster_army_single"   \
+        "monster_army_double"   ณ
+        "monster_army_nails"    ณ- test "grunt.bsp"
+        "monster_army_plasma"   ณ
+	"monster_army_fire"     /
+	"monster_wizard_normal"
+	"monster_wizard_hell"
+	"item_jetpack"
+	"weapon_plasma_gun"     - test "plasma.bsp"
+	and more to come!! ;)
+
+ษอออออออออออออออออป
+บ  Testing Notes  บ
+ศอออออออออออออออออผ
+All Quake standard maps seems to run properly.
+If you have Quake 1.06, there is an all-patches problem. Game will crash
+if you load a certain number of maps... I think it's caused by the new
+models... if you have Quake 1.08 you won't get this error.
+
+Normally, I test it with 16 Mb of RAM, but it seems to run well with 8 Mb.
+Maps included:
+      GRUNT.BSP---->simple 5 grunts of different type.
+      PLASMA.BSP--->only a weapon of plasma on the screen.
+      EXPLOW.BSP--->an example of what can you do with exploding walls.
+      RAINTEST.BSP->rain from QuakeX
+      CHAINSAW.BSP->chainsaw test map. Hey !! the enforcer is COOL!!!
+
+ษออออออป
+บ Bugs บ
+ศออออออผ
+Hummmmmmmm... I have not tested it in GL-Quake... if you have it, please,
+test it (specially the plasma) and send me the result..
+-If you freeze a scrag two times, it will not fall out the second time.
+-When burning, if you use the jetpack, game could crash with a D_CheckCacheGuard
+fail.
+
+ษออออออออออออออออออออป
+บ  Revision History  บ
+ศออออออออออออออออออออผ
+25-08-97--> first release!!!! :)
+
+ษอออออออออออออออออออออป
+บ  Contacting Author  บ
+ศอออออออออออออออออออออผ
+Send comments, opinions, ideas, bugs,... at
+
+ryo@lettera.skios.es
+
+or
+
+jr1293@pluto.udg.es
+
+ษออออออออออออออออออออออออออออออออออออออออออป
+บ  Copyright and Distribution Permissions  บ
+ศออออออออออออออออออออออออออออออออออออออออออผ
+
+* Authors MAY use these modifications as a basis for other
+publically available work.  Please send me any modifications
+you make!
+
+* If you have used part of this patch (code, model or sound) in
+your own patch, please give credits to the authors who have made
+them - including myself. Thank you.
+
+* You may distribute this Quake modification in any electronic
+format as long as this description file remains intact and unmodified
+and is retained along with all of the files in the archive.
+
+* The above permissions do not apply to Actura Software, who may not do
+anything, in any form, in any way, by any means with these files,
+including, but not limited to, sale and redistribution of the software.
