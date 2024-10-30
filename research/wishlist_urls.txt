@@ -160,6 +160,7 @@ http://asp.planetquake.com/dl/dl.asp?/holywars/hwqwbot.zip
 http://asp.planetquake.com/dl/dl.asp?/holywars/hwqwbotv101b.exe
 http://asp.planetquake.com/dl/dl.asp?/holywars/hwqwbotv101c.sit
 http://asp.planetquake.com/dl/dl.asp?/holywars/quake/hw_frogbot14f.zip
+http://asp.planetquake.com/dl/dl.asp?requiem/reqqw20i.zip
 http://asp.planetquake.com/dl/dl.asp?requiem/reqqwsrc.zip
 http://aswp.tzo.net/maleficus/setup.zip
 http://c4denn.chat.ru/filezz/frog2k.rar
@@ -325,6 +326,8 @@ http://peak-two.uplb.edu.ph/~ralr/gbdemo.zip
 http://pelit.saunalahti.fi/telenation/telefragged/inside3d/qip/q1/urqp105beta.zip
 http://perso.wanadoo.fr/montanuy/bot/termbot-src-096.tar.gz
 http://perso.wanadoo.fr/montanuy/bot/trmbot96.zip
+http://planetquake.com/dl/dl.asp?requiem/reqqw23.zip
+http://planetquake.com/dl/dl.asp?requiem/reqqwsrc.zip
 http://pw2.netcom.com/~kroeker/glqb17.zip
 http://pw2.netcom.com/~kroeker/GLQBbeta.zip
 http://pw2.netcom.com/~kroeker/glqwb17.zip
