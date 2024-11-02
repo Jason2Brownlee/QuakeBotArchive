@@ -488,7 +488,6 @@ bplayer1.txt
 btsk10.txt
 btsk21.txt
 btsk22.txt
-ctfbotp-mac.txt
 cujo12b.txt
 cujo12c.txt
 dmbt20b1.txt

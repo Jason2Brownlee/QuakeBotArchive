@@ -1,0 +1,329 @@
+============================================================
+
+CTFBot+ for MacQuake instructions (08/10/98)
+
+============================================================
+
+
+
+NOTE: This is an unsupported release,if you have any
+
+problems or question's please email me at
+
+pbuddha@infonet.isl.net
+
+
+
+I am NOT accountable for loss of life or limb or drives...
+
+use at your OWN RISK!
+
+
+
+IMPORTANT! you must follow these steps or CTFBot+ will not
+
+work with MacQuake!
+
+
+
+The Lowdown: CTFBot+ is a cool client-side bot for playing
+
+Threewave Capture the Flag.
+
+
+
+Don't know what Capture the Flag is? check it out......
+
+http://www.captured.com/threewave/
+
+
+
+The CTFBot+ homepage can be found at
+
+http://www.captured.com/ctfbot/
+
+
+
+I'm assuming you know a little about quake and know how to
+
+play CTF (more info,www.captured.com),also READ THE DOCS! I
+
+can't stress that enough, the CTFBot+ docs are located in
+
+the "docs" folder check them out so you know what its all
+
+about.
+
+
+
+============================================================
+
+Requirements to play CTFBot+ in MacQuake:
+
+
+
+You must get the threewave client side patches
+
+(http://www.captured.com/threewave/files.html)
+
+you need 3.0 and 4.0,but there is an archive with both..
+
+download it!
+
+============================================================
+
+
+
+============================================================
+
+Playing CTFBot+:
+
+
+
+Put this folder (ctfbotp) in your quake folder.  Make sure
+
+pak0.pak and pak1.pak from the Threewave .zip you downloaded
+
+are in the ctfbot folder, you MUST have the 2 pak's to play.
+
+You then will have pak0.pak pak1.pak and pak2.pak in your
+
+ctfbot folder.
+
+
+
+Now drag and drop the whole folder onto your quake
+
+application(note:3dfx is untested..) Quake should
+
+boot now.  It should have the CTF flags as the backround
+
+splash screen, if it doesnt, it did not load the CTF .pak
+
+files.
+
+
+
+Once your in quake it will drop you into CTF1.  To play
+
+with the bots you MUST initiate a multi-player game.  Also
+
+you MUST check the multiplayer option's and make sure your
+
+max players is set to 15. Choose your frag and timelimit
+
+(note CTF games have higher frag limits due to the scoring)
+
+then click on START to start a multiplayer game. It doesnt
+
+matter what level you start on, as you'll be changing maps
+
+from the console (hit the ~ key).
+
+(Note: when you start the game up you CAN play right away ,
+
+but if you do not start a multi-player game, you will not be able
+
+ to see the bots on the scoreboard.)
+
+
+
+Bring down the console and type in "map ctf1" or any of the
+
+other supported ctf maps, the included .dat file has
+
+waypoints for :
+
+
+
+ctf1
+
+ctf2
+
+ctf3
+
+ctf4
+
+ctf5
+
+ctf6
+
+ctf7
+
+ctf8
+
+ctf2m1
+
+ctf2m2
+
+ctf2m3
+
+ctf2m4
+
+ctf2m5
+
+ctf2m6
+
+ctf2m7
+
+ctf2m8
+
+ctf3m1
+
+ctf3m2
+
+ctf3m3
+
+ctf3m4
+
+ctf3m5
+
+ctf3m6
+
+ctf3m7
+
+ctf3m8
+
+ctf3m9
+
+tonyctf2
+
+tonyctf3
+
+tonyctf3x
+
+tonyctf4
+
+tonyctf5
+
+tonyctf6
+
+tonyctf7
+
+tonyctf8
+
+
+
+On other maps you won't be able to order the bots around.
+
+If anyone wants the id maps or any of the Thunderwalker maps
+
+with waypoints, let me know for the next release (note the
+
+TW wepons and runes are NOT supported, just the maps....they
+
+go, with any other 3rd party maps in the "maps" folder)
+
+
+
+
+
+Currently several keys are bound by default:
+
+
+
+F5	will spawn a friendly bot
+
+F6	will spawn an enemy bot
+
+F7 will remove red bot
+
+F8 will remove blue bot
+
+
+
+q	bot attack
+
+w	bot defend
+
+e	bot escort
+
+r toss wepon
+
+t toss ammo
+
+y will toss flag
+
+u toss rune
+
+
+
+
+
+Please read the ctfbot+.txt file for information on changing
+
+the DEATHMATCH variable.  By default "Weapons stay" is on.
+
+
+
+Please read the ctfbot14.txt file for information on
+
+changing the TEAMPLAY variable.  By default it's set to 4067 which enables
+
+health protect
+
+armor protect
+
+static teams
+
+drop items
+
+custom capture
+
+team select
+
+impulse freedom
+
+
+
+These variables can be changed by modifying the autoexec.cfg file in the
+
+ctfbotp folder.
+
+please see documentation for info on how to tweak these to your liking.
+
+
+
+Bot skill is 1 by default, type "skill0", "skill1", "skill2"
+
+or "skill3"  before spawning bots to change (see the docs
+
+for more bot info)
+
+
+
+Note for 3dfx users: as I have no mac 3d card this is untested, but if the
+
+bots
+
+all spawn orange or some other color,try typing "TEMP1 8" at the console before
+
+spawning the bots. If it works please e-mail me and let me know! I hope to
+
+test 3dfx
+
+quake and rave quake soon.
+
+
+
+The docs tell you what impulses you can bind for other
+
+options...read them!!  To play on a LAN all players must
+
+have the same ctfbot folder.  LAN play on a mac is untested,
+
+so no whining if it crashes. (if you want more mac testing,
+
+send me another power mac:)
+
+
+
+-Buddhabox
+
+pbuddha@infonet.isl.net
+
+============================================================
+
+Special thanks to Tony "*this" Distler for all his input and his amazing
+
+creation.
