@@ -6,6 +6,9 @@ ftp://flinux.tu-graz.ac.at/pub/idsoftware2/quakec/bots/darkbt4.zip
 ftp://ftp.3ddownloads.com/59686/telefragged/be/fmods/bm121r3.zip
 ftp://ftp.canvasnet.com/quake/qc/elim10.zip
 ftp://ftp.canvasnet.com/quake/qc/elim13.zip
+ftp://ftp.cdrom.com/pub/idgames2/planetquake/hwqwbot.exe
+ftp://ftp.cdrom.com/pub/idgames2/planetquake/hwqwbot.sit
+ftp://ftp.cdrom.com/pub/idgames2/planetquake/hwqwbot.zip
 ftp://ftp.cdrom.com/pub/idgames2/planetquake/mikebot/binary/mikeBot95.zip
 ftp://ftp.cdrom.com/pub/idgames2/planetquake/mikebot/binary/mikebot-AIX.tar.gz
 ftp://ftp.cdrom.com/pub/idgames2/planetquake/mikebot/binary/mikebot-IRIX.tar.gz
@@ -195,11 +198,17 @@ http://dmsoul.newmail.ru/src.ZIP
 http://first.quakegate.ru/bots/frogbot.rar
 http://ftp.cdrom.com/pub/quake/quakec/bots/btsk22.zip
 http://ftp.fragzone.se/?file=spel/quake/bots/fbca100kt.zip
+http://ftp.gamers.org/pub/games/idgames2/planetquake/holywars/hwqwbot.exe
+http://ftp.gamers.org/pub/games/idgames2/planetquake/holywars/hwqwbot.sit
+http://ftp.gamers.org/pub/games/idgames2/planetquake/holywars/hwqwbot.zip
 http://ftp.gamers.org/pub/games/idgames2/planetquake/hwqwbot.exe
 http://ftp.gamers.org/pub/games/idgames2/planetquake/hwqwbot.sit
 http://ftp.gamers.org/pub/games/idgames2/planetquake/hwqwbot.zip
 http://ftp.gamers.org/pub/games/idgames2/planetquake/reqqw2a.zip
 http://ftp.gamers.org/pub/games/idgames2/planetquake/reqqwsrc.zip
+http://ftp.gamers.org/pub/games/idgames2/planetquake/requiem/reqqw20i.zip
+http://ftp.gamers.org/pub/games/idgames2/planetquake/requiem/reqqw2a.zip
+http://ftp.gamers.org/pub/games/idgames2/planetquake/requiem/reqqwsrc.zip
 http://ftp.sunet.se/idgames2/planetquake/requiem/reqqw20i.zip
 http://ftp.sunet.se/idgames2/planetquake/requiem/reqqw23.zip
 http://ftp.sunet.se/idgames2/planetquake/requiem/reqqw2a.zip
