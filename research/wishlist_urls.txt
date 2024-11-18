@@ -46,7 +46,6 @@ ftp://ftp.epix.net/pub/telefragged/be/fmods/Accuracy.zip
 ftp://ftp.epix.net/pub/telefragged/be/fmods/demos/frogbot_demo.zip
 ftp://ftp.epix.net/pub/telefragged/be/fmods/fbarena050.zip
 ftp://ftp.epix.net/pub/telefragged/be/fmods/hwqwbot.zip
-ftp://ftp.epix.net/pub/telefragged/metro/frogbot012.zip
 ftp://ftp.epix.net/pub/telefragged/qnm/fbedit15.zip
 ftp://ftp.gamers.org/pub/games/idgames2/quakec/bots/darkbt4.zip
 ftp://ftp.gamezone.mweb.co.za/pub/mirrors/telefragged/inside3d/qip/q1/urqp105beta.zip
@@ -71,7 +70,6 @@ ftp://ftp.saix.net/pub/telefragged/be/fmods/Accuracy.zip
 ftp://ftp.saix.net/pub/telefragged/be/fmods/demos/frogbot_demo.zip
 ftp://ftp.saix.net/pub/telefragged/be/fmods/fbarena050.zip
 ftp://ftp.saix.net/pub/telefragged/be/fmods/hwqwbot.zip
-ftp://ftp.saix.net/pub/telefragged/metro/frogbot012.zip
 ftp://ftp.saix.net/pub/telefragged/qnm/fbedit15.zip
 ftp://ftp.sci.fi/pub/idgames2/planetquake/seals/sqdbt201.zip
 ftp://ftp.softjoys.ru/entert/3d_games/newstuff/proj1_14.zip
@@ -85,10 +83,8 @@ ftp://ftp.telefragged.com/be/fmods/Accuracy.zip
 ftp://ftp.telefragged.com/be/fmods/demos/frogbot_demo.zip
 ftp://ftp.telefragged.com/be/fmods/fbarena050.zip
 ftp://ftp.telefragged.com/be/fmods/hwqwbot.zip
-ftp://ftp.telefragged.com/metro/frogbot012.zip
 ftp://ftp.telefragged.com/pub/be/ents/OmiEdit01.zip
 ftp://ftp.telefragged.com/pub/metro/frogbot007.zip
-ftp://ftp.telefragged.com/pub/metro/frogbot012.zip
 ftp://ftp.telefragged.com/pub/qnm/fbedit13.zip
 ftp://ftp.telefragged.com/pub/qnm/fbedit15.zip
 ftp://ftp.telefragged.com/pub/qnm/fbedit17.zip
@@ -100,7 +96,6 @@ ftp://ftp.telepac.pt/pub/idgames2/planetquake/holywars/hwqwbotv101c.sit
 ftp://ftp.telepac.pt/pub/idgames2/planetquake/holywars/hwqwbotv101c.zip
 ftp://ftp.telepac.pt/pub/idgames2/planetquake/seals/sqdbt201.zip
 ftp://ftp.telepac.pt/pub/idgames2/quakec/bots/darkbt4.zip
-ftp://ftp.telepac.pt/pub/idgames2/telefragged/epidemic/frogbot012.zip
 ftp://ftp.telepac.pt/pub/idgames2/telefragged/epidemic/frogbot012a.zip
 ftp://ftp.telepac.pt/pub/idgames2/telefragged/metro/frogbot007.zip
 ftp://ftp.torget.se/pub/games/quake/multiplayer/req107b.zip
@@ -112,21 +107,18 @@ ftp://ftp1.action.updates.cx/pub/mirrors/telefragged/be/fmods/Accuracy.zip
 ftp://ftp1.action.updates.cx/pub/mirrors/telefragged/be/fmods/demos/frogbot_demo.zip
 ftp://ftp1.action.updates.cx/pub/mirrors/telefragged/be/fmods/fbarena050.zip
 ftp://ftp1.action.updates.cx/pub/mirrors/telefragged/be/fmods/hwqwbot.zip
-ftp://ftp1.action.updates.cx/pub/mirrors/telefragged/metro/frogbot012.zip
 ftp://ftp1.action.updates.cx/pub/mirrors/telefragged/qnm/fbedit15.zip
 ftp://ftp2.3ddownloads.com/pub/telefragged/inside3d/qip/q1/urqp105beta.zip
 ftp://ftp2.action.updates.cx/pub/mirrors/telefragged/be/fmods/Accuracy.zip
 ftp://ftp2.action.updates.cx/pub/mirrors/telefragged/be/fmods/demos/frogbot_demo.zip
 ftp://ftp2.action.updates.cx/pub/mirrors/telefragged/be/fmods/fbarena050.zip
 ftp://ftp2.action.updates.cx/pub/mirrors/telefragged/be/fmods/hwqwbot.zip
-ftp://ftp2.action.updates.cx/pub/mirrors/telefragged/metro/frogbot012.zip
 ftp://ftp2.action.updates.cx/pub/mirrors/telefragged/qnm/fbedit15.zip
 ftp://ftp2.hidden.org/pub/mirrors/telefragged/inside3d/qip/q1/urqp105beta.zip
 ftp://ftp3.action.updates.cx/pub/mirrors/telefragged/be/fmods/Accuracy.zip
 ftp://ftp3.action.updates.cx/pub/mirrors/telefragged/be/fmods/demos/frogbot_demo.zip
 ftp://ftp3.action.updates.cx/pub/mirrors/telefragged/be/fmods/fbarena050.zip
 ftp://ftp3.action.updates.cx/pub/mirrors/telefragged/be/fmods/hwqwbot.zip
-ftp://ftp3.action.updates.cx/pub/mirrors/telefragged/metro/frogbot012.zip
 ftp://ftp3.action.updates.cx/pub/mirrors/telefragged/qnm/fbedit15.zip
 ftp://macquakeinfinity.com/numb/holywars/downloads/hw_frogbot.zip
 ftp://mirror.aarnet.edu.au/pub/idgames2/planetquake/seals/sqdbt201.zip
@@ -163,10 +155,8 @@ ftp://sunsite.doc.ic.ac.uk/packages/idgames2/planetquake/holywars/hwqwbotv101c.z
 ftp://sunsite.doc.ic.ac.uk/packages/idgames2/planetquake/seals/sqdbt201.zip
 ftp://sunsite.doc.ic.ac.uk/packages/idgames2/quakec/bots/darkbt4.zip
 ftp://www.clan-rum.org/quake/bots/src_fbca099.zip
-ftp://www.quake.orc.ru/quake/utils//frogbot012.zip
 http://203.32.12.18/project/placebot.zip
 http://204.50.28.112/qexpo/upload/61/waypack1.zip
-http://abone.turk.net/bear/frogbot012.zip
 http://asp.planetquake.com/dl/dl.asp?/botshop/quakeworld-20000102.tar.gz
 http://asp.planetquake.com/dl/dl.asp?/botshop/quakeworld-991229.tar.gz
 http://asp.planetquake.com/dl/dl.asp?/holywars/hwqwbot.exe
@@ -237,10 +227,8 @@ http://ftp.telepac.pt/pub/idgames2/planetquake/holywars/hwqwbotv101c.sit
 http://ftp.telepac.pt/pub/idgames2/planetquake/holywars/hwqwbotv101c.zip
 http://ftp.telepac.pt/pub/idgames2/quakec/compilations/urqp102.zip
 http://ftp.telepac.pt/pub/idgames2/quakec/compilations/urqp103.zip
-http://ftp.telepac.pt/pub/idgames2/telefragged/epidemic/frogbot012.zip
 http://ftp.telepac.pt/pub/idgames2/telefragged/epidemic/frogbot012a.zip
 http://ftp.telepac.pt/pub/idgames2/telefragged/metro/frogbot007.zip
-http://ftp.telepac.pt/pub/idgames2/telefragged/metro/frogbot012.zip
 http://ftp.telepac.pt/pub/idgames2/telefragged/qnm/fbedit13.zip
 http://ftp.telepac.pt/pub/idgames2/telefragged/qnm/fbedit14.zip
 http://ftp.telepac.pt/pub/idgames2/telefragged/qnm/fbedit15.zip
@@ -308,6 +296,7 @@ http://numb.macquakeinfinity.com/bugfix/progs.zip
 http://numb.macquakeinfinity.com/bugfix/qwprogs.zip
 http://numb.quakeintosh.com/users/gerrybabe/holywars/frog/hwqwbot.exe
 http://numb.quakeintosh.com/users/gerrybabe/holywars/frog/hwqwbot.sit
+http://numb.quakeintosh.com/users/gerrybabe/holywars/frog/hwqwbot.zip
 http://nygmafiles.essentrix.net/bots/djbotmk2.zip
 http://nygmafiles.essentrix.net/bots/frogbot/fbarena.zip
 http://nygmafiles.essentrix.net/bots/warbot.zip
@@ -365,11 +354,9 @@ http://quake.crimea.ua/files/quake/bots/fbca091kt.zip
 http://quake.crimea.ua/files/quake/bots/fbca095kt.zip
 http://quake.crimea.ua/files/quake/bots/fbca096kt.zip
 http://quake.crimea.ua/files/quake/bots/fbca097kt.zip
-http://quake.crimea.ua/files/quake/bots/frogbot012.zip
 http://quake.crimea.ua/files/quake/bots/frogbot_mod.zip
 http://quake.morda.ru/files/pablo_the_bot.zip
 http://quake.org.pl/files/frogbot007.zip
-http://quake.org.pl/files/quake/boty/frogbot/frogbot012.zip
 http://quake.org.pl/files/quake/boty/frogboteditor/fbedit17.zip
 http://quake.org.pl/files/quake/requiem/reqqw20i.zip
 http://quake.org.pl/pliki/fbedit15.zip
@@ -406,6 +393,9 @@ http://src.doc.ic.ac.uk/Mirrors/ftp.freebsd.org/pub/planetquake/requiem/reqqw20i
 http://src.doc.ic.ac.uk/Mirrors/ftp.freebsd.org/pub/planetquake/requiem/reqqw23.zip
 http://src.doc.ic.ac.uk/Mirrors/ftp.freebsd.org/pub/planetquake/requiem/reqqw2a.zip
 http://src.doc.ic.ac.uk/Mirrors/ftp.freebsd.org/pub/planetquake/requiem/reqqwsrc.zip
+http://src.doc.ic.ac.uk/computing/vendor/idgames2/telefragged/epidemic/frogbot012a.zip
+http://src.doc.ic.ac.uk/computing/vendor/idgames2/telefragged/metro/frogbot007.zip
+http://src.doc.ic.ac.uk/packages/idgames2/telefragged/metro/frogbot007.zip
 http://src.doc.ic.ac.uk/public/Mirrors/ftp.cdrom.com/pub/planetquake/holywars/hw_frogbot.exe
 http://src.doc.ic.ac.uk/public/Mirrors/ftp.cdrom.com/pub/planetquake/holywars/hw_frogbot.sit.bin
 http://src.doc.ic.ac.uk/public/Mirrors/ftp.cdrom.com/pub/planetquake/holywars/hw_frogbot.zip
@@ -420,6 +410,9 @@ http://src.doc.ic.ac.uk/public/computing/vendor/idgames2/planetquake/requiem/req
 http://src.doc.ic.ac.uk/public/computing/vendor/idgames2/planetquake/requiem/reqqw23.zip
 http://src.doc.ic.ac.uk/public/computing/vendor/idgames2/planetquake/requiem/reqqw2a.zip
 http://src.doc.ic.ac.uk/public/computing/vendor/idgames2/planetquake/requiem/reqqwsrc.zip
+http://src.doc.ic.ac.uk/public/computing/vendor/idgames2/telefragged/epidemic/frogbot012a.zip
+http://src.doc.ic.ac.uk/public/computing/vendor/idgames2/telefragged/metro/frogbot007.zip
+http://src.doc.ic.ac.uk/public/packages/idgames2/telefragged/metro/frogbot007.zip
 http://ssj4death.condemned.com/gb/gbped10.zip
 http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/holywars/hw_frogbot.exe
 http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/holywars/hw_frogbot.sit.bin
@@ -428,10 +421,8 @@ http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/requiem/
 http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/requiem/reqqw23.zip
 http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/requiem/reqqw2a.zip
 http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/requiem/reqqwsrc.zip
-http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/telefragged/epidemic/frogbot012.zip
 http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/telefragged/epidemic/frogbot012a.zip
 http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/telefragged/metro/frogbot007.zip
-http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/telefragged/metro/frogbot012.zip
 http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/telefragged/qnm/fbedit13.zip
 http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/telefragged/qnm/fbedit14.zip
 http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/telefragged/qnm/fbedit15.zip
@@ -443,10 +434,8 @@ http://sunsite.org.uk/packages/idgames2/planetquake/requiem/reqqw20i.zip
 http://sunsite.org.uk/packages/idgames2/planetquake/requiem/reqqw23.zip
 http://sunsite.org.uk/packages/idgames2/planetquake/requiem/reqqw2a.zip
 http://sunsite.org.uk/packages/idgames2/planetquake/requiem/reqqwsrc.zip
-http://sunsite.org.uk/packages/idgames2/telefragged/epidemic/frogbot012.zip
 http://sunsite.org.uk/packages/idgames2/telefragged/epidemic/frogbot012a.zip
 http://sunsite.org.uk/packages/idgames2/telefragged/metro/frogbot007.zip
-http://sunsite.org.uk/packages/idgames2/telefragged/metro/frogbot012.zip
 http://sunsite.org.uk/packages/idgames2/telefragged/qnm/fbedit13.zip
 http://sunsite.org.uk/packages/idgames2/telefragged/qnm/fbedit14.zip
 http://sunsite.org.uk/packages/idgames2/telefragged/qnm/fbedit15.zip
@@ -497,8 +486,6 @@ http://tux.telefragged.com/file.pl?filename=fixedsrc.zip&dir=telefragged/be/fmod
 http://tux.telefragged.com/file.pl?filename=fixedsrc.zip&dir=telefragged/be/fmods/other/
 http://tux.telefragged.com/file.pl?filename=frog_src.zip&dir=telefragged/be/fmods/qc
 http://tux.telefragged.com/file.pl?filename=frog_src.zip&dir=telefragged/be/fmods/qc/
-http://tux.telefragged.com/file.pl?filename=frogbot012.zip&dir=telefragged/be/metro
-http://tux.telefragged.com/file.pl?filename=frogbot012.zip&dir=telefragged/be/metro/
 http://tux.telefragged.com/file.pl?filename=frogffa.zip&dir=telefragged/be/fmods/demos
 http://tux.telefragged.com/file.pl?filename=frogffa.zip&dir=telefragged/be/fmods/demos/
 http://tux.telefragged.com/file.pl?filename=gem_dm6.zip&dir=telefragged/be/fmods/demos
@@ -570,8 +557,6 @@ http://www.3ddownloads.com/showfile.php3?filename=fbph.zip&directory=/telefragge
 http://www.3ddownloads.com/showfile.php3?filename=fixedsrc.zip&directory=/telefragged/be/fmods/other/
 http://www.3ddownloads.com/showfile.php3?filename=frog_src.zip&directory=/telefragged/be/fmods/qc
 http://www.3ddownloads.com/showfile.php3?filename=frog_src.zip&directory=/telefragged/be/fmods/qc/
-http://www.3ddownloads.com/showfile.php3?filename=frogbot012.zip&directory=/telefragged/metro
-http://www.3ddownloads.com/showfile.php3?filename=frogbot012.zip&directory=/telefragged/metro/
 http://www.3ddownloads.com/showfile.php3?filename=frogffa.zip&directory=/telefragged/be/fmods/demos/
 http://www.3ddownloads.com/showfile.php3?filename=frogffa.zip&directory=/telefragged/be/fmods/demos/
 http://www.3ddownloads.com/showfile.php3?filename=gem_dm6.zip&directory=/telefragged/be/fmods/demos/
@@ -599,7 +584,6 @@ http://www.3ddownloads.com/showfile.php3?filename=vicinity/vicinityqwprogs.zip&d
 http://www.3ddownloads.com/showfile.php3?filename=vicinity/vicinityqwprogs.zip&directory=/telefragged/be/fmods/
 http://www.3ddownloads.com/showfile.php3?filename=vicinity/vicinitysource.zip&directory=/telefragged/be/fmods
 http://www.3ddownloads.com/showfile.php3?filename=vicinity/vicinitysource.zip&directory=/telefragged/be/fmods/
-http://www.3ddownloads.com/telefragged/metro/frogbot012.zip
 http://www.acc.umu.se/~khol/Combination.zip
 http://www.acc.umu.se/~khol/MatchCount.zip
 http://www.acc.umu.se/~khol/MiscBan.zip
@@ -649,6 +633,7 @@ http://www.dmsoul.newmail.ru/changes.txt
 http://www.dobbsnet.btinternet.co.uk/downloads/quake/dobbsbot15b.zip
 http://www.egoshooters.com/qip/files/urqp102.zip
 http://www.fileaholic.com/idgames/quakec/compilations/wyrmb2f.txt
+http://www.fileplanet.com/dl/dl.asp?/holywars/quake/hw_frogbot14f.zip
 http://www.fileplanet.com/dl/dl.asp?/planetquake/botarea51/bot/progdet.zip
 http://www.fileplanet.com/dl/dl.asp?/planetquake/botarea51/bot/ud120.zip
 http://www.fileplanet.com/dl/dl.asp?/planetquake/botarea51/bot/ud140.zip
@@ -722,8 +707,6 @@ http://www.parboil.quakeworld.ru/tappak/fbca102pre_beta.zip
 http://www.parboil.quakeworld.ru/tappak/src102.zip
 http://www.parboil.quakeworld.ru/tempfb/fbca102rc2.zip
 http://www.pixelshower.com/Vault/game/prodigy35b1.zip
-http://www.planetquake.com/botarea51/main/download.asp?name=frogbot012.zip&referrer=main/qbots.asp
-http://www.planetquake.com/botarea51/main/download.asp?name=frogbot012.zip&referrer=qbots.asp
 http://www.planetquake.com/botarea51/main/download.asp?name=ud120.zip&referrer=main/qbot.asp?id=21
 http://www.planetquake.com/ctfbot/ctfbot+debug060298.zip
 http://www.planetquake.com/requiem/files/bugfix1.zip
@@ -742,7 +725,6 @@ http://www.quake.crimea.ua/files/quake/bots/fbca095kt.zip
 http://www.quake.crimea.ua/files/quake/bots/fbca096kt.zip
 http://www.quake.crimea.ua/files/quake/bots/fbca097kt.zip
 http://www.quake.kiev.ua/spirit/demos/q1/spvsfrog.zip
-http://www.quake.orc.ru/ftp/utils/frogbot012.zip
 http://www.quakebot.net/glkolor.zip
 http://www.quakebot.net/glqb17f.zip
 http://www.quakebot.net/qb17f.zip
@@ -763,9 +745,7 @@ http://www.telefragged.com/mirrors/mirror.pl?be/fmods/demos/frogbot_demo.zip
 http://www.telefragged.com/mirrors/mirror.pl?be/fmods/fbarena050.zip
 http://www.telefragged.com/mirrors/mirror.pl?be/fmods/hwqwbot.zip
 http://www.telefragged.com/mirrors/mirror.pl?be/fmods/qc/frog_src.zip
-http://www.telefragged.com/mirrors/mirror.pl?epidemic/frogbot012.zip
 http://www.telefragged.com/mirrors/mirror.pl?epidemic/frogbot012a.zip
-http://www.telefragged.com/mirrors/mirror.pl?metro/frogbot012.zip
 http://www.telefragged.com/mirrors/mirror.pl?qnm/fbedit15.zip
 http://www.telefragged.com/wyrm/wyrm/wyrmb17.txt
 http://www.time2quake.com/filez/quakec/bots/grdbot21.txt

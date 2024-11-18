@@ -176,7 +176,6 @@ frogbot001.zip
 frogbot007.zip
 frogbot011.zip
 frogbot012.sit
-frogbot012.zip
 frogbot012a.zip
 frogbot7.zip
 frogbot_mod.zip
