@@ -395,6 +395,7 @@ http://src.doc.ic.ac.uk/Mirrors/ftp.freebsd.org/pub/planetquake/requiem/reqqw2a.
 http://src.doc.ic.ac.uk/Mirrors/ftp.freebsd.org/pub/planetquake/requiem/reqqwsrc.zip
 http://src.doc.ic.ac.uk/computing/vendor/idgames2/telefragged/epidemic/frogbot012a.zip
 http://src.doc.ic.ac.uk/computing/vendor/idgames2/telefragged/metro/frogbot007.zip
+http://src.doc.ic.ac.uk/packages/idgames2/telefragged/epidemic/frogbot012a.zip
 http://src.doc.ic.ac.uk/packages/idgames2/telefragged/metro/frogbot007.zip
 http://src.doc.ic.ac.uk/public/Mirrors/ftp.cdrom.com/pub/planetquake/holywars/hw_frogbot.exe
 http://src.doc.ic.ac.uk/public/Mirrors/ftp.cdrom.com/pub/planetquake/holywars/hw_frogbot.sit.bin
@@ -412,6 +413,7 @@ http://src.doc.ic.ac.uk/public/computing/vendor/idgames2/planetquake/requiem/req
 http://src.doc.ic.ac.uk/public/computing/vendor/idgames2/planetquake/requiem/reqqwsrc.zip
 http://src.doc.ic.ac.uk/public/computing/vendor/idgames2/telefragged/epidemic/frogbot012a.zip
 http://src.doc.ic.ac.uk/public/computing/vendor/idgames2/telefragged/metro/frogbot007.zip
+http://src.doc.ic.ac.uk/public/packages/idgames2/telefragged/epidemic/frogbot012a.zip
 http://src.doc.ic.ac.uk/public/packages/idgames2/telefragged/metro/frogbot007.zip
 http://ssj4death.condemned.com/gb/gbped10.zip
 http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/holywars/hw_frogbot.exe
