@@ -1,4 +1,4 @@
-# CujoBot
+# Cujo
 
 Cujo or Cujobot is a helper bot in the form of a rottweiler dog monster from the singleplayer game, created by Jonathan E. Wright.
 
