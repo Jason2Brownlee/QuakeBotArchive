@@ -105,7 +105,24 @@ Robert provides some details on how he developed the client emulation, stating t
 
 -- frogphys00.txt
 
+**Links:**
 
+* ftp://ftp.cdrom.com/pub/idgames2/planetquake/botshop/frogphys00.zip
+* http://asp.planetquake.com/dl/dl.asp?/botshop/frogphys00.zip
+* http://ftp.sunet.se/planetquake/botshop/frogphys00.zip
+* http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/botshop/frogphys00.zip
+* http://ftp.telepac.pt/pub/idgames2/planetquake/botshop/frogphys00.zip
+* http://mirror.aarnet.edu.au/games/planetquake/botshop/frogphys00.zip
+* http://src.doc.ic.ac.uk/Mirrors/ftp.freebsd.org/pub/planetquake/botshop/frogphys00.zip
+* http://src.doc.ic.ac.uk/public/Mirrors/ftp.cdrom.com/pub/planetquake/botshop/frogphys00.zip
+* http://src.doc.ic.ac.uk/public/computing/vendor/idgames2/planetquake/botshop/frogphys00.zip
+* http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/botshop/frogphys00.zip
+* http://sunsite.org.uk/packages/idgames2/planetquake/botshop/frogphys00.zip
+* http://www.gamers.org/pub/games/idgames2/planetquake/botshop/frogphys00.zip
+* http://www.gamers.org/pub/idgames2/planetquake/botshop/frogphys00.zip
+* http://www.gamers.org/pub/mirrors/ftp.planetquake.com/botshop/frogphys00.zip
+* https://www.quaddicted.com/files/idgames2/planetquake/botshop/frogphys00.zip
+* https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/botshop/frogphys00.zip
 
 
 ## Frogbot Physics v0.01
@@ -146,6 +163,22 @@ No announcement can be found of this release. I suspect much of the public annou
 Reviewing a diff of this version to the previous version shows a one line change in the "botphys.qc" file related perhaps to the bot stepping out of water.
 
 
+**Links:**
+
+* http://ftp.sunet.se/planetquake/botshop/frogphys001.zip
+* http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/botshop/frogphys001.zip
+* http://ftp.telepac.pt/pub/idgames2/planetquake/botshop/frogphys001.zip
+* http://mirror.aarnet.edu.au/games/planetquake/botshop/frogphys001.zip
+* http://src.doc.ic.ac.uk/Mirrors/ftp.freebsd.org/pub/planetquake/botshop/frogphys001.zip
+* http://src.doc.ic.ac.uk/public/Mirrors/ftp.cdrom.com/pub/planetquake/botshop/frogphys001.zip
+* http://src.doc.ic.ac.uk/public/computing/vendor/idgames2/planetquake/botshop/frogphys001.zip
+* http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/botshop/frogphys001.zip
+* http://sunsite.org.uk/packages/idgames2/planetquake/botshop/frogphys001.zip
+* http://www.gamers.org/pub/games/idgames2/planetquake/botshop/frogphys001.zip
+* http://www.gamers.org/pub/idgames2/planetquake/botshop/frogphys001.zip
+* http://www.gamers.org/pub/mirrors/ftp.planetquake.com/botshop/frogphys001.zip
+* https://www.quaddicted.com/files/idgames2/planetquake/botshop/frogphys001.zip
+* https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/botshop/frogphys001.zip
 
 ## Pre-Release
 
@@ -284,7 +317,39 @@ This note, along with the odd numbered versions of later releases may suggest th
 -- readme.txt
 
 
+**Links:**
 
+* ftp://ftp.telefragged.com/pub/metro/frogbot000.zip
+* http://ftp.telepac.pt/pub/idgames2/telefragged/metro/frogbot000.zip
+* http://src.doc.ic.ac.uk/computing/vendor/idgames2/telefragged/metro/frogbot000.zip
+* http://src.doc.ic.ac.uk/packages/idgames2/telefragged/metro/frogbot000.zip
+* http://src.doc.ic.ac.uk/public/computing/vendor/idgames2/telefragged/metro/frogbot000.zip
+* http://src.doc.ic.ac.uk/public/packages/idgames2/telefragged/metro/frogbot000.zip
+* http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/telefragged/metro/frogbot000.zip
+* http://sunsite.org.uk/packages/idgames2/telefragged/metro/frogbot000.zip
+* http://tux.telefragged.com/download.pl?dir=&filename=frogbot000.zip&dir&dl=local
+* http://tux.telefragged.com/download.pl?dir=ftp://ftp.cybersol.com.au/pub/mirrors/frogbot000.zip&dir&filename=frogbot000.zip&dir&dl=mirror
+* http://tux.telefragged.com/download.pl?dir=ftp://ftp.cybersol.com.au/pub/mirrors/telefragged/be/metrofrogbot000.zip&filename=frogbot000.zip&dl=mirror
+* http://tux.telefragged.com/download.pl?dir=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/frogbot000.zip&dir&filename=frogbot000.zip&dir&dl=mirror
+* http://tux.telefragged.com/download.pl?dir=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/telefragged/be/metrofrogbot000.zip&filename=frogbot000.zip&dl=mirror
+* http://tux.telefragged.com/download.pl?dir=ftp://ftp.hidden.org/pub/mirrors/frogbot000.zip&dir&filename=frogbot000.zip&dir&dl=mirror
+* http://tux.telefragged.com/download.pl?dir=ftp://ftp.hidden.org/pub/mirrors/telefragged/be/metrofrogbot000.zip&filename=frogbot000.zip&dl=mirror
+* http://tux.telefragged.com/download.pl?dir=ftp://ftp2.3ddownloads.com/pub/frogbot000.zip&dir&filename=frogbot000.zip&dir&dl=mirror
+* http://tux.telefragged.com/download.pl?dir=ftp://ftp2.3ddownloads.com/pub/telefragged/be/metrofrogbot000.zip&filename=frogbot000.zip&dl=mirror
+* http://tux.telefragged.com/download.pl?dir=ftp://ftp2.hidden.org/pub/mirror/frogbot000.zip&dir&filename=frogbot000.zip&dir&dl=mirror
+* http://tux.telefragged.com/download.pl?dir=ftp://ftp2.hidden.org/pub/mirrors/frogbot000.zip&dir&filename=frogbot000.zip&dir&dl=mirror
+* http://tux.telefragged.com/download.pl?dir=ftp://ftp2.hidden.org/pub/mirrors/telefragged/be/metrofrogbot000.zip&filename=frogbot000.zip&dl=mirror
+* http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation/frogbot000.zip&dir&filename=frogbot000.zip&dir&dl=mirror
+* http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation/telefragged/be/metrofrogbot000.zip&filename=frogbot000.zip&dl=mirror
+* http://tux.telefragged.com/download.pl?dir=telefragged/be/metro&filename=frogbot000.zip&dl=local
+* http://tux.telefragged.com/file.pl?filename=frogbot000.zip&dir=telefragged/be/metro/
+* http://www.3ddownloads.com/downloadfile.php3?directory=/telefragged/metro&filename=frogbot000.zip
+* http://www.3ddownloads.com/downloadftp.php3?url=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/telefragged/&directory=/telefragged/metro&filename=frogbot000.zip
+* http://www.3ddownloads.com/downloadftp.php3?url=ftp://ftp2.3ddownloads.com/pub/&directory=/telefragged/metro&filename=frogbot000.zip
+* http://www.3ddownloads.com/downloadftp.php3?url=ftp://ftp2.hidden.org/pub/mirrors/&directory=/telefragged/metro&filename=frogbot000.zip
+* http://www.3ddownloads.com/downloadftp.php3?url=http://pelit.saunalahti.fi/telenation/&directory=/telefragged/metro&filename=frogbot000.zip
+* http://www.3ddownloads.com/showfile.php3?filename=frogbot000.zip&directory=/telefragged/metro/
+* http://www.download.net.au/cgi-bin/dl?955,0/frogbot000.zip
 
 ## Frogbot v0.03
 
@@ -358,6 +423,17 @@ He comments that the AI for the bot is quite minimal, and that instead the focus
 There is no changelog in the readme, nor source code, so the specific nature of the changes in this release are not known.
 
 
+**Links:**
+
+* http://ftp.telepac.pt/pub/idgames2/telefragged/metro/frogbot003.zip
+* http://games.net.ru/quake/tnt/files/frogbot003.zip
+* http://src.doc.ic.ac.uk/computing/vendor/idgames2/telefragged/metro/frogbot003.zip
+* http://src.doc.ic.ac.uk/packages/idgames2/telefragged/metro/frogbot003.zip
+* http://src.doc.ic.ac.uk/public/computing/vendor/idgames2/telefragged/metro/frogbot003.zip
+* http://src.doc.ic.ac.uk/public/packages/idgames2/telefragged/metro/frogbot003.zip
+* http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/telefragged/metro/frogbot003.zip
+* http://sunsite.org.uk/packages/idgames2/telefragged/metro/frogbot003.zip
+* http://www.ocrana.de/files/quake/quakec/bots/frogbot003.zip
 
 
 ## Frogbot v0.05
@@ -408,7 +484,16 @@ This release comes one week after the previous major release.
 As with the previous release, there is no changelog. As such the changes that motivated this release are not known.
 
 
+**Links:**
 
+* ftp://ftp.telefragged.com/pub/metro/frogbot005.zip
+* http://ftp.telepac.pt/pub/idgames2/telefragged/metro/frogbot005.zip
+* http://src.doc.ic.ac.uk/computing/vendor/idgames2/telefragged/metro/frogbot005.zip
+* http://src.doc.ic.ac.uk/packages/idgames2/telefragged/metro/frogbot005.zip
+* http://src.doc.ic.ac.uk/public/computing/vendor/idgames2/telefragged/metro/frogbot005.zip
+* http://src.doc.ic.ac.uk/public/packages/idgames2/telefragged/metro/frogbot005.zip
+* http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/telefragged/metro/frogbot005.zip
+* http://sunsite.org.uk/packages/idgames2/telefragged/metro/frogbot005.zip
 
 ## Frogbot v0.07
 
@@ -454,10 +539,16 @@ It mentions a number of changes in the release and requests that all feedback be
 A copy of this release and its readme file cannot be located.
 
 
+**Links:**
 
-
-
-
+* http://ftp.telepac.pt/pub/idgames2/telefragged/metro/frogbot007.zip
+* http://quake.org.pl/files/frogbot007.zip
+* http://src.doc.ic.ac.uk/computing/vendor/idgames2/telefragged/metro/frogbot007.zip
+* http://src.doc.ic.ac.uk/packages/idgames2/telefragged/metro/frogbot007.zip
+* http://src.doc.ic.ac.uk/public/computing/vendor/idgames2/telefragged/metro/frogbot007.zip
+* http://src.doc.ic.ac.uk/public/packages/idgames2/telefragged/metro/frogbot007.zip
+* http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/telefragged/metro/frogbot007.zip
+* http://sunsite.org.uk/packages/idgames2/telefragged/metro/frogbot007.zip
 
 
 ## Frogbot v0.09
@@ -559,7 +650,17 @@ It provides installation and usage instructions, then provides in-depth instruct
 
 The release also supports many different deathmatch modes, including teamplay, which includes a suite of new commands to control bot teams.
 
+**Links:**
 
+* ftp://ftp.telefragged.com/pub/metro/frogbot009.zip
+* http://blub.simplenet.com/earth/files/quake/bots/frogbot009.zip
+* http://ftp.telepac.pt/pub/idgames2/telefragged/metro/frogbot009.zip
+* http://src.doc.ic.ac.uk/computing/vendor/idgames2/telefragged/metro/frogbot009.zip
+* http://src.doc.ic.ac.uk/packages/idgames2/telefragged/metro/frogbot009.zip
+* http://src.doc.ic.ac.uk/public/computing/vendor/idgames2/telefragged/metro/frogbot009.zip
+* http://src.doc.ic.ac.uk/public/packages/idgames2/telefragged/metro/frogbot009.zip
+* http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/telefragged/metro/frogbot009.zip
+* http://sunsite.org.uk/packages/idgames2/telefragged/metro/frogbot009.zip
 
 
 ## Frogbot v0.11
@@ -580,12 +681,13 @@ This date is corroborated in the readme file of the next release and is take as 
 A copy of this release has not been located.
 
 
+**Links:**
 
-
+* n/a
 
 ## Frogbot v0.11b
 
-The next version of the frogbot was v0,.11b which was distributed as frogbot011b.zip.
+The next version of the frogbot was v0.11b which was distributed as frogbot011b.zip.
 
 This was a likely a bugfix release for the 0.11 release.
 
@@ -640,11 +742,21 @@ The major focus for this release appears to be client emulation support for quak
 
 -- readme.txt
 
+**Links:**
 
+* http://blub.simplenet.com/earth/files/quake/bots/frogbot011b.zip
+* http://ftp.telepac.pt/pub/idgames2/telefragged/metro/frogbot011b.zip
+* http://quake.crimea.ua/files/quake/bots/frogbot011b.zip
+* http://src.doc.ic.ac.uk/computing/vendor/idgames2/telefragged/metro/frogbot011b.zip
+* http://src.doc.ic.ac.uk/packages/idgames2/telefragged/metro/frogbot011b.zip
+* http://src.doc.ic.ac.uk/public/computing/vendor/idgames2/telefragged/metro/frogbot011b.zip
+* http://src.doc.ic.ac.uk/public/packages/idgames2/telefragged/metro/frogbot011b.zip
+* http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/telefragged/metro/frogbot011b.zip
+* http://sunsite.org.uk/packages/idgames2/telefragged/metro/frogbot011b.zip
 
 ## Frogbot v0.12a
 
-The next version of the bot as v0.12 and was released as frogbot012.zip.
+The next version of the bot as v0.12 and was released as `frogbot012.zip` and sometimes renamed `frogbot012a.zip`.
 
 A series of bug fix releases followed, each released with the same filename and given a letter suffix, e.g. "b", "c". As such, we can rename this version as v0.12a to be consistent.
 
@@ -694,12 +806,25 @@ The release was also announced on blues news, mentioning that the source code wa
 
 A copy of this release has not been located.
 
+**Links:**
+
+* http://ftp.telepac.pt/pub/idgames2/telefragged/epidemic/frogbot012a.zip
+* http://src.doc.ic.ac.uk/computing/vendor/idgames2/telefragged/epidemic/frogbot012a.zip
+* http://src.doc.ic.ac.uk/packages/idgames2/telefragged/epidemic/frogbot012a.zip
+* http://src.doc.ic.ac.uk/public/computing/vendor/idgames2/telefragged/epidemic/frogbot012a.zip
+* http://src.doc.ic.ac.uk/public/packages/idgames2/telefragged/epidemic/frogbot012a.zip
+* http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/telefragged/epidemic/frogbot012a.zip
+* http://sunsite.org.uk/packages/idgames2/telefragged/epidemic/frogbot012a.zip
+* http://www.telefragged.com/mirrors/mirror.pl?epidemic/frogbot012a.zip
+
 
 ## Frogbot v0.12b
 
 A bug fix release was released.
 
-It was referred to as 0.12 and released with the same filename on Metropolis as the previous release: frogbot012.zip. It was announced on October 18 1998, two days after the previous release.
+It was referred to as 0.12 and released with the same filename on Metropolis as the previous release: `frogbot012.zip` and sometimes renamed `frogbot012b.zip`.
+
+It was announced on October 18 1998, two days after the previous release.
 
 	Sunday, October 18, 1998
 
@@ -723,8 +848,16 @@ A copy of this release has not been located.
 
 As such, the nature of the bug fix is not known
 
+**Links:**
 
-
+* http://ftp.telepac.pt/pub/idgames2/telefragged/epidemic/frogbot012b.zip
+* http://src.doc.ic.ac.uk/computing/vendor/idgames2/telefragged/epidemic/frogbot012b.zip
+* http://src.doc.ic.ac.uk/packages/idgames2/telefragged/epidemic/frogbot012b.zip
+* http://src.doc.ic.ac.uk/public/computing/vendor/idgames2/telefragged/epidemic/frogbot012b.zip
+* http://src.doc.ic.ac.uk/public/packages/idgames2/telefragged/epidemic/frogbot012b.zip
+* http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/telefragged/epidemic/frogbot012b.zip
+* http://sunsite.org.uk/packages/idgames2/telefragged/epidemic/frogbot012b.zip
+* http://www.telefragged.com/mirrors/mirror.pl?epidemic/frogbot012b.zip
 
 ## Frogbot v0.12c
 
@@ -781,12 +914,68 @@ The source code readme file provides technical details on how to compile the sou
 
 This was the last official release of the bot, although subsequent less official releases were made.
 
+**Links:**
 
+* ftp://ftp.epix.net/pub/telefragged/metro/frogbot012.zip
+* ftp://ftp.saix.net/pub/telefragged/metro/frogbot012.zip
+* ftp://ftp.telefragged.com/metro/frogbot012.zip
+* ftp://ftp.telefragged.com/pub/metro/frogbot012.zip
+* ftp://ftp1.action.updates.cx/pub/mirrors/telefragged/metro/frogbot012.zip
+* ftp://ftp2.action.updates.cx/pub/mirrors/telefragged/metro/frogbot012.zip
+* ftp://ftp3.action.updates.cx/pub/mirrors/telefragged/metro/frogbot012.zip
+* ftp://www.quake.orc.ru/quake/utils//frogbot012.zip
+* http://abone.turk.net/bear/frogbot012.zip
+* http://ftp.telepac.pt/pub/idgames2/telefragged/epidemic/frogbot012.zip
+* http://ftp.telepac.pt/pub/idgames2/telefragged/metro/frogbot012.zip
+* http://quake.crimea.ua/files/quake/bots/frogbot012.zip
+* http://quake.org.pl/files/quake/boty/frogbot/frogbot012.zip
+* http://src.doc.ic.ac.uk/computing/vendor/idgames2/telefragged/epidemic/frogbot012.zip
+* http://src.doc.ic.ac.uk/computing/vendor/idgames2/telefragged/metro/frogbot012.zip
+* http://src.doc.ic.ac.uk/packages/idgames2/telefragged/epidemic/frogbot012.zip
+* http://src.doc.ic.ac.uk/packages/idgames2/telefragged/metro/frogbot012.zip
+* http://src.doc.ic.ac.uk/public/computing/vendor/idgames2/telefragged/epidemic/frogbot012.zip
+* http://src.doc.ic.ac.uk/public/computing/vendor/idgames2/telefragged/metro/frogbot012.zip
+* http://src.doc.ic.ac.uk/public/packages/idgames2/telefragged/epidemic/frogbot012.zip
+* http://src.doc.ic.ac.uk/public/packages/idgames2/telefragged/metro/frogbot012.zip
+* http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/telefragged/epidemic/frogbot012.zip
+* http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/telefragged/metro/frogbot012.zip
+* http://sunsite.org.uk/packages/idgames2/telefragged/epidemic/frogbot012.zip
+* http://sunsite.org.uk/packages/idgames2/telefragged/metro/frogbot012.zip
+* http://tux.telefragged.com/download.pl?dir=&filename=frogbot012.zip&dir&dl=local
+* http://tux.telefragged.com/download.pl?dir=ftp://ftp.cybersol.com.au/pub/mirrors/frogbot012.zip&dir&filename=frogbot012.zip&dir&dl=mirror
+* http://tux.telefragged.com/download.pl?dir=ftp://ftp.cybersol.com.au/pub/mirrors/telefragged/be/metrofrogbot012.zip&filename=frogbot012.zip&dl=mirror
+* http://tux.telefragged.com/download.pl?dir=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/frogbot012.zip&dir&filename=frogbot012.zip&dir&dl=mirror
+* http://tux.telefragged.com/download.pl?dir=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/telefragged/be/metrofrogbot012.zip&filename=frogbot012.zip&dl=mirror
+* http://tux.telefragged.com/download.pl?dir=ftp://ftp.hidden.org/pub/mirrors/frogbot012.zip&dir&filename=frogbot012.zip&dir&dl=mirror
+* http://tux.telefragged.com/download.pl?dir=ftp://ftp.hidden.org/pub/mirrors/telefragged/be/metrofrogbot012.zip&filename=frogbot012.zip&dl=mirror
+* http://tux.telefragged.com/download.pl?dir=ftp://ftp2.3ddownloads.com/pub/frogbot012.zip&dir&filename=frogbot012.zip&dir&dl=mirror
+* http://tux.telefragged.com/download.pl?dir=ftp://ftp2.3ddownloads.com/pub/telefragged/be/metrofrogbot012.zip&filename=frogbot012.zip&dl=mirror
+* http://tux.telefragged.com/download.pl?dir=ftp://ftp2.hidden.org/pub/mirrors/frogbot012.zip&dir&filename=frogbot012.zip&dir&dl=mirror
+* http://tux.telefragged.com/download.pl?dir=ftp://ftp2.hidden.org/pub/mirrors/telefragged/be/metrofrogbot012.zip&filename=frogbot012.zip&dl=mirror
+* http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation/frogbot012.zip&dir&filename=frogbot012.zip&dir&dl=mirror
+* http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation/telefragged/be/metrofrogbot012.zip&filename=frogbot012.zip&dl=mirror
+* http://tux.telefragged.com/download.pl?dir=telefragged/be/metro&filename=frogbot012.zip&dl=local
+* http://tux.telefragged.com/file.pl?filename=frogbot012.zip&dir=telefragged/be/metro/
+* http://www.3ddownloads.com/downloadfile.php3?directory=/telefragged/metro&filename=frogbot012.zip
+* http://www.3ddownloads.com/downloadftp.php3?url=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/telefragged/&directory=/telefragged/metro&filename=frogbot012.zip
+* http://www.3ddownloads.com/downloadftp.php3?url=ftp://ftp2.3ddownloads.com/pub/&directory=/telefragged/metro&filename=frogbot012.zip
+* http://www.3ddownloads.com/downloadftp.php3?url=ftp://ftp2.hidden.org/pub/mirrors/&directory=/telefragged/metro&filename=frogbot012.zip
+* http://www.3ddownloads.com/downloadftp.php3?url=http://pelit.saunalahti.fi/telenation/&directory=/telefragged/metro&filename=frogbot012.zip
+* http://www.3ddownloads.com/showfile.php3?filename=frogbot012.zip&directory=/telefragged/metro/
+* http://www.3ddownloads.com/telefragged/metro/frogbot012.zip
+* http://www.fileplanet.com/dl/dl.asp?/planetquake/botarea51/bot/frogbot012.zip
+* http://www.planetquake.com/botarea51/main/main/download.asp?name=frogbot012.zip&referrer=main/qbot.asp?id=15
+* http://www.planetquake.com/botarea51/main/main/download.asp?name=frogbot012.zip&referrer=main/qbots.asp
+* http://www.planetquake.com/botarea51/main/main/download.asp?name=frogbot012.zip&referrer=qbots.asp
+* http://www.quake.orc.ru/ftp/utils/frogbot012.zip
+* http://www.telefragged.com/mirrors/mirror.pl?epidemic/frogbot012.zip
+* http://www.telefragged.com/mirrors/mirror.pl?metro/frogbot012.zip
+* https://www.quaddicted.com/webarchive/ftp.clan-rum.org/quake/bots/frogbot012.zip
 
 
 ## Frogbot Demos
 
-The next release was a series of demos distributed as frogbot_demo.zip.
+The next release was a series of demos distributed as `frogbot_demo.zip`.
 
 The release contained pre-recorded demos of frogbot behavior in specific situations.
 
@@ -809,13 +998,21 @@ These demos were mentioned in a later release which dated the release of the vid
 
 A copy of this release has not been located.
 
+**Links:**
 
+* ftp://ftp.epix.net/pub/telefragged/be/fmods/demos/frogbot_demo.zip
+* ftp://ftp.saix.net/pub/telefragged/be/fmods/demos/frogbot_demo.zip
+* ftp://ftp.telefragged.com/be/fmods/demos/frogbot_demo.zip
+* ftp://ftp1.action.updates.cx/pub/mirrors/telefragged/be/fmods/demos/frogbot_demo.zip
+* ftp://ftp2.action.updates.cx/pub/mirrors/telefragged/be/fmods/demos/frogbot_demo.zip
+* ftp://ftp3.action.updates.cx/pub/mirrors/telefragged/be/fmods/demos/frogbot_demo.zip
+* http://www.telefragged.com/mirrors/mirror.pl?be/fmods/demos/frogbot_demo.zip
 
 
 
 ## Frog Fix
 
-The next release was a code fix distributed as frogfix1.zip.
+The next release was a code fix distributed as `frogfix1.zip`.
 
 I believe this was released by Robert Field, but I have no hard evidence.
 
@@ -851,15 +1048,16 @@ The bug fix was listed on the file section part of the "Frogbot Modifications" w
 -- [http://www.botepidemic.com/fmods/ofiles.htm](https://web.archive.org/web/20000818044633/http://www.botepidemic.com/fmods/ofiles.htm) (archived August 28 1999)
 
 
+**Links:**
 
-
+* http://www.botepidemic.com/fmods/other/frogfix1.zip
 
 
 
 
 ## Frogbot v0.13 Test
 
-The next and final version of the frogbot was released as frogbot013.zip.
+The next and final version of the frogbot was released as `frogbot013.zip`.
 
 It was referred to as version 0.13 test and represents the source code for the frogbot used in the demos released in January 1999.
 
@@ -940,7 +1138,44 @@ Interestingly, the release also includes a "maze game", developed to test an arr
 
 -- readme.txt
 
+**Links:**
 
+* ftp://ftp.epix.net/pub/telefragged/metro/frogbot013.zip
+* ftp://ftp.saix.net/pub/telefragged/metro/frogbot013.zip
+* ftp://ftp.telefragged.com/metro/frogbot013.zip
+* ftp://ftp1.action.updates.cx/pub/mirrors/telefragged/metro/frogbot013.zip
+* ftp://ftp2.action.updates.cx/pub/mirrors/telefragged/metro/frogbot013.zip
+* ftp://ftp3.action.updates.cx/pub/mirrors/telefragged/metro/frogbot013.zip
+* ftp://www.quake.orc.ru/quake/utils//frogbot013.zip
+* http://blub.simplenet.com/earth/files/quake/bots/frogbot013.zip
+* http://members.cox.net/randar/frogbot013.zip
+* http://quake.crimea.ua/files/quake/bots/frogbot013.zip
+* http://tux.telefragged.com/download.pl?dir=&filename=frogbot013.zip&dir&dl=local
+* http://tux.telefragged.com/download.pl?dir=ftp://ftp.cybersol.com.au/pub/mirrors/frogbot013.zip&dir&filename=frogbot013.zip&dir&dl=mirror
+* http://tux.telefragged.com/download.pl?dir=ftp://ftp.cybersol.com.au/pub/mirrors/telefragged/be/fmodsfrogbot013.zip&filename=frogbot013.zip&dl=mirror
+* http://tux.telefragged.com/download.pl?dir=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/frogbot013.zip&dir&filename=frogbot013.zip&dir&dl=mirror
+* http://tux.telefragged.com/download.pl?dir=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/telefragged/be/fmodsfrogbot013.zip&filename=frogbot013.zip&dl=mirror
+* http://tux.telefragged.com/download.pl?dir=ftp://ftp.hidden.org/pub/mirrors/frogbot013.zip&dir&filename=frogbot013.zip&dir&dl=mirror
+* http://tux.telefragged.com/download.pl?dir=ftp://ftp.hidden.org/pub/mirrors/telefragged/be/fmodsfrogbot013.zip&filename=frogbot013.zip&dl=mirror
+* http://tux.telefragged.com/download.pl?dir=ftp://ftp2.3ddownloads.com/pub/frogbot013.zip&dir&filename=frogbot013.zip&dir&dl=mirror
+* http://tux.telefragged.com/download.pl?dir=ftp://ftp2.3ddownloads.com/pub/telefragged/be/fmodsfrogbot013.zip&filename=frogbot013.zip&dl=mirror
+* http://tux.telefragged.com/download.pl?dir=ftp://ftp2.hidden.org/pub/mirror/frogbot013.zip&dir&filename=frogbot013.zip&dir&dl=mirror
+* http://tux.telefragged.com/download.pl?dir=ftp://ftp2.hidden.org/pub/mirrors/frogbot013.zip&dir&filename=frogbot013.zip&dir&dl=mirror
+* http://tux.telefragged.com/download.pl?dir=ftp://ftp2.hidden.org/pub/mirrors/telefragged/be/fmodsfrogbot013.zip&filename=frogbot013.zip&dl=mirror
+* http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation/frogbot013.zip&dir&filename=frogbot013.zip&dir&dl=mirror
+* http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation/telefragged/be/fmodsfrogbot013.zip&filename=frogbot013.zip&dl=mirror
+* http://tux.telefragged.com/download.pl?dir=telefragged/be/fmods&filename=frogbot013.zip&dl=local
+* http://tux.telefragged.com/file.pl?filename=frogbot013.zip&dir=telefragged/be/fmods/
+* http://www.3ddownloads.com/downloadfile.php3?directory=/telefragged/be/fmods&filename=frogbot013.zip
+* http://www.3ddownloads.com/downloadftp.php3?url=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/telefragged/&directory=/telefragged/be/fmods&filename=frogbot013.zip
+* http://www.3ddownloads.com/downloadftp.php3?url=ftp://ftp2.3ddownloads.com/pub/&directory=/telefragged/be/fmods&filename=frogbot013.zip
+* http://www.3ddownloads.com/downloadftp.php3?url=ftp://ftp2.hidden.org/pub/mirrors/&directory=/telefragged/be/fmods&filename=frogbot013.zip
+* http://www.3ddownloads.com/downloadftp.php3?url=http://pelit.saunalahti.fi/telenation/&directory=/telefragged/be/fmods&filename=frogbot013.zip
+* http://www.3ddownloads.com/showfile.php3?filename=frogbot013.zip&directory=/telefragged/be/fmods/
+* http://www.3ddownloads.com/telefragged/metro/frogbot013.zip
+* http://www.quake.orc.ru/ftp/frogbot013.zip
+* http://www.telefragged.com/mirrors/mirror.pl?metro/frogbot013.zip
+* http://www.zone.ru/amd/files/quake/frogbot013.zip
 
 
 
