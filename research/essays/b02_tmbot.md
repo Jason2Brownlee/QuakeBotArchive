@@ -5,7 +5,7 @@ The TM Bot or TMBot was the first publicly released QuakeC-based Quake bot and w
 
 ## TMBot v1.0
 
-The first version of the mod, version 1.0, was released as tmbot1.zip.
+The first version of the mod, version 1.0, was released as `tmbot1.zip`.
 
 The archive contained the compiled game code (progs.dat), the source code for the game code (source.zip) and a readme file (tmbot1.txt).
 
@@ -133,7 +133,12 @@ When enemies are encountered it will run towards them and shoot laser bolts at t
 
 It can be a little tedious waiting for the bot to walk over to you before going down a lift. Nevertheless, the bot works as advertised.
 
+**Historical Links:**
 
+* ftp://ftp.canvasnet.com/quake/qc/tmbot1.zip
+* ftp://ftp.stomped.com/pub/quake/quakec/bots/tmbot1.zip
+* http://www.quake.com.br/arquivos/tmbot1.zip
+* http://www.webraven.com.au/games/quake/files/mods/tmbot1.zip
 
 
 ## TMBot v1.1
@@ -302,6 +307,45 @@ Tim Polucha
 ```
 
 -- [rec.games.computer.quake.editing, Micheal Polucha, 1 Oct 1996](https://groups.google.com/g/rec.games.computer.quake.editing/c/oBId-aNBplM/m/uTZKX5CJFSwJ).
+
+
+**Historical Links:**
+
+* ftp://flinux.tu-graz.ac.at/pub/idsoftware2/quakec/bots/tmbot11.zip
+* ftp://ftp.cdrom.com/pub/idgames2/quakec/bots/tmbot11.zip
+* ftp://ftp.cdrom.com/pub/quake/quakec/bots/tmbot11.zip
+* ftp://ftp.compulink.co.uk/pub/games/id/quake/quakec/bots/tmbot11.zip
+* ftp://ftp.edu.sollentuna.se/pub/games/quake-stuff/quakec/bots/tmbot11.zip
+* ftp://ftp.freesoftware.com/pub/quake/quakec/bots/tmbot11.zip
+* ftp://ftp.gamers.org/pub/games/idgames2/quakec/bots/tmbot11.zip
+* ftp://ftp.il.waw.pl/pub/quake/quakec/bots/tmbot11.zip
+* ftp://ftp.intercity.dk/pub/mirrors/quake/quakec/bots/tmbot11.zip
+* ftp://ftp.lib.siu.edu/pub/mirrors/idsoftware/quakec/bots/tmbot11.zip
+* ftp://ftp.livewire.com.au/pub/idgames2/quakec/bots/tmbot11.zip
+* ftp://ftp.pioneer.wnyric.org/pub/quake/quakec/bots/tmbot11.zip
+* ftp://ftp.powerup.com.au/pub/games/quake/quakec/bots/tmbot11.zip
+* ftp://ftp.ram.net.au/pub/quake/idgames2/quakec/bots/tmbot11.zip
+* ftp://ftp.stomped.com/pub/idgames2/quakec/bots/tmbot11.zip
+* ftp://ftp.stomped.com/pub/quake/quakec/bots/tmbot11.zip
+* ftp://ftp.sunet.se/pub/pc/games/idgames2/quakec/bots/tmbot11.zip
+* ftp://ftp.telepac.pt/pub/idgames2/quakec/bots/tmbot11.zip
+* ftp://ftp.torget.se/pub/games/quake/quakec/tmbot11.zip
+* ftp://ftp.tu-clausthal.de/pub/msdos/games/quake-mirror/quakec/bots/tmbot11.zip
+* ftp://sunsite.doc.ic.ac.uk/packages/idgames2/quakec/bots/tmbot11.zip
+* http://blub.simplenet.com/earth/files/quake/bots/tmbot11.zip
+* http://ftp.sunet.se/idgames2/quakec/bots/tmbot11.zip
+* http://ftp.sunet.se/pub/pc/games/idgames2/quakec/bots/tmbot11.zip
+* http://ftp.telepac.pt/pub/idgames2/quakec/bots/tmbot11.zip
+* http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/quakec/bots/tmbot11.zip
+* http://sunsite.org.uk/packages/idgames2/quakec/bots/tmbot11.zip
+* http://www.cdrom.com/pub/idgames2/quakec/bots/tmbot11.zip
+* http://www.cdrom.com/pub/quake/quakec/bots/tmbot11.zip
+* http://www.gameaholic.com/deicide/download.cgi?/quakec/bots/tmbot11.zip
+* http://www.gamers.org/pub/games/idgames2/quakec/bots/tmbot11.zip
+* http://www.gamers.org/pub/idgames2/quakec/bots/tmbot11.zip
+* http://www.quakehole.com/files/quakec/tmbot11.zip
+* http://www.time2quake.com/filez/quakec/bots/tmbot11.zip
+* https://www.quaddicted.com/files/idgames2/quakec/bots/tmbot11.zip
 
 
 ## Relevant Timeline

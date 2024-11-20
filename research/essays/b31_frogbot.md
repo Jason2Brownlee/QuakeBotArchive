@@ -105,7 +105,7 @@ Robert provides some details on how he developed the client emulation, stating t
 
 -- frogphys00.txt
 
-**Links:**
+**Historical Links:**
 
 * ftp://ftp.cdrom.com/pub/idgames2/planetquake/botshop/frogphys00.zip
 * http://asp.planetquake.com/dl/dl.asp?/botshop/frogphys00.zip
@@ -163,7 +163,7 @@ No announcement can be found of this release. I suspect much of the public annou
 Reviewing a diff of this version to the previous version shows a one line change in the "botphys.qc" file related perhaps to the bot stepping out of water.
 
 
-**Links:**
+**Historical Links:**
 
 * http://ftp.sunet.se/planetquake/botshop/frogphys001.zip
 * http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/botshop/frogphys001.zip
@@ -317,7 +317,7 @@ This note, along with the odd numbered versions of later releases may suggest th
 -- readme.txt
 
 
-**Links:**
+**Historical Links:**
 
 * ftp://ftp.telefragged.com/pub/metro/frogbot000.zip
 * http://ftp.telepac.pt/pub/idgames2/telefragged/metro/frogbot000.zip
@@ -423,7 +423,7 @@ He comments that the AI for the bot is quite minimal, and that instead the focus
 There is no changelog in the readme, nor source code, so the specific nature of the changes in this release are not known.
 
 
-**Links:**
+**Historical Links:**
 
 * http://ftp.telepac.pt/pub/idgames2/telefragged/metro/frogbot003.zip
 * http://games.net.ru/quake/tnt/files/frogbot003.zip
@@ -484,7 +484,7 @@ This release comes one week after the previous major release.
 As with the previous release, there is no changelog. As such the changes that motivated this release are not known.
 
 
-**Links:**
+**Historical Links:**
 
 * ftp://ftp.telefragged.com/pub/metro/frogbot005.zip
 * http://ftp.telepac.pt/pub/idgames2/telefragged/metro/frogbot005.zip
@@ -539,7 +539,7 @@ It mentions a number of changes in the release and requests that all feedback be
 A copy of this release and its readme file cannot be located.
 
 
-**Links:**
+**Historical Links:**
 
 * http://ftp.telepac.pt/pub/idgames2/telefragged/metro/frogbot007.zip
 * http://quake.org.pl/files/frogbot007.zip
@@ -650,7 +650,7 @@ It provides installation and usage instructions, then provides in-depth instruct
 
 The release also supports many different deathmatch modes, including teamplay, which includes a suite of new commands to control bot teams.
 
-**Links:**
+**Historical Links:**
 
 * ftp://ftp.telefragged.com/pub/metro/frogbot009.zip
 * http://blub.simplenet.com/earth/files/quake/bots/frogbot009.zip
@@ -681,7 +681,7 @@ This date is corroborated in the readme file of the next release and is take as 
 A copy of this release has not been located.
 
 
-**Links:**
+**Historical Links:**
 
 * n/a
 
@@ -742,7 +742,7 @@ The major focus for this release appears to be client emulation support for quak
 
 -- readme.txt
 
-**Links:**
+**Historical Links:**
 
 * http://blub.simplenet.com/earth/files/quake/bots/frogbot011b.zip
 * http://ftp.telepac.pt/pub/idgames2/telefragged/metro/frogbot011b.zip
@@ -806,7 +806,7 @@ The release was also announced on blues news, mentioning that the source code wa
 
 A copy of this release has not been located.
 
-**Links:**
+**Historical Links:**
 
 * http://ftp.telepac.pt/pub/idgames2/telefragged/epidemic/frogbot012a.zip
 * http://src.doc.ic.ac.uk/computing/vendor/idgames2/telefragged/epidemic/frogbot012a.zip
@@ -848,7 +848,7 @@ A copy of this release has not been located.
 
 As such, the nature of the bug fix is not known
 
-**Links:**
+**Historical Links:**
 
 * http://ftp.telepac.pt/pub/idgames2/telefragged/epidemic/frogbot012b.zip
 * http://src.doc.ic.ac.uk/computing/vendor/idgames2/telefragged/epidemic/frogbot012b.zip
@@ -914,7 +914,7 @@ The source code readme file provides technical details on how to compile the sou
 
 This was the last official release of the bot, although subsequent less official releases were made.
 
-**Links:**
+**Historical Links:**
 
 * ftp://ftp.epix.net/pub/telefragged/metro/frogbot012.zip
 * ftp://ftp.saix.net/pub/telefragged/metro/frogbot012.zip
@@ -998,7 +998,7 @@ These demos were mentioned in a later release which dated the release of the vid
 
 A copy of this release has not been located.
 
-**Links:**
+**Historical Links:**
 
 * ftp://ftp.epix.net/pub/telefragged/be/fmods/demos/frogbot_demo.zip
 * ftp://ftp.saix.net/pub/telefragged/be/fmods/demos/frogbot_demo.zip
@@ -1018,7 +1018,9 @@ I believe this was released by Robert Field, but I have no hard evidence.
 
 The release contained a text single file (fix.txt)
 
+```text
  34787 29 Jan  1999 fix.txt
+```
 
 The text file is dated January 29 1999, matching the timestamp of the file in the zip.
 
@@ -1048,7 +1050,7 @@ The bug fix was listed on the file section part of the "Frogbot Modifications" w
 -- [http://www.botepidemic.com/fmods/ofiles.htm](https://web.archive.org/web/20000818044633/http://www.botepidemic.com/fmods/ofiles.htm) (archived August 28 1999)
 
 
-**Links:**
+**Historical Links:**
 
 * http://www.botepidemic.com/fmods/other/frogfix1.zip
 
@@ -1138,7 +1140,7 @@ Interestingly, the release also includes a "maze game", developed to test an arr
 
 -- readme.txt
 
-**Links:**
+**Historical Links:**
 
 * ftp://ftp.epix.net/pub/telefragged/metro/frogbot013.zip
 * ftp://ftp.saix.net/pub/telefragged/metro/frogbot013.zip
