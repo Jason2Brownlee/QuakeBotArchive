@@ -74,7 +74,10 @@ in mind.  Cujo is one *bad* dog.
 
 Cujo is only for singleplayer at this stage, no deathmatch support exists in this first version.
 
+**Historical Links:**
 
+* ftp://ftp.stomped.com/pub/quake/quakec/bots/cujo10.zip
+* http://easyweb.easynet.co.uk/~inferno/impulse1/files/quakec/cujo10.zip
 
 ## Cujo v1.1
 
@@ -126,7 +129,9 @@ appreciated.
 
 -- cujo11.zip
 
+**Historical Links:**
 
+* ftp://ftp.stomped.com/pub/quake/quakec/misc/cujo11.zip
 
 
 ## Cujo v1.2
@@ -206,6 +211,9 @@ This highlights both the growing popularity of the mod and the active developmen
 
 This release was then followed by a flurry of smaller bug fix releases.
 
+**Historical Links:**
+
+* http://hem.passagen.se/greedo/quake/CUJO12.ZIP
 
 ## Cujo v1.2a
 
@@ -260,7 +268,9 @@ Changes in version 1.2a
 
 It is interesting that Xavier chose this version of Cujo for his CUJGRAP. It may suggest that this was the primary version of the bot available perhaps between 20th of October and sometime before the 11th of November.
 
+**Historical Links:**
 
+* n/a
 
 ## Cujo v1.2b
 
@@ -293,6 +303,9 @@ Changes in version 1.2b
 -- cujo13.txt
 
 
+**Historical Links:**
+
+* n/a
 
 
 ## Cujo v1.2c
@@ -370,7 +383,9 @@ Credits   : id for designing the most innovative and customizable game
 
 This suggests that cujo12c.zip was probably released between 11th of November and the 21st or 22nd of November, we can take the 22nd as perhaps the last possible date.
 
+**Historical Links:**
 
+* n/a
 
 
 ## Cujo v1.3
@@ -497,8 +512,15 @@ A "what's new" section lists the capabilities introduced in this version.
 
 -- cujo13.txt
 
+**Historical Links:**
 
-
+* ftp://ftp.cdrom.com/pub/idgames2/quakec/monsters/cujo13.zip
+* ftp://ftp.freesoftware.com/pub/idgames2/quakec/monsters/cujo13.zip
+* ftp://ftp.lib.siu.edu/pub/mirrors/idsoftware/quakec/monsters/cujo13.zip
+* http://quakemecca.simplenet.com/files/downloads/files/downloads/cujo13.zip
+* http://www.cdrom.com/pub/idgames2/quakec/monsters/cujo13.zip
+* http://www.trailerpark.com/phase1/nelno/pseudopodia/cujo13.zip
+* http://www.why.net/home/ledfoot/cujo13.zip
 
 ## Cujo v1.4
 
@@ -609,6 +631,57 @@ A dedicated cujo webpage was hosted at http://www.planetquake.com/qca/zeus/cujo.
 -- [http://www.planetquake.com/qca/zeus/cujo.htm](https://web.archive.org/web/19970607150623/http://www.planetquake.com/qca/zeus/cujo.htm) (archived June 07 1997)
 
 
+**Historical Links:**
+
+* ftp://flinux.tu-graz.ac.at/pub/idsoftware2/quakec/bots/cujo14.zip
+* ftp://ftp-new.labyrinth.net.au/pub/idgames2/quakec/bots/cujo14.zip
+* ftp://ftp.cdrom.com/pub/idgames2/quakec/bots/cujo14.zip
+* ftp://ftp.cdrom.com/pub/quake/planetquake/qca/cujo14.zip
+* ftp://ftp.cdrom.com/pub/quake/quakec/bots/cujo14.zip
+* ftp://ftp.compulink.co.uk/pub/games/id/quake/quakec/bots/cujo14.zip
+* ftp://ftp.datacomm.ch/pub/idgames2/quakec/bots/cujo14.zip
+* ftp://ftp.edu.sollentuna.se/pub/games/quake-stuff/quakec/bots/cujo14.zip
+* ftp://ftp.epix.net/pub/idgames2/quakec/bots/cujo14.zip
+* ftp://ftp.freesoftware.com/pub/quake/quakec/bots/cujo14.zip
+* ftp://ftp.freesoftware.com/pub/quake/quakec/monsters/cujo14.zip
+* ftp://ftp.gamers.org/pub/games/idgames2/quakec/bots/cujo14.zip
+* ftp://ftp.iis.com.br/pub/mirror/Quake/quakec/bots/cujo14.zip
+* ftp://ftp.il.waw.pl/pub/quake/quakec/bots/cujo14.zip
+* ftp://ftp.intercity.dk/pub/mirrors/quake/quakec/bots/cujo14.zip
+* ftp://ftp.lib.siu.edu/pub/mirrors/idsoftware/quakec/bots/cujo14.zip
+* ftp://ftp.livewire.com.au/pub/idgames2/quakec/bots/cujo14.zip
+* ftp://ftp.pioneer.wnyric.org/pub/quake/quakec/bots/cujo14.zip
+* ftp://ftp.powerup.com.au/pub/games/quake/quakec/bots/cujo14.zip
+* ftp://ftp.ram.net.au/pub/quake/idgames2/quakec/bots/cujo14.zip
+* ftp://ftp.sci.fi/pub/idgames2/quakec/bots/cujo14.zip
+* ftp://ftp.stomped.com/pub/idgames2/quakec/bots/cujo14.zip
+* ftp://ftp.sunet.se/pub/pc/games/idgames2/quakec/bots/cujo14.zip
+* ftp://ftp.task.gda.pl/pub/games/idgames2/quakec/bots/cujo14.zip
+* ftp://ftp.telepac.pt/pub/idgames2/quakec/bots/cujo14.zip
+* ftp://ftp.torget.se/pub/games/quake/quakec/cujo14.zip
+* ftp://ftp.tu-clausthal.de/pub/msdos/games/quake-mirror/quakec/bots/cujo14.zip
+* ftp://mirror.aarnet.edu.au/pub/idgames2/quakec/bots/cujo14.zip
+* ftp://sunsite.doc.ic.ac.uk/packages/idgames2/quakec/bots/cujo14.zip
+* http://ftp.gamers.org/pub/games/idgames2/quakec/bots/cujo14.zip
+* http://ftp.sunet.se/idgames2/quakec/bots/cujo14.zip
+* http://ftp.sunet.se/pub/pc/games/idgames2/quakec/bots/cujo14.zip
+* http://ftp.telepac.pt/pub/idgames2/quakec/bots/cujo14.zip
+* http://quakedm.virtualave.net/acc/cujo14.zip
+* http://quakemecca.simplenet.com/files/downloads/cujo14.zip
+* http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/quakec/bots/cujo14.zip
+* http://sunsite.org.uk/packages/idgames2/quakec/bots/cujo14.zip
+* http://www.cdrom.com/pub/idgames2/quakec/bots/cujo14.zip
+* http://www.cdrom.com/pub/quake/quakec/bots/cujo14.zip
+* http://www.cdrom.com/pub/quake/quakec/monsters/cujo14.zip
+* http://www.fortunecity.com/underworld/lylat/674/cujo14.zip
+* http://www.gameaholic.com/deicide/download.cgi?/quakec/bots/cujo14.zip
+* http://www.gamers.org/pub/games/idgames2/quakec/bots/cujo14.zip
+* http://www.gamers.org/pub/idgames2/quakec/bots/cujo14.zip
+* http://www.planetquake.com/qca/files/cujo14.zip
+* http://www.planetquake.com/qca/zeus/cujo14.zip
+* http://www.time2quake.com/filez/quakec/bots/cujo14.zip
+* http://www.trailerpark.com/phase1/nelno/pseudopodia/cujo14.zip
+* https://www.quaddicted.com/files/idgames2/quakec/bots/cujo14.zip
 
 ## Cujo Server
 
@@ -638,6 +711,10 @@ This appears to be the server version mentioned in the readme for version 1.4.
 The difference in dates may suggest that the release of a server version was in progress and was anticipated, or that it had been released and that the version now available is an update released 10 days after the 1.4 release.
 
 This is not the last we'll hear about Jonathan E. Wright. His Zeus bot made a much bigger splash and perhaps changed the course of his life.
+
+**Historical Links:**
+
+* http://www.planetquake.com/qca/zeus/cujosrvr.zip
 
 
 
