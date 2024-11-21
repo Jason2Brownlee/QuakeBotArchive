@@ -54,7 +54,7 @@ Bot 'N Bits (BGBot) | Sam Marshallsay aka "Flux" | [botnbits.zip](bin/botnbits.z
 [Bot Hunt](research/essays/b17_bothunt.md) | Douglas H. King aka "Sea4" | [bthnt10.zip](bin/bthnt10.zip) ([txt](bin/bthnt10.txt))
 [Bot Player (BPlayer)](research/essays/b13_bplayer.md) | Wolfgang Lehrach aka "Wolf" | [bplayer2.zip](bin/bplayer2.zip)<br>bplayer1.zip ([txt](bin/bplayer1.txt))
 BotArena (FrikBot) | Fabiano D. Amorim aka "Vegetous" | [botarena.zip](bin/botarena.zip)<br>[bt_scr.zip](bin/bt_scr.zip)
-[BotSkin](essays/b16_botskin.md) | Warren Cheung aka "WACko" | [btskn22.zip](bin/btskn22.zip) ([txt](bin/btskn22.txt))<br>botskn21.zip<br>[botskn20.zip](bin/botskn20.zip) ([txt](bin/botskn20.txt))<br>botskn19.zip<br>[botskn18.zip](bin/botskn18.zip) ([txt](bin/botskn18.txt))<br>botskn17.zip<br>botskn16.zip<br>botskn15.zip<br>botskn14.zip<br>botskn13.zip<br>botskn12.zip<br>botskn11.zip<br>[botskn10.zip](bin/botskn10.zip)
+[BotSkin](research/essays/b16_botskin.md) | Warren Cheung aka "WACko" | [btskn22.zip](bin/btskn22.zip) ([txt](bin/btskn22.txt))<br>botskn21.zip<br>[botskn20.zip](bin/botskn20.zip) ([txt](bin/botskn20.txt))<br>botskn19.zip<br>[botskn18.zip](bin/botskn18.zip) ([txt](bin/botskn18.txt))<br>botskn17.zip<br>botskn16.zip<br>botskn15.zip<br>botskn14.zip<br>botskn13.zip<br>botskn12.zip<br>botskn11.zip<br>[botskn10.zip](bin/botskn10.zip)
 BrBot (Reaper) | "DRaKuLL" | [brbot.7z](bin/brbot.7z) <br>[brbotqc.zip](bin/brbotqc.zip)<br>[brbot.exe](bin/brbot.exe)
 BuddyBot | Chris Steegmans aka "Parsec" | [bbot_b1.zip](bin/bbot_b1.zip) <br>[bbot_b11.zip](bin/bbot_b11.zip)
 Catch The Shrimp | "SkinSki" | [shrimp.zip](bin/shrimp.zip)
