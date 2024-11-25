@@ -170,9 +170,11 @@ A news post was shared on redwood news on October 6th, commenting that the v0.5 
 -- [http://redwood.gatsbyhouse.com/quake/1096.html](https://web.archive.org/web/19970327200948/http://redwood.gatsbyhouse.com/quake/1096.html) (archived March 27 1997)
 
 
+**Historical Links:**
 
-
-
+* ftp://ftp.canvasnet.com/quake/qc/bots/reaprb05.zip
+* ftp://ftp.cdrom.com/pub/idgames2/quakec/bots/reaprb05.zip
+* ftp://ftp.stomped.com/pub/quake/quakec/bots/reaprb05.zip
 
 ## Reaper Bot v0.6
 
@@ -289,8 +291,15 @@ The changelog lists many improvements to the AI such as improved jumping, roamin
 The lack of a change log for the previous version and the presence of a changelog with this and all later versions further support that the version 0.5 release was the first public release of the bot.
 
 
+**Historical Links:**
 
-
+* ftp://ftp.dragonfire.net/users/c/chriscon/reaprb06.zip
+* ftp://ftp.stomped.com/pub/quake/quakec/bots/reaprb06.zip
+* http://redwood.gatsbyhouse.com/files/reaprb06.zip
+* http://redwood.stomped.com/files/reaprb06.zip
+* http://web.ukonline.co.uk/jc.burton/reaprb06.zip
+* http://www.bluesnews.com/pub/quakec/bots/reaprb06.zip
+* http://www.quakehole.com/files/quakec/reaprb06.zip
 
 
 ## Reaper Bot v0.7
@@ -461,8 +470,19 @@ In addition to bug fixes and describing the changes and added commands for multi
 
 -- B07chg.txt
 
+**Historical Locations:** (addon CDs)
 
+* Quake 'em
+	- /QUAKE/PROGRAMS/REAPRB07/
+* Toolkit For Quake 2nd Edition
+	- /QUAKEC/BOTS/REAPRB07.ZIP
 
+**Historical Links:**
+
+* ftp://bluesnews.com/pub/bots/reaprb07.zip
+* http://redwood.gatsbyhouse.com/files/reaprb07.zip
+* http://redwood.stomped.com/files/reaprb07.zip
+* http://www.quakehole.com/files/quakec/reaprb07.zip
 
 
 ## Reaper Bot v0.75
@@ -569,8 +589,14 @@ interesting opponent.
 -- B75chg.txt
 
 
+**Historical Links:**
 
-
+* ftp://bluesnews.com/pub/bots/reaprb75.zip
+* ftp://ftp.pk.edu.pl/pub/games/id/quaketoys/mods/reaprb75.zip
+* http://home.sol.no/hestokke/bots/reaprb75.zip
+* http://redwood.gatsbyhouse.com/quake/files/reaprb75.zip
+* http://redwood.stomped.com/files/reaprb75.zip
+* http://www.quakehole.com/files/quakec/reaprb75.zip
 
 
 ## Reaper Bot v0.8
@@ -694,7 +720,26 @@ The skin specification provides instructions on how to create and add skins for 
 
 -- Skinspec.txt
 
+**Historical Locations:** (addon CDs)
 
+* PC Gamer The Extended Play Collection (Volume 1)
+	- /QUAKE/BOTS/REAPER/REAPRB81.ZIP
+* PC PowerPlay The Quake Bible CD
+	- /PROGRAMS/REAPRB81.ZIP
+* PC Zone Complete Quake CD
+	- /Tc/Reaper/SETUP.EXE
+* Time of Reckoning
+	- /QUAKE/BOTS/RPBOT.ZIP
+
+**Historical Links:**
+
+* ftp://bluesnews.com/pub/bots/reaprb80.zip
+* ftp://ftp.canvasnet.com/incoming/quake/reaprb80.zip
+* ftp://ftp.cdrom.com/pub/quake/quakec/bots/reaprb80.zip
+* http://easyweb.easynet.co.uk/~inferno/impulse1/files/quakec/reaprb80.zip
+* http://redwood.gatsbyhouse.com/quake/files/reaprb80.zip
+* http://redwood.stomped.com/files/reaprb80.zip
+* http://www.cdrom.com/pub/quake/quakec/bots/reaprb80.zip
 
 
 ## Reaper Bot v0.81
@@ -773,9 +818,166 @@ Blues News made it the feature bot on their bot guide webpage, where it remains 
 
 -- [https://www.bluesnews.com/guide/bots.htm](https://web.archive.org/web/19980129073716/https://www.bluesnews.com/guide/bots.htm) (archived January 29 1998)
 
+**Historical Locations:** (addon CDs)
 
+* PC Gamer The Extended Play Collection (Volume 1)
+	- /QUAKE/BOTS/REAPER/REAPRB81.ZIP
+* PC PowerPlay The Quake Bible CD
+	- /PROGRAMS/REAPRB81.ZIP
+* Quake Anthology and Chasm
+	- /ADDONS/FRONTEND/QFRONT/QF_TUT.ZIP/reaprb81.zip
 
+**Historical Links:**
 
+* ftp://bluesnews.com/pub/bots/reaprb81.zip
+* ftp://flinux.tu-graz.ac.at/pub/idsoftware2/quakec/bots/reaper/reaprb81.zip
+* ftp://ftp.bluesnews.com/pub/bot/reaprb81.zip
+* ftp://ftp.cdrom.com/pub/idgames2/quakec/bots/reaper/reaprb81.zip
+* ftp://ftp.cdrom.com/pub/idgames2/quakec/bots/reaprb81.zip
+* ftp://ftp.cdrom.com/pub/quake/bots/reaper/reaprb81.zip
+* ftp://ftp.cdrom.com/pub/quake/planetquake/chopshop/patches/quake/reaprb81.zip
+* ftp://ftp.cdrom.com/pub/quake/planetquake/quakeplace/patches/reaprb81.zip
+* ftp://ftp.cdrom.com/pub/quake/quakec/bots/reaper/reaprb81.zip
+* ftp://ftp.cityline.ru/pub/quake/bots/reaprb81.zip
+* ftp://ftp.compulink.co.uk/pub/games/id/quake/quakec/bots/reaper/reaprb81.zip
+* ftp://ftp.datacomm.ch/pub/idgames2/quakec/bots/reaper/reaprb81.zip
+* ftp://ftp.edu.sollentuna.se/pub/games/quake-stuff/quakec/bots/reaper/reaprb81.zip
+* ftp://ftp.ee.techpta.ac.za/pub/games/idgames2/quakec/bots/reaper/reaprb81.zip
+* ftp://ftp.epix.net/pub/idgames2/quakec/bots/reaper/reaprb81.zip
+* ftp://ftp.freesoftware.com/pub/idgames2/quakec/bots/reaper/reaprb81.zip
+* ftp://ftp.freesoftware.com/pub/quake/bots/reaper/reaprb81.zip
+* ftp://ftp.freesoftware.com/pub/quake/quakec/bots/reaper/reaprb81.zip
+* ftp://ftp.freesoftware.com/pub/quake/quakec/bots/reaper/reaprb81.zipwww.celebritiesgalore.com
+* ftp://ftp.gamers.org/pub/games/idgames2/quakec/bots/reaper/reaprb81.zip
+* ftp://ftp.global.co.za/pub/quake/quakec/bots/reaper/reaprb81.zip
+* ftp://ftp.hol.gr/games/idsoftware/quake/quakec/bots/reaper/reaprb81.zip
+* ftp://ftp.iis.com.br/pub/Quake/reaprb81.zip
+* ftp://ftp.iis.com.br/pub/mirror/Quake/quakec/bots/reaper/reaprb81.zip
+* ftp://ftp.intercity.dk/pub/mirrors/quake/quakec/bots/reaper/reaprb81.zip
+* ftp://ftp.lame.org/mirrors/quake_stuff/quakec/bots/reaper/reaprb81.zip
+* ftp://ftp.lib.siu.edu/pub/mirrors/idsoftware/quakec/bots/reaper/reaprb81.zip
+* ftp://ftp.livewire.com.au/pub/idgames2/quakec/bots/reaper/reaprb81.zip
+* ftp://ftp.organism.com/void/quakec/reaprb81.zip
+* ftp://ftp.pk.edu.pl/pub/games/id/quaketoys/mods/reaprb81.zip
+* ftp://ftp.planetquake.com/pub/academy/reaprb81.zip
+* ftp://ftp.powerup.com.au/pub/games/quake/quakec/bots/reaper/reaprb81.zip
+* ftp://ftp.sci.fi/pub/idgames2/quakec/bots/reaper/reaprb81.zip
+* ftp://ftp.sci.fi/quake/idgames2/quakec/bots/reaper/reaprb81.zip
+* ftp://ftp.stomped.com/pub/idgames2/quakec/bots/reaper/reaprb81.zip
+* ftp://ftp.stomped.com/pub/quake/quakec/reaprb81.zip
+* ftp://ftp.stomped.com/pub/redwood/bots/reaprb81.zip
+* ftp://ftp.sunet.se/pub/pc/games/idgames2/quakec/bots/reaper/reaprb81.zip
+* ftp://ftp.task.gda.pl/pub/games/idgames2/quakec/bots/reaper/reaprb81.zip
+* ftp://ftp.telepac.pt/pub/idgames2/quakec/bots/reaper/reaprb81.zip
+* ftp://ftp.torget.se/pub/games/quake/quakec/reaprb81.zip
+* ftp://ftp.torget.se/quake/bots/reaprb81.zip
+* ftp://ftp.torget.se/quake/quakec/reaprb81.zip
+* ftp://mirror.aarnet.edu.au/pub/idgames2/quakec/bots/reaper/reaprb81.zip
+* ftp://sunsite.doc.ic.ac.uk/packages/idgames2/quakec/bots/reaper/reaprb81.zip
+* http://asp.planetquake.com/dl/dl.asp?ramshackle/reaprb81.zip
+* http://blub.simplenet.com/earth/files/quake/bots/reaprb81.zip
+* http://bluesnews.com/files/reaprb81.zip
+* http://dd.networx.net.au/cgi-bin/pftp.pl?/pub/bots/reaper/reaprb81.zip
+* http://files.gameaholic.com/cgi-sql/download.sql?file=/quakec/bots/reaper/reaprb81.zip
+* http://ftp.cdrom.com/pub/quake/planetquake/qca/reaprb81.zip
+* http://ftp.cdrom.com/pub/quake/quakec/reaper/reaprb81.zip
+* http://ftp.gamers.org/pub/games/idgames2/quakec/bots/reaper/reaprb81.zip
+* http://ftp.iis.com.br/pub/QUAKE/reaprb81.zip
+* http://ftp.iis.com.br/pub/quake/reaprb81.zip
+* http://ftp.sunet.se/idgames2/planetquake/ramshackle/reaprb81.zip
+* http://ftp.sunet.se/idgames2/planetquake/renegade/reaprb81.zip
+* http://ftp.sunet.se/idgames2/planetquake/skillz/misc/reaprb81.zip
+* http://ftp.sunet.se/idgames2/quakec/bots/reaper/reaprb81.zip
+* http://ftp.sunet.se/planetquake/chopshop/patches/quake/reaprb81.zip
+* http://ftp.sunet.se/planetquake/ramshackle/reaprb81.zip
+* http://ftp.sunet.se/planetquake/renegade/reaprb81.zip
+* http://ftp.sunet.se/planetquake/skillz/misc/reaprb81.zip
+* http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/chopshop/patches/quake/reaprb81.zip
+* http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/ramshackle/reaprb81.zip
+* http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/renegade/reaprb81.zip
+* http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/skillz/misc/reaprb81.zip
+* http://ftp.sunet.se/pub/pc/games/idgames2/quakec/bots/reaper/reaprb81.zip
+* http://ftp.telepac.pt/pub/idgames2/planetquake/ramshackle/reaprb81.zip
+* http://ftp.telepac.pt/pub/idgames2/quakec/bots/reaper/reaprb81.zip
+* http://home.goldmanins.com/Bolin/files/reaprb81.zip
+* http://home.sol.no/svsundbe/reaprb81.zip
+* http://idgames.gameaholic.com/cgi-sql/download.sql?file=/quakec/bots/reaper/reaprb81.zip
+* http://members.cox.net/randar/reaprb81.zip
+* http://perl.gamespot.com/perl/download?/action/quake/reaprb81.zip
+* http://quake.agora.dk/quake/mods/rbot/reaprb81.zip
+* http://quakedm.virtualave.net/acc/reaprb81.zip
+* http://quakemecca.simplenet.com/files/downloads/reaprb81.zip
+* http://redwood.gatsbyhouse.com/files/bots/reaprb81.zip
+* http://redwood.gatsbyhouse.com/quake/files/bots/reaprb81.zip
+* http://redwood.gatsbyhouse.com/quake/files/reaprb81.zip
+* http://redwood.stomped.com/files/bots/reaprb81.zip
+* http://redwood.stomped.com/files/reaprb81.zip
+* http://skillz.stomped.com/files/reaprb81.zip
+* http://src.doc.ic.ac.uk/Mirrors/ftp.freebsd.org/pub/planetquake/ramshackle/reaprb81.zip
+* http://src.doc.ic.ac.uk/Mirrors/ftp.freebsd.org/pub/planetquake/renegade/reaprb81.zip
+* http://src.doc.ic.ac.uk/public/Mirrors/ftp.cdrom.com/pub/planetquake/ramshackle/reaprb81.zip
+* http://src.doc.ic.ac.uk/public/Mirrors/ftp.cdrom.com/pub/planetquake/renegade/reaprb81.zip
+* http://src.doc.ic.ac.uk/public/computing/vendor/idgames2/planetquake/ramshackle/reaprb81.zip
+* http://src.doc.ic.ac.uk/public/computing/vendor/idgames2/planetquake/renegade/reaprb81.zip
+* http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/ramshackle/reaprb81.zip
+* http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/renegade/reaprb81.zip
+* http://sunsite.org.uk/packages/idgames2/planetquake/ramshackle/reaprb81.zip
+* http://sunsite.org.uk/packages/idgames2/planetquake/renegade/reaprb81.zip
+* http://web.ukonline.co.uk/Members/dr.stebbings/ZIPFILES/reaprb81.zip
+* http://web.ukonline.co.uk/Members/jc.burton/reaprb81.zip
+* http://web.ukonline.co.uk/dr.stebbings/ZIPFILES/reaprb81.zip
+* http://web.ukonline.co.uk/members/dr.stebbings/ZIPFILES/reaprb81.zip
+* http://web.ukonline.co.uk/members/dr.stebbings/zipfiles/reaprb81.zip
+* http://www.3ddownloads.com/ActiQuake/Mods/Reaper%20Bot/reaprb81.zip
+* http://www.bluesnews.com/files/files/reaprb81.zip
+* http://www.bluesnews.com/files/reaprb81.zip
+* http://www.btinternet.com/~scarylion/reaprb81.zip
+* http://www.cdrom.com/pub/idgames2/quakec/bots/reaper/reaprb81.zip
+* http://www.cdrom.com/pub/quake/bots/reaper/reaprb81.zip
+* http://www.cdrom.com/pub/quake/quakec/bots/reaper/reaprb81.zip
+* http://www.cdrom.com/pub/quake/quakec/bots/reaper/reaprb81.zipwww.celebritiesgalore.com
+* http://www.enter.net/~jalicea/reaprb81.zip
+* http://www.exarch.demon.co.uk/reaprb81.zip
+* http://www.foobar.co.uk/users/macnet/downloads/reaprb81.zip
+* http://www.foobar.co.uk/users/macnet/rpbot/downloads/reaprb81.zip
+* http://www.fortunecity.com/millenium/kirkwall/22/reaprb81.zip
+* http://www.fortunecity.com/underworld/carmageddon/411/reaprb81.zip
+* http://www.fortunecity.com/underworld/darkforces/68/reaprb81.zip
+* http://www.fortunecity.com/underworld/doom/411/reaprb81.zip
+* http://www.fortunecity.com/underworld/quake/318/reaprb81.zip
+* http://www.fortunecity.com/underworld/streetfighter/158/reaprb81.zip
+* http://www.gameaholic.com/deicide/download.cgi?/quakec/bots/reaper/reaprb81.zip
+* http://www.gamers.org/pub/games/idgames2/planetquake/ramshackle/reaprb81.zip
+* http://www.gamers.org/pub/games/idgames2/planetquake/renegade/reaprb81.zip
+* http://www.gamers.org/pub/games/idgames2/planetquake/skillz/misc/reaprb81.zip
+* http://www.gamers.org/pub/games/idgames2/quakec/bots/reaper/reaprb81.zip
+* http://www.gamers.org/pub/idgames2/planetquake/ramshackle/reaprb81.zip
+* http://www.gamers.org/pub/idgames2/planetquake/renegade/reaprb81.zip
+* http://www.gamers.org/pub/idgames2/planetquake/skillz/misc/reaprb81.zip
+* http://www.gamers.org/pub/idgames2/quakec/bots/reaper/reaprb81.zip
+* http://www.gamers.org/pub/mirrors/ftp.planetquake.com/ramshackle/reaprb81.zip
+* http://www.gamers.org/pub/mirrors/ftp.planetquake.com/renegade/reaprb81.zip
+* http://www.gamespot.com/promos/demoad/index.html?ftp://download.gamespot.com/pub/action/quake/reaprb81.zip
+* http://www.globalsoft.com.au/cgi-bin/pftp.pl?/pub/bots/reaper/reaprb81.zip
+* http://www.iinet.net.au/~den/reaprb81.zip
+* http://www.imaxx.net/~dakota/capture/FILES/reaprb81.zip
+* http://www.mindspring.com/~win32ch/reaprb81.zip
+* http://www.ocrana.de/files/files/quakec/bots/reaprb81.zip
+* http://www.planetquake.com/skins/files/reaprb81.zip
+* http://www.quakehole.com/files/quakec/reaprb81.zip
+* http://www.time2quake.com/filez/quakec/bots/reaper/reaprb81.zip
+* http://www2.passagen.se/spel/quake/filer/reaprb81.zip
+* https://www.quaddicted.com/files/idgames2/planetquake/chopshop/patches/quake/reaprb81.zip
+* https://www.quaddicted.com/files/idgames2/planetquake/ramshackle/reaprb81.zip
+* https://www.quaddicted.com/files/idgames2/planetquake/renegade/reaprb81.zip
+* https://www.quaddicted.com/files/idgames2/planetquake/sda/mineral/contests/reaprb81.zip
+* https://www.quaddicted.com/files/idgames2/planetquake/skillz/misc/reaprb81.zip
+* https://www.quaddicted.com/files/idgames2/quakec/bots/reaper/reaprb81.zip
+* https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/chopshop/patches/quake/reaprb81.zip
+* https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/ramshackle/reaprb81.zip
+* https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/renegade/reaprb81.zip
+* https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/sda/mineral/contests/reaprb81.zip
+* https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/skillz/misc/reaprb81.zip
 
 
 ## Epic Megagames
