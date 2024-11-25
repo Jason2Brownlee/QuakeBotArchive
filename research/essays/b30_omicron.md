@@ -217,7 +217,37 @@ Brian Bland aka "Meanstryk" from Ramshackle shared a pre-release of the bot. He 
 -- [http://planetquake.com/ramshackle/omi100f.htm](https://web.archive.org/web/19981203161552/http://planetquake.com/ramshackle/omi100f.htm) (archived December 03 1998)
 
 
+**Historical Locations:** (addon CDs)
 
+* PC Gamer The Extended Play Collection (Volume 1)
+	- /QUAKE/BOTS/OMICRON/OBOTS100.ZIP
+
+**Historical Links:**
+
+* ftp://ftp.cdrom.com/pub/idgames2/planetquake/ramshackle/OBOTS100.ZIP
+* ftp://ftp.telefragged.com/pub/swtc/obots100.zip
+* ftp://ftp.torget.se/pub/games/quake/quakec/OBOTS100.zip
+* ftp://ftp.torget.se/quake/quakec/OBOTS100.zip
+* http://dd.networx.net.au/cgi-bin/pftp.pl?/pub/bots/obots100.zip
+* http://ftp.gamers.org/pub/games/idgames2/planetquake/OBOTS100.ZIP
+* http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/ramshackle/OBOTS100.ZIP
+* http://ftp.telepac.pt/pub/idgames2/planetquake/ramshackle/OBOTS100.ZIP
+* http://gamers.org/pub/games/idgames2/planetquake/OBOTS100.ZIP
+* http://mirror.aarnet.edu.au/games/planetquake/ramshackle/OBOTS100.ZIP
+* http://quake.flashnet.it/files/bots/obots100.zip
+* http://src.doc.ic.ac.uk/Mirrors/ftp.freebsd.org/pub/planetquake/ramshackle/OBOTS100.ZIP
+* http://src.doc.ic.ac.uk/computing/vendor/idgames2/planetquake/ramshackle/OBOTS100.ZIP
+* http://src.doc.ic.ac.uk/packages/quake/planetquake/ramshackle/OBOTS100.ZIP
+* http://src.doc.ic.ac.uk/public/Mirrors/ftp.cdrom.com/pub/planetquake/ramshackle/OBOTS100.ZIP
+* http://src.doc.ic.ac.uk/public/computing/vendor/idgames2/planetquake/ramshackle/OBOTS100.ZIP
+* http://src.doc.ic.ac.uk/public/packages/idgames2/planetquake/ramshackle/OBOTS100.ZIP
+* http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/ramshackle/OBOTS100.ZIP
+* http://sunsite.org.uk/packages/idgames2/planetquake/ramshackle/OBOTS100.ZIP
+* http://www.bluesnews.com/files/patches/obots100.zip
+* http://www.globalsoft.com.au/cgi-bin/pftp.pl?/pub/bots/obots100.zip
+* http://www.hipnotic.com/shack_files/quakec/obots100.zip
+* http://www.ocrana.de/files/files/quakec/bots/obots100.zip
+* http://www.ritual.com/shack_files/quakec/obots100.zip
 
 
 ## Omicron v1.01
@@ -307,9 +337,34 @@ In the new year of 1998, Jan Paul was asked about the release of the Omicron sou
 
 
 
+**Historical Links:**
 
-
-
+* ftp://ftp.cdrom.com/pub/idgames2/planetquake/ramshackle/OBOTS101.ZIP
+* ftp://ftp.cityline.ru/pub/quake/bots/obots101.zip
+* ftp://ftp.freesoftware.com/pub/planetquake/ramshackle/OBOTS101.ZIP
+* ftp://ftp.stomped.com/pub/redwood/bots/obots101.zip
+* ftp://ftp.torget.se/quake/new/bots/obots101.zip
+* http://bluesnews.com/files/patches/obots101.zip
+* http://ftp.gamers.org/pub/games/idgames2/planetquake/OBOTS101.ZIP
+* http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/ramshackle/OBOTS101.ZIP
+* http://ftp.telepac.pt/pub/idgames2/planetquake/ramshackle/OBOTS101.ZIP
+* http://mamuka.narod.ru/files/bots/OBOTS101.ZIP
+* http://mirror.aarnet.edu.au/games/planetquake/ramshackle/OBOTS101.ZIP
+* http://mrelusive.com/oldprojects/obots/Reviews/Metropolis/obots101.zip
+* http://quake.demi.spb.ru/files/patches/obots101.zip
+* http://quake.flashnet.it/files/bots/obots101.zip
+* http://quake.wantree.com.au/~nephilim/som/files/OBOTS101.zip
+* http://src.doc.ic.ac.uk/Mirrors/ftp.freebsd.org/pub/planetquake/ramshackle/OBOTS101.ZIP
+* http://src.doc.ic.ac.uk/computing/vendor/idgames2/planetquake/ramshackle/OBOTS101.ZIP
+* http://src.doc.ic.ac.uk/public/Mirrors/ftp.cdrom.com/pub/planetquake/ramshackle/OBOTS101.ZIP
+* http://src.doc.ic.ac.uk/public/computing/vendor/idgames2/planetquake/ramshackle/OBOTS101.ZIP
+* http://src.doc.ic.ac.uk/public/packages/idgames2/planetquake/ramshackle/OBOTS101.ZIP
+* http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/ramshackle/OBOTS101.ZIP
+* http://sunsite.org.uk/packages/idgames2/planetquake/ramshackle/OBOTS101.ZIP
+* http://www.bluesnews.com/files/patches/obots101.zip
+* http://www.botepidemic.com/gladiator/obots/Comments/Metropolis/obots101.zip
+* http://www.cdrom.com/pub/idgames2/planetquake/ramshackle/OBOTS101.ZIP
+* http://www.cdrom.com/pub/planetquake/ramshackle/OBOTS101.ZIP
 
 ## Omicron v1.02
 
@@ -398,6 +453,92 @@ Again, a changelog is provided at the bottom of the readme file listing many sma
 
 -- OBOTS.HTM
 
+**Historical Locations:** (addon CDs)
+
+* PC PowerPlay The Quake Bible CD
+	- /PROGRAMS/OBOTS102.ZIP
+
+**Historical Links:**
+
+* ftp://ftp.cdrom.com/pub/idgames2/planetquake/obots102.zip
+* ftp://ftp.cdrom.com/pub/planetquake/jvox/obots102.zip
+* ftp://ftp.cdrom.com/pub/planetquake/ramshackle/Obots102.zip
+* ftp://ftp.stomped.com/pub/redwood/bots/obots102.zip
+* http://asp.planetquake.com/dl/dl.asp?jvox/obots102.zip
+* http://asp.planetquake.com/dl/dl.asp?ramshackle/Obots102.zip
+* http://asp.planetquake.com/dl/dl.asp?ramshackle/obots102.zip
+* http://blub.simplenet.com/earth/files/quake/bots/obots102.zip
+* http://bluesnews.com/files/patches/obots102.zip
+* http://ftp.gamers.org/pub/games/idgames2/planetquake/jvox/obots102.zip
+* http://ftp.gamers.org/pub/games/idgames2/planetquake/obots102.zip
+* http://ftp.sunet.se/idgames2/planetquake/jvox/obots102.zip
+* http://ftp.sunet.se/idgames2/planetquake/ramshackle/obots102.zip
+* http://ftp.sunet.se/planetquake/jvox/obots102.zip
+* http://ftp.sunet.se/planetquake/obots102.zip
+* http://ftp.sunet.se/planetquake/ramshackle/obots102.zip
+* http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/jvox/obots102.zip
+* http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/ramshackle/Obots102.zip
+* http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/ramshackle/obots102.zip
+* http://ftp.telepac.pt/pub/idgames2/planetquake/jvox/obots102.zip
+* http://ftp.telepac.pt/pub/idgames2/planetquake/ramshackle/Obots102.zip
+* http://ftp.telepac.pt/pub/idgames2/planetquake/skorpion/files/obots102.zip
+* http://gamers.org/pub/games/idgames2/planetquake/obots102.zip
+* http://gocompupro.com/cqf/files/obots102.zip
+* http://members.cox.net/geffrey/Obots102.zip
+* http://mirror.aarnet.edu.au/games/planetquake/jvox/obots102.zip
+* http://mirror.aarnet.edu.au/games/planetquake/ramshackle/Obots102.zip
+* http://mirrors.telepac.pt/pub/idgames2/planetquake/jvox/obots102.zip
+* http://mrelusive.com/oldprojects/obots/ftp/obots102.zip
+* http://mrelusive.com/oldprojects/obots/skorpion/ftp/files/obots102.zip
+* http://quake.agora.dk/quake/mods/omicron/obots102.zip
+* http://quake.crimea.ua/files/quake/bots/obots102.zip
+* http://src.doc.ic.ac.uk/Mirrors/ftp.freebsd.org/pub/planetquake/jvox/obots102.zip
+* http://src.doc.ic.ac.uk/Mirrors/ftp.freebsd.org/pub/planetquake/ramshackle/Obots102.zip
+* http://src.doc.ic.ac.uk/Mirrors/ftp.freebsd.org/pub/planetquake/ramshackle/obots102.zip
+* http://src.doc.ic.ac.uk/computing/vendor/idgames2/planetquake/ramshackle/Obots102.zip
+* http://src.doc.ic.ac.uk/public/Mirrors/ftp.cdrom.com/pub/planetquake/jvox/obots102.zip
+* http://src.doc.ic.ac.uk/public/Mirrors/ftp.cdrom.com/pub/planetquake/ramshackle/Obots102.zip
+* http://src.doc.ic.ac.uk/public/Mirrors/ftp.cdrom.com/pub/planetquake/ramshackle/obots102.zip
+* http://src.doc.ic.ac.uk/public/computing/vendor/idgames2/planetquake/jvox/obots102.zip
+* http://src.doc.ic.ac.uk/public/computing/vendor/idgames2/planetquake/ramshackle/Obots102.zip
+* http://src.doc.ic.ac.uk/public/computing/vendor/idgames2/planetquake/ramshackle/obots102.zip
+* http://src.doc.ic.ac.uk/public/packages/idgames2/planetquake/ramshackle/Obots102.zip
+* http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/jvox/obots102.zip
+* http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/ramshackle/Obots102.zip
+* http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/ramshackle/obots102.zip
+* http://sunsite.org.uk/packages/idgames2/planetquake/jvox/obots102.zip
+* http://sunsite.org.uk/packages/idgames2/planetquake/ramshackle/Obots102.zip
+* http://sunsite.org.uk/packages/idgames2/planetquake/ramshackle/obots102.zip
+* http://www.bluesnews.com/files/patches/obots102.zip
+* http://www.fileplanet.com/dl.aspx?ramshackle/Obots102.zip
+* http://www.fileplanet.com/dl/dl.asp?/planetquake/botarea51/bot/obots102.zip
+* http://www.fileplanet.com/dl/dl.asp?skorpion/files/obots102.zip
+* http://www.gamers.org/pub/games/idgames2/planetquake/jvox/obots102.zip
+* http://www.gamers.org/pub/games/idgames2/planetquake/ramshackle/obots102.zip
+* http://www.gamers.org/pub/games/idgames2/planetquake/skorpion/files/obots102.zip
+* http://www.gamers.org/pub/idgames2/planetquake/jvox/obots102.zip
+* http://www.gamers.org/pub/idgames2/planetquake/ramshackle/obots102.zip
+* http://www.gamers.org/pub/idgames2/planetquake/skorpion/files/obots102.zip
+* http://www.gamers.org/pub/mirrors/ftp.planetquake.com/jvox/obots102.zip
+* http://www.gamers.org/pub/mirrors/ftp.planetquake.com/ramshackle/obots102.zip
+* http://www.planetquake.com/cdrom/ramshackle/obots102.zip
+* http://www.planetquake.com/dl/dl.asp?skorpion/files/obots102.zip
+* http://www.quake.inet.fi/arkisto/download/Obots102.zip
+* http://www.telefragged.com/metro/files/obots102.zip
+* http://www.telefragged.com/mirrors/mirror.pl?be/gladiator/obots102.zip
+* http://www.xs4all.nl/~elusive/projects/Obots/Obots102.zip
+* http://zquake.frag.ru/misc/obots102.zip
+* https://elusive.home.xs4all.nl/projects/Obots/Obots102.zip
+* https://s3.amazonaws.com/neogeographica-downloads/guides/deathmatch_with_bots/obots102.zip
+* https://www.quaddicted.com/files/idgames2/planetquake/jvox/obots102.zip
+* https://www.quaddicted.com/files/idgames2/planetquake/ramshackle/obots102.zip
+* https://www.quaddicted.com/files/idgames2/planetquake/skorpion/files/obots102.zip
+* https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/jvox/obots102.zip
+* https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/ramshackle/obots102.zip
+* https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/skorpion/files/obots102.zip
+* https://www.quaddicted.com/webarchive/ftp.clan-rum.org/quake/bots/obots102.zip
+* https://www.quaddicted.com/webarchive/mrelusive.com_20170131/oldprojects/obots/ftp/obots102.zip
+* https://www.quaddicted.com/webarchive/mrelusive.com_20170131/oldprojects/obots/skorpion/ftp/files/obots102.zip
 
 ## Omicron on Mac
 
@@ -405,9 +546,41 @@ Omicron was a popular bot.
 
 It proved popular on other platforms too, like Mac that had support for Quake.
 
-Quake versions of each version of the bot were released, packaged for mac developers using the SIT and HQX file extensions
+Quake versions of each version of the bot were released, packaged for mac developers using the SIT file extension.
 
+For example:
 
+* obots100.sit
+* obots101.sit
+* obots102.sit
+
+**Historical Links:**
+
+* ftp://ftp.cdrom.com/pub/idgames2/planetquake/obots102.sit
+* ftp://ftp.cdrom.com/pub/planetquake/jvox/obots102.sit
+* http://asp.planetquake.com/dl/dl.asp?jvox/obots102.sit
+* http://ftp.gamers.org/pub/games/idgames2/planetquake/jvox/obots102.sit
+* http://ftp.gamers.org/pub/games/idgames2/planetquake/obots102.sit
+* http://ftp.sunet.se/idgames2/planetquake/jvox/obots102.sit
+* http://ftp.sunet.se/planetquake/jvox/obots102.sit
+* http://ftp.sunet.se/planetquake/obots102.sit
+* http://ftp.sunet.se/pub/pc/games/idgames2/planetquake/jvox/obots102.sit
+* http://ftp.telepac.pt/pub/idgames2/planetquake/jvox/obots102.sit
+* http://mirror.aarnet.edu.au/games/planetquake/jvox/obots102.sit
+* http://mirrors.telepac.pt/pub/idgames2/planetquake/jvox/obots102.sit
+* http://mrelusive.com/oldprojects/obots/ftp/obots102.sit
+* http://skillz.macquakeinfinity.com/files/Obots102.sit
+* http://src.doc.ic.ac.uk/Mirrors/ftp.freebsd.org/pub/planetquake/jvox/obots102.sit
+* http://src.doc.ic.ac.uk/public/Mirrors/ftp.cdrom.com/pub/planetquake/jvox/obots102.sit
+* http://src.doc.ic.ac.uk/public/computing/vendor/idgames2/planetquake/jvox/obots102.sit
+* http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/jvox/obots102.sit
+* http://sunsite.org.uk/packages/idgames2/planetquake/jvox/obots102.sit
+* http://www.gamers.org/pub/games/idgames2/planetquake/jvox/obots102.sit
+* http://www.gamers.org/pub/idgames2/planetquake/jvox/obots102.sit
+* http://www.gamers.org/pub/mirrors/ftp.planetquake.com/jvox/obots102.sit
+* https://www.quaddicted.com/files/idgames2/planetquake/jvox/obots102.sit
+* https://www.quaddicted.com/files/mirrors/ftp.planetquake.com/jvox/obots102.sit
+* https://www.quaddicted.com/webarchive/mrelusive.com_20170131/oldprojects/obots/ftp/obots102.sit
 
 ## Gladiator Bot
 

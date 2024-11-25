@@ -262,7 +262,9 @@ There is more evidence that the bot is improving given feedback from players of 
 -- botskn20/REVISION.TXT
 
 
+**Historical Links:**
 
+* http://web.ukonline.co.uk/Members/jc.burton/botskn14.zip
 
 ## BotSkin 1.5
 
@@ -304,7 +306,9 @@ The major change in this release is the support for team deathmatch.
 -- botskn20/REVISION.TXT
 
 
+**Historical Links:**
 
+* http://web.ukonline.co.uk/Members/jc.burton/botskn16.zip
 
 
 ## BotSkin 1.7
@@ -466,7 +470,12 @@ The readme also list credits Tony Tang and suggests keeping an eye out for his V
 -- BOTSKN18.TXT
 
 
+**Historical Locations:** (addon CDs)
 
+* Quake 'em
+	- /QUAKE/PROGRAMS/BOTSKN18/
+* Toolkit For Quake 2nd Edition
+	- /QUAKEC/BOTS/BOTSKN18.ZIP
 
 
 ## BotSkin 1.9
@@ -562,7 +571,14 @@ The change log for this version suggest that this release involved changes to th
 
 -- botskn20/REVISION.TXT
 
+**Historical Locations:** (addon CDs)
 
+* Toolkit For Quake 2nd Edition
+	- /QUAKEC/BOTS/BOTSKN20/
+
+**Historical Links:**
+
+* ftp://ftp.torget.se/pub/games/quake/quakec/botskn20.zip
 
 
 ## BotSkin 2.1
@@ -637,7 +653,51 @@ The release appears to fix a major bug when running more than few bots that case
 
 Sadly, the source code was not included in this release and cannot be retrieved from archives of the authors personal homepages.
 
+**Historical Locations:** (addon CDs)
 
+* CD Zone March 1997
+	- /Patches/Quake/addons/btskn22.zip
+* Time of Reckoning
+	- /QUAKE/BOTS/BOT-SKIN.ZIP
+
+**Historical Links:**
+
+* ftp://flinux.tu-graz.ac.at/pub/idsoftware2/quakec/bots/btskn22.zip
+* ftp://ftp-new.labyrinth.net.au/pub/idgames2/quakec/bots/btskn22.zip
+* ftp://ftp.cdrom.com/pub/idgames2/quakec/bots/btskn22.zip
+* ftp://ftp.compulink.co.uk/pub/games/id/quake/quakec/bots/btskn22.zip
+* ftp://ftp.datacomm.ch/pub/idgames2/quakec/bots/btskn22.zip
+* ftp://ftp.edu.sollentuna.se/pub/games/quake-stuff/quakec/bots/btskn22.zip
+* ftp://ftp.epix.net/pub/idgames2/quakec/bots/btskn22.zip
+* ftp://ftp.gamers.org/pub/games/idgames2/quakec/bots/btskn22.zip
+* ftp://ftp.iis.com.br/pub/mirror/Quake/quakec/bots/btskn22.zip
+* ftp://ftp.il.waw.pl/pub/quake/quakec/bots/btskn22.zip
+* ftp://ftp.intercity.dk/pub/mirrors/quake/quakec/bots/btskn22.zip
+* ftp://ftp.lib.siu.edu/pub/mirrors/idsoftware/quakec/bots/btskn22.zip
+* ftp://ftp.livewire.com.au/pub/idgames2/quakec/bots/btskn22.zip
+* ftp://ftp.pioneer.wnyric.org/pub/quake/quakec/bots/btskn22.zip
+* ftp://ftp.powerup.com.au/pub/games/quake/quakec/bots/btskn22.zip
+* ftp://ftp.ram.net.au/pub/quake/idgames2/quakec/bots/btskn22.zip
+* ftp://ftp.sci.fi/pub/idgames2/quakec/bots/btskn22.zip
+* ftp://ftp.stomped.com/pub/idgames2/quakec/bots/btskn22.zip
+* ftp://ftp.sunet.se/pub/pc/games/idgames2/quakec/bots/btskn22.zip
+* ftp://ftp.task.gda.pl/pub/games/idgames2/quakec/bots/btskn22.zip
+* ftp://ftp.telepac.pt/pub/idgames2/quakec/bots/btskn22.zip
+* ftp://ftp.tu-clausthal.de/pub/msdos/games/quake-mirror/quakec/bots/btskn22.zip
+* ftp://mirror.aarnet.edu.au/pub/idgames2/quakec/bots/btskn22.zip
+* ftp://sunsite.doc.ic.ac.uk/packages/idgames2/quakec/bots/btskn22.zip
+* http://ftp.gamers.org/pub/games/idgames2/quakec/bots/btskn22.zip
+* http://ftp.sunet.se/idgames2/quakec/bots/btskn22.zip
+* http://ftp.sunet.se/pub/pc/games/idgames2/quakec/bots/btskn22.zip
+* http://ftp.telepac.pt/pub/idgames2/quakec/bots/btskn22.zip
+* http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/quakec/bots/btskn22.zip
+* http://sunsite.org.uk/packages/idgames2/quakec/bots/btskn22.zip
+* http://www.cdrom.com/pub/idgames2/quakec/bots/btskn22.zip
+* http://www.gameaholic.com/deicide/download.cgi?/quakec/bots/btskn22.zip
+* http://www.gamers.org/pub/games/idgames2/quakec/bots/btskn22.zip
+* http://www.gamers.org/pub/idgames2/quakec/bots/btskn22.zip
+* http://www.time2quake.com/filez/quakec/bots/btskn22.zip
+* https://www.quaddicted.com/files/idgames2/quakec/bots/btskn22.zip
 
 ## Qmon
 
