@@ -720,17 +720,6 @@ The skin specification provides instructions on how to create and add skins for 
 
 -- Skinspec.txt
 
-**Historical Locations:** (addon CDs)
-
-* PC Gamer The Extended Play Collection (Volume 1)
-	- /QUAKE/BOTS/REAPER/REAPRB81.ZIP
-* PC PowerPlay The Quake Bible CD
-	- /PROGRAMS/REAPRB81.ZIP
-* PC Zone Complete Quake CD
-	- /Tc/Reaper/SETUP.EXE
-* Time of Reckoning
-	- /QUAKE/BOTS/RPBOT.ZIP
-
 **Historical Links:**
 
 * ftp://bluesnews.com/pub/bots/reaprb80.zip
@@ -826,6 +815,10 @@ Blues News made it the feature bot on their bot guide webpage, where it remains 
 	- /PROGRAMS/REAPRB81.ZIP
 * Quake Anthology and Chasm
 	- /ADDONS/FRONTEND/QFRONT/QF_TUT.ZIP/reaprb81.zip
+* PC Zone Complete Quake CD
+	- /Tc/Reaper/SETUP.EXE
+* Time of Reckoning
+	- /QUAKE/BOTS/RPBOT.ZIP
 
 **Historical Links:**
 
