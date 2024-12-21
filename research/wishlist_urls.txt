@@ -169,6 +169,7 @@ ftp://sunsite.doc.ic.ac.uk/packages/idgames2/quakec/bots/darkbt4.zip
 ftp://www.clan-rum.org/quake/bots/src_fbca099.zip
 http://203.32.12.18/project/placebot.zip
 http://204.50.28.112/qexpo/upload/61/waypack1.zip
+http://akuma.condemned.com/quake/djbotmk2.zip
 http://asp.planetquake.com/dl/dl.asp?/botshop/quakeworld-20000102.tar.gz
 http://asp.planetquake.com/dl/dl.asp?/botshop/quakeworld-991229.tar.gz
 http://asp.planetquake.com/dl/dl.asp?/holywars/hwqwbot.exe
@@ -362,6 +363,7 @@ http://pw2.netcom.com/~kroeker/qb16src.zip
 http://pw2.netcom.com/~kroeker/qb17.zip
 http://pw2.netcom.com/~kroeker/wqb17.zip
 http://qexpo2001.quakedev.com/qexpo/upload/61/waypack1.zip
+http://qld.condemned.com/frd/files/frikhist/frikbt01.zip
 http://qluck.front.ru/files/downloads/r4f.rar
 http://quake.crimea.ua/files/quake/bots/f2k001a.zip
 http://quake.crimea.ua/files/quake/bots/fbca090kt.zip
@@ -431,6 +433,9 @@ http://src.doc.ic.ac.uk/public/computing/vendor/idgames2/telefragged/metro/frogb
 http://src.doc.ic.ac.uk/public/packages/idgames2/telefragged/epidemic/frogbot012a.zip
 http://src.doc.ic.ac.uk/public/packages/idgames2/telefragged/metro/frogbot007.zip
 http://ssj4death.condemned.com/gb/gbped10.zip
+http://static.condemned.com/files/jeht11.zip
+http://static.condemned.com/files/jeht13.zip
+http://static.condemned.com/files/jeht14.zip
 http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/holywars/hw_frogbot.exe
 http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/holywars/hw_frogbot.sit.bin
 http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/holywars/hw_frogbot.zip
@@ -810,3 +815,4 @@ http://xmark.ausgamers.com/pphlogger/dlcount.php?id=xmark&url=http://xmark.ausga
 http://xmark.ausgamers.com/xkteams/xkteams1705.zip
 http://xmark.ausgamers.com/xkteams/xkteams1705s.zip
 http://xmark.ausgamers.com/xkteams/xkteams2.zip
+
