@@ -34,7 +34,6 @@ botskn14.zip
 botskn15.zip
 botskn16.zip
 botskn17.zip
-botskn19.zip
 botskn21.zip
 bplayer.zip
 btmv10.zip
@@ -481,7 +480,6 @@ botskn14.txt
 botskn15.txt
 botskn16.txt
 botskn17.txt
-botskn19.txt
 botskn21.txt
 bplayer1.txt
 btsk10.txt
