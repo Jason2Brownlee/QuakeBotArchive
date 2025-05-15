@@ -509,7 +509,6 @@ The release was announced on May 08 1998 on Blues News. This is taken as the rel
 
 -- <https://www.bluesnews.com/archives/may98-1.html>
 
-
 This release was also announced on Metropolis one day later.
 
 It mentions a number of changes in the release and requests that all feedback be provided on the message boards.
@@ -538,9 +537,27 @@ It mentions a number of changes in the release and requests that all feedback be
 
 A copy of this release and its readme file cannot be located.
 
+A snippet from the top of the readme file was shared on usenet:
+
+```text
+FROG007.ZIP Title : Frogbot
+Filename : frogbot007.zip
+Version : Beta 0.07
+Date : 8 May 1998
+Author : Robert Field
+Email : fr...@powerup.com.au
+Download : http://www.telefragged.com/metro/
+Build time : Numerous hours
+...
+```
+
+-- [fido7.ru.game.doom.uue](https://groups.google.com/g/fido7.ru.game.doom.uue/c/S-dlWGwHEVI/m/HMES6xEmJA0J)
+
 
 **Historical Links:**
 
+* ftp://ftp.telepac.pt/pub/idgames2/telefragged/metro/frogbot007.zip
+* ftp://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/idgames2/telefragged/metro/frogbot007.zip
 * http://ftp.telepac.pt/pub/idgames2/telefragged/metro/frogbot007.zip
 * http://quake.org.pl/files/frogbot007.zip
 * http://src.doc.ic.ac.uk/computing/vendor/idgames2/telefragged/metro/frogbot007.zip
@@ -549,7 +566,6 @@ A copy of this release and its readme file cannot be located.
 * http://src.doc.ic.ac.uk/public/packages/idgames2/telefragged/metro/frogbot007.zip
 * http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/telefragged/metro/frogbot007.zip
 * http://sunsite.org.uk/packages/idgames2/telefragged/metro/frogbot007.zip
-
 
 ## Frogbot v0.09
 
@@ -663,7 +679,7 @@ The release also supports many different deathmatch modes, including teamplay, w
 * http://sunsite.org.uk/packages/idgames2/telefragged/metro/frogbot009.zip
 
 
-## Frogbot v0.11
+## Frogbot v0.11a
 
 The next release is uncertain, although was probably 0.11 released as frogbot011.zip.
 
@@ -804,10 +820,54 @@ The release was also announced on blues news, mentioning that the source code wa
 
 -- <https://www.bluesnews.com/archives/oct98-3.html>
 
+A snippet of the readme was shared on Usenet:
+
+```text
+FrogBot, 19 Oct 1998
+
+===
+Title : Frogbot
+Filename : frogbot012a.zip
+Date : 17 October 1998
+Author : Robert Field
+Email : fr...@powerup.com.au
+Download : http://www.telefragged.com/metro/
+
+
+What's new in version 0.12
+--------------------------
+
+- Various miscellaneous bugs fixed.
+- ztndm3 support.
+- Bots can understand air movement on difficult jumps (ie. curved
+jump prediction).
+- Qizmo support for smoother Quakeworld play.
+- More friendly teammates (they hopefully won't try to steal items
+that you are waiting for).
+- msg= command in normal Quake, and msg command in Quakeworld now
+works.
+- Better bot jumping and ledge avoidance.
+Though I improved the jump prediction algorithm substantially, I
+also found (and fixed) quite a nasty jump bug. Basically, in 5
+server frames each second a jump request was ignored. Hence either
+the jump was delayed or too late to make (the delay being the frame
+time of the server - this was quite bad in the Quakeworld version,
+which I hadn't tested adequately, since it has only 18.2 server
+frames per second).
+- Added experimental lookcheat command.
+- Added skinfix command.
+- Source included.
+===
+```
+
+-- [fido7.ru.game.quake](https://groups.google.com/g/fido7.ru.game.quake/c/xo7ggYcgRVw/m/KY9nFAcyqQIJ)
+
+
 A copy of this release has not been located.
 
 **Historical Links:**
 
+* ftp://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/idgames2/telefragged/epidemic/frogbot012a.zip
 * http://ftp.telepac.pt/pub/idgames2/telefragged/epidemic/frogbot012a.zip
 * http://src.doc.ic.ac.uk/computing/vendor/idgames2/telefragged/epidemic/frogbot012a.zip
 * http://src.doc.ic.ac.uk/packages/idgames2/telefragged/epidemic/frogbot012a.zip
@@ -844,9 +904,82 @@ It is possible that Robert referred to it this way in a message board post.
 
 -- [http://redwood.stomped.com/1098.html](https://web.archive.org/web/20000818062242/http://redwood.stomped.com/1098.html) (archived August 18 2000)
 
-A copy of this release has not been located.
+The content of `frogbot012b.zip` is as follows:
 
-As such, the nature of the bug fix is not known
+```text
+-rw-rw-r--  0 0      0        1993 19 Oct  1998 frogbot/srcnotes.txt
+-rw-rw-r--  0 0      0         122 14 Oct  1998 frogbot/frontend.cfg
+-rw-rw-r--  0 0      0      359724 19 Oct  1998 frogbot/progs.dat
+-rw-rw-r--  0 0      0         338 16 Oct  1998 frogbot/quake.rc
+-rw-rw-r--  0 0      0      337852 19 Oct  1998 frogbot/qwprogs.dat
+-rw-rw-r--  0 0      0       20263 19 Oct  1998 frogbot/readme.txt
+-rw-rw-r--  0 0      0         604 14 Jul  1998 frogbot/frogbot.cfg
+-rw-rw-r--  0 0      0         217 22 May  1998 frogbot/bots/zap.bot
+-rw-rw-r--  0 0      0         217 17 May  1998 frogbot/bots/bro.bot
+-rw-rw-r--  0 0      0         480 17 May  1998 frogbot/bots/corpgrin.bot
+-rw-rw-r--  0 0      0         265 17 May  1998 frogbot/bots/dizzy.bot
+-rw-rw-r--  0 0      0         325 17 May  1998 frogbot/bots/dragon.bot
+-rw-rw-r--  0 0      0         241 17 May  1998 frogbot/bots/dude.bot
+-rw-rw-r--  0 0      0         336 17 May  1998 frogbot/bots/fraggod.bot
+-rw-rw-r--  0 0      0         506 17 May  1998 frogbot/bots/genfail.bot
+-rw-rw-r--  0 0      0         288 17 May  1998 frogbot/bots/girlie.bot
+-rw-rw-r--  0 0      0         362 17 May  1998 frogbot/bots/goldboy.bot
+-rw-rw-r--  0 0      0         701 14 Jul  1998 frogbot/bots/hello.bot
+-rw-rw-r--  0 0      0         505 17 May  1998 frogbot/bots/killmach.bot
+-rw-rw-r--  0 0      0         313 17 May  1998 frogbot/bots/reptile.bot
+-rw-rw-r--  0 0      0         337 17 May  1998 frogbot/bots/supman.bot
+-rw-rw-r--  0 0      0         288 17 May  1998 frogbot/bots/thresh.bot
+-rw-rw-r--  0 0      0         277 17 May  1998 frogbot/bots/yoda.bot
+-rw-rw-r--  0 0      0         481 17 May  1998 frogbot/bots/add2quak.bot
+-rw-rw-r--  0 0      0       11514 18 Oct  1998 frogbot/src/world.qc
+-rw-rw-r--  0 0      0       32056 16 Oct  1998 frogbot/src/botimp.qc
+-rw-rw-r--  0 0      0        9312 18 Oct  1998 frogbot/src/botphys.qc
+-rw-rw-r--  0 0      0        5941 17 Oct  1998 frogbot/src/botthink.qc
+-rw-rw-r--  0 0      0        9943 17 Oct  1998 frogbot/src/botutil.qc
+-rw-rw-r--  0 0      0        3413 14 Oct  1998 frogbot/src/buttons.qc
+-rw-rw-r--  0 0      0       42203 17 Oct  1998 frogbot/src/client.qc
+-rw-rw-r--  0 0      0        6422 14 Oct  1998 frogbot/src/combat.qc
+-rw-rw-r--  0 0      0       49803 19 Oct  1998 frogbot/src/defs.qc
+-rw-rw-r--  0 0      0       16218 14 Oct  1998 frogbot/src/doors.qc
+-rw-rw-r--  0 0      0       17095 14 Oct  1998 frogbot/src/hook.qc
+-rw-rw-r--  0 0      0       42969 19 Oct  1998 frogbot/src/items.qc
+-rw-rw-r--  0 0      0       24448 16 Oct  1998 frogbot/src/kascam.qc
+-rw-rw-r--  0 0      0        8738 15 Oct  1998 frogbot/src/lists.qc
+-rw-rw-r--  0 0      0        6571 18 Oct  1998 frogbot/src/map_dm4.qc
+-rw-rw-r--  0 0      0        9446 17 Oct  1998 frogbot/src/map_dm6.qc
+-rw-rw-r--  0 0      0        8460 16 Oct  1998 frogbot/src/map_ztndm3.qc
+-rw-rw-r--  0 0      0       62721 19 Oct  1998 frogbot/src/marker.qc
+-rw-rw-r--  0 0      0        2539 15 Oct  1998 frogbot/src/match.qc
+-rw-rw-r--  0 0      0         874  6 Jul  1998 frogbot/src/mathutil.qc
+-rw-rw-r--  0 0      0       10249 14 Oct  1998 frogbot/src/misc.qc
+-rw-rw-r--  0 0      0       10053 16 Oct  1998 frogbot/src/names.qc
+-rw-rw-r--  0 0      0        3436 14 Oct  1998 frogbot/src/observ.qc
+-rw-rw-r--  0 0      0        7202 14 Oct  1998 frogbot/src/plats.qc
+-rw-rw-r--  0 0      0       18681 14 Oct  1998 frogbot/src/player.qc
+-rw-rw-r--  0 0      0         442 19 Oct  1998 frogbot/src/preprogs.src
+-rw-rw-r--  0 0      0         636 29 Jun  1998 frogbot/src/server.qc
+-rw-rw-r--  0 0      0        3215  9 Jul  1998 frogbot/src/subs.qc
+-rw-rw-r--  0 0      0       17121 14 Jul  1998 frogbot/src/teamplay.qc
+-rw-rw-r--  0 0      0       12509 15 Oct  1998 frogbot/src/triggers.qc
+-rw-rw-r--  0 0      0          51 19 Oct  1998 frogbot/src/version.qc
+-rw-rw-r--  0 0      0       32766 14 Oct  1998 frogbot/src/weapons.qc
+-rw-rw-r--  0 0      0       53722 19 Oct  1998 frogbot/src/botai.qc
+```
+
+The top of the readme is as follows:
+
+```text
+Title        : Frogbot
+Filename     : frogbot012b.zip
+Date         : 19 October 1998
+Author       : Robert Field
+Email        : frog@powerup.com.au
+Download     : http://www.telefragged.com/metro/
+...
+```
+
+-- frogbot012b.zip/readme.txt
+
 
 **Historical Links:**
 
@@ -904,7 +1037,7 @@ The readme lists the release date as October 23 1998, matching the file timestam
 
 -- readme.txt
 
-A changelog is lised at the top of the readme and is identical to the one listed in the first release for v0.12, with the addition of one line:
+A changelog is listed at the top of the readme and is identical to the one listed in the first release for v0.12, with the addition of one line:
 
 	- noflash command.
 
@@ -1293,9 +1426,9 @@ It was announced on the popular quakeworld forum quakeworld.nu.
 * Frogbot v0.09, frogbot009.zip, May 18 1998
 * Frogbot v0.11a, frogbot011.zip, July 14 1998
 * Frogbot v0.11b, frogbot011b.zip, July 15 1998
-* Frogbot v0.12a, frogbot012.zip, October 16 1998
-* Frogbot v0.12b, frogbot012.zip, October 18 1998
-* Frogbot v0.12c, frogbot012.zip, October 23 1998
+* Frogbot v0.12a, frogbot012a.zip, October 16 1998
+* Frogbot v0.12b, frogbot012b.zip, October 18 1998
+* Frogbot v0.12c, frogbot012c.zip, October 23 1998
 * Frogbot Demos, frogbot_demo.zip, January 09 1999
 * Frogbot Fix, frogfix1.zip, January 29 1999
 * Frogbot v0.13, frogbot013.zip, April 26 1999
