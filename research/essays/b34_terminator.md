@@ -6,7 +6,7 @@ It is deathmatch assistant, rather than a deathmatch opponent, e.g. a helper bot
 
 ## Early Versions
 
-There may have been earlier public versions of the bot that are not currently know.
+There may have been earlier public versions of the bot that are not currently known.
 
 The bot was hosted on <http://www.ens.fr/~cridlig/bot/> which was not archived, meaning we have no record of releases that may have been present.
 
@@ -32,7 +32,7 @@ This version of the bot was released as `trmbot07.zip` (binary).
 
 Version 0.7 was mentioned via a link in the announcement of v0.8 on Blues News October 17th 1996 (see below)
 
-> ...
+> ...\
 > Terminator 'bot 0.7 (286 KB)	The executable for Win95, SUN O/S and AIX.
 
 A local copy of the files was hosted and linked:
@@ -75,6 +75,24 @@ It was uploaded to cdrom.com (and mirrored) into the directory `/idgames2/utils/
 
 -- https://www.gamers.org/pub/games/idgames2/utils/network_serial/client_bots/
 
+Version 0.8 was mentioned on Redwood News October 17th 1996:
+
+> ==October 17== 2:50p.m. CDT
+>
+> The Terminator bot is a client side automatic player. You can read bot.txt as well as download the Win95 executable. If you want Unix executables or the source code, go to La page francaise de QUAKE and get them. You should go there anyway so you can brush up on that French that you forgot since taking it in high school (like me).
+
+-- [http://redwood.gatsbyhouse.com/quake/1096.html](https://web.archive.org/web/19970327200948/http://redwood.gatsbyhouse.com/quake/1096.html) (archived)
+
+Including links:
+
+* http://redwood.gatsbyhouse.com/files/bot.txt
+* http://redwood.gatsbyhouse.com/files/trmbot08.zip
+* http://www.worldnet.net/~edwin/quake/quake.htm
+
+Unix executables for v0.8 were reported to be avialalbe on <http://www.worldnet.net/~edwin/quake/quake.htm> which redirects to <http://myweb.worldnet.net/~edwin/quake/quake.htm>. Neither sites were archived it seems.
+
+It does suggest that Unix versions of this release were public.
+
 Version 0.8 was mentioned on Blues News October 17th 1996:
 
 > Client Side 'Bot II
@@ -110,7 +128,7 @@ Contents of the binary:
 ```text
 -rw-rw-r--  0 0      0      275352 13 Oct  1996 bot.exe
 -rw-rw-r--  0 0      0        9568 14 Oct  1996 bot.txt
-```text
+```
 
 The readme contains no release date or change log in formation.
 
@@ -217,7 +235,17 @@ A local copy of the file was hosted and linked:
 
 * ftp://bluesnews.com/pub/client_bots/trmbot09.zip
 
-Sadly, this file was not archived.
+Version 0.9 was mentioned on Redwood News October 13th 1996:
+
+> ==November 13== 10:15a.m. CST
+>
+> Joe Powell, famed Qspy author and Quake news reporter? He sent me the new Terminator Bot .9. Joe's a helpful kinda guy. He even helped my Quakeworld rankings the other night. Hehe. I even get to use our clan skin in QW.
+
+-- [http://redwood.gatsbyhouse.com/quake/1196.html](https://web.archive.org/web/19970327200928/http://redwood.gatsbyhouse.com/quake/1196.html) (archived)
+
+Link:
+
+* http://redwood.gatsbyhouse.com/files/trmbot09.zip
 
 Olivier announced that he had released the source code for his bot on Usenet.
 
@@ -238,6 +266,7 @@ Olivier Montanuy
 recently converted to Linux (both for work and leisure).
 ```
 -- [comp.os.linux.development.apps](https://groups.google.com/g/comp.os.linux.development.apps/c/B6JGX2YWlGc/m/L8447N3nlHYJ)
+
 
 File content:
 
