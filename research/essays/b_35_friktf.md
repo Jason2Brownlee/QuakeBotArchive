@@ -500,16 +500,7 @@ This version was also announced on Bot Epidemic:
 >
 > I spotted over at Inside3D, THE site for Quake related goodness, that a new version of the Team Fortress compatible, FrikTF is out. Here's what the author had to say:
 >
->    A new version of FrikTF has been released. This release fixes major problems with the QuakeWorld version, such as bots repeatedly being kicked for changing skin.
-This version also fixed compile-time errors found within the source code.
->
->    Frik-TF is available at:
->
-http://groups.yahoo.com/group/friktf/files/friktf-051901.zip
->
->    The problem of bots being displayed with the wrong skin is still present in the QuakeWorld version. I would expect the base skin to be rendered, but it shows the engineer skin instead.
->
->    If anyone wants to take a crack at solving the problem, go ahead. Be sure to look at the attempted workaround in overloaded function "infokey" found in "bot_qw.qc" to see how it should work.
+> ...
 >
 > Get it here.
 
