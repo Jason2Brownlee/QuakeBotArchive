@@ -1,12 +1,12 @@
 # FrikBot for TeamFortress (FrikTF)
 
-FrikBot for TeamFortress or "FrikTF" is a port of the Frikbot (Ryan Smith) for Team Fortress Quake by Raymond Martineau.
+**FrikBot for TeamFortress** or "FrikTF" is a port of the Frikbot for Team Fortress Quake developed by Raymond Martineau.
 
 ## Homepage
 
 The first homepage for the mod was <http://www.ncf.ca/~bk039/> and some files were archived.
 
-It later moved to <http://www.mdqnet.net/friktf/> and <http://www.mdqnet.net/dept187/> (not archived).
+It later moved to <http://www.mdqnet.net/friktf/> and <http://www.mdqnet.net/dept187/> which were not archived.
 
 Files were later hosted on the yahoo email list directly <http://www.egroups.com/group/friktf/> and <http://groups.yahoo.com/group/friktf> some of which were archived.
 
@@ -252,10 +252,10 @@ to shoot for.
 
 This version was released as:
 
-* friktf-092800.zip
-* friktf-092800-src.zip
-* friktf-092800-qw.zip
-* friktf-092800.tar.gz
+* `friktf-092800.zip`
+* `friktf-092800-src.zip`
+* `friktf-092800-qw.zip`
+* `friktf-092800.tar.gz`
 
 The files `friktf-092800.zip` and `friktf-092800-src.zip` have been acquired, where as the other files have not yet been acquired.
 
@@ -432,7 +432,7 @@ And for Ryan "Frika C" Smith, for creating the original Frikbot.
 
 -- friktf-092800-src.zip/friktf.txt
 
-## v051901 (binary) (?)
+## v051901
 
 This version was released as `friktf-051901.zip`.
 
@@ -447,7 +447,7 @@ Historical locations:
 
 ## Release History
 
-* Apr 01 2000, friktfqw.zip, frik-tf.zip (?)
+* Apr 01 2000, friktfqw.zip, frik-tf.zip
 * May 14 2000, friktf-051800-src.zip
 * May 18 2000, friktf-051800.zip
 * Jun 07 2000, friktf-051800.zip
