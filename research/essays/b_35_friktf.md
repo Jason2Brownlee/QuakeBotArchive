@@ -10,6 +10,8 @@ It later moved to <http://www.mdqnet.net/friktf/> and <http://www.mdqnet.net/dep
 
 Files were later hosted on the yahoo email list directly <http://www.egroups.com/group/friktf/> and <http://groups.yahoo.com/group/friktf> some of which were archived.
 
+It is possible that "Plumb" took over the development of this project in 2002 which was hosted at <http://www.botepidemic.com/tfb/>. There were no additional releases
+
 
 ## Versions
 
@@ -108,6 +110,13 @@ This version was released as:
 
 Some files may have been released at dates differing from the filenames and/or re-released at a later date with the same filename.
 
+Historical locations:
+
+* http://groups.yahoo.com/group/friktf/files/friktf-051800-qw.zip
+* http://groups.yahoo.com/group/friktf/files/friktf-051800-src.zip
+* http://groups.yahoo.com/group/friktf/files/friktf-051800.zip
+* http://www.egroups.com/files/friktf/friktf-051800-qw.zip
+
 An announcement for the release was made on MDQNet News:
 
 > Mods | May 18, 2000, 22:27 | dynamo\
@@ -120,13 +129,6 @@ An announcement for the release was made on MDQNet News:
 Linking to:
 
 * http://www.mdqnet.net/friktf/index.shtml (not archived)
-
-Historical locations:
-
-* http://groups.yahoo.com/group/friktf/files/friktf-051800-qw.zip
-* http://groups.yahoo.com/group/friktf/files/friktf-051800-src.zip
-* http://groups.yahoo.com/group/friktf/files/friktf-051800.zip
-* http://www.egroups.com/files/friktf/friktf-051800-qw.zip
 
 ### friktf-051800.zip
 
@@ -183,6 +185,20 @@ Changes since last official version
 ### friktf-051800-qw.zip
 
 The filename suggests the release date of May 18 2000. The file timestamps suggest a release date of June 07 2000. The readme suggests a release date of June 06 2000.
+
+This updated version was announced on Bot Epidemic:
+
+> FrikTF QuakeWorld | June 12, 2000 - 6:18 EST | Ze0
+>
+> Raymond Martineau has posted a new version of Frik-TF for QuakeWorld on an Egroups mirror as the main site is down. This version fixes a major bug which causes a crash when you spawn a bot after a client disconnects. You can grab it here.
+
+-- [http://www.botepidemic.com/](https://web.archive.org/web/20000620125532/http://www.botepidemic.com/) (archived)
+
+Links in post:
+
+* http://www.mdqnet.net/friktf/
+* http://www.egroups.com/files/friktf/
+* http://www.egroups.com/files/friktf/friktf-051800-qw.zip
 
 Content of `friktf-051800-qw.zip`:
 
@@ -457,6 +473,52 @@ Historical locations:
 
 * http://groups.yahoo.com/group/friktf/files/friktf-051901.zip
 
+This version was announced on Inside3D:
+
+> News Update Sunday, May 20
+>
+> New FrikTF - update by FrikaC
+>
+> I just received this email and to save time, I will quote directly:
+>
+> A new version of FrikTF has been released. This release fixes major problems with the QuakeWorld version, such as bots repeatedly being kicked for changing skin.
+>
+> This version also fixed compile-time errors found within the source code.
+>
+> Frik-TF is available at:\
+> http://groups.yahoo.com/group/friktf/files/friktf-051901.zip
+>
+> The problem of bots being displayed with the wrong skin is still present in the QuakeWorld version. I would expect the base skin to be rendered, but it shows the engineer skin instead.
+>
+> If anyone wants to take a crack at solving the problem, go ahead. Be sure to look at the attempted workaround in overloaded function "infokey" found in "bot_qw.qc" to see how it should work.
+
+-- [http://www.inside3d.com/?show=May-2001](https://web.archive.org/web/20011224114145/http://www.inside3d.com/?show=May-2001)
+
+This version was also announced on Bot Epidemic:
+
+> New FrikTF Released | May 23, 2001 - 4:22 EST | Ze0
+>
+> I spotted over at Inside3D, THE site for Quake related goodness, that a new version of the Team Fortress compatible, FrikTF is out. Here's what the author had to say:
+>
+>    A new version of FrikTF has been released. This release fixes major problems with the QuakeWorld version, such as bots repeatedly being kicked for changing skin.
+This version also fixed compile-time errors found within the source code.
+>
+>    Frik-TF is available at:
+>
+http://groups.yahoo.com/group/friktf/files/friktf-051901.zip
+>
+>    The problem of bots being displayed with the wrong skin is still present in the QuakeWorld version. I would expect the base skin to be rendered, but it shows the engineer skin instead.
+>
+>    If anyone wants to take a crack at solving the problem, go ahead. Be sure to look at the attempted workaround in overloaded function "infokey" found in "bot_qw.qc" to see how it should work.
+>
+> Get it here.
+
+-- [http://www.botepidemic.com/bin/newspro/archive/arc.shtml](https://web.archive.org/web/20010606232546/http://www.botepidemic.com/bin/newspro/archive/arc.shtml)
+
+Links in post:
+
+* http://groups.yahoo.com/group/friktf
+* http://groups.yahoo.com/group/friktf/files/friktf-051901.zip
 
 ## Release History
 
@@ -472,6 +534,6 @@ Historical locations:
 
 * [http://groups.yahoo.com/group/friktf](https://web.archive.org/web/20010611172436/http://groups.yahoo.com/group/friktf)
 * [http://groups.yahoo.com/group/friktf/files/](https://web.archive.org/web/20010609104604/http://groups.yahoo.com/group/friktf/files/)
-
+* [http://www.botepidemic.com/tfb/index.shtml](https://web.archive.org/web/20020220150905/http://www.botepidemic.com/tfb/index.shtml)
 
 
