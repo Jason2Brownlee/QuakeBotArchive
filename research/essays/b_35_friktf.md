@@ -1,6 +1,6 @@
 # FrikBot for TeamFortress (FrikTF)
 
-**FrikBot for TeamFortress** or "FrikTF" is a port of the Frikbot for Team Fortress Quake developed by Raymond Martineau.
+**FrikBot for TeamFortress** or "FrikTF" or "Frik-TF" is a port of the Frikbot for Team Fortress Quake developed by Raymond Martineau.
 
 ## Homepage
 
@@ -107,6 +107,19 @@ This version was released as:
 * `friktf-051800-src.zip`
 
 Some files may have been released at dates differing from the filenames and/or re-released at a later date with the same filename.
+
+An announcement for the release was made on MDQNet News:
+
+> Mods | May 18, 2000, 22:27 | dynamo\
+> Frik-TF
+>
+> A new version of Frik-TF is available, and has been uploaded to the Frik-TF homepage.
+
+-- [http://www.mdqnet.net/](https://web.archive.org/web/20000520015554/http://www.mdqnet.net/) (archived)
+
+Linking to:
+
+* http://www.mdqnet.net/friktf/index.shtml (not archived)
 
 Historical locations:
 
