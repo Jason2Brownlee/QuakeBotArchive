@@ -8,11 +8,30 @@ It is deathmatch assistant, rather than a deathmatch opponent, e.g. a helper bot
 
 There may have been earlier public versions of the bot that are not currently known.
 
-The bot was hosted on <http://www.ens.fr/~cridlig/bot/> which was not archived, meaning we have no record of releases that may have been present.
+The bot was hosted on <http://www.ens.fr/~cridlig/bot/> which was not archived, meaning we have no record of releases that may have been present. It may have also been hosted on Olivier's homepage <http://www.ens.fr/~montanuy>, which was also not archived.
 
 Olivier Montanuy was also involved in the "Unofficial Quake Specs" and "Quake C Specs" documentation projects from an early stage.
 
 For example:
+
+```text
+Olivier Montanuy, 5 Oct 1995
+
+I have temporarily put an updated version of the unofficial
+Quake specs on my page:
+http://www.ens.fr/~montanuy
+
+
+Authorisation to publish this has been granted by John Romero,
+because it's completely outdated. But it *does* give a general idea
+of what Quake levels will/could be like, since it was actually valid
+at one stage in the development of Quake.
+...
+```
+
+--  [rec.games.computer.doom.announce](https://groups.google.com/g/rec.games.computer.doom.announce/c/ROFg7v0kwCw/m/SYzfUY_PEAkJ)
+
+And:
 
 > August 8th 1996
 >
@@ -700,4 +719,4 @@ drwxr-xr-x  0 montanuy popusers      0 29 Sep  1999 termbot/proxy/Debug/
 
 * [Terminator Bot for Quake 0.96](https://web.archive.org/web/20010504115657/http://perso.wanadoo.fr/montanuy/bot/index.html) (archived)
 * [Terminator Bot for Quake 0.9](https://www.gamers.org/dEngine/quake/Qbot/)
-
+* [Olivier Montanuy, doomwiki](https://doomwiki.org/wiki/Olivier_Montanuy)
