@@ -294,6 +294,7 @@ Historical locations:
 * http://groups.yahoo.com/group/friktf/files/friktf-092800-src.zip
 * http://groups.yahoo.com/group/friktf/files/friktf-092800.tar.gz
 * http://groups.yahoo.com/group/friktf/files/friktf-092800.zip
+* https://doritoshp.tripod.com/Downloads/friktf-092800.zip
 
 ### friktf-092800.zip
 
