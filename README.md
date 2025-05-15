@@ -230,7 +230,7 @@ Tballman | Jeff Curley aka "Mother" | tballman097.zip<br>[tballman091.zip](bin/t
 TD-BOT | ? | tdbot1_0.zip
 TD2 Mech Bot | ? | [mech.zip](bin/mech.zip)
 Team FMOD (Frogbot) | "Shelob" | stfm10.zip
-Team Fortress + Frikbot (Frik-TF) | Raymond Martineau | friktf-051901.zip<br>[friktf-092800.zip](bin/friktf-092800.zip)<br>[friktf-092800-src.zip](bin/friktf-092800-src.zip)<br>friktf-092800-qw.zip<br>friktf-092800.tar.gz<br>[friktf-051800.zip](bin/friktf-051800.zip)<br>[friktf-051800-qw.zip](bin/friktf-051800-qw.zip)<br>[friktf-051800-src.zip](bin/friktf-051800-src.zip)<br>frik-tf.zip<br>[friktfqw.zip](bin/friktfqw.zip)
+[Team Fortress + Frikbot (Frik-TF)](research/essays/b_35_friktf.md) | Raymond Martineau | friktf-051901.zip<br>[friktf-092800.zip](bin/friktf-092800.zip)<br>[friktf-092800-src.zip](bin/friktf-092800-src.zip)<br>friktf-092800-qw.zip<br>friktf-092800.tar.gz<br>[friktf-051800.zip](bin/friktf-051800.zip)<br>[friktf-051800-qw.zip](bin/friktf-051800-qw.zip)<br>[friktf-051800-src.zip](bin/friktf-051800-src.zip)<br>frik-tf.zip<br>[friktfqw.zip](bin/friktfqw.zip)
 Team Fortress + Tutor | Darryl Atchison aka "coffee" | [tf_bots07.zip](bin/tf_bots07.zip) ([txt](bin/tf_bots07.txt))
 Team Fortress Bot  | Valery Shchedrin aka "Forthpick" | [teamfbot.zip](bin/teamfbot.zip)
 Team Fortress Bots (TFBOTS) | Jeffery Watts aka "wattsup" and Joern Strombach aka "Hoerno / Nexus" | [tfbot080.zip](bin/tfbot080.zip)<br>[tfbot077.zip](bin/tfbot077.zip)<br>[tfbot076.zip](bin/tfbot076.zip)
