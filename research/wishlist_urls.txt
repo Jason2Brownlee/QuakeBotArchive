@@ -20,7 +20,6 @@ ftp://ftp.cdrom.com/pub/idgames2/planetquake/seals/sqdbt201.zip
 ftp://ftp.cdrom.com/pub/idgames2/planetquake/tfbot/tfb-v07.zip
 ftp://ftp.cdrom.com/pub/idgames2/quakec/bots/darkbt4.zip
 ftp://ftp.cdrom.com/pub/idgames2/telefragged/epidemic/frogbot012a.zip
-ftp://ftp.cdrom.com/pub/idgames2/telefragged/metro/frogbot007.zip
 ftp://ftp.cdrom.com/pub/planetquake/holywars/hw_frogbot.zip
 ftp://ftp.cdrom.com/pub/planetquake/holywars/hwqwbotv101c.zip
 ftp://ftp.cdrom.com/pub/quake/planetquake/qca/tfb-v07.zip
@@ -94,7 +93,6 @@ ftp://ftp.telefragged.com/be/fmods/demos/frogbot_demo.zip
 ftp://ftp.telefragged.com/be/fmods/fbarena050.zip
 ftp://ftp.telefragged.com/be/fmods/hwqwbot.zip
 ftp://ftp.telefragged.com/pub/be/ents/OmiEdit01.zip
-ftp://ftp.telefragged.com/pub/metro/frogbot007.zip
 ftp://ftp.telefragged.com/pub/qnm/fbedit13.zip
 ftp://ftp.telefragged.com/pub/qnm/fbedit15.zip
 ftp://ftp.telefragged.com/pub/qnm/fbedit17.zip
@@ -107,7 +105,6 @@ ftp://ftp.telepac.pt/pub/idgames2/planetquake/holywars/hwqwbotv101c.zip
 ftp://ftp.telepac.pt/pub/idgames2/planetquake/seals/sqdbt201.zip
 ftp://ftp.telepac.pt/pub/idgames2/quakec/bots/darkbt4.zip
 ftp://ftp.telepac.pt/pub/idgames2/telefragged/epidemic/frogbot012a.zip
-ftp://ftp.telepac.pt/pub/idgames2/telefragged/metro/frogbot007.zip
 ftp://ftp.torget.se/pub/games/quake/multiplayer/req107b.zip
 ftp://ftp.torget.se/pub/games/quake/quakec/seismo14.zip
 ftp://ftp.torget.se/quake/multiplayer/req107b.zip
@@ -161,7 +158,6 @@ ftp://quake.mtu.ru/pub/quake/bots/frogbot7.zip
 ftp://quake.mtu.ru/pub/quake/bots/zeusbot.zip
 ftp://quake.odessa.net/pub/bots/f2k001a.zip
 ftp://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/idgames2/telefragged/epidemic/frogbot012a.zip
-ftp://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/idgames2/telefragged/metro/frogbot007.zip
 ftp://sunsite.doc.ic.ac.uk/packages/idgames2/partial_conversions/xrated/sexbot11.zip
 ftp://sunsite.doc.ic.ac.uk/packages/idgames2/planetquake/holywars/hwqwbotv101c.zip
 ftp://sunsite.doc.ic.ac.uk/packages/idgames2/planetquake/seals/sqdbt201.zip
@@ -241,7 +237,6 @@ http://ftp.telepac.pt/pub/idgames2/planetquake/holywars/hwqwbotv101c.zip
 http://ftp.telepac.pt/pub/idgames2/quakec/compilations/urqp102.zip
 http://ftp.telepac.pt/pub/idgames2/quakec/compilations/urqp103.zip
 http://ftp.telepac.pt/pub/idgames2/telefragged/epidemic/frogbot012a.zip
-http://ftp.telepac.pt/pub/idgames2/telefragged/metro/frogbot007.zip
 http://ftp.telepac.pt/pub/idgames2/telefragged/qnm/fbedit13.zip
 http://ftp.telepac.pt/pub/idgames2/telefragged/qnm/fbedit14.zip
 http://ftp.telepac.pt/pub/idgames2/telefragged/qnm/fbedit15.zip
@@ -374,7 +369,6 @@ http://quake.crimea.ua/files/quake/bots/fbca096kt.zip
 http://quake.crimea.ua/files/quake/bots/fbca097kt.zip
 http://quake.crimea.ua/files/quake/bots/frogbot_mod.zip
 http://quake.morda.ru/files/pablo_the_bot.zip
-http://quake.org.pl/files/frogbot007.zip
 http://quake.org.pl/files/quake/boty/frogboteditor/fbedit17.zip
 http://quake.org.pl/files/quake/requiem/reqqw20i.zip
 http://quake.org.pl/pliki/fbedit15.zip
@@ -412,9 +406,7 @@ http://src.doc.ic.ac.uk/Mirrors/ftp.freebsd.org/pub/planetquake/requiem/reqqw23.
 http://src.doc.ic.ac.uk/Mirrors/ftp.freebsd.org/pub/planetquake/requiem/reqqw2a.zip
 http://src.doc.ic.ac.uk/Mirrors/ftp.freebsd.org/pub/planetquake/requiem/reqqwsrc.zip
 http://src.doc.ic.ac.uk/computing/vendor/idgames2/telefragged/epidemic/frogbot012a.zip
-http://src.doc.ic.ac.uk/computing/vendor/idgames2/telefragged/metro/frogbot007.zip
 http://src.doc.ic.ac.uk/packages/idgames2/telefragged/epidemic/frogbot012a.zip
-http://src.doc.ic.ac.uk/packages/idgames2/telefragged/metro/frogbot007.zip
 http://src.doc.ic.ac.uk/public/Mirrors/ftp.cdrom.com/pub/planetquake/holywars/hw_frogbot.exe
 http://src.doc.ic.ac.uk/public/Mirrors/ftp.cdrom.com/pub/planetquake/holywars/hw_frogbot.sit.bin
 http://src.doc.ic.ac.uk/public/Mirrors/ftp.cdrom.com/pub/planetquake/holywars/hw_frogbot.zip
@@ -430,9 +422,7 @@ http://src.doc.ic.ac.uk/public/computing/vendor/idgames2/planetquake/requiem/req
 http://src.doc.ic.ac.uk/public/computing/vendor/idgames2/planetquake/requiem/reqqw2a.zip
 http://src.doc.ic.ac.uk/public/computing/vendor/idgames2/planetquake/requiem/reqqwsrc.zip
 http://src.doc.ic.ac.uk/public/computing/vendor/idgames2/telefragged/epidemic/frogbot012a.zip
-http://src.doc.ic.ac.uk/public/computing/vendor/idgames2/telefragged/metro/frogbot007.zip
 http://src.doc.ic.ac.uk/public/packages/idgames2/telefragged/epidemic/frogbot012a.zip
-http://src.doc.ic.ac.uk/public/packages/idgames2/telefragged/metro/frogbot007.zip
 http://ssj4death.condemned.com/gb/gbped10.zip
 http://static.condemned.com/files/jeht11.zip
 http://static.condemned.com/files/jeht13.zip
@@ -445,7 +435,6 @@ http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/requiem/
 http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/requiem/reqqw2a.zip
 http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/requiem/reqqwsrc.zip
 http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/telefragged/epidemic/frogbot012a.zip
-http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/telefragged/metro/frogbot007.zip
 http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/telefragged/qnm/fbedit13.zip
 http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/telefragged/qnm/fbedit14.zip
 http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/telefragged/qnm/fbedit15.zip
@@ -459,7 +448,6 @@ http://sunsite.org.uk/packages/idgames2/planetquake/requiem/reqqw23.zip
 http://sunsite.org.uk/packages/idgames2/planetquake/requiem/reqqw2a.zip
 http://sunsite.org.uk/packages/idgames2/planetquake/requiem/reqqwsrc.zip
 http://sunsite.org.uk/packages/idgames2/telefragged/epidemic/frogbot012a.zip
-http://sunsite.org.uk/packages/idgames2/telefragged/metro/frogbot007.zip
 http://sunsite.org.uk/packages/idgames2/telefragged/qnm/fbedit13.zip
 http://sunsite.org.uk/packages/idgames2/telefragged/qnm/fbedit14.zip
 http://sunsite.org.uk/packages/idgames2/telefragged/qnm/fbedit15.zip

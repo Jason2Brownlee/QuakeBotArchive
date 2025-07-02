@@ -172,7 +172,6 @@ frog2000.zip
 frog_src.zip
 frogbot.rar
 frogbot001.zip
-frogbot007.zip
 frogbot011.zip
 frogbot012.sit
 frogbot012a.zip
@@ -505,7 +504,6 @@ fixedsrc.txt
 frog_src.txt
 frogbot000.txt
 frogbot005.txt
-frogbot007.txt
 frogbot011.txt
 frogbot011b.txt
 frogbot012a.txt
