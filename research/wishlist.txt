@@ -56,7 +56,6 @@ cujo12a.zip
 cujo12b.zip
 cujo12c.zip
 darkbt02.zip
-darkbt05.zip
 darkbt06.zip
 darkbt08.zip
 darkfrog.zip
@@ -74,7 +73,6 @@ dogfun19.zip
 doombot.zip
 dp_orionbot.zip
 drkbot02.zip
-drkbot05.zip
 drkbot06.zip
 drkbt012.zip
 drkbt013.zip
