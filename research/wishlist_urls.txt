@@ -2,7 +2,6 @@
 
 ftp://bluesnews.com/pub/client_bots/trmbot07.zip
 ftp://cdrom.planetquake.com:2121/holywars/hwqwbotv101c.zip
-ftp://flinux.tu-graz.ac.at/pub/idsoftware2/quakec/bots/darkbt4.zip
 ftp://ftp.3ddownloads.com/59686/telefragged/be/fmods/bm121r3.zip
 ftp://ftp.canvasnet.com/quake/qc/elim10.zip
 ftp://ftp.canvasnet.com/quake/qc/elim13.zip
@@ -18,7 +17,6 @@ ftp://ftp.cdrom.com/pub/idgames2/planetquake/mikebot/binary/mikebot-SunOS.tar.gz
 ftp://ftp.cdrom.com/pub/idgames2/planetquake/mikebot/binary/mikebot-linux.tar.gz
 ftp://ftp.cdrom.com/pub/idgames2/planetquake/seals/sqdbt201.zip
 ftp://ftp.cdrom.com/pub/idgames2/planetquake/tfbot/tfb-v07.zip
-ftp://ftp.cdrom.com/pub/idgames2/quakec/bots/darkbt4.zip
 ftp://ftp.cdrom.com/pub/idgames2/telefragged/epidemic/frogbot012a.zip
 ftp://ftp.cdrom.com/pub/planetquake/holywars/hw_frogbot.zip
 ftp://ftp.cdrom.com/pub/planetquake/holywars/hwqwbotv101c.zip
@@ -36,11 +34,9 @@ ftp://ftp.cdrom.com/pub/quake/quakec/misc/req106a.zip
 ftp://ftp.cityline.ru/pub/quake/bots/frog012.zip
 ftp://ftp.compulink.co.uk/mirrors/ftp.cdrom.com/pub/planetquake/holywars/hwqwbotv101c.zip
 ftp://ftp.compulink.co.uk/pub/games/id/quake/partial_conversions/xrated/sexbot11.zip
-ftp://ftp.compulink.co.uk/pub/games/id/quake/quakec/bots/darkbt4.zip
 ftp://ftp.cybersol.com.au/pub/mirrors/telefragged/inside3d/qip/q1/urqp105beta.zip
 ftp://ftp.datacomm.ch/pub/idgames2/partial_conversions/xrated/sexbot11.zip
 ftp://ftp.dragonfire.net/users/kkembel/QuakeC/bots/elim13.zip
-ftp://ftp.edu.sollentuna.se/pub/games/quake-stuff/quakec/bots/darkbt4.zip
 ftp://ftp.egoshooters.com/pub/qip/urqp102.zip
 ftp://ftp.epix.net/pub/idgames2/partial_conversions/xrated/sexbot11.zip
 ftp://ftp.epix.net/pub/idgames2/planetquake/holywars/hwqwbotv101c.zip
@@ -50,7 +46,6 @@ ftp://ftp.epix.net/pub/telefragged/be/fmods/demos/frogbot_demo.zip
 ftp://ftp.epix.net/pub/telefragged/be/fmods/fbarena050.zip
 ftp://ftp.epix.net/pub/telefragged/be/fmods/hwqwbot.zip
 ftp://ftp.epix.net/pub/telefragged/qnm/fbedit15.zip
-ftp://ftp.gamers.org/pub/games/idgames2/quakec/bots/darkbt4.zip
 ftp://ftp.gamezone.mweb.co.za/pub/mirrors/telefragged/inside3d/qip/q1/urqp105beta.zip
 ftp://ftp.gigabell.net/pub/Games/idgames/quake/partial_conversions/xrated/sexbot11.zip
 ftp://ftp.grayphics.com/pub/frigid/botblast/obots101.hqx
@@ -58,20 +53,13 @@ ftp://ftp.grayphics.com/pub/frigid/botblast/reaper08.sit.hqx
 ftp://ftp.hidden.org/pub/mirrors/telefragged/inside3d/qip/q1/urqp105beta.zip
 ftp://ftp.iis.com.br/pub/mirror/Quake/partial_conversions/xrated/sexbot11.zip
 ftp://ftp.iis.com.br/pub/mirror/Quake/planetquake/seals/sqdbt201.zip
-ftp://ftp.il.waw.pl/pub/quake/quakec/bots/darkbt4.zip
-ftp://ftp.intercity.dk/pub/mirrors/quake/quakec/bots/darkbt4.zip
-ftp://ftp.lib.siu.edu/pub/mirrors/idsoftware/quakec/bots/darkbt4.zip
 ftp://ftp.livewire.com.au/pub/idgames2/planetquake/seals/sqdbt201.zip
-ftp://ftp.livewire.com.au/pub/idgames2/quakec/bots/darkbt4.zip
 ftp://ftp.livewire.com.au/pub/planetquake/holywars/hwqwbotv101c.zip
 ftp://ftp.macquakeinfinity.com/numb/holywars/downloads/hw_frogbot.sit.bin
 ftp://ftp.macquakeinfinity.com/numb/holywars/downloads/hw_frogbot.zip
 ftp://ftp.mirror.nl/pub/mirror/idgames2/partial_conversions/xrated/sexbot11.zip
-ftp://ftp.pioneer.wnyric.org/pub/quake/quakec/bots/darkbt4.zip
 ftp://ftp.powerup.com.au/pub/games/quake/planetquake/seals/sqdbt201.zip
-ftp://ftp.powerup.com.au/pub/games/quake/quakec/bots/darkbt4.zip
 ftp://ftp.questnet.net.au/pub/planetquake/holywars/hwqwbotv101c.zip
-ftp://ftp.ram.net.au/pub/quake/idgames2/quakec/bots/darkbt4.zip
 ftp://ftp.saix.net/pub/telefragged/be/fmods/Accuracy.zip
 ftp://ftp.saix.net/pub/telefragged/be/fmods/demos/frogbot_demo.zip
 ftp://ftp.saix.net/pub/telefragged/be/fmods/fbarena050.zip
@@ -80,13 +68,11 @@ ftp://ftp.saix.net/pub/telefragged/qnm/fbedit15.zip
 ftp://ftp.sci.fi/pub/idgames2/partial_conversions/xrated/sexbot11.zip
 ftp://ftp.sci.fi/pub/idgames2/planetquake/seals/sqdbt201.zip
 ftp://ftp.softjoys.ru/entert/3d_games/newstuff/proj1_14.zip
-ftp://ftp.stomped.com/pub/idgames2/quakec/bots/darkbt4.zip
 ftp://ftp.stomped.com/pub/redwood/bots/oak0855.zip
 ftp://ftp.sunet.se/pub/pc/games/idgames2/incoming/dmbt20b3.zip
 ftp://ftp.sunet.se/pub/pc/games/idgames2/partial_conversions/xrated/sexbot11.zip
 ftp://ftp.sunet.se/pub/pc/games/idgames2/planetquake/qca/tfb-v07.zip
 ftp://ftp.sunet.se/pub/pc/games/idgames2/planetquake/seals/sqdbt201.zip
-ftp://ftp.sunet.se/pub/pc/games/idgames2/quakec/bots/darkbt4.zip
 ftp://ftp.task.gda.pl/pub/games/idgames2/partial_conversions/xrated/sexbot11.zip
 ftp://ftp.telefragged.com/be/fmods/Accuracy.zip
 ftp://ftp.telefragged.com/be/fmods/demos/frogbot_demo.zip
@@ -103,13 +89,11 @@ ftp://ftp.telepac.pt/pub/idgames2/planetquake/holywars/hwqwbotv101b.exe
 ftp://ftp.telepac.pt/pub/idgames2/planetquake/holywars/hwqwbotv101c.sit
 ftp://ftp.telepac.pt/pub/idgames2/planetquake/holywars/hwqwbotv101c.zip
 ftp://ftp.telepac.pt/pub/idgames2/planetquake/seals/sqdbt201.zip
-ftp://ftp.telepac.pt/pub/idgames2/quakec/bots/darkbt4.zip
 ftp://ftp.telepac.pt/pub/idgames2/telefragged/epidemic/frogbot012a.zip
 ftp://ftp.torget.se/pub/games/quake/multiplayer/req107b.zip
 ftp://ftp.torget.se/pub/games/quake/quakec/seismo14.zip
 ftp://ftp.torget.se/quake/multiplayer/req107b.zip
 ftp://ftp.torget.se/quake/quakec/oak0855.zip
-ftp://ftp.tu-clausthal.de/pub/msdos/games/quake-mirror/quakec/bots/darkbt4.zip
 ftp://ftp1.action.updates.cx/pub/mirrors/telefragged/be/fmods/Accuracy.zip
 ftp://ftp1.action.updates.cx/pub/mirrors/telefragged/be/fmods/demos/frogbot_demo.zip
 ftp://ftp1.action.updates.cx/pub/mirrors/telefragged/be/fmods/fbarena050.zip
@@ -161,7 +145,6 @@ ftp://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/idgames2/telefragged/epidem
 ftp://sunsite.doc.ic.ac.uk/packages/idgames2/partial_conversions/xrated/sexbot11.zip
 ftp://sunsite.doc.ic.ac.uk/packages/idgames2/planetquake/holywars/hwqwbotv101c.zip
 ftp://sunsite.doc.ic.ac.uk/packages/idgames2/planetquake/seals/sqdbt201.zip
-ftp://sunsite.doc.ic.ac.uk/packages/idgames2/quakec/bots/darkbt4.zip
 ftp://www.clan-rum.org/quake/bots/src_fbca099.zip
 http://203.32.12.18/project/placebot.zip
 http://204.50.28.112/qexpo/upload/61/waypack1.zip
@@ -622,7 +605,6 @@ http://www.cdrom.com/pub/idgames2/newstuff/doombot.txt
 http://www.cdrom.com/pub/idgames2/newstuff/doombot.zip
 http://www.cdrom.com/pub/idgames2/newstuff/urqp101.zip
 http://www.cdrom.com/pub/idgames2/newstuff/zeus202b.zip
-http://www.cdrom.com/pub/idgames2/quakec/bots/drkbot04.zip
 http://www.cdrom.com/pub/idgames2/quakec/compilations/proj1_12.txt
 http://www.cdrom.com/pub/idgames2/quakec/compilations/proj1_12.zip
 http://www.cdrom.com/pub/idgames2/quakec/compilations/urqp10.zip
@@ -651,7 +633,6 @@ http://www.fileplanet.com/dl/dl.asp?/planetquake/botarea51/bot/ud120.zip
 http://www.fileplanet.com/dl/dl.asp?/planetquake/botarea51/bot/ud140.zip
 http://www.fileplanet.com/dl/dl.asp?/planetquake/botarea51/bot/ultdet110.zip
 http://www.fortunecity.com/underworld/asteroids/418/files/voidm112.exe
-http://www.gameaholic.com/deicide/download.cgi?/quakec/bots/darkbt4.zip
 http://www.gameaholic.com/deicide/download.cgi?/quakec/misc/req107b.zip
 http://www.geocities.com/SiliconValley/Vista/1052/zbot9504.zip
 http://www.geocities.com/SiliconValley/Vista/1052/zbotdem.zip
