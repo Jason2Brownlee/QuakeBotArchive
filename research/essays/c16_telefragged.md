@@ -26,7 +26,7 @@ The `/archivednews/` archive.
 * [July 1997-June 1998](https://web.archive.org/web/19980626062450/http://www.telefragged.com/archivednews/)
 
 
-## history
+## History
 
 I suspect the pre-history telefragged site was hosted on Datawave [dwave.net](https://web.archive.org/web/19961221110836/http://dwave.net/) (archived) by Brian (quakegod@dwave.net or bam@dwave.net).
 

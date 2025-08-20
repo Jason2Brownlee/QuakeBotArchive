@@ -302,7 +302,6 @@ http://parboil.mailru.com/parboil/fbca089se.zip
 http://parboil.mailru.com/parboil/fbca095kt.zip
 http://parboil.mailru.com/parboil/fbca096kt.zip
 http://parboil.mailru.com/parboil/fbca097kt.zip
-http://parboil.mailru.com/parboil/fbca098kt.zip
 http://parboil.mailru.com/parboil/fbca100kt.zip
 http://parboil.mailru.com/parboil/fbca86se.zip
 http://parboil.mailru.com/parboil/src101final.zip
@@ -317,7 +316,6 @@ http://parboil.quakeworld.ru/parboil/fbca086.zip
 http://parboil.quakeworld.ru/parboil/fbca089se.zip
 http://parboil.quakeworld.ru/parboil/fbca095kt.zip
 http://parboil.quakeworld.ru/parboil/fbca097kt.zip
-http://parboil.quakeworld.ru/parboil/fbca098kt.zip
 http://parboil.quakeworld.ru/parboil/fbca100kt.zip
 http://parboil.quakeworld.ru/parboil/fbca86se.zip
 http://parboil.quakeworld.ru/parboil/src101final.zip
@@ -687,7 +685,6 @@ http://www.parboil.newmail.ru/parboil/fbca86se.zip
 http://www.parboil.quakeworld.ru/parboil/fbca086.zip
 http://www.parboil.quakeworld.ru/parboil/fbca089se.zip
 http://www.parboil.quakeworld.ru/parboil/fbca097kt.zip
-http://www.parboil.quakeworld.ru/parboil/fbca098kt.zip
 http://www.parboil.quakeworld.ru/parboil/fbca098test.zip
 http://www.parboil.quakeworld.ru/parboil/fbca099kt.zip
 http://www.parboil.quakeworld.ru/parboil/fbca100kt.zip
