@@ -507,7 +507,6 @@ frogfix1.txt
 iwbot15.txt
 iwbot16.txt
 iwbot20.txt
-iwbot2.txt
 killer80.txt
 killer85.txt
 killer86.txt
@@ -528,11 +527,7 @@ maniac54.txt
 maniac56.txt
 maniacbt12.txt
 proj1_01.txt
-proj1_02.txt
 proj1_04.txt
-proj1_06.txt
-proj1_07.txt
-proj1_08.txt
 proj1_09.txt
 proj1_10.txt
 proj1_11.txt
