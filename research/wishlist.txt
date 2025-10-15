@@ -168,7 +168,6 @@ frogbot001.zip
 frogbot011.zip
 frogbot012.sit
 frogbot012a.zip
-frogbot7.zip
 frogbot_mod.zip
 frogsvsp.zip
 fsk01.zip
