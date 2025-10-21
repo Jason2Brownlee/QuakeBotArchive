@@ -770,6 +770,7 @@ http://www.mpog.com/nawc/files/bugfix2.zip
 ftp://ftp.torget.se/pub/games/quake/multiplayer/req107b.zip
 ftp://ftp.torget.se/quake/multiplayer/req107b.zip
 http://www.gameaholic.com/deicide/download.cgi?/quakec/misc/req107b.zip
+ftp://reflector.plugway.com.br/pub/quake/req107b.zip
 # req106a.zip
 ftp://ftp.cdrom.com/pub/quake/quakec/misc/req106a.zip
 http://quakemaster.warzone.com/Req106a.zip
