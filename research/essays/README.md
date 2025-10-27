@@ -63,3 +63,4 @@ The purpose of these essays is to ensure the resource is searched as completely 
 * [Quake Stomping Grounds](c14_stomped.md)
 * [Planet Quake](c15_planetquake.md)
 * [Telefragged](c16_telefragged.md)
+* [Bot Epidemic](c17_bot_epidemic.md)
