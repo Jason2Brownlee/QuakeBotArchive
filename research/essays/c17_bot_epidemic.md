@@ -1,8 +1,18 @@
 # Bot Epidemic
 
-## telefragged.com/epidemic
+Good source for news on Quake2 bots, started January 1998.
 
-Archived:
+## quake2.com/epidemic
+
+* https://web.archive.org/web/19980119101540/http://www.quake2.com/epidemic/
+* https://web.archive.org/web/*/http://www.quake2.com/epidemic/*
+
+News:
+
+* [http://www.quake2.com/epidemic/](https://web.archive.org/web/19980119101540/http://www.quake2.com/epidemic/) (Jan 1998)
+
+
+## telefragged.com/epidemic
 
 * https://web.archive.org/web/19980626081804/http://www.telefragged.com/epidemic/
 * https://web.archive.org/web/*/http://www.telefragged.com/epidemic/*
