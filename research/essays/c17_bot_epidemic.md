@@ -40,3 +40,22 @@ News Archive:
 
 * [http://www.botepidemic.com/archive/](https://web.archive.org/web/19991005070235/http://www.botepidemic.com/archive/) (Jan 98-Aug 99)
 
+## botepidemic.no-origin.net
+
+Unofficial mirror.
+
+News:
+
+* [http://botepidemic.no-origin.net/](https://web.archive.org/web/20100108104405/http://botepidemic.no-origin.net/)
+
+## cyd.liu.se/~bjoli035/botepidemic
+
+Unofficial mirror.
+
+News:
+
+* [http://www.cyd.liu.se/~bjoli035/botepidemic/](https://web.archive.org/web/20031007001024/http://www.cyd.liu.se/~bjoli035/botepidemic/)
+
+Archive:
+
+* [http://www.cyd.liu.se/~bjoli035/botepidemic/bin/newspro/archive/index.htm](https://web.archive.org/web/20031007190525/http://www.cyd.liu.se/~bjoli035/botepidemic/bin/newspro/archive/index.htm)
