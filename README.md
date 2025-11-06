@@ -138,6 +138,7 @@ GYPObot | Stephen Dobbs | [gypobot.zip](bin/gypobot.zip)
 Hellsmash (Frikbot) | Khin Mannering aka "Dr. Shadowborg" | [qsr04apatch1.7z](bin/qsr04apatch1.7z)<br>[qsr04a.7z](bin/qsr04a.7z)<br>[qsrbeta3a.zip](bin/qsrbeta3a.zip)<br>[qsrbeta3a_src.zip](bin/qsrbeta3a_src.zip)<br>[qsrbeta3x.zip](bin/qsrbeta3x.zip)<br>[qsrbeta3.zip](bin/qsrbeta3.zip)<br>qsrbeta1b.zip<br>qsrbeta1.zip
 Holo Soldier FMOD (Frogbot) | Algirdas Kepezinskas aka "ZeCybEr" | holomod.zip
 Human Bot (Hbot) | Jeffrey Lee | [hbot.zip](bin/hbot.zip)
+Humanoid | "lemonjuiced" | [Humanoid.zip](bin/Humanoid.zip)<br>[0esyee.zip](bin/humanoid_0esyee.zip)<br>[xshyqx.zip](bin/humanoid_xshyqx.zip)<br>[x0se7b.zip](bin/humanoid_x0se7b.zip)<br>[tzs4mc.zip](bin/humanoid_tzs4mc.zip)<br>mywgkn.zip<br>ftbcoy.zip<br>pqijhs.dat<br>[krfhip.dat](bin/humanoid_krfhip.dat)<br>qwprogs.dat
 Indecisive Bot (Gyrobot) | Aaron Logue aka "Gyro Gearloose" | [gyrobot.zip](bin/gyrobot.zip) ([txt](bin/gyrobot.txt))<br>[gbotsrc.zip](bin/gbotsrc.zip)
 Insane (Cujo) | "RedChipolata" | [insane.zip](bin/insane.zip) ([txt](bin/insane.txt))
 Interference Bot | Chris Dozier aka "ArwingX" | interbotdm79z.zip<br>intarena.zip

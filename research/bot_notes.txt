@@ -3959,6 +3959,24 @@ JTeams / JawnMode
 		https://www.quakeworld.nu/profiles/10771
 	https://planetquake.gamespy.com/quake1/index6c18.html?start_from=56&category_id=2
 		http://www.besmella-quake.com/columns/Comments.asp?NewsId=394452894383170296990741
+Humanoid
+	by "lemonjuiced"
+	https://www.quakeworld.nu/wiki/Playing_with_bots
+	https://www.quakeworld.nu/forum/topic/7524/humanoid
+	download links (in order)
+		https://filebin.net/k1aqukwfxyxpynk0 (not archived)
+			https://web.archive.org/web/20200819081212/https://filebin.net/k1aqukwfxyxpynk0
+			qwprogs.dat
+		https://files.catbox.moe/krfhip.dat
+		https://files.catbox.moe/pqijhs.dat (not archived)
+		https://files.catbox.moe/ftbcoy.zip (not archived)
+		https://files.catbox.moe/mywgkn.zip (not archived)
+		https://files.catbox.moe/tzs4mc.zip
+		https://files.catbox.moe/x0se7b.zip
+		https://files.catbox.moe/xshyqx.zip
+		https://files.catbox.moe/0esyee.zip
+		https://drive.google.com/file/d/1VxKDyAf6AG3mPyQyg5vnfyzMlRv2A_Eb/view?usp=sharing
+			Humanoid.zip
 
 
 
