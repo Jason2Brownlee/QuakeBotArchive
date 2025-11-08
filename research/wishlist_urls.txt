@@ -23,6 +23,18 @@ http://tux.telefragged.com/file.pl?filename=stfm10.zip&dir=telefragged/be/fmods/
 http://www.3ddownloads.com/showfile.php3?filename=stfm10.zip
 http://www.3ddownloads.com/showfile.php3?filename=stfm10.zip&directory=/telefragged/be/fmods
 http://www.3ddownloads.com/showfile.php3?filename=stfm10.zip&directory=/telefragged/be/fmods/
+http://tux.telefragged.com/download.pl?dir=&filename=stfm10.zip&dir&dl=local
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.cybersol.com.au/pub/mirrors/stfm10.zip&dir&filename=stfm10.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/stfm10.zip&dir&filename=stfm10.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.hidden.org/pub/mirrors/stfm10.zip&dir&filename=stfm10.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.3ddownloads.com/pub/stfm10.zip&dir&filename=stfm10.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.hidden.org/pub/mirrors/stfm10.zip&dir&filename=stfm10.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation/stfm10.zip&dir&filename=stfm10.zip&dir&dl=mirror
+http://www.3ddownloads.com/downloadfile.php3?directory=/telefragged/be/fmods&filename=stfm10.zip
+http://www.3ddownloads.com/downloadftp.php3?url=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/telefragged/&directory=/telefragged/be/fmods&filename=stfm10.zip
+http://www.3ddownloads.com/downloadftp.php3?url=ftp://ftp2.3ddownloads.com/pub/&directory=/telefragged/be/fmods&filename=stfm10.zip
+http://www.3ddownloads.com/downloadftp.php3?url=ftp://ftp2.hidden.org/pub/mirrors/&directory=/telefragged/be/fmods&filename=stfm10.zip
+http://www.3ddownloads.com/downloadftp.php3?url=http://pelit.saunalahti.fi/telenation/&directory=/telefragged/be/fmods&filename=stfm10.zip
 
 # ClanBots
 http://www.users.bigpond.com/clanslug/ClanV0.5Auto.zip
@@ -80,6 +92,27 @@ http://www.3ddownloads.com/showfile.php3?filename=fbarena013.zip&directory=/tele
 http://www.3ddownloads.com/showfile.php3?filename=fbarena013.zip&directory=/telefragged/be/fmods
 http://www.3ddownloads.com/showfile.php3?filename=fbarena013.zip&directory=/telefragged/be/fmods/
 http://www.telefragged.com/mirrors/mirror.pl?be/fmods/fbarena050.zip
+http://tux.telefragged.com/download.pl?dir=&filename=fbarena013.zip&dir&dl=local
+http://tux.telefragged.com/download.pl?dir=&filename=fbarena013.zip&dl=local
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.cybersol.com.au/pub/mirrors/fbarena013.zip&dir&filename=fbarena013.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.cybersol.com.au/pub/mirrors/telefragged/be/fmodsfbarena013.zip&filename=fbarena013.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/fbarena013.zip&dir&filename=fbarena013.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/fbarena013.zip&filename=fbarena013.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/telefragged/be/fmodsfbarena013.zip&filename=fbarena013.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.hidden.org/pub/mirrors/fbarena013.zip&dir&filename=fbarena013.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.hidden.org/pub/mirrors/telefragged/be/fmodsfbarena013.zip&filename=fbarena013.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.3ddownloads.com/pub/telefragged/be/fmodsfbarena013.zip&filename=fbarena013.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.hidden.org/pub/mirrors/fbarena013.zip&dir&filename=fbarena013.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.hidden.org/pub/mirrors/telefragged/be/fmodsfbarena013.zip&filename=fbarena013.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation/fbarena013.zip&dir&filename=fbarena013.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation/fbarena013.zip&filename=fbarena013.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation/telefragged/be/fmodsfbarena013.zip&filename=fbarena013.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=telefragged/be/fmods&filename=fbarena013.zip&dl=local
+http://www.3ddownloads.com/downloadfile.php3?directory=/telefragged/be/fmods&filename=fbarena013.zip
+http://www.3ddownloads.com/downloadftp.php3?url=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/telefragged/&directory=/telefragged/be/fmods&filename=fbarena013.zip
+http://www.3ddownloads.com/downloadftp.php3?url=ftp://ftp2.3ddownloads.com/pub/&directory=/telefragged/be/fmods&filename=fbarena013.zip
+http://www.3ddownloads.com/downloadftp.php3?url=ftp://ftp2.hidden.org/pub/mirrors/&directory=/telefragged/be/fmods&filename=fbarena013.zip
+http://www.3ddownloads.com/downloadftp.php3?url=http://pelit.saunalahti.fi/telenation/&directory=/telefragged/be/fmods&filename=fbarena013.zip
 
 # Frogbot 2000
 ftp://quake.odessa.net/pub/bots/f2k001a.zip
@@ -90,6 +123,13 @@ http://tux.telefragged.com/file.pl?filename=f2k001a.zip&dir=telefragged/be/fmods
 http://www.p-n-p.newmail.ru/MyFiles/frog2000.zip
 http://www.3ddownloads.com/showfile.php3?filename=2000.zip
 http://c4denn.chat.ru/filezz/frog2k.rar
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.cybersol.com.au/pub/mirrors/telefragged/be/fmodsf2k001a.zip&filename=f2k001a.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/telefragged/be/fmodsf2k001a.zip&filename=f2k001a.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.hidden.org/pub/mirrors/telefragged/be/fmodsf2k001a.zip&filename=f2k001a.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.3ddownloads.com/pub/telefragged/be/fmodsf2k001a.zip&filename=f2k001a.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.hidden.org/pub/mirrors/telefragged/be/fmodsf2k001a.zip&filename=f2k001a.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation/telefragged/be/fmodsf2k001a.zip&filename=f2k001a.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=telefragged/be/fmods&filename=f2k001a.zip&dl=local
 
 # Frogbot BotMatch Arena
 ftp://ftp.3ddownloads.com/59686/telefragged/be/fmods/bm121r3.zip
@@ -137,6 +177,18 @@ http://tux.telefragged.com/file.pl?filename=mpak1v12.zip&dir=telefragged/be/fmod
 http://www.3ddownloads.com/showfile.php3?filename=mpak1v12.zip
 http://www.3ddownloads.com/showfile.php3?filename=mpak1v12.zip&directory=/telefragged/be/fmods
 http://www.3ddownloads.com/showfile.php3?filename=mpak1v12.zip&directory=/telefragged/be/fmods/
+http://tux.telefragged.com/download.pl?dir=&filename=mpak1v12.zip&dir&dl=local
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.cybersol.com.au/pub/mirrors/mpak1v12.zip&dir&filename=mpak1v12.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/mpak1v12.zip&dir&filename=mpak1v12.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.hidden.org/pub/mirrors/mpak1v12.zip&dir&filename=mpak1v12.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.3ddownloads.com/pub/mpak1v12.zip&dir&filename=mpak1v12.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.hidden.org/pub/mirrors/mpak1v12.zip&dir&filename=mpak1v12.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation/mpak1v12.zip&dir&filename=mpak1v12.zip&dir&dl=mirror
+http://www.3ddownloads.com/downloadfile.php3?directory=/telefragged/be/fmods&filename=mpak1v12.zip
+http://www.3ddownloads.com/downloadftp.php3?url=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/telefragged/&directory=/telefragged/be/fmods&filename=mpak1v12.zip
+http://www.3ddownloads.com/downloadftp.php3?url=ftp://ftp2.3ddownloads.com/pub/&directory=/telefragged/be/fmods&filename=mpak1v12.zip
+http://www.3ddownloads.com/downloadftp.php3?url=ftp://ftp2.hidden.org/pub/mirrors/&directory=/telefragged/be/fmods&filename=mpak1v12.zip
+http://www.3ddownloads.com/downloadftp.php3?url=http://pelit.saunalahti.fi/telenation/&directory=/telefragged/be/fmods&filename=mpak1v12.zip
 
 # GlacierBot
 http://ssj4death.condemned.com/gb/gbped10.zip
@@ -152,6 +204,18 @@ http://tux.telefragged.com/file.pl?filename=holomod.zip&dir=telefragged/be/fmods
 http://www.3ddownloads.com/showfile.php3?filename=holomod.zip
 http://www.3ddownloads.com/showfile.php3?filename=holomod.zip&directory=/telefragged/be/fmods
 http://www.3ddownloads.com/showfile.php3?filename=holomod.zip&directory=/telefragged/be/fmods/
+http://tux.telefragged.com/download.pl?dir=&filename=holomod.zip&dir&dl=local
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.cybersol.com.au/pub/mirrors/holomod.zip&dir&filename=holomod.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/holomod.zip&dir&filename=holomod.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.hidden.org/pub/mirrors/holomod.zip&dir&filename=holomod.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.3ddownloads.com/pub/holomod.zip&dir&filename=holomod.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.hidden.org/pub/mirrors/holomod.zip&dir&filename=holomod.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation/holomod.zip&dir&filename=holomod.zip&dir&dl=mirror
+http://www.3ddownloads.com/downloadfile.php3?directory=/telefragged/be/fmods&filename=holomod.zip
+http://www.3ddownloads.com/downloadftp.php3?url=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/telefragged/&directory=/telefragged/be/fmods&filename=holomod.zip
+http://www.3ddownloads.com/downloadftp.php3?url=ftp://ftp2.3ddownloads.com/pub/&directory=/telefragged/be/fmods&filename=holomod.zip
+http://www.3ddownloads.com/downloadftp.php3?url=ftp://ftp2.hidden.org/pub/mirrors/&directory=/telefragged/be/fmods&filename=holomod.zip
+http://www.3ddownloads.com/downloadftp.php3?url=http://pelit.saunalahti.fi/telenation/&directory=/telefragged/be/fmods&filename=holomod.zip
 
 # Interference Bot
 http://tux.telefragged.com/download.pl?dir=telefragged/be/&filename=intarena.zip&dl=local
@@ -191,8 +255,30 @@ http://tux.telefragged.com/file.pl?filename=maniacbt12.zip&dir=telefragged/be/fm
 http://tux.telefragged.com/file.pl?filename=maniacbt12.zip&dir=telefragged/be/fmods/
 http://www.3ddownloads.com/showfile.php3?filename=maniacbt12.zip
 http://www.3ddownloads.com/showfile.php3?filename=maniacbt12.zip&directory=/telefragged/be/fmods/
+http://tux.telefragged.com/download.pl?dir=&filename=maniacbt12.zip&dir&dl=local
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.cybersol.com.au/pub/mirrors/maniacbt12.zip&dir&filename=maniacbt12.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/maniacbt12.zip&dir&filename=maniacbt12.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.hidden.org/pub/mirrors/maniacbt12.zip&dir&filename=maniacbt12.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.3ddownloads.com/pub/maniacbt12.zip&dir&filename=maniacbt12.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.hidden.org/pub/mirrors/maniacbt12.zip&dir&filename=maniacbt12.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation/maniacbt12.zip&dir&filename=maniacbt12.zip&dir&dl=mirror
 
 # fbca
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.cybersol.com.au/pub/mirrors/telefragged/befbca084.zip&filename=fbca084.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/telefragged/befbca084.zip&filename=fbca084.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.hidden.org/pub/mirrors/telefragged/befbca084.zip&filename=fbca084.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.3ddownloads.com/pub/telefragged/befbca084.zip&filename=fbca084.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.hidden.org/pub/mirrors/telefragged/befbca084.zip&filename=fbca084.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation/telefragged/befbca084.zip&filename=fbca084.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=telefragged/be&filename=fbca084.zip&dl=local
+http://tux.telefragged.com/file.pl?filename=fbca084.zip&dir=telefragged/be/fmods/
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.cybersol.com.au/pub/mirrors/telefragged/befbcasounds.zip&filename=fbcasounds.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/telefragged/befbcasounds.zip&filename=fbcasounds.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.hidden.org/pub/mirrors/telefragged/befbcasounds.zip&filename=fbcasounds.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.3ddownloads.com/pub/telefragged/befbcasounds.zip&filename=fbcasounds.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.hidden.org/pub/mirrors/telefragged/befbcasounds.zip&filename=fbcasounds.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation/telefragged/befbcasounds.zip&filename=fbcasounds.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=telefragged/be&filename=fbcasounds.zip&dl=local
 ftp://www.clan-rum.org/quake/bots/src_fbca099.zip
 http://dmsoul.newmail.ru/fbca_se.ZIP
 http://dmsoul.newmail.ru/notlpb_fbca.ZIP
@@ -292,6 +378,14 @@ ftp://numb.macquakeinfinity.com/numb/ctf/fbctf037.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/fbctf040.zip
 ftp://numb.macquakeinfinity.com/numb/ctf/pak2pak.zip
 ftp://numb.macquakeinifinity.com/numb/ctf/fbctf037.zip
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.cybersol.com.au/pub/mirrors/telefragged/be/fmodspak2pak.zip&filename=pak2pak.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/telefragged/be/fmodspak2pak.zip&filename=pak2pak.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.hidden.org/pub/mirrors/telefragged/be/fmodspak2pak.zip&filename=pak2pak.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.3ddownloads.com/pub/telefragged/be/fmodspak2pak.zip&filename=pak2pak.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.hidden.org/pub/mirrors/telefragged/be/fmodspak2pak.zip&filename=pak2pak.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation/telefragged/be/fmodspak2pak.zip&filename=pak2pak.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=telefragged/be/fmods&filename=pak2pak.zip&dl=local
+http://tux.telefragged.com/file.pl?filename=pak2pak.zip&dir=telefragged/be/fmods/
 http://railgun.macquakeinfinity.com/downloads/fbctf024.zip
 http://railgun.macquakeinfinity.com/downloads/fbctf026.zip
 http://railgun.macquakeinfinity.com/downloads/fbctf030.zip
@@ -304,6 +398,47 @@ http://tux.telefragged.com/file.pl?filename=fbctf034.zip
 http://tux.telefragged.com/file.pl?filename=fbctf034.zip&dir=telefragged/be/fmods
 http://tux.telefragged.com/file.pl?filename=fbctf034.zip&dir=telefragged/be/fmods/
 http://www.botepidemic.com/fmods/fbctf052.zip
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.cybersol.com.au/pub/mirrors/telefragged/be/fmodsfbctf004.zip&filename=fbctf004.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/telefragged/be/fmodsfbctf004.zip&filename=fbctf004.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.hidden.org/pub/mirrors/telefragged/be/fmodsfbctf004.zip&filename=fbctf004.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.3ddownloads.com/pub/telefragged/be/fmodsfbctf004.zip&filename=fbctf004.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.hidden.org/pub/mirrors/telefragged/be/fmodsfbctf004.zip&filename=fbctf004.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation/telefragged/be/fmodsfbctf004.zip&filename=fbctf004.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=telefragged/be/fmods&filename=fbctf004.zip&dl=local
+http://tux.telefragged.com/file.pl?filename=fbctf004.zip&dir=telefragged/be/fmods/
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.cybersol.com.au/pub/mirrors/telefragged/be/fmodsfbctf005.zip&filename=fbctf005.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/telefragged/be/fmodsfbctf005.zip&filename=fbctf005.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.hidden.org/pub/mirrors/telefragged/be/fmodsfbctf005.zip&filename=fbctf005.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.3ddownloads.com/pub/telefragged/be/fmodsfbctf005.zip&filename=fbctf005.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.hidden.org/pub/mirrors/telefragged/be/fmodsfbctf005.zip&filename=fbctf005.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation/telefragged/be/fmodsfbctf005.zip&filename=fbctf005.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=telefragged/be/fmods&filename=fbctf005.zip&dl=local
+http://tux.telefragged.com/file.pl?filename=fbctf005.zip&dir=telefragged/be/fmods/
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.cybersol.com.au/pub/mirrors/telefragged/be/fmodsfbctf009.zip&filename=fbctf009.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/telefragged/be/fmodsfbctf009.zip&filename=fbctf009.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.hidden.org/pub/mirrors/telefragged/be/fmodsfbctf009.zip&filename=fbctf009.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.3ddownloads.com/pub/telefragged/be/fmodsfbctf009.zip&filename=fbctf009.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.hidden.org/pub/mirrors/telefragged/be/fmodsfbctf009.zip&filename=fbctf009.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation/telefragged/be/fmodsfbctf009.zip&filename=fbctf009.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=telefragged/be/fmods&filename=fbctf009.zip&dl=local
+http://tux.telefragged.com/file.pl?filename=fbctf009.zip&dir=telefragged/be/fmods/
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.cybersol.com.au/pub/mirrors/telefragged/be/fmodsfbctf011.zip&filename=fbctf011.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/telefragged/be/fmodsfbctf011.zip&filename=fbctf011.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.hidden.org/pub/mirrors/telefragged/be/fmodsfbctf011.zip&filename=fbctf011.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.3ddownloads.com/pub/telefragged/be/fmodsfbctf011.zip&filename=fbctf011.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.hidden.org/pub/mirrors/telefragged/be/fmodsfbctf011.zip&filename=fbctf011.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation/telefragged/be/fmodsfbctf011.zip&filename=fbctf011.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=telefragged/be/fmods&filename=fbctf011.zip&dl=local
+http://tux.telefragged.com/file.pl?filename=fbctf011.zip&dir=telefragged/be/fmods/
+http://tux.telefragged.com/file.pl?filename=fbctf013.zip&dir=telefragged/be/fmods/
+http://www.botepidemic.com/fmods/http%7C/tux.telefragged.com/file.pl?filename=fbctf014.zip&dir=telefragged/be/fmods/
+http://tux.telefragged.com/download.pl?dir=&filename=fbctf034.zip&dir&dl=local
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.cybersol.com.au/pub/mirrors/fbctf034.zip&dir&filename=fbctf034.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/fbctf034.zip&dir&filename=fbctf034.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.hidden.org/pub/mirrors/fbctf034.zip&dir&filename=fbctf034.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.3ddownloads.com/pub/fbctf034.zip&dir&filename=fbctf034.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.hidden.org/pub/mirrors/fbctf034.zip&dir&filename=fbctf034.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation/fbctf034.zip&dir&filename=fbctf034.zip&dir&dl=mirror
 
 # JawnMode
 http://members.optushome.com.au/ta403/quake/fbcakt2.zip
@@ -403,12 +538,30 @@ http://www.fileplanet.com/dl/dl.asp?/planetquake/botarea51/bot/ultdet110.zip
 http://www.planetquake.com/botarea51/main/download.asp?name=ud120.zip&referrer=main/qbot.asp?id=21
 http://www.quaketerminus.freeola.com/mods/UD120.zip
 http://www.quaketerminus.freeola.com/mods/UD130.zip
+http://www.planetquake.com/botarea51/main/main/download.asp?name=ud120.zip&referrer=main/qbot.asp?id=21
+http://www.planetquake.com/botarea51/main/main/download.asp?name=ud140.zip&referrer=main/qbot.asp?id=21
+http://www.planetquake.com/botarea51/main/main/download.asp?name=UD150.zip&referrer=main/qbot.asp?id=21
+http://www.planetquake.com/botarea51/main/main/download.asp?name=ultdet110.zip&referrer=main/qbot.asp?id=21
 
 # Ultimate Devastation
 http://tux.telefragged.com/file.pl?filename=udm12-15b.zip&dir=telefragged/be/udm
 http://tux.telefragged.com/file.pl?filename=udm12-15b.zip&dir=telefragged/be/udm/
 http://tux.telefragged.com/file.pl?filename=udm15-15b.zip&dir=telefragged/be/udm
 http://tux.telefragged.com/file.pl?filename=udm15-15b.zip&dir=telefragged/be/udm/
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.cybersol.com.au/pub/mirrors/telefragged/be/udmudm12-15b.zip&filename=udm12-15b.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/telefragged/be/udmudm12-15b.zip&filename=udm12-15b.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.hidden.org/pub/mirrors/telefragged/be/udmudm12-15b.zip&filename=udm12-15b.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.3ddownloads.com/pub/telefragged/be/udmudm12-15b.zip&filename=udm12-15b.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.hidden.org/pub/mirrors/telefragged/be/udmudm12-15b.zip&filename=udm12-15b.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation/telefragged/be/udmudm12-15b.zip&filename=udm12-15b.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=telefragged/be/udm&filename=udm12-15b.zip&dl=local
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.cybersol.com.au/pub/mirrors/telefragged/be/udmudm15-15b.zip&filename=udm15-15b.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/telefragged/be/udmudm15-15b.zip&filename=udm15-15b.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.hidden.org/pub/mirrors/telefragged/be/udmudm15-15b.zip&filename=udm15-15b.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.3ddownloads.com/pub/telefragged/be/udmudm15-15b.zip&filename=udm15-15b.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.hidden.org/pub/mirrors/telefragged/be/udmudm15-15b.zip&filename=udm15-15b.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation/telefragged/be/udmudm15-15b.zip&filename=udm15-15b.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=telefragged/be/udm&filename=udm15-15b.zip&dl=local
 
 # URQP
 ftp://ftp.cdrom.com/pub/quake/quakec/compilations/urqp10.zip
@@ -433,6 +586,13 @@ http://www.cdrom.com/pub/quake/quakec/compilations/urqp102.zip
 http://www.inside3d.com/qip/text/urqp104.txt
 http://www.quake-info-pool.net/text/urqp104.txt
 http://www.egoshooters.com/qip/files/urqp102.zip
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.cybersol.com.au/pub/mirrors/telefragged/inside3d/qip/q1/urqp105beta.zip&filename=urqp105beta.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/telefragged/inside3d/qip/q1/urqp105beta.zip&filename=urqp105beta.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.hidden.org/pub/mirrors/telefragged/inside3d/qip/q1/urqp105beta.zip&filename=urqp105beta.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.3ddownloads.com/pub/telefragged/inside3d/qip/q1/urqp105beta.zip&filename=urqp105beta.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.hidden.org/pub/mirrors/telefragged/inside3d/qip/q1/urqp105beta.zip&filename=urqp105beta.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation/telefragged/inside3d/qip/q1/urqp105beta.zip&filename=urqp105beta.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=telefragged/inside3d/qip/q1/&filename=urqp105beta.zip&dl=local
 
 # Vari-Patch
 http://www.btinternet.com/~chris.r.millward/chris/var25.zip
@@ -463,12 +623,44 @@ http://www.3ddownloads.com/showfile.php3?filename=vicinity/vicinityqwprogs.zip&d
 http://www.3ddownloads.com/showfile.php3?filename=vicinity/vicinityqwprogs.zip&directory=/telefragged/be/fmods/
 http://www.3ddownloads.com/showfile.php3?filename=vicinity/vicinitysource.zip&directory=/telefragged/be/fmods
 http://www.3ddownloads.com/showfile.php3?filename=vicinity/vicinitysource.zip&directory=/telefragged/be/fmods/
+http://tux.telefragged.com/download.pl?dir=&filename=qwprogs.zip&dir&dl=local
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.cybersol.com.au/pub/mirrors/qwprogs.zip&dir&filename=qwprogs.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/qwprogs.zip&dir&filename=qwprogs.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.hidden.org/pub/mirrors/qwprogs.zip&dir&filename=qwprogs.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.hidden.org/pub/mirror/qwprogs.zip&dir&filename=qwprogs.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation/qwprogs.zip&dir&filename=qwprogs.zip&dir&dl=mirror
+http://tux.telefragged.com/file.pl?filename=qwprogs.zip&dir=telefragged/be/fmods/hylke/012/
+http://tux.telefragged.com/file.pl?filename=qwprogs.zip&dir=telefragged/be/fmods/hylke/013/
+http://www.3ddownloads.com/showfile.php3?filename=qwprogs.zip&directory=/telefragged/be/fmods/hylke/012/
+http://www.3ddownloads.com/showfile.php3?filename=qwprogs.zip&directory=/telefragged/be/fmods/hylke/013/
+http://yurik.on.ufanet.ru/qwprogs.zip%3Cbr/%3E%3Cbr/%3E
+http://tux.telefragged.com/download.pl?dir=&filename=vicinity/vicinitymodels.zip&dir&dl=local
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.cybersol.com.au/pub/mirrors/vicinity/vicinitymodels.zip&dir&filename=vicinity/vicinitymodels.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/vicinity/vicinitymodels.zip&dir&filename=vicinity/vicinitymodels.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.hidden.org/pub/mirrors/vicinity/vicinitymodels.zip&dir&filename=vicinity/vicinitymodels.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.3ddownloads.com/pub/vicinity/vicinitymodels.zip&dir&filename=vicinity/vicinitymodels.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.hidden.org/pub/mirrors/vicinity/vicinitymodels.zip&dir&filename=vicinity/vicinitymodels.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation/vicinity/vicinitymodels.zip&dir&filename=vicinity/vicinitymodels.zip&dir&dl=mirror
 
 # voidm
 http://mdqnet.net/cgi-bin/download.cgi?file=voidm120.zip&dir=dept187/void/
 http://tux.telefragged.com/file.pl?filename=voidm120.zip&dir=telefragged/mdqnet/dept187/void
 http://tux.telefragged.com/file.pl?filename=voidm120.zip&dir=telefragged/mdqnet/dept187/void/
 http://www.fortunecity.com/underworld/asteroids/418/files/voidm112.exe
+http://tux.telefragged.com/download.pl?dir=&filename=voidm120.zip&dir&dl=local
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.cybersol.com.au/pub/mirrors/telefragged/mdqnet/dept187/voidvoidm120.zip&filename=voidm120.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.cybersol.com.au/pub/mirrors/voidm120.zip&dir&filename=voidm120.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/telefragged/mdqnet/dept187/voidvoidm120.zip&filename=voidm120.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/voidm120.zip&dir&filename=voidm120.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.hidden.org/pub/mirrors/telefragged/mdqnet/dept187/voidvoidm120.zip&filename=voidm120.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.hidden.org/pub/mirrors/voidm120.zip&dir&filename=voidm120.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.3ddownloads.com/pub/telefragged/mdqnet/dept187/voidvoidm120.zip&filename=voidm120.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.hidden.org/pub/mirrors/telefragged/mdqnet/dept187/voidvoidm120.zip&filename=voidm120.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.hidden.org/pub/mirrors/voidm120.zip&dir&filename=voidm120.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation/telefragged/mdqnet/dept187/voidvoidm120.zip&filename=voidm120.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation/voidm120.zip&dir&filename=voidm120.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=telefragged/mdqnet/dept187/void&filename=voidm120.zip&dl=local
+http://www.mdqnet.net/cgi-bin/download.cgi?file=voidm120.zip&dir=dept187/void/
 
 # WLBOT1.9.zip
 http://members.xoom.com/eluan/WLBOT1.9.zip
@@ -587,6 +779,7 @@ http://www.mindspring.com/~jamesloe/loefbot4.zip
 
 # kl33n3x-cfg.zip
 http://members.tripod.com/tf_cheats/kl33n3x-cfg.zip
+http://members.tripod.com/tf_cheats/kl33n3x-cfg.zip?1
 
 # boognaut.zip
 http://www.mindspring.com/~jamesloe/boognaut.zip
@@ -607,6 +800,9 @@ http://www.nevapress.spb.ru/games/oak082.zip
 
 # friktf-051901.zip
 http://groups.yahoo.com/group/friktf/files/friktf-051901.zip
+http://us.rd.yahoo.com/reg/login1/no_test/suli/forgot/us/ygrp/%2Ahttp%3A//edit.yahoo.com/config/eval_forgot_pw?new=1&.done=http://groups.yahoo.com/group/friktf/files/friktf-051901.zip&.src=ygrp&partner=&.partner=&.intl=us&pkg=&stepid=&.last=
+http://us.rd.yahoo.com/reg/login1/no_test/suli/signup/us/ygrp/%2Ahttp%3A//edit.yahoo.com/config/eval_register?.intl=us&new=1&.done=http%3A//groups.yahoo.com/group/friktf/files/friktf-051901.zip&.src=ygrp&.v=0&.u=der0vdd135ldr&partner=&.p=&promo=&.last=&.testid=
+http://us.rd.yahoo.com/reg/login1/no_test/suli/signup/us/ygrp/%2Ahttp%3A//edit.yahoo.com/config/eval_register?.intl=us&new=1&.done=http%3A//groups.yahoo.com/group/friktf/files/friktf-051901.zip&.src=ygrp&.v=0&.u=fmu8ffd135ldv&partner=&.p=&promo=&.last=&.testid=
 # friktf-092800-qw.zip
 http://groups.yahoo.com/group/friktf/files/friktf-092800-qw.zip
 # friktf-092800.tar.gz
@@ -648,6 +844,26 @@ http://tux.telefragged.com/file.pl?filename=frog_src.zip&dir=telefragged/be/fmod
 http://tux.telefragged.com/file.pl?filename=frog_src.zip&dir=telefragged/be/fmods/qc/
 http://www.3ddownloads.com/showfile.php3?filename=frog_src.zip&directory=/telefragged/be/fmods/qc
 http://www.3ddownloads.com/showfile.php3?filename=frog_src.zip&directory=/telefragged/be/fmods/qc/
+http://tux.telefragged.com/download.pl?dir=&filename=frog_src.zip&dir&dl=local
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.cybersol.com.au/pub/mirrors/frog_src.zip&dir&filename=frog_src.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.cybersol.com.au/pub/mirrors/telefragged/be/fmods/qcfrog_src.zip&filename=frog_src.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/frog_src.zip&dir&filename=frog_src.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/telefragged/be/fmods/qcfrog_src.zip&filename=frog_src.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.hidden.org/pub/mirrors/frog_src.zip&dir&filename=frog_src.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.hidden.org/pub/mirrors/telefragged/be/fmods/qcfrog_src.zip&filename=frog_src.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.3ddownloads.com/pub/frog_src.zip&dir&filename=frog_src.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.3ddownloads.com/pub/telefragged/be/fmods/qcfrog_src.zip&filename=frog_src.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.hidden.org/pub/mirror/frog_src.zip&dir&filename=frog_src.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.hidden.org/pub/mirrors/frog_src.zip&dir&filename=frog_src.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.hidden.org/pub/mirrors/telefragged/be/fmods/qcfrog_src.zip&filename=frog_src.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation/frog_src.zip&dir&filename=frog_src.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation/telefragged/be/fmods/qcfrog_src.zip&filename=frog_src.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=telefragged/be/fmods/qc&filename=frog_src.zip&dl=local
+http://www.3ddownloads.com/downloadfile.php3?directory=/telefragged/be/fmods/qc&filename=frog_src.zip
+http://www.3ddownloads.com/downloadftp.php3?url=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/telefragged/&directory=/telefragged/be/fmods/qc&filename=frog_src.zip
+http://www.3ddownloads.com/downloadftp.php3?url=ftp://ftp2.3ddownloads.com/pub/&directory=/telefragged/be/fmods/qc&filename=frog_src.zip
+http://www.3ddownloads.com/downloadftp.php3?url=ftp://ftp2.hidden.org/pub/mirrors/&directory=/telefragged/be/fmods/qc&filename=frog_src.zip
+http://www.3ddownloads.com/downloadftp.php3?url=http://pelit.saunalahti.fi/telenation/&directory=/telefragged/be/fmods/qc&filename=frog_src.zip
 
 # Dark Frogbot
 http://tux.telefragged.com/file.pl?filename=darkfrog.zip&dir=telefragged/be/fmods
@@ -657,6 +873,26 @@ http://www.3ddownloads.com/showfile.php3?filename=darkfrog.zip
 http://www.3ddownloads.com/showfile.php3?filename=darkfrog.zip&directory=/telefragged/be/downloadfile.php3?directory=/telefragged/be/fmods&filename=darkfrog.zip
 http://www.3ddownloads.com/showfile.php3?filename=darkfrog.zip&directory=/telefragged/be/fmods
 http://www.3ddownloads.com/showfile.php3?filename=darkfrog.zip&directory=/telefragged/be/fmods/
+http://tux.telefragged.com/download.pl?dir=&filename=darkfrog.zip&dl=local
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.cybersol.com.au/pub/mirrors/telefragged/be/fmodsdarkfrog.zip&filename=darkfrog.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/darkfrog.zip&filename=darkfrog.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/telefragged/be/fmodsdarkfrog.zip&filename=darkfrog.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.hidden.org/pub/mirrors/telefragged/be/fmodsdarkfrog.zip&filename=darkfrog.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.3ddownloads.com/pub/telefragged/be/fmodsdarkfrog.zip&filename=darkfrog.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.hidden.org/pub/mirrors/telefragged/be/fmodsdarkfrog.zip&filename=darkfrog.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation/darkfrog.zip&filename=darkfrog.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation/telefragged/be/fmodsdarkfrog.zip&filename=darkfrog.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=telefragged/be/fmods&filename=darkfrog.zip&dl=local
+http://www.3ddownloads.com/downloadfile.php3?directory=/telefragged/be/downloadfilephp3?directory=/telefragged/be/fmods&filename=darkfrog.zip
+http://www.3ddownloads.com/downloadfile.php3?directory=/telefragged/be/fmods&filename=darkfrog.zip
+http://www.3ddownloads.com/downloadftp.php3?url=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/telefragged/&directory=/telefragged/be/downloadfilephp3?directory=/telefragged/be/fmods&filename=darkfrog.zip
+http://www.3ddownloads.com/downloadftp.php3?url=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/telefragged/&directory=/telefragged/be/fmods&filename=darkfrog.zip
+http://www.3ddownloads.com/downloadftp.php3?url=ftp://ftp2.3ddownloads.com/pub/&directory=/telefragged/be/downloadfilephp3?directory=/telefragged/be/fmods&filename=darkfrog.zip&file_id=
+http://www.3ddownloads.com/downloadftp.php3?url=ftp://ftp2.3ddownloads.com/pub/&directory=/telefragged/be/fmods&filename=darkfrog.zip
+http://www.3ddownloads.com/downloadftp.php3?url=ftp://ftp2.hidden.org/pub/mirrors/&directory=/telefragged/be/downloadfilephp3?directory=/telefragged/be/fmods&filename=darkfrog.zip
+http://www.3ddownloads.com/downloadftp.php3?url=ftp://ftp2.hidden.org/pub/mirrors/&directory=/telefragged/be/fmods&filename=darkfrog.zip
+http://www.3ddownloads.com/downloadftp.php3?url=http://pelit.saunalahti.fi/telenation/&directory=/telefragged/be/downloadfilephp3?directory=/telefragged/be/fmods&filename=darkfrog.zip
+http://www.3ddownloads.com/downloadftp.php3?url=http://pelit.saunalahti.fi/telenation/&directory=/telefragged/be/fmods&filename=darkfrog.zip
 # DarkBot
 ftp://ftp.cdrom.com/pub/quake/quakec/bots/darkbt08.zip
 
@@ -824,6 +1060,14 @@ http://src.doc.ic.ac.uk/public/packages/idgames2/planetquake/holywars/hw_frogbot
 http://sunsite.doc.ic.ac.uk/Mirrors/ftp.cdrom.com/pub/quake/planetquake/holywars/hw_frogbot.zip
 http://sunsite.org.uk/packages/idgames2/planetquake/holywars/hw_frogbot.zip
 http://tux.telefragged.com/file.pl?filename=hw_frogbot.zip&dir=telefragged/be/fmods
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.cybersol.com.au/pub/mirrors/telefragged/be/fmodshw_frogbot.zip&filename=hw_frogbot.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/telefragged/be/fmodshw_frogbot.zip&filename=hw_frogbot.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.hidden.org/pub/mirrors/telefragged/be/fmodshw_frogbot.zip&filename=hw_frogbot.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.3ddownloads.com/pub/telefragged/be/fmodshw_frogbot.zip&filename=hw_frogbot.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.hidden.org/pub/mirrors/telefragged/be/fmodshw_frogbot.zip&filename=hw_frogbot.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation/telefragged/be/fmodshw_frogbot.zip&filename=hw_frogbot.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=telefragged/be/fmods&filename=hw_frogbot.zip&dl=local
+http://tux.telefragged.com/file.pl?filename=hw_frogbot.zip&dir=telefragged/be/fmods/
 # hwqwbot.exe
 ftp://ftp.cdrom.com/pub/idgames2/planetquake/hwqwbot.exe
 ftp://ftp.telepac.pt/pub/idgames2/planetquake/holywars/hwqwbot.exe
@@ -899,6 +1143,11 @@ http://tux.telefragged.com/file.pl?filename=hw_frogbot14.zip
 http://tux.telefragged.com/file.pl?filename=hw_frogbot14.zip&dir=telefragged/be/fmods/
 http://www.3ddownloads.com/showfile.php3?filename=hw_frogbot14.zip&directory=/telefragged/be/fmods
 http://www.3ddownloads.com/showfile.php3?filename=hw_frogbot14.zip&directory=/telefragged/be/fmods/
+http://www.3ddownloads.com/downloadfile.php3?directory=/telefragged/be/fmods&filename=hw_frogbot14.zip
+http://www.3ddownloads.com/downloadftp.php3?url=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/telefragged/&directory=/telefragged/be/fmods&filename=hw_frogbot14.zip
+http://www.3ddownloads.com/downloadftp.php3?url=ftp://ftp2.3ddownloads.com/pub/&directory=/telefragged/be/fmods&filename=hw_frogbot14.zip
+http://www.3ddownloads.com/downloadftp.php3?url=ftp://ftp2.hidden.org/pub/mirrors/&directory=/telefragged/be/fmods&filename=hw_frogbot14.zip
+http://www.3ddownloads.com/downloadftp.php3?url=http://pelit.saunalahti.fi/telenation/&directory=/telefragged/be/fmods&filename=hw_frogbot14.zip
 # hw_frogbotf.zip
 ftp://numb.macquakeinfinity.com/numb/holywars/hw_frogbotf.zip
 # hw_frogbot14f.zip
@@ -922,6 +1171,17 @@ http://quake.tronet.troitsk.ru/download/holyfbotmod07.zip
 http://members.multimania.nl/nqeu/files/bots/holyfbotmod11.exe
 http://tux.telefragged.com/file.pl?filename=holyfbotmod11.exe
 http://www.3ddownloads.com/showfile.php3?filename=holyfbotmod11.exe
+http://tux.telefragged.com/download.pl?dir=&filename=holyfbotmod11.exe&dl=local
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.cybersol.com.au/pub/mirrors/holyfbotmod11.exe&filename=holyfbotmod11.exe&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/holyfbotmod11.exe&filename=holyfbotmod11.exe&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.hidden.org/pub/mirrors/holyfbotmod11.exe&filename=holyfbotmod11.exe&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.3ddownloads.com/pub/holyfbotmod11.exe&filename=holyfbotmod11.exe&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.hidden.org/pub/mirrors/holyfbotmod11.exe&filename=holyfbotmod11.exe&dl=mirror
+http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation/holyfbotmod11.exe&filename=holyfbotmod11.exe&dl=mirror
+http://www.3ddownloads.com/downloadfile.php3?directory=/opt/ftp/pub/&filename=holyfbotmod11.exe
+http://www.3ddownloads.com/downloadftp.php3?url=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/telefragged/&directory=/opt/ftp/pub/&filename=holyfbotmod11.exe
+http://www.3ddownloads.com/downloadftp.php3?url=ftp://ftp2.3ddownloads.com/pub/&directory=/opt/ftp/pub/&filename=holyfbotmod11.exe
+http://www.3ddownloads.com/downloadftp.php3?url=http://pelit.saunalahti.fi/telenation/&directory=/opt/ftp/pub/&filename=holyfbotmod11.exe
 # other holywars bots
 http://macquakeinfinity.com/downloads/mac_hwbot003b7final.sit.bin
 http://members.xoom.com/Neophyte98/files/HolyFbot_Mod11.EXE
@@ -1037,3 +1297,65 @@ http://www.quake.kiev.ua/spirit/demos/q1/spvsfrog.zip
 http://medlem.spray.se/ratface1/qw/qwprogs.zip
 http://medlem.spray.se/~ratface1/qw/qwprogs5.zip
 http://www.widomaker.com/~avatar/qwprogs.zip
+http://tux.telefragged.com/download.pl?dir=&filename=fbph.zip&dir&dl=local
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.cybersol.com.au/pub/mirrors/fbph.zip&dir&filename=fbph.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.cybersol.com.au/pub/mirrors/telefragged/be/fmods/otherfbph.zip&filename=fbph.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/fbph.zip&dir&filename=fbph.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/telefragged/be/fmods/otherfbph.zip&filename=fbph.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.hidden.org/pub/mirrors/fbph.zip&dir&filename=fbph.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.hidden.org/pub/mirrors/telefragged/be/fmods/otherfbph.zip&filename=fbph.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.3ddownloads.com/pub/telefragged/be/fmods/otherfbph.zip&filename=fbph.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.hidden.org/pub/mirror/fbph.zip&dir&filename=fbph.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.hidden.org/pub/mirrors/telefragged/be/fmods/otherfbph.zip&filename=fbph.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation/fbph.zip&dir&filename=fbph.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation/telefragged/be/fmods/otherfbph.zip&filename=fbph.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=telefragged/be/fmods/other&filename=fbph.zip&dl=local
+http://www.3ddownloads.com/downloadfile.php3?directory=/telefragged/be/fmods/other&filename=fbph.zip
+http://www.3ddownloads.com/downloadftp.php3?url=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/telefragged/&directory=/telefragged/be/fmods/other&filename=fbph.zip
+http://www.3ddownloads.com/downloadftp.php3?url=ftp://ftp2.3ddownloads.com/pub/&directory=/telefragged/be/fmods/other&filename=fbph.zip
+http://www.3ddownloads.com/downloadftp.php3?url=ftp://ftp2.hidden.org/pub/mirrors/&directory=/telefragged/be/fmods/other&filename=fbph.zip
+http://www.3ddownloads.com/downloadftp.php3?url=http://pelit.saunalahti.fi/telenation/&directory=/telefragged/be/fmods/other&filename=fbph.zip
+http://tux.telefragged.com/download.pl?dir=&filename=fixedsrc.zip&dir&dl=local
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.cybersol.com.au/pub/mirrors/fixedsrc.zip&dir&filename=fixedsrc.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.cybersol.com.au/pub/mirrors/telefragged/be/fmods/otherfixedsrc.zip&filename=fixedsrc.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/fixedsrc.zip&dir&filename=fixedsrc.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/telefragged/be/fmods/otherfixedsrc.zip&filename=fixedsrc.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.hidden.org/pub/mirrors/fixedsrc.zip&dir&filename=fixedsrc.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.hidden.org/pub/mirrors/telefragged/be/fmods/otherfixedsrc.zip&filename=fixedsrc.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.3ddownloads.com/pub/fixedsrc.zip&dir&filename=fixedsrc.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.3ddownloads.com/pub/telefragged/be/fmods/otherfixedsrc.zip&filename=fixedsrc.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.hidden.org/pub/mirror/fixedsrc.zip&dir&filename=fixedsrc.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.hidden.org/pub/mirrors/fixedsrc.zip&dir&filename=fixedsrc.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.hidden.org/pub/mirrors/telefragged/be/fmods/otherfixedsrc.zip&filename=fixedsrc.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation/fixedsrc.zip&dir&filename=fixedsrc.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation/telefragged/be/fmods/otherfixedsrc.zip&filename=fixedsrc.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=telefragged/be/fmods/other&filename=fixedsrc.zip&dl=local
+http://tux.telefragged.com/download.pl?dir=&filename=frogffa.zip&dir&dl=local
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.cybersol.com.au/pub/mirrors/frogffa.zip&dir&filename=frogffa.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.cybersol.com.au/pub/mirrors/telefragged/be/fmods/demosfrogffa.zip&filename=frogffa.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/frogffa.zip&dir&filename=frogffa.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/telefragged/be/fmods/demosfrogffa.zip&filename=frogffa.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.hidden.org/pub/mirrors/frogffa.zip&dir&filename=frogffa.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.hidden.org/pub/mirrors/telefragged/be/fmods/demosfrogffa.zip&filename=frogffa.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.3ddownloads.com/pub/frogffa.zip&dir&filename=frogffa.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.3ddownloads.com/pub/telefragged/be/fmods/demosfrogffa.zip&filename=frogffa.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.hidden.org/pub/mirrors/frogffa.zip&dir&filename=frogffa.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.hidden.org/pub/mirrors/telefragged/be/fmods/demosfrogffa.zip&filename=frogffa.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation/frogffa.zip&dir&filename=frogffa.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation/telefragged/be/fmods/demosfrogffa.zip&filename=frogffa.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=telefragged/be/fmods/demos&filename=frogffa.zip&dl=local
+http://tux.telefragged.com/download.pl?dir=&filename=gem_dm6.zip&dir&dl=local
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.cybersol.com.au/pub/mirrors/gem_dm6.zip&dir&filename=gem_dm6.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.cybersol.com.au/pub/mirrors/telefragged/be/fmods/demosgem_dm6.zip&filename=gem_dm6.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/gem_dm6.zip&dir&filename=gem_dm6.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.gamezone.mweb.co.za/pub/mirrors/telefragged/be/fmods/demosgem_dm6.zip&filename=gem_dm6.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.hidden.org/pub/mirrors/gem_dm6.zip&dir&filename=gem_dm6.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp.hidden.org/pub/mirrors/telefragged/be/fmods/demosgem_dm6.zip&filename=gem_dm6.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.3ddownloads.com/pub/telefragged/be/fmods/demosgem_dm6.zip&filename=gem_dm6.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.hidden.org/pub/mirrors/gem_dm6.zip&dir&filename=gem_dm6.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=ftp://ftp2.hidden.org/pub/mirrors/telefragged/be/fmods/demosgem_dm6.zip&filename=gem_dm6.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation/gem_dm6.zip&dir&filename=gem_dm6.zip&dir&dl=mirror
+http://tux.telefragged.com/download.pl?dir=http://pelit.saunalahti.fi/telenation/telefragged/be/fmods/demosgem_dm6.zip&filename=gem_dm6.zip&dl=mirror
+http://tux.telefragged.com/download.pl?dir=telefragged/be/fmods/demos&filename=gem_dm6.zip&dl=local
+
+
