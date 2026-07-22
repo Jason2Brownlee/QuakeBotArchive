@@ -146,6 +146,7 @@ Interference Bot | Chris Dozier aka "ArwingX" | interbotdm79z.zip<br>intarena.zi
 JawnMode (Frogbot) | "vb" aka "jawn" | fbcakt2.zip ([txt](bin/jawnmode.txt))<br>fbcakt2source.zip
 JBot | Jeffrey Lee | [jbot.zip](bin/jbot.zip)
 Jeht (Frikbots) | Dan Hale aka "Wazat" | [jeht15.zip](bin/jeht15.zip) ([txt](bin/jeht15.txt))<br>jeht14.zip<br>jeht131.zip<br>jeht13.zip<br>jeht12.zip<br>jeht11.zip<br>jeht10.zip
+Jest Bot | Eric Fortner aka "GBLW" | jestbot.zip
 JTeams (Frikbot) | "vb" aka "jawn" | [jteams.zip](bin/jteams.zip)<br>jteamssource.zip
 Kagero Bot | "The Kwanster" | [kagero.zip](bin/kagero.zip)
 KALQuake (Wisp) | Kenneth Livingston aka "-=CT=-KALWeb " | [kal_qk-p.zip](bin/kal_qk-p.zip) ([txt](bin/kal_qk-p.txt))<br>[kal_qk-s.zip](bin/kal_qk-s.zip) ([txt](bin/kal_qk-s.txt))

@@ -1230,6 +1230,9 @@ http://www.telefragged.com/mirrors/mirror.pl?qnm/fbedit15.zip
 # reaper port
 ftp://ftp.grayphics.com/pub/frigid/botblast/reaper08.sit.hqx
 
+# jest bot
+http://www.clanjest.co.uk/dl/jestbot.zip
+
 # other bot files...
 ftp://ftp.telefragged.com/pub/be/ents/OmiEdit01.zip
 http://203.32.12.18/project/placebot.zip

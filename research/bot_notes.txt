@@ -3977,6 +3977,10 @@ Humanoid
 		https://files.catbox.moe/0esyee.zip
 		https://drive.google.com/file/d/1VxKDyAf6AG3mPyQyg5vnfyzMlRv2A_Eb/view?usp=sharing
 			Humanoid.zip
+jestbot
+	http://www.clanjest.co.uk/dl/jestbot.html
+		https://web.archive.org/web/20010511152139/http://www.clanjest.co.uk/dl/jestbot.html
+	http://www.clanjest.co.uk/dl/jestbot.zip
 
 
 
