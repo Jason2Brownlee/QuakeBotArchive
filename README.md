@@ -41,6 +41,7 @@ Abandon All Hope (Cujo) | John McClure | [abnd2a.zip](bin/abnd2a.zip) ([txt](bin
 Accuracy FMOD (Frogbot) | Algirdas Kepezinskas aka "ZeCybEr" | accuracy.zip
 Ache (Frikbot) | Athos Konkoran Kryn | [ache.zip](bin/ache.zip)
 Arena Kooliobot | Robert de Heus aka "Koolio" | rakoolio.zip
+Argus | Shane Wall | [argus-v4.07.zip](bin/argus-v4.07.zip)<br>[argus-4.07.tar.gz](bin/argus-4.07.tar.gz)<br>[argus-4.07.zip](bin/argus-4.07.zip)<br>[argus-v3.74.zip](bin/argus-v3.74.zip)<br>[argus-3.74.tar.gz](bin/argus-3.74.tar.gz)<br>[argus-3.74.zip](bin/argus-3.74.zip)<br>[argus-v3.47.zip](bin/argus-v3.47.zip)<br>[argus-3.47.tar.gz](bin/argus-3.47.tar.gz)<br>[argus-3.47.zip](bin/argus-3.47.zip)<br>[argus-v3.41.zip](bin/argus-v3.41.zip)<br>[argus-3.41.tar.gz](bin/argus-3.41.tar.gz)<br>[argus-3.41.zip](bin/argus-3.41.zip)
 Asdf's FMOD (Frogbot) | Matt McChesney aka "asdf" | [asdfmod100.zip](bin/asdfmod100.zip)
 Attacker | Jonathan Geary | [attacker.zip](bin/attacker.zip) ([txt](bin/attacker.txt))
 Awesome (Warbot) | Brett King aka "BulkA" | [awesome.7z](bin/awesome.7z)

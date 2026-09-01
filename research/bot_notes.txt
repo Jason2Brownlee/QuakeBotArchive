@@ -3984,6 +3984,16 @@ jestbot
 Reapbot / Reaper Bot Reboot / mre
 	https://github.com/saworbit/mre
 	Shane Wall
+Argus
+	https://github.com/saworbit/argus
+	Shane Wall
+
+
+Argus | Shane Wall | [argus-v4.07.zip](bin/argus-v4.07.zip)<br>[argus-4.07.tar.gz](bin/argus-4.07.tar.gz)<br>[argus-4.07.zip](bin/argus-4.07.zip)<br>[argus-v3.74.zip](bin/argus-v3.74.zip)<br>[argus-3.74.tar.gz](bin/argus-3.74.tar.gz)<br>[argus-3.74.zip](bin/argus-3.74.zip)<br>[argus-v3.47.zip](bin/argus-v3.47.zip)<br>[argus-3.47.tar.gz](bin/argus-3.47.tar.gz)<br>[argus-3.47.zip](bin/argus-3.47.zip)<br>[argus-v3.41.zip](bin/argus-v3.41.zip)<br>[argus-3.41.tar.gz](bin/argus-3.41.tar.gz)<br>[argus-3.41.zip](bin/argus-3.41.zip)
+
+
+
+
 
 
 
