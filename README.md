@@ -202,6 +202,7 @@ Reaper + DM4 | Daniel Hein aka "Hades" | [dm4reaper.zip](bin/dm4reaper.zip) ([tx
 Reaper + Painkeep | ? | [pk-reap.zip](bin/pk-reap.zip)
 Reaper + Painkeep | Bent Svendsen aka "Decker" | [pkbot.zip](bin/pkbot.zip) ([txt](bin/pkbot.txt))
 Reaper + Scourge of Armagon | Bent Svendsen aka "Decker" | [hipreap3.zip](bin/hipreap3.zip) ([txt](bin/hipreap3.txt))
+Reapbot (Reaper Bot Reboot) | Shane Wall | [mre-progs.dat](bin/mre-progs.dat)<br>[mre-1.0.0.zip](bin/mre-1.0.0.zip)<br>[mre-1.0.0.tar.gz](bin/mre-1.0.0.tar.gz)
 [Reaper Bot](research/essays/b23_reaper.md) | Steven Polge | [reaprb81.zip](bin/reaprb81.zip) ([txt](bin/reaprb81.txt))<br>[reaprb80.zip](bin/reaprb80.zip) ([txt](bin/reaprb80.txt))<br>[reaprb75.zip](bin/reaprb75.zip) ([txt](bin/reaprb75.txt))<br>[reaprb07.zip](bin/reaprb07.zip) ([txt](bin/reaprb07.txt))<br>[reaprb06.zip](bin/reaprb06.zip) ([txt](bin/reaprb06.txt))<br>[reaprb05.zip](bin/reaprb05.zip) ([txt](bin/reaprb05.txt))
 Reaper DreamCast (ReaperDC) | Ludvig Holmstrom | [reaper2dc02.zip](bin/reaper2dc02.zip) ([txt](bin/reaper2dc02.txt))<br>[reaper2dc01.zip](bin/reaper2dc01.zip)
 ReaperFX Bot | Paul Johnstone aka "Pob the Impaler" | [reaperfx.zip](bin/reaperfx.zip) ([txt](bin/reaperfx.txt))

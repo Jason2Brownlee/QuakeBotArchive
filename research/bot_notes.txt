@@ -3981,8 +3981,9 @@ jestbot
 	http://www.clanjest.co.uk/dl/jestbot.html
 		https://web.archive.org/web/20010511152139/http://www.clanjest.co.uk/dl/jestbot.html
 	http://www.clanjest.co.uk/dl/jestbot.zip
-
-
+Reapbot / Reaper Bot Reboot / mre
+	https://github.com/saworbit/mre
+	Shane Wall
 
 
 
