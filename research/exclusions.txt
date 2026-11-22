@@ -1,0 +1,65 @@
+# false positives for wishlist.txt
+# either not the file we are after or a link that is mad
+
+# abandon1.zip
+http://crydee.sai.msu.ru/ftproot/pub/comp/os/os2/hobbes/multimedia/wave/wav/abandon1.zip
+
+# doombot.txt
+http://tux.telefragged.com/doomworld/mods/doombot.txt
+http://www.3ddownloads.com/doomworld/mods/doombot.txt
+
+# elim10.zip
+http://cd.textfiles.com/megarom2/UTILITY/DIR/ELIM10.ZIP
+http://ftp.epix.net/pub/simtelnet/msdos/dirutl/elim10.zip
+
+# rbot.zip
+http://www.fortunecity.com/underworld/gosub/335/RBot.zip
+http://www.fortunecity.com/underworld/pong/739/files/RBot.zip
+
+# obots101.sit
+ftp:///obots101.sit
+
+# qwprogs.zip (expected to be on ttinform.lv)
+http://icculus.org/twilight/file/qwprogs.zip
+http://oztf.quakeworld.nu/files/qwprogs.zip
+http://teamsweden.fragzone.se/files/qwprogs.zip
+http://www.flnet.nl/~jhbeck/qwprogs.zip
+https://www.maddes.net/temp/jason.brownlee/K2/QUAKE/ADDON/FlatEarth/qwprogs.zip
+
+#friktf-051901.zip
+http://us.rd.yahoo.com/reg/login1/no_test/suli/secure/us/ygrp/%2Ahttps%3A//login.yahoo.com/config/login?.src=ygrp&.v=0&.u=der0vdd135ldr&.last=&promo=&.intl=us&.bypass=&.partner=&pkg=&stepid=&.done=http%3A//groups.yahoo.com/group/friktf/files/friktf-051901.zip
+http://us.rd.yahoo.com/reg/login1/no_test/suli/secure/us/ygrp/%2Ahttps%3A//login.yahoo.com/config/login?.src=ygrp&.v=0&.u=fmu8ffd135ldv&.last=&promo=&.intl=us&.bypass=&.partner=&pkg=&stepid=&.done=http%3A//groups.yahoo.com/group/friktf/files/friktf-051901.zip
+http://us.rd.yahoo.com/reg/login1/no_test/suli/sihelp/us/ygrp/%2Ahttp%3A//login.yahoo.com/config/login?.src=ygrp&.intl=us&.help=1&.v=0&.u=der0vdd135ldr&.last=&.last=&promo=&.bypass=&.partner=&pkg=&stepid=&.done=http%3A//groups.yahoo.com/group/friktf/files/friktf-051901.zip
+http://us.rd.yahoo.com/reg/login1/no_test/suli/sihelp/us/ygrp/%2Ahttp%3A//login.yahoo.com/config/login?.src=ygrp&.intl=us&.help=1&.v=0&.u=fmu8ffd135ldv&.last=&.last=&promo=&.bypass=&.partner=&pkg=&stepid=&.done=http%3A//groups.yahoo.com/group/friktf/files/friktf-051901.zip
+
+# hw_frogbot.zip
+http://www.fileplanet.com/redir.asp?file=11868&archive=76&url=ftp://ftp.cdrom.com:21/pub/planetquake/holywars/hw_frogbot.zip
+
+# paddybot.zip
+http://www.fileplanet.com/redir.asp?file=28002&archive=22486&url=http://www.isleofmull56.freeserve.co.uk/paddybot.zip
+
+# sexbot11.zip
+http://www.fileplanet.com/redir.asp?file=3780&archive=22398&url=ftp://ftp.mirror.nl/pub/mirror/idgames2/partial_conversions/xrated/sexbot11.zip
+http://www.fileplanet.com/redir.asp?file=3780&archive=22399&url=ftp://ftp.gigabell.net/pub/Games/idgames/quake/partial_conversions/xrated/sexbot11.zip
+http://www.fileplanet.com/redir.asp?file=3780&archive=22554&url=ftp://ftp.datacomm.ch/pub/idgames2/partial_conversions/xrated/sexbot11.zip
+http://www.fileplanet.com/redir.asp?file=3780&archive=22626&url=ftp://mirror.aarnet.edu.au/pub/idgames2/partial_conversions/xrated/sexbot11.zip
+http://www.fileplanet.com/redir.asp?file=3780&archive=32&url=ftp://ftp.cdrom.com/pub/idgames2/partial_conversions/xrated/sexbot11.zip
+http://www.fileplanet.com/redir.asp?file=3780&archive=35&url=ftp://ftp.epix.net/pub/idgames2/partial_conversions/xrated/sexbot11.zip
+http://www.fileplanet.com/redir.asp?file=3780&archive=37&url=ftp://sunsite.doc.ic.ac.uk/packages/idgames2/partial_conversions/xrated/sexbot11.zip
+http://www.fileplanet.com/redir.asp?file=3780&archive=37&url=http://sunsite.doc.ic.ac.uk/packages/idgames2/partial_conversions/xrated/sexbot11.zip
+http://www.fileplanet.com/redir.asp?file=3780&archive=38&url=ftp://ftp.compulink.co.uk/pub/games/id/quake/partial_conversions/xrated/sexbot11.zip
+http://www.fileplanet.com/redir.asp?file=3780&archive=39&url=ftp://ftp.sunet.se/pub/pc/games/idgames2/partial_conversions/xrated/sexbot11.zip
+http://www.fileplanet.com/redir.asp?file=3780&archive=41&url=ftp://ftp.sci.fi/pub/idgames2/partial_conversions/xrated/sexbot11.zip
+http://www.fileplanet.com/redir.asp?file=3780&archive=43&url=ftp://ftp.task.gda.pl/pub/games/idgames2/partial_conversions/xrated/sexbot11.zip
+http://www.fileplanet.com/redir.asp?file=3780&archive=45&url=ftp://ftp.iis.com.br/pub/mirror/Quake/partial_conversions/xrated/sexbot11.zip
+
+# req.txt (expected to be for Requiem)
+https://archive.org/download/250-power-game-pack/250_Power_Game_Pack.iso/DEMO/BODYCONT/REQ.TXT
+https://archive.org/download/games-galaxy/Games_Galaxy.iso/GAMES/BODYCNT/REQ.TXT
+https://archive.org/download/silver-label-plus-best-of-game-classics-disk-1/Silver_Label_Plus_Best_of_Game_Classics_Disk1.iso/ACTION/RUN/REQ.TXT
+https://archive.org/download/the-home-edutainment-collection-volume-4/The_Home_Edutainment_Collection_Volume_4.iso/BODYCNT/REQ.TXT
+https://archive.org/download/the-video-game-solution-cd-2.0/The_Video_Game_Solution_CD_2.0.iso/DEMOS/PRO1/REQ.TXT
+
+# var20.zip
+https://archive.org/download/1000-game-levels-vol-2/1000_Game_Levels_Vol2.iso/DOSCARD/VAR20.ZIP
+https://archive.org/download/dr-games/Dr_Games.iso/CARD/ZIP/VAR20.ZIP

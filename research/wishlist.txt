@@ -439,7 +439,6 @@ waypoints_maker.rar
 win_bm.zip
 wlbot1.9.zip
 wyrmb1.zip
-wyrmb15.zip
 xkteams1705.zip
 xkteams1705s.zip
 xkteams2.zip

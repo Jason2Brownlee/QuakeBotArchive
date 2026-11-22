@@ -675,12 +675,10 @@ http://www.acornarcade.com/downloads/quake/warbot.zip
 http://www.telefragged.com/fragstain/qdevels/ftp/warbot.zip
 
 # wyrmb
-ftp://ftp.cdrom.com/pub/quake/quakec/compilations/wyrmb15.zip
 http://home.telefragged.com/wyrm/wyrm/wyrmb17.txt
 http://idgames.gameaholic.com/idgames/quakec/compilations/wyrmb2f.txt
 http://www.fileaholic.com/idgames/quakec/compilations/wyrmb2f.txt
 http://www.telefragged.com/wyrm/wyrm/wyrmb17.txt
-http://www.time2quake.com/filez/quakec/compilations/wyrmb15.zip
 
 # xkteams
 http://xmark.ausgamers.com/pphlogger/dlcount.php?id=xmark&url=http://xmark.ausgamers.com/xkteams/xkteams1705.zip
