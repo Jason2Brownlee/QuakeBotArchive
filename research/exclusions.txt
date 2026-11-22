@@ -9,6 +9,8 @@ http://tux.telefragged.com/doomworld/mods/doombot.txt
 http://www.3ddownloads.com/doomworld/mods/doombot.txt
 
 # elim10.zip
+http://cd.textfiles.com/megarom/megarom1/DIRUTL/ELIM10.ZIP
+http://cd.textfiles.com/megarom1/DIRUTL/ELIM10.ZIP
 http://cd.textfiles.com/megarom2/UTILITY/DIR/ELIM10.ZIP
 http://ftp.epix.net/pub/simtelnet/msdos/dirutl/elim10.zip
 
@@ -63,3 +65,5 @@ https://archive.org/download/the-video-game-solution-cd-2.0/The_Video_Game_Solut
 # var20.zip
 https://archive.org/download/1000-game-levels-vol-2/1000_Game_Levels_Vol2.iso/DOSCARD/VAR20.ZIP
 https://archive.org/download/dr-games/Dr_Games.iso/CARD/ZIP/VAR20.ZIP
+http://cd.textfiles.com/smsharew2/GAMES2/VAR20.ZIP
+http://cd.textfiles.com/sprintos6/CARDS/VAR20.ZIP
