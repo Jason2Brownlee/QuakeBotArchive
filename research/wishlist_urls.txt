@@ -37,12 +37,28 @@ http://www.3ddownloads.com/downloadftp.php3?url=ftp://ftp2.hidden.org/pub/mirror
 http://www.3ddownloads.com/downloadftp.php3?url=http://pelit.saunalahti.fi/telenation/&directory=/telefragged/be/fmods&filename=stfm10.zip
 
 # ClanBots
+
+# clanv0.5auto.zip
+https://www.geocities.ws/oldquaker/clanbot/files/ClanV0.5Auto.zip
 http://www.users.bigpond.com/clanslug/ClanV0.5Auto.zip
+# clanv0.5man.zip
+https://www.geocities.ws/oldquaker/clanbot/files/ClanV0.5Man.zip
 http://www.users.bigpond.com/clanslug/ClanV0.5Man.zip
+# clanv0.6auto.zip
+https://www.geocities.ws/oldquaker/clanbot/files/ClanV0.6Auto.zip
 http://www.users.bigpond.com/clanslug/ClanV0.6Auto.zip
+# clanv0.7eman.zip
+https://www.geocities.ws/oldquaker/clanbot/files/ClanV0.7EMan.zip
 http://www.users.bigpond.com/clanslug/ClanV0.7EMan.zip
 http://www.users.bigpond.com/clanslug/ClanV0.7HMan.zip
+# clanbotv0.9b.zip
+https://www.geocities.ws/oldquaker/clanbot/files/ClanbotV0.9b.zip
 http://www.users.bigpond.com/clanslug/ClanbotV0.9b.zip
+
+# csbot1.dem
+https://www.geocities.ws/oldquaker/csbot/files/csbot1.dem
+# csbot6703.zip
+https://www.geocities.ws/oldquaker/csbot/files/csbot6703.zip
 
 # TD-BOT
 http://membro.intermega.com.br/gqc/tdbot1_0.zip
@@ -703,6 +719,7 @@ ftp://bluesnews.com/pub/client_bots/trmbot07.zip
 # tEdbot
 http://www.labyrinth.net.au/~adsoft/navtest2.zip
 http://www.labyrinth.net.au/~adsoft/tedbot/navtest2.zip
+https://www.geocities.ws/oldquaker/tedbot/files/navtest2.zip
 
 # SlugBot
 http://www.users.bigpond.com/clanslug/termslug.zip
@@ -713,6 +730,9 @@ http://www.users.bigpond.com/clanslug/termslugv1.27.zip
 http://www.users.bigpond.com/clanslug/termslugv1.29.zip
 http://www.users.bigpond.com/clanslug/termslugv1.32.zip
 http://www.users.bigpond.com/clanslug/slugaxbotVf.zip
+https://www.geocities.ws/oldquaker/clanbot/files/termslug.zip
+https://www.geocities.ws/oldquaker/clanbot/files/termslugv1.27.zip
+https://www.geocities.ws/oldquaker/clanbot/files/termslugv1.29.zip
 
 # SeismoBot
 ftp://ftp.torget.se/pub/games/quake/quakec/seismo14.zip
@@ -746,11 +766,15 @@ http://www.geocities.ws/oldquaker/richmark/files/glkolor.zip
 http://www.geocities.ws/oldquaker/richmark/files/glqb17f.zip
 http://www.geocities.ws/oldquaker/richmark/files/qb17f.zip
 http://www.geocities.ws/oldquaker/richmark/files/wqb17f.zip
+http://www.quake-1.com/files/engine-sources/qb16src.zip
 http://www.quakebot.net/glkolor.zip
 http://www.quakebot.net/glqb17f.zip
 http://www.quakebot.net/qb17f.zip
 http://www.quakebot.net/wqb17f.zip
-http://www.quake-1.com/files/engine-sources/qb16src.zip
+https://www.geocities.ws/oldquaker/richmark/files/glkolor.zip
+https://www.geocities.ws/oldquaker/richmark/files/glqb17f.zip
+https://www.geocities.ws/oldquaker/richmark/files/qb17f.zip
+https://www.geocities.ws/oldquaker/richmark/files/wqb17f.zip
 
 # GenBot
 http://asp.planetquake.com/dl/dl.asp?/botshop/quakeworld-20000102.tar.gz
@@ -781,6 +805,7 @@ http://members.tripod.com/tf_cheats/kl33n3x-cfg.zip?1
 
 # boognaut.zip
 http://www.mindspring.com/~jamesloe/boognaut.zip
+https://www.geocities.ws/oldquaker/superchicken/files/boognaut.zip
 
 # zeus202b.zip
 http://www.cdrom.com/pub/idgames2/newstuff/zeus202b.zip
