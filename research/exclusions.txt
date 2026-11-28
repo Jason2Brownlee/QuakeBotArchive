@@ -12,6 +12,8 @@ http://www.3ddownloads.com/doomworld/mods/doombot.txt
 http://cd.textfiles.com/megarom/megarom1/DIRUTL/ELIM10.ZIP
 http://cd.textfiles.com/megarom1/DIRUTL/ELIM10.ZIP
 http://cd.textfiles.com/megarom2/UTILITY/DIR/ELIM10.ZIP
+http://cd.textfiles.com/simtel0692/MSDOS/DIRUTL/ELIM10.ZIP
+http://cd.textfiles.com/simtel20/MSDOS/DIRUTL/ELIM10.ZIP
 http://ftp.epix.net/pub/simtelnet/msdos/dirutl/elim10.zip
 
 # rbot.zip
@@ -63,7 +65,9 @@ https://archive.org/download/the-home-edutainment-collection-volume-4/The_Home_E
 https://archive.org/download/the-video-game-solution-cd-2.0/The_Video_Game_Solution_CD_2.0.iso/DEMOS/PRO1/REQ.TXT
 
 # var20.zip
+http://cd.textfiles.com/smsharew2/GAMES2/VAR20.ZIP
+http://cd.textfiles.com/somuch/smsharew2/GAMES2/VAR20.ZIP
+http://cd.textfiles.com/sprintos6/CARDS/VAR20.ZIP
 https://archive.org/download/1000-game-levels-vol-2/1000_Game_Levels_Vol2.iso/DOSCARD/VAR20.ZIP
 https://archive.org/download/dr-games/Dr_Games.iso/CARD/ZIP/VAR20.ZIP
-http://cd.textfiles.com/smsharew2/GAMES2/VAR20.ZIP
-http://cd.textfiles.com/sprintos6/CARDS/VAR20.ZIP
+
